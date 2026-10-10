@@ -1,0 +1,60 @@
+TA 6M: Waste Heat Recovery
+
+
+     7  Lawrence Berkeley National Laboratory (LBNL) and American Council for an Energy-Efficient Economy (ACEEE), Emerging Energy-Efficient
+       Industrial Technologies, October 2000. Available at: http://escholarship.org/uc/item/5jr2m969
+     8  McKinsey & Company, Unlocking Energy Efficiency in the U.S. Economy, July 2009. Available at: http://www.mckinsey.com/client_service/
+      electric_power_and_natural_gas/latest_thinking/unlocking_energy_efficiency_in_the_us_economy
+     9  U.S. DOE Office of Energy Efficiency & Renewable Energy, 2010 Manufacturing Energy and Carbon Footprints: Definitions and Assumptions.
+      Available at: http://energy.gov/sites/prod/files/2014/02/f7/AMO_footprints_definitions_and_assumptions_2014_update.pdf.
+     10 U.S. DOE Office of Energy Efficiency & Renewable Energy, 2010 Manufacturing Energy and Carbon Footprints. Available at: http://energy.gov/
+      eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+     11 U.S. DOE Office of Energy Efficiency & Renewable Energy, 2010 Manufacturing Energy and Carbon Footprint – All Manufacturing. Available
+        at: http://energy.gov/sites/prod/files/2015/10/f27/manufacturing_energy_footprint-2010.pdf
+     12 Energetics Incorporated for Oak Ridge National Laboratory, U.S. Manufacturing Energy Use and Greenhouse Gas Emissions Analysis, prepared
+       for the U.S. Department of Energy, Industrial Technologies Program, 2012. Available at: http://www.energy.gov/eere/amo/downloads/us-
+      manufacturing-energy-use-and-greenhouse-gas-emissions-analysis.
+     13 Losses from process heating in the U.S. manufacturing sector total over 2.5 quads, as shown in the U.S. DOE Advanced Manufacturing
+      Office (AMO) static Sankey diagram of process energy flows (http://www.energy.gov/eere/amo/static-sankey-diagram-process-energy-us-
+      manufacturing-sector). Process heating losses in individual manufacturing subsectors can be explored using the AMO Dynamic Manufacturing
+     Energy Sankey Tool (http://www.energy.gov/eere/amo/dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu). All these loss
+     numbers are first law of thermodynamics estimates of losses.
+     14  Pacific Northwest National Laboratory (PNNL) and BCS, Incorporated, Engineering Scoping Study of Thermoelectric Generator (TEG) Systems
+       for Industrial Waste Heat Recovery, prepared for the U.S. Department of Energy, Industrial Technologies Program, November 2006. Available at:
+      https://www1.eere.energy.gov/manufacturing/industries_technologies/imf/pdfs/teg_final_report_13.pdf
+     15 A thermoelectric material’s efficiency of converting heat to electricity is characterized by the dimensionless figure of merit ZT = (σS2T)/k where
+     σ is the electrical conductivity, S is the Seebeck coefficient, T is the temperature, and k is the thermal conductivity. Thermoelectric materials
+      with a ZT of ~1 are widely available. Advanced materials have now been demonstrated with a ZT of 2 and higher.
+     16 Oak Ridge National Laboratory (ORNL) and E3M Inc., Technologies and Materials for Recovering Waste Heat in Harsh Environments, Sachin
+      Nimbalkar, Arvind Thekdi, et.al., ORNL/TM-2014/619. Available at: http://info.ornl.gov/sites/publications/files/Pub52939.pdf
+     17 U.S. DOE Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available at: http://www.energy.gov/eere/amo/
+      dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu. Note that sources of waste heat losses include high temperature exhaust
+       gases, in addition to hot surfaces, hot liquids, and hot products. The Recoverable Potential column in this table only examines the recoverable
+      potential for WHR from high temperature exhaust gases. The process heating losses column shows the total process heating losses in each
+       sector, irrespective of recovery potential.
+     18 Drew Robb, “Supercritical CO2 – The Next Big Step? Special Report, Turbomachinery International 53, No. 5, pp. 22-28, September/October
+      2012.
+     19 The barrier categories are described in the Waste Heat Recovery: Technology and Opportunities in U.S. Industry report as follows:
+       • Long payback periods: Costs of heat recovery equipment, auxiliary systems, and design services lead to long payback periods in certain
+          applications.
+       •  Material Constraints and Costs: Certain applications require advanced and more costly materials. These materials are required for high­
+        temperature streams, streams with high chemical activity, and exhaust streams cooled below condensation temperatures. Overall material
+         costs per energy unit recovered increase as larger surface areas are required for more efficient, lower­temperature heat recovery systems
+       •  Maintenance Costs: Corrosion, scaling, and fouling of heat exchange materials lead to higher maintenance costs and lost productivity.
+       • Economies of Scale: Equipment costs favor large-scale heat recovery systems and create challenges for small-scale operations
+       •  Lack of End-Use: Many industrial facilities do not have an on site use for low-temperature heat. In addition, technologies that create end­use
+         options (e.g., low­ temperature power generation) are currently less developed and more costly.
+       •  Heat Transfer Rates: Small temperature differences between the heat source and heat sink lead to reduced heat transfer rates and require
+          larger surface areas.
+       •  Environmental concerns: WHR from exhaust streams may complicate or alter the performance of environmental control and abatement
+        equipment.
+       •  Process Control and Product Quality: Chemically active exhaust streams may require additional efforts to prevent cross ­contamination
+        between streams.
+       •  Process-Specific Constraints: Equipment designs are process specific and must be adapted to the needs of a given process. For example, feed
+         preheat systems vary significantly between glass furnaces, blast furnaces, and cement kilns.
+       •  Inaccessibility: It is difficult to access and recover heat from unconventional sources such as hot solid product streams (e.g., ingots) and hot
+        equipment surfaces (e.g., sidewalls of primary aluminum cells).
+
+
+
+34  Quadrennial Technology Review 2015

@@ -1,0 +1,49 @@
+       microturbine installations experienced availability problems; however, commercial units put in
+        service today should also show availabilities over 95 percent.
+
+1.2  CHP Efficiency Compared to Separate Heat and Power
+Many of the benefits of CHP stem from the relatively high efficiency of CHP systems compared to other
+systems. Because CHP systems simultaneously produce electricity and useful thermal energy, CHP
+efficiency is measured and expressed in a number of different ways.3 A brief discussion of these
+measures is provided below, while Appendix A provides a more detailed discussion.
+
+The efficiency of electricity generation in power-only systems is determined by the relationship between
+net electrical output and the amount of fuel used for the power generation. Heat rate, the term often
+used to express efficiency in such power generation systems, is represented in terms of Btus of fuel
+consumed per kWh of electricity generated. However, CHP plants produce useful heat as well as
+electricity. In CHP systems, the total CHP efficiency seeks to capture the energy content of both
+electricity and usable steam and is the net electrical output plus the net useful thermal output of the
+CHP system divided by the fuel consumed in the production of electricity and steam. While total CHP
+efficiency provides a measure for capturing the energy content of electricity and steam produced it does
+not adequately reflect the fact that electricity and steam have different qualities. The quality and value
+of electrical output is higher relative to heat output and is evidenced by the fact that electricity can be
+transmitted over long distances and can be converted to other forms of energy. To account for these
+differences in quality, the Public Utilities Regulatory Policies Act of 1978 (PURPA) discounts half of the
+thermal energy in its calculation of the efficiency standard (EffFERC). The EFFFERC is represented as the
+ratio of net electric output plus half of the net thermal output to the total fuel used in the CHP system.
+
+Another definition of CHP efficiency is effective electrical efficiency, also known as fuel utilization
+effectiveness (FUE). This measure expresses CHP efficiency as the ratio of net electrical output to net
+fuel consumption, where net fuel consumption excludes the portion of fuel that goes to producing
+useful heat output. FUE captures the value of both the electrical and thermal outputs of CHP plants and
+it specifically measures the efficiency of generating power through the incremental fuel consumption of
+the CHP system.
+
+EPA considers fuel savings as the appropriate term to use when discussing CHP benefits relative to
+separate heat and power (SHP) operations. Fuel savings compares the fuel used by the CHP system to a
+separate heat and power system (i.e. boiler and electric-only generation). Positive values represent fuel
+savings while negative values indicate that the CHP system in question is using more fuel than separate
+heat and power generation.
+
+Figure 1-1 shows the efficiency advantage of CHP compared with conventional central station power
+generation and onsite boilers. When considering both thermal and electrical processes together, CHP
+typically requires only ¾ the primary energy separate heat and power systems require. CHP systems
+
+
+
+3 Measures of efficiency are denoted either as lower heating value (LHV) or higher heating value (HHV). HHV includes the heat
+of condensation of the water vapor in the products. Unless otherwise noted, all efficiency measures in this section are reported
+on an HHV basis.
+
+
+Catalog of CHP Technologies                             1-8                                      Introduction

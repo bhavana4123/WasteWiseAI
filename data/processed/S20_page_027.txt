@@ -1,0 +1,44 @@
+                                                                                                                                                                         Filter
+    Sludge Slurry
+
+                                                          Heat
+                           Twin-Screw                                                            Exchangers             Fired
+                         Feeder / Pump                                         Preheaters          HTL Plug Flow
+                                                                                                           Reactors            Ash+Char
+
+
+                                                                                       Natural Gas
+
+                                                                                     Off Gas
+                                                            Three-Phase
+                                                                Separator
+                                                                                                  Aqueous to Treatment
+
+
+
+
+
+                                                                                                              Biocrude to Upgrader
+
+
+                            Figure 4. Process flow for sludge HTL.
+
+2.3.1   Sludge HTL Design Basis
+
+    Table 5 shows the experimental testing conditions and product results for the primary/secondary
+sludge and the modeled parameters used for the goal case design. The experimental data were collected
+from PNNL’s bench scale system similar to previous studies (Elliott et al. 2013; Marrone 2016).
+Biocrude yield and feed solids content are important cost drivers that can be improved with further
+research. As such, these parameters have been improved for the goal case relative to the experimental
+results, with values the experimental team expects can be realized with further research. While there are
+potentially thousands of individual compounds present in the biocrude, a simplified list of chemical
+compounds is used in the process model. This analysis assumes the same set of compounds modeled in
+the previous analysis for algae HTL and biocrude upgrading (Jones et al. 2014), as listed in Appendix C.
+This is a reasonable assumption, as biocrude from wastewater sludge has been shown to be similar in
+composition to biocrude from algae (Jarvis et al. 2017).
+
+
+
+
+
+                                         12

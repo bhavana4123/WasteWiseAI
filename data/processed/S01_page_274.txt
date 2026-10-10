@@ -1,0 +1,48 @@
+                                                 Woody and Tree Materials
+
+
+SWEETGUM; Liquidambar styraciflua; solid; Material was collected from the southern
+   Atlantic and Gulf coastal plains in bottom-, swamp- and wet flat-land natural stand
+    sites. Samples were dried at 70°C (158OF)to a constant weight; reported values were
+   averaged over all positions of similar plant tissue for each tree and six trees per
+   species were used.
+
+   gross heat of combustion: assume values refer to room temperature; values ate on a
+   dry weight basis.
+
+   bole wood                               branch wood
+   qv(gross)  8194 Btu lb- 1                                           1                                                qv(gross) = 8239 Btu Ib-
+   qv(gross)  4552 cal g-l                     qv(gtoss) = 4577 cal g-l
+   qv(gross)  19046 J g-'                         q,(gtoss)  = 19150 J g-l
+
+   bole bark                                branch bark
+
+    q,(gross) = 7555 Btu lb-I                      q,(gross) = 7902 Btu lb-I
+    q,(gross) = 4197 cal g-l                        q,(gross)  = 4390 cal g-l
+    q,(gross) = 17560 J g-'                         q,(gross) = 18368 3 g-l
+
+   foliage
+
+                    1   qv(gross) = 8500 Btu lb-
+   qv(gross) = 4722 cal g-l
+    q,(gross)   19757 J g-l
+
+                                                   82GOW/FRE
+
+SWEETGUM, BARK; Liquidambar styraciflua; solid; gross heat of combustion determined
+   on 1 g samples of air-dried bark; ash content = 5.7%; moisture content = 6.2%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+
+    qv(gross) = 7450 Btu Ib-I
+    q,(gross) = 4139 cal gi1
+   qv(gross) = 17318 J g
+
+                                                           55CHA/MIT
+
+
+
+
+
+                                        297

@@ -1,0 +1,60 @@
+                                             5.3 Charcoal Gasifiers
+                                                 Updraft charcoal gasifiers were the  first to be                                Gas
+                                                   developed for vehicle operation. They are suitable only
+                                                           for low-tar fuels such as charcoal and coke. Figure 5-4
+                                               shows an updraft charcoal gasifier that was used in the
+                                                          early part of World War II. Air enters the updraft gasifier
+                                                  from below the grate and flows upward through the bed
+                                                            to produce a combustible gas (Kaupp 1984a). High
+                                                      temperatures at the air inlet can easily cause slagging
+                                                        or destruction of the grate, and often some steam or CO2
+                                                                       is added to the inlet air to moderate the grate tempera­
+                                                                 ture. Charcoal updraft gasifiers are characterized by
+                                                      comparatively long starting times and poor response
+                                                    because of the large thermal mass of the hearth and fuel                 Hearth Zone
+                                                        zone.
+                                                      Charcoal manufacture is relatively simple and is car­
+                                                           ried on in most countries. However, it requires tight
+                                                            controls on manufacturing conditions to produce a              Ash Zone
+                                                        charcoal low in volatile content that is suitable for use
+Fig. 5-3. Diagram of updraft gasification (Source: Skov 1974 Fig. 9.     in charcoal gasifiers.© 1974. Used with permission of Biomass Energy Foundation, Inc.)
+
+(5%-20%) (Desrosiers 1982) makes them impractical    5.4 Charcoal versus Biomass Fuels
+for high volatile fuels where a clean gas is required.                                                      High-grade charcoal is an attractive fuel for gasifiers be­
+Fluidized beds are favored by many designers for    cause producer gas from charcoal, which contains very
+gasifiers producing m OTe than 40 GJ(th)/h*       little tar and condensate, is the simplest gas to clean.
+[40 MBtu(th)/hl and for gasifiers using smaller particle     Charcoal gasifiers were restricted over much of Europe
+feedstock sizes. In a fluidized bed, air rises through a     during the later years of World War II because charcoal
+grate at high enough velocity to levitate the particles
+above the grate, thus forming a "fluidized bed." Above
+the bed itself the vessel increases in diameter, lowering
+the gas velocity and causing particles to recirculate
+within the bed itself. The recirculation results in high
+heat and mass transfer between particle and gas stream.
+Suspended particle gasifiers move a suspension of                                   Water
+biomass particles through a hot furnace, causing                      Hopper                Blower
+pyrolysis, combustion, and reduction to give producer
+gas. Neither fluidized bed nor suspended particle
+gasifiers have been developed for small-scale engine
+use.
+We have already mentioned that gasifier designs will
+differ for different feedstocks, and special gasifiers
+have been developed to handle specific forms of
+biomass feedstocks, such as municipal solid wastes
+(MSW) and rice hulls.
+The manner in which ash is removed determines
+whether the gasifier is classified as either a dry ash (ash
+is removed as a powder) or slagging (ash is removed as
+a molten slag) gasifier. Slagging updraft gasifiers for                                                       Outlet
+                         -
+biomass and coal have been operated at only a very                              Fire
+large scale.
+
+
+*The units Hth) and Btu(th) refer to the thennal or chemical energy
+produced. This can be converted to electricity with an efficiency of
+10% to 40%. so the electrical energy content (J or Btu) will be propor­      Rg. 5-4. Updraft coke and charcoal gasifier, early World War II(Source:
+tionally lower.                                            Kaupp 1984a, Fig. 27)
+
+
+                                                                                               Gasifier Designs    31

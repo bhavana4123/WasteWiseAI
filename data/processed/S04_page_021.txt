@@ -1,0 +1,28 @@
+utilize less fuel than separate heat and power generation, resulting for the same level of output,
+resulting in fewer emissions.
+
+        Figure 1-1. CHP versus Separate Heat and Power (SHP) Production4
+
+
+
+
+
+Another important concept related to CHP efficiency is the power-to-heat ratio. The power-to-heat
+ratio indicates the proportion of power (electrical or mechanical energy) to heat energy (steam or hot
+water) produced in the CHP system. Because the efficiencies of power generation and steam generation
+are likely to be considerably different, the power-to-heat ratio has an important bearing on how the
+total CHP system efficiency might compare to that of a separate power-and-heat system. Figure 1-2
+illustrates this point. The figure shows how the overall efficiency might change under alternate power-
+to-heat ratios for a separate power-and-heat system and a CHP system.
+
+
+
+
+
+4 In this example of a typical CHP system, to produce 75 units of useful energy, the conventional generation or separate heat
+and power systems use 147 units of energy—91 for electricity production and 56 to produce heat—resulting in an overall
+efficiency of 51 percent. However, the CHP system needs only 100 units of energy to produce the 75 units of useful energy from
+a single fuel source, resulting in a total system efficiency of 75 percent.
+
+
+Catalog of CHP Technologies                             1-9                                      Introduction

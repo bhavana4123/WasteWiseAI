@@ -1,0 +1,48 @@
+I                                                                     Alloys and Metals
+
+
+
+  TITANIUM, Ti-75A; solid; composition: titanium, 99.75%; iron, 0.07%; oxygen, 0.131%;
+     nitrogen, 0.048%; carbon, 0.06%; hydrogen, 0.0068%.
+
+     specific heat: 294-1033 K (70°-1400"F)
+                                                        -8 T2                                                                          x 10   C (Btu Ib-I OF-')    = 0.1252 - 6.725 x    T + 4.799      P                                                                    -7  2   C - ( c a l 8 K-I)     = 0.1384 - 9.1526 x    T + 1.555  x 10  T
+                                                       x    T + 6.506 x     T2      C;(J g-7 K -1 )  .     = 0.5791 - 3.8294
+
+                                                               5610e
+
+  TITANIUM, Ti-ISOA; solid; composition: titanium, 95.65%; chromium, 2.7 1%; iron,
+      1.40%; oxygen, 0.105%; nitrogen, 0.076%; carbon, 0.05%; hydrogen, 0.0092%.
+
+      specific heat: 294-1033 K (70°-14000F)
+
+     Cp(Btu lb-   OF-')    = 0.1302 - 6.725 x    T + 4.799 x    T2
+                                                                          -7 T2     Cp(cal q -1 K-1)     = 0.1434 - 9.1526 x     T + 1.555 x 10
+     Cp(J g-  K-l)       = 0.6000 - 3.8294 x    T + 6.506 x    T2
+
+                                                               5610e
+
+ WOODS METAL; solid; low melting fusible alloy; composition:  tin, 12.5 wt. 96; cadmium,
+      12.5 wt. %; lead, 25 wt. %; bismuth, 50 wt. %.
+
+      specific heat: there is a superconducting transition at 4.8 K (-450.7"F).
+
+      tern erature
+     (KP  (OF)        Cp(Btu lb-I   OF-')         Cp(cal g-1         Cp(J g-' K-l)
+
+        1.5    -456.7             0.0000048             0.0000048          0.00002
+      2      -455.8              0.0000 14                0.0000 14           0.00006
+      3     -454               0.000057               0.000057           0.00024
+       4     -452                0.00015                  0.000 15            0.00062
+      6     -448.6             0.00069                0.00069             0.0029
+      10    -441.4             0.0032                 0.0032              0.0134
+      15     -432.4              0.0071                  0.0071              0.0297
+      20     -423.4              0.01 10                 0.0110              0.0460
+
+                                                        54PARIQUA
+
+
+
+
+
+                                         49

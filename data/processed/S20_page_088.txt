@@ -1,0 +1,45 @@
+                                 - Process Efficiency Metrics
+
+    In addition to setting technical and economic targets, BETO determines process efficiency metrics
+that can be used to estimate environmental sustainability of biofuels/products pathways, including product
+yield, carbon efficiency, energy inputs, and water consumption. These metrics are used in supply chain
+sustainability analyses for the pathways using the GREET (ANL 2016a) and WATER (ANL 2016b)
+models. Table F.1 lists metric values for the HTL plant (sludge to biocrude) and the overall sludge to
+upgraded fuel conversion process. Solids reduction efficiency is also listed for the sludge HTL process as
+it is of particular interest to WWTPs for any sludge treatment strategy under consideration.
+
+
+       Table F.1. Process efficiency metrics for sludge HTL and biocrude upgrading goal case.
+
+                                                                Sludge to       Overall Sludge to
+                       Process Efficiency Metric                    Biocrude       Fuel Blendstocks
+       Product Yield (% w/w of feedstock)a                    48%          39%
+       Carbon Efficiency of Conversion Process
+      % C in fuel / feedstock                           72%          64%
+      % C in fuel / feedstock + natural gas                  66%          53%
+       Net Electricity Import (kWh/gge product)                          1.6                 2.0
+       Purchased Natural Gas Import (million Btu/gge product)b          0.02               0.04
+       Product Energy / Input Energy (LHV)c                             4.2                 2.8
+       Water Consumption (gal/gge product)                            0.05                1.2
+        Solids Reduction, %
+          Dry basis                                   76%                 n/a
+           Dry, ash-free basis                             89%
+
+         (a) On a dry, ash-free basis
+        (b) Calculated using natural gas lower heating value of 21,152 Btu/lb from process model.
+         (c)  Includes only direct inputs of electricity and natural gas (for HTL and THROX unit). Biocrude
+        transport energy not included.
+
+References
+
+ANL. 2016a. Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation (GREET)
+Model. Argonne National Laboratory, Argonne, IL.                                     .
+
+ANL. 2016b. Water Analysis Tool for Energy Resources (WATER). Argonne National Laboratory,
+Argonne, IL.
+
+
+
+
+
+                                               F.1

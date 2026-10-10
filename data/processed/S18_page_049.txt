@@ -1,0 +1,51 @@
+Because we have assumed a fed-batch fermentation, the working volume varies over time, along
+with the OTR and aeration rate in vvm (standard volume of air per volume of liquid per minute),
+which are volumetric quantities. In absolute terms, the average aeration rate for a VG of 200
+cm/min was 0.83 standard m3/s (including two days of offline time). The average impeller power
+P was determined to be 260 kW (350 hp), with a maximum of 600 kW (800 hp). The final
+specifications for the cellulase production bioreactors are shown in Table 19.
+
+                Table 19. Specifications of the Enzyme Production Bioreactors
+                         Total volume                 300 m3 / 80,000 gal
+                  Maximum working volume      80%
+                   H/D ratio                     2
+                       Height                          11.5 m
+                      Diameter                       5.75 m
+                       Operating pressure            1 atm
+                       Operating temperature          28°C (82°F)
+                         Material                    316SS
+                          Agitator                     800 hp
+
+Four trains of three seed fermentors provide inoculum to the production bioreactors. Each vessel
+in the seed trains is run batchwise on the same substrate as the production vessels. Air is also
+sparged through each of the seed vessels, which are cooled with chilled water. The seed
+bioreactors are each sized at 10% of the next bioreactor volume, i.e., 0.3 m3, 3 m3, and 30 m3.
+The aeration demand is assumed to be 10% of the production aeration rate. Four trains were
+chosen because each production fermentor has a total cycle time of 7 days, while each seed
+fermentor should have a cycle time of 2 days (including cleaning and sterilization) to get through
+the cell growth phase only.
+
+Like the oxygen uptake rate, the glucose demand is also computed stoichiometrically from the
+required protein production rate. Ammonia and SO2 are fed to the reactors stoichiometrically and
+CSL, trace nutrients, and antifoam (corn oil) are added to the substrate based on flow rate. The
+required nutrient concentrations are taken from Schell et al. [58] and are restated in Table 20.
+
+                    Table 20. Cellulase Production Nutrient Requirements
+               Component        Amount
+                Ammonia               Stoichiometric (approx. 7 g/L)
+                SO2                    Stoichiometric (approx. 0.6 g/L)
+               CSL            1% w/w
+                 Corn oil             0.1% v/v
+               Ammonium sulfate      1.4 g/L
+                  Potassium phosphate   2.0 g/L
+                 Magnesium sulfate     0.3 g/L
+                  Calcium chloride        0.4 g/L
+                Tween 80              0.2 g/L
+
+Glucose, the carbon source for cell mass and protein, is the most significant enzyme production
+expense in this model. Electricity is also a significant contributor due to the power requirements
+of air injection, agitation, and refrigeration. The electricity demand in the enzyme production
+area is summarized in Table 21.
+
+
+                                      39

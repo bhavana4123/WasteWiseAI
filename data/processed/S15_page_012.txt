@@ -1,0 +1,54 @@
+TA 6M: Waste Heat Recovery
+
+
+   Technologies and Materials for Recovering Waste Heat in Harsh
+   Environments16
+
+      The Technologies and Materials for Recovering Waste Heat in Harsh Environments report16 identified
+       industries and industrial heating processes in which the exhaust gases are at high temperature
+       (>1,200°F), and contain reactive gases, liquid vapors, volatiles from low-melting-temperature solid
+       materials, particulates, or condensable materials. It also identified specific issues related to WHR for
+      each of these processes or waste heat streams. In addition to this study, the 6.H Materials for Harsh
+       Service Conditions Technology Assessment which is available as an appendix to the 2015 Quadrennial
+      Technology Review (QTR) expanded in more detail on some of issues summarized here. Key insights
+      from the report are excerpted below.
+
+      The temperature of the exhaust gases discharged into the atmosphere from heating equipment
+      depends on the process temperature and whether a WHR system is used to reduce the exhaust gas
+       temperature. The temperature of discharged gases varies approximately from as low as 150°F to as high
+       as 3,000°F. Combustion products themselves, generated from well-designed and well-operated burners
+      using gaseous and light liquid fuels, are relatively clean and do not contain particles or condensable
+      components that may require “cleanup” before discharge into the atmosphere. However, during the
+       heating process, the combustion products may react or mix with the product being heated and may
+       pick up constituents such as reactive gases, liquid vapors, volatiles from low-melting-temperature
+       solid materials, particulates, condensable materials, and the like. Some or all of these constituents,
+       particularly at high temperatures, may react with materials used in the construction of downstream
+    WHR equipment and create significant problems. Potential issues include chemical reaction of exhaust
+       gases and their solid or vapor content with the materials used in the WHR equipment; deposition of
+       particulates in or on surfaces of WHR equipment; condensation of organics such as tars and inorganic
+      vapors such as zinc oxides and boron on heat exchanger surfaces; and erosion of heat exchanger
+      components by the solids in the exhaust gases. Many of these problems are compounded by the high
+      temperature of the exhaust gases, uneven flow patterns of the hot gases inside the heat exchanger, and
+       operating variations such as frequent heating and cooling of the heat exchanger. The study identified
+       industries and heating processes in which the exhaust gases are at high and ultra-high temperatures
+       (>1200°F), contain all of the types of reactive constituents described, and can be considered as harsh
+      or contaminated. The study also identified specific issues related to WHR for each of these processes or
+      waste heat streams.
+
+      The following are common characteristics of the conditions classified as harsh environments:
+             1.  Ultra-high gas temperature (>1,600°F): Even if the process temperature is less than 1,600°F,
+              the presence of combustible components such as CO, H2, or hydrocarbons in flue gases could
+               increase localized temperatures to exceed the temperature limit of the heat recovery system
+             components. An example is when combustible components are in the presence of air that
+             could leak into the flue gas ducts or into a WHR system such as a recuperator; examples might
+              include electric arc furnace (EAF) and basic oxygen furnace (BOF) exhaust gases, and flue
+              gases from “over-fired” aluminum melting furnaces.
+             2.  Presence of highly corrosive fluxing agents (e.g., salts, calcium, chlorides, fluorides): The
+              types and amounts of fluxing agents or their compounds depend on the heating process and
+              the final product specifications. These fluxing agents introduce highly corrosive elements that
+            promote degradation of WHR equipment materials. For example, chemical reactions between
+
+
+
+
+  11  Quadrennial Technology Review 2015

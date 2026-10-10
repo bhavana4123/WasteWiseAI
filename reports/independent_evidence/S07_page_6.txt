@@ -1,0 +1,42 @@
+                advanced process that is completed in seconds, with carefully controlled parameters,
+                  to give high yields of liquid.The essential features of a fast pyrolysis process for
+                 producing liquids are:
+               • Very high heating and heat transfer rates at the reaction interface, which usually
+                     requires a finely ground biomass feed.
+               • Carefully controlled pyrolysis reaction temperature of around 500°C and vapour
+                  phase temperature of 400-450°C.The effect of temperature on yields and
+                   product spectrum is discussed in the section on pyrolysis liquid below.
+               • Short hot vapour residence times of typically less than two seconds.
+               • Rapid cooling of the pyrolysis vapours to give the bio-oil product.
+
+
+               The main product, bio-oil, is obtained in yields of up to 75% by weight (wt) on a
+                  dry-feed basis, together with by-product char and gas, which are used within the
+                 process to provide the process heat requirements, so there are no waste streams
+                 other than flue gas and ash.
+
+
+           A fast pyrolysis process includes drying the feed to typically less than 10% water in
+                 order to minimise the water in the product liquid oil, grinding the feed (to around
+             2 mm particle size in the case of fluid bed reactors) to give sufficiently small
+                   particles to ensure rapid reaction, fast pyrolysis, separation of solids (char), and
+                quenching and collection of the liquid product (bio-oil).
+
+
+                   Virtually any form of biomass can be considered for fast pyrolysis. While most work
+                has been carried out on wood because of its consistency and comparability between
+                    tests, nearly 100 different biomass types have been tested by many laboratories,
+                 ranging from agricultural wastes such as straw, olive pits and nut shells to energy
+                 crops such as Miscanthus and Sorghum, forestry wastes such as bark, and solid
+                wastes such as sewage sludge and leather wastes.
+
+
+           A typical fast pyrolysis process is depicted in Figure 1 showing the necessary
+                 preparation steps, alternative reactors, and product collection.
+
+
+
+
+
+                 Figure 1: Conceptual fast pyrolysis process
+6

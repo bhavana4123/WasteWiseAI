@@ -1,0 +1,37 @@
+COMPONENT              UNITS     211       274       400       524       626       811       850       904       905       906       941
+Total Flow                         kg/hr     140,850    150,310    11,419     26,836    376,324    35,284      3,579     147,140    523,463     145      155,041
+Insoluble Solids          %       0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+Soluble Solids           %       0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+Temperature                  °C       33        33        33        33        27        33        33        59        33        20        33
+Pressure                     atm        5.0         5.0         5.0         5.0         1.0         5.0         5.0         2.0         5.0         1.0         5.0
+Vapor Fraction                               0.0         0.0         0.0         0.0         0.0         0.0         0.0         0.0         0.0         0.0         0.0
+Ethanol                            kg/hr
+Water                             kg/hr     140,850    150,310    11,419     26,836    376,324    35,284      3,579     147,140    523,463     145      155,041
+Glucose (SS)                      kg/hr
+Xylose (SS)                       kg/hr                                                                                                                                                                                                                                                                                           Heat Stream      Gcal/hr Work Stream      kW    Gcal/hr
+Other sugars (SS)                 kg/hr                                                                                                                                                                                                                                                                    QT914             1.615 WP914              72      0.062
+Sugar Oligomers (SS)             kg/hr
+Organic Soluble Solids (SS)       kg/hr
+Inorganic Soluble Solids (SS)      kg/hr
+Ammonia                         kg/hr
+Acetic Acid                        kg/hr
+Sulfuric Acid                       kg/hr
+Furfurals                          kg/hr
+Other Organics                    kg/hr
+Carbon Dioxide                   kg/hr
+Methane                          kg/hr
+O2                                kg/hr
+N2                                kg/hr
+CO/SOX/NOX/H2S                kg/hr
+Cellulose (IS)                      kg/hr
+Xylan (IS)                          kg/hr
+Other Struct. Carbohydr. (IS)       kg/hr
+Acetate (IS)                       kg/hr
+Lignin (IS)                         kg/hr
+Protein (IS)                        kg/hr
+Cell Mass (IS)                     kg/hr
+Other Insoluble Solids (IS)         kg/hr
+Carbon Mole Flow               kmol/hr
+COD                              kg/hr
+LHV | 25°C                      Gcal/hr      80.8       86.3        6.6        15.4       218.1       20.3         2.1        80.8       300.5        0.1        89.0
+                                                                                                           135

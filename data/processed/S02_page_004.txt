@@ -1,0 +1,51 @@
+       4.3 Indirect and Direct Gasification Processes                                                                                                                                    . 25
+              4.3.1 Indirect (Pyrolitic) Gasification    .                                                                                                                         . 25
+              4.3.2 Direct Gasification   .   .   .   .   .   .   .   .                                                                                                                                    . 25
+       4.4 Principles of Operation of Direct Gasifiers                                                                                                                         . 27
+              4.4.1 Introduction    .   '.   .   .   .   .   .   .   .   .   .                                                                                                                         . 27
+              4.4.2 Operation of the Updraft Gasifier                                                                                                                         . 27
+              4.4.3 Operation of the Downdraft Gasifier                                                                                                                              . 28
+              4.4.4 Factors Controlling Stability of Gasifier Operation                                                                                              . 28
+       4.5 Charcoal Gasification                                                                                                                                                                   . 28
+       4.6 Summary     .                                                                                                                                                                                      . 29
+
+5.0 Gasifier Designs                                                                                                                                                                                      . 30
+       5.1 Introduction                                                                                                                                                                                      . 30
+       5.2 Basic Gasifier Types                                                                                                                                                                      . 30
+       5.3 Charcoal Gasifiers   .   .                                                                                                                                                                   . 31
+       5.4 Charcoal versus Biomass Fuels                                                                                                                                                            . 31
+       5.5 The Crossdraft Gasifier     .   .   .   .                                                                                                                                                . 32
+        5.6 The Updraft Gasifier     .   .   .   .   .                                                                                                                                                . 32
+       5.7 The Imbert Downdraft Gasifier                                                                                                                                                             . 32
+              5.7.1 Introduction    .   .   .   .   .                                                                                                                                                . 32
+              5.7.2 Description of the Downdraft (Imbert) Gasifier                                                                                              . 33
+              5.7.3 Superficial Velocity, Hearth Load, and Gasifier Sizing                                                                               . 35
+              5.7.4 Turndown Ratio    .   .   .   .   .   .   .   .   .   .                                                                                                                     . 36
+              5.7.5 Disadvantages of the Imbert Design                                                                                                                                . 36
+       5.8 The Stratified Downdraft Gasifier     .   .   .   .   .                                                                                                                                . 38
+              5.8.1 Introduction    .   .   .   .   .   .   .   .   .   .   .   .                                                                                                                     . 38
+              5.8.2 Description of the Stratified Downdraft Gasifier                                                                                                   . 38
+              5.8.3 Unanswered Questions About the Stratified Downdraft Gasifier                                                          . 40
+              5.8.4 Modeling the Stratified Downdraft Gasifier                                                                                                              . 42
+       5.9 Tar-Cracking Gasifiers                                                                                                                                                                  . 42
+              5.9.1 Introduction    .   .   .   .   .                                                                                                                                                . 42
+              5.9.2 Combustion of Tars                                                                                                                                                      . 43
+              5.9.3 Thermal Tar Cracking                                                                                                                                                              . 45
+              5.9.4 Catalytic Tar Cracking                                                                                                                                                 . 46
+      5.10 Summary   .   .   .   .   .   .   .   .   .   .   .                                                                                                                                                . 46
+
+6.0 Gasifier Fabrication and Manufacture                                                                                                                                                 . 48
+       6.1 Introduction   .   .   .   .   .   .   .                                                                                                                                                           . 48
+       6.2 Materials of Construction  .   .   .   .                                                                                                                                                         . 48
+       6.3 Methods of Construction    .   .   .   .                                                                                                                                                         . 48
+       6.4 Sizing and Laying out the Pipes                                                                                                                                                           . 49
+       6.5 Instruments and Controls                                                                                                                                                                         . 49
+              6.5.1 Temperature                                                                                                                                                                                   . 49
+              6.5.2 Pressure                                                                                                                                                                                             . 49
+              6.5.3 Gas Mixture                                                                                                                                                                     . 49
+              6.5.4 Automatic Controls                                                                                                                                                                   . 49
+
+
+
+
+iv    Handbook of Biomass Downdraft Gasifier Engine Systems

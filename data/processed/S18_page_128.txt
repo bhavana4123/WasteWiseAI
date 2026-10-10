@@ -1,0 +1,37 @@
+COMPONENT              UNITS     303       304       305       309       310
+Total Flow                         kg/hr     44,339     42,607      1,969      211        26
+Insoluble Solids          %       5.0%      5.7%      0.0%     25.0%     0.0%
+Soluble Solids           %      15.6%     6.3%      0.0%     24.8%    100.0%
+Temperature                   °C       32        33        32        20        20
+Pressure                     atm        1.0         5.0         1.0         1.0         1.0
+Vapor Fraction                               0.0         0.0         1.0         0.0         0.0
+Ethanol                            kg/hr       1        2,009       32                                                                                                                                                                                                                                                              Heat Stream      Gcal/hr Work Stream       kW    Gcal/hr
+Water                             kg/hr     35,149     35,248      38       106                                                                                                                                                                                                                                                QF301-5           0.451 WF301-5             99      0.085
+Glucose (SS)                      kg/hr      2,969      148        0                                                                                                                                                                                                                                       WP301                7      0.006
+Xylose (SS)                       kg/hr      1,648      168        0                                                                                                                                                                                                                                       WP302                7      0.006
+Other sugars (SS)                 kg/hr      401       401        0                                                                                                                                                                                                                                                WT301               15      0.013
+Sugar Oligomers (SS)             kg/hr      161       161        0
+Organic Soluble Solids (SS)       kg/hr      1,477      1,529       0        52
+Inorganic Soluble Solids (SS)      kg/hr      248       272                            26
+Ammonia                         kg/hr       0         0         0
+Acetic Acid                        kg/hr
+Sulfuric Acid                       kg/hr
+Furfurals                          kg/hr      71        70         0
+Other Organics                    kg/hr       1        138        0
+Carbon Dioxide                   kg/hr       0        51        1,882
+Methane                          kg/hr
+O2                                kg/hr       0         0        17
+N2                                kg/hr       0         0         0
+CO/SOX/NOX/H2S                kg/hr       0         0         0
+Cellulose (IS)                      kg/hr      125       125
+Xylan (IS)                          kg/hr      42        42
+Other Struct. Carbohydr. (IS)       kg/hr      10        10
+Acetate (IS)                       kg/hr
+Lignin (IS)                         kg/hr      1,248      1,248
+Protein (IS)                        kg/hr      320       364                 53
+Cell Mass (IS)                     kg/hr      11       162
+Other Insoluble Solids (IS)         kg/hr      458       458
+Carbon Mole Flow               kmol/hr     314       273       44         4
+COD                              kg/hr     10,201     10,280      67       132
+LHV | 25°C                      Gcal/hr      -12.7       -12.6         -0.2         -0.4         0.0
+                                                                                                           118

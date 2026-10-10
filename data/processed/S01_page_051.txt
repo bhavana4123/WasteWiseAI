@@ -1,0 +1,55 @@
+Alloys and Metals
+
+
+
+TIN; solid; white; tetragonal* atomic number, 50; atomic wt.,  118.71; density,
+   7.28 g ~  r n (454.5' ~     Ib ft-').
+   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, AH^0 at
+                          P   25°C (77'F);  product of combustion is tin dioxide, SnOZ.
+
+   qp(gross) = 2105 Btu Ib;'
+   qp(gross) = 1169 cal gi
+   q (gross) = 4892 J g-    P
+                                                                    8 2 WAG/E VA
+
+   specific heat:
+
+
+
+    298    77                0.0543                 0.0543              0.227
+    400   261               0.0580                 0.0580              0.243
+    500   441                 0.06 I7                 0.06 I7              0.258
+   heat of transition: at the transition point, 13°C (55OF) from Sn (grey cubic) to Sn
+   (white tetragonal).
+
+   Lt = 7.6 Btu Ib;'
+   Lt = 4.2 cal g-
+   Lt = 17.6 J g-l
+
+   heat of fusion: at the melting point, 232°C (450°F).
+
+  Lf = 25.4 Btu lb-I
+  Lf = 14.1 cal
+
+
+   heat of vaporization: at the boiling point, 2623°C (4753OF).
+
+    L, = 1073 Btu 1P-l
+    L,   596 cal g-
+    L, = 2495 J g-'
+
+   vapor pressure:
+
+   tern erature
+    ('CP    (OF)      Natm)      W a )             P(psi)
+    I l l 5  2039        1o-6                0.I            1.470   10-5
+                                                                        x  lo-:   1584  2883          I o - ~           101.3            1.470
+   1836  3337            lo-:             1013.3           1.470 x 10-
+   2167  3933        10-           10 132.5           1.470
+   2623  4753            I .o         10 1325.           14.696
+
+                                                       63HUL/ORR
+
+
+
+                                    48

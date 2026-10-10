@@ -1,0 +1,50 @@
+threshold exists where additional mixing will not provide any performance enhancement. For
+PFRs, the degree of mixing is dictated by the design of the reactor and/or catalyst used within the
+reactor, since no mixing device is present in the reactor that can be independently manipulated.
+
+Batch reactors have several positive features including good mixing characteristics and relative
+ease of handling homogeneous catalysts as used in the biodiesel transesterification reaction. As
+mentioned above, the reactant concentrations change with time in the reactor as does the product
+concentration. Therefore, the effect of reaction inhibition by reaction products such as
+experienced with glycerol can be minimized. However, batch reactors are generally not used in
+the production of large volume chemicals since it is most efficient to operate the subsequent
+separation and purification steps in a continuous mode. This batch to continuous mode can be
+overcome by using multiple reaction vessels sequenced to give effectively continuous operation
+or by employing a large “surge” vessel after the reactor.
+
+CSTRs, which obviate the primary problem with batch reactors, also provide good mixing
+characteristics. However, the uniform concentration present in the reactor gives a lower reaction
+driving force and can also maximize reaction inhibition effects. PFRs or tubular reactors are the
+most common reactors in the chemical industry. Despite being continuous, the reactant
+concentration in these reactors changes with distance down the bed to maximize the driving force
+for the reaction, which is similar to a batch reactor. Achieving good mixing can be more
+problematic with PFRs and these type of reactors typically use solid catalysts.
+
+Pumps
+
+While the role of pumps in a chemical plant seems rather mundane, they play the key role in
+moving chemicals through the manufacturing plant. The most common type of pump in the
+chemical industry is a centrifugal pump. In many applications, the fluid shear introduced by a
+centrifugal pump is not a point of concern. However, the shear created by a centrifugal pump can
+create emulsion problems for the product stream from the biodiesel reactor. The amount of fluid
+shear imparted by the pump can be significantly reduced by using a positive displacement pump.
+
+There are a number of different types of positive displacement pumps including gear pumps
+(external and internal) and lobe pumps. External gear pumps generally have two gears with equal
+number of teeth located on the outside of the gears, whereas, internal gear pumps have one larger
+gear with internal teeth and a smaller gear with external teeth. The liquid is “pumped” from the
+action of being carried between the gear teeth followed by displacement as the teeth mesh. In
+most external gear pumps, one gear drives the other. The internal gear pump has the advantage of
+fewer moving parts, but it cannot handle liquid streams containing solids or abrasives.
+
+
+                                     Lobe pumps impart less shear to the fluid being
+                                    pumped than gear pumps. The lobes in the pump
+                                               are designed for no contact, so timing gears are
+                                              required for each lobe. Therefore, the lobe pump
+                                           has more moving parts than gear pumps. Lobe
+                                    pumps are best for handling “fragile” and high
+
+
+
+                                      44

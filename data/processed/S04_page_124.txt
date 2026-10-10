@@ -1,0 +1,46 @@
+Heat rates and efficiencies shown were taken from manufacturers’ specifications and industry
+publications or are based on the best available data for developing technologies. CHP thermal recovery
+estimates are based on producing low quality heat for domestic hot water process or space heating
+needs. This feature is generally acceptable for commercial/institutional applications where it is more
+common to have hot water thermal loads.
+
+Generally, electrical efficiency increases as the operating temperature of the fuel cell increases. SOFC
+fuel cells have the highest operating temperatures (which can be advantageous as well as
+disadvantageous) and they also have the highest electric efficiencies. In addition, as electrical efficiency
+increases, the absolute quantity of thermal energy available to produce useful thermal energy decreases
+per unit of power output, and the ratio of power to heat for the CHP system generally increases. A
+changing ratio of power to heat impacts project economics and may affect the decisions that customers
+make in terms of CHP acceptance, sizing, and the desirability of selling power.
+
+6.4.1  Electrical Efficiency
+As with all generation technologies, the electrical efficiency is the ratio of the power generated and the
+heating value of the fuel consumed. Because fuel cells have several subsystems in series, the electrical
+efficiency of the unit is the multiple of the efficiencies of each individual section. The electric efficiency
+of a fuel cell system is calculated as follows:
+
+                     EffElec = (Eff FPS * H2 Utilization * EffStack * EffPC)*(HHV/LHV ratio of the fuel)
+Where:
+Eff FPS         =  Fuel Processing Subsystem Efficiency, LLV (LHV of H2 Generated/LHV of Fuel
+                Consumed)
+H2 Utilization  = % of H2 actually consumed in the stack
+EffStack        =  (Operating Voltage/Energy Potential ~1.23 volts)
+EffPC         =  AC power delivered/(dc power generated) (auxiliary loads are assumed dc loads
+                  here)
+For example, the electrical efficiency of a PAFC can be calculated as follows:
+
+                         EffElec = (84%FPS)*(83% util)*(0.75V/1.25V)*(95%PC)*(0.9HHV/LHV)
+                               = 36% electric efficiency HHV
+As the operating temperature range of the fuel cell system increases, the electric efficiency of the
+system tends to increase. Although the maximum thermodynamic efficiency decreases as shown in
+Figure 6-3, improvements in reformer subsystem integration and increases in reactant activity balance
+out to provide the system level increase. Advanced high temperature MCFC and SOFC systems can
+achieve simple cycle efficiencies in the range of 50 to 60 percent HHV, while hybrid combined fuel cell-
+heat engine systems are calculated to achieve efficiencies above 60 percent in DG applications.
+
+6.4.2  Part Load Performance
+In CHP applications, fuel cell systems are expected to follow the thermal load of the host site to
+maximize CHP energy economics. Figure 6-4 shows the part load efficiency curve for a PAFC fuel cell in
+the 100 kW to 400 kW size range in comparison to a typical lean burn natural gas engine. It shows that
+
+
+Catalog of CHP Technologies                         6–14                                       Fuel Cells

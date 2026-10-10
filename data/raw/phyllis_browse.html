@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <title>Phyllis2 -  ECN Phyllis classification </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="/Content/Site.css?20211130" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/Content/Print.css?20120921" rel="stylesheet" type="text/css" media="print" />
+    <!--[if lte IE 8]><script src="/Scripts/Lib/excanvas.compiled.js" type="text/javascript"></script><![endif]-->
+
+    <script src="/Scripts/Lib/jquery-3.6.0.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/jquery-ui-1.12.1.custom.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/Scripts/Lib/themes/flick/jquery-ui.min.css?20210621" type="text/css" />
+
+    <script src="/Scripts/Lib/jstree.min.js?20210621" type="text/javascript"></script>
+    <link rel="stylesheet" href="/Scripts/Lib/themes/phyllis/style.css?20210621" type="text/css" />
+
+    <script src="/Scripts/Lib/jquery.flot.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/jquery.flot.selection.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/jquery.flot.navigate.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/localStorage.js?20130417" type="text/javascript"></script>
+    
+    <script type="text/javascript" src="/Scripts/Chart.js?20180309"></script>
+    <script type="text/javascript" src="/Scripts/Values.js?20130524"></script>
+    <script type="text/javascript">
+        var rootNode = 'class_101';
+        var samplePrefix = 'sample_';
+        var propMinPrefix = 'prop_min_';
+        var propMaxPrefix = 'prop_max_';
+        var reclassifyPrefix = 'classify_';
+        var ajaxValuesList = '/Browse/ValuesList';
+        var ajaxJsonNodes = '/Browse/JsonNodes';
+        var ajaxSingleView = '/Biomass/AjaxView';
+        var ajaxJsonSearch = '/Browse/JsonSearch';
+        var ajaxAverageView = '/Browse/AverageView';
+        var ajaxValues = '/Browse/JsonValues';
+        var ajaxConfirmClassify = '/Browse/ConfirmClassify';
+        var ajaxDoClassify = '/Browse/DoClassify';
+        var classify = false;
+    </script>
+    <script type="text/javascript" src="/Scripts/Browse.js?20211130"></script>
+
+</head>
+<body class="topbar ">
+    <div id="page">
+        <div id="header">
+            <h1>Phyllis2</h1>
+            <ul id="menu">
+                <li><a href="/">Home</a></li>
+                <li><a href="/Browse">Browse</a></li>
+                <li><a href="/Home/Help">Help</a></li>
+            </ul>
+        </div>
+        <div id="main">
+ <h2> ECN Phyllis classification </h2>             
+
+
+<p>
+The ECN classification is an evolving scheme based on a mixture of plant
+physiology and practical considerations.
+<a href="/Home/About/ECN-Phyllis">(more information)</a>
+Applies to the total database.
+
+    <a href="/Browse">(select a different classification scheme)</a>
+</p>
+
+<div class="noscript">
+<p class="error">Please enable Javascript to make full use of this application.</p>
+<p><a href="/Browse/PlainList">View a list of all available biomass samples</a>.</p>
+</div>
+
+<div class="needscript">
+    <form id="search">
+        <span id="simplesearch">
+            <input type="text" id="searchbox" autofocus="autofocus" placeholder="Enter material name" />
+        </span>
+        
+        <div id="advancedsearch">
+            <h3>Advanced search <a class="icon-help" href="/Home/Help#search" target="_blank">help</a></h3>
+            <div><label><span>Name:      </span><input type="text" name="name"       /></label></div>
+            <div><label><span>Submitter: </span><input type="text" name="submitter"  /></label></div>
+            <div><label><span>Year:      </span><input type="text" name="year"       /></label></div>
+            <div><label><span>Location:  </span><input type="text" name="location"   /></label></div>
+            <div><label><span>Remarks:   </span><input type="text" name="remarks"    /></label></div>
+            <div><label><span>Literature:</span><input type="text" name="literature" /></label></div>
+            <div>
+                <label><input type="radio" name="match" value="all" checked="checked" />Match all</label>
+                <label><input type="radio" name="match" value="any" />Match any</label>
+            </div>
+        </div>
+
+        <input type="submit" value="Search" />
+        <input type="button" value="Clear" id="clearsearch" />
+
+        <input type="button" value="Advanced" id="advancedsearchtoggle" />
+        <span id="searchresults"></span>
+    </form>
+<form>
+    <input type="button" value="Collapse all" id="collapse" />
+    <input type="button" value="Average of selected" id="average" />
+</form>
+<div id="tree"></div>
+<div id="biomass"></div>
+<div id="average_chart"></div>
+</div>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="footercontent">
+            <p>© 2026 <a href="https://www.tno.nl/" target="_blank">TNO</a> | <a href="/Home/Colophon">Colophon</a></p>
+            
+            <p>Contact: <a href="mailto:Secretariaat-BCT-STIP@tno.nl">Secretariaat-BCT-STIP@tno.nl</a></p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+ droplets are collected inertially as a function of their     7.S.5 Graphic Analysis of Size Distribution
+ aerodynamic size. Once they have been separated by
+ size, there is no need to prevent the droplets from    The cumulative particle-size distribution shown in
+ coalescing. Quantities, and therefore distributions, are     Fig. 7-4 plots as a straight line on probability paper,
+ subsequently determined by the relative masses     thereby indicating log normal distribution about a
+                                                                                         at 50%, with a geometric represented in each size grade.                    mean particle diameter, dp
+
+                                                                            0'1.  - - - - - - ­                                                                  ."                                                       ...... "                                Ը ",                                                                                                                                       1 1
+                            /                        '                                                              ,                              / ( .                         ' "
+                                                                 tI                                                                                      E                          1 9                                       ;'                                                                           1 0     ro      70                          /                                                                     5.5                                                      6                                /    e:.  ­                            /  "c                                  I                                  /       . •!!:?  65        18                                                                                                                          5.0  "   '"   Q;      0
+                  oi      cȚ0      0      60    E  "               :J  17                                                                                                4.5   >        >0     c0  "  ­           ..
+  Β  55        16                                                                                              4.0  "  c  W
+
+                                                                                      6          3.5      50        15 Ȯ____L_____ΐ____Α____ȯ----Ȱ----ȱ----Ȳ----ȳ
+                 2        3       4       5       6        7       8        9        10
+
+                                                         m3/h                                     Producer gas flow rate,                                                                        (25° C,l atm)
+
+Fig. 7-21. Flow rate effects on efficiency, heating value, and gas composition for rice hulls  (Source: Compiled from Kaupp 1984b data)
+
+
+                     Table 7-9. Examples of Size-Analysis Methods and Equipment
+
+Particle Size, õm   General Method                      Examples of Specific instruments'
+37 and larger       Dry-sieve analysis                          Tyler Ro-Tap, Alpine Jet sieve
+1 0 and larger       Wet-sieve analysis                      Buckbee-Mears sieves
+1 -1 00               Optical microscope                          Zeiss, Bausch & Lomb, Nikon microscopes
+                  Microscope with scanner and counter         Millipore IIMC system
+                  Dry gravity sedimentation                    Roller analyzer, Sharples Micromerograph
+               Wet gravity sedimentation                Andreasen pipet
+                       Electrolyte resistivity change                 Coulter counter
+0.2-20              Light scattering                        Royco
+                Cascade impactor                              Brink, Anderson, Casella, Lundgren impactors
+               Wet centrifugal sedimentation            M.SA-Whitby analyzer
+0.01 -1 0              Ultracentrifuge                         Goetz aerosol spectrometer
+                   Transmission electron microscope             Phillips, RCA, Hitachi, Zeiss, Metropolitan-Vickers,
+                                                       Siemens microscopes
+                   Scanning electron microscope               Reist & Burgess system
+
+*This table gives examples of specific equipment. It is not intended to be a complete listing, nor is it intended to be an endorsement of any instrument.
+Source: Perry 1973, Table 20-33.
+
+
+
+                                                                        Gas Testing    69

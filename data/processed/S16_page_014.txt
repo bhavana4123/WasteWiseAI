@@ -1,0 +1,57 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+
+       One benefit of using a concentration detector, such as dRI, is   meters  for various  recycling approaches. The presence  of
+          that the change in refractive index is proportional to concen-  unusual endotherms and exotherms can also provide infor-
+           tration and therefore can be used to estimate relative abun-  mation on polymer structure or the presence of additives. In
+        dance of molecular masses. For example, PS-5 dRI (Fig. 7)   this section, we highlight interesting results and the limit-
+        shows that the first molecular mass distribution at 21 min (Mw   ations associated with DSC data interpretation.        Licence.    113.6 kDa) is 36% of the total mass percent and the second     Tg is an important parameter because it is when a polymer
+         molecular mass distribution at 26 min (Mw 1.8 kDa) accounts   transitions to a softer, more pliable state, which will impact
+           for 64%.                                                 polymer behavior in recycling processes. Unlike melting, the        Unported           There are limitations with using GPC to measure molecular   observed Tg depends on the heating rate. We reported the Tg
+   3.0         mass. Without the use of a light scattering detector, size exclu-   for all polymers where applicable in Table 1, and we note that,
+PM.       sion chromatography relates molecular mass with retention   in many polymers, a glass transition was not detected using
+         time assuming the analyte elutes in accordance with a cali-  DSC. For polymers with high crystallinity (e.g., PE, PK), the Tg
+          bration  curve,  most commonly  PS.  Analysis  for  non-PS   is often diﬃcult to detect by DSC, or was out of the tempera-6:34:53
+          materials can be improved by applying Mark–Houwink correc-   ture range of the instrument. Weak glass transitions can poss-
+          tion values to the PS calibration curve, which relate the relative   ibly be detected by increasing the ramp rate, or by using other
+          residence times of two materials which behave diﬀerently in   techniques such as dynamic mechanical analysis.81 Several6/21/2024
+         the same solvent. Use of a viscometer to derive Mark–Houwink  polymers contained multiple Tg values, indicating a complexon Attribution-NonCommercial
+          correction values can also enable the correction of diﬀerences  polymer morphology. For example, PP-2 exhibited two glass
+          in residece times for two polymers from the same class, but   transitions (−12 °C, 51 °C) (Fig. 8). The lower Tg is attributed
+         with diﬀerent architectures. Mark–Houwink values used in   to a non-stereoregular amorphous region, or possibly oligo-Downloaded Commons     this study can be found in Text S3.† Retention times can shift   meric wax. Meanwhile, the higher Tg is attributed to the stereo-
+         with diﬀerent solvents, and  if there are non-ideal column   regular portions of the polymer, a known phenomenon for2024.        Creative     interactions. This can  result  in erroneous  calculations  of   PP.82 In contrast, PP-1 had a simpler DSC trace, with only a Tm
+ a    molar mass when comparing  to a  calibration  curve. For  and Tc observed.March26 under    example, all PS samples were run separately on GPC with tetra-     Another important parameter that can be measured by DSC
+on       hydrofuran and HT-GPC  with  trichlorobenzene and had   is crystallinity, a measure of the ordered structure of a polymer
+        55–58% diﬀerence in molecular mass estimates. Alternatively,   relative to the disordered, amorphous regions. This property        licensed
+  is    there was a 40–47% diﬀerence when using 100% mass recovery  can impact polymer processability and the eﬃciency of variousPublished       as opposed to using a literature value for diﬀerential index of   conversion processes. Percent crystallinity can be determined
+       article     refraction (dn/dc) (Table S9†). The dn/dc values represent the   by comparing enthalpies of melting (ΔHm) of a 100% crystal-
+Article. This    diﬀerence in refractive index between the sample and solvent,   line polymer in literature to experimental values. This property
+Access      andinstrumentalare uniqueconditions,to sample-solventincludingcombinationstemperature asandwelllaseras  canconversionimpact processes.polymer processabilityWe calculatedandpercenteﬃciencycrystallinityof variousfor
+Open       wavelength. While PS has literature dn/dc values that closely   polymers with clear melting endotherms, and which had pub-        match our instrumental conditions, many polymer types do   lished ΔHm  for 100%  crystalline  polymer  in  literature
+         not for these conditions, including PE, PP, PU, PK, PLA, and   (eqn (S1)†). These include PE, PP, PET, PVOH, EVOH, PVAc,
+        PHB. Copolymers, such as PVOH, EVA, EVOH, PBT, ABS, and   PBT, PHB, nylon-6, and nylon-6,6 (Table 1). It is important to
+       SAN pose an additional challenge because the dn/dc is related   subtract the enthalpy of cold crystallization from the enthalpy
+          to the relative ratios of the diﬀerent monomers, which varies   of melting when determining percent crystallinity because this
+        from product to product. When possible, the optimal method   determines the  crystallinity of the polymer before heating
+          to measure molecular mass is to determine dn/dc for each   occurred during the DSC measurement. Polymers that exhibi-
+         polymer with the specific instrumental conditions they will be   ted melting points above our highest instrument temperatures
+        measured in by injecting the analyte directly into a dRI detec-   or above the polymer degradation temperature could not be
+           tor at multiple concentrations. When this  is not possible,   detected by DSC. These include most PS samples (except PS-5),
+          multi-angle light scattering (MALS) should be used to estimate  PVC, ABS, PC, PU, PMMA, and PAN. We observed a cold crys-
+         molecular mass assuming 100% mass recovery, as it depends   tallization peak (i.e., crystallization exotherm between the Tg
+        on scattered light intensity and is not impacted by non-ideal  and Tm) in PET-3 and PLA-1 (Fig. S16 and S17†). We suspect
+        column interactions or retention time.                        PLA-1 exhibited enthalpic relaxation and cold crystallization
+                                                                      simultaneously with the Tg, and thus the cold crystallization
+          Diﬀerential scanning calorimetry (DSC)                                                           and the Tg were not reported (Fig. S17†).
+       DSC determines the temperature and heat flow associated with     Aside from melting and crystallization temperatures, other
+          material transitions as a function of temperature and time,  endotherms and exotherms may indicate curing, chemical
+        and it can provide information on the glass transition temp-   reactions, water absorption, or the presence of additives. For
+          erature (Tg), melting temperature (Tm), crystallization tempera-   example, nylons readily absorb ambient water, and therefore
+          ture (Tc), cold crystallization temperature (Tcc), and percent  must be dried before DSC measurements.83 When not dried,
+           crystallinity of polymers,  all of which can be critical para-   nylon-6 and nylon-6,6 both exhibited inconsistent endotherms
+
+
+
+        7080  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

@@ -1,0 +1,27 @@
+Component    Property    Quantity       Units      Reference
+H2O                        -                   -                  -       Native Aspen component
+ETHANOL                -                   -                  -       Native Aspen component
+GLUCOSE               -                   -                  -       Native Aspen component (dextrose)
+GALACTOS              -                   -                  -       Duplicate of GLUCOSE
+MANNOSE               -                   -                  -       Duplicate of GLUCOSE
+XYLOSE     DHFORM   -216752.65     cal/mol     Native Aspen component (d-xylose) with DHFORM specified (5/6 of GLUCOSE
+                                        DHFORM)
+ARABINOS              -                   -                  -       Duplicate of XYLOSE
+CELLOB                  -                   -                  -       Cellobiose. Used native Aspen component sucrose
+SUCROSE               -                   -                  -       Native Aspen component
+GLUCOLIG   MW        162.1424                 Glucose oligomers. Most properties from GLUCOSE; MW is GLUCOSE minus
+                                       H2O
+          DHFORM   -192875.34     cal/mol     Back-calculated to match ΔHc of CELLULOS
+GALAOLIG               -                   -                  -      Galactose oligomers. Duplicate of GLUCOLIG
+MANOLIG                -                   -                  -     Mannose oligomers. Duplicate of GLUCOLIG
+XYLOLIG    MW        132.11612                Xylose oligomers. Most properties from XYLOSE; MW is XYLOSE minus H2O
+          DHFORM   -149412.58     cal/mol     Back-calculated to match ΔHc of XYLAN
+ARABOLIG               -                   -                  -      Arabinose oligomers. Duplicate of XYLOLIG
+EXTRACT                -                   -                  -      Organic extractives. Duplicate of GLUCOSE
+LGNSOL                  -                   -                  -       Solubilized lignin. Native Aspen component vanillin (see note at LIGNIN)
+
+
+
+
+
+                                                   108

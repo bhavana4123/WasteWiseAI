@@ -1,0 +1,58 @@
+TA 6M: Waste Heat Recovery
+
+
+  Emerging or Developing Waste Heat Recovery Technologies
+
+   Table 6.M.7 lists emerging technologies that may be used in a few cases, or are in an early stage of development
+  and demonstration.
+
+  These technologies are being developed and tested at the laboratory or pilot scale in many different countries.
+  The current status of the technology or product development depends on the local energy situation (cost and
+   availability) and the availability of support from the local governments or funding agencies. In general, the
+   following emerging WHR topics are receiving the most attention:
+
+             Conversion of waste heat into a flexible and transportable energy source such as electricity
+
+             Heat recovery from high-temperature gases with large amounts of contaminants such as particulates,
+          combustibles, and condensable vapors (organic, metallic, or nonmetallic materials)
+
+             Heat recovery from ultra-low temperature sources, primarily lower than 250°F
+
+             Heat recovery from low- to medium-temperature exhaust gases or air with high moisture content to
+          recover the latent heat of water vapor
+
+  Each of these emerging topics is discussed in more detail in the R&D opportunities section below.
+
+
+       Table 6.M.7 WHR Technologies, under Development or Demonstration, by Temperature Range1
+
+    Ultra-Low                                                                                Ultra-High                    Low Temperature     Medium Temperature  High Temperature    Temperature                                                                          Temperature                          (250°F to 600°F)        (600°F to 1200°F)       (1200°F to 1600°F)    (< 250°F)                                                                                  (>1600°F)
+
+
+                                                                                 Non-metallic            Recuperators with       Recuperators with       Recuperators with       Regenerative burners
+      (polymer or plastic)      innovative heat          innovative heat          innovative heat       Systems with phase
+      corrosion resistant        transfer surface           transfer surface           transfer surface         change material
+      heat exchangers         geometries              geometries              geometries                                                                                                  Advanced
+                                                                                                           of many different      Advanced design of                                               Advanced design of                                                                       Thermo-chemical        regenerative systems
+      designs                   metallic heat wheel       metallic heat wheel       reaction recuperators                                                                                           Advanced                                                                                                                load or         Systems with phase      type regenerators        type regenerators     Advanced design of                                                                                                     charge preheating
+                                               change material       Self-recuperative                                                           Self-recuperative         metallic heat wheel      systems
+         Desiccant systems       burners                burners                 type regenerators
+
+                                                                                                           for latent heat        Systems with phase                                                    Systems with phase                                                                    Advanced load or
+      recovery from          change material         change material         charge preheating
+      moisture laden gases                                                                     Advanced heat pipe                                               Advanced heat pipe      systems
+   
+                                                                Membrane type         exchanger              exchanger                                                                           Systems with phase
+      systems for latent                                                                       Advanced design of                                               Advanced design of     change material      heat recovery from                                                                          metallic heat wheel       metallic heat wheel       Self-recuperative      water vapor
+                                                                                             Thermoelectric                                                      Thermoelectric          burners         Condensing water                                     electricity generation      electricity generation       heaters or heat                              systems                 systems      exchangers
+
+         Thermally activated
+      absorption systems
+       for cooling and
+       refrigeration
+
+
+
+
+
+ 18  Quadrennial Technology Review 2015

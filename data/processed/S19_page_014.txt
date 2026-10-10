@@ -1,0 +1,49 @@
+2.1.2.3 Feeding
+Dewatered, acid-impregnated corn stover (feedstock) was manually fed to the Acrison feeder
+(Acrison, Inc., Moonachie, New Jersey) installed upstream of the weigh belt. The feedstock was
+added to the Acrison’s hopper as needed to maintain a consistent flow of feedstock to the
+pretreatment reactor. The feedstock flow rate was varied between runs to achieve optimal
+performance out of the pretreatment reactor pressurized feed system, but was typically 25–35 dry
+kg/h.
+
+2.1.2.4 Pretreatment
+The pretreatment reactor was operated at conditions given in Table 2. Except for Run 2, all
+pretreatment runs were conducted in the IBRF large horizontal (LH) pretreatment reactor (Metso
+Inc., Norcross, Georgia) configured for two-tube operation (Shekiro et al. 2014). Run 2 was
+conducted in the original Sunds vertical (Vermont) pretreatment reactor (Sunds Defribrator (now
+Metso Inc., Norcross, Georgia) located in the north wing of the IBRF. Pretreatment was
+performed for approximately 10–12 h at steady-state conditions until 220–260 kg (dry basis) of
+feedstock was pretreated. Pretreated corn stover (PCS) was discharged to the flash tank and then
+fed continuously via gravity to the high-solids enzymatic hydrolysis reactor (HSEHR, Scott
+Equipment Company, New Prague, Minnesota). Approximately 1000–1400 kg of PCS slurry
+was produced after dilution to 20% (w/w) TS. When pretreatment was performed in the vertical
+reactor, the PCS slurry was collected into drums that were then emptied into the HSEHR.
+
+2.1.2.5 Enzymatic Hydrolysis
+ After the HSEHR was filled with PCS, the material was sampled and held in the reactor until a
+TS content value was available (2–3 days). The TS content is needed to accurately calculate feed
+additions (water, rich media, enzyme, etc.) and adjust the TS of the slurry to the target value of
+20% TS. To begin enzymatic hydrolysis, the reactor was heated to 50°C and then 10X rich
+media (rich media, yeast extract and potassium phosphate at concentrations given below) and a
+partial addition of water were added to the reactor. The sterile rich media solution was prepared
+in a 160-L fermentor (Associated Bio-Engineers and Consultants, Bethlehem, Pennsylvania) and
+pneumatically transferred to the reactor. The pH was then adjusted to 5.0–5.4 using 15%
+ammonium hydroxide (NH4OH). Enzyme (using commercially available enzyme packages) was
+pumped into the reactor and then a known amount of chase water followed to rinse enzyme
+solution into the reactor. The amount of chase water was adjusted to achieve the target 20% TS.
+As the cellulose content of the PCS solid could only be estimated, the actual enzyme loading was
+calculated after the run using the measured cellulose content of the PCS. After 3 days,
+approximately 750 kg of enzymatic hydrolysis slurry was transferred to a 1500-L fermentor
+(Associated Bio-Engineers and Consultants, Bethlehem, Pennsylvania).
+
+2.1.2.6 Enzymatic Hydrolysis and Fermentation
+Enzymatic hydrolysis was continued in the 1500-L fermentor for an additional day by
+maintaining the fermentor temperature at 50°C. To begin fermentation, the fermentor
+temperature and pH (using 15% NH4OH) were adjusted to the values required for fermentation
+(see Table 2). Then seed culture (10% v/v) was added to the fermentor. Ammonium hydroxide
+(15%) was used to control fermentor pH. The fermentation was continued until ethanol
+concentration no longer increased.
+
+
+
+                                      7

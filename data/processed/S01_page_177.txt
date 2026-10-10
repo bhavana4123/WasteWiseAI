@@ -1,0 +1,54 @@
+Polypeptides and Proteins                                                                                      1
+
+
+
+GLUTENIN; solid; wheat protein soluble in dilute alkalies.
+
+    gross heat of combustion: variation with thermal denaturation temperature.
+
+    denaturation
+   temperature                              q,(gross)
+   ("C) (OF)            Btu lb-l       cal g-l     3 g-1
+
+     30    86             10278         5710.1      2389 I. 1
+    35    95             10315         5730.3       23975.6
+    50   122             10050         5583. 1      23359.7
+    70   158             10177         5654.0       23656.3
+   110   230             10260         5699.9       23848.4
+
+                                                            66p0n
+
+INSULIN, BOVINE ZINC; solid; the anhydrous material from beef pancreas made up of 16
+   amino acids arranged in two chains connected by sulfur bridges,
+   (C508H7520150N130S12Zn).   The ash content = 0.95%; zinc present (as ZnO) = 0.67%.
+
+    specific heat:
+
+
+
+    10    -442                0.00475                0.00475                0.0 1987
+   100   -280                   0.1 192                    0.1 192              0.4987
+   200    -100                 0.2089                  0.2089               0.8740
+   250    - 10                 0.254 1                  0.2541                         I .0632
+    298.15   77                 0.2996                  0.2996               1.2535
+   300     80                0.3014                   0.30 I4              1.2611
+
+                                                        69HUT/COL
+
+PHENYLALANINE POLYMER; solid; repeating unit: C9H9N0.
+
+   gross heat of combustion: at 25OC (77°F)
+
+   benzene soluble                         benzene insoluble
+
+    qv(gross) = 13506 ? 11 Btu Ib- I                q,(gross)  = 13462 ? 12 Btu Ib-I
+    q,(gross)  = 7303.2 ? 6.0 cal g-l                q,(gross)  = 7479.1 ? 6.9 cal g-l
+    q,(gross)  = 31393.4 ? 25.1 J g-l             qv(gross) = 31292.6 ? 28.9 J g-l
+
+                                                           52BRE/TER
+
+
+
+
+
+                                       194

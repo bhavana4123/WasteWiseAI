@@ -1,0 +1,54 @@
+  Table 6-1. Comparison of Fuel Cell Applications, Advantages, and Disadvantages
+                              Applications            Advantages           Disadvantages
+Alkaline (AFC)                 •   Military                •   Cathode reaction       •   Sensitive to CO2
+                             •   Space                          faster in alkaline             in fuel and air
+                                                                        electrolyte, leads       •   Electrolyte
+                                                                to high                 management
+                                                          performance
+                                                        •  Low cost
+                                                      components
+Direct Methanol (DMFC)       •   Backup power           •  No need for           •   Expensive
+                             •   Portable power              reformer                     catalysts
+                             •   Military                        (catalyst              •  Low temperature
+                                                               separates H2             waste heat
+                                                        from liquid
+                                                           methanol)
+                                                        •  Low temperature
+Phosphoric Acid (PAFC)        •   Auxiliary power         •   Higher                •   Platinum catalyst
+                             •    Electric utility               temperature          •   Startup time
+                             •   Distributed                  enables CHP           •  Low current and
+                                  generation              •   Increased               power
+                                                                tolerance to fuel
+                                                                   impurities
+Proton Exchange              •   Backup power           •   Solid electrolyte       •   Expensive
+Membrane (PEMFC)           •   Portable power              reduces                      catalysts
+                             •   Distributed                   corrosion &           •   Sensitive to fuel
+                                  generation                    electrolyte                  impurities
+                             •   Transportation            management          •  Low temperature
+                                                         problems                waste heat                             •   Specialty vehicles
+                                                        •  Low temperature
+                                                        •   Quick startup
+Molten Carbonate             •   Auxiliary power         •   High efficiency         •   High
+(MCFC)                      •    Electric utility           •   Fuel flexibility             temperature
+                             •   Distributed             •   Can use a variety           corrosion and
+                                  generation                   of catalysts              breakdown
+                                                        •   Suitable for CHP       •   Long startup time
+                                                                                 •  Low power
+                                                                                             density
+Solid Oxide (SOFC)             •   Auxiliary power         •   High efficiency         •   High
+                             •    Electric utility           •   Fuel flexibility             temperature
+                             •   Distributed             •   Can use a variety           corrosion and
+                                  generation                   of catalysts              breakdown of
+                                                        •   Solid electrolyte               cell components
+                                                        •   Suitable for CHP       •   High
+                                                                                    temperature                                        & Combined
+                                                                                         operation                                                                  heat, hydrogen,
+                                                                                             requires long                                                      and
+                                                                                              startup time and                                                         powerHybrid/GT
+                                                                                                          limits                                                                    cycle
+
+
+
+
+
+Catalog of CHP Technologies                          6–2                                        Fuel Cells

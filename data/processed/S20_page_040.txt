@@ -1,0 +1,44 @@
+bed, pre-reformer, primary reformer with nickel catalyst, high temperature shift reactor, pressure swing
+adsorption unit, waste heat recovery producing high pressure steam and all associated outside battery
+limit equipment. Conventional steam reformer hydrogen plants range in scale from 1 to 100 million scf
+of hydrogen per day. The hydrogen plant scale needed for the centralized biocrude upgrading plant is at
+the low end: 9 million scf per day. The purchased capital and installed capital cost for this plant is $14.2
+million and $27.2 million (in 2014 dollars), respectively. Additional cost details can be found in
+Appendix B.
+
+                  3.0  Process Economics
+
+   The process economic analysis involves first determining the total capital investment (TCI), the
+variable operating costs, and the fixed operating costs for each of the HTL and biocrude upgrading plants.
+Discounted cash flow rate of return analysis is then used to determine the fuel production cost using
+standard methodology used for all BETO design cases. The summary economics and performance for the
+HTL plant and the upgrading plant are presented in the following sections. Sensitivity analysis around
+key technical and economic assumptions is presented in Section 4.0.
+
+3.1  Sludge HTL Plant
+
+    Table 16 lists the feed and biocrude product flow rates for the sludge HTL plant goal case.
+
+
+            Table 16. Annual feed and biocrude product rates for the sludge HTL plant.
+
+                     Stream                    Million gallons/year            Million lb/year
+         Dry sludge (15% ash) feed               N/A                      73
+           Dry, ash-free sludge feed                N/A                      62
+           Total slurry feed (25% solids)                33                      290
+       HTL biocrude product                          3.8                      30
+       HTL aqueous phase                        25                          9.4
+       HTL solids (dry)                      N/A                    2000
+
+
+3.1.1    Total Capital Investment
+
+    Table 17 summarizes the costs presented in Section 2.0 for the sludge HTL plant goal case including
+the balance of plant items such as the tank farm, flare and cooling water system. The HTL section of the
+plant contributes 72% the total installed capital.
+
+
+
+
+
+                                         25

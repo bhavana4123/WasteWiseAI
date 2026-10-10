@@ -1,0 +1,32 @@
+                                Table 26. Scaling Exponents
+                     Equipment                       Exponent
+                           Agitators                                   0.5
+                       Compressors, motor driven                 0.6
+                               Distillation columns                         0.6
+                      Heat exchangers                           0.7
+                              Inline mixers                               0.5
+                     Package quotes / Skidded equipment        0.6
+                        Pressure vessels                           0.7
+                   Pumps                                     0.8
+                        Tanks, atmospheric                         0.7
+                          Solids handling equipment                  0.8
+
+Once the total equipment cost has been determined in the year of interest, we must add several
+other direct and indirect costs to determine the total capital investment (TCI). Site development
+and warehouse costs are based on the inside-battery-limits (ISBL) equipment costs (Areas 200,
+300, 400, and 500) and are considered part of the total direct cost (TDC). Project contingency,
+field expenses, home-office engineering and construction activities, and other costs related to
+construction are computed relative to the TDC and give the fixed capital investment (FCI) when
+summed. The sum of FCI and the working capital for the project is the TCI. Table 27
+summarizes these categories and additional factors. Harris Group reviewed the items and factors
+and determined that they were consistent with other projects the company has completed. Harris
+Group thought the “home office and construction” charge used in 2002 was possibly a bit high at
+25%, so this was reduced to 20%. The project contingency was also changed from 3% to 10% of
+the TDC. Table 28 summarizes the total installed equipment cost and illustrates the application
+of factors in Table 27 to obtain the total capital investment (TCI).
+
+
+
+
+
+                                      60

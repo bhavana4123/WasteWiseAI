@@ -1,0 +1,55 @@
+                                                                            Fossil Materials
+
+
+
+GASOLINE; liquid; a mixture of volatile hydrocarbons with boiling points ranging from
+   60"-198°C (140"-390"F) (branched-chain paraffins, cycloparaffins, and aromatics).
+
+    auto-ignition temperature:
+
+         octane rating                     temperature
+                                     "C    "F
+
+             63                            248    478
+            73                            258    496
+             87                           412    774
+
+                                                                   54SET
+
+GASOLINE; liquid; a mixture of volatile hydrocarbons with boiling points ranging from
+   140°-3900F (branched-chain paraffins, cycloparaffins, and aromatics).
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   Production motor gasoline:
+
+    regular grade                        premium grade
+                           1                                           1    q,(gross) = 19990 Btu Ib-                      q,(gross)  = 20079 Btu lb-
+    q,(gross) = I 1106 cal                          q,(gross)  = 11155 cal
+    q,(gross) = 46466 J                            q,(gross) = 46673 3
+
+                                                          48LET/MAT
+
+GREASE, APIEZON N; solid; low vapor-pressure residues of paraffin oil distillation
+    products.
+
+   specific heat:
+
+    In the temperature range:  -193" to -73OC (-315" to -99OF).
+
+   Cp(Btu lb-I  OF-')    = - 3.0315 x     + 1.1378 x      (t + 459.67)
+                          - 1.8554 x        (t + 459.67)2 + 2.4581 x        (t + 459.67)3
+
+   Cp(cal g-I "C-')    = - 3.0315 x     + 2.0481 x       (t + 459.67)
+                         - 6.0115 x      (t + 459.67)2 + 1.4336 Y  lo-'   (t + 459.67p
+
+   Cp(J g-l "C-')      = - 1.2684 x     + 4.7606 x        (t + 459.67)
+                          - 2.5152 x      (t + 459.67)' + 5.9982 x        (t + 459.6713
+
+                                                                            (more)
+
+
+
+
+
+                                      115

@@ -1,0 +1,49 @@
+         • Safety Review – An independent, experienced team reviews operations and safety
+       procedures in use at a facility. The review includes simulated incidents and monitors the
+       response to the incidents.
+
+Toxic Hazards
+
+In the chemical process industry there is the hazard of exposure to chemicals that are toxic.
+Toxicity is defined as the ability of a chemical substance to cause physical harm to a living
+organism. The harm may range from a temporary irritation to permanent loss of function, to
+death. The toxic effect may be the result of a long term, cumulative effect (chronic toxicity) or a
+rapid response to the presence of the toxicant (acute toxicity).
+
+In either case, a key factor in the response is the amount of material presented in the exposure
+(dose) and the degree of toxicity exhibited by the material. The dose is typically measured in
+terms of amount per kg of body weight. The degrees of toxicity based upon the dosage required
+to cause death in 50 percent of the exposed subjects is shown in Table 17.
+
+                         Table 17. Degree of Toxicity LD50
+                                (dose per kg body weight)
+
+                          •< 1.0 mg           Dangerously toxic
+                              •1.0 – 50 mg         Seriously toxic
+                           •50 – 500 mg        Highly toxic
+                              •0.5 – 5 gm         Moderately toxic
+                            •5 – 15 gm            Slightly toxic
+                          •> 15 gm           Extremely low toxicity
+
+
+When working with and around various chemicals, there are a number of paths for toxic
+materials to enter the body. These routes include:
+
+                             •Ingestion – mouth or stomach
+                              •Inhalation – mouth or nose
+                               •Injection – skin cuts
+                         •Dermal absorption
+
+The toxic hazards can be eliminated from the body by excretion (kidneys, liver, lungs, other),
+detoxification through internal biotransformation, or by storage, typically in fatty tissue or bones.
+Methanol is the primary issue for toxic exposure in a biodiesel plant.
+
+Because of the risks from chronic exposure, there are limits to allowable exposures to most
+chemicals. These limits are based on a combination of time and concentration. these limits are
+termed “threshold limit values” and are described below.
+
+
+
+
+
+                                      96

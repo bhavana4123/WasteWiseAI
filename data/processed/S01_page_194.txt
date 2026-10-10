@@ -1,0 +1,47 @@
+Vegetable Oils
+
+
+COTTONSEED OIL, HYDROGENATED; liquid; yellow oil from various Gossipyium
+    species; chief constituents are glycerides of palmitic (-21%); oleic (-33%); stearic
+   (-2%); and linoleic (-44%) acids; densi iy, 0.91-0.92 g ~ m  - before~  ;   measurement, oil
+   was heated at 100°C (212°F)for 3 to 6 hours at 2-3 mm of Hg t o remove moisture.
+    Iodine number 6.5.
+
+   specific heat: 353-543 K (176'-518"F)
+
+   Cp(Btu lb-I  OF-')    = 0.4962 + 8.859 x lo"  T + 3.8265 x 10-7 T2
+            -1 K-l)                         0.5363 - 4.7376 x     T + 1.2398 x 10-6 T2   Cp(cal q            =
+   Cp(J g-  K-')       = 2.2439 - 1.9822 x     T + 5.1875 x     T2
+
+                                                      46CLAIWAL
+
+COTTONSEED OIL, REFINED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule   195. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 107.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58" to 13 I OF).
+
+   temperature                        H"(t)-Ho(-500C)
+  ("C>   (OF)       Btu lb-I                cal g-l                J g-l
+
+    -50    -58            0.00                   0.00                  0.00
+    -25    -13           23.74                  13.19                 55.19
+     0    32           60.16                 33.42                139.83'
+    25    77           86.62                48,I2               201.33
+    50   122          107.86                  59.92                250.7 1
+    55   131          112.16                  62.31                260.7 1
+
+   heat of fusion: result is a mean value for temperature range -50"  t o 55°C (-58' to
+    131OF).
+                                  I   Lf = 30.2 Btu Ib-
+   Lf = 16.8 cal
+
+
+                                                                      55RIE
+
+
+
+
+
+                                        216

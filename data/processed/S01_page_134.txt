@@ -1,0 +1,58 @@
+                                                          Plant Materials (Non-Woody)
+
+
+COCKS-FOOT GRASS - Continued
+
+                      dry weight       ash-free dry        std dev.
+                         basis          weight basis        of mean
+
+   aboveground dead material
+
+    q,(gross)  =          7306             8680            72.9   Btu Ib-l
+   qv(gross) =          4059            4822            40.5    cal q1
+    q,(gross)  =         16983            20 175         169     J g-
+
+   roots
+
+    q,(gross)  =          768 1             8620            85.1   Btu Ib-I
+    q,(gross)  =          4267             4789            47.3   cal q1
+    q,(gross)  =         17853            20037          198     3 g-
+
+                                                               75PAP
+
+COLTSFOOT; TussiZago farfara;solid; Material is an integral part of the ecosystem at
+   the herbaceous layer level of the mixed fir and beech forest in the Pulmonario (rubro)
+   Abieti-Fagetum area of the Bucegi mountains (two different stations) in Romania.
+   The plants have the following constitution: 33% of the weight is represented by the
+   stem axis and 67% by leaves. The species has an aestival (summer) type vegetation
+    period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated to a dry basis.
+
+    qv(gross) = 6595 Btu lbll
+    q,(gross)  = 3664 cal g i
+    q,(gross)  = 15330 J g-
+
+                                                         73PAU/BRE
+
+COWSLIP LUNGWORT; PuZrnonaria rubra; solid; Material is an integral part of the
+   ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+     is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+    gross heat of combustion: assume values refer to room temperature and values are
+    calculated to a dry basis.
+    qv(gross) = 7200 Btu lb- 1
+    qv(gross) = 4000 cal g-l
+    q,(gross)  = 16736 J g-l
+
+                                                          73PAU/BRE
+
+
+
+
+
+                                       147

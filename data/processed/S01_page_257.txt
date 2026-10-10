@@ -1,0 +1,36 @@
+Woody and Tree Materials
+
+
+OAK, WHITE; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 81.28, ash
+   content = 1.52, and fixed carbon = 17.20.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 49.48,
+   hydrogen = 5.38, oxygen = 43.13, nitrogen = 0.35, sulfur = 0.01, chlorine = 0.04, and
+   residue (ash) = I .6 I.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+                                         I    q,(gross)  = 8355 Btu lb-
+    q,(gross)   4641 cal g-l
+    q,(gross)  = 19420 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net)  7886 Btu  lb;'
+   qv(net)  4381 cal g-
+    q,(net)   I8330 J g-l
+
+                                                                        85 JEN/EBE
+
+OAK, WHITE; BARK; Quercus alba; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content = 10.7%; moisture content = 6.5%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+
+    qv(gross)  6995 Btu lbil
+    q,(gross)  = 3886 cal g-
+    q,(gross) = 16259 J g-'
+
+                                                          55CHA/MIT

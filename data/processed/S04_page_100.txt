@@ -1,0 +1,32 @@
+          Figure 5-3. Part Load Efficiency at ISO Conditions, Capstone C65
+
+
+
+
+
+        Source: Capstone, C65 Technical Reference
+
+5.4.2  Effects of Ambient Conditions on Performance
+The ambient conditions (temperature and air pressure) under which a microturbine operates have a
+noticeable effect on both the power output and efficiency. This section provides a better understanding
+of the changes observed due to changes in temperature and air pressure. At elevated inlet air
+temperatures, both the power and efficiency decrease. The power decreases due to the decreased mass
+flow rate of air (since the density of air declines as temperature increases), and the efficiency decreases
+because the compressor requires more power to compress air that is less dense. Conversely, the power
+and efficiency increase with reduced inlet air temperature.
+
+Figure 5-5 shows the variation in power and efficiency for a microturbine as a function of ambient
+temperature compared to the reference International Organization for Standards (ISO) condition of sea
+level and 59°F. The density of air decreases at altitudes above sea level. Consequently, power output
+decreases. Figure 5-4 shows the effect of temperature on output, and Figure 5-5 shows the effect on
+efficiency for the Capstone C200. The Capstone unit maintains a steady output up to 70-80 oF due to a
+limit on the generator output. However, the efficiency declines more uniformly as ambient temperature
+increases. Figure 5-6 shows a combined power and efficiency curve for the FlexEnergy MT250. For this
+model, both power output and efficiency change more or less uniformly above and below the ISO rating
+point.
+
+
+
+
+
+Catalog of CHP Technologies                          5–8                                  Microturbines

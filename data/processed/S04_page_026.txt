@@ -1,0 +1,30 @@
+    •  Turbocompounding
+    •   Modified or alternative engine cycles
+    •   Exhaust energy retention
+    •   Exhaust after-treatment – improving SCR and TWC operation and proving the operation of Lean
+      NOx catalyst (LNC)
+    •  Water injection
+    •   High power density
+    •   Multiple source ignition
+The U.S. DOE funds collaborative research and development toward the development of improved ultra-
+supercritical (USC) steam turbines capable of efficiencies of 55-60 percent that are based on boiler tube
+materials that can withstand pressures of up to 5,000 psi and temperatures of 1,400 oF. To achieve these
+goals, work is ongoing in materials, internal design and construction, steam valve development, and
+design of high pressure casings. A prototype is targeted for commercial testing by 2025. Research is also
+underway to restore and improve the performance of existing steam turbines in the field through such
+measures as improved combustion systems for boilers, heat transfer and aerodynamics to improve
+turbine blade life and performance, and improved materials to permit longer life and higher operating
+temperatures for more efficient systems.
+
+The focus on emerging markets such as waste heat recovery and biomass-fueled power and CHP plants
+is stimulating the demand for small and medium steam turbines. Technology and product development
+for these markets should bring about future improvements in steam turbine efficiency, longevity, and
+cost. This could be particularly true for systems below 500 kW that are used in developmental small
+biomass systems and in waste-heat-to-power systems designed to operate in place of pressure
+reduction valves in commercial and industrial steam systems operating at multiple pressures.
+
+
+
+
+
+Catalog of CHP Technologies                            1-14                                     Introduction

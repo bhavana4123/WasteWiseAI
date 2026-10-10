@@ -1,0 +1,50 @@
+                           80
+                                         (g/L)  70                                                       RunRun 12 EthanolEthanol
+
+                           60                                                       Run 3 Ethanol
+                                                                                        Run 4 Ethanol
+                           50
+                                                                                        Run 5 Ethanol                                                                                                          Concentration
+                           40                                                       Run 1 Lactic Acid
+                                 Acid
+                                                                                        Run 3 Lactic Acid
+                                                         /Lactic  30                           20
+
+                           10                                                         Ethanol
+                            0
+                              0            24            48            72
+                                           Time (h)
+
+
+               Figure 5. Ethanol and lactic acid (Runs 1 and 3 only) concentration
+                                 profiles for each demonstration run
+
+We believe the health of the cells used to inoculate the main fermentor may have played a role in
+the success of the fermentation (success is defined as no appreciable production of by-products
+such as lactic acid). After we detected contamination in the main fermentor during Run 1, we
+began plating enzymatic hydrolysate and fermentation broth samples. This work identified other
+bacteria in the enzymatic hydrolysate. Since the high temperature (50°C) conditions during
+enzymatic hydrolysis are not favorable to growth, no proliferation of bacteria was seen during
+enzymatic hydrolysis. However, once temperature and pH are changed to values required for
+fermentation, the bacteria would be able to grow. If a healthy inoculum of seed culture is added
+to the fermentor, these cells (because of their much higher cell density and rapid growth rate)
+will quickly convert most of the sugars to ethanol before the contaminating bacteria can utilize
+much of the sugars. But if the cells in the inoculum are not growing rapidly or are otherwise
+unhealthy, then contaminating bacteria would be able to compete and produce by-products such
+as lactic acid, as seen in Runs 1 and 3.
+
+Figure 6a shows the cell density (as measured by OD) and the corresponding glucose
+consumption curves (Figure 6b) for inoculum grown for each demonstration run, which is the
+best indicator of cell health that was employed for these runs. High cell densities (9–10) were
+achieved in Run 4 and 5 inoculums, in which no significant lactic acid was produced during the
+main fermentation. The high cell densities are not necessarily required (as illustrated by the
+success of Run 2), which was transferred at an OD of 7.5. While the OD of Run 1’s inoculum
+was 8, this run had the highest lactic acid production. Nevertheless, the inoculum cell density of
+Run 3 was somewhat low (~7), so these results still suggest that high cell densities are more
+likely to lead to a successful fermentation.
+
+
+
+
+
+                                      15

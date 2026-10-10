@@ -1,0 +1,58 @@
+                      Atomic Weights 1983 (cont'd)
+
+                                Atomic    Atomic
+ Names                Symbol    Number    Weight
+
+Francium*                 Fr          87
+Gadolinium            Gd          64       157.25 2 3
+Gallium               Ga         31       69.723 2 4
+Germanium            Ge          32       72.59 f 3
+Gold                  An          79       196.9665
+Hafnium                  Hf          72       178.49 ? 3
+Helium                He           2       4.002602 ? 2
+Holmium               Ho          67       164.9304
+Hydrogen             H           1       1.00794 ? 7
+Indium                          In           49       114.82
+Iodine                                      I            53       126.9045
+Iridium                             Ir           77       192.22 ? 3
+Iron                    Fe          26       55.847 ? 3
+Krypton                  Kr          36       83.80
+Lanthanum              La           37       138.9055 ? 3
+Lawrencium*               Lr          103
+Lead                   Pb         82       207.2
+Lithium                    Li           3       6.941 ? 2
+Lutetium                Lu          71       174.967
+Magnesium           Mg         12       24.305
+Manganese            Mn          23       54.9380
+Mendelevium*         Md        101
+Mercury               Hg          80       200.59 ? 3
+Molybdenum           Mo          42       95.94
+Neodymium             Nd          60       144.24 2 3
+Neon                  Ne          10       20.179
+Neptunium*             NP          93
+Nickel                    Ni            . 28       58.69
+Niobium               Nb          41       92.9064
+Nitrogen             N            7       14.0067
+Nobelium*              No         102
+Osmium                    0 s          76       190.2
+Oxygen            0            8       15.9994 f 3
+Palladium               Pd          46       106.42
+Phosphorus              P           15       30.97376
+Platinum                  Pt          78       195.08 2 3
+Plutonium*              Pu          94
+Polonium *               Po          84
+Potassium (Kalium)       K           19      39.0983
+Praseodymium            Pt          59       140.9077
+Promethium*          Pm         61
+Protactinium*            Pa          91
+Radium*               Ra          88
+Radon*                Rn          86
+Rhenium               Re          75       186.207
+Rhodium               Rh          45       102.9055
+Rub id iurn              Rb          37       83.4678 k 3
+Ruthenium              Ru          44       101.07 2 2
+Samarium             Sm          62       150.36 2 3
+
+
+
+                                    339

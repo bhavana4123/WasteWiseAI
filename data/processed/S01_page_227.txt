@@ -1,0 +1,41 @@
+Woody and Tree Materials
+
+
+ELM, WHITE;  Zmus arneril-ma;   )lid; air-dried a  105°-1100C (221 '-230OF); density,
+   0.64gcm-       Y.
+
+    specific heat: 273-379 K (32"-223'F)
+
+   Cp(Btu lb-I  OF-')    = 0.325
+            -1  -1  C (cal   K    )    = 0.325    p -!-1   Cp(J g  K   )      = 1.360
+
+                                                          12DUN
+
+EUCALYPTUS CAMALDULENSIS;solid; Material is considered biomass fuel and has
+   proximate analysis values (in percent by weight dry basis) for volatile concentration
+   (VCM)   81.42, ash content = 0.76, and fixed carbon = 17.82.  Also the ultimate
+   analysis of the elemental composition of the fuel (values in percent by weight dry
+    basis) is carbon = 49.00, hydrogen = 5.87, oxygen = 43.97, nitrogen = 0.30, sulfur =
+    0.01, chlorine = 0.13, and residue (ash) = 0.72.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 0 2 , and corrections applied for the formation of nitric and
+   sulfuric acids.
+
+   qv(gross) = 8355 Etu  lb;'
+    q,(gross)  = 4641 cal g-
+    q,(gross)  = 19420 J g-'
+
+   net heat of combustion: assume values refer to room temperature,
+
+    q,,(net)   7843 Btu  lb;'
+   qv(net) = 4357 cal g-
+   qv(net)  18230 3 g-l
+
+                                                                      85 JEN/EBE
+
+
+
+
+
+                                       250

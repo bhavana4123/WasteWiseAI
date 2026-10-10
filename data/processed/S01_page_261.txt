@@ -1,0 +1,47 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         I          ,Woody and Tree Materials
+
+
+PINE, PINYON; STEMS; Pinus eduZis; solid; Stem samples were branches < 0.25 in.
+   diameter with foliage removed and freeze-dried  t o < 10% moisture content.
+   Composition is ash = 2.23% and char yield = 22.3%.  Char was obtained from heating
+   the sample t o 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer t o room
+   temperature.
+
+    fuel                                    char (from 500°C heating)
+
+                                 1                                                     =                                                    13940                                                           Btu             9630    q,(gross)                  Btu                             lb-                     qv(gross)                                                                                                                  I p-'                                                                              g-                                                     = 7740                                                       q,(gross)                                                               cal             5350 cal    q,(gross)                         g-l
+    q,(gross)   22390 J g-'                       q,(gross) = 32400 J g-l
+
+                                                                   82SUS
+
+PINE, PONDEROSA; Pinus ponderosa; solid; Samples were conditioned t o moisture
+   equilibrium at 27°C (80°F) and 30% relative humidity; moisture content of wood -6%.
+
+   gross heat of combustion: assume values refer t o room temperature.
+                         1    qv(gross)  8327 2 68 Btu Ib-
+    qv(gross)  4626 ? 38 cal g-l
+    qv(gross) = 19355 k 159 J g-'
+
+                                                          67ROB; 64BRO
+
+PINE, PONDEROSA; solid; Material is considered biomass fuel and has proximate
+    analysis values (in percent by weight dry basis) for volatile concentration (VCM)=
+    82.54, ash content = 0.29, and fixed carbon = 17.17.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    49.25, hydro en = 5.99, oxygen = 44.36, nitrogen = 0.06, sulfur   0.03, chlorine = 0.01,
+   and residue ash)   0.30.             k
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+                         1    q,(gross)   8613 Btu Ib-    q,(gross) = 4785 cal g- 1
+                        1    q,(gross)  = 20020 J g-
+
+   net heat of combustion: assume values refer t o room temperature.
+
+    qv(net) = 8088 Btu  lb;'
+    qv(net) = 4493 cal g-
+    qv(net) = 18800 J g-l
+
+                                                             85JEN/EBE

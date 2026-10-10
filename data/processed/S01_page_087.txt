@@ -1,0 +1,39 @@
+                                                                      Foods
+
+
+MEAL, CORN (MAIZE); Zea mays; 11.79% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+                       1    q,(gross) = 6881 Btu lb-
+   qv(gross) = 3823 cal g-l
+   qv(gross)  15995 J g-l
+
+                                                      55MER/WAT
+
+MEAT, COOKED SCRAPS; solid; ultimate analysis: carbon, 59.59%; hydrogen, 9.47%;
+   oxygen, 24.65%; nitrogen, 1.02%; sulfur, 0.19%; ash, 5.08%; proximate analysis as
+    received: moisture, 38.74%; volatile matter, 56.34%; fixed carbon, 1.81%; ash, 3.1 1%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                                dry basis
+                                     1                                                     =             7628    qv(gross)                              lb-                     qv(gross)                                                   12450                   Btu                                                           Btu                                                                 1P-'                                                                         g-    qv(gross)             4238 cal                                                      q,(gross)                                                     = 6917                                                              cal                        g-l
+    q,(gross)   17731 J g-'                         q,(gross)   28942 J g-'
+
+                                                                   66KAI
+
+OATS; Avena sativa; solid; rolled; 8.66% moisture.
+
+   gross heat of combustion: assume values refer to room tempera ure.
+
+    q,(gross) = 8208 Btu lb;'
+    q,(gross)   4560 cal g-
+    q,(gross) = 19080 J g-'
+
+                                                      55MERIWAT
+
+
+
+
+
+                                      93

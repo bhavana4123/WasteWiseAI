@@ -1,0 +1,57 @@
+                                                  Woody and Tree Materials
+
+
+MAPLE, RED; Acer rubrum; solid; mean age = 12.7 years, mean basal stem diameter =
+    7.8 cm, mean stem bark (proportion of dry weight) = 10.796, ash content (proportion of
+   oven dry weight) of components of sample: wood = 0.51%, branches   1.4%, twigs =
+    2.1%, bark = 6.5%? and leaves = 5.2%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                         twigs:
+
+    q,(gross)  = 8654 Btu Ib;'                     qv(gross) = 8586 Btu Ib-'
+    q,(gross)  = 4808 cal 6;                         q,(gross)  = 4770 cal g-"
+    q,(gross)  = 201 17 J g                        qv(gross) = 19958 J g-l
+
+    bark:                                          leaves:
+    qv(gross) = 8203 Btu lb; 1                      q,(gross)   8957 Btu lbl 1
+    qv(gross) = 4557 cal g-                      qv(gross) = 4976 cal g-
+    q,(gross)  = 19066 J g-l                        q,(gross) = 20820 J g-l
+
+   branches:
+    qv(gross) = 8568 Btu lbl 1
+    q,(gross)  = 4760 cal g-
+    q,(gross)  = 19916 J g-'
+
+                                                              79NEE/STE
+
+MAPLE, RED; Acer rubrum; solid; Material came from various locations in New
+   Hampshire.  Bole samples were composed of cross sections taken from four positions
+   along length of each tree (at the base, one-third,  two-thirds, and at top of the stem).
+   Branch samples were composed of cross sections taken from four positions along
+   length of each of four branches (one branch from four positions in the live crown of
+   the tree).  Bark was removed from half of each bole and branch sample and all
+   samples were oven-dried at 85°C (185'F) to a constant weight
+
+   gross heat of combustion: Assume values refer to room temperature, thermochemical
+   calorie used and values were expressed on a dry matter basis and adjusted for heat of
+   formation of nitric acid.  All tests were made at 99% confidence level and numbers in
+   parentheses are standard errors.
+
+   bole with bark                           branch with bark
+                                                                     1    q,(gross) = 8626 (25) Btu  lb;'                    q,(gtoss)  = 8467 (47) Btu lbi
+    q,(gross)  = 4792 (14) cal g-                    q,(gross) = 4815 (26) cal g-                         1    q,(gross)  = 20050 (59) J g-                     q,(gross) = 20 146 (109) J g-l
+
+   bole without bark                         branch without bark
+
+    q,(gtoss)  = 8737 (38) Btu lbll                 q,(gross) = 8734 (43) Btu lb-I
+    q,(gross)  = 4854 (21) cal g-               q ( ross)  4852 (24) cal g-l
+    q,(gross)  = 20309 (88) J grl                  q$ross)   = 20301 (100) J g-'
+
+                                                                          (more)
+
+
+
+                                      267

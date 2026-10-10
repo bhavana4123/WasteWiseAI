@@ -1,0 +1,50 @@
+    2. A sensible heat effect to account for deviations of a stream’s temperature from the
+       reference temperature of 25°C. (This is computed by Aspen.)
+    3. A latent heat effect to account for major volatile components (e.g., water, ethanol,
+        furfural) that are in a phase other than the reference phase.
+The LHV is the energy released when a material is burned to form its combustion products, with
+water in the vapor phase. This is considered to be a more “true” heating value for transportation
+fuels, where the combustion water is generally not condensed to recover heat. On an LHV basis,
+any liquid water present in a material stream therefore reduces its combustion potential because
+heat must be expended to vaporize that water. Note that the sign convention in this basis follows
+the usual convention for heat of combustion: streams that can be burned (e.g., glucose or ethanol)
+have a negative potential energy. Streams that cannot be burned (e.g., water or sulfuric acid)
+have a positive potential energy.
+
+A comparison of the major energy streams produced by the process to the combustion energy of
+the biomass feed is made in Table 36; a small discrepancy in the model’s energy balance closure
+is due to reasons cited above. The combined energy available from the ethanol product and the
+exported electricity is 48% of the energy content of the biomass feed. The energy losses from the
+cooling tower and combustion exhaust are fairly large. Ambient heat losses are also significant;
+these include the wastewater lagoons and the air-cooled condenser on the rectification column.
+Compared to the 2002 design, less energy is lost from the cooling tower and combustion exhaust
+but more is lost through these ambient mechanisms. Note that “electricity reserve” refers to the
+total power demand to a small number of intermittent users in the plant (e.g., conveyor belts).
+This reserved electricity is not available for export and must be accounted for separately.
+
+                       Table 36. Ethanol Plant Overall Energy Balance
+                      Stream                        Energy
+                                                     Flow
+                                                        (MMkcal/h)
+                                      Major energy inputs
+                          Stover feedstock                     -316
+                        Glucose                                 -8
+                              Sulfuric acid                       1
+                     Ammonia                                -4
+                         Other chemicals                    0
+                          Well water                        87
+                            Total                               -239
+                                     Major energy outputs
+                          Ethanol                             -139
+                          Cooling tower evaporation             -20
+                       Combustion exhaust + ash             -12
+                        Ambient heat losses                   -63
+                                Electricity export                      -11
+                                Electricity reserve                       -4
+               WWT brine                        8
+                            Total                               -240
+
+As with the carbon balance, the energy content of non-carbohydrate compounds cannot be
+converted to ethanol. The total energy content of the carbohydrate components in the feed is -192
+
+                                      71

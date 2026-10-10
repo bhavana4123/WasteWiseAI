@@ -1,0 +1,33 @@
+Component    Property    Quantity       Units      Reference
+HMF      MW         126.11                      (5-hydroxymethylfurfural) Properties for HMF were estimated within Aspen using
+                                               NIST TDE routines. Specify molecular structure, MW, TB and DHFORM. From            TB          532.7       K
+                                                                     [90].
+          DHFORM    -79774.53      cal/mol
+            DHVLWT-   80550000      J/kmol
+              1
+           TC         731.012      K        NIST TDE
+           PC         5235810      Pa
+          OMEGA     0.993646710
+           VC         0.3425        m3/kmol
+           RKTZRA    0.198177974
+FURFURAL              -                   -                  -       Native Aspen component
+AACID                     -                   -                  -       Native Aspen component (acetic acid)
+LACID                     -                   -                  -       Native Aspen component (lactic acid)
+XYLITOL                  -                   -                  -       Native Aspen component
+GLYCEROL              -                   -                  -       Native Aspen component
+SUCCACID              -                   -                  -       Native Aspen component (Succinic acid)
+NH3                        -                   -                  -       Native Aspen component
+H2SO4                    -                   -                  -       Native Aspen component
+NH4SO4                  -                   -                  -       Native Aspen component (ammonium sulfate)
+NH4ACET     PLXANT/1   -1E20        atm        Native Aspen component (ammonium acetate) forced non-volatile
+DAP                        -                   -                  -       Native Aspen component (diammonium phosphate)
+HNO3                      -                   -                  -       Native Aspen component
+NANO3                    -                   -                  -       Native Aspen component
+NAOH                     -                   -                  -       Native Aspen component
+CNUTR                   -                   -                  -       Cellulase nutrient mix. Duplicate of glucose
+WNUTR                   -                   -                  -    WWT nutrient mix. Duplicate of glucose
+DENAT                    -                   -                  -       Denaturant. Native Aspen component (n-heptane)
+OIL                         -                   -                  -      Corn oil antifoam. Native Aspen component (oleic acid)
+O2                          -                   -                  -       Native Aspen component
+
+                                                   109

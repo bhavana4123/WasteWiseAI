@@ -1,0 +1,62 @@
+    Table 3-8. Sulfur Content of Biomass Fuels        biomass, depending on the completeness of char
+                                                                gasification. Therefore, it is important to provide for               % Sulfur,
+                                                    adequate removal of this bulky material.Biomass Fuels         Dry Weight Basis     Reference
+Alfalfa seed straw            0.3                             (1 )       Because charcoal often has a high value, gasifiers are
+Almond shells             <0.02                          (1 )       sometimes operated to produce up to 10% charcoal by
+Barley straw                   0.1 4                            (1 )        augering out the charcoal at the end ofthe flaming com­
+Coffee hulls                 0.2                        (2)        bustion zone (Pyrenco). This reduces the requirement
+Corn cobs                  0.001-0.007             (1 ,3)         for oxygen (air) and increases gas quality to more than
+Corn fodder                    0.1 5                      (1 ,2)         6.8 MJ/Nm3 , but also increases tar content. However,
+Corn stalks                 0.05                         (1 )       no current commercially successful small-scale char­
+Oat straw                   0.23                       (2)                                                            coal production in gasifiers is known to the authors.
+Cotton gin trash               0.26·0.31                     (1 )
+Flax straw, pelleted          <0.01                           (1 )        Charcoal is manufactured all over the world, and stan­
+Furfural residue              0.4                        (4)        dards determine the quality and suitability for various
+Olive pits                   0.02                         (1 )        uses (Emrich 1985). Recenttests at the Colorado School
+Peach pits                  0.04                         (1 )        of Mines have tested char pellet strength at various
+Peanut husks                  0.1                         (4)         stages of gasification (Hubis 1983).
+Peat (Finnish)                0.05-0.2                  (5)
+Peat, general                       1 .5-2.0                    (6)        3.3.3 Biomass Ash Content and Effects
+Rice hulls                   0.16                            (1 )
+Rice straw                  0.10                          (1 )        Fuels with a high ash content require much greater
+Walnut shells                0.03-0.09                    (1 )        attention to grate design, gas disengagement, and
+Wheat straw                0.17                       (2)         positive char-ash removal. The slagging behavior of
+Wood, chipped              0.08                            (1 )        various crop residues and wood is shown in Table 3-10.
+Wood, general              0.02                      (1 ,7)
+Wood, pine bark               0.1                         (4)          Table 3-9. Nitrogen Content of Biomass Fuels
+Wood, green fir              0.06                       (4)                                              % Nitrogen Dry
+Wood, kiln dried                  1 .0                        (4)                                                   Biomass Fuels          Weight Basis      ReferenceWood, air dried              0.08                       (4)
+                                                                  Barley straw                0.59                          (1 )(1) Gasification Project Ultimate Chemical Analysis Log, Agricultural
+                                                         Corn cobs                       0.1 6-0.56                     (1 )   Engineering Dept., University of California, Davis, 1979.
+                                                         Corn fodder                 0.94                           (1 )(2) Partridge, J. R" "Manitoba Crops as an Energy Source," Sixth An­
+   nual Conference, Biomass Energy Institute, Winnipeg, Manitoba,      Cotton gin trash                  1 .34-2.09                   (1 )
+   Canada, Oct. 13, 1977.                                     Corn stalks                        1 .28                          (1 )
+(3) Payne, F. A"  et al., "Gasification-Combustion of Corncobs and      Flax straw, pelleted             1.1                            (1 )
+   Analysis of Exhaust," American Society of Agricultural Engineers     Oat straw                   0.66                       (2)
+  Summer Meeting, San Antonio, TX, Paper #80-3025, 1980.            Olive pits                    0.36                          (1 )
+(4) Bailie, R. C., "Current Developments and Problems in Biomass     Peach pits                   1.74                          (1 )
+    Gasification," Sixth Annual Meeting, Biomass Energy Institute, Win­     Peat                          0.5-3.0                    (3)
+    nipeg, Manitoba, Canada, Oct. 13, 1977.                                                         Prune pits                  0.32                             (1 )
+(5) Ekman, E. and Asplund, D., A Review of Research of Peal Gasifica­     Rice hulls, pelleted           0.57                            (1 )
+    lion in Finland. Technical Research Centre of Finland, Fuel and                                                             Safflowerstraw              0.62                         (1 )   Lubricant Research Laboratory, Espoo, Finland.
+                                                          Walnut shells                0.260·0.4                   (1 )(6) Rambush, N. E., Modern Gas Producers, New York: Van Nostrand,                                                    Wood, general               0.009-2.0                (1 ,4)   1923.
+(7) Jenkins, B., Downdraft Gasificalion CharacleristicsofMajorCalifor­     Coal Fuels
+   nia Biomass-Derived Fuels, Ph.D. Thesis, Department of Agricul­      Anthracite                 <1.5                        (4)
+    tural Engineering, University of California, Davis, 1980.            German and English           0.5-1 .9                    (4)
+Source: Kaupp 1984a                                              bituminous coal
+                                                         American coal                0.5-2                      (4)
+that there is very little additional activity. It is clear that     Brown coal and lignites       0.5·2                      (4)
+larger particles carry more unreacted carbon with them
+                                                                                       (1) Gasification Project Ultimate Chemical Analysis Log, Agriculturaltban do smaller particles. Therefore, the conversion ef­                                                                           Engineering Department, University of California, Davis, 1979.
+ficiency will be maximized if removal of large char is                                                                                       (2) Partridge, J. R., "Manitoba Crops as an Energy Source," Sixth An­
+kept to a minimum. The balance between conversion         nual Conference, Biomass Energy Institute, Winnipeg, Manitoba,
+efficiency and ash removal will be fuel-specific.               Canada, Oct. 13, 1977.
+                                                                                       (3) Ekman, E. and Asplund, D., A Review of Research of Peat Gasifica­
+The final weight of the char-ash residue is usually 2%           tion in Finland, Technical Research Centre of Finland, Fuel and
+to 10% of the biomass weight, depending on the char­          Lubricant Research Laboratory, Espoo, Finland.
+ash removal rate and the char durability. However, the       (4) Rambush, N. E., Modern Gas Producers, New York: Van Nostrand,
+char-ash residue has a very low density and so may         1923.
+occupy up to 20% of the volume of the original      Source: Kaupp 1984a
+
+
+                                                                                                  Gasifier Fuels                                                                                                15

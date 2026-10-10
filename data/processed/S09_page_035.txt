@@ -1,0 +1,50 @@
+“degumming” step and the free fatty acids are removed in a “refining” step. Oil can be purchased
+as crude, degummed, or refined. The selection of the type of oil affects the production
+technology that is required.
+
+Animal tallows and recycled (yellow) grease have much higher levels of free fatty acids. Yellow
+grease is limited to 15% free fatty acids and is a traded commodity that is typically processed
+into animal and pet food.  Specifications for yellow grease are described in the chapter on
+Feedstock Preparation. Trap greases come from traps under kitchen drains and these greases can
+contain between 50 and 100% free fatty acids. There is no market for these greases at this time
+and most are landfilled. Trap grease is not yet used for biodiesel production and may have some
+technical challenges that have not be fully resolved such as difficult to break emulsifications
+(gels), fine silt that will cause equipment wear, high water contents, and very strong color and
+odor bodies that affect biodiesel and glycerin products. There are also unresolved questions
+about small quantities of other contaminants such as pesticides that might be present in the fuel.
+
+The options for the triglyceride choice are many. Among the vegetable oils sources are soybean,
+canola, palm, and rape. Animal fats are products of rendering operations. They include beef
+tallow, lard, poultry fat, and fish oils. Yellow greases can be mixtures of vegetable and animal
+sources. There are other less desirable, but also less expensive triglyceride sources such as brown
+grease and soapstock. The free fatty acid content affects the type of biodiesel process used, and
+the yield of fuel from that process. The other contaminants present can affect the extent of
+feedstock preparation necessary to use a given reaction chemistry.
+
+Alcohol: The most commonly used primary alcohol used in biodiesel production is methanol,
+although other alcohols, such as ethanol, isopropanol, and butyl, can be used. A key quality
+factor for the primary alcohol is the water content. Water interferes with transesterification
+reactions and can result in poor yields and high levels of soap, free fatty acids, and triglycerides
+in the final fuel. Unfortunately, all the lower alcohols are hygroscopic and are capable of
+absorbing water from the air.
+
+Many alcohols have been used to make biodiesel. As long as the product esters meet ASTM
+6751, it does not make any chemical difference which alcohol is used in the process. Other issues
+such as cost of the alcohol, the amount of alcohol needed for the reaction, the ease of recovering
+and recycling the alcohol, fuel tax credits, and global warming issues influence the choice of
+alcohol. Some alcohols also require slight technical modifications to the production process such
+as higher operating temperatures, longer or slower mixing times, or lower mixing speeds.
+
+Since the reaction to form the esters is on a molar basis and we purchase alcohol on a volume
+basis, their properties make a significant difference in raw material price. It takes three moles of
+alcohol to react completely with one mole of triglyceride. Today, one gallon of methanol costs
+$0.61. That gallon contains 93.56 gram-moles of methanol; at a cost of $ 0.00652 per gram-
+mole. By contrast, a gallon of ethanol, at the current price of $ 1.45 per gallon for fuel-grade
+ethanol, costs $ 0.02237 per gram-mole, or 3.4 times more.
+
+In addition, a base catalyzed process typically uses an operating mole ratio of 6:1 mole of
+alcohol rather than the 3:1 ratio required by the reaction. The reason for using extra alcohol is
+
+
+
+                                      31

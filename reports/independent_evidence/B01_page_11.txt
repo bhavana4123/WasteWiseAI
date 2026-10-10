@@ -1,0 +1,70 @@
+Appl. Sci. 2022, 12, 4822                                                                                                        11 of 25
+
+
+
+
+                             Table 4. Feedstock composition from Westerhof et al. [29].
+
+                                                                           Cellulose                        35
+                                Bio-chemical composition
+                                                                    Hemicellulose                      29
+                                        (wt.%, dry)
+                                                                        Lignin                         28
+
+                                                   C                             46.58
+                                           H                              6.34
+                                Ultimate analysis (wt.%, daf)      O (by difference)                      46.98
+                                           N                              0.04
+                                                                     S                               0.06
+
+                                   Alkali metals (mg/kg, dry)               Total Ash                       2600
+
+                                 Higher heating value
+                                            HHV                             18.3                                   (MJ kg−1, dry)
+
+
+                                   3.2. Char Analysis
+
+                           The produced char was collected via a set of cyclones placed right at the reactor exit,
+                            taking advantage of the centrifugal separation principle to remove coarser solid particles
+                         from the vapors’ stream. The elemental composition, as well as the proximate analysis and
+                            the higher heating value, are presented in Table 5.
+
+                             Table 5. Elemental Composition of char produced during Fast Pyrolysis of pinewood at 500 ◦C.
+
+                                      Ultimate Analysis           d (%)        daf (%)      mole g−1 Charcoal, w
+
+                                C                        76.00          78.62                  0.06
+                     H (excluding moisture H)            2.50            2.59                  0.03
+                     O (excluding moisture O)            17.90          18.52                  0.01
+                           N                         0.27            0.28                  0.00
+                                       m.m.                       3.33            3.44
+                                      Moisture (H2O)                  0.00            0.00                  0.00
+                                                Total d                    100.00
+                                               Total daf                                  100.00
+                              Higher heating value (MJ kg−1)         27.6            28.5
+
+
+                             These results are in agreement with the study of DeSisto et al. [52], who experienced
+                          comparable values for CHN and HHV for fast pyrolysis of pine sawdust in a ﬂuidized-bed
+                                reactor. Although this solid carbonaceous material is certainly not to be considered the
+                        main target when operating fast pyrolysis units, it represents a highly valuable by-product.
+                           Moreover, the well-known catalytic effect of char on the volatiles [54] is what motivates the
+                             application of a volatile/solid separation device.
+                           The elemental composition and properties of char are strictly dependent on the pro-
+                                cess’s main parameters, such as temperature and heating rate. Carbon content is expected
+                               to increase with temperature while concurrently, oxygen and hydrogen levels decrease [55].
+                            Nevertheless, the char considered in this study has been produced at ﬁxed experiment
+                             conditions, i.e., Treact = 500 ◦C, since operational variations have been applied only to the
+                           condensation train.
+
+                                   3.3. Non-Condensable Gas Analysis
+
+                           The composition of non-condensable gas, which consists of O2, H2, CO2, CO, CH4,
+                        C2H4, C2H6, C3H6, C3H8, and N2, was analyzed by GC. The samples collected from the
+                               outlet after the ESP or after the spray condensers train mainly consisted of N2 (the carrier
+                                gas), equal to ≃92% v/v, and a small portion of pyrogas, around 8% v/v, generated during
+                            the pyrolysis reactions.
+                             Non-condensable gas contains CO, CO2, H2, O2, CH4, and a small amount of hydro-
+                          carbons (C2–C3). The volume percentages of the main non-condensable gases generated
+                          during the biomass pyrolysis reaction while operating the two spray columns are shown

@@ -1,0 +1,47 @@
+                                                                   Vegetable Oils
+
+
+
+SUNFLOWER OIL, UNREFINED;  liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 186. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 135.
+
+   enthalpy difference: temperature range measured -50" t o 55°C (-58" t o 131°F).
+
+                                                   O (t)-H' (-50 C)   temperature               H
+  ("C>  (OF)      Btu Ib-I                cal g-l                J g-l
+
+    -50    -58              0.00                     0.00                   0.00
+    -25    -13           16.92                    9.40                  39.33
+     0    32           69.48                  38.60                161.50
+    25    77           90.14                  50.08               209.53
+    50   122        111.22                  61.79                258.53
+    55   131          115.47                  64.15               268.40
+
+   heat of fusion: result is a mean value for temperature range -50"  t o 55°C (-58" to
+   13 1OF).
+                1   Lf = 34.2 Btu Ib*
+   Lf  19.0 cal
+
+
+                                                                      55RIE
+
+TUNG OIL; liquid; a yellow drying oil from the nuts of the trees Aleurites COrdQta and
+   Aleurites fordii; glycerides of eleostearic (-80%); palmitic (-4%); stearic (- 1%); and
+    oleic (- 15%) acids; density, 0.936-0.942 g ~ r n - before~ ;    measurement, oil was heated
+   at 100°C (212'F)  for 3 to 6 hours at 2-3 mm of Hg pressure to remove moisture.
+   Iodine number 154.4.
+
+   specific heat: 293-473 K (68'-39Z°F)
+   Cp(Btu lb-l  OF-')     = 0.37651 + 7.9928 x    T - 1.9479 x    T2 + 2.0881  x 10-9 T3
+                                                          x     T - 1.5641 x    T2 + 1.2178 x 10-8 ~3   Cp(cal q-'  K-')     = -0,6053 + 7.0447
+   Cp(J g-  K-l)       = -2,5324 + 2.9475 x lo-* T - 6.4687 x    T2 + 5.0954 x 10-8 T3
+
+                                                        46CLA/WAL
+
+
+
+
+
+                                       229

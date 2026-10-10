@@ -1,0 +1,52 @@
+kg/h versus 187,000 kg/h) for a plant that has the same feedstock flow rate and produces its own
+enzyme.
+
+                            Table 37. Ethanol Plant Water Balance
+Inputs                           kg/h  gal/gal  Outputs                         kg/h  gal/gal
+Moisture in feedstock             20,833     0.76  Water in ethanol product           109     0.00
+Water in glucose (Area 400)         427     0.02  Cooling tower evaporation       137,363     5.00
+Water in raw chemicals            3,056     0.03  Stripped in enzyme aeration        774     0.03
+Generated in enzyme prod.         1,291     0.02  Scrubber vent                   522     0.02
+Generated in fermentation          121     0.00  Destroyed in pretreatment         2,473     0.09
+Generated in WWT                2,680     0.10  Destroyed in enzym. hydrolysis     2,631     0.10
+Generated in combustor          23,869     0.87 WWT evaporation                4,350     0.16
+Enzyme prod. air intake            638     0.02 WWT brine                      4,967     0.18
+Lignin cake dryer intake            237     0.01  Combustor stack                54,451     1.98
+WWT lagoon aeration intake        4,379     0.16   Boiler blowdown vent              2,580     0.09
+Combustor air intake              5,572     0.20
+Makeup (consumptive) water     147,140     5.35
+Sum of inputs                 210,243     7.65 Sum of outputs               210,220     7.65
+
+The ethanol conversion process itself is not a significant loser of water. Utilities are responsible
+ for practically all water loss, with 90% of the net water loss due to cooling tower evaporation.
+Table 38 expresses the individual cooling water users (see Figure 14) in terms of their water loss
+ responsibility in gal/gal.
+
+                 Table 38. Individual Contributors to Cooling Water Evaporation
+                Cooling Water User          MMkcal/h    % of      gal/gal
+                                                          duty
+                Condensing turbine                  50.7     52.1%        2.60
+                     Chiller condenser                    13.4     13.8%        0.69
+                   Pre-hydrolysis cooler                10.6     10.9%        0.54
+                  Hydrolysate flash                      7.3      7.5%        0.37
+                  Pre-fermentation cooler                5.9      6.1%        0.30
+                 Ethanol product cooler                 5.2      5.3%        0.27
+                 Molsieve regeneration cooler           2.6      2.6%        0.13
+              Enzyme air compressor                1.2      1.2%        0.06
+                Beer column condenser                0.5      0.5%        0.02
+                   Total                               97.4    100%        5.00
+
+The largest cooling water user is the condensing turbine (M-811), which is responsible for 2.6
+ gal/gal of water loss. A condenser on the turbine allows the steam to discharge from M-811 at a
+vacuum (about 0.1 atm) for maximum conversion of compressive energy to electricity. With the
+condensing turbine in place, the process generates enough electricity to supply all users in the
+ plant plus a significant surplus, which is assumed to be sold to the grid. It would be difficult to
+eliminate the condensing turbine in the present design because without it, the plant would only
+be able to burn enough of the lignin and biogas to meet the steam demand. This would result in a
+ significant excess of fuel that would have to be landfilled or disposed of somehow, or incinerated
+ at no value. The plant would also no longer make enough electricity to support all of its users
+and would have to purchase the balance from the grid. Note that grid electricity also has a water
+usage associated with it, which in a full life cycle assessment would have to be attributed to the
+ethanol plant. Given the turbogenerator electricity output, the consumptive water use associated
+
+                                      75

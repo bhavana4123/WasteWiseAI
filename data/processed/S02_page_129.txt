@@ -1,0 +1,49 @@
+     100r-----.----'r----'----.
+
+                                                                         Parts per million carbon monoxide in air
+
+     80Ǧ-------------+--    ˰o
+        :0  .,
+    _o "0·x                                                     Death
+        60ǜ--------t---------ǝǞ--ǟǠT---r-ǡ--Ǣ        ԡg og              ͮ           l" E                                                     Unconsciousness            OJ c    Ρ o
+           40                                                                   Impaired judgement, headache,.    dizziness,                        I-     WQ) ʢro                                                               tendency to faint        '---------ŧŨũŪūŬŭ=-ŮůŰűŲ==::il200       2'c ǎ_
+     "Ǐ .ǐ    ­                                                 100
+            O ͱͲͳʹ-L͵-LͶ                                      2           3          4   Sitting    r------------1/2                                   1 1/2         2  Walking    r------------1/4         1/2       3/4                      1 1/4 Working
+      L-³³__-____-__Ą____________
+                            Hours of exposure
+
+ Fig. 12-2. Absorption of carbon monoxide in the blood  (Source: Gengas 1950, Fig. 264)
+
+levels in ambient air. Mini (Peeper) CO models I, II, and     12.2.2 Creosote
+ III (MSA catalog nos. 465398, 465530, and 466523,
+                                                 Although downdraft gasifiers usually convert less thanwith ranges of 0-100, 0-500, and 0-250ppm, respective­
+                                               0.1% of the input into tars and  oils, these heavy ly) indicate CO levels, while model IV (MSA catalog
+                                                      products still must be scrubbed from the gas and dis­ no. 468572) indicates the CO level and sounds an alarm
+                                                 posed of. In earlier days, they were probably flushed (MSA). These precautions should be observed and en­
+                                         down the sewer or buried. Today, such practices have forced for the protection of all who run the risk of
+                                            come under close scrutiny, and neither can nor shouldinhaling gas.
+                                                be tolerated.
+                                       Man has always lived with the smoke and tars from12.2.1.4 Startup and Shutdown
+                                                                           fires, and we know that these materials can be tolerated
+Carbon monoxide gas release also occurs during start­     in reasonable quantities. We also know now that the
+up and shutdown. Gas is released when the gasifier is    smoke from wood cooking can cause cataracts and that
+fanned or when the engine is started on producer gas.    some tars contain dangerous carcinogens, so they
+These two CO releases can be eliminated by installing    should be handled with care.
+a propane-enriched burner at the fan outlet and by start­
+                                                      Furthermore, the tars contain phenols that are potenting the engine on liquid fuel.
+                                                            bacteriocides. Relatively small amounts can interfere
+When a gas generator is shut off, CO continues to be    with the proper operation of septic tanks and
+evolved, sometimes for hours. In this case, it is par­     municipal sewage systems. In Sweden during World
+ticularly important to have adequate ventilation. Since    War II, the maximum permissible phenol content of
+suction is no longer present within the gasifier, pres­     water released to sewers was 10 g/m3 (10 mg/L), ap­
+sure builds up, and CO and smoke can leak out. Under    proximately 10 ppm. The phenol content of typical
+no circumstances should a generator mounted on a      gasifier or gas-cooler condensate is from 1500 to
+vehicle be driven into a closed garage and shut off.       3000 mg/L. Dumping these condensates onto the
+                                                 ground or into the sewers or waterways is not accept­These concerns were the impetus for vehicle gasifier                                                               able. It should be mandatory that we determine saferegulations between 1939 and 1946 that required the                                                         disposal for these materials.gas-mixer air inlet to be extended out of the engine
+compartment. In this way, the opening was a safe dis­    The best way to solve this disposal problem is preven­
+tance downwind from doors and windows. Similar     tion at the source; in other words, gasifiers must be
+regulations applied to the gasifier air inlet.               designed to convert the maximum amount oftars to gas.
+
+
+
+                                                               Safety and Environmental Considerations    121

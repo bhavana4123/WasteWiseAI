@@ -1,0 +1,33 @@
+7.6.4  Fuels
+Packaged systems generally use natural gas as fuel. However, other fuels, such as propane and biogas,
+can be used. Biogas fuels (e.g., anaerobic digester gas and landfill gas) may require pretreatment to
+remove moisture, hydrogen sulfide and siloxanes. The extent of pretreatment depends on the quality of
+the fuel and the prime mover technology. More details on fuels that can be used for different prime
+movers can be found in their respective technology characterizations in the Catalog.
+
+7.7   Emissions, Emissions Control Options, and Prime Mover Certification
+Most CHP systems emit certain pollutants–carbon dioxide115, oxides of nitrogen (NOX), carbon monoxide
+(CO), and volatile organic compounds. Emissions can vary depending on the prime mover technology,
+fuel type, and the emissions controls that are applied. Many packaged systems are equipped with
+emissions controls to reduce NOX, CO and VOC emissions. Additional emissions controls may be
+available as options.
+
+Packaged system vendors may offer systems with engines certified to comply with U.S. EPA regulations
+for stationary engines. A certificate of conformity with the Clean Air Act is supplied with these engines.
+Owners of systems with non-certified engines are responsible for having the engines individually
+performance-tested using the required EPA-approved test protocol (some vendors who sell uncertified
+systems perform emissions testing on systems after they are installed).
+
+A thorough discussion of emissions and control options for each prime mover technology is provided in
+its respective technology characterization sections of the Catalog.
+
+
+
+
+
+115 While there is no currently viable technology to reduce CO2 emissions from fossil fuel combustion, emissions can be reduced
+by increasing the useful outputs from a given amount of fuel burned. CHP is a highly cost-effective way to achieve this
+objective.
+
+
+Catalog of CHP Technologies                         7–15                       Packaged CHP Systems

@@ -1,0 +1,53 @@
+Fossil Materials                                                                                      , .
+
+
+
+KEROSINE, liquid; mixture of hydrocarbons with boiling points ranging from 180"-300°C
+    (356'-572"F); ultimate composition: carbon, 85.8%; hydrogen, 14.2%; sulfur, 58 ppm;
+    total paraffins, 30.9%; total naphthenes, 64.3%; total aromatics, 4.8%; density,
+    0.8019 g cm-3 at 24°C (75°F); API gravity, 43.5.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+    q,(gross) = 19957 Btu lb-'
+    q,(gross)  = 11087 cal
+    q,(gross)  = 46390 f
+
+                                                                73LEN/HIP
+
+LIGNITE; solid; Lignite is also called Brown Coal. (sample I) ultimate analysis: carbon,
+   68.32%; hydrogen, 4.00%; oxygen, 25.54%; nitrogen, I .42%;  sulfur, 0.72%; proximate
+    analysis: ash, 13.27%; moisture, 23.30%; volatile matter, 43.5%; loss on air drying,
+   17.3%; (sample 2) ultimate analysis: carbon, 63.30%; hydrogen, 3.32%; oxygen,
+   29.86%; nitrogen, 1.35%; sulfur, 2.17%; proximate analysis: ash, 10.12%; moisture,
+   31.37%; volatile matter, 50.6%; loss on air drying, 14.2%.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+   sample I, ash free and moisture free      sample 2, ash free and moisture free
+                                                                  1            =    q,(gross)             11040                  Btu                          1                                                      q,(gross)                                                          Btu                                                                                  Ib-                                                     9635                                                     =                                       P-'                          g-    q,(gtoss)                    cal           = 6132                                                        q,(gross)                                                                 cal                                                                       g-l                                                     = 5353
+    q,(gross)  = 25656 J g-l                         q,(gross)  = 22399 J g-l
+
+   sample I , as received                   sample 2, as received
+    q,(gross)  = 8105 Btu Ib- 1                                                  q,(gross) = 5638 Btu lb-I
+                                                qJgross)  = 3132'cal g- 1    q,(gross)  = 4503 cal g-l
+    q,(gross)  = 18841 J g-l                      qv(gross) = 13104 3 g-l
+
+                                                           18POO; 15LOR
+
+NAPHTHA, ALASKA; liquid; ultimate analysis: carbon, 86.3%; hydrogen, 13.7%;
+    nitrogen, 0.3 ppm; sulfur, 99 ppm; total paraffins, 39.7%; total naphthenes, 39.6%;
+    total aromatics, 20.5%; density, 0.7703 g cm-3 at 24OC (75OF); API gravity, 50.5.
+
+   gross heat of combustion: assume values refer t o room temperature.
+                        1    q,(gross)  = 19514 Btu Ib-
+    q,(gross)  = 10841 cal
+    q,(gross)  = 43360 J
+
+                                                               73LEN/HIP
+
+
+
+
+
+                                         118

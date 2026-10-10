@@ -1,0 +1,47 @@
+Biomass-Derived Materials
+
+
+LICNIN, SOFTWOOD;solid; composition: carbon, 64%; hydrogen, 6%; oxygen, 30%;
+   empirical formula: C 10Hl I .203.3;no general agreement prevails about the structure
+    of lignin.  Studies show that a dioxyphenylpropyl grouping is an important part of the
+   polymer.
+
+   gross heat of combustion: assume values refer to toom temperature.
+
+           =    q,(gross)             11340                   Btu                        1P-'                          g-            = 6300    q,(gross)                    cal
+     q,,(gross)  = 26360 J g-'
+
+                                                        67RYD; 68GUL
+
+MANURE, PIG; solid; faeces from hogs; oven dried; 0% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross) = 7704 Btu lbi 1
+    qv(gross) = 4280 cal g-
+    qv(gross) = 17900 J g-l
+
+                                                       73BAC/HAR
+
+STARCH; solid; general formula: C6H10Og;polysaccharide is widely distributed in the
+   vegetable kingdom and is stored in all grains and tubers.
+
+   gross heat of combustion: assume values refer to room temperature.
+    qv(gross) = 7560 Btu Ib; 1
+    qv(gross) = 4200 cal g-
+    q,(gross)  = 17570 J g-l
+
+                                                      55MER/WAT
+
+STARCH TRIACETATE; solid; repeating unit: C 12H I 608.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross) = 8098 Btu Ibi 1
+    q,(gross)   4499 cal g-    q,(gross)  = 18824 J g- I
+
+                                                             22KAR/FIO
+
+
+
+
+
+                                       72

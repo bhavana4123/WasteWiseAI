@@ -1,0 +1,33 @@
+SO2 emissions from steam turbines depend largely on the sulfur content of the fuel used in the
+combustion process. SO2 comprises about 95 percent of the emitted sulfur and the remaining 5 percent
+is emitted as sulfur tri-oxide (SO3). Flue gas desulphurization (FGD) is the most commonly used post-
+combustion SO2 removal technology and is applicable to a broad range of different uses. FGD can
+provide up to 95 percent SO2 removal.
+
+CO2 emissions result from the use the fossil fuel-based CHP technologies. The amount of CO2 emitted in
+any of the CHP technologies discussed above depends on the fuel carbon content and the system
+efficiency. The fuel carbon content of natural gas is 34 lbs carbon/MMBtu; oil is 48 lbs of carbon/MMBtu
+and ash-free coal is 66 lbs of carbon/MMBtu.
+
+1.4  Comparison of Water Usage for CHP compared to SHP
+Water is critical in all stages of energy production, from drilling for oil and gas to electricity production.
+As water supply levels are being challenged by continuing and severe droughts, especially in the
+Southeast and Western regions of the U.S., as well as increasing demand and regulations, water
+requirements and usage are becoming important considerations in energy production.
+
+According to the U.S. Geological Survey (USGS), thermoelectric power, which uses water for cooling
+steam turbines, accounts for the largest share of water withdrawal in the U.S., at 49 percent in 2005
+(latest year data are available). Table 1-4 shows the water consumption (gal/MWh) by SHP technology
+and cooling technology.
+
+      Table 1-4. Water Consumption by SHP Technology, Cooling Technology6
+
+
+
+
+
+6 Stillwell, Ashlynn S., et al, Energy-Water Nexus in Texas, The University of Texas at Austin and Environmental Defense Fund,
+April 2009.
+
+
+Catalog of CHP Technologies                            1-12                                     Introduction

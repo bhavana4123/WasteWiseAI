@@ -1,0 +1,33 @@
+Component    Property    Quantity       Units      Reference
+N2                          -                   -                  -       Native Aspen component
+NO                         -                   -                  -       Native Aspen component
+NO2                        -                   -                  -       Native Aspen component
+CO                         -                   -                  -       Native Aspen component
+CO2                        -                   -                  -       Native Aspen component
+CH4                        -                   -                  -       Native Aspen component
+H2S                        -                   -                  -       Native Aspen component
+SO2                        -                   -                  -       Native Aspen component
+CELLULOS   DHSFRM    -233200.06     cal/mol     Native Aspen component with specified heat of formation; back-calculated
+GALACTAN              -                   -                  -       Duplicate of CELLULOS
+MANNAN                 -                   -                  -       Duplicate of CELLULOS
+XYLAN        Formula     C5H8O4 (monomer)
+         MW        132.117
+           DHSFRM    -182099.93     cal/mol    From [22]. Assumes the ratio of ΔHc of glucose:xylose is the same for
+                                                               cellulose:xylan.
+ARABINAN               -                   -                  -       Duplicate of xylan
+LIGNIN                    -                   -                  -     Used native Aspen component vanillin (C8H8O3). The HHV of this compound (-
+                                                    23,906 BTU/kg) is very close to what we previously assumed for lignin as a
+                                                  custom component (-24,206)
+ACETATE                -                   -                  -     Used native Aspen component acetic acid
+PROTEIN      Formula      CH1.57O0.31N0.29S0.007       Wheat gliadin [91]
+         MW        22.8396
+           DHSFRM    -17618         cal/mol    From literature value of gliadin ΔHc [92]
+             PLXANT/1   -1E20        atm        Forces non-volatility
+ASH                        -                   -                  -       Native Aspen component CaO
+ENZYME       Formula      CH1.59O0.42N0.24S0.01         Provided by Novozymes [55]
+         MW        24.0156
+           DHSFRM    -17618         cal/mol     copied from PROTEIN
+DENZ                      -                   -                  -      Denatured enzyme. Duplicate of enzyme
+
+
+                                                   110

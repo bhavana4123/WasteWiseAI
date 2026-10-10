@@ -1,0 +1,55 @@
+                                                                    Animals
+
+
+COPEPOD, Calanus helgolandicus;solid; A large subclass of crustaceans mostly minute
+    in size found in both fresh and salt water.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+    q,(gross)  = 9720 2 355 Btu lb;'
+    qv(gross) = 5400 2 197 cal g-
+    q,(gross) = 22594 5 824 J g- 1
+
+                                                                    6 1SLO/RIC
+
+COPEPOD;Trigriopus californicus;solid; A large subclass of crustaceans mostly minute
+    in size and found in both fresh and salt water.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+    q,(gross)  = 9927 k 499 Btu lb;'
+    q,(gtoss)  = 5515 2 277 cal g-
+    q,(gtoss)  = 23075 f 1159 J g-l
+
+                                                                    6 1SLO/RIC
+
+FLATWOIRM; Dugesia tigrina; solid; a planarian worm of the phylum Platyhelminthes.
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    q,(gross)  = 11315 2 608 Btu 1P-l
+    q,(gross) = 6286 ,+ 338 cal g-
+    q,(gross)  = 26301 2 1414 J g-l
+
+                                                                    6 1SLO/RIC
+
+FLATWORM, TERRESTRIAL; BipaZium keuense; solid; Large worm found in the tropics,
+   having the head end expanded into a semicircular plate.
+
+   gross heat of combustion: assume values refer to room temperature and ate
+   corrected to an ash-free basis.
+
+    q,(gross) = 10231 k 223 Btu lb-l
+    q,(gross) = 5684 2 124 cal g-'
+    q,(gross)  = 23782 t 519 J g- 1
+
+                                                                          6 1SLO/RIC
+
+
+
+
+
+                                        57

@@ -1,0 +1,48 @@
+Table 4. Chemical Structure of Common Fatty Acids and Their Methyl Esters
+Fatty acid (trivial name /    Structure a)           Common  Methyl ester (trivial
+rational name);                                 acronym  name / rational name)
+Palmitic acid /              R-(CH2)14-CH3            C16:0      Methyl palmitate /
+Hexadecanoic acid;                                               Methyl hexadecanoate
+
+Stearic acid / Octadecanoic   R-(CH2)16-CH3            C18:0      Methyl stearate /
+acid                                                            Methyl octadecanoate
+
+Oleic acid / 9(Z)-           R-(CH2)7-CH=CH-(CH2)7-  C18:1      Methyl oleate / Methyl
+octadecenoic acid         CH3                                   9(Z)-octadecenoate
+
+Linoleic acid / 9(Z),12(Z)-    R-(CH2)7-CH=CH-CH2-    C18:2      Methyl linoleate /
+octadecadienoic acid;       CH=CH-(CH2)4-CH3                  Methyl 9(Z),12(Z)-
+                                                                   octadecadienoate
+Linolenic acid /             R-(CH2)7-(CH=CH-CH2)3-  C18:3      Methyl linolenate /
+9(Z),12(Z),15(Z)-          CH3                                 Methyl
+octadecatrienoic acid;                                                  9(Z),12(Z),15(Z)-
+                                                                   octadecadienoate
+a) R = COOH (CO2H) or COOCH3 (CO2CH3); (CH2)7 = CH2-CH2-CH2-CH2-CH2-CH2-CH2, etc.
+
+
+Table 5. Characteristics of Common Fatty Acids and Their Methyl Esters
+ Fatty acid           Formula            Molecular weight        Melting point
+ Methyl ester                                                           (ºC)
+ Palmitic acid          C16H32O2             256.428                 63-64
+ Methyl palmitate       C17H34O2             270.457                  30.5
+ Stearic acid            C18H36O2             284.481                70
+ Methyl stearate        C19H38O2             298.511                39
+ Oleic acid             C18H34O2             282.465                16
+ Methyl oleate          C19H36O2             296.495                  -20
+ Linoleic acid          C18H32O2             280.450                   -5
+ Methyl linoleate        C19H34O2             294.479                  -35
+ Linolenic acid         C18H30O2             278.434                  -11
+ Methyl linolenate       C19H32O2             292.463                  -52 / -57
+
+A glance at the differences in the nomenclature will indicate why. Often fatty acids and their
+esters are referred to, especially in writing, by the abbreviations given in the last column of Table
+4. (Question: How do those abbreviations arise?)
+
+All double bonds in the rational nomenclature of fatty acids and esters are also defined by a letter
+(Z) , which is the result of the possibility of two kinds of double bonds. These two kinds of
+double bonds are a result of how the other parts of the molecule are attached in space to the
+carbon atoms forming the double bond. Besides this technical aspect, we will not discuss any
+
+
+
+                                      12

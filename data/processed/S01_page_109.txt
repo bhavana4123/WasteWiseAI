@@ -1,0 +1,47 @@
+Fossil Materials
+
+
+GREASE, APIEZON N - Continued
+
+   In the temperature range -73" to 57OC, (-99O to 124"F), C  is anom lous;  ralues are   given below                                        P
+
+    tern erature
+    ('CP   (OF)        Cp(Btu Ib-I  OF-')
+
+    -73    -99                   0.281                     0.28 I                1.18
+    -63    -81                 0,301                   0.301                  1.26
+    -53    -63                 0.344                  0.344                1.44
+    -43   -45                 0.392                  0.392                1.64
+    -33    -27                   0.421                  0,421                1.76
+   -23    - 9                0,445                  0,445                 1.86
+   -13    9                 0.468                   0.468                  1.96
+   - 3    27                 0.543                    0.543                 2.27
+    7    45                 0.679                   0.679                2.84
+    17    63                 0.853                    0.853                3.57
+    23    73                 0.899                   0.899                3.76
+    27    81                 0.858                   0.858                3.59
+    37    99                 0.626                   0.626               2.62
+    47   117                 0.554                   0.554                2.32
+    57   135                 0.538                   0.538                2.25
+
+                                                          69BUN/ASH
+
+GREASE, APIEZON P; solid; low vapor-pressure residues of paraffin oil distillation
+   products; average molecular weight 410 f 70.
+
+   heat of vaporization: temperature range 40"-160°C (104"-320"F),
+                        1    L,  = 152.5 Btu Ib-
+    L, = 84.70 cal
+    L, = 354.4 J
+
+   vapor pressure: temperature range 40"-160"C (104"-320"F).
+   logLoP(Torr)   = 13.91 - 7590 T-: (K)
+   loglo P(Pa)     = 16.03 - 7590 T- (K)
+
+                                                            57HERIREI
+
+
+
+
+
+                                       I16

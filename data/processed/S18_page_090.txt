@@ -1,0 +1,65 @@
+                                                                   TCI +/-25%
+
+                                                   EH enzyme loading 10:20:30 mg/g
+
+                                                   EH cellulose to glucose 95:90:75%
+
+                                                      PT acid loading 10:22:35 mg/g
+
+                                                   EH % solids 25:20:17.5%
+
+                                                FERM contamination losses 0:3:6%
+
+                                                FERM xylose to ethanol 90:85:75%
+
+                                                      PT xylan to xylose 92:90:80%
+
+                                                FERM arabinose to ethanol 85:85:0%
+
+                                                   EH time 2:3.5:5 d
+
+                                                FERM time 1:1.5:3 d
+
+                                                      PT glucan to glucose 12:10:6%
+
+                                                      PT % solids 40:30:25%
+
+                                                      PT temperature 150:158:170C
+
+                                                      PT xylan to furfural 3:5:8%
+                                                   ΔMESP ($/gal)             (a)
+ $(0.30)   $(0.20)   $(0.10)     $-      $0.10    $0.20    $0.30   Base case $2.15
+
+                                                   EH cellulose to glucose 95:90:75%
+
+                                                FERM contamination losses 0:3:6%
+
+                                                FERM xylose to ethanol 90:85:75%
+
+                                                      PT xylan to xylose 92:90:80%
+
+                                                FERM arabinose to ethanol 85:85:0%
+
+                                                      PT glucan to glucose 12:10:6%
+
+                                                   EH % solids 25:20:17.5%
+
+                                                      PT acid loading 10:22:35 mg/g
+
+                                                      PT temperature 150:158:170C
+
+                                                   EH enzyme loading 10:20:30 mg/g
+
+                                                      PT xylan to furfural 3:5:8%
+
+                                                      PT % solids 40:30:25%
+
+                                                FERM time 1:1.5:3 d
+
+                                                   EH time 2:3.5:5 d
+
+                                                                ΔYield (gal/ton)
+-8.0       -6.0       -4.0       -2.0       0.0       2.0       4.0                              (b)                                                             Base case 79.0
+
+   Figure 20. Single-point sensitivity tornado charts for (a) MESP and (b) ethanol yield
+                                  80

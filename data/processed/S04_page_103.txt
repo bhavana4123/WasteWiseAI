@@ -1,0 +1,41 @@
+Inlet air cooling can mitigate the decreased power and efficiency resulting from high ambient air
+temperatures. While inlet air cooling is not a feature on today’s microturbines, cooling techniques now
+entering the market, or being employed, on large gas turbines may work their way into next generation
+microturbine products.
+
+Evaporative cooling, a relatively low capital cost technique, is the most likely inlet air cooling technology
+to be applied to microturbines. It uses a very fine spray of water directly into the inlet air stream.
+Evaporation of the water reduces the temperature of the air. Since cooling is limited to the wet bulb air
+temperature, evaporative cooling is most effective when the wet bulb temperature is significantly below
+the dry bulb temperature. In most locales with high daytime dry bulb temperatures, the wet bulb
+temperature is often 20ºF lower. This temperature difference affords an opportunity for substantial
+evaporative cooling. However, evaporative cooling can consume large quantities of water, making it
+difficult to operate in arid climates.
+
+Refrigeration cooling in microturbines is also technically feasible. In refrigeration cooling, a compression-
+driven or thermally activated (absorption) refrigeration cycle cools the inlet air through a heat
+exchanger. The heat exchanger in the inlet air stream causes an additional pressure drop in the air
+entering the compressor, thereby slightly lowering cycle power and efficiency. However, as the inlet air
+is now substantially cooler than the ambient air, there is a significant net gain in power and efficiency.
+Electric motor driven refrigeration results in a substantial amount of parasitic power loss. Thermally
+activated absorption cooling can use waste heat from the microturbine, reducing the direct parasitic
+loss. The relative complexity and cost of these approaches, in comparison with evaporative cooling,
+render them less likely.
+
+Finally, it is also technically feasible to use thermal energy storage systems – typically ice, chilled water,
+or low-temperature fluids – to cool inlet air. These systems eliminate most parasitic losses from the
+augmented power capacity. Thermal energy storage is a viable option if on-peak power pricing only
+occurs a few hours a day. In that case, the shorter time of energy storage discharge and longer time for
+daily charging allow for a smaller and less expensive thermal energy storage system.
+
+The density of air also decreases with increasing altitude. The effect of altitude derating on the Capstone
+C65 is shown in Figure 5-7. An installation in the mile high city of Denver would have a capacity of only
+56 kW – a 14 percent drop in capacity. Unlike the effects of temperature rise, an increase in altitude at a
+given temperature does not have much impact on energy efficiency. The units operate at nearly the
+same efficiency, though at a lower output.
+
+
+
+
+
+Catalog of CHP Technologies                         5–11                                  Microturbines

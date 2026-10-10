@@ -1,0 +1,35 @@
+for limited duty engines such as emergency and peaking applications. Dual fuel is not widely used for
+CHP applications.
+
+2.3.2.4   Heat Recovery
+The economics of engines in on-site power generation applications often depend on effective use of the
+thermal energy contained in the exhaust gas and cooling systems, which generally represents 60 to 70
+percent of the inlet fuel energy. Most of the waste heat is available in the engine exhaust and jacket
+coolant, while smaller amounts can be recovered from the lube oil cooler and the turbocharger's
+intercooler and aftercooler (if so equipped). As shown in the previous table, 45 to 55 percent of the
+waste heat from engine systems is recovered from jacket cooling water and lube oil cooling systems at a
+temperature too low to produce steam. This feature is generally less critical in commercial/institutional
+applications where it is more common to have hot water thermal loads. Steam can be produced from
+the exhaust heat if required (maximum pressure of 400 psig), but if no hot water is needed, the amount
+of heat recovered from the engine is reduced and total CHP system efficiency drops accordingly.
+
+Heat in the engine jacket coolant accounts for up to 30 percent of the energy input and is capable of
+producing 190 to 230 °F hot water. Some engines, such as those with high pressure or ebullient cooling
+systems, can operate with water jacket temperatures of up to 265°F. Engine exhaust heat represents 30
+to 50 percent of the available waste heat. Exhaust temperatures for the example systems range from
+720 to 1000°F. By recovering heat in the cooling systems and exhaust, around 80 percent of the fuel's
+energy can be effectively utilized to produce both power and useful thermal energy.
+
+Closed-loop cooling systems – The most common method of recovering engine heat is the closed-loop
+cooling system as shown in Figure 2-2. These systems are designed to cool the engine by forced
+circulation of a coolant through engine passages and an external heat exchanger. An excess heat
+exchanger transfers engine heat to a cooling tower or a radiator when there is excess heat generated.
+Closed-loop water cooling systems can operate at coolant temperatures from 190 to 250°F. Depending
+on the engine and CHP system’s requirements, the lube oil cooling and turbocharger after-cooling may
+be either separate or part of the jacket cooling system.
+
+
+
+
+
+Catalog of CHP Technologies                          2–8                         Reciprocating IC Engines

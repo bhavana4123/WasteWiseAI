@@ -1,0 +1,54 @@
+                                                 Woody and Tree Materials
+
+
+
+EUCALYPTUS GLOBULUS; solid; Material is considered biomass fuel and has proximate
+   analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    81.60, ash content = 1.10, and fixed carbon = 17.30.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    48.18, hydrogen = 5.92, oxygen = 44.18, nitrogen = 0.39, sulfur   0.01, chlorine = 0.20,
+   and residue (ash)   1.12.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    qv(gross)  8273 Btu lbi'
+    qv(gross)  4596 cal g-
+    qv(gross) = 19230 J g-'
+
+   net heat of combustion: assume values refer t o room temperature.
+
+    q,(net)  = 7757 Btu  lb;'
+    q,(net)  = 4309 cal g l
+    q,(net)  = 18030 J g-
+
+                                                                         85 JEN/EBE
+
+EUCALYPTUS GRANDIS; solid; Material is considered biomass fuel and has proximate
+    analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    82.55, ash content = 0.52, and fixed carbon = 16.93.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    48.33, hydrogen = 5.89, oxygen = 45.13, nitrogen   0.15,  sulfur = 0.01, chlorine   0.08,
+   and residue (ash) = 0.41.
+
+   gross heat of combustion: assume values refer  t o room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross) = 8325 Btu lb- 1
+    q,(gross)  = 4625 cal g-l
+    q,(gross)  = 19350 J g-l
+
+   net heat of combustion: assume values refer t o room temperature.
+
+     q,(net)  = 7808 Btu lb-I
+    q,(net)  = 4338 cal gil
+    qv(net) = 18150 J g-
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                       25 1

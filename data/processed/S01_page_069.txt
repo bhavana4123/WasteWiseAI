@@ -1,0 +1,56 @@
+                                                             Biomass-Derived Materials
+
+
+   LIGNI", solid; Extracted wood of northern red oak (Quercus rubra) was divided into three
+      major chemical components of which lignin comprised 23.81%.  Material is the major
+      noncarbohydrate constituent of wood; it is a highly polymeric substance, with a
+      complex, cross linked, highly aromatic structure of molecular weight about 10,000
+       derived principally from coniferyl alcohol (C 1OHI203)by extensive condensation-
+       polymerization.                   The relationship                                  between                                                                   of comb                                               gross heat
+      content                          by the regression                                               equation:                                                     anqv(Btu                                                                         lb -Ystion= 9.0733-and moisture          (MC)is given
+      (0.0030)MC(%).
+
+       gross heat of combustion: oven dry basis, assume values refer to room temperature;
+       values are reported in international British thermal units per pound and converted
+      below into thermochemical units.
+                      1        q,(gross)  = 91 11 Btu lb-
+        q,(gross)  = 5062 cal g-l
+       qv(gross) = 21178 J g-'
+
+                                                        78MUR/MAS
+
+   LIGNIN, HARDWOOD; solid; composition: carbon, 60%; hydrogen, 6%; oxygen, 34%;
+       empirical formula: CIOHl204,2.No general agreement prevails about the structure
+        of lignin.  Studies show that a dioxyphenylpropyl grouping is an important part of the
+      polymer.
+
+      gross heat of combustion: assume values refer to room temperature.
+        q,(gross)  = 10620 Btu Ib- 1
+        q,(gross)   5900 cal g-l
+        q,(gross)  = 24685 3 g-'
+
+                                                            67RYD; 68GUL
+
+   LIGNIN, LOBLOLLY PINE WOOD; Pinus taeda: solid; major (29.4% lignin) [68McM]
+      noncarbohydrate constituent of wood; functions as a natural plastic binder for
+       cellulose fibers.
+
+       specific heat: 333-413 K ( 140°-2840F); samples were oven-dried at 100°C (212°F) for
+      12 hours before measurements were made.
+
+      Cp(Btu Ib-l "F-l)  = 0.2579 + 4.28 x  lo-'  T
+      Cp(cal 9-l K-')      = 0.06133 + 7.7  x     T
+      Cp(J g-  K-l)       = 0.25660 + 3.22  x lok3 T
+
+                                                           70McM
+
+
+
+
+-
+
+
+
+
+
+                                         71

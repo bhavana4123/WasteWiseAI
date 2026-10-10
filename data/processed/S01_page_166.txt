@@ -1,0 +1,54 @@
+                                                          Polymers and Plastics
+
+
+POLY-I, 1-DICHLOROETHYLENE (polyvinylidene chloride); solid; repeating unit:
+   C2H2C12; purity 99.9 mol %.
+
+   gross heat of combustion: at 25'C  (77'F)
+    q,(gross)    4527.2 f 3.8 Btu lb- 1
+    q,(gross)    2515.1 f 2.1 cal g-'
+    q,(gross)   10523.2 2 8.8 J g-'
+
+                                                            XSIN/STU
+
+POLY-1,l-DIFLUOROETHYLENE(polyvinylidene fluoride); solid; repeating unit:
+   C2H2F2; particle size 100 mesh.
+
+   gross heat of combustion: at 25OC (77°F)
+                                1    q,(gtoss)    6352.4 f 0.7 Btu lb-
+    q,(gross)    3529.1 f 0.4 cal g-'
+    q,(gross)   14765.8 2 1.7 J g-'
+
+                                                       64GOO/LAC
+
+POLY-2,6-DIMETHYLPHENYLENEETHER; solid; repeating unit: C8H80;20%
+    crystallinity; degree of polymerization -300 units.
+
+   gross heat of combustion: at 25'C  (77'F)
+    qv(gross) = 14892 2 2.5 Btu Ibl1
+    q,(gross)  = 8273.2 f 1.4 cal g-
+    q,(gross) = 34615.1 f 5.9 J g-l
+
+                                                                  68JOS
+
+POLY-4,Q'-DXOXY DIPHENYL-2,2-PROPANE CARBONATE; so 1id; em pir ica 1 formula
+   C16H1403*
+   gross heat of combustion: at 25°C (77°F)
+
+  PKU T 22                                Makrolon; solid.
+
+    qv(gross)  13336 f 3.8 Btu lb- 1               q,(gross)   13336 f 3.6 Btu Ib-'
+    q,(gross)  = 7408.7 f 2.1 cal g-'                q,(gross)  = 7408.7 f 2.0 cal g-l
+    qv(gross) = 30998.0 ? 8.8 J g-'               qv(gross) = 30998.0 f 8.4 J g-'
+   Lexan; General Electric trade name; 20% crystallinity; degree of polymerization - 150
+    units.
+                             1    q,(gross)  = 13307 ? 2.5 Btu 1bl
+    q,(gross)  = 7392.9 f 1.4 cal g-
+    q,(gross)  = 30931.9 f 5.9 J g-'
+
+                                                        68505; 67FRA/MIS
+
+
+
+
+                                       181

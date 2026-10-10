@@ -1,0 +1,53 @@
+ Woody and Tree Materials
+
+OAK, DURMAST - Continued
+
+                     dry weight       ash-free dry       std dev.
+                          basis           weight basis        of mean
+
+    shade-adapted leaf (5 measurements)
+
+    qv(gross) =         8329             8905             59.0   Btu lb-I
+    qv(gross) =          4627             4947            32.8    cal                                             c'
+    qv(gross) =         19359            20698          137     J g-
+   acorns (3 measurements)
+
+    q,(gross)  =          8377             8604           15     Btu Ib-I
+                       4654            =    qv(gross)                                        4780                                                                       8.1    cal
+            =         19472    qv(gross)                                                       34                                        20000                                                                      J g-F1
+
+   root (3 measurements)
+
+    q,(gross)  =          8089             8692             47.7    Btu Ib-I
+    q,(gross) =          4494             4829             26.5    cal q1
+    q,(gross) =         18803            20205         111     J g-
+
+                                                              75PAP
+OAK, NORTHERN RED; Quercus rubra; solid; Material was extractive-free wood (EFW)
+   comprising cellulose, 42.86%; hemicellulose, 33.33%; and lignin, 23.81%.  The
+    relationship  etween gross heat of combustion and moisture content (MC) is given by:   enqv(Btu lb- P) = 9.0389-(0.0107)MC(%)  for EFW.
+
+   gross heat of combustion: oven-dry basis, assume values refer to room temperature;
+   values are reported in international British thermal units per pound and converted
+   below into thermochemical units.
+    qv(gross) = 8581 Btu lb; 1
+    q,(gross)  = 4767 cal g-
+    q,(gross)  = 19945 J g-'
+
+                                                      78MUR/MAS
+
+OAK, NORTHERN RED; BARK; Quercus rubra; solid; gross heat of combustion
+   determined on 1 g samples of air-dried bark; ash content = 5.4%;  moisture content =
+    4.4%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+    q,(gross)  = 8030 Btu Ibi 1
+    q,(gross)  = 4461 cal g-
+    q,(gross)  = 18665 J g- 1
+
+                                                           55CHA/MIT
+
+
+
+                                        274

@@ -1,0 +1,48 @@
+Appendix B: Life Cycle Inventory for Design and
+State of Technology Case Models
+                                       2011 Design Case       2012 SOT
+   Products                              Production Rate     Production Rate
+                                                    kg/h                  kg/h
+   Neat ethanol                               21808              19455
+   Denatured ethanol                          22273              19994
+    Grid electricity                             13441              17209       kW
+   Resource Consumption                  Flow Rate          Flow Rate
+                                                    kg/h                  kg/h
+   Biomass (corn stover) - wet                  104167             104167
+   Biomass (corn stover) - dry                   83333              83333
+    Sulfuric acid                                1981               2240
+   Sodium hydroxide (caustic soda)               2252                750
+   Ammonia                                  1166                372
+   Corn steep liquor                            1321               1021
+   Diammonium phosphate                      142                105
+    Sorbitol                                    44                 33
+   Glucose                                   2845               2354
+   Host nutrients                               67                 66
+    Sulfur dioxide                                16                 16
+   Polymer                                    0                  8
+    Boiler water chemicals                          2.5.E-01              2.0.E-01
+  FGD lime                                  896                486
+    Cooling tower chemicals                       2                  2
+   Makeup water                             137528             162962
+    Air demand                               530420             605597
+   Denaturant (gasoline)                         465                417
+   Antifoam agent                              13                 13
+    Air Emissions                          Flow Rate          Flow Rate
+                                                    kg/h                  kg/h
+   Water (H2O)                              214357             234644
+    Nitrogen (N2)                              416398             471699
+   Oxygen (O2)                               61913              76759
+   Carbon dioxide (CO2)                       100333             104213
+   Methane (CH4)                               3                  3
+    Nitrogen dioxide (NO2)                        64                 71
+   Carbon monoxide (CO)                        62                 69
+    Ethanol                                     4                  4
+    Sulfur dioxide (SO2)                          54                 29
+   Waste Streams                          Flow Rate          Flow Rate
+                                                    kg/h                  kg/h
+   Ash disposal                               5726               5035
+   Wastewater (Brine)                          9904               9865
+
+
+
+                                      36

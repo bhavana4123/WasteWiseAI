@@ -1,0 +1,58 @@
+                            Figure 3.4 Anaerobic Food Waste Digester Gas Production
+
+     12
+
+            Start 15d MCRT                                Start 10d MCRT                                       Start 5d MCRT
+          11/27/2006                                1/9/2007                                         3/3/2007
+
+     10
+
+    (L/hr)  8
+
+
+                                                                                                         Thermo Test
+      6
+                                                                                                    Meso Test       Production
+  Gas  4                                                                                    NOTES:1. Average values of
+                                                                                                                              digesters fed
+                                                                                                                         municipal sludge per
+                                                                                                                         previous EBMUD
+                                                                                                                                  study.
+      2
+                                                                                            Typical Avg: 1.3 L/hr(1)
+
+
+
+      0
+      11/25/06      12/9/06      12/23/06       1/6/07       1/20/07       2/3/07       2/17/07       3/3/07       3/17/07
+
+                                             Date
+
+15-day MCRT
+The thermophilic digester showed a steady increase in gas production prior to the switch to 10­
+day MCRT operation. Fluctuation in gas production was observed in both digesters. The gas
+fluctuations appeared to result from both variations in feed strength, and also from periods of
+digester instability that resulted from digester temperature change. During stable operational
+periods, the gas production averaged 4.8 L/ hr (standard deviation 1.6 L/hr) for the thermophilic
+digester, and 4 L/hr (standard deviation 0.7 L/hr) for the mesophilic digester. Compared to the
+average gas production of 1.3 L/hr at a 15-day MCRT from a previous EBMUD digestion pilot
+study feeding municipal wastewater solids, food waste provides over a 3 fold increase in gas
+production. Based on the data in this study, gas production appears to increase when anaerobic
+digesters are operated at thermophilic rather than mesophilic temperatures, which may be
+attributed to the higher growth rate of the methanogens at higher temperatures. The changes in
+feed strength in the form of volatile solids (VS) loading and chemical oxygen demand (COD)
+loading due to feed changes are discussed in Sections 3.8 and 3.12. For the thermophilic digester,
+gas production continued to increase during the 15-day MCRT period and peaked at 10.8 L/hr,
+which was the highest observed during the study. The continued increase in gas production was
+likely due to an increase in volatile solids loading rate, as discussed in Section 3.8. Higher
+loading rates occurred during the shorter MCRT periods, but peak gas production was never as
+high as during the 15-day MCRT operational period. This is likely the result of the lower
+wasting rates at the 15-day MCRT, which would allow higher populations of the slower growing
+methanogens to develop and produce more methane gas.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               14
+Funding Opportunity No. EPA-R9-WST-06-004

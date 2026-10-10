@@ -1,0 +1,53 @@
+                                                                  Agricultural Residues
+
+
+
+COCONUT FIBER, DUST; solid; Material is considered biomass fuel and has proximate
+   analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    66.58, ash content = 3.72, and fixed carbon = 29.70.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    50.29, hydrogen = 5.05, oxygen = 39.63, nitrogen = 0.45, sulfur = 0.16, chlorine = 0.28,
+   and residue (ash) = 4.14.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 8626 Btu lbll
+    q,(gross)  = 4792 cal g-
+    q,(gross)  = 20050 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+                       1   qv(net) = 8183 Btu lb-
+    qv(net) = 4546 cal g-'
+    qv(net) = 19020 J g-l
+
+                                                                       85 JEN/EBE
+
+CORN COBS; solid; Material is considered biomass fuel and has proximate analysis values
+    (in percent by weight dry basis) for volatile concentration (VCM) = 80.10, ash
+   content = 1.36, and fixed carbon = 18.54.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 46.58,
+   hydrogen = 5.87, oxygen = 45.46, nitrogen   0.47, sulfur = 0.01, chlorine = 0.21, and
+   residue (ash) = 1.40.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 8075 Btu lb- 1
+    qv(gross) = 4486 cal g-'
+   qv(gross) = 18770 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 7543 Btu lbll
+    q,(net)  = 4202 cal gi
+    qv(net) = 17580 J g-
+
+                                                                    83JEN/EBE
+
+
+
+
+
+                                         15

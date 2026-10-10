@@ -1,0 +1,30 @@
+The simplified version of stabilization occurs in three phases: hydrolysis, acetogenesis, and
+methanogenesis.
+Hydrolysis is the first step where complex organics are converted to soluble organics through
+extracellular enzymes. Complex organics include carbohydrates, proteins, and lipids. The
+soluble organics include glucose, amino acids, fatty acids. Acetogenesis is the first complex step
+where acid producing bacteria (acetogens) convert soluble organics into volatile fatty acids, with
+acetic acid as the fully converted end point. Methanogenesis is the next step where the volatile
+fatty acids are converted to methane, and carbon dioxide. The growth rate of acetogens is much
+higher than that of methanogens, and the anaerobic digestion process requires a balance between
+these two populations so that the rate of acid formation does not outpace methane formation. If
+organic acids accumulate because the methanogen population is insufficient to convert the
+available organic acids into methane, the pH will drop, which may inhibit methanogens, resulting
+in even less methane produced.
+The rate of conversion from hydrolysis to acetogenesis to methanogenesis is influenced by
+MCRT, temperature, pH, and the concentration of toxic inhibitors (e.g., ammonia). The key to
+successful digester operation is maintaining consistent operating conditions, such as temperature,
+and MCRT.
+The majority of municipal anaerobic digesters in service operate in the mesophilic temperature
+range; however, in recent years thermophilic anaerobic digestion has been increasing in
+popularity due to its pathogen destruction capabilities and its ability to meet EPA’s Class A
+pathogen requirements, per EPA’s 503 regulations for biosolids land application (Gray,  et. al.,
+2004). In addition, thermophilic digestion is more suited for breaking down wastes that contain
+fats, oils, and greases, compared to mesophilic digestion (Suto, et. al., 2006).
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                              2
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,53 @@
+ Alloys and Metals
+
+
+80 NICKEL-20 CHROMIUM;solid; composition: nickel, 77.4%; chromium, 19.52%; iron,
+    0.45%; manganese, 0.59%; silicon, 1.4%; carbon, 0.04%.
+
+    specific heat:
+
+    273-423 K (32"-302"F)
+
+    Cp(Btu lb-I  OF-')     = 0.10191 + 4.222  x  lo-'  T
+                -I   -1                       = 0.0825 + 7.6 x     T   C p b l 5  K
+   Cp(J g-  K-')        = 0.3452 + 3.18 x     T
+    423-873 K (302"-1112"F)
+
+   Cp(Btu Ib-I  OF-')     = 0.10705 + 2.578 x     T
+                       = 0.0952 + 4.64  x    T   Cp(cal q1K-')
+   Cp(J g-  K-l)       = 0.3983 + 1,941 x    T
+
+   873-1173 K (1112°-16520F)
+
+   Cp(Btu lb-I   OF-')       0.11390 + 2.567 x    T
+   Cp(cal 4-l K-')      = 0.1021 + 4.62      T
+   Cp(J g-  K-l)       = 0.4271 + 1.933 x    T
+
+                                                        55DOU/DEV
+ALUMINUM;so id; atomic number, 13; atomic wt., 26.98154; density, 2.712 g
+    (169.3 lb ft-  ).           4
+   gross heat of combustion: q,(gross) is equal to the enthalpy of combustion, -AH-0 at
+                                                                         c
+   25°C (77°F); product of con-bustion is a-corundum, A1203.
+
+   q (gross) = 13359 Btu 1    P
+   q (gross) = 7422 cal g-    P   q (gross) = 31053 J g-l    P
+                                                       82WAGfEVA
+
+   specific heat:
+
+
+                                                            Cp(J g-'  K-I)
+
+    298    77               0.216                   0.216               0.904
+    500   441                0.238                   0,238                0.996
+    700   801               0.260                   0.260                1.087
+   heat of fusion: at the melting point, 659°C (1218'F).
+
+  Lf = 171.5 Btu lb-I
+  Lf = 95.25 cal
+  If= 398.5 J
+
+                                                                            (more)
+
+                                       34

@@ -1,0 +1,49 @@
+which typically contains fine particles that may require a fine filter. A 100 µm filter will suffice
+to remove particles from most feedstocks although all fuel leaving the plant should be filtered to
+5 µm.
+
+Free Fatty Acids
+
+The impact of free fatty acids (FFAs) on the biodiesel production process have been discussed
+extensively elsewhere. While FFAs can impact the production process by deactivating the
+catalyst, creating soap, and by releasing water when they are converted to esters, they do not
+seem to impact the final acid value of the biodiesel. Biodiesel produced using a normal alkali-
+catalyzed process that meets the ASTM specification for total glycerol will usually have 0.2-
+0.3% FFAs regardless of the initial acid content of the feedstock. The alkali catalyst also serves
+as a caustic stripper and removes the FFAs by converting them to soap that is removed during
+washing.
+
+Phosphorus
+
+Crude soybean oil contains from 600-900 ppm of phosphorus in the form of phospholipids or
+gums. This material must be removed because the ASTM specification from biodiesel limits the
+phosphorus content to 10 ppm. Fortunately, even if the oil is not degummed to remove this
+material, the usual biodiesel production process removes the phosphorus and it is either
+transferred to the glycerol fraction or removed by water washing. There does not seem to be any
+effect of the initial phosphorus content of the feedstock on the final phosphorus content of the
+biodiesel.
+
+Sulfur
+
+One of the frequently-touted advantages of biodiesel is that it contains very low levels of sulfur.
+The Environmental Protection Agency has mandated that sulfur levels for petroleum-based
+diesel fuel must drop to 15 ppm from 500 ppm by 2006. Most biodiesel is already below this
+level. However, some samples of biodiesel from yellow grease and animal fat have shown sulfur
+levels as high as 40-50 ppm. The source of this sulfur is still not completely understood, but it
+may be originating from food preservatives, proteins, the hair on the animal hides and in those
+cases where poultry are being processed, from chicken feet. Additional research is needed in this
+area.
+
+Iodine Value
+
+The iodine value is a very crude but commonly used indicator of the level of saturation of an oil.
+While saturation and fatty acid profile do not seem to have much impact on the
+transesterification process, they do affect the properties of the biodiesel. Saturated fats produce a
+biodiesel fuel with superior oxidative stability, a higher cetane number, but poor low temperature
+properties. Biodiesel from saturated fats is more likely to gel at ambient temperatures than
+biodiesel from vegetable oils, especially soybean oil.
+
+
+
+
+                                      91

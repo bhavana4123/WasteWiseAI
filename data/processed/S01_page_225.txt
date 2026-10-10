@@ -1,0 +1,47 @@
+Woody and Tree Materials
+
+
+COTTONWOOD, MISSOURI; Populus deltoides; solid; Each tree was separated into small
+   parts (being less than 0.64 cm (1/4 in.) in diameter and roughly equivalent to tops and
+   branches) and large parts with the weighted proportion of small (25%) and large (75%)
+   material in the whole tree.  Overall mean specific gravity for whole tree   0.32 (oven
+   dry weight and green volume).  Bark proportion of whole tree = 19%.
+
+   gross heat of combustion: oven-dried, assume values refer to room temperature.
+
+   small parts                             whole tree
+    q,(gross)   8451 Btu Ib- I                    qv(gross) = 8075 Btu IbT I
+    q,(gross)   4695 cal g-l                     qv(gross) = 4486 cal g-
+    q,(gross)  = 19644 J g-'                         q,(gross)  = 18769 J g-l
+
+    large parts
+    q,(gross)   7949 Btu Ib- 1
+    q,(gross)   4416 cal g-l
+    q,(gross)   18477 J g-l
+
+                                                          81GEY
+
+COTTONWOOD, NEBRASKA; Populus deztoides; solid; Each tree was separated into
+   small parts (being less than 0.64 cm (1/4 in.) in diameter and roughly equivalent to
+    tops and branches) and large parts with the weighted proportion of small (25%) and
+    large (75%) material in the whole tree.  Overall mean specific gravity for whole
+   tree = 0.36 (oven dry weight and green volume).  Bark proportion of whole tree = 28%.
+
+   gross heat of combustion: oven-dried, assume values refer to room temperature.
+
+   small parts                             whole tree
+                                                       q,(gross)  = 7762 Btu Ib- 1    q,(gross)  = 7893 Btu lbll
+                                                       q,(gross)  = 4312 cal g; 1    q,(gross)  = 4385 cal g-
+    q,(gross)  = 18347 J g-'                         q,(gross)  = 18041 f g-
+
+    large parts
+    q,(gross)  = 7718 Btu Ib- 1
+    q,(gross)  = 4288 cal g-l    q,(gross)  = 17941 3 g- 1
+
+                                                            81GEY
+
+
+
+
+
+                                        248

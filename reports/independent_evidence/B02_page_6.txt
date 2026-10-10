@@ -1,0 +1,50 @@
+Processes 2020, 8, 1407                                                                                      6 of 14
+
+
+
+at a constant level by the height of the inner tube reactor. As a result, a stable operation can be achieved
+for a long period of time owing to a constant bubbling bed, which is conventionally controlled by
+removing all the char byproduct along with gases (carrier gas and product gas) and vapors [21].
+
+              30
+                                                                            reactor bottom
+              25                                            cyclone
+                        (wt%) 20
+                   Char 15
+          of
+                        Yield 10
+               5
+
+               0
+                420    440    460    480    500    520
+                           Pyrolysis Temperature (oC)
+
+     Figure 3. Distribution of char product at diﬀerent pyrolysis temperature for fast pyrolysis of wood
+     sawdust (0.8 kg/h feeding rate, 15L/min N2 carrier gas ﬂow rate).
+
+    Figure 4 shows variation in the yield of pyrolysis products with a pine sawdust feeding rate
+at 440 ◦C and 15 L/min carrier gas ﬂow rate. A change in the feeding rate, in the range from 0.8 to
+1.8 kg/h, had little inﬂuence on the product distribution with a slight increase in bio-oil and biochar
+products combined with a decrease in gaseous product. Park et al. [37] found similar results from the
+fast pyrolysis of pine sawdust in their bubbling-bed reactor.
+
+               70
+
+               60
+
+               50                                                           bio-oil
+                                                                           char
+                                                                        gas               40                          (wt%)
+
+               30                          Yield
+               20
+
+               10
+
+                0
+                     0.8        1.0        1.2        1.4        1.6        1.8
+
+                         Sawdust Feeding Rate (kg/h)
+
+     Figure 4. Eﬀect of sawdust feeding rate on the product distribution for fast pyrolysis of wood sawdust
+     (440 ◦C pyrolysis temperature, 15 L/min N2 carrier gas ﬂow rate).

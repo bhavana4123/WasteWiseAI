@@ -1,0 +1,26 @@
+Table ES-7. Bench-scale Anaerobic Food Waste Digester COD Loading Rate Summary.
+ Target MCRT,     Mesophilic COD Loading,        Thermophilic COD Loading,
+      days                      lb/ ft3-day                              lb/ ft3-day
+              AVG         SD        AVG          SD
+       15              0.42             0.15              0.68              0.30
+       10              1.07             0.29              1.03              0.15
+       5               1.89        NA              1.91         NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+Summary and Conclusions
+
+The results of this study have demonstrated that anaerobic digestion of food waste can be
+achieved at a reduced MCRT (10 days), and at both mesophilic and thermophilic temperatures.
+Compared to municipal wastewater solids digestion, food waste digestion has many benefits.
+Table ES-8 summarizes the parameters comparing food waste digestion to municipal wastewater
+solids digestion.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-8
+Funding Opportunity No. EPA-R9-WST-06-004

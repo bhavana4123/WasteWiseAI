@@ -1,0 +1,50 @@
+The presence of significant quantities of mono-, di-, and triglycerides in the final mixture can
+lead to the formation of an emulsion layer at the ester – glycerol interface. At best, this layer
+represents a net loss of product, unless it is recovered and separated. At worst, the ester phase
+will not meet the biodiesel specification and will have to be re-run. If problems with mono, di,
+and triglycerides occur, you should reevaluate the entire reaction to see where improvements can
+be made to improve process yields in the preceding steps.
+
+The esterification process is run with an excess of alcohol to ensure complete reaction and to
+attain higher reaction rates. The residual alcohol is distributed between the ester and glycerol
+phases. The alcohol can act as a dispersant for the ester into the glycerol phase and for the
+glycerol into the ester phase. The result can be a need for additional processing of the products to
+meet specifications. Other people claim that methanol aids in phase separation, which is one
+reason that product is generally phase separated before methanol recovery.
+
+Process Equipment for the Ester/Glycerol Separation
+
+Decanter Systems: There are three categories of equipment used to separate the ester and
+glycerol phases. Decanter systems rely solely on the density difference and residence time to
+achieve the separation. For relatively small throughput, or batch processes, the 1 to 8 hours
+required for complete separation of the phases may be acceptable. However, a separation that
+requires a residence time of 1 hour requires a decanter with a volume of at least 700 gallons to
+affect separation for a 5,000,000 gallon per year, continuous plant. For lower extent of reaction,
+the separation is slower, and the decanter will have to be much larger.
+
+The primary determinant for designing a decanter for biodiesel production is the desired
+residence time. This, plus the product mixture flow rate determines the size of the unit.
+Decanter units should be rather tall and narrow to allow physical separation between the ester
+and the glycerol withdrawal points. L/D ratios of 5 to 10 can work well.
+
+The temperature in the decanter affects the solubility of the alcohol in both phases, and the
+viscosity of the two liquids. Too high a temperature in the decanter can cause residual alcohol to
+flash, potentially restricting the flow of the ester phase out of the tank. On the other hand, too
+low a temperature increases the viscosity in both phases. The increased viscosity will slow the
+coalescence rate in the system.
+
+The presence of an emulsion layer is indicative of mono- and di-glycerides. The emulsion layer
+will form between the phases. In continuous operation, there must be a provision for removing
+the emulsion, so it does not fill the decanter.
+
+Centrifuge System: Many of the continuous plants use a centrifuge for the phase separation. The
+centrifuge creates an artificial, high gravity field by spinning at very high speeds. The separation
+can be completed rapidly and effectively. The disadvantage of the centrifuge is its initial cost,
+and the need for considerable and careful maintenance. However, centrifuges are used
+extensively in the food processing, rendering, and biodiesel industries.
+
+
+
+
+
+                                      67

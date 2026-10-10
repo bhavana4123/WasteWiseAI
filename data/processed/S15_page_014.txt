@@ -1,0 +1,19 @@
+TA 6M: Waste Heat Recovery
+
+
+
+             5.  Loss of sensible heat and loss of certain condensable organic materials (e.g., tar, condensable
+                liquids, volatiles) during treatment of exhaust gases, and use of chemical heat after drying the
+              gases as fuels. Examples are blast furnaces and coke ovens.
+
+       Table 6.M.5 summarizes information about the waste heat in exhaust gases identified as harsh
+      environments resulting from selected processes in those industries. Calculations were performed
+       for recoverable waste heat from harsh environment gases for each of these industrial sectors. The
+       calculations were based on available information from various sources identified in the report. The
+        results from the calculations are also provided in Table 6.M.5.
+
+
+
+
+
+ 13  Quadrennial Technology Review 2015

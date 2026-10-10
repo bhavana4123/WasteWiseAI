@@ -1,0 +1,58 @@
+Woody and Tree Materials
+
+
+PINE LITTER, DUFF; solid; Material is partially decomposed pine litter called the IIFII
+    layer air-dried at room temperature.  Composition is ash = 31.91%  and char yield =
+   38.8%. Char was obtained from heating the sample to 500°C (932OF)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+
+   qv(gross)                                                           Btu             10010                   Btu                                                      q,(gross)  =                                                   13530                                                                                       1P-l
+                                                                          g-                          1P-'                      q,(gross)                                                     = 7520                                                             cal            = 5560                          g-    q,(gross)                   cal
+    q,(gross) = 23260 J g-l                        q,(gross)  = 31450 J g-l
+
+                                                                  82SUS
+
+PINE, LOBLOLLY; Pinus taeda; solid; unexttacted specific gravity, 0.49 (oven dry weight
+   and green volume).
+
+    specific heat: 333-413 K (140"-284"F); samples were oven-dried at 100°C (212°F)for
+   12 hours before measurements were made.
+
+  C (Btu lb-'   OF-')     = 0.25406 + 5.2761  x    T   Cp(calP  q1K - ~ )                      = 0.01153 + 9.497      T
+   Cp(3 g-  K-l)       = 0.04824 + 3.9735 x    T
+
+                                                       69McM
+
+PINE, LOBLOLLY; EXTRACTIVES; Pinus Eaeda; solid; residue obtained from alcohol-
+   benzene extraction of loblolly pine wood; mean extractive content, 6.08% [68McM].
+
+    specific heat: 333-413 K (140"-284"F); samples were oven-dried at 100°C (212°F) for
+   12 hours before measurements were made.
+
+   Cp(Btu lb-I OF-')    = 0.34781 + 6.06 x    T
+                      = 0.06945 + 1.09 x lod3 T
+                      = 0.29058 + 4.56 x    T
+
+                                                        70McM
+
+PINE, LODGEPOLE; BARK; Pinus contorta; solid; gross heat of combustion determined
+   on 1 g samples of air-dried bark; ash content = 2.0%; moisture content = 5.6%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+
+    q,(gross) = 10190 Btu Ib-'
+    q,(gross)  = 5661 cal g-'
+    q,(gross) = 23686 J g-'
+
+                                                            55CHA/MIT
+
+
+
+
+
+                                       28 2

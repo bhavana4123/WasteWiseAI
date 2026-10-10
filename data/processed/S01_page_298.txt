@@ -1,0 +1,53 @@
+Table A-I.   Calculated and Measured Heats of Combustion for Various Biomass Materials Using an
+            Empirical Formula
+
+
+                                              Composition
+                                                 Dry, ash-free     Heat of Combustion      Error
+                                                           basis, Wt%      Measured Calculated   (Meas-Calc)
+Name                     Reference      C    H   0   HHV-kJ/g  HHV-kJ/g    Measured     *
+                                                                                                                                                                                                          *
+
+Biomass Components
+Cellulose (Avicel)         Mok             43.3   6.3  50.4    NA       17.14       NA
+Lignin (Indulin)           Mok             66.8    5.5   27.7    NA       26.77       NA
+
+Biomass
+Pine Sawdust                Diebold           51.3   6.0  42.7    20.21       20.40        -0.009
+Maple                       Tillman          51.5    6.1   42.4    20.28       20.59         -0.0 I5
+Douglas Fir                  Tillman           52.8   6.4  40.9    21.22      21.56         -0.0 I6
+Paper                    Reed (1981)      46.4   6.2  47.4     18.82       18.41         0.022
+Maritime Pine               Bourgeois        52.6   6.2  41.2    20.59       21.23        -0.031
+Chestnut & Oak             Bourgeois        50.I    5.6  44.3    19.20       19.27        -0.004
+"Typical biomass"          Reed (1985)      52.2   6.1  41.7     NA       20.89       NA
+                                                     Avg Abs error                0.016
+
+Primary Oils
+Primary Oils R 35CS        Diebold          54.5    5.7  39.8    20.31        21.44         -0.055
+Primary Oils R 40CS         Diebold          57.6    5.9  36.5    22.88       23.1 I        -0.010
+Primary Oils R 40PS         Diebold          57.I    5.6  37.2    22.27       22.53       -0.0I I
+                                                     Avg Abs error                0.025
+Chars                 *
+Torref ied Pine        280  Boutgeois        60.8   5.7  33.5    23.90       24.30      -0.0I7
+Torr. Chestnut & Oak  275  Bourgeois         57.8    5.3   36.9     22.70       22.36         0.015
+Charcoal                    Tillman          84.8    3.3   11.9    32.81       31.85         0.029
+Fir Bark Char             Reed (1981)      63.6    5.1   31.3     24.49       24.75       -0.01I
+Grass Straw Char          Reed (1981)     68.5   5.0  26.5    25.93       26.82      -0.035
+Rice Hull Char             Reed (1981)      71.6    5.2   23.3     28.1%       28.50       -0.0I I
+Redwood Charcoal    549  Reed (1981)      77.7   3.4   18.9     29.62      28.75        0.029
+Oak Charcoal         57 I  Reed (1981)      78.6    2.6   18.9    28.02       27.96         0.002
+Oak Charcoal        641  Reed (1981)     80.I    2.8   17.0    29.32      29.07        0.008
+Redwood Charcoal    94I  Reed (1981)     82.5    3.7   13.8    31.88       31.37        0.016
+FP Char, Run 53      625  Diebold           87.7   3.8   8.4    34.40       33.98         0.0 I2
+FP Char, Run 54       625  Diebold           83.2    3.7   13.1    34.09     31.72       0.070
+FP Char, Run 59      625  Diebold          84.I    3.8   12.1     33.63       32.25        0.041
+FP Char, Run X        so0  Diebold           92.6    1.9    5.5     33.42      33.47       -0.002
+                                                     Avg Abs error                 0.016
+
+Secondary Tars
+Sec Tats - Run 55      650  Diebold           82.2    5.3    12.5     32.44      33.59       -0.035
+Sec Tars - Run 56     730  Diebold           85.4   5.0   9.6    34.08      34.60         -0.0 I5
+Sec Tats - Run 59     825  Diebold           79.3    5.9   14.8    33.92      33.09        0.024
+                                                     Avg Abs error                0.025
+*
+ Temperature of formation, degrees Celsius.

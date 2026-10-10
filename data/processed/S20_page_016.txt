@@ -1,0 +1,50 @@
+                      1.0  Introduction
+
+    For several decades, the Department of Energy Bioenergy Technologies Office (BETO) has
+supported research and development for the advancement of bioenergy pathways for terrestrial and algal
+feedstocks. More recently, BETO has begun to explore the potential of wet wastes for biofuel production,
+and estimates that 77 million dry tons per year of wastewater residuals, manure, food waste, and fats, oils
+and grease (FOG) are generated annually, 65% of which are underutilized for any beneficial purpose,
+such as for fertilizer, biodiesel or compost (DOE 2017). Conversion of this resource into transportation
+fuels could significantly contribute to the nation’s renewable energy goals and provide an economically
+and environmentally sustainable alternative for current waste disposal practices.
+
+    Approximately 14 million dry tons of wastewater residuals are generated annually at the nation’s
+wastewater treatment plants (WWTPs) (Seiple et al. 2017). Costs associated with management and
+disposal of these residuals accounts for about 45-65% of the total WWTP’s operating expenses (Nowak
+2006; Gray 2010; City of Detroit 2014). Shipping is a significant portion of total sludge management
+cost, with some municipalities having to transport their sludge great distances for treatment and disposal
+(Peccia and Westerhoff 2015; Hsieh 2013). While cost estimates vary widely, it is evident that reducing
+sludge management and disposal costs is a strong industry incentive that introduces the opportunity for
+new technology.
+
+    Hydrothermal liquefaction (HTL) is a process that uses hot, pressurized water in the condensed phase
+to convert wet biomass to an oil product. As such, it is particularly well suited for processing wet waste
+feedstocks and eliminates the need for drying that is required for other biomass conversion technologies.
+The oil product, also known as “biocrude”, is analogous to petroleum crude in that it contains a mixture of
+hydrocarbons with carbon numbers in the gasoline/jet/diesel range. However, it contains higher oxygen
+and nitrogen than petroleum and therefore must be hydrotreated to improve compability with petroleum
+fuels.
+
+   HTL research over the past several decades has included a range of feedstocks from lignocellulosics
+to algae to wet wastes. The summary here will focus on liquefaction of sludge feedstock into an oil
+product and will not cover the breadth of work done on other feedstocks nor on carbonization of sludge.
+Much of the literature on sewage sludge describes testing in lab-scale batch systems. Early work appears
+to have originated with Appell et al. (1970), where several organic waste feedstocks were tested in a 500-
+ml autoclave system, where the effect of temperature, pressure, and the presence of carbon monoxide (a
+reducing agent) and sodium carbonate catalyst on oil yield and composition were examined. A series of
+studies in Japan tested various sewage sludges also in the presence of sodium carbonate catalyst
+(Yokoyama et al. 1987; Suzuki et al. 1988, 1990; Inoue et al. 1997). More recently, Vardon et al. (2011)
+examined properties of biocrude from anaerobically digested sludge, manure and algae. Huang et al.
+(2013) and Leng et al. (2015) characterized biocrude from HTL of sludge using ethanol solvent and
+studied its emulsification with petroleum diesel, respectively. Malins et al. (2015) examined the effect of
+several different catalysts as well as other reaction parameters on biocrude properties. Several recent
+studies focused on the migration and ultimate fate of metals during HTL of sludge (Huang et al. 2011;
+Huang and Yuan 2016; Leng et al. 2016; Shao et al. 2015; Zhai et al. 2014).
+
+   While batch system investigations provide useful information, continuous system testing is necessary
+to facilitate engineering scale up and economic analysis of commercial systems. Several studies of
+
+
+
+                                          1

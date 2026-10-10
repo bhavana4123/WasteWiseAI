@@ -1,0 +1,46 @@
+              Table 5-4. Example Service Schedule, Capstone C65
+ Maintenance                                Maintenance                     Component                                  Comments    Interval                                         Action
+                 Fuel System                   Leak Check            --­
+8,000 hours     Engine Air Filter                Replace                --­
+                  Electronics Air Filter             Clean                   --­
+                 Fuel Filter Element (external)     Replace          Not required for gas pack
+                   Igniter                         Replace                --­
+               ICHP Actuator                  Replace                --­
+20,000 hours     Battery Pack                   Replace                --­
+or 3 years
+20,000 hours     Injector Assemblies             Replace                --­
+               TET Thermocouple              Replace                --­
+              SPV                           Replace           Replace with Woodward valve upgrade
+                                                                                     kit
+40,000 hours     Electronic Components: ECM,    Replace             Kits available for each major
+              LCM, & BCM Power Boards,                          configuration
+           BCM & ECM Fan Filters, Fans,
+              EMI Filter, Frame PM
+                Engine                        Replace          Remanufactured or new
+Source: Adapted from Capstone C65 User’s Manual.
+
+
+Most manufacturers offer service contracts that cover scheduled and unscheduled events. The cost of a
+full service contract covers the inspections and component replacements outlined in Table 5-5, including
+replacement or rebuild of the main turbocompressor engine components. Full service costs vary
+according to fuel type and service as shown.
+
+         Table 5-5. Maintenance Costs Based on Factory Service Contracts
+                                                        System
+        Maintenance Costs
+                                 1         2         3         4         5         6
+     Nominal Electricity Capacity                                30        65        200       250       333       1000     (kW)
+     Fixed ($/kW/yr)                         --­             --­             --­       $9.120     $6.847          --­
+     Variable ($/kWh)                       --­             --­             --­       $0.010     $0.007          --­
+     Average @ 6,000 hrs/year                                                     --­       $0.013     $0.016     $0.011     $0.009     $0.012     operation ($/kWh)
+    Source: Compiled by ICF from vendor supplied data
+
+Maintenance requirements can be affected by fuel type and site conditions. Waste gas and liquid fuel
+applications may require more frequent inspections and component replacement than natural gas
+systems. Microturbines operating in dusty and/or dirty environments require more frequent inspections
+and filter replacements.
+
+
+
+
+Catalog of CHP Technologies                         5–15                                  Microturbines

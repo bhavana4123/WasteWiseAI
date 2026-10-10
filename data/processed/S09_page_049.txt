@@ -1,0 +1,36 @@
+viscosity fluids at low pressures. As with gear pumps, lobe pumps work by carrying the fluid
+between lobes followed by displacement as the lobes come together. Since the lobes are designed
+for no contact, fairly high amounts of slip can occur if the fluid to be pumped has low viscosity.
+
+Centrifugal pumps convert velocity into feet of head where the feet of head is independent of the
+density of the liquid being pumped. However, conversion of the feet of head to output pressure
+requires inclusion of the fluid density. For example, 231 feet of water in a column, i.e., 231 feet
+of head, exerts a pressure of 100 psig at the base, whereas the same 231 feet of biodiesel with
+specific gravity of 0.88 would exert a pressure of 88 psig. Therefore, the discharge pressure of
+the pump when pumping water would be higher than with biodiesel.
+
+The primary components of a centrifugal
+pump are (1) a shaft, (2) a coupling attaching
+the shaft to a motor, (3) bearings to support
+the shaft, (4) a seal around the shaft to
+prevent leakage, (5) an impeller, and (6) a
+volute, which converts the kinetic energy
+imparted by the impeller into feet of head.
+The role of the impeller is to increase the
+kinetic energy of the liquid. The liquid enters
+and leaves the impeller at the same pressure. As the liquid flows through the volute, the velocity
+is decreased with the energy transferred to pressure.
+
+While leaking pump seals or impeller wear can be operational issues with pumps, the most
+common issue with pumps is the loss of suction pressure. Suction pressure is the pressure
+supplied to the suction side of the pump by the liquid. During loss of suction pressure, which is
+known as cavitation, the pump discharge pressure and the discharge flow rates become erratic
+and low. Cavitation is created by vaporization of liquid at the pump suction. This situation can be
+created be a plug in the suction piping or by starting the pump up too rapidly. In general, positive
+displacement pumps are more difficult to cavitate than centrifugal pumps.
+
+
+
+
+
+                                      45

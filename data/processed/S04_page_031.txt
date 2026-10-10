@@ -1,0 +1,52 @@
+2.3.2 Components
+2.3.2.1   Engine System
+
+Natural Gas Spark Ignition Engines
+Current natural gas engines for power generation offer low first cost, fast start-up, proven reliability
+when properly maintained, excellent load-following characteristics, and significant heat recovery
+potential. Electric efficiencies of natural gas engines range from 30 percent LHV (27 percent HHV) for
+small stoichiometric engines (<100 kW) to over 46 percent LHV (42 percent HHV) for large lean burn
+engines (> 3 MW).9,10 Waste heat recovered from the hot engine exhaust and from the engine cooling
+systems produces either hot water or low pressure steam for CHP applications. Overall CHP system
+efficiencies (electricity and useful thermal energy) of up to 80 percent (HHV) can be achieved.
+
+Spark ignition engines use spark plugs, with a high-intensity spark of timed duration, to ignite a
+compressed fuel-air mixture within the cylinder. Natural gas is the predominant spark ignition engine
+fuel used in electric generation and CHP applications. Other gaseous and volatile liquid fuels, ranging
+from landfill gas to propane to gasoline, can be used with the proper fuel system, engine compression
+ratio, and tuning. American manufacturers began to develop large natural gas engines for the
+burgeoning gas transmission industry after World War II. Smaller engines were developed (or converted
+from diesel blocks) for gas gathering and other stationary applications as the natural gas infrastructure
+developed. Natural gas engines for power generation applications are primarily 4-stroke engines,
+available in sizes up to about 18 MW.
+
+Depending on the engine size, one of two ignition techniques ignites the natural gas:
+
+    •  Open chamber – the spark plug tip is exposed in the combustion chamber of the cylinder,
+         directly igniting the compressed fuel-air mixture. Open chamber ignition is applicable to any
+       engine operating near the stoichiometric air/fuel ratio for up to moderately lean mixtures.11
+
+    •  Precombustion chamber – a staged combustion process where the spark plug is housed in a
+        small chamber mounted on the cylinder head. This cylinder is charged with a rich mixture of fuel
+      and air, which upon ignition shoots into the main combustion chamber in the cylinder as a high
+       energy torch. This technique provides sufficient ignition energy to light off very lean fuel-air
+       mixtures used in large bore engines.12
+
+The simplest natural gas engines operate with a natural aspiration of air and fuel into the cylinder (via a
+carburetor or other mixer) by the suction of the intake stroke. High performance natural gas engines are
+
+9 The exact ratio of air to fuel that is required for complete combustion is called the stoichiometric ratio. If there is less or more
+air than needed for complete combustion the engine is called rich burn or lean burn respectively.
+10 Most efficiencies quoted in this report are based on higher heating value (HHV), which includes the heat of condensation of
+the water vapor in the combustion products. In engineering and scientific literature the lower heating value (LHV – which does
+not include the heat of condensation of the water vapor in the combustion products) is often used. The HHV is greater than the
+LHV by approximately 10% with natural gas as the fuel (i.e., 50% LHV is equivalent to 45% HHV). Higher Heating Values are
+about 6% greater for oil (liquid petroleum products) and 5% for coal.
+11 Stoichiometric ratio is the chemically correct ratio of fuel to air for complete combustion, i.e., there is no unused fuel or
+oxygen after combustion.
+12 Lean mixture is a mixture of fuel and air in which an excess of air is supplied in relation to the amount needed for complete
+combustion; similarly, a rich mixture is a mixture of fuel and air in which an excess of fuel is supplied in relation to the amount
+needed for complete combustion.
+
+
+Catalog of CHP Technologies                          2–5                         Reciprocating IC Engines

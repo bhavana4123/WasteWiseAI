@@ -1,0 +1,49 @@
+5.2  Water Balance
+Consumptive water usage in the biochemical conversion process is generally considered to be
+high compared with a thermochemical conversion process or even a petroleum-based fuel
+process, when viewed in terms of gallons of water used per gallon of fuel produced (gal/gal).
+Based on detailed water balances from the Aspen simulation, the consumptive water usage in the
+2002 design was 6.3 gallons of water used per gallon of ethanol [2]. Using the older model as a
+guide, Harris Group adjusted some assumptions around the cooling tower for a modest reduction
+in water usage, but as the model was updated for the present report, these adjustments were
+ultimately canceled out by more accurate accounting of cooling water streams and inclusion of
+the on-site enzyme production area. Without additional process modifications, the new design’s
+consumptive water usage would therefore have been greater than in the 2002 design. In light of
+this, we gave more attention to water reduction and optimization.
+
+As discussed in Section 3, the switch from lime to ammonia conditioning after pretreatment
+created a problem with ammonium sulfate and other inorganics accumulating in the evaporated
+stillage syrup. Boiler vendors were not comfortable quoting equipment to handle this stream, so
+we chose instead to handle the stillage in the wastewater treatment section. Doing so gave us the
+opportunity to remove the syrup evaporators, which in the 2002 design accounted for about one-
+half of the cooling tower losses and one-third of the total water losses. (Although the evaporators
+returned clean water to the process in the 2002 design, they were a net water loser—the amount
+of water returned to the process was less than the amount of water lost from the cooling tower as
+a result of condensing the recycled water.) Furthermore, the evaporated stillage syrup, which was
+sent to the combustor in the 2002 design, contained about 50% water. This water came out of the
+ethanol conversion process but was then lost via the combustor stack. By routing the stillage to
+wastewater treatment, all of the water contained in the stillage becomes theoretically recyclable
+to the process. The stillage evaporators in the 2002 design also acted as the condenser for the
+rectification column. Simply removing the evaporators and using cooling water in the rectifier
+condenser would therefore not have resulted in a significant reduction in consumptive water
+usage. Instead, Harris Group proposed placing an air-cooled condenser on the rectification
+column. The capital cost was about the same—$487K for the air-cooled condenser versus $440K
+for the cooling-water condenser initially specified by Megtec. The air-cooled unit uses about 300
+hp (225 kW) of electricity, but this extra demand is insignificant to the overall plant, which
+generates more than 40 MW of electricity.
+
+Taken together, elimination of the stillage evaporators combined with addition of the air-cooled
+rectifier condenser and improved heat integration in the front end of the process led to a
+reduction in the consumptive water usage from 6.3 gal/gal in 2002 to 5.4 gal/gal in the present
+design report. The overall water balance is shown in Table 37—the “makeup water” line item
+indicates the consumptive water usage.
+
+Additional water enters the process via the feedstock and raw chemicals, both as free water and
+as “potential” water, i.e., the combustion product of lignin and unconverted sugars. Water is also
+consumed in hydrolysis reactions, and these are accounted for as well. We note that describing
+water usage with the units of gallons of water per gallon of ethanol can be somewhat misleading,
+because this quantity obviously depends on ethanol yield, and the yield in the present design is
+about 12% lower than in the 2002 design (79.0 gal/ton versus 89.7 gal/ton). Based on the actual
+makeup water flow, the present design has reduced the 2002 water usage by about 20% (150,000
+
+                                      74

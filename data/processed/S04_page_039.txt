@@ -1,0 +1,48 @@
+      Table 2-3. Reciprocating Engine Types by Speed (Available MW Ratings)
+   Speed                          Stoic/Rich Burn,   Lean Burn, Spark                 Engine Speed                                         Dual Fuel            Diesel Classification                     Spark Ignition22        Ignition
+High Speed     1000-3600 rpm    0.01 – 1.5 MW     0.15 - 3.0 MW      1.0 - 3.5 MW23     0.01 – 3.5 MW
+Medium               275-1000 rpm    None              1.0 – 18 MW       1.0 – 17 MW       0.5 – 18 MWSpeed
+Low Speed      58-275 rpm      None           None              2.0 – 65 MW      2 – 84 MW
+Source: SFA Pacific, Inc., Wartsila
+
+Engine power output is partly proportional to engine speed, which affords high speed engines the
+highest output per unit of displacement (cylinder size) and the highest power density. Consequently,
+high speed engines generally have the lowest $/kW production costs of the three types. The cost
+benefits of high speed engines must be weighed against other factors. Smaller high speed engines have
+lower efficiencies than large bore, lower speed engines due in part to the higher surface area to volume
+ratio for small cylinders resulting in slightly higher heat losses. In addition, higher speed engines tend to
+have higher wear rates, resulting in shorter periods between minor and major overhauls. These factors
+are often less important than capital costs for limited duty cycle applications.
+
+Medium speed stationary power engines are largely derived from marine and locomotive engines.
+Medium speed engines are higher in cost, but generally higher in efficiency than high speed engines.
+Because of their massive physical size and high cost of installation, low speed engines are increasingly
+being displaced by medium and high speed engines as the primary choice for stationary power
+applications; with low speed engines being left to their primary market as marine propulsion engines.
+
+Most reciprocating engine manufacturers typically assign three power ratings to engines depending on
+the intended load service:
+
+    •  Standby - continuous full or cycling load for a relatively short duration (usually less than 100
+        hours) – maximum power output rating.
+
+    •  Prime – continuous operation for an unlimited time (except for normal maintenance
+       shutdowns), but with regular variations in load – 80 to 85 percent of the standby rating.
+
+    •  Baseload – continuous full-load operation for an unlimited time (except for normal maintenance
+       shutdowns) – 70 to 75 percent of the standby rating.
+
+2.4.4 Performance and Efficiency Enhancements
+
+2.4.4.1   Brake Mean Effective Pressure (BMEP) and Engine Speed
+Engine power is related to engine speed and the BMEP during the power stroke. BMEP, as described
+above, can be regarded as an “average” cylinder pressure on the piston during the power stroke, and is
+a measure of the effectiveness of engine power output or mechanical efficiency. Engine manufacturers
+often include BMEP values in their product specifications. Typical BMEP values are as high as 320 psig
+for large natural gas engines and 350 psig for diesel engines. Corresponding peak combustion pressures
+
+22 Stoichiometric or rich burn combustion is required for the use of 3-way catalytic converters for emissions control.
+23 Micropilot, prechamber dual fuel engines
+
+
+Catalog of CHP Technologies                         2–13                         Reciprocating IC Engines

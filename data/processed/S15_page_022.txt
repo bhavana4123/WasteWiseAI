@@ -1,0 +1,68 @@
+TA 6M: Waste Heat Recovery
+
+
+
+
+             Systems with smaller footprints that allow retrofit installation for existing systems that are typically
+          space-constrained in plants.
+
+             Secondary heat recovery systems that can be used as supplementary or secondary recovery systems
+          to enhance the performance of the existing systems. These systems should be compatible with the
+         performance of the primary systems.
+
+          A hot gas cleaning system with anti-fouling and anti-clogging capabilities to remove particulates from
+          high-temperature gases, prevent fouling and corrosion of heat transfer surfaces, and reduce system
+         maintenance requirements.
+
+               Electrical power generation systems integrated with high-temperature waste heat sources or existing
+         primary heat recovery systems. The electric power generation system must be able to handle variations
+          in heat sources and the cyclic nature of the waste heat source. In most cases, the system must be able to
+           tolerate some contaminants present in the waste heat source.
+
+               Catalysts for reforming fuel gases or liquid fuel vapors for use in endothermic heat recovery units.
+
+  Opportunities for Medium-Temperature Waste Heat Sources
+
+  R&D opportunities for medium temperature waste heat sources (600°F – 1,200°F) include the following:
+
+            Compact heat exchangers or micro-channel heat exchangers for clean gases that reduce the size or
+           footprint of the heat recovery system, enabling the development of more cost-effective systems and
+           greater adoption in applications that are space-constrained.
+
+             High-performance heat recovery systems that integrate burners and eliminate the need for hot air
+          piping and space for external heat recovery systems. This may require development and integration of
+         micro-channel heat exchangers.
+
+             Heat transfer systems for gases containing condensable vapors or combustible gases such as solvent
+          vapors in coating ovens. This would reduce material corrosion issues, increase the life of the WHR
+          systems, and reduce greenhouse gas emissions.
+
+  Opportunities for Low and Ultra-Low Temperature Waste Heat Sources
+
+  R&D opportunities for both low temperature waste heat sources (250°F – 600°F) and ultra-low temperature
+  waste heat sources (<250°F) include the following:
+
+             Condensing heat exchangers for gases containing high moisture levels with particulates, as discharged
+         from paper machines, food drying ovens, or other sources. By addressing design and material issues
+          associated with the existing condensing economizers, it would be possible to increase WHR below
+         condensing temperatures in paper machines, food drying ovens, or other sources.
+
+             Nonmetallic materials (polymers) that can withstand condensed water from combustion products
+          containing acid gases. R&D of advanced polymers and composite materials would help in developing
+          innovative WHR concepts. Efforts needs to be taken to make these materials more cost competitive.
+
+               High-efficiency, liquid-gas heat exchangers for low-temperature flue gases or exhaust air from dryers.
+
+              Liquid-to-liquid heat exchangers for heat recovery from waste water containing particulates and other
+          contaminants. This would involve R&D in innovative designs and advanced materials.
+
+            Dry coolers for cooling liquids that reduce or eliminate water use in heat exchangers. Operating and
+          maintaining cooling water loops and towers is expensive. Air to liquid heat exchangers eliminate need
+           for cooling towers and cooling loops.
+
+  A special category of heat recovery systems includes use of waste heat for electric power generation systems and
+   absorption cooling systems for low- and medium-temperature WHR. R&D needs for this category of WHR
+  systems include the following:
+
+
+ 21  Quadrennial Technology Review 2015

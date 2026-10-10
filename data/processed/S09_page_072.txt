@@ -1,0 +1,50 @@
+Centrifuges are high-speed, rotating devices. The artificial gravity of the centrifuge results from
+the rotation. Speeds of 2000 to 5000 rpm are not uncommon. The same high- speed rotation that
+creates the centrifugal effect also creates a device that requires careful and rather frequent
+maintenance. Although centrifuges are relatively expensive, multiple units to ensure on-line
+availability are advisable.
+
+At smaller capacities, either a batch or a continuous centrifuge can be used. The use of a batch
+centrifuge in a continuous process requires a surge tank to match the batch cycle time with the
+continuous processing rate.
+
+Hydrocyclone: An intriguing, relatively new device that has been considered for use in biodiesel
+plants is the hydrocyclone. A liquid – liquid hydrocyclone uses an inverted conical shape and
+the incompressibility of the liquids to accelerate the liquid entering the cyclone. The effect is
+similar to a centrifuge, with the heavier material being forced towards the wall and downward,
+and the lighter material forced to the center and upward. The result is a density-based separation.
+Although they are now used for oil – water separations, hydrocyclones are at the experimental
+stage for application in biodiesel production.
+
+A hydrocyclone operates on the Bernoulli principle of trading pressure for speed in an
+incompressible flowing system. The relative density of the fluids determines the separating force
+applied, while the relative viscosity determines the resistance to separation.The liquid mixture
+enters the hydrocyclone at a moderately high pressure (about 125 psig). The pressure decreases
+and the velocity increases as the liquid passes for the wider to the narrower part of the inverted
+cone. The more dense liquid is accelerated towards the outside wall, while the less dense liquid
+concentrates in the center. The result is a separation based upon induced g-forces.
+
+It would appear that the presence of volatiles creates a problem in a hydrocyclone. The rapid
+reduction of pressure in the device will induce flashing of the volatile liquid (alcohol), disrupting
+or stopping the separation process. Excess methanol should be removed from the system before
+introducing the reaction mixture to a hydrocyclone.
+
+Ester Washing
+
+The primary purpose of the ester washing step is the removal of any soaps formed during the
+transesterification reaction. In addition, the water provides a medium for addition of acid to
+neutralize the remaining catalyst and a means to remove the product salts. The residual methanol
+should be removed before the wash step. This prevents the addition of methanol to the
+wastewater effluent. However, some processes remove the methanol with the wash water and
+remove it from the wash water.
+
+The use of warm water (120 to 140 ºF) prevents precipitation of saturated fatty acid esters and
+retards the formation of emulsions with the use of a gentle washing action.
+
+Softened water (slightly acidic) eliminates calcium and magnesium contamination and
+neutralizes remaining base catalysts. Similarly, removal of iron and copper ions eliminates a
+
+
+
+
+                                      68

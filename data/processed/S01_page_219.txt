@@ -1,0 +1,38 @@
+Woody and Tree Materials
+
+
+BLACKGUM, BARK; Nyssa syZwtica; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content = 7.2%; moisture content = 6.0%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined  basis.
+    q,(gross) = 7936 Btu fbi 1
+    q,(gross) = 4409 cal g-
+    q,(gross)  = 18447 J g-l
+
+                                                           55CHA/MIT
+BOXELDER; Acer negundo; solid; Each tree was separated into small parts (being less
+   than 0.64 cm (1/4 in.) in diameter and roughly equivalent to tops and branches) and
+   large parts with the weighted proportion of small (25%) and large (75%) material in
+   the whole tree. Overall mean specific gravity for whole tree = 0.36 (oven dry weight
+   and green volume).  Bark proportion of whole tree = 14%.
+
+   gross heat of combustion: oven-dried, assume values refer to room temperature.
+
+   small parts                             whole tree
+                                                qv(gross) = 8138 Btu Ib; I   qv(gross) = 7981 Btu lbll
+    q,(gross) = 4434 cal g-                       q,(gross) = 4521 cal g-
+    q,(gross) = 18552 J g-'                        q,(gross) = 18916 J g-l
+
+    large parts
+    q,(gross)  = 8190 Btu Ib;'
+    q,(gross) = 4550 cal g-
+   qv(gross) = 19037 J g-l
+
+                                                           81GEY
+
+
+
+
+
+                                      24 2

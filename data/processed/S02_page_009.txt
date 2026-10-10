@@ -1,0 +1,57 @@
+                         Chapter 1
+               Introduction and
+    Guide to the Literature and Research
+
+
+ 1 .1  Role of Gasification in Biomass          thermal process is combustion, which yields only heat.
+Conversion                                        Pyrolysis uses heat to break down biomass and yields
+                                                            charcoal, wood-oils, tars, and gases.
+This handbook explains how biomass can be converted
+                                                          Gasification processes convert biomass into combus­to a gas in a downdraft gasifier and gives details for
+                                                                 tible gases that ideally contain all the energy original­designing, testing, operating, and manufacturing
+                                                             ly present in the biomass.   practice, gasification cangasifiers and gasifier systems, primarily for shaft power                              In
+                                                        convert 60% to 90% of the energy in the biomass intogeneration up to 200 kW.   is intended to help convert                                It                                                      energy in the gas. Gasification processes can be eithergasification from a practical art into a field of en­
+                                                            direct (using air or oxygen to generate heat through ex­gineered design. Although the handbook focuses on
+                                                      othermic reactions) or indirect (transferring heat to thedowndraft gasification as the only method suitable for
+                                                           reactor from the outside). The gas can be burned tosmall-scale power systems,  it also gives extensive
+                                                   produce industrial or residential heat, to run enginesdetail on biomass fuels, gas testing and cleanup in­
+                                                                for mechanical or electrical power, orto make syntheticstrumentation, and safety considerations that will be of
+                                                                    fuels.use to all those who work with gasifiers at whatever
+scale.                                                    In one sense, biomass gasification is already a well
+                                              proven technology. Approximately one millionThe combustion of biomass in wood stoves and in­
+                                                   downdraft gasifiers were used to operate cars, trucks,dustrial boilers has increased dramatically in some
+                                                             boats, trains, and electric generators in Europe duringareas, and forest, agricultural, and paper wastes are
+                                                World War II (Egloff 1943), and the history of this ex­being used extensively for fuels by some industries.
+                                                       perience is outlined in Chapter 2. However, the war'sHowever, more extensive biomass use still waits for the
+                                                end saw this emergency measure abandoned, asapplication of improved conversion methods, such as
+                                                      inexpensive gasoline became available (Reed 1985b).gasification, that match biomass energy to processes
+currently requiring liquid and gaseous fuels. Examples    Development of biomass gasification was disrupted in
+of s uch processes include  glass, lime, and brick    1946 as the war ended and inexpensive (15¢/gal)
+manufacture; power generation; and transportation.       gasoline became available. The magnitude of damage
+                                                               inflicted on gasifier technology by this disruption CanBiomass, like coal, is a solid fuel and thus is inherent­
+                                                    be seen by the fact that it is difficult for even the "ad­ly less convenient to use than the gaseous or liquid
+                                                  vanced" technology of the 1980s to achieve on testsfuels to which we have become accustomed. An over­
+                                                what was routine operation in the 1940s. The design,view of various processes now in use or under evalua­
+                                                           research, and manufacturing teams of that decade havetion  for converting biomass to more conventional
+                                                                      all disbanded. We have from the past only that smallenergy forms such as gas or liquid fuels is shown in
+                                                         fraction of knowledge that has been published,Fig. 1-1 (Reed 1978). The figure shows how sunlight is
+                                                  whereas the large bulk of firsthand experience inconverted to biomass through either traditional ac­
+                                                        operation design has been lost and forgotten.tivities (e.g., agriculture and silviculture) or new in­
+novative techniques  (e.g., as energy plantations,     Gasification was rediscovered in an era of fuel
+coppicing, and algaeculture) now being developed.        shortages and higher oil prices, and there are gasifier
+                                                     engine projects under way in more than 20 countriesBiomass resources fall into two categories: wet or wet­
+                                                               for producing process heat and electrical and mechani­table biomass (molasses, starches, and manures) and
+                                                           cal power (Kjellstrom 1983, 1985). In its rebirth,dry biomass (woody and agricultural materials and
+                                                     however, the existing technology has uncovered majorresidues). Biological processes require wet biomass
+                                                   problems in connection with effluent and gas cleanupand operate at or near room temperature. These proces­
+                                               and the fuel supply, which were less important duringses, shown on the lower left side of Fig. '1-1, include
+                                                          the emergency of World War II. Today, these problemsfermentation to produce alcohols and digestion to
+                                                must be solved if biomass gasification is to reemerge aƆproduce methane.
+                                                      a fuel source. Apparently, it is going to take a few years
+Thermal processes function best using biomass      for the technology of the 1980s to be effectively applied
+feedstocks with less than 50% moisture content and are     to the accomplishments of the 1940s. Space-age advan­
+shown on the right side of  Fig.  1-1. The simplest     ces in materials and control systems are available for
+
+
+
+                                                            Introduction and Guide to the Literature and Research

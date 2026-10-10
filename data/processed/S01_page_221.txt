@@ -1,0 +1,50 @@
+                                                                                                                                             IWoody and Tree Materials
+
+CABBAGE WOOD - Continued
+
+                      dry weight       ash-free dr!        std de
+                         basis          weight basis        of mean
+
+    leaf (5 measurements)
+
+    q,(gross)  =          8438            9268            67.7   Btu lb-'
+    q,(gross) =          4688             5149             37.6   ca1t-l
+    q,(gross)  =         19615           2 1543          157     J g-
+
+    root (4 measurements)
+
+    q,(gross)            8168             877 1             51.5    Btu lb-'
+    q,(gross)            4538             4873             28.6    cal q1
+    qv(gross) =         18987            20389          120     J g-
+
+                                                              75PAP
+
+CEDAR, RED*Juniperus virginiana; solid; air-dried at 105°-1100C (221 '-230OF); density,              -3    0.46 g cm  .
+
+    specific heat: 273-379 K (32"-223OF)
+
+  C (Btu Ib-l  OF-')     = 0.324
+   C Pp ( c a l q l 7-l      = 0.324
+
+   Cp(J g-  K-        = 1.356
+
+                                                          12DUN
+CHAMISE, FOLIAGE; Adenostoma fascicdatum; solid; freeze dried to < 10% moisture
+   content.  Composition is ash  3.50% and char yield = 28.6%.  Char was obtained from
+   heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                    char (from 500°C heating)
+                       1    q,(gross) = 9430 Btu Ib-                      q,(gross) = 13490 Btu 1
+    q,(gross)   5240 cal g-'                       q,(gross) = 7490 cal g-
+    qv(gross) = 21910 J g-l                     qv(gross) = 31350 J g-l
+
+                                                                 82SUS
+
+
+
+
+
+                                       244

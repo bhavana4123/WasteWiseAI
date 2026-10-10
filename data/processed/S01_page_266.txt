@@ -1,0 +1,54 @@
+                                                  Woody and Tree Materials
+
+
+PINE, WESTERN WHITE; DEAD FOLIAGE; Pinus monticola; solid; The litter was air-
+   dried at room temperature.  Composition is ash = 3.53% and char yield = 34.0%.  Char
+   was obtained from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                                1    q,(gross)  = 9360 Btu lb-                       q,(gross)   13370 Btu 1
+   qv(gross)  5200 cal g-'                        q,(gross)  = 7430 cal g-
+    q,(gross)  = 21760 J g-l                         q,(gross)  = 31080 J g-l
+
+                                                                  82SUS
+
+PINE, WHITE; Pinus strobus; solid; air-dried at 105"-110"C (221"-230°F); density,
+    0.25 g ~ m  ' ~ .
+
+   specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-I  OF-')    = 0.331
+   Cp(cal ql5-l)    = 0.331
+   Cp(J g- K   )      = 1.385
+
+                                                         12DUN
+
+PINE, WHITE; SAWDUST; Pinus strobus; proximate analysis, as delivered: moisture,
+   7.0%; volatile matter, 78.76%; fixed carbon, 14.10%; ash, 0.14%.
+
+   gross heat of combustion: air-dried; assume values refer to room temperature.
+                     1    qv(gross) = 8266 Btu lb-
+    q,(gross) = 4592 cal g-l
+    q,(gross) = 19213 J g-l
+
+                                                               68KAI/FRI; 66FRY
+
+POPLAR; genus Populus; solid.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received: 10.69% moisture                air-dried one hour at 105°C (221°F)
+    q,(gross)  = 7722 Btu lbi 1                      q,(gross) = 8645 Btu lbl I
+    qv(gross) = 4290 cal g-                         q,(gross) = 4803 cal g-
+    qv(gross) = 17948 J g-'                       qv(gross) = 20096 3 g-l
+
+                                                                22PAR'iDAV
+
+
+
+
+
+                                       289

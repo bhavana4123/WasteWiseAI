@@ -1,0 +1,56 @@
+                        Chapter 6
+     Gasifier Fabrication and Manufacture
+
+
+ 6.1  Introduction                           Some of the mild-steel components may suffer chemi­
+                                                             cal corrosion in certain parts. Corrosion is likely to
+ Gasifier construction is a relatively simple task and can                                                     occur in areas where water condenses or collects since
+be accomplished in any well·equipped shop using                                                               gasifier water often contains organic acids. Water col­
+basic sheet metal and welding assembly techniques. In­                                                            lection is especially a problem in regions such as the
+ deed. the task is so simple that it was possible for the                                                 upper magazine of Imber! gasifiers, as well as in some
+ countries of wartime Europe to construct almost one                                                      wet-scrubber systems. In these instances, the steel
+million gasifiers in just a few years in spite of wartime                                                    should be replaced by corrosion-resistant materials
+ shortages (Egloff 1943; Gengas 1950). Nevertheless. a                                                    such as copper, brass, epoxy lined steel, or stainless
+number of new materials and fabrication techniques                                                               steel as required. Stainless steel usually costs two to
+have become available since World War II, and we shall                                                       three times as much as mild steel and requires inert gas
+ call attention to these improvements in this discussion.                                                  welding techniques. Copper and brass cost five times
+According to Kaupp (1984a), "the construction of a     as much as mild steel but can be joined by brazing or
+small gasifier, including the purification system, does     hard-soldering using an acetylene torch. Aluminum is
+not require sophisticated equipment or highly skilled     particularly vulnerable to corrosion in alkaline
+                                                       environments, and its use should be avoided there.mechanics. It can be built in workshops comparable to
+the auto repair shops found in most third world                                           Some wartime gasifiers, particularly the stationary
+countries. "                                                          ones, contained massive but fragile firebrick insula­
+Fabrication refers to the construction of a single      tion. We are fortunate today to have lightweight in­
+gasifier for use or for an experiment. Manufacture com­     sulating materials based on spun alumino-silicate that
+mences when one undertakes the construction of a     are capable of withstanding temperatures up to 1500·C,
+number of identical units.                                     far beyond the requirements of gasifiers. The a1umino­
+                                                                   silicate insulation also offers many times the durability
+A general discussion of drilling, welding, and assem­    and heat-flow resistance of firebrick, at a fraction of the
+bly procedures pertinent to gasifier fabrication and     weight (Perry 1973). It is relatively inexpensive and is
+manufacture is beyond the scope of this manual. In­     available in a wide variety of forms. The 2- to 5-cm­
+ stead, we shall comment upon specific techniques of     thick felt blankets and vacuum preformed cylinders (or
+fabrication, as well as the wide range of materials      "risa sleeves") are particularly recommended for in­
+specifically applicable to gasifiers.                         sulating the reaction zone. "Moldable ceramics" that
+                                              come as a wet putty can be shaped to corners and edges,
+6.2 Materials of Construction               and thus are also very useful.
+Gasifiers are usually constructed from commercially     Finally, plastics can be used in certain applications.
+available materials such as steel pipe, sheet, and plate.    Some plastic pipe will perform acceptably up to the
+When choosing materials, one should (where possible)     boiling point of water, is more flexible than rrietal pipe,
+select those that are readily available and use off-the­    and will not corrode. Plastic liners, such as epoxy
+shelf equipment and materials that are available in bulk     paints. can sometimes provide the corrosion resistance
+quantities. One should avoid exotic alloys, special    needed in critical areas, provided temperatures are not
+shapes, and custom fabrication techniques that require     greater than 120·C.
+lfrrge initial setup and tooling costs, except in cases
+where their use is justified.
+Smaller, atmospheric-pressure gasifiers require a min­    6.3 Methods of Construction
+imum metal thickness of 20-gauge, with double-thick­
+                                 A gasifier is built much like a water heater, and theness reinforcements extending a few centimeters (1 in.)
+                                              same methods of construction are used. The workshoparound all fittings and fastenings (Freeth 1939). The                                                    should be equipped with tools for performing tasksmaximum mild-steel service temperature is 480·C                                                  such as shearing sheet metal, rolling cylinders and(900·F) (MASEC). Although the metal temperatures en­
+                                                         cones, drilling, riveting, grinding, painting, sawing,countered in well-designed air gasifiers do not usually
+                                                     tube cutting, and pipe threading.exceed the softening point of mild steel, certain stain­
+less steels or inconel may give the extra temperature   An oxyacetylene torch is valuable for cutting and weld­
+resistance necessary for critical areas such as the grate,     ing tasks, but an arc welder is preferred for mild-steel
+hearth, or nozzles.                                      welding. When aluminum, stainless steel, or inconel is
+
+
+48    Handbook of Biomass Downdraft Gasifier Engine Systems

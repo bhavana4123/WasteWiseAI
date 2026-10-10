@@ -1,0 +1,39 @@
+                                                                      Alloys and Metals
+
+
+
+
+STEEL, STAINLESS 347; solid; nickel, 1I. 1%; chromium, 18.3%; manganese, 1.30%;
+    silicon, 0.52%; carbon, 0.08%; remainder is iron.
+
+    specific heat: 273-1 173 K (32"-1652"F)
+
+                                                     x    T - 7.2712/(T + 459.67)  C (Btu lb-I. OF-')    = 0.12451 + 1.894
+     P      -1 K-l)                       = 0.1158 + 3.41 x lod5 T - 4.04 T-'   Cp(cal 5
+   Cp(J g-   K-'1       = 0.4845 + 1.427 x    T - 16.90 T-'
+
+                                                         55DOU/DEV
+
+STEEL, STAINLESS 446;solid; nickel, 0.32%; chromium, 25.58%; manganese, 0.42%;
+    silicon, 0.68%; carbon, 0.23%; remainder is iron.
+
+    specific heat:
+
+   273-773 K (32"-932"F)
+
+   Cp(Btu lb-'  OF-')    = 0.10593 + 5.9667 x    T
+   Cp(cal ~ l 2 - l ) = 0.0785 + 1.074 x     T
+   Cp(J g- K   )       = 0.3284 + 4.494 x    T
+
+   873-1173 K (1112°-16520F)
+                                            -0.0078(0.5556T - 17.7778)   Cp(Btu lb-   OF-')    = 0.1618 + 2209 x 10
+                                               0.0078(T-273.2)                      = 0.1618 + 2209 x 10-    Cp(cal 7-1 K-l)
+                                                -0.0078(T-273.2)   Cp(J g-  K-l)       = 0.6770 + 9242 x 10
+
+                                                         55DOU/DEV
+
+
+
+
+
+                                       47

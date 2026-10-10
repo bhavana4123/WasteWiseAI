@@ -1,0 +1,47 @@
+at a lower TVA/TALK ratio, and with less variation than the thermophilic digester. Both of
+these ratios are close to or higher than typical values for stable digesters fed municipal
+wastewater solids (i.e., TVA/TALK < 0.1), and may indicate that when digesting food waste at
+higher temperatures, a higher TVA/TALK ratio should be anticipated.
+
+10-day MCRT
+As observed during the 15-day MCRT operational period, TALK remained in a stable range for
+both thermophilic and mesophilic digesters, while TVAs fluctuated considerably during the 10­
+day MCRT operation. For the thermophilic digester, TVAs increased to 14,000 mg /L after the
+heater failed on 1/15/2007. TVAs dropped to 4,300 mg /L briefly, before TVAs continued to
+increase up to 20,000 mg/L prior to reseeding the digester. After the digester was reseeded, the
+temperature setting was increased to 52°C and the feed was brought to room temperature on a
+daily basis, which reduced the drop in digester temperature during feed cycles. These two
+changes allowed more stable digester temperatures, which appeared to provide more stable
+digester operation as TVAs continued to decline and reached 2,700 mg/L before switching to 5­
+day MCRT operation.
+
+For the mesophilic digester, TVAs increased to a peak of 20,000 mg/L on 1/29/2007 after the
+change to 10-day MCRT operation. After reseeding the digester, TVAs slightly increased to
+approximately 7,800 mg/L on 2/13/2007. The feed was then brought to room temperature on a
+daily basis, which led to a slight increase in digester temperature, and more stable digester
+temperature during feed cycles. TVAs began to gradually decrease to below 500 mg/L before
+the change to 5-day MCRT operation.
+
+The large fluctuations in the TVA/TALK ratio were due to fluctuations in TVAs, which as
+previously discussed, were mostly a result of the temperature fluctuations and the use of
+refrigerated feed, which became more important as the MCRT was decreased and more cold feed
+was added on a daily basis. During stable operation, the thermophilic and mesophilic digester
+TVA/TALK ratio averages were 0.45 (SD 0.18) and 0.56 (SD 0.40), respectively. During this
+period, the thermophilic digester operated at a lower TVA/TALK ratio, and with less variation
+than the mesophilic digester.
+
+5-day MCRT
+TVAs in both thermophilic and mesophilic digesters increased significantly following the switch
+to 5-day MCRT operation, while the alkalinity decreased significantly.
+
+The TVA/TALK ratio increase corresponded to the increase in TVAs and decrease in TALK
+during the 5-day MCRT operation. The loss of digester stability was most likely the result of the
+methanogen’s growth rate being too slow to maintain a sufficient population causing a washout
+of the existing methanogenic bacteria, and ultimately leading to an acid digester.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               18
+Funding Opportunity No. EPA-R9-WST-06-004

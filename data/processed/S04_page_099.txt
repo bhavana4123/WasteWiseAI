@@ -1,0 +1,50 @@
+          Table 5-2. Microturbine Cost and Performance Characteristics
+                                                             System
+      Microturbine Characteristics [1]
+                                        1        2        3        4        5        6
+ Heat Output (kW equivalent)                 61.0      119.8     258.9     375.6     450.2     1,299.0
+ Total CHP Efficiency (%), HHV [4]           70.0%    70.4%    63.0%    66.9%    67.5%    63.1%
+ Total CHP Efficiency (%), LHV              77.3%    77.8%    69.6%    73.9%    74.6%    69.8%
+ Power/Heat Ratio [5]                        0.46      0.51      0.73      0.64      0.71      0.73
+ Net Heat Rate (Btu/kWh) [6]                6,211     5,983     6,983     6,405     6,170     6,963
+ Effective Electric Eff. (%), HHV [7]           54.9%    57.0%    48.9%    53.3%    55.3%    49.0%
+ Cost
+ CHP Package Cost ($/kW) [8]               $2,690    $2,120    $2,120    $1,840    $1,770    $1,710
+ Total Installed Cost ($/kW) [9]              $4,300    $3,220    $3,150    $2,720    $2,580    $2,500
+Notes:
+1.   Characteristics presented are representative of commercially available microturbine systems. Table data are based from
+     smallest to largest: Capstone C30,; Capstone C65 CARB, Capstone C200 CARB, FlexEnergy MT250, FlexEnergy MT330,
+    Capstone C1000-LE
+2.   Turbine and engine manufacturers quote heat rates in terms of the lower heating value (LHV) of the fuel. Gas utilities
+     typically report the energy content on a higher heating value (HHV) basis. In addition, electric utilities measure power
+     plant heat rates in terms of HHV. For natural gas, the average heat content is near 1,030 Btu/scf on an HHV basis and
+    about 930 Btu/scf on an LHV basis – a ratio of approximately 0.9 (LHV / HHV).
+3.   Electrical efficiencies are net of parasitic and conversion losses. Fuel gas compressor needs based on 1 psi inlet supply.
+4.   Total Efficiency = (net electricity generated + net heat produced for thermal needs)/total system fuel input
+5.   Power/Heat Ratio = CHP electrical power output (Btu)/ useful heat output (Btu)
+6.  Net Heat Rate = (total fuel input to the CHP system - the fuel that would be normally used to generate the same amount of
+    thermal output as the CHP system output assuming an efficiency of 80 percent)/CHP electric output (kW).
+7.   Effective Electrical Efficiency = (CHP electric power output) / (total fuel into CHP system – total heat recovered/0.8).
+8.  Equipment cost only. The cost for all units, except the 30 kW size, includes integral heat recovery water heater. All units
+     include a fuel gas booster compressor.
+9.   Installed costs based on CHP system producing hot water from exhaust heat recovery in a basic installation in grid connect
+    mode.
+
+5.4.1 Part-Load Performance
+Microturbines that are in applications that require electric load following must operate during some
+periods at part load. Although, operationally, most installations are designed to operate at a constant
+output without load-following or frequent starts and stops. Multiple unit installations can achieve load
+following through sequentially turning on more units requiring less need for part load operation. When
+less than full electrical power is required from a microturbine, the output is reduced by a combination of
+mass flow reduction (achieved by decreasing the compressor speed) and turbine inlet temperature
+reduction. In addition to reducing power, this change in operating conditions also reduces efficiency.
+Figure 5-3 shows a sample part-load efficiency curve for the Capstone C65. At 50 percent power output,
+the electrical efficiency drops by about 15 percent (decline from approximately 30 percent to 25
+percent). However, at 50 percent power output, the thermal output of the unit only drops 41 percent
+resulting in a net loss of CHP efficiency of only 5 percent.
+
+
+
+
+
+Catalog of CHP Technologies                          5–7                                  Microturbines

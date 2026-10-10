@@ -1,0 +1,57 @@
+Plant Materials (Non- W d y  )
+
+
+PLANTS, VASCULAR AQUATIC; solid; plants taken from Par Pond, US. AEC Savannah
+   River Plant, near Aiken, S.C.; samples dried at 60°C (140'F) and pulverized to pass
+   40 mesh screen.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+                                  Protein Content                    q,(gross)
+   Species                     g (100 g dry wt.)      (Btu 1b-l)     (cal g-l)    (J g-')
+
+   Typha latifotia                         4.0             7672        4262     17832
+   Hydrotrida carol inensis               10.5             7304        4058     16979
+   Brasenia schreberi                    10.9             7247        4026     16845
+    Utricularia inflata                    11.4             7241        4023     16832
+   Nelumbo lutea                          12.1             7609        4227     17686
+   Myriophyttum heterophyltum         13.5             7130        396 I      16573
+   EZeocharis acicularis                  14.1              766 1        4256     17807
+   Najas guadalupensis                  14.4             7052        3918     16393
+   Nymphaea odorata                    14.6             7524        4180     17489
+   Ceratophyllum demensum             17.1              7031        3906     16343
+   Nuphar advena                       21.6             7767        4315     18054
+
+                                                           70BOY
+
+RUBBER RABBITBRUSH; Chrysothamnus nauseosus; solid; Samples of current year's
+   annual growth and woody tissue of large rangeland shrubs were collected from 6 sites
+    in several intermountain states.  Surface soil pH = 7.5 - 7.9; solid class is sandy-clay
+   loam. Mean content of current year's growth:  ash, 7.4%; sulfur, 0.20%; moisture,
+   55.0%. Mean content of woody tissue:  ash, 2.7%; sulfur, 0.04%; moisture, 44.7%.
+
+   gross heat of combustion: oven-dry weight; assume values refer to room
+   temperature; value is mean of an average of values from 3 to 5 plants from each site.
+
+   current year's growth                  woody tissue
+                                                       q,(gross)  = 8420 Btu Ibi 1    qv(gross) = 8698 Btu           $'
+    q,(gross) = 4832 cal g-                         q,(gross)  = 4678 cal g-
+    q,(gross)  = 20217 1 g- 1                                                qv(gross) = 19573 J g-'
+
+                                                       XZVANIBAR
+SAW-PALMETTO, FRONDS; Serenoa repens; solid; Samples were freeze dried to < 10%
+   moisture content. Composition is ash = 5.37% and char yield = 33.3%. Char was
+   obtained from heating the sample to 500°C (93PF)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                                                       q,(gross)  = 13890 Btu Ib- 1    qv(gross) = 9150 Btu Ib-l
+    q,(gross) = 5080 cal g-l                     qv(gross) = 7720 cal gdl
+    qv(gross)  21270 J g-'                      qv(gross) = 32290 3 g-l
+
+                                                                   82SUS
+
+
+                                       156

@@ -1,0 +1,49 @@
+3.4.2 Design Basis
+The on-site enzyme process was designed without input from enzyme companies or other protein
+production experts, although several individuals knowledgeable about this topic did participate in
+the peer review of this report. Based on the claims in U.S. Patent 4,762,788 (Example 5) [54] and
+a few reasonable assumptions, we have developed a rudimentary process that is adequate for our
+needs. The key assumptions used in the current design are summarized in Table 18. Note that the
+mass yield of enzyme from glucose is actually a computed number that is dependent on
+assumptions regarding protein composition and microorganism-specific productivity, which will
+be described below.
+
+                    Table 18. Area 400 Guiding Design Basis Assumptions
+    Parameter                           Assumption
+     Protein loading to enzymatic hydrolysis     20 mg protein/g cellulose
+     Reactor size                             300,000 L @ 80% final working volume
+    Enzyme titer at harvest                  50 g/L
+    Mass yield of enzyme from glucose          0.24 kg enzyme/kg glucose
+    Enzyme production cycle time             120 h online, 48 h offline, 168 h total
+
+The desired cellulase loading to enzymatic hydrolysis is 20 mg of enzyme protein per g of
+cellulose. “Protein” here refers to the total amount of high molecular weight protein in the
+enzyme broth as determined by assay; not all of this protein is active cellulase. The total protein
+demand was thus calculated to be 490 kg/h (1,080 lb/h). An additional 10% is produced to
+account for the slipstream provided to the media preparation tank to make the glucose/sophorose
+mixture. The size of the cellulase production vessels was chosen to be 300 m3 (80,000 gal) with a
+height-to-diameter ratio (H/D) of 2. Fermentation is assumed to be a fed-batch process starting at
+50% working volume and ending at 80%. Over one week, each bioreactor will see a 24-hour cell
+growth period, a 96-hour protein production period, and a 48-hour offline period for draining,
+cleaning, and refilling. With a one-week total cycle time and the production parameters listed in
+Table 18, one bioreactor is capable of producing 12,000 kg of protein in a week, or 71.4 kg/h
+(157 lb/h). The equivalent enzyme volumetric productivity is 0.30 g protein/L-h. Nine reactors
+were therefore required to deliver the 490 kg/h of protein needed for enzymatic hydrolysis.
+
+The reactors are loaded initially with the glucose/sophorose carbon source and nutrients
+including corn steep liquor (CSL), ammonia, and SO2. After the initial cell growth period,
+additional substrate is added to maintain protein production. The bioreactors are sparged with
+compressed and cooled air and corn oil is added as an antifoam. The reactors are temperature-
+controlled by chilled water flowing through internal coils.
+
+To determine the aeration and agitation requirements for the production bioreactors, the oxygen
+transfer rate was set equal to the oxygen uptake rate (OTR=OUR), with the OUR computed
+stoichiometrically from the protein production rate. In the modeled bioreactors, the reaction
+stoichiometry balances the reactions of substrate, oxygen, ammonia, and SO2 to cell mass and
+enzyme (plus CO2 and water) using an elemental composition for commercial cellulase provided
+by Novozymes [55]. The composition of cell mass was taken as the average of a generic cell
+mass composition [56] and the enzyme composition, with the assumption that cell mass includes
+some unreleased protein.
+
+
+                                      37

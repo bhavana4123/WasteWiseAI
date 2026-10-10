@@ -1,0 +1,60 @@
+                                                          Plant Materials (Non-Woody)
+
+
+MALE FERN? Dryopteris fitix-mas;  solid; Material is an integral part of the ecosystem at
+   the herbaceous layer level of the mixed fir and beech forest in the Pulmonario (tubro)
+   Abieti-Fagetum area of the Bucegi mountains (two different stations) in Romania.
+   The plants have the following constitution: 33% of the weight is represented by the
+   stem axis and 67% by leaves. The species has an aestival (summer) type vegetation
+    period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated to a dry basis.
+
+    qv(gross) = 7808 Btu  lb;'
+    qv(gross) = 4338 cal g-
+    q,(gross) = 18150 J g-l
+
+                                                          73PAU/BRE
+
+MEADOW-RUE ISOPYRUM; Isopyrum thdictroides; solid; Material is an integral part of
+   the ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+    is represented by the stem axis and 67% by leaves. The species has a vernal (spring)
+   type vegetation period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated to a dry basis.
+
+    qv(gross) = 7969 Btu lb;'
+    q,(gross) = 4427 cal g-
+                   1    q,(gross) = 18523 J g-
+
+                                                          73PAU/BRE
+
+MELIC GRASS; MeZica uniflora; solid; Material is a herb, one of the dominant species of
+   a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown forest soil,
+   at 300 m above sea level located in the southern part of the Bukk Mountains of north
+   Hungary.  Samples were dried at 85°C (185'F), then ground and pelleted. The ash
+   content was determined at 500°C (932°F)while the temperature was increased
+   stepwise. Ash content of aboveground living material = 8.1%; aboveground dead
+   material = 12.2%; roots = 7.6%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature, the number of measurements is 3.
+
+                      dry weight       ash-free dry       std dev.
+                         basis          weight basis        of mean
+
+   aboveground living material
+
+    q,(gross)  =          7709             8397              7.7   Btu lb'l
+    qv(gross) =          4283              4665              4.3    cal g-l
+    qv(gross) =         I7920            19518            8     J g-'
+
+                                                                           (more)
+
+
+
+                                        153

@@ -1,0 +1,46 @@
+               Table 6-2. Characteristics of Major Fuel Cell Types
+                        PEMFC             PAFC           MCFC             SOFC
+                        H+ ions (with anions   H+ ions (H3PO4     CO3 = ions (typically,   O= ions (Stabilized
+Type of Electrolyte      bound in polymer      solutions)          molten LiKaCO3      ceramic matrix with
+                     membrane)                                  eutectics)            free oxide ions)
+                            Solid polymer          Liquid phosphoric   Solution of lithium,   Solid ceramic,
+                    membrane            acid in a lithium     sodium, and/or        Yttria stabilized
+Common Electrolyte                        aluminum oxide    potassium            zirconia (YSZ)
+                                               matrix             carbonates soaked
+                                                                             in a ceramic matrix
+                               Plastic, metal or       Carbon, porous     High temp metals,    Ceramic, high tempTypical construction                        carbon               ceramics           porous ceramic      metals
+                   No              No                  Yes, good temp       Yes, good tempInternal reforming                                                         match             match
+Oxidant                    Air to O2                Air to Enriched Air   Air                     Air
+Operational              150- 180°F (65-85°C)   302-392°F (150­     1112-1292°F (600­    1202-1832°F (700­
+Temperature                                   200°C)             700°C)              1000°C)
+DG System Level        25 to 35%           35 to 45%         40 to 50%          45 to 55%
+Efficiency (% HHV)
+Primary Contaminate     CO, Sulfur, and NH3   CO < 1%, Sulfur      Sulfur                 Sulfur
+Sensitivities
+Source: DOE Fuel Cells Technology Program96
+
+6.3.1.5  PEMFC (Proton Exchange Membrane Fuel Cell or Polymer Electrolyte
+       Membrane)
+NASA developed this type of fuel cell in the 1960s for the first manned spacecraft. The PEMFC uses a
+solid polymer electrolyte and operates at low temperatures (less than 200°F). Due to their modularity
+and simple manufacturing, reformer/PEMFC systems for residential DG applications (i.e. micro CHP)
+have enjoyed considerable market success, particularly in Asia. PEMFC’s have high power density and
+can vary their output quickly to meet demand. This type of fuel cell is highly sensitive to CO poisoning.
+PEMFCs have historically been the market leader in terms of number of fuel cell units shipped. There is a
+wide range of PEMFC manufacturers.
+
+6.3.1.6  PAFC (Phosphoric Acid Fuel Cell)
+PAFC uses phosphoric acid as the electrolyte and is one of the most established fuel cell technologies.
+The first PAFC DG system was designed and demonstrated in the early 1970s. PAFCs are capable of fuel-
+to-electricity efficiencies of 36 percent HHV or greater. The current 400 kW product has a stack lifetime
+of over 40,000 hours and commercially based reliabilities in the 90 to 95 percent range. ClearEdge
+
+
+
+
+
+96 “2012 Fuel Cell Technologies Market Report” U.S. Department of Energy, October 2013.
+http://energy.gov/sites/prod/files/2014/03/f11/2012_market_report.pdf
+
+
+Catalog of CHP Technologies                         6–11                                       Fuel Cells

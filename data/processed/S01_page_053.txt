@@ -1,0 +1,51 @@
+Alloys and Metals
+
+
+
+ZINC;solid; atomic number 30; atomic wt., 65.39; density 7.14 g ~  r n (445.8- ~    lb ft-3).
+   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, AH^0 at
+                           P
+   25OC (77°F); product of combustion is zinc oxide, ZnO.
+
+   q (gross) = 2291.4 Btu lb;'
+    qp(gross) = 1273.0 cal-4-
+   qP(grosd = 5326.2 J g
+    P
+                                                       82WAGfEVA
+
+   specific heat:
+
+   tern erature
+    (KP  (OF)         Cp(Btu lb-I  OF-')      C p b l g-1 K -I              -1  -1                                                           Cp(J g  K   )
+    298    77                0.0928                 0.0928              0.388
+    500   441                0.100                   0.100               0.419
+    600   622                0.104                   0.104               0.434
+
+   heat of fusion: at the melting point, 321°C (620'F).
+
+   Lf = 48.6 Btu lb;'
+  Lf = 27.0 cal g-
+   Lf = 113.0 J g-l
+
+   heat of vaporization: at the boiling point, 2441°C (4426°F).
+   I, = 760.4 Btu Ib; 1
+    L, = 422.4 cal g;
+    L,  = 1767.4 J g-
+
+   vapor pressure:
+
+   tern erature
+   (OCf  (OF)     Hatm)     W a )             P(psi)
+    286   547          1 o-36                                                   0.1            1.470  x   10:;
+    479   894         lo-*              101.3           1.470 x LO
+    581  1078                        1013.3            1.470  x 10-
+    718  1324        10-           10 132.5           1.470
+    911  1672            1 .o         10 1325.           14.696
+
+                                                      63HULIORR
+
+
+
+
+
+                                       50

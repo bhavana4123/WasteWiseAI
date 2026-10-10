@@ -1,0 +1,46 @@
+Temperature.  The absolute temperature,  T,  is based upon the International Practical
+Temperature Scale.  Values are given in kelvins (symbol K). The Celsius ("Centigrade'1)
+scale (symbol "C)is used to indicate the temperature or temperature range for many
+reported measurements.   It is defined as t("C) = T(K) - 273.15.  The Fahrenheit scale,
+provided as a convenience for many measurements, is defined as t("F) = 1.8t(OC) + 32.
+Unless specifically indicated otherwise,  all temperatures T involved  in equations are
+absolute temperature (T,K).
+
+Ultimate Analysis. The determination of the percentages of carbon, hydrogen, nitrogen,
+sulfur, chlorine, ash, and oxygen in a dry sample.  The percentage of oxygen is usually
+obtained by difference between 100% and the sum of the other determined elemental
+analyses.
+
+              The saturated                               equilibrium                                           pressure                                                  over                                                        theVapor Pressure.
+                                                     =                                              in  pascals                                            N-m-                                                                                              li9uid) andsubstancein  Torrat (Torra giventemperature.               Values                                              (Pa                      are expressed
+133,3224 Pa). The conventional atmosphere is taken as 101325 Pa.
+
+Volatile Concentration.  The determination of the volatile concentration (VCM) as de-
+scribed  in 85JEN/EBE differs somewhat from the procedures described in the ASTM
+Standard Test Methods.  In 85JEN/EBE, the sample is placed in a covered crucible at
+600°C for 6 minutes followed by heating at 950°C for 6 minutes.  The loss in weight is
+the volatile fraction.
+
+Volatile Matter.  Those products exclusive of moisture given off by the sample as a gas
+or vapor determined by definite prescribed procedures.  In ASTM D 3175-77, Standard
+Test Method for Volatile Matter in the Analysis of CoaZ and Coke, the weighed sample is
+placed in a covered platinum crucible at 95OOC for exactly 7 minutes. The loss in weight
+is the volatile fraction.
+
+Uncertainties.  No attempt has been made to assess the overall uncertainty of the data
+included.  For some substances, uncertainties are given for the values; these represent
+the original authors' estimates and are usually a measure of the reproducibility of their
+measurements. A large assigned uncertainty usually indicates a variability of sample,
+not a low precision of measurement.
+
+Use of Enthalpy versus Heat. The term "heat" has been used loosely in the scientific and
+engineering literature  in that  it does not differentiate clearly between processes at
+constant volume (U, internal energy) and those at constant przssure (H, enthalpy).  Usage
+of thermodynamic state functions, such as the internal energy and enthalpy, are clear
+and unambiguous by their definitions. When preceded by the words "gross" or "net,11 the
+word '%eat" indicates specific conditions as described in various definitions.
+
+Multiple Sources of Data.  Occasionally, several references are found in the literature
+that report the same thermodynamic property for a particular material.  The measured
+
+                                             5

@@ -1,0 +1,49 @@
+called non-selective catalytic reduction (NSCR). NOx and CO reductions are generally greater than 90
+percent, and VOCs are reduced approximately 80 percent in a properly controlled TWC system. Because
+the conversions of NOx to N2, the conversion of CO and hydrocarbons to CO2 and H2O will not take place
+in an atmosphere with excess oxygen (exhaust gas must contain less than 0.5 percent O2), TWCs are only
+effective with stoichiometric or rich-burning engines. Typical “engine out” NOx emission rates for a rich
+burn engine are 10 to 15 gm/bhp-hr. NOx emissions with TWC control are as low as 0.15 g/bhp-hr.
+
+Stoichiometric and rich burn engines have significantly lower efficiency than lean burn engines (higher
+carbon emissions) and only certain sizes (<1.5 MW) and high speeds are available. The TWC system also
+increases maintenance costs by as much as 25 percent. TWCs are based on noble metal catalysts that
+are vulnerable to poisoning and masking, limiting their use to engines operated with clean fuels (e.g.,
+natural gas and unleaded gasoline). In addition, the engines must use lubricants that do not generate
+catalyst poisoning compounds and have low concentrations of heavy and base metal additives.
+Unburned fuel, unburned lube oil, and particulate matter can also foul the catalyst. TWC technology is
+not applicable to lean burn gas engines or diesels.
+
+2.5.2.6   Selective Catalytic Reduction (SCR)
+This technology selectively reduces NOx to N2 in the presence of a reducing agent. NOx reductions of 80
+to 90 percent are achievable with SCR. Higher reductions are possible with the use of more catalyst or
+more reducing agent, or both. The two agents used commercially are ammonia (NH3 in anhydrous liquid
+form or aqueous solution) and aqueous urea. Urea decomposes in the hot exhaust gas and SCR reactor,
+releasing ammonia. Approximately 0.9 to 1.0 mole of ammonia is required per mole of NOx at the SCR
+reactor inlet in order to achieve an 80 to 90 percent NOx reduction.
+
+SCR systems are considered commercial today and represent the only technology that will reduce NOx
+emissions to the levels required in Southern California and the Northeast U.S. Still, SCR adds significantly
+to the capital and operating cost of a reciprocating engine CHP system. As shown previously in Table
+2-4, SCR with oxidation catalyst and associated continuous energy monitoring system adds between
+$150-$700/kW to the capital cost for a lean burn reciprocating engine CHP installation. The cost burden
+is higher for smaller engines.
+
+2.5.3 Gas Engine Emissions Treatment Comparison
+Table 2-11 shows achievable emissions for each of the five representative gas engine systems. The
+emissions presented assume available exhaust treatment. System 1, the 100 kW engine, is a high speed,
+rich burn engine. Use of a TWC system with EGR provides NOx emissions of just under 0.07 lb NOx per
+MWh after credit is taken for the thermal energy provided.32 The Lean burn engine systems use an
+SCR/CO system providing emissions reduction that meets the CARB 2007 emissions limits without
+consideration of the thermal energy credit.
+
+With current commercial technology, highest efficiency and lowest NOx are not achieved
+simultaneously. Therefore many manufacturers of lean burn gas engines offer different versions of an
+engine – a low NOx version and a high efficiency version – based on different tuning of the engine
+
+
+32 CARB 2007 emissions regulations allow CHP systems to include both the electric and thermal output in the calculation of
+output based emissions.
+
+
+Catalog of CHP Technologies                         2–25                         Reciprocating IC Engines

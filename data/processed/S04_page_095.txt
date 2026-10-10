@@ -1,0 +1,40 @@
+by introducing and burning fuel), and then these hot gases drive an expansion turbine that drives both
+the inlet compressor and a drive shaft capable of providing mechanical or electrical power. Other than
+the size difference, microturbines differ from larger gas turbines in that they typically have lower
+compression ratios and operate at lower combustion temperatures. In order to increase efficiency,
+microturbines recover a portion of the exhaust heat in a heat exchanger called a recuperator, to
+increase the energy of the gases entering the expansion turbine thereby boosting efficiency.
+Microturbines operate at high rotational speeds of up to 60,000 revolutions per minute. Of the two
+primary players in the domestic industry, Capstone couples this shaft output directly to a high speed
+generator and uses power electronics to produce 60 Hz electricity. FlexEnergy uses a gearbox to reduce
+the drive speed to 3600 rpm to power a synchronous electric generator.
+
+5.3.2 Components
+Figure 5-1 shows a schematic diagram of the basic microturbine components, which include the
+combined compressor/turbine unit, generator, recuperator, combustor, and CHP heat exchanger. Each
+of these primary components is described further below.
+
+              Figure 5-1. Microturbine-based CHP System Schematic
+
+
+
+
+
+                      Source: FlexEnergy
+
+5.3.2.1   Turbine & Compressor
+The heart of the microturbine is the compressor-turbine package (or turbocompressor), which is
+commonly mounted on a single shaft along with the electric generator. The shaft, rotating at upwards of
+60,000 rpm, is supported on either air bearings or conventional lubricated bearings. The single moving
+part of the one-shaft design has the potential for reducing maintenance needs and enhancing overall
+reliability.
+
+Microturbine turbomachinery is based on single-stage radial flow compressors and turbines, unlike
+larger turbines that use multi-stage axial flow designs. Radial design turbomachinery handles the small
+volumetric flows of air and combustion products with reasonably high component efficiency.84 Large­
+
+
+1 With axial flow turbomachinery, blade height would be too small to be practical.
+
+
+Catalog of CHP Technologies                          5–3                                  Microturbines

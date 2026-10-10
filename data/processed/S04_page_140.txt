@@ -1,0 +1,50 @@
+       Figure 7-11. Packaged System Installations and Capacity by Size Range
+                  gur                                                                    e 7-
+                                                                                     11.
+                  Pac
+                                                                                                   kage
+              d  S                                                                                yste
+             andns
+
+              m  I                        F
+                                          tallations
+
+
+
+
+                        Capacit    y by Size    R   ange
+                                                                                                        i
+
+
+              Source: ICF/U.S. DOE Combined Heat and Power Installation Database, February 2017,
+             https://doe.icfwebservices.com/chpdb/.
+
+
+7.4.2  Technical Potential
+Technical potential is an estimate of market size constrained only by technological limits—the ability of
+CHP technologies to fit customer energy needs without regard to economic for market factors. For this
+reason, actual potential will be less than technical potential, but in some cases, it may still be a useful
+indicator of relative economic potential.
+
+Ninety percent of packaged system installations are units under 500 kW. There is currently 21.3 GW of
+technical potential for systems under 500 kW in the U.S. commercial, institutional, and multifamily
+sectors108, at more than 100,000 facilities. The technical potential for <500 kW packaged system
+applications is greatest in the following ten market segments:
+
+    •  Amusement/recreation
+    •   Big box retail
+    •  Commercial office buildings
+    •  Government buildings
+    •   Hotels and motels
+    •   Multifamily buildings
+    •   Nursing homes
+    •   Restaurants
+    •   Schools
+    •  Supermarkets
+
+
+
+108 ICF, CHP Technical Potential Database, 2016.
+
+
+Catalog of CHP Technologies                          7–9                       Packaged CHP Systems

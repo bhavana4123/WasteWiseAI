@@ -1,0 +1,55 @@
+                                                                        Foods
+
+
+ FAT, LARD; solid; purified internal fat of the hog; fatty acid composition (typical):
+     myristic, 1.1%; palmitic, 30.4%; stearic, 17.9%; oleic, 41.2%; linoleic, 5.7%.  Iodine
+    number 46-66.
+
+    gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 17260 Btu 1
+     q,(gross) = 9590 cal g-
+     q,(gross)  = 40120 J g- 1
+
+                                                      55MERlWAT
+ FAT, MUTTON; solid.
+
+    gross heat of combustion: assume values refer to room temperature.
+     q,(gross)  = 17120 Btu Ib- 1
+     q,(gross)  = 9510 cal g-'
+     q,(gross)  = 39790 J g- 1
+
+    fat obtained by ether extraction
+
+    q,(gross) = 16780 Btu 1
+     q,(gross)  = 9320 cal g-
+    q,(gross) = 39000 J g-l
+
+                                                      55MERlWAT
+FAT, OAT; Avena sativa; solid; ether extract.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+                    Btu    q,(gross)            =             16330                          1P-'                    cal                         g-             9070    q,(gross)            =
+    q,(gross)  = 37950 J g- 1
+
+
+                                                      55MER/WAT
+FAT, PORK; solid.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)             17100           =                   Btu                      1P-'                            g-             9500                   cal   qv(gross) =
+    q,(gross)  = 39750 J g-l
+
+   fat obtained by ether extraction
+
+   qv(gross) = 16430 Btu lb-I
+    q,(gross) = 9130 cal g-l
+    q,(gross)  = 38200 J g-'
+
+                                                     55MERlWAT
+
+
+
+                                        85

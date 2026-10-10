@@ -1,0 +1,43 @@
+                                                  Woody and Tree Materials
+
+
+ OAK, WATER; Quercus nigru; solid; Material was collected from the southern Atlantic
+    and Gulf coastal plains in bottom-, swamp- and wet flat-land natural stand sites.
+    Samples were dried at 70°C (158°F)to a constant weight; reported values were
+    averaged over all positions of similar plant tissue for each tree and six trees per
+    species were used.
+
+    gross heat of combustion: assume values refer to room temperature; values ate on a
+    dry weight basis.
+
+    bole wood                               branch wood
+    qv(gross) = 8289 Btu Ibil                    qv(gross) = 8237 Btu lb- 1
+     q,(gross)  = 4605 cal g;                                q,(gtoss)    4576 cal g-l
+    qv(gross) = 19267 J g-                          q,(gross) = 191 46 J g-'
+
+    bole bark                                branch bark
+    qv(gross) = 8393 Btu  Ib;'                        q,(gross)  = 8318 Btu lb- 1
+    qv(gross) = 4663 cal g-                        q,(gross) = 4621 cal g-l
+    qv(gross) = 1951 o J                                     q,(gtoss)   = 19334 J g-'
+    foliage
+
+
+
+
+
+                                                       82GOW/FRE
+OAK, WHITE; Quercus alba; solid; air-dried at 105"-110"C(221 "-230°F), density,
+    0.78 g
+
+   specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu Ib"   OF-')    = 0.325   Cp(cal 7-1 K-1)                     = 0.325
+   Cp(J g-  K-')       = 1.360
+
+                                                         12DUN
+
+
+
+
+
+                                      279

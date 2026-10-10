@@ -1,0 +1,50 @@
+Power is a primary US manufacturer of PAFC systems after buying the PAFC assets from United
+Technologies. Recently however ClearEdge has encountered financial problems.97
+
+6.3.1.7  MCFC (Molten Carbonate Fuel Cell)
+The MCFC uses an alkali metal carbonate (Li, Na, K) as the electrolyte and has a developmental history
+that dates back to the early part of the twentieth century. Due to its operating temperature range of
+1,100 to 1,400°F, the MCFC holds promise in CHP applications. This type of fuel cell can be internally
+reformed, can operate at high efficiencies (50 percent HHV), and is relatively tolerant of fuel impurities.
+Government/industry R&D programs during the 1980s and 1990s resulted in several individual pre-
+prototype system demonstrations. Fuel Cell Energy is one of the primary manufacturers of commercially
+available MCFCs, ranging from 300 kW to 2800 kW.
+
+6.3.1.8  SOFC (Solid Oxide Fuel Cell)
+SOFC uses solid, nonporous metal oxide electrolytes and is generally considered less mature in its
+development than the MCFC and PAFC technologies. SOFC has several advantages (high efficiency,
+stability and reliability, and high internal temperatures) that have attracted development support. The
+SOFC has projected service electric efficiencies of 45 to 60 percent and higher, for larger hybrid,
+combined cycle plants. Efficiencies for smaller SOFC units are typically in the 50 percent range.
+
+Stability and reliability of the SOFC are due to an all-solid-state ceramic construction. Test units have
+operated in excess of 10 years with acceptable performance. The high internal temperatures of the
+SOFC are both an asset and a liability. As an asset, high temperatures make internal reforming possible.
+As a liability, these high temperatures add to materials and mechanical design difficulties, which reduce
+stack life and increase cost. While SOFC research has been ongoing for 30 years, costs of these stacks are
+still comparatively high. Currently, two of the primary SOFC manufacturers include Bloom Energy, which
+is a pure electric fuel cell (i.e. no waste heat is captured) and Ceramic Fuel Cells.
+
+Design Characteristics
+The features that have the potential to make fuel cell systems a leading prime mover for CHP and other
+distributed generation applications include:
+
+                        Fuel cell systems are constructed from individual cells that generate 100 W to 2 kW
+Size range             per cell. This allows systems to have extreme flexibility in capacity. Multiple systems
+                      can operate in parallel at a single site to provide incremental capacity.
+                        Fuel cells can achieve overall efficiencies in the 65 to 95% range. Waste heat can beThermal output                     used primarily for domestic hot water applications and space heating.
+Availability            Commercially available systems have demonstrated greater than 90% availability.
+                        Fuel cell stack efficiency improves at lower loads, which results in a system electric
+Part-load operation      efficiency that is relatively steady down to one-third to one-quarter of rated capacity.
+                         This provides systems with excellent load following characteristics.
+                      While part-load efficiencies of fuel cells are generally high, MCFC and SOFC fuel cells
+Cycling                 require long heat-up and cool-down periods, restricting their ability to operate in
+                  many cyclic applications.
+
+
+97 ClearEdge Power filed for Chapter 11 bankruptcy in May of 2014.
+http://www.oregonlive.com/business/index.ssf/2014/05/clearedge_power_files_for_bankruptcy_as_financial_woes_mount.ht
+ml
+
+
+Catalog of CHP Technologies                         6–12                                       Fuel Cells

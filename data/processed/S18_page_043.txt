@@ -1,0 +1,49 @@
+to estimate the purchased capital cost of a hydrolysate pressure filter system at the present design
+flow as being on the order of $30MM minimally. The solid-liquid separator cost used in the 2002
+design was only about $5MM. We suspect that the older cost estimate was extremely optimistic.
+In general, we have found a considerable discrepancy in the cost of solid-liquid separation
+technology being quoted now compared to what was quoted in the 1990s and 2000s, though we
+have not investigated why this might be so.
+
+In 2009, NREL began studying whole-slurry enzymatic hydrolysis in earnest because advanced
+enzyme preparations became available that could perform satisfactorily on this material. One
+advanced preparation was tested at the pilot scale and performed very well, achieving 91%
+cellulose-to-glucose conversion in initial process-relevant whole-slurry enzymatic hydrolysis
+experiments on a 2008 batch of pretreated corn stover (PCS) in which a 75% xylan-to-xylose
+conversion was achieved in pretreatment (see Table 7). Previously, cellulose-to-glucose
+conversions of 90% were not uncommon in washed-solids hydrolysis experiments, but this
+enzyme was the first tested at NREL to demonstrate such a high conversion in a whole-slurry
+experiment.
+
+As described in Section 3.2, the direction in NREL pretreatment research has been toward lower-
+severity processes that rely on secondary thermochemical or enzymatic hydrolysis to convert
+xylose oligomers to monomers. The reduced severity also affects cellulose digestibility. In newer
+batches of PCS that have higher (≥80%) xylose yield, the glucose yield from cellulose is lower
+for the same total solids loading. Loss of conversion may be counteracted to a degree by
+reducing the solids loading or by employing pretreatment-related process steps such as
+deacetylation and/or disc-refining, as discussed in Section 3.2.4. Whole-slurry hydrolysis results
+using the advanced enzyme preparation are summarized in Table 16.
+
+   Table 16. Summary of Integrated Whole-Slurry Enzymatic Hydrolysis Performance Using an
+                           Advanced Enzyme Preparation
+            SOT     PCS Batch         Total Solids     Glucose Yield
+               Year                      Loading (wt %)   from Cellulose
+               2009    2008: 75% xylose       20%          91%
+               2009    2009: 80% xylose       20%          83%
+               2010    2010: 80% xylose       20%          84%
+               2010    2010: 80% xylose       17.5%         86%
+               2010    2010: 80% xylose       15%          90%
+
+Cellulose-to-glucose conversion in these experiments is approaching the 2012 targets (90%
+conversion at 20 wt % total solids), but it is not there yet. Achieving these targets will require use
+of one of the rapidly-improving enzyme preparations being developed by NREL’s industrial
+collaborators or through DOE’s ongoing enzyme solicitation focused on the development of
+advanced enzyme systems [49]. In addition to cellulase activity, these advanced enzyme
+preparations will likely have hemicellulase activity, enabling less severe pretreatment. Accessory
+enzymes (e.g., ferulic acid esterase) may also be present in advanced cocktails to more
+efficiently hydrolyze the bonds within and linkages between cellulose, hemicellulose, and lignin.
+NREL will continue to monitor the performance of these evolving enzyme preparations as well
+as the cost of solid-liquid separation technologies in order to choose the most cost-effective
+process option for demonstration in 2012.
+
+                                      33

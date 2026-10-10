@@ -1,0 +1,46 @@
+5.4  Cost Sensitivity Analysis
+Here we present a limited sensitivity analysis using the technoeconomic model presented in this
+report. More exhaustive sensitivity analyses are planned for future publication, including
+sensitivity to feedstock variability and an overarching Monte Carlo sensitivity analysis including
+conversion and economic assumptions.
+
+A single-point sensitivity was performed on the Aspen model using the variables and limits
+shown in Table 40. The baseline for all variables was the 2012 performance target used in the
+design case described previously. Reasonable minima and maxima for each variable were chosen
+with a group of NREL researchers. Each variable was changed to its maximum and minimum
+value while all others were held constant. The sensitivities of MESP and ethanol yield to these
+parameters are displayed as tornado charts in Figure 20. These indicate that conversion
+parameters have the largest (and only) impacts on ethanol yield. Conversion parameters also
+factor heavily into MESP, along with parameters that affect capital and operating costs. The
+uncertainty in capital costs resulting from the factored approach we used (+/-25%) has the largest
+impact to MESP but is on the order of other key parameters. We note that this is an imperfect
+comparison because the TCI bar represents a true uncertainty while the other bars are more
+accurately called a risk, in the sense that they represent a range of results that we might expect to
+see in the pilot-scale demonstration runs. The magnitude of these bars is of course a function of
+the range we chose in Table 40. Conversion parameters have their own uncertainty due to the
+laboratory measurements involved. We plan to quantify the sensitivity of MESP to these
+uncertainties in a future paper.
+
+                   Table 40. Assumptions Varied in the Sensitivity Analysis
+                          Assumption Name          Min   Baseline  Max
+            Pretreatment    PT % solids             25%    30%    40%
+                       PT acid loading (mg/g)        10      22.1      35
+                       PT temperature °C           150     158     170
+                       PT xylan to xylose         80%    90%    92%
+                       PT xylan to furfural        3%    5%    8%
+                       PT glucan to glucose       6%     9.9%    12%
+          Enz hydrolysis  EH % solids               17.5%   20%    25%
+                     EH cellulose to glucose      75%    90%    95%
+                     EH enzyme loading mg/g      10      20      30
+                     EH time (d)                  2        3.5       5
+            Fermentation   FERM contamination losses   0%    3%    6%
+                     FERM xylose to ethanol     75%    85%    90%
+                     FERM arabinose to ethanol   0%    85%    85%
+                     FERM time (d)               1        1.5       3
+             Capital            Total capital investment      -25%          -     +25%
+
+
+
+
+
+                                      79

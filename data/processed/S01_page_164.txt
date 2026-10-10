@@ -1,0 +1,54 @@
+                                                          Polymers and Plastics
+
+
+
+PHENOL-FORMALDEHYDE RESIN, UNHARDENED; solid; empirical formula
+      1 qH14'3*
+   gross heat of combustion: at 25°C (77°F)
+    qv(gross) = 12968 2 3.6 Btu lb- 1
+    q,(gross)  = 7204.2 2 2.0 cal g-l
+    q,(gross) = 30142.4 2 8.4 J g-'
+
+                                                             67FRA/MIS
+
+POLYACENAPHTHYLENE; solid; amorphous; repeating unit: C 2Hg;degree of
+   polymerization -600 units.
+
+   gross heat of combustion: at 25°C (77°F)
+    q,(gtoss)  = 16898 ? 3.6 Btu Ibl1
+    q,(gross) = 9388.0 f 2.0 cal g-
+    q,(gross) = 39279.4 f 8.4 f g-l
+
+                                                                         68 JOS
+
+POLYALLYLPHTHALATE; solid; empirical formula C14H 40.
+
+   gross heat of combustion: at 25°C (77'F)
+    q,(gross)   11934 k 3.8 Btu Ib- 1
+    q,(gross)  = 6629.8 f 2.1 cal g-l
+    q,(gross)   27739.1 2 8.8 J g-l
+
+                                                             67FRA/MIS
+
+POLYBUTADIENE 41 OF; solid; analysis: carbon, 88.47%; hydrogen, 1 1.160%; sulfur,
+   0.083%; oxygen, 0.12%; ash, 0.34%; phenyl-8-naphthylamine,  0.10%; repeating unit:
+  C4H6;polymerization is carried out at 5°C (41 OF).
+
+   specific heat:
+
+         (OF)        Cp(Btu Ib-l  OF-')         Cp(cal g-1 K -1      Cp(J g-1 K -1 )    tern(€8erature
+     50  -370                 0.08532                0.08532             0.3570
+    100  -280                0.15832                0.15832             0.6624
+    150  -190                 0.224 16                 0.224 16             0.9379
+    200  -100                  0.359                    0.359                 1.50
+    250   - 10                0.433                   0.433                1.81
+    300    80                  0.47 1                   0.471                 1.97
+    330   134                0.4940                  0.4940               2.067
+
+                                                        53aFUR/McC
+
+
+
+
+
+                                       179

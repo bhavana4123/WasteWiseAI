@@ -1,0 +1,36 @@
+2.1.2.7 Seed Culture Preparation
+Approximately 40 hours before the 1500-L fermentor was inoculated, ethanologen seed culture
+was revived in a 50-mL conical tube. After approximately 11 h, this culture was transferred to a
+1-L shake flask. After approximately another 9 h, 750–1000 mL of this seed culture was
+transferred to the 160-L fermentor, which contained approximately 120 L of fermentation media.
+The final seed culture was grown for about 18–22 h or until the glucose concentration dropped to
+approximately 30–50 g/L with a target optical density of 8–10 absorbance units (@ 600 nm).
+Table 3 shows the media components and their concentrations in all seed culture fermentations.
+
+                   Table 3. Fermentation Media Concentrations at All Scales
+                                 Concentration in Seed     Concentration in Main
+                                    Fermentations            Fermentation            Component                                     (160-L and smaller)              (1500-L)
+                                                  (g/L)                         (g/L)
+          Yeast extract                    10                      5
+        KH2PO4                        2                       1
+            Sorbitol                             2*                      –
+          Glucose                       150                      –
+          * Sorbitol was not used in shake flasks and conical tubes.
+
+
+2.1.3 Sample Plans and Data Analysis
+2.1.3.1 Sampling and Analysis Plan
+Sample analysis and scheduling for each run is presented in Table 4. All enzymatic hydrolysis
+and fermentation samples that could not be immediately processed were frozen. Because
+enzymatic hydrolysis was occurring prior to completing enzyme addition, time-zero hydrolysate
+samples were not taken because it would not provide the good sample for measurement of TS
+and fraction insoluble solids (FIS). The initial enzymatic hydrolysis time-zero slurry properties
+(TS and insoluble solids and component concentration) were calculated by mass balance from
+measurement of feed, caustic, water, and enzyme additions to the HSEHR. In later runs, a sample
+of slurry was taken prior to enzyme addition to check the calculations.
+
+
+
+
+
+                                      8

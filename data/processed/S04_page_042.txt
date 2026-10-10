@@ -1,0 +1,45 @@
+2.4.6 Maintenance
+Maintenance costs vary with type, speed, size and number of cylinders of an engine. These costs
+typically include:
+
+    •  Maintenance labor
+    •   Engine parts and materials such as oil filters, air filters, spark plugs, gaskets, valves, piston rings,
+        electronic components, etc. and consumables such as oil
+    •  Minor and major overhauls.
+
+Maintenance can either be done by in-house personnel or contracted out to manufacturers,
+distributors, or dealers under service contracts. Full maintenance contracts (covering all recommended
+service) generally cost between 1 to 2.5 cents/kWh depending on engine size, speed and service. Many
+service contracts now include remote monitoring of engine performance and conditions in addition to
+allowing for predictive maintenance. Service contract rates typically are all-inclusive, including the travel
+time of technicians on service calls.
+
+Recommended service is comprised of routine short interval inspections/adjustments and periodic
+replacement of engine oil and filters, coolant, and spark plugs (typically 500 to 2,000 hours). An oil
+analysis is part of most preventative maintenance programs to monitor engine wear. A top-end overhaul
+is generally recommended between 8,000 and 30,000 hours of operation (see Table 2-5) that entails a
+cylinder head and turbocharger rebuild. A major overhaul is performed after 30,000 to 72,000 hours of
+operation and involves piston/liner replacement, crankshaft inspection, bearings, and seals.
+Maintenance intervals are shown in Table 2-5.
+
+      Table 2-5. Representative Overhaul Intervals for Natural Gas Engines in
+                              Baseload Service
+                                  Time Between Overhaul (thousand operating hours)
+                                              as a Function of Engine Speed (rpm)
+                           720 rpm       900 rpm      1200 rpm    1500 rpm    1800 rpm
+      Minor Overhaul          > 30         15 - 36       24 – 36      10 - 20       8 - 15
+       Major Overhaul          > 60         40 - 72        48 - 60      30 – 50      30 - 36
+      Source: SFA Pacific, Inc.
+
+Maintenance costs presented in Table 2-6 are based on engine manufacturer estimates for service
+contracts consisting of routine inspections and scheduled overhauls of the engine generator set. Costs
+are based on 8,000 annual operating hours expressed in terms of annual electricity generation. Engine
+maintenance can be broken into fixed components that need to be performed on a recurring basis
+regardless of the engine run time and variable components that depend on the hours of operation. The
+vendors quoted all O&M costs on a variable basis for a system in baseload operation.
+
+
+
+
+
+Catalog of CHP Technologies                         2–16                         Reciprocating IC Engines

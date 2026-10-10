@@ -1,0 +1,47 @@
+          Other Units Exactly Defined in Terms of SI Units (Partial Listing)
+
+                 Name                 Symbol           Definition
+
+length                 inch                                in.                2.54 x  lo-' m
+
+mass                pound (av.)                   lb                0.453 592 37 kg
+
+force                 kilogram force           kg f              9.806 65 N
+
+pressure             atmosphere             atm             101 325 N-m-2
+
+pressure                tort                       Torr             (101 325/760) N.m-2
+
+pressure              millimeter of         mmHg           13.5951 x 98 ,665                                                                   10-2N-rn- 9                    mercury                                              x
+
+energy                kilowatt-hour           kWh               3.6 x lo6 J
+
+energy              thermochemical                             4.184 J                                                     calth                         calorie"
+
+energy               thermochernical                             1054.35 J**                                               Btuth
+                      Btu*
+energy                IT calorie* * *                              4.1868 J                                                     calIT
+energy                IT British thermal                          1055.056 J* * **                                                BtuIT                        unit***
+
+temperature          degree Rankine          "R              5/9 K*****
+ (thermodynamic)
+
+temperature          degree Celsius           "C           K******
+
+temperature          degree Fahrenheit        "F
+
+volume                   liter                        1
+
+                                                 -
+       * The thermochemical calorie and thermochemical Btu are used in this publica-
+             tion.
+      ** The exact relationship is: 1 Btuth = (4.1840/1.8) x 453.59237.
+     *** IT refers to International Tables (International Steam Tables).
+    **** The exact relationship is: 1 BtuIT = (4.1868/1.8)   x 453.59237
+   ***** [T("R) = l.ST(K)]; [T("R) = t("F) + 459.671; [T(OR) = l.St(OC) + 491.671.
+  ****** [t("C) = T(K) - 273.151.
+ ******* [t("F) = 1.8t("C) + 321.
+
+
+
+                                       335

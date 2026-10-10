@@ -1,0 +1,21 @@
+                   Laboratory – Exercise 3
+
+Design of a Process for an Arbitrary Feedstock
+
+Divide the class into four groups. Have each group develop a process flow diagram for a plant
+that would use one of the following feedstocks and produce fuel-grade biodiesel.
+
+1.     Crude soybean oil
+2.     Refined soybean oil
+3.     Yellow grease
+4.     Untreated restaurant waste
+5.     Trap grease
+
+After the groups have completed their discussions, have them present and defend their designs to
+the entire class.
+
+
+
+
+
+                                      105

@@ -1,0 +1,45 @@
+the start-up phase to make product that generates revenue to use in purchasing more materials
+and supplies. For this project, 10% would be about $40 million. On-site ethanol storage capacity
+is 7 days; assuming that the product can be made, shipped, and payment received in 30 days is
+conservative. One month’s raw materials, labor, maintenance, taxes, and overhead is $6.9
+million. Therefore, a lower number seems reasonable. Garrett [73] suggests that using a fraction
+of the yearly operating cost, typically 10%–35%, is more relevant. When these percentages are
+used to calculate working capital, this results in a working capital range of $8 million–$28
+million. We chose to use $20 million, or 5% of the fixed capital investment.
+
+Table 33 summarizes the parameters used in the discounted cash flow analysis. Using these
+parameters, plus the cost information in Table 28, Table 30, and Table 31, the resulting
+minimum ethanol selling price of pure ethanol is $2.15/gal (2007$). Table 34 summarizes the
+yields and conversion costs for the present design. According to the methodology of Cran [77],
+the expected accuracy of the TCI analysis is +/- 25%. If we apply this uncertainty to the TCI, the
+impact on the cost of ethanol is +/-$0.24/gal. The complete discounted cash flow summary
+worksheet is shown in Appendix B. The MESP can be further broken down into the cost of each
+process area. Figure 17 illustrates the contribution to the overall cost by process area and capital,
+operations, and fixed costs. (The bar for feedstock + handling reflects the single feedstock cost of
+$58.50/dry U.S. ton delivered to pretreatment and has not been decomposed.)
+
+                    Table 33. Discounted Cash Flow Analysis Parameters
+              Plant life                             30 years
+             Discount rate                     10%
+            General plant depreciation             200% declining balance (DB)
+            General plant recovery period            7 years
+           Steam plant depreciation              150% DB
+           Steam plant recovery period             20 years
+             Federal tax rate                   35%
+             Financing                       40% equity
+           Loan terms                               10-year loan at 8% APR
+              Construction period                    3 years
+                  First 12 months’ expenditures        8%
+              Next 12 months’ expenditures         60%
+               Last 12 months’ expenditures         32%
+            Working capital                  5% of fixed capital investment
+              Start-up time                         3 months
+             Revenues during start-up            50%
+                Variable costs incurred during start-up   75%
+               Fixed costs incurred during start-up     100%
+
+
+
+
+
+                                      68

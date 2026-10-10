@@ -1,0 +1,12 @@
+ 10.3.3 Temperature Controls                        1 0.4 Computer Data Logging and
+ Thermistor, bimetallic, and thermocouple switches    Control
+ and controllers activate a switch closure in response to                                                       Today, low-cost computers can exercise very sophisti­ high- or low-temperature conditions to either take                                                       cated control over most processes in response to corrective action or give warning signals.                                                             suitable signals, as can be seen under the hood of any
+ Additionally, thermocouples and thermistors generate    modern car. Computer data recording and control
+ analog electrical signals, which can be used by suitable     should be considered in any research and development
+ proportional controllers.                            program and for any commercial gasifier.
+
+
+
+
+
+1 04    Handbook of Biomass Downdraft Gasifier Engine Systems

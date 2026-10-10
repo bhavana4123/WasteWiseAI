@@ -1,0 +1,43 @@
+        Table 3-2. Typical Performance for Gas Turbines in CHP Operation
+                                                              System
+       Cost & Performance Characteristics41
+                                            1        2         3         4         5
+    CHP Characteristics
+     Exhaust Flow (1,000 lb/hr)                  149.2     211.6      334       536      1047
+    GT Exhaust Temperature (Fahrenheit)        838      916       913       874       861
+    HRSG Exhaust Temperature (Fahrenheit)      336      303       322       326       300
+     Steam Output (MMBtu/hr)                  19.66     34.44      52.36      77.82     138.72
+     Steam Output (1,000 lbs/hr)                 19.65     34.42      52.32      77.77     138.64
+     Steam Output (kW equivalent)               5,760     10,092     15,340     22,801     40,645
+      Total CHP Efficiency (%), HHV44             65.7%     70.4%     69.5%     70.5%     68.8%
+     Power/Heat Ratio45                         0.57       0.70       0.65       0.89       1.09
+     Net Heat Rate (Btu/kWh)46                  6,810      5,689      5,905      5,481      5,590
+      Effective Electrical Efficiency (%)47          50%     60%      58%      62%      61%
+     Thermal Output as Fraction of Fuel Input      0.42       0.41       0.42       0.37       0.33
+      Electric Output as Fraction of Fuel Input       0.24       0.29       0.27       0.33       0.36
+    Source: Compiled by ICF from vendor-supplied data
+
+3.4.1 Fuel Supply Pressure
+As shown previously in Figure 3-2, the fuel gas is mixed with the combustion air after it has been heated
+and compressed. Therefore, the fuel gas must also be compressed to a pressure somewhat higher than
+the combustion air. This pressure is determined by the turbine pressure ratio. The fuel gas compressor
+size and energy requirements are determined not only by the required outlet conditions but also by the
+delivery pressure. Depending on the supply pressure of the gas being delivered to the site, the cost and
+power consumption of the fuel gas compressor can be a significant consideration. Table 3-3 shows the
+power required to compress natural gas from supply pressures typical of commercial and industrial
+service to the pressures required by typical industrial gas turbines. Required supply pressures generally
+increase with gas turbine size.
+
+
+
+
+
+44 Total Efficiency = (net electric generated + net steam produced for thermal needs)/total system fuel input
+45 Power/Steam Ratio = CHP electrical power output (Btu)/ useful steam output (Btu)
+46 Net Heat Rate = (total fuel input to the CHP system - the fuel that would be normally used to generate the same amount of
+thermal output as the CHP system output assuming an efficiency of 80 percent)/CHP electric output (kW).
+47 Effective Electrical Efficiency = (CHP electric power output) / (total fuel into CHP system – total heat recovered/0.8);
+Equivalent to 3,412 Btu/kWh/Net Heat Rate.
+
+
+Catalog of CHP Technologies                          3–7                          Combustion Tubines

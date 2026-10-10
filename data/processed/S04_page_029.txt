@@ -1,0 +1,48 @@
+       system is designed to satisfy the baseload electric needs of the facility. Approximately 1.6 MW
+        of thermal energy (MWth), in the form of hot water, is recovered from engine exhaust and
+       engine cooling systems to provide space heating and domestic hot water to the facility as well as
+        to drive absorption chillers for space conditioning during summer months. Overall efficiency of
+         this type of CHP system can exceed 70 percent.
+
+    •  A typical industrial application for engine CHP would be a food processing plant with a 2 MW
+        natural gas engine-driven CHP system comprised of multiple 500 to 800 kW engine gensets. The
+       system provides baseload power to the facility and approximately 2.2 MWth low pressure steam
+        for process heating and washdown. Overall efficiency for a CHP system of this type approaches
+      75 percent.
+
+2.2.2 Emergency/Standby Generators
+Reciprocating engine emergency/standby generators are used in a wide variety of settings from
+residential homes to hospitals, scientific laboratories, data centers, telecommunication equipment, and
+modern naval ships. Residential systems include portable gasoline fueled spark-ignition engines or
+permanent installations fueled by natural gas or propane. Commercial and industrial systems more
+typically use diesel engines. The advantages of diesel engines in standby applications include low
+upfront cost, ability to store on-site fuel if required for emergency applications, and rapid start-up and
+ramping to full load. Because of their relatively high emissions of air pollutants, such diesel systems are
+generally limited in the number of hours they can operate. These systems may also be restricted by
+permit from providing any other services such as peak-shaving.
+
+2.2.3 Peak Shaving
+Engine generators can supply power during utility peak load periods thereby providing benefits to both
+the end user and the local utility company. The facility can save on peak power charges and the utility
+can optimize operations and minimize investments in generation, transmission, and distribution that are
+used only 0-200 hours/year. In a typical utility peak shaving program, a utility will ask a facility to run its
+on-site generator during the utility’s peak load period, and in exchange, the utility will provide the
+facility with monthly payments.
+
+2.3   Technology Description
+2.3.1  Basic Processes
+There are two primary reciprocating engine designs relevant to stationary power generation
+applications – the spark ignition Otto-cycle engine and the compression ignition Diesel-cycle engine. The
+essential mechanical components of the Otto-cycle and Diesel-cycle are the same. Both use a cylindrical
+combustion chamber in which a close fitting piston travels the length of the cylinder. The piston
+connects to a crankshaft that transforms the linear motion of the piston into the rotary motion of the
+crankshaft. Most engines have multiple cylinders that power a single crankshaft.
+
+The main difference between the Otto and Diesel cycles is the method of igniting the fuel. Spark ignition
+engines (Otto-cycle) use a spark plug to ignite a pre-mixed air fuel mixture introduced into the cylinder.
+Compression ignition engines (Diesel-cycle) compress the air introduced into the cylinder to a high
+
+
+
+
+Catalog of CHP Technologies                          2–3                         Reciprocating IC Engines

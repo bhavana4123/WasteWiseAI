@@ -1,0 +1,63 @@
+For a 55-mph cruising speed and a fuel-conversion fac­     cylinder-wall thickness is inadequate to accommodate
+tor of 10 hp-h/gal (a typical value for spark engines),     cylinder-wall sleeves, limiting the number of times that
+the fuel consumption rates for various sizes of liquid­     the light-block engines can be rebuilt.
+fueled engines are shown in Table 11-1.
+                                                        11 .6.2 Small Engines
+Gasifiers typically require about 10 kg (22 Ib) of wood
+or 5 kg (11 Ib) of charcoal to replace one gallon of    Engines suitable for long-life operation (2000 to
+gasoline. Thus, it is possible to calculate wood con­     20,000 h) must have an air cleaner, oil-pump pressure­
+sumption rates from the data in Table 11-1. In addition,     lubrication, an oil filter, and thermostatic engine­
+the maximum gas production from Imbert gasifiers is    temperature regulation. Smaller engines of the
+determined by the maximum hearth load-typically     air-cooled splash-lubrication types (e.g., many engines
+0.9 Nm3/h of gas is produced per square centimeter of    manufactured by firms such as Wisconsin, Briggs,
+hearth area (see Section 5.8). In this way, the power re­    Honda, Tecumseh, and Kohler) have very short service
+quirements given above determine the hearth size, as     periods between oil changes (one small-engine
+shown in Table 11-2. See Table 5-1 for sizing of other    mechanic recommends an oil change every 8 h of
+gasifier types.                                              operation). These engines are designed for total life
+                                                    spans of around 1000 h (Onan 1981). Some ofthe above
+Retaining the liquid-fuel carburetor in conjunction                                                     manufacturers have certain models that do meet long
+with a gas mixer for dual-fuel operation realizes the                                                                     life requirements.
+best advantages of both fuels, saving liquid fuel for
+occasional full-power bursts while making economical     11 .6.3 Natural-Gas Engines
+use of producer gas during normal operation. A gas
+producer sized to provide cruising power as shown in     Larger displacement spark-ignition engines (larger
+Table 11-2 should cover at least 90% of expected    than 460 in.3) are used for natural-gas-fueled station­
+driving conditions.                                    ary engines, many of which are used for irrigation ap­
+                                                              plications. Like producer gas, natural gas has a low
+                                                        flame-velocity and a relatively high octane rating.1 1 .6 Engine Selection
+                                                  These engines operate at a low rpm. The engines also
+Because engines are mass produced for vehicles, the     operate at a high compression ratio and have a relative­
+vehicle engine is the most likely candidate for build­     ly high thermal efficiency. In addition, they have a very
+ing small systems. Larger systems can use natural-gas     long service life and are particularly suited to large
+engines, which in many ways are more suitable but also      (greater than 250 kW) installations.
+are more expensive.
+                                                         Natural-gas engines are built by Caterpillar, Waukesha,
+                                                    Minneapolis Moline, and others. These engines are11 .6.1  Large-Vehicle Engines - Truck
+                                                           available with standard options for industrial opera­Engines up to 50 kW
+                                                           tion on gaseous fuel. An optional top-oiler is recom­
+The largest widely available spark-ignition vehicle en­    mended, which supplies oil mist with the fuel to
+gines are Big Lung V8 460-in.3 engines. The Ford truck     lubricate the piston rings. The top-oiler may greatly
+engine of this size is used industrially for stationary ap­     reduce the wear experienced with dry-gas fuels, and
+plications and is highly regarded because its extra­   may be helpful with producer gas on smaller engines
+heavy block readily and repeatedly can be rebuilt to its     as well.
+full original specifications. Lighter weight engines of
+                                                           Large, natural-gas, industrial engines exhibit a quan­this displacement from passenger vehicles (e.g., Pon­
+                                            tum leap in equipment and overhaul costs over the costtiac and Buick engines) have lighter blocks. In addition
+                                                         of vehicular engines. Service parts are often availableto a shorter service life for these lighter engines, the
+                                                    only through the manufacturer and may involve longrebuilding costs and overhaul parts can be more expen­
+                                                downtimes as well as high costs.sive than for the heavy-block engine. Also, the
+
+                                                         11 .6.4 Diesel Engines
+        Table 11-1 . Fuel Consumption of                                                         Diesel engines also are suitable for large installations
+              Liquid-Fueled Engines                  but have special problems, discussed in Section 11.10.
+Fuel Economy         Fuel Use Rate     Engine Output
+    (mpg)                   (gal/h)              (hp)"         1 1 .7 Cogeneration
+      5.5                    10.0             100         Cogeneration involves using part of the greater than
+       1 1 .0                     5.0             50        70% of fuel energy that is otherwise lost as exhaust heat
+     22.0                     2.5              25                                                and engine heat during engine operation. If one has a
+     55.0                            1 .0               10                                                   use for this heat, then a water-cooled engine is both
+aFor fuel consumption 1 0 hp-h/gal gasoline.                      convenient and safe. The hot air from air-cooled
+
+
+
+1 06    Handbook of Biomass Downdraft Gasifier Engine Systems

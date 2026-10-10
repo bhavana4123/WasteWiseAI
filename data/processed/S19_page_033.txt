@@ -1,0 +1,50 @@
+loading utilized experimentally in the present effort (assuming all other parameters, including
+cost of the enzyme production process itself, are held constant). Consistent with prior results, the
+analysis demonstrates substantial economic sensitivity to enzyme loading over this range, with
+MESP decreasing by $0.27/gal at the low end and increasing by $0.21/gal at the high end of the
+enzyme loading evaluated.
+
+While measuring the protein content of cellulase preparations is more repeatable than the
+traditional filter paper assay, there is some uncertainty in this measurement. To understand the
+cost impact of this uncertainty, a sensitivity case was run at a lower enzyme protein content of
+165 mg protein/g solution (see Figure 10).
+
+Pretreatment reactor cost. The pretreatment technology used in the FY 2012 demonstration
+runs employs alkaline deacetylation followed by low-acid, low-severity pretreatment. Given
+measured acid concentrations around 0.3 wt% and pretreatment temperature at 160°C, it is
+possible that the primary pretreatment reactor metallurgy could be replaced with lower cost
+alloys or that lower required pressure ratings result in lower reactor costs. However, a
+conservative approach was taken in the current FY 2012 SOT model to assume the same Incoloy
+825 cladded carbon steel as the material of construction used in the 2011 design report. To
+quantify this potential savings of lower cost alloys and/or additional possible pretreatment
+reactor cost savings resulting from lower severity dilute acid pretreatment conditions, or
+escalation in pretreatment reactor cost caused by future inflation of alloy prices, the sensitivity
+analysis assumes a variation in pretreatment capital on the order of ±25% of the base capital cost
+for this unit operation, relative to the FY 2012 SOT model; this results in a ~$0.03/gal impact
+(see Figure 10).
+
+Fermentation contamination loss. For large-scale operations, contamination is an issue that
+must be addressed. A contaminating bacterium was present during Runs 1 and 3 of the pilot-
+scale demonstration campaign that produced lactic acid. The 3% loss of fermentable sugars to
+contamination is still assumed in the FY 2012 SOT model, even though no significant
+contamination was seen in Runs 2, 4, and 5. The impact of a 10% contamination loss is plotted in
+Figure 10 simply as an indicator of the importance of this issue, which would increase MESP by
+$0.14/gal. This demonstrates that engineering considerations are needed to ensure sanitary
+practices in enzymatic hydrolysis and fermentation operations, as well as to ensure the overall
+robustness of fermentative processes.
+
+Enzymatic hydrolysis and fermentation residence time. A total of 5 days for enzymatic
+hydrolysis and fermentation has been demonstrated at the pilot scale. Based on the single point
+sensitivity analysis (see Figure 10), further shortening the time by 1 day would provide $0.02/gal
+ethanol reduction in the MESP.
+
+Optimizing sugar and ethanol yields. Major sugar and ethanol yield sensitivities are also
+considered and summarized in Figure 10. Because the biomass has a high cellulose content
+(~35% dry basis), cellulose-to-glucose yield has the largest cost impact of all yield cases. If
+assuming 12% higher than the baseline of 78% (as achieved in Run 4), the cost would reduce by
+$0.15/gal, and if 8% lower than this baseline, the MESP would increase by $0.12/gal. The pilot-
+scale demonstration Run 4 achieved 95% glucose-to-ethanol yield. A lower yield of 85% would
+result in a $0.12/gal cost increase. Similarly, if xylose-to-ethanol yield decreases from 93% (as
+
+
+                                      26

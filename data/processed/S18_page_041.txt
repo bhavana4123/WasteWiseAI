@@ -1,0 +1,51 @@
+                           Table 13. Co-Fermentation Conditions
+   Organism                          Recombinant Zymomonas mobilis
+    Temperature                      32°C (96°F)
+      Initial fermentation solids level         19.8% total solids (14.7% soluble, 5.1% insoluble w/w)
+    Residence time                         1.5 days (36 h)
+    Inoculum level                     10 vol %
+   Corn steep liquor (CSL) level           0.25 wt %
+   Diammonium phosphate (DAP) level    0.33 g/L fermentation broth (whole slurry)
+
+
+               Table 14. Co-Fermentation Reactions and Assumed Conversions
+  Reaction                                                     Reactant % Converted
+                                                                                 to Product
+  Glucose → 2 Ethanol + 2 CO2                                    Glucose   95.0%
+  Glucose + 0.047 CSLa + 0.018 DAP → 6 Z. mobilis + 2.4 H2O         Glucose   2.0%
+  Glucose + 2 H2O → 2 Glycerol + O2                               Glucose   0.4%
+  Glucose + 2 CO2 → 2 Succinic Acid + O2                           Glucose   0.6%
+  3 Xylose → 5 Ethanol + 5 CO2                                     Xylose    85.0%
+  Xylose + 0.039 CSL + 0.015 DAP → 5 Z. mobilis + 2 H2O             Xylose    1.9%
+  3 Xylose + 5 H2O → 5 Glycerol + 2.5 O2                             Xylose    0.3%
+  Xylose + H2O → Xylitol + 0.5 O2                                    Xylose    4.6%
+  3 Xylose + 5 CO2 → 5 Succinic Acid + 2.5 O2                        Xylose    0.9%
+a Corn steep liquor (CSL) and diammonium phosphate (DAP) are both nitrogen sources required for Z. mobilis
+growth. The stoichiometry shown above is only used to balance the compositions assumed for Z. mobilis cell mass.
+Nutrient requirements have not been optimized and a minimal, low-cost nutrient formulation has yet to be defined.
+
+The fermentation broth or “beer” has an ethanol concentration of 5.4 wt % and is collected in the
+beer well (T-306). A small amount of additional ethanol is entrained in the CO2 vent stream and
+will be recovered to the beer well via the vent scrubber. The beer well is designed for a residence
+time of 4 hours to provide surge capacity between fermentation and distillation.
+
+3.3.3 Cost Estimation
+In general, the material of construction for all equipment in this section is 304SS, which is the
+most cost-effective material for fermentation service. Carbon steel has been proposed as an
+alternative and does have a precedent in the corn ethanol industry with some technology
+providers. However, stainless steel is more common, and Harris Group felt that carbon steel
+fermentors would have to be designed thicker for corrosion allowance, which would mostly
+negate the capital savings from using the cheaper material. Carbon steel also tends to pit and can
+harbor biofilms, creating a contamination source.
+
+The continuous enzymatic hydrolysis reactor (T-310) is envisioned in this design as an empty
+tower that is loaded from the top. Harris Group obtained a quote from Caldwell for eight such
+vessels to be run in parallel. These were flat-bottomed plug-flow reactors with a 10:1
+height:diameter ratio. The larger vessels were quoted by Mueller: the million-gallon batch
+fermentors (F-300), the seed hold tank (T-301), and the beer well (T-306). Mueller also quoted
+the fourth and fifth seed fermentors (F-304, F-305), including internal cooling coils. The smaller
+seed fermentors (F-301, F-302, F-303) were quoted by A&B Process Systems as skidded units
+with cooling jackets and agitators. Harris Group developed costs for all of the pumps in this area
+using their internal equipment database. Costs for the larger agitators, i.e., those on the
+fermentors (A-300), the seed fermentors (A-304, A-305), and other large tanks (A-301, A-306),
+                                      31

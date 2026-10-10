@@ -1,0 +1,51 @@
+can become scarce (e.g., Hurricane Sandy). Also, in certain circumstances, CHP can replace diesel
+standby generators.
+
+Black start/islanding capability requires additional components, which may increase equipment cost
+and/or installation cost. The extent to which black start/islanding capability adds to installation costs
+depends on factors such as the existing electrical system in the host facility, the switchgear required,
+and the size of the electrical loads to be served when the system is islanding.106
+
+7.3.3  Acoustic Enclosure
+Systems may include a sound attenuation enclosure—as standard equipment or as an option—
+consisting of sound-absorbing material surrounded by a metal cover. Optional enhanced sound
+attenuation capability may be available.
+
+7.3.4 Modularity
+Because of their modular design, packaged systems can be installed as single units, or several can be
+connected to create larger multiple-unit systems. Systems using multiple modular units can have a
+number of additional significant attributes:
+
+    •  Under certain circumstances, multiple-unit       CHP Project Development
+       systems can be more efficient than a                Taking a CHP project from conception to
+       conventional CHP system of the same size.          completion involves five steps:
+       Conventional systems lose efficiency when             •   Qualification/screening
+       slowed down to follow load fluctuations. In            •   Level 1 feasibility analysis
+        multiple-unit systems, individual units can be           •   Level 2 feasibility analysis
+       shut down to reduce system output to follow               (investment grade analysis)
+       load fluctuations, allowing remaining operational       •   Procurement, including installation
+        units to function at higher efficiencies.                 •   Operations and maintenance
+                                                     Depending on the nature of the facility and
+    •  Systems using multiple modular units can also       the performance objectives of a CHP system
+       improve reliability and system availability, since     being considered, each of the five steps may
+      one unit can be taken off line for maintenance      be performed by the facility’s manager or
+       while the others continue to operate.                agent, consultants, or vendors.
+                                                         Learn more about these steps, including
+    •   Additional units can be added over time to           goals, timeframes, typical costs, and facility
+        increase output as electrical and/or thermal          level of effort required on the EPA CHP
+        loads increase.107                                    Partnership website.
+
+A disadvantage of using multiple modular units instead
+of one large unit is that the installed cost per kW is typically higher. In addition, in full-load operation, a
+conventional CHP system will typically be more efficient than a system of equal size comprising multiple
+packaged system units.
+
+
+
+
+
+106 Based on data collected from EPA CHP Partners that manufacture packaged CHP systems.
+107 Often up to five or six units may be operated together, depending on the equipment specifications.
+
+
+Catalog of CHP Technologies                          7–5                       Packaged CHP Systems

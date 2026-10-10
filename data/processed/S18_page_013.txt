@@ -1,0 +1,28 @@
+    entire fermentation broth, containing the secreted enzyme, is fed to Area 300 to carry out
+   enzymatic hydrolysis.
+•  Area 500: Product recovery. The beer is separated into ethanol, water, and residual solids
+   by distillation and solid-liquid separation. Ethanol is distilled to a nearly azeotropic
+   mixture with water and then purified to 99.5% using vapor-phase molecular sieve
+    adsorption. Solids recovered from the distillation bottoms are sent to the combustor (Area
+   800) while the liquid is sent to wastewater treatment (Area 600).
+•  Area 600: Wastewater treatment. Plant wastewater streams are treated by anaerobic and
+    aerobic digestion. The methane-rich biogas from anaerobic digestion is sent to the
+   combustor (Area 800), where sludge from the digesters is also burned. The treated water
+    is suitable for recycling and is returned to the process.
+•  Area 700: Storage. This area provides bulk storage for chemicals used and produced in
+    the process, including corn steep liquor (CSL), ammonia, sulfuric acid, nutrients, water,
+   and ethanol.
+•  Area 800: Combustor, boiler, and turbogenerator. The solids from distillation and
+   wastewater treatment and the biogas from anaerobic digestion are combusted to produce
+    high-pressure steam for electricity production and process heat. The majority of the
+   process steam demand is in the pretreatment reactor and distillation columns. The boiler
+   produces excess steam that is converted to electricity for use in the plant and for sale to
+    the grid.
+•  Area 900: Utilities. This area includes a cooling water system, chilled water system,
+   process water manifold, and power systems.
+
+
+
+
+
+                                    3

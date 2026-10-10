@@ -1,0 +1,50 @@
+  Enzyme                                                           Seed train
+             Hydrolysate                                         (Zymomonas mobilis)
+
+                    CW
+
+
+                High-solids hydrolysis
+                                                                               Beer well                    (continuous flow)
+
+                                                                                               To recovery
+                                                                                        Beer
+
+                                             Batch Hydrolysis/Fermentation
+     Figure 8. Simplified flow diagram of the enzymatic hydrolysis and fermentation process
+
+3.3.2 Design Basis
+The full process flow is shown in PFD-P120-A301 and -A302 (Appendix E). Enzymatic
+hydrolysis is initiated in a continuous, high-solids reactor (T-310). Neutralized, diluted
+hydrolysate is cooled with cooling water in H-301 and fed to T-310 at slightly higher than
+20 wt % total solids. A 100-hp inline mixer upstream of the continuous hydrolysis reactor
+(A-308) mixes the enzyme into the slurry. After the cellulase enzyme stream is mixed in, the
+total solids loading is 20 wt % (10.6 wt % insoluble) and the temperature is 48°C (118°F). The
+residence time in this first stage is 24 hours, after which the slurry is batched to one of twelve
+950,000-gal vessels (F-300), where enzymatic hydrolysis continues for another 60 hours.
+
+Moving pretreated material at 20% (or higher) total solids loading is challenging because this
+material is not pumpable until the cellulose has been partially enzymatically hydrolyzed. In the
+present design, the continuous high-solids hydrolysis reactor is envisioned as an empty tower,
+with the slurry entering at the top and flowing down with gravity. Horizontal mixers with
+rotating paddles are another design option for performing the initial enzymatic hydrolysis
+reaction, and NREL will be testing such a reactor in its new Integrated Biorefinery Research
+Facility (IBRF) in 2011 [44]. These are expected to be more expensive than the plug-flow tower
+specified here, but not dramatically so given the relatively short residence time expected in the
+high-solids vessels and when considered in the total equipment scope of the plant. We believe
+that the tower design is a suitable placeholder.
+
+The amount of enzyme used (the enzyme loading) is determined by the amount of cellulose
+present in the hydrolysate and the specific activity of the enzyme. In the present design, the total
+cellulase loading is 20 mg enzyme protein/g cellulose to achieve a 90% conversion to glucose.
+“Protein” here refers to the total concentration of protein in the enzyme broth as determined by
+assay; not all of this protein has cellulase activity. Although sugar yield generally increases with
+higher enzyme loading, the additional enzyme obviously comes at a cost. Enzyme loading
+therefore has a significant and complex impact on process economics. Determining the most
+economical enzyme loading requires optimization of several process parameters including
+temperature, residence time, and total solids loading [45]. The design conditions developed
+based on the recommendations of enzyme manufacturers and NREL researchers are summarized
+in Table 8.
+
+
+                                      27

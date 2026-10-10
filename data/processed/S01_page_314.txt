@@ -1,0 +1,60 @@
+                                                                                                        I
+
+
+
+                         Atomic Weights 1983 (cont'd)
+
+                                   Atomic    Atomic
+   Names                Symbol    Number    Weight            Footnotes
+   Scandium                sc          21       44.95591 2 1
+   Selenium                 Se          34       78.96 ? 3
+    Silicon                        Si           14       28.0855 k 3                   r
+    Silver                 Ag          47       107.8682 f 3
+   Sodium (Natrium)        Na          11       22.98977
+   Strontium                  Sr          38       87.62
+   Sulfur                        S            16       32.066 f 6                     r
+   Tantalum               Ta         73       180.9479
+   Technetium *            Tc          43                         A
+   Tellurium               Te          52       127.60 f 3
+   Terbium                Tb          65       158.9254
+   Thallium                  T1          81       204.383
+   Thorium"                Th          90       232.038 1              X
+   Thulium             Tm         69       168.9342
+   Tin                      Sn          50       118.710 f 7
+   Titanium                    Ti          22       47.88 f 3
+   Tungsten (Wolfram)      W           74       183.85 f 3
+   Uranium *             U          92      238.0289              Y
+   Vanadium                v           23       50.9415
+   Xenon                 Xe          54       131.29 f 3
+   Ytterbium              Yb          70       173.04 2 3
+   Yttrium              Y           39       88.9059
+   Z inc                    Zn          30       65.39 2 2
+   Zirconium                Zr          40       91.224 2 2
+
+g  geologically exceptional specimens are known in which the element has an isotopic
+   composition outside the limits for normal material. The difference between the
+   atomic weight of the element in such specimens and that given in the Table may
+   exceed considerably the implied uncertainty.
+
+m -modified isotopic compositions may be found in commercially available material
+   because it has been subjected to an undisclosed or inadvertent isotopic separation.
+    Substantial deviations in atomic weight of the element from that given in the Table
+   can occur.
+r  -range in isotopic composition of normal terrestrial material prevents a more precise
+     -rA (E) being given; tabulated A,(E) value should be applicable t o any normal material.
+
+A  Radioactive element that lacks a characteristic terrestrial isotopic composition.
+
+X  Thorium has a well defined (mononuclidic) composition in minerals with only rare
+    exceptions.  In certain places, however (most notably in ocean water), measurable
+    quantities of Thorium 230 (Ionium) can be found.
+
+Y  Uranium is the only element with no stable isotopes but which has a characteristic
+    terrestrial composition of long-lived isotopes such that a meaningful atomic weight
+   can be given for natural samples,
+
+ 3c  Element ha5 no stable isotopes.
+
+
+
+                                       340

@@ -1,0 +1,57 @@
+       Table 7-3. Analysis of Wood Gas Dust             distribution as well as the total quantity of particles.
+                                                            Relatively little information is available in the litera­                           % Ash
+                                                             ture (Gengas 1950), so complete gas cleanup design
+ Over 1 000 Jlm (1 mm screen)                                  1 .7       necessitates measurement or knowledge of particle­
+ 1000 - 250 Jlm                                     24.7                                                        size distribution. Particle-size measurement is
+ 250 - 1 02 Jlm                                      23.7                                                       discussed further in Section 7.8.
+ 102 - 75 Jlm                                                7.1
+ 75 - 60 Jlm                                             8.3
+ Under 60 Jlm                                       30.3      7.3.3 Tars
+ Losses                                              4.2                                                                      Initial biomass pyrolysis can produce up to 60% "wood                                                  100.0
+                                                                        oil," composed of the monomers, oligomers, and frag­
+ Water content                                         3.2     ments of the biomass polymers cellulose, hemicel­
+ Ash content, dry sample                              10.6       lulose, and lignin. Subsequent high-temperature
+ Loss due to burning, dry sample                      15.7      cracking (over 700'C) of these large molecules results
+ Content of Fe203 in the ashes                               1 1 .0      mostly in gas, but also polymerization to form 5% to
+ Content of Si02 in the ashes                            7.7     10% of heavier polynuclear aromatic molecules that
+                                                          are similar to coal tars. Up to 20% of these tars and oils
+ Source: Gengas 1950, Table 2Ĕ9                                                 can be carried through with the gas from updraft
+                                                                    gasifiers.
+contain 20% ash or more. During flaming pyrolysis of
+the original biomass, the organic molecules break     In downdraft gasification, oxygen is available to burn
+down to form a very finely divided soot (carbon black],     these oils during pyrolysis. Although flaming pyrolYSis
+ such as that seen in oil or candle flames. Soot particles    burns most of the tars and oils, 0.1 % to 1 % (depending
+are much smaller than char-ash particles (ordinarily    on the gasifier design) can be expected to survive.
+ less than 1 Jlm). The soot is so fine that it can be ex­    These  tars and  oils  are troublesome  in the
+pected to pass harmlessly with the gas and burn in the     gas-processing system and the engine, so they must be
+engine without harm.                                  thoroughly removed by scrubbing.
+Carbon monoxide is unstable below 700'C and, given     Tars occur mostly as a mist or fog composed of fiue
+enough time, will decompose in the presence of certain     droplets that may be less than 1 !lm in diameter (see
+ catalytic metal surfaces to form carbon and carbon      Fig. 7-6). Tar mists continually agglomerate into larger
+dioxide, according to the reaction                         droplets and tend to saturate and coat solid particles.
+                                                                   If not removed, tar mist forms deposits that cause en­
+              2 CO -7 C + CO2  .                   (7-1)                                                     gine intake valves and other moving parts to stick.
+                                                        Before a gasifier is considered suitable for operating anThis carbon, known as Boudouard carbon, is slippery
+                                                          engine, it is imperative that one test the producer gasto the touch and nonabrasive. Below about 500'C, the
+                                                           for tars and particulates.reaction is very slow. Normally, Boudouard carbon
+does not form in gasifiers because the gas cools quickly
+through this temperature range.
+                                              7.4 Gas Sampling
+Char-ash, because of its high mineral content and
+abrasive potential, is the main cause of engine wear in     7.4.1 Sample Ports
+engine systems and understandably is a main focus in
+                                 A temporary or permanent port must be provided atgas cleanup. Similarly, soot and Boudouard carbon are                                                    each point on the gasifier where samples are desired,inherently ash free, nonabrasive, and possibly lubricat­
+                                                          as shown in Fig. 7-7, such as downstream from theing. Despite their small size and difficulty of capture,                                                      cyclone and before the burner or engine, as well as atthey are not seen as a significant factor in engine wear.                                                   each stage along the gas cleanup train when it is desired
+Typically, the largest particles that pass through the     to determine the effectiveness of each system
+grate can be extracted mechanically, for instance, with    component.  It is important that the gas sample is
+an auger. Subsequent to that step, removing the     representative of the gas at each point. The port and tap
+suspended small particles is the principal problem in   may need to be heat traced to prevent premature
+gas cleanup. The particulates in Table 7-1 were     condensation (see below).
+collected after the cyclone separator, which caught
+                                                 Permanent sampling ports should be closed off with50% of 50-1lID particles. These smaller particles are                                                         gate or ball valves, which provide a straight throughcomposed of very fine char-ash, soot, and tar mists.                                                          passage. Needle valves and sill cock type water valves
+The type of gas cleanup equipment required is deter­     should be avoided, since much of the material being
+mined by the particle sizes that must be removed, and    sampled will deposit within the twisted passages of
+therefore it is important to determine the particle-size     these types of valves.
+
+
+                                                                        Gas Testing    55

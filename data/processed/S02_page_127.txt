@@ -1,0 +1,58 @@
+                        Chapter 1 2
+  Safety and Environmental Considerations
+
+
+ 1 2.1  Introduction                              Seventeen people were killed in Sweden between
+                                               December 1939 and March 1941 because of careless
+ During the emergency development of gasifiers during                                                                gasifier operation (Foley 1983). More recently. two re­
+ World War II, various dangers were discovered in con­                                                          searchers at a Midwestern university died from CO in­
+ junction with gasifier operation, These dangerous areas                                                         halation when they climbed inside of a gasifier fuel bin.
+were divided into toxic hazards, and fire and skin burn
+ hazards.     addition, we have since recognized the   CO occurs widely in our industrial civilization in small          In
+ potentially damaging effects that our activities can     quantities. Smokers typically inhale concentrations of
+have on the environment, and we shall point out areas     several thousand parts per million. and some smokers
+ that may be affected by widespread gasifier use.         can have as high as 20% hemoglobin blood saturation
+                                                         (Kjellstrom 1981). Gasoline-fueled automobile ex­
+                                                         hausts used to contain as much as 5% CO. and after a
+ 1 2.2 Toxic Hazards                            decade of improved pollution controls on cars, CO is
+                                                                         still a major contributor to pollution in our cities.
+ 12.2.1 Carbon Monoxide                          However, until the advent of natural-gas pipelines, CO
+                                              was the primary fuel component of manufactured cityThe principal fuel component of generator gas is car­
+                                                               gas, coal, and blue water gas. These were widely dis­bon monoxide (CO), a deadly poison that ties up
+                                                           tributed and used around the world and are still usedhemoglobin in the blood and prevents the transport of
+                                                        in many countries. evidence that CO can be handledoxygen to the tissues. Death from CO is death by suf­
+                                                          safely when proper procedures are followed. focation. Lesser exposures cause headaches, nausea,
+ dizziness, and irritability. CO is an insidious poison     12.2.1.1 Acute Carbon Monoxide Poisoning
+because it is odorless and tasteless.
+                                            The symptoms of carbon monoxide poisoning are
+Exposure during pregnancy, even at levels too low to                                             shown in Table 12-1.
+show symptoms in the mother, may affect development
+of the fetus, lower its birth weight, and increase the risk     First aid treatments for CO poisoning follow.
+of abortion and stillbirth. There are no indications that     • Move the poisoned person to the open air or a room
+CO causes mutations or cancer (Kjellstrom 1981).             free of CO. Prevent the victim from exerting himself.
+
+                         Table 12-1 . Symptoms of Carbon Monoxide Poisoning
+
+% Saturation of the Blood                             Symptoms
+ with Carbon Monoxide        At Rest                                      During Physical Exertion
+
+            0-1 0               None                                     None
+              1 0-20              None                                              During exertion, dizziness. heart
+                                                                                   pounding. and difficulty in breathing
+                                                                may occur.
+          20-30               Headache may occur.                                      In case of exertion. pressure at the
+                                                                                      forehead. Mild headache.
+         30-40               Headache in the forehead or back of the head.         In case of exertion, dizziness. fainting.
+                                 pulse increase, heartbeat, nausea.                   possibly unconsciousness are added.
+         40-50                       All symptoms more pronounced. nausea. vomiting.
+                                    dizziness, increased tendency for unconsciousness.
+         50-60               Deep unconsciousness with increased breathing
+                             and pulse rate.
+         60-70               Deep unconsciousness with slow pulse and low
+                                   breathing rate; possible death.
+         70-80                   Respiratory failure and death.
+
+Source: Gengas 1950.
+
+
+                                                               Safety and Environmental Considerations      1 1 9

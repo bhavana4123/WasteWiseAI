@@ -1,0 +1,55 @@
+3.2  Area 200: Pretreatment and Conditioning
+
+3.2.1 Overview
+The pretreatment process converts most of the hemicellulose carbohydrates in the feedstock to
+soluble sugars (xylose, mannose, arabinose, and glucose) by hydrolysis reactions. Acetyl groups
+in the hemicellulose are liberated as acetic acid. The breakdown of biomass in pretreatment
+facilitates downstream enzymatic hydrolysis by disrupting cell wall structures, driving some
+lignin into solution, and reducing cellulose crystallinity and chain length. The nature and extent
+of such changes are highly dependent on the pretreatment chemistry and reaction severity
+(defined by residence time, temperature, and catalyst loading). Sugar degradation products such
+as furfural and 5-hydroxymethyl furfural (HMF) can also be formed in pretreatment. These
+compounds can have adverse effects on the fermenting organisms in sufficiently high
+concentrations.
+
+In the present design, hydrolysis reactions are catalyzed using dilute sulfuric acid and heat from
+steam. Pretreatment is carried out in two stages in the present design and the reaction severity is
+fairly mild compared to what has been modeled in the past. This milder pretreatment favors the
+production of soluble xylose oligomers. Higher-severity pretreatments tend to produce more
+monomeric xylose but at the risk of forming significant amounts of degradation products if
+reaction conditions are not well controlled.
+
+The first stage in pretreatment is a horizontal screw-feed reactor with a short residence time (5–
+10 minutes). The second stage is a lower temperature/longer residence time “oligomer
+conversion” step that converts most of the xylose oligomers leaving the first stage to monomeric
+xylose without generating significant additional degradation products [31]. After the
+pretreatment reactors, the hydrolysate slurry is flash-cooled, vaporizing a large amount of water
+along with some of the acetic acid and furfural. The flash vapor is condensed and sent to the
+wastewater treatment area. The hydrolysate slurry is cooled by dilution water and sent to a
+conditioning reactor, where ammonia is used to raise its pH from 1 to 5–6. Figure 6 shows a
+simplified flow diagram of the pretreatment area.
+
+
+
+                                                                      To wastewater
+Milled corn stover                                               BFW
+                                Steam
+
+           Hot water
+
+         Vertical presteamer
+                                                                                    Dilution water
+                                                        & NH3
+          Horizontal reactor
+
+                            Acid                                                        To enzymatic hydrolysis
+                       Steam
+                             Blowdown    Oligomer    Ammonia
+                                      tank      conversion  conditioning
+
+         Figure 6. Simplified flow diagram of the pretreatment and conditioning process
+
+
+
+
+                                      19

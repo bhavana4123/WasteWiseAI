@@ -1,0 +1,45 @@
+Triolein     +    2X Methanol
+(885.46 g)       (6 x 32.04 = 192.24 g)
+
+    →      Methyl oleate   +   Glycerol    +    XS Methanol
+           (Catalyst)  (3 x 296.50 = 889.50 g)    (92.10 g)           (96.12 g)
+
+          Figure 3. Transesterification of Triolein with 100% Excess Methanol
+
+On the basis of 100 lb of oil, the reaction mass balance with 100% XS methanol becomes:
+
+100 lb oil + 21.71 lb methanol → 100.45 lb biodiesel + 10.40 lb glycerol + 10.86 lb XS methanol
+
+The reaction also requires about 1% (based on the weight of oil) of sodium hydroxide or a
+similar catalyst that mostly ends up in the glycerol. These quantities can be converted to volumes
+by including the densities of the reactants and products given in Table 2.
+
+                  Table 2. Densities of Biodiesel Reactants (kg/liter)
+                 (from the Handbook of Chemistry and Physics, 51st Edition, CRC, 1970-1971.)
+                                   Triolein:            0.8988
+                            Methanol           0.7914
+                            Methyl Oleate       0.8739
+                               Glycerol            1.2613
+
+On a volume basis, the reaction becomes:
+
+100 liters of oil + 24.65 liters methanol
+      → 103.3 liters methyl oleate + 7.42 liters glycerol + 12.33 liters XS methanol
+
+Product Quality
+
+The standard for biodiesel allows 0.24% total glycerol in the final product. What does this
+actually mean?  It is clear that a molecule of a triglyceride can be considered to contain a
+molecule of glycerol, sometimes called the glycerol backbone. In the case of triolein, the mole of
+glycerol would weigh 92.10 g and the mole of triolein weighs 885.46 g. Therefore, triolein can
+be considered to consist of 92.10/885.46 = 0.104, or 10.4% glycerol. This glycerol is called
+bound glycerol because it is chemically bound to the triolein molecule. Bound glycerol can also
+be associated with monoglycerides and diglycerides, the partial reaction products of the
+conversion of triglycerides to alkyl esters. The structures of these molecules are shown in Figure
+4.
+
+
+
+
+
+                                       4

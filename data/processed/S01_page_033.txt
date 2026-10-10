@@ -1,0 +1,44 @@
+                                                                  Agricultural Residues
+
+
+
+WHEAT STRAW; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 71.30, ash
+   content = 8.90, and fixed carbon = 19.80.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 43.20,
+   hydrogen = 5.00, oxygen = 39.40, nitrogen   0.61, sulfur = 0.11, chlorine = 0.28, and
+    residue (ash) = 11.40.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross) = 7533 Btu lb; 1
+    q,(gross) = 4185 cal g-
+    q,(gross)  = 17510 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net> = 7094 Btu lb;'
+    q,(net) = 3941 cal g l
+   qv(net) = 16490 J g-
+
+                                                                       85 JEN/EBE
+
+ZINFANDEL GRAPES, VINEYARD PRUNINGS; solid; Material is considered biomass fuel
+   and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 76.99, ash content = 3.04, and fixed carbon = 19.49.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross) = 8200 Btu lb- I
+   qv(gross) = 4555 cal g-l
+   qv(gross) = 19060 J g-l
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                        29

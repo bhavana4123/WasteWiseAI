@@ -1,0 +1,51 @@
+Agricultural Residues
+
+
+CHENIN BLANC GRAPES, VINEYARD PRUNINGS; solid; Material is considered biomass
+    fuel and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 77.28, ash content = 2.51, and fixed carbon = 20.21.  Also the
+   ultimate analysis of the elemental composition of  t h e fuel (values in percent by
+   weight dry basis) is carbon   48.02, hydrogen   5.89, oxygen = 41.93, nitrogen = 0.86,
+    sulfur = 0.07, chlorine = 0.10, and residue (ash) = 3.13.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids,
+   qv(gross)  8230 Btu Ib- 1
+   qv(gross)  4572 cal g-'
+    q,(gross) = 19130 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+    q,(net)  = 7718 Btu lbl 1
+   qv(net) = 4288 cal g l
+   qv(net) = 17940 J g-
+
+                                                                       85 JEN/EBE
+
+COCOA HULLS; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 67.95, ash
+   content = 8.25, and fixed carbon = 23.80.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 48.23,
+   hydrogen   5.23, oxygen = 33.19, nitrogen = 2.98, sulfur = 0.12, and residue (ash) =
+    10.25.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 8191 Btu Ib;'
+    q,(gross)   4551 cal g-
+    q,(gross)   19040 J g-l
+
+    net heat of combustion: assume values refer to room temperature.
+    qv(net) = 7731 Btu lbl 1
+    qv(net) = 4295 cal g-
+    qv(net) = 17970 J g-l
+
+                                                               85JEN/EBE
+
+
+
+
+
+                                       14

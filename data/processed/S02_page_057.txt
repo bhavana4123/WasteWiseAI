@@ -1,0 +1,56 @@
+ used, it will be necessary to use either TIG (tungsten­     a later time. After a unit has been thoroughly tested and
+ inert gas) or MIG (metal-inert gas) welding tecbniques.      is in production, such provisions can be omitted.
+ All seals must be made gas-tight; threaded and welded
+                                              6.5 Instruments and Controls fittings   are  preferred  at  all  points ,  and
+ exhaust-pipe-type gaskets can be used if necessary.    The gasifiers of the past were crude, inconvenient
+ High-temperature, anti-sieze pipe dope should be used     devices. Today's gasifiers are evolving toward safer,
+on all pipe joints. High-temperature applications will    automated processes that make use of a wide range of
+ require ceramic fiber or asbestos gaskets. Silicone     present-day instruments and controls. An extended
+ sealant is appropriate at temperatures below 300·C and     discussion of the system instrumentation and control
+ rubber or Viton "0" rings and gaskets will perform     requirements is found in Chapter 10.
+ excellently at room temperature. The system should be
+ leak-tested before the initial startup, as well as after     6.5.1 Temperature
+modifications. Leak-testing  is accomplished by
+                                               Thermocouples (such as chromel-alumel type K)plugging the system and pressurizing it to 25 em
+                                                   should be used to measure various gasifier tempera­ (10    of water with a blower. A thick soap solution is     in.)                                                        tures, especially below the grate, as a check for normalapplied to all fittings and joints, and they are checked
+                                                        or abnormal operation. Temperatures at the gratefor emerging soap bubbles. Leak-testing should also be
+                                                    should not exceed 800·C; higher temperatures indicateperformed as a standard test in the regular maintenance
+                                                   abnormal function. Consequently, the signal from the schedule.
+                                                   thermocouple can be used by a control system or an
+                                                  alarm system.6.4 Sizing and Laying out the Pipes
+When designing a gasifier, it is important to keep the     6.5.2 Pressure
+pressure drop in the system as small as possible.                                                Manometers are required to measure pressure drops
+B ecause there are unavoidable pressure drops                                                          across the bed, cyclone, filters, and other components.
+associated with the gasifier, the cyclone separator, and     (Usually, these pressure drops amount to only a few
+the cleanup system,  it is . very important to use                                                         centimeters of water pressure.) The manometers are
+adequately sized pipe. The pressure drop associated                                                           available as tubes filled with colored liquid or, more
+with standard runs of pipes is shown in Fig. 6-1 (Perry                                                          conveniently, bellows manometers (such as a Dwyer
+1973). Engineering and plumbing handbooks also list                                                  Magnehelic gauge). Both types give a direct reading of
+the pressure drops associated with pipe fittings such as                                                        the pressure drop and can be equipped with limit
+elbows and couplings.                                                       switches that will sound an alarm to warn when preset
+On the other hand, gas velocities within the pipes    flow levels have been violated, and/or activate control
+should be adequate so that entrained solids will be con­    valves to regulate those flows. Also, electrical
+veyed to their proper point of removal, as shown in     transducers are available that convert pressure dif­
+Table 6-1 rather than deposited inside the pipe.           ference into an electrical signal suitable for readout or
+                                                            control processing.
+When laying out pipe connections for a gasifier system,
+it is important to allow access to various parts that may     6.5.3 Gas Mixture
+require cleaning or adjustment. It is recommended that                                               Oxygen sensors have been developed by the automo­new systems be assembled with a large number of pipe
+                                                               tive industry to measure the small changes in oxygenunions to facilitate cleaning out the pipes, as well as
+                                                         concentration required to control the air/fuel ratio forfuture design modifications. In general, it is better to
+                                                              clean, efficient combustion. They are relatively inex­use a pipe "T" with a plug rather than an elbow, to
+                                                       pensive and, in principle, can be adapted to gasifierallow for instrument mounting and other additions at
+                                                     systems for similar functions (though this has not yet
+                                                  been done).
+              Table 6-1. Gas Velocity
+       Requirements for Conveying Solids             6.5.4 Automatic Controls
+The conveying velocities in pipes are dependent upon the na­    The fact that an operator will be required for both large­
+ture olthe contaminant. Recommended minimum gas velocities                                               and small-scale gasifiers is a fixed-cost scale factor thatare:                                                     naturally causes larger systems to be favored.
+Contaminant                                    Velocity                                                   Automatic unattended operation is therefore essential
+Smoke, fumes, very light dust                     10 mls                                                            to the economic viability of small gasifier systems.
+Dry medium density dust (sawdust, grain)           15 mls                                                  Automatic fuel feed and char-ash removal equipment
+Heavy dust (metal turnings)                     25 m/s                                                          are already well-developed for stoker-fed boilers and
+Source: Kaupp 1 984a                                      could be adapted to automatic gasifier operation.
+
+
+                                                                            Gasifier Fabrication and Manufacture   49

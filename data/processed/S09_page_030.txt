@@ -1,0 +1,50 @@
+the mixture. See the section on prediction of physical properties for a more complete discussion
+of the effect of composition on cloud point.
+
+Method: ASTM D 4530 – Carbon residue
+Requirement: 0.050 wt%, max
+
+“In petroleum products, the part remaining after a sample has been subjected to thermal
+decomposition...” is the carbon residue. The carbon residue is a measure of how much residual
+carbon remains after combustion. The test basically involves heating the fuel to a high
+temperature in the absence of oxygen. Most of the fuel will vaporize and be driven off, but a
+portion may decompose and pyrolyze to hard carbonaceous deposits. This is particularly
+important in diesel engines because of the possibility of carbon residues clogging the fuel
+injectors.
+
+The most common cause of excess carbon residues in B 100 is an excessive level of total
+glycerin. Total glycerin is also measured directly using ASTM D 6584, so this measurement is
+generally not critical to the producer.
+
+Method: ASTM D 664 – Acid number
+Requirement: 0.80 mg KOH/g, max
+
+The acid number is “The quantity of base, expressed as milligrams of potassium hydroxide per
+gram of sample, required to titrate a sample to a specified end point.” The acid number is a
+direct measure of free fatty acids in B100. The free fatty acids can lead to corrosion and may be a
+symptom of water in the fuel. Usually, for a base catalyzed process, the acid value after
+production will be low since the base catalyst will strip the available free fatty acids. However,
+the acid value may increase with time as the fuel degrades due to contact with air or water. This
+test should be performed regularly as a part of the producer QC program.
+
+Method: ASTM D 6584 – Free glycerine
+Requirement: 0.020 wt. %
+
+Free glycerol is the glycerol present as molecular glycerol in the fuel. Free glycerol results from
+incomplete separation of the ester and glycerol products after the transesterification reaction.
+This can be a result of imperfect water washing or other approaches that do not effectively
+separate the glycerol from the biodiesel. The free glycerol can be a source of carbon deposits in
+the engine because of incomplete combustion. The terms “glycerine,” “glycerin,” and “glycerol”
+are used interchangeably.
+
+Method: ASTM D 6584 – Total glycerine
+Requirement: 0.240 wt. %
+
+Total glycerol “is the sum of free and bonded glycerol.” Bonded glycerol “is the glycerol
+portion of the mono-, di-, and triglyceride molecules.” Elevated total glycerol values are
+indicators of incomplete esterification reactions and predictors of excessive carbon deposits in
+the engine.
+
+
+
+                                      26

@@ -1,0 +1,9 @@
+Phyllis2 -  dairy cow manure (#1528) Phyllis2 Home Browse Help dairy cow manure (#1528) Download XLSX Download PDF ID-number #1528 Material dairy cow manure Classification ECN Phyllis classification ▸ manure ▸ cow NTA 8003 classification ▸ [300] mest ▸ [320] rundermest Submitter organisation ECN (Netherlands) Submission date 1999-07-08 Remarks manure from dairy cows in sheds with straw bedding. C is calculated from C/N ratio Literature F. Pinamonti, G. Stringari, F. Gasperi and G. Zorzi: The use of compost: its effect on heavy metal levels in soil and plants. Resources, Conservation and Recycling 21, 129-143 (1997). Values Property Unit Value Std dev Det lim Lab Date Method Remarks ar dry daf Main biomass properties Proximate analysis Moisture content wt% 74.00 Ash content wt% 7.05 27.10 Ultimate analysis (macroelements) Carbon wt% 8.50 32.70 44.86 Calculated Nitrogen wt% 0.52 2.01 2.76 Measured Total (with halides) wt% 90.07 61.81 47.61 Calculated Trace elements composition Cadmium (Cd) mg/kg
+                    (dry) 0.7 Measured Chromium (Cr) mg/kg
+                    (dry) 35.0 Measured Copper (Cu) mg/kg
+                    (dry) 56.0 Measured Potassium (K) mg/kg
+                    (dry) 7 400.0 Measured Nickel (Ni) mg/kg
+                    (dry) 12.0 Measured Phosphorus (P) mg/kg
+                    (dry) 8 600.0 Measured Lead (Pb) mg/kg
+                    (dry) 31.0 Measured Zinc (Zn) mg/kg
+                    (dry) 253.0 Measured © 2026 TNO | Colophon Contact: Secretariaat-BCT-STIP@tno.nl

@@ -1,0 +1,51 @@
+Refuse
+
+
+REFUSE-DERIVED FUEL; solid; Refuse-derived fuel-3 (RDF-3) was obtained from
+   Americology, Milwaukee, Wis. Sample was air-dried and processed t o 0.5 mm particle
+    size for laboratory test analysis.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   moisture-free, ash-free basis.
+
+   Sample 1, residual moisture, 4.796 wt. %; ash content, 22.52 wt. %; sulfur content,
+    0.48 wt. %.
+    q,(gross)   9438 Btu Ib- 1
+    q,(gross)   5247 cal
+    q,(gross)  = 21953 J g
+
+   Sample 2, residual moisture, 3.006 wt. %; ash content, 29.65 wt. %; sulfur content,
+    0.24-wt. 96.
+    q,(gross)  = 9392 Btu lb- 1
+    qv(gross) = 5221 cal g-'
+   q&ross)  = 21846 J g-l
+
+   Sample 3, tested during 1979. Residual moisture, 5.26  wt. %; as  content,
+    11.80 wt. %; sulfur content, 0.095 wt. 96.
+
+    qv(gross)  9525 Btu-'
+    q,(gross)  = 5295 cal
+    qv(gross) = 22155 J g
+
+                                                       SLKIR/COL
+
+REFUSE-DERIVED FUEL; solid; Refuse-derived fuel-3 (RDF-3) was obtained from the
+   Baltimore County Resource Recovery Facility, Cockeysville, Md., operated by
+   Teledyne National. Sample was air-dried and processed t o 0.5 mm particle size for
+   laboratory test analysis. Residual moisture, 5.065 wt. %; ash content, 15.87 wt. %;
+    sulfur content, 0.14 wt. %.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+    moisture-free, ash-free basis.
+
+    qv(gtoss) = 10553 Btu 1P-l
+    q,(gross)  = 5867 cal g-
+    q,(gtoss)  = 24546 J g- I
+
+                                                                    8 I KIRICOL
+
+
+
+
+
+                                      202

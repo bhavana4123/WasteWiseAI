@@ -1,0 +1,43 @@
+                      Abbreviations
+
+
+ACCE              Aspen Capital Cost Estimator
+AD                   anaerobic digestion
+AFDW                 ash-free dry weight
+BETO                Bioenergy Technologies Office
+BOD                 biochemical oxygen demand
+BPSD                   barrels per stream day
+Btu                     British thermal unit
+COD                 chemical oxygen demand
+CSTR                 continuous stirred tank reactor
+CWNS               Clean Watershed Needs Survey
+DOE                 U.S. Department of Energy
+EPA                 Environmental Protection Agency
+FCI                    fixed capital investment
+FOG                       fats, oils, and grease
+gge                    gasoline gallon equivalent
+HHV                 Higher Heating Value
+HTL                  hydrothermal liquefaction
+IRR                     internal rate of return
+LHSV                  liquid hourly space velocity
+LHV                 lower heating value
+MFSP             minimum fuel selling price
+MGD                  million gallons per day
+PFR                  plug flow reactor
+PNNL                  Pacific Northwest National Laboratory
+POTW                 publicly owned treatment works
+PSA                   pressure swing adsorption
+TAN                      total acid number
+TCI                       total capital investment
+TCLP                   toxicity characteristic leaching procedure
+TDC                      total direct cost
+TEA                 techno-economic analysis
+U                       overall heat transfer coefficient
+USD                 United States dollar
+WAS                 waste activated sludge
+WE&RF             Water Environment & Reuse Foundation
+WHSV               weight hourly space velocity
+WWTP               waste water treatment plant
+
+
+                                                     ix

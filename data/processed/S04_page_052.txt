@@ -1,0 +1,49 @@
+controls and ignition timing. With the addition of SCR after-treatment, described below, some
+manufacturers tune engines for higher efficiency and allow the SCR system to remove the additional
+NOx. Achieving highest efficiency operation results in conditions that generally produce twice the NOx as
+low NOx versions (e.g., 3 lb/MWh versus 1.5 lb/MWh). Achieving the lowest NOx typically entails sacrifice
+of 1 to 2 points in efficiency (e.g., 38 percent versus 36 percent). In addition, CO and VOC emissions are
+higher in engines optimized for minimum NOx.
+
+      Table 2-11. Gas Engine Emissions Characteristics with Available Exhaust
+                                Control Options
+                                                         System
+             Emissions
+                                  1           2           3           4           5
+   Nominal Capacity (kW)            100         633         1121        3326        9341
+    Electrical Efficiency (% HHV)        27.0%        34.5%        36.8%        40.4%         41.6
+   Engine Combustion                 Rich          Rich         Lean         Lean         Lean
+   Precatalyst Emissions
+   NOx (lb/MWh)                                   1.77          1.77          1.77          2.6433
+   CO (lb/MWh)                                    8.12          8.12          8.12          4.18
+   VOC (lb/MWh)                                   0.97          0.97          0.97          1.39
+   Post Catalyst Emissions
+   NOx (lb/MWh)                    0.070          0.07          0.07          0.07           .07
+   CO (lb/MWh)                     0.200          0.20          0.20          0.20           .20
+   VOC, (lb/MWh)                      0.1           0.10          0.10          0.10           .10
+   CO2 Gross (lb/MWh)               1,479         1,158         1,084         989         988
+   CO2 Net (lb/MWh)                499         516         520         520         540
+
+   Source: Compiled by ICF from vendor supplied data
+
+2.6   Future Developments
+Reciprocating engines have improved significantly over the last two decades in terms of increased
+efficiency and reduced emissions. Electronic engine control and improved combustion chamber design,
+including the use of precombustion chambers, allow engines to operate on leaner fuel mixtures.
+Improvements in materials and design have allowed engines to operate at higher speeds and power
+densities while still maintaining long life.
+
+These improvements have been the combined results of collaborative research efforts by private
+industry, universities, and the federal government. Public private partnerships such as the DOE
+Advanced Reciprocating Engine System (ARES) funded by DOE and the Advanced Reciprocating Internal
+Combustion Engine (ARICE) program funded by the California Energy Commission (CEC) have focused
+attention on the development of the next generation reciprocating engine.
+
+
+
+
+33 The Wartsila engine shown here (System 5) when matched with SCR is tuned for best efficiency at the expense of higher
+uncontrolled NOx – letting the SCR remove the NOx. This strategy results in lower overall operating costs.
+
+
+Catalog of CHP Technologies                         2–26                         Reciprocating IC Engines

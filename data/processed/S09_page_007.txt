@@ -1,0 +1,48 @@
+      O
+                     ||
+CH2 - O - C - (CH2)7 CH=CH(CH2)7CH3
+ |
+ |     O
+ |                   ||
+CH  - O - C - (CH2)7 CH=CH(CH2)7CH3     + 3 CH3OH     →
+ |                                                  (KOH)
+ |     O
+ |                   ||
+CH2 - O - C - (CH2)7 CH=CH(CH2)7CH3
+
+       Triolein                   Methanol
+       (885.46 g)                 (3 x 32.04 = 96.12 g)
+
+        O                                  CH2 - OH
+                             ||                                                                                                   |
+3 CH3 - O - C - (CH2)7 CH=CH(CH2)7CH3       +     CH - OH
+                                                                                                                                  |
+                                             CH2 - OH
+
+   Methyl oleate (biodiesel)                    Glycerol
+     (3 x 296.50 = 889.50 g)                       (92.10 g)
+
+                       Figure 2. Transesterification of Triolein
+
+this by 12.0111, the molecular weight of carbon. Doing the same thing for hydrogen and oxygen
+gives:
+
+                   57 x 12.0111 =     684.63
+                  104 x 1.00797 =     104.83
+                    6 x 16.000 =        96.00
+                            Total =       885.46 grams per mole
+
+Therefore, the molecular weight of triolein is 885.46 and one mole of triolein weighs 885.46
+grams. Three moles of methanol weigh 96.12 g, 3 moles of methyl oleate weigh 889.50 g, and 1
+mole of glycerol weighs 92.10 g.
+
+We do not actually conduct the reaction this way. We usually add 60% to 100% excess methanol
+to ensure that the reaction goes to completion. In general, reactions can be encouraged to
+progress by adding an excess of one of the reactants or by removing one of the products. The
+reaction of triolein with 100% excess (XS) methanol is shown in Figure 3.
+
+
+
+
+
+                                       3

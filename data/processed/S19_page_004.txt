@@ -1,0 +1,50 @@
+    Definitions
+    CS                  Corn stover
+
+    CSL                 Corn steep liquor
+
+     DI                 Dynamic impregnator
+
+    GHG                 Greenhouse gas
+
+     H2SO4                  Sulfuric acid
+
+    HPLC               High performance liquid chromatography
+
+    HSEHR                High-solids enzymatic hydrolysis reactor
+
+     IBRF                    Integrated Biorefinery Research Facility
+
+    LCA                    Life cycle assessment
+
+     LCI                     Life cycle inventory
+
+    LH                   Large horizontal (reactor)
+
+    MESP             Minimum ethanol selling price
+
+    NaOH               Sodium hydroxide
+
+    NH4OH           Ammonium hydroxide
+
+    NREL                  National Renewable Energy Laboratory
+
+    OD                     Optical density
+
+    PCS                     Pretreated corn stover
+
+    SOT                     State of technology
+
+     TS                     Total solids
+
+    VT                      Vertical (reactor)
+
+   WWT                Wastewater treatment
+
+
+
+
+
+                                                                              iii
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.

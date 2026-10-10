@@ -1,0 +1,56 @@
+TA 6M: Waste Heat Recovery
+
+
+
+   Waste Heat Recovery: Technology and Opportunities in U.S. Industry4
+
+
+      The Waste Heat Recovery: Technology and Opportunities in U.S. Industry report provides information
+     on waste heat sources in major industrial sectors. The report details the nature of waste heat; available
+    WHR equipment currently used by the industry; and research, development, and demonstration
+     (RD&D) needs. The report classifies waste heat sources in three categories: high temperature
+       (>1,200°F), medium temperature (450°F – 1,200°F), and low temperature (<450°F).
+
+      The study investigated a range of industrial processes, consuming a total of ~8,400 TBtu/yr, as a basis
+       to estimate WHR opportunities. Estimates of total unrecovered waste heat are shown in Figure 6.M.3,
+                                                                       which indicates that
+            Figure 6.M.3 Unrecovered Waste Heat in Different Temperature Groups (2002).4 The temperature          the majority of waste
+            groups are defined as: High – 1200°F [650°C] and higher; Medium - 450°F [230°C] to 1,200°F              heat losses (based
+             [650°C]; and Low - 450°F [230°C] and lower.                                    on a 77°F [25°C]
+                                                                                      reference) are in the
+                                                                        low temperature
+                                                                                     range. Though low
+                                                                              temperature waste heat
+                                                                                                             is lower quality, it is
+                                                                                   present in sufficiently
+                                                                                         large magnitudes that
+                                                                                                                its work potential
+                                                                               exceeds that of other
+                                                                              waste heat sources.
+
+                                                                           For the sectors and
+                                                                                 uses examined, this
+                                                                                study also identified
+                                                                            unrecovered waste
+                                                                                  heat in different
+                                                                              temperature ranges,
+                                                                             concluding that the
+     amount of heat wasted in U.S. industry above a 300°F reference temperature is 276 TBtu per year,
+      whereas 1,478 TBtu per year is lost if the reference temperature is lowered to 77°F.13 This indicates
+       significant heat recovery opportunities in the 77°F - 300°F temperature range, which represents more
+      than 80% of the total estimated waste heat. Cost-effective technologies need to be advanced in order to
+       access the energy savings from low temperature waste heat.
+
+
+
+  Comments on the report Waste Heat Recovery: Technology and Opportunities in
+  U.S. Industry4 for the purposes of this Technology Assessment:
+
+   Analysis of waste heat sources and recovery is greatly affected by the waste heat temperature. Therefore it
+   is necessary to clearly identify the temperature regimes for waste heat related discussions. While this study
+   identifies three temperature ranges to classify waste heat sources and opportunities, there is no general
+  agreement on or basis for this definition of the temperature ranges. The report identified a range of key unit
+   operations across industrial sectors from which WHR estimates were based (see Figure 6.M.4).
+
+
+ 6  Quadrennial Technology Review 2015

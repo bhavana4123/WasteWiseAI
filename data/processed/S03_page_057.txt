@@ -1,0 +1,52 @@
+              Table A-1 Averages and Standard Deviations of Parameters-Continued
+
+                                                       # of
+       Item          Parameter              Units      samples             Thermo   Meso
+       10    Volatile Solids (15 d)         %           7/6      average        64.7      64.1
+                (Digester)                             of TS                       std. dev.         4.4        2.7
+                                                                                  coeff. var.      0.07      0.04
+                Volatile Solids (10 d)         %          7/14      average        65.5      70.8
+                (Digester)                             of TS                       std. dev.         4.5        3.2
+                                                                                  coeff. var.      0.07      0.04
+                Volatile Solids (5 d)          %           1/1      average        70       70
+                (Digester)                             of TS                       std. dev.      N/A     N/A
+                                                                                  coeff. var.     N/A     N/A
+       11    Volatile Solids (15 d)         %           7/6      average        87       86.3
+               (Feed)                                 of TS                       std. dev.         3.1        2.7
+                                                                                  coeff. var.      0.04      0.03
+                Volatile Solids (10 d)         %          7/14      average        90.6      89.9
+               (Feed)                                 of TS                       std. dev.         2.9        2.3
+                                                                                  coeff. var.      0.03      0.03
+                Volatile Solids (5 d)          %           1/1      average        90.2      90.2
+               (Feed)                                 of TS                       std. dev.      N/A     N/A
+                                                                                  coeff. var.     N/A     N/A
+       12   VS Loading (15 d)                    lb/ft3-day      13/12     average        0.35      0.22
+                                                                                         std. dev.        0.12      0.05
+                                                                                  coeff. var.      0.35      0.23
+          VS Loading (10 d)                    lb/ft3-day       15       average        0.55      0.53
+                                                                                         std. dev.        0.10      0.09
+                                                                                  coeff. var.      0.18      0.17
+          VS Loading (5 d)                     lb/ft3-day        5       average        0.87      0.87
+                                                                                         std. dev.      N/A     N/A
+                                                                                  coeff. var.     N/A     N/A
+       13   VS Destruction (15 d)         %           7/6      average        80.8      73.8
+                                                                                         std. dev.         1.6        4.7
+                                                                                  coeff. var.      0.02      0.06
+          VS Destruction (10 d)         %          7/14      average        82.4      76.4
+                                                                                         std. dev.         3.0        6.3
+                                                                                  coeff. var.      0.04      0.08
+          VS Destruction (5 d)          %          1       average        83.3      83.3
+                                                                                         std. dev.      N/A     N/A
+                                                                                  coeff. var.     N/A     N/A
+       14   Methane Content (15 d)        %           4/3      average        67       64
+                                                                                         std. dev.         6.1        0.6
+                                                                                  coeff. var.      0.09      0.01
+             Methane Content (10 d)        %           5/8      average        60       59
+                                                                                         std. dev.         4.4        3.5
+                                                                                  coeff. var.      0.07      0.06
+             Methane Content (5 d)         %          1       average        52       43
+                                                                                         std. dev.      N/A     N/A
+                                                                                  coeff. var.     N/A     N/A
+
+Anaerobic Digestion of Food Waste                                                          A- 4
+Funding Opportunity No. EPA-R9-WST-06-004

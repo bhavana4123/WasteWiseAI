@@ -1,0 +1,13 @@
+11 .14.3 External-Combustion Devices              steam engine also uses external combustion in a boiler
+                                                            to produce high-pressure steam for use in piston or
+A variety of external-combustion devices can produce                                                       turbine steam engines.
+power from producer gas. The Stirling-cycle engine
+uses an external heat exchanger and external combus­   When clean producer gas is available, external­
+tion. The main drawback is the lack of widespread    combustion devices are not necessary.
+availability of inexpensive Stirling-cycle engines. The
+
+
+
+
+
+1 1 8    Handbook of Biomass Downdraft Gasifier Engine Systems

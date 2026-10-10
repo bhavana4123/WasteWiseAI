@@ -1,0 +1,53 @@
+          ●Survey the current global biomass and waste gasification RD&D programmes,
+             commercial operations and market opportunities for BMG, and identify the technical
+            and non-technical barriers to commercialisation of the technology. Use the survey
+                results to prepare and update Country Reports for information dissemination.
+
+
+          ●Conduct joint studies, conferences, and workshops with related Tasks, Annexes, and
+              other international activities to address mutually beneficial issues.
+
+
+           ●Identify research and technology development needs based on the results from the work
+              described above as a part of the workshop reports.
+
+
+          ●Publish results of the work programme on the Task website
+              (www.gastechnology.org/iea) for information dissemination. Maintain the website.
+
+
+           Observations from WS5 ‘Biomass Gasification: Gas Clean-up’
+          The objective of the USA gas clean-up R&D programme is comprehensive. It is targeted
+            to remove contaminants (tar, particulates, S, Cl, N, and alkali metals) from raw product
+           gas to meet or exceed strict quality standards for fuels synthesis and also for advanced
+           power generation.
+
+          The targets for clean synthesis gas can be summarised as follows:Tars (<0.1 mg/Nm3 for
+           methanol synthesis); Heteroatoms (<0.1 mg/Nm3 for methanol synthesis); and Inorganics
+          (< 0.01 mg/Nm3 for methanol synthesis). Source: ‘Unit Operations of Biomass
+             Gasification’, Report 2DEN-02.20, NOVEM, 2002. In addition, light hydrocarbons should
+           be reduced to minimise reforming and thus reduce overall process costs.
+
+
+          The NREL/USDOE gas cleanup projects are summarised below:
+
+
+       ●NREL Cleanup and Conditioning Tasks; PI: D. Dayton: Investigate catalytic steam
+              reforming of tars produced during biorefinery residues gasification at bench- and pilot-
+               scales to advance catalytic gas cleanup technologies.
+
+
+           ●Catalysts for In-Processing Removal of Tars (GTI); PI: L. Felix: Low-cost catalytic
+              material formed into attrition-resistant refractory substrate using high temperature
+               glass melting technology.
+
+
+           ●Verification of Syngas Quality (PNNL/NREL); PI’s: J. White/S. Deutch: Verify the
+                utilisation of biomass-derived syngas for mixed alcohol production. Improved synthesis
+               catalysts with validated syngas cleanliness requirements.
+
+
+         ●Syngas Cleanup Using a Therminator (RTI, Cratech, Sud Chemie); PI: S. Gangwal:
+             Develop the therminator module for biomass gas cleanup at 600-700°C. Goal: tar <
+             0.1 g/m3; NH3 > 90% decomposition; H2S < 20 ppm.
+48

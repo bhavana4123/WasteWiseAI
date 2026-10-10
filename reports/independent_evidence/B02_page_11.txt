@@ -1,0 +1,52 @@
+Processes 2020, 8, 1407                                                                                     11 of 14
+
+
+     Table 5 compares physical and chemical properties of the biochar products obtained at the diﬀerent
+places, reactor bottom char collector and cyclone, with operating conditions of 461 ◦C and 1.6 kg/h
+sawdust feeding rate. As expected, the reactor bottom biochar contained a little higher concentration
+of ash and ﬁxed carbon due to the presence of sand media and crystalline cellulose carbon, respectively.
+Meanwhile, the cyclone carbon was found in a powder form and contained a relatively high amount of
+volatile matter, indicating the possibility that this cyclone char was formed by coking reactions of the
+pyrolysis vapors. The cyclone char has lower heating values than the reactor bottom char due to the
+higher content of oxygen.
+
+
+     Table 5. Comparison of biochar product obtained from the reactor bottom collector and the cyclone at
+     461 ◦C, 1.6 kg/h feeding rate, and 15 L/min N2 carrier gas ﬂow rate.
+
+                       Proximate Analysis               Ultimate Analysis b           Heating Value c
+      Biochar                           (wt%)                         (wt%)                      (MJ/kg)
+      Product
+          M a  VM   FC    Ash   C   H   N      S   O d   HHV   LHV
+   Reactor bottom     2.9     36.0    58.2     2.9    74.7    4.6      0.4   ND e    20.3     26.6       25.5
+     Cyclone         8.9     42.3    47.1     1.7    68.8    4.3      0.5     10−3    26.4     24.9       23.7
+       a M, moisture; VM, volatile matter; FC, ﬁxed carbon. b Ultimate analysis was on a dry basis. c Heating value was on
+     a dry basis. d Calculated by the diﬀerence of 100—(C + H + N + S); e not detected.
+
+
+    The fast pyrolysis of the sawdust also produced signiﬁcant amounts of the gaseous products with
+the yields of 12–39 wt% depending on the reaction condition. Major species detected included CO,
+CO2, and CH4. Negligible amounts of H2, C2-, and C3- hydrocarbons were also formed in all the
+experiments. Figure 8 shows the variation in the composition of the major gaseous products with
+pyrolysis temperature. The content of N2 carrier gas decreased with increasing temperature to reach
+41 vol% at 528 ◦C. The inﬂuence of pyrolysis temperature on the concentration of the gas constituents
+was not signiﬁcant except for the case of CH4 whose content was less than 0.1 vol% at 426 ◦C, but
+increased to 21.4 vol% at about 460 ◦C. It can be said that a pyrolysis temperature between 420 and
+460 ◦C is one of the most important parameters to aﬀect distribution and characteristics of the products
+from the fast pyrolysis of the sawdust feed in the double-tube type of BFB reactor.
+                               (vol%) 60                                   N2
+                                        CO
+             50                                CO2                                    Product                                   CH4
+             40
+
+             30                                    Gaseous
+          of 20
+
+             10
+
+              0                                                        Composition
+               420    440    460    480    500    520
+                              Pyrolysis Temperature (oC)
+
+     Figure 8. Variation in composition of gaseous product with pyrolysis temperature (0.8 kg/h feeding
+      rate, 15 L/min N2 carrier gas ﬂow rate).

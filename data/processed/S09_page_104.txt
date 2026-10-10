@@ -1,0 +1,44 @@
+Appropriate choice of storage tanks must also be considered for feedstock storage tanks. As with
+biodiesel storage tanks, the acceptable materials of construction for the feedstock storage tanks
+are aluminum, steel, Teflon and fluorinated polyethylene or polypropylene. Biodiesel plants
+based on a feedstock of fats must provide heated storage tanks to keep the feedstock liquid. For
+vegetable oil feedstocks, the need for heated storage tanks is dictated by the geographical
+location of the biodiesel plant.
+
+Several factors should be considered when handling biodiesel. While biodiesel contains no
+hazardous materials, it should still be stored and used in well-ventilated areas. Storage of
+biodiesel should not be near heat, spark, or flames sources. If stored in drums, proper drum
+handling procedures should be followed, which includes no drum puncturing, dragging, or
+sliding. It is recommended that PVC-coated gloves as well as safety glasses or goggles should be
+used when handling biodiesel.
+
+Typical forms of transportation vessels for biodiesel are rail cars, tank trucks, and drums. Choice
+of vessel is dictated by the amount of biodiesel being transported. When transporting biodiesel,
+the transportation vessels should be clean and dry. The preferred transportation vessels would be
+ones dedicated to biodiesel. While dedicated biodiesel vessels may be possible with drums, it is
+less likely with tank trucks or rail cars. When using tank truck or rail cars, it is important to
+specify that the vessel should be steam cleaned and blown dry prior to use if the vessel is not
+routinely used for biodiesel transport. In addition, the vessels must conform to the same materials
+of construction used in storage. Seals, gaskets, and adhesives present in the transfer systems
+should comply with the compatible materials discussed above. Due to its pour point, pure
+biodiesel is difficult to ship in cold weather. Methods to transport biodiesel in cold weather
+include hot biodiesel in tank cars that are rapidly delivered, solidified biodiesel in tank cars that
+are equipped with steam coils, 20% biodiesel blends with winterized diesel, and 50% biodiesel
+blends with kerosene (diesel No. 1), which has a pour point of 0˚F.
+
+Biodiesel is commonly used in blends with standard diesel fuel. As discussed above, use of
+biodiesel blends can improve the thermal tolerance of the fuel by decreasing the pour point.
+Therefore, blending may be considered at the biodiesel manufacturing site prior to storage.
+Several blending techniques can be employed. Biodiesel has a higher specific gravity than diesel
+fuel (0.88 versus 0.85), so blending can be achieved by splashing the biodiesel on the top of
+diesel. This blending technique is known as splash blending. Alternatively, agitated blending can
+be used. Agitated blending uses direct mechanical agitation or blending induced by pump the
+biodiesel/diesel fuel mixture back and forth into a tank truck. While water contamination is
+undesirable due to the potential to promote biological growth in stored blends, biodiesel/diesel
+fuel blends will not separate upon exposure to water.
+
+
+
+
+
+                                      100

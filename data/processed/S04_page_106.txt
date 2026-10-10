@@ -1,0 +1,46 @@
+                  Table 5-3. Equipment and Installation Costs
+                                                          System
+                                 1         2         3          4          5          6
+ Equipment Costs
+ Gen Set Package                  $53,100   $112,900   $359,300   $441,200   $566,400   $1,188,600
+ Heat Recovery                   $13,500      $0        $0         $0         $0       $275,000
+ Fuel Gas Compression              $8,700     $16,400    $42,600      $0         $0       $164,000
+ Interconnection                   $0        $0        $0         $0         $0         $0
+             Total Equipment ($)   $75,300   $129,300   $401,900   $441,200   $566,400   $1,627,600
+                      ($/kW)    $2,689     $2,120     $2,120      $1,840      $1,770      $1,710
+ Installation Costs
+ Labor/Materials                  $22,600    $28,400    $80,400     $83,800    $101,900    $293,000
+ Project & Construction Mgmt       $9,000     $15,500    $48,200     $52,900     $68,000    $195,300
+ Engineering and Fees              $9,000     $15,500    $44,200     $48,500     $56,600    $162,800
+ Project Contingency               $3,800     $6,500     $20,100     $22,100     $28,300     $81,400
+ Financing (int. during const.)        $700      $1,200     $3,700      $4,100      $5,100     $14,800
+ Total Other Costs ($)              $45,100    $67,100   $196,600   $211,400   $259,900    $747,300
+ ($/kW)                           $1,611     $1,100     $1,035      $881       $812       $787
+           Total Installed Cost ($)   $120,400   $196,400   $598,500   $652,600   $826,300   $2,374,900
+                      ($/kW)    $4,300     $3,220     $3,150      $2,720      $2,580      $2,500
+Source: Microturbine package costs and equipment from the vendors; installation costs developed by ICF.
+
+
+As the table shows, there are economies of scale as sizes get larger. From 30 to 333 kW capital costs
+increase as the 0.8 power factor of the capacity increase86 – a 100 percent increase in size results in an
+80 percent increase in capital cost. Similar scale economies also exist for multiple unit installations such
+as the 1,000 kW unit comprised of five 200-kW units. The unit cost of the larger system is only 80
+percent of the cost of the single unit.
+
+5.4.4 Maintenance
+Maintenance costs vary with size, fuel type and technology (air versus oil bearings). A typical
+maintenance schedule is shown in Table 5-4.
+
+              Table 5-4. Example Service Schedule, Capstone C65
+ Maintenance                                Maintenance                     Component                                  Comments    Interval                                         Action
+24 months     UCB Battery                    Replace                --­
+4,000 hours     Engine Air Filter                  Inspect           Replace if application requires
+                  Electronics Air Filter              Inspect           Clean if necessary
+                 Fuel Filter Element (external)     Inspect           Replace if application requires (not
+                                                                   required for gas pack)
+
+
+86 (Cost1/Cost2) = (Size1/Size2)0.8
+
+
+Catalog of CHP Technologies                         5–14                                  Microturbines

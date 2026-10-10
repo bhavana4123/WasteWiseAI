@@ -1,0 +1,50 @@
+                                                                   Agricultural Residues
+
+
+PEANUT HULLS; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 73.02, ash
+   content = 5.89, and fixed carbon = 21.09.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 45.77,
+   hydrogen = 5.46, oxygen = 39.56, nitrogen = 1.63,sulfur = 0.12, and residue (ash) =
+    7.46.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross)  8019 Btu lb; 1
+    qv(gross) = 4455 cal g-
+    qv(gross) = 18640 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+                    1   qv(net) = 7542 Btu lb-
+   qv(net) = 4190 cal g-'
+   qv(net) = 17530 J g-'
+
+                                                                       85 JEN/EBE
+
+PINOT NOIR GRAPES, VINEYARD PRUNINGS; solid; Material is considered biomass fuel
+   and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 76.83, ash content   2.71, and fixed carbon = 20.46.  Also the
+   ultimate analysis of the elemental composition of the fuel (values in percent by
+   weight dry basis) is carbon = 47.14, hydrogen   5.82, oxygen = 43.03,  nitrogen = 0.86,
+    sulfur = 0.01, chlorine = 0.13, and residue (ash) = 3.01.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)   8196 Btu 1bT 1
+    qv(gross) = 4553 cal g-
+    q,(gross)  = 19050 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+   qv(net) = 7684 Btu lbl 1
+   qv(net) = 4269 cal g l
+   qv(net) = 17860 J g-
+
+                                                                     85 JEN/EBE
+
+
+
+
+
+                                      21

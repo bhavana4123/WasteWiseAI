@@ -1,0 +1,57 @@
+                                                                             Fossil Materials
+
+
+FUEL, JP-9 RAMJET; liquid; Material is a blend of 10.3 wt. 44 methylcyclohexane,
+    68.4 wt. % of exo-tetrahydrodicyclopentadiene,and 21.2 wt. % of the hydrogenated
+   dimers of norbornadiene whose empirical formula is C14Hlz; the empirical formula
+    for the blend is C10.529H16.202. Recovery of C02 from the combustion products
+   gave a mean value of 99.630%.
+
+   gross heat of combustion: The reference temperature is 298.13 K (77°F). Value is
+   mean with standard deviation of the mean.
+
+    q,(gross)  = 19204.49 2 1.40 Btu lb-l
+    q,(gross)  = 10469.16 2 0.78 cal
+    qv(gross) = 44639.77 2 3.26 J
+
+   net heat of combustion: The reference temperature is 298.15 K (77'F).  Value is mean
+   with standard deviation of the mean.
+
+    q,(net)  = 18160.7 ? 4.3 Btu lb-'
+    qv(net) = 10089.3 f 2.4 cal
+    q,(net)  = 42213.6 f 10. 3
+
+                                                           7SSMI/GOO
+
+FUEL, PARAHO OIL SHALE DERIVED; liquid; Material was refined by delayed coking
+   and fractionation. Composition was nitrogen = 680 pprn, sulfur = 0.03 wt. %,
+   aromatics = 26.0%, Cg to C16 n-alkanes = 36.33 wt. %, and hydrogen = 13.74 wt. %.
+   The freezing point is -33.3"C (-28°F).
+
+   net heat of combustion: assume values refer to room temperature, where net heat of
+   combustion [q (net at 25"C)I = gross heat of combustion [q (gross at 25OC)I - 91.23 H
+   where H = hydrogen weight % of sample.
+
+   qv(net) = 18532 Btu lb-I
+    q,(net)  = 10296 cal
+    qv(net) = 43077 J
+
+                                                         76HAZ/HAL
+
+FUEL, PETROLEUM-A DERIVED; liquid; Material was produced by drilling.  Composition
+   was sulfur = 0.11 wt. %, aromatics = 18.2%, C9 to C16 n-alkanes = 16.00 wt. %. The
+   freezing point is -48.9"C (-56°F).
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net)  = 18518 Btu lb-I
+    q,(net)  = 10288 cal
+    qv(net) = 43044 J
+
+                                                         76HAZ/HAL
+
+
+
+
+
+                                       111

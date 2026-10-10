@@ -1,0 +1,55 @@
+                                                          Plant Materials (Non-Woody)
+
+
+MOUNTAIN RUSH; Carex montana; solid; Material is a herb, one of the dominant species
+   of a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown forest
+    soil, at 300 m above sea level located in the southern part of the Bukk Mountains of
+   north Hungary. Samples were dried at 85OC (185"F), then ground and pelleted. The
+   ash content was determined at 5OOOC (932°F) while the temperature was increased
+   stepwise. Ash content of aboveground living material = 8.4%; aboveground dead
+   material = 14.7%; roots = 6.3%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer t o room
+   temperature, the number of measurements is 3.
+
+                      dry weight       ash-free dry       std dev.
+                         basis          weight basis        of mean
+
+   aboveground living material
+
+    qv(gross) =          7580             8689               5.6   Btu lb-l
+    qv(gross) =          4222             4827                 3.1    cal
+    qJgtoss)            17667             20 196          13     J g-
+
+   aboveground dead material
+
+    qv(gross)           7092             8305              13.2   Btu lb-l
+    qv(gross)           3940             4614             73.5    ca1q-l
+    qv(gross) =         16485            19305         308     J g-
+
+   roots
+
+   qJgross) =          8042            8575          140     Btu lb-'
+    q,(gross)  =          4468             4764            77.5    cal q1
+    q,(gross)  =         18694            19933         324     J g-
+
+                                                               75PAP
+
+P ANTS, FLOWER GARDEN? solid; ultimate analysis: carbon, 46.63%; hydrogen, 6.61%;
+   oxygen, 40.18%; nitrogen, 1.21%; sulfur, 0.26%; ash, 3.09%; proximate analysis as
+   received: moisture, 53.94%; volatile matter, 35.64%; fixed carbon, 8.08%; ash, 2.34%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                              dry basis
+    q,(gross)  = 3699 Btu lb- I                                  1                                                        q,(gross)  = 8032 Btu lb-
+    q,(gross)  = 2055 cal                         qv(gross) = 4462 cal g-l
+    q,(gross)  = 8599 J                           qv(gross) = 18671 J g-'
+
+                                                                    66KAI
+
+
+
+
+
+                                        155

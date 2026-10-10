@@ -1,0 +1,48 @@
+plant, and the combined energy plant-process plant application through CHP. For these reasons, steam
+turbines are not normally direct competitors of gas turbines and reciprocating engines.
+
+Steam turbine prices vary greatly with the extent of competition and related manufacturing volumes for
+units of desired size, inlet and exit steam conditions, rotational speed and standardization of
+construction. Prices are usually quoted for an assembled steam turbine-electrical generator package.
+The electrical generator can account for 20 percent to 40 percent of the assembly. As the steam
+turbine/electrical generator package is heavy, due in large part to the heavy walled construction of the
+high pressure turbine casing, it must be mounted carefully on an appropriate pedestal or baseplate. The
+installation and connection to the boiler through high pressure-high temperature steam pipes must be
+performed with engineering and installation expertise. As the high pressure steam pipes typically vary in
+temperature by 750° F between cold standby/repair status and full power status, care must be taken in
+installing a means to accommodate the differential expansion accompanying startup and shutdown to
+minimize induced stress on the turbine casing. Should the turbine have variable extraction, the cost of
+the extraction valve and control system adds to the installation.
+
+Small steam turbine generators of less than 1,000 kW are generally more expensive on a per KW basis.
+However, products have been developed and are being marketed specifically for small market
+applications.
+
+As the steam for a steam turbine is generated in a boiler by combustion and heat transfer, the
+temperature of the steam is limited by furnace heat transfer design and manufacturing consideration
+and boiler tube bundle design. Higher heat fluxes in the boiler enable more compact boilers, with less
+boiler tube material to be built, however, higher heat fluxes also result in higher boiler tube
+temperature and the need for the use of a higher grade (adequate strength at higher temperature)
+boiler tube material. Such engineering economic tradeoffs between temperature (with consequential
+increases in efficiency) and cost appear throughout the steam plant.
+
+4.4.4 Maintenance
+Steam turbines are very rugged units, with operational life often exceeding 50 years. Maintenance is
+simple, comprised mainly of making sure that all fluids (steam flowing through the turbine and the oil
+for the bearing) are always clean and at the proper temperature with low levels of moisture or high
+steam quality or superheat. The oil lubrication system must be clean and at the correct operating
+temperature and level to maintain proper performance. Other items include inspecting auxiliaries such
+as lubricating-oil pumps, coolers and oil strainers and checking safety devices such as the operation of
+overspeed trips.
+
+In order to obtain reliable service, steam turbines require long warm-up periods so that there are
+minimal thermal expansion stress and wear concerns. Steam turbine maintenance costs are typically
+below $0.01/kWh. Boilers and any associated solid fuel processing and handling equipment that is part
+of the boiler/steam turbine plant require their own types of maintenance which can add $0.02/kWh for
+maintenance and $0.015/kWh for operating labor.
+
+One maintenance issue with steam turbines is that solids can carry over from the boiler and deposit on
+turbine nozzles and other internal parts, degrading turbine efficiency and power output. Some of these
+
+
+Catalog of CHP Technologies                         4–14                           Steam Turbines

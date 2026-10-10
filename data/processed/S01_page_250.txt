@@ -1,0 +1,58 @@
+                                                 Woody and Tree Materials
+
+
+OAK, DURMAST; Quercus petraea; solid; Material is a tree, one of the dominant species
+    of a 65-year-old climatonal oak forest (Quercetum petraeae-cerris) on brown forest
+    soil, at 300 m above sea level located in the southern part of the Bukk Mountains of
+   north Hungary. Samples were dried at 85°C (l8S0F), then ground and pelleted. The
+   ash content was determined at 500°C (932°F) while the temperature was increased
+   stepwise. Ash content of trunk wood = 0.3%;  branch wood   1.0%; trunk bark =
+   10.4%; branch bark = 9.0%; twig = 3.7%; light-adapted leaf = 6.1%; shade-adapted
+    leaf = 6.5%; acorns = 2.6%; root = 6.9%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature.
+
+                      dry weight       ash-free dry        std dev.
+                         basis          weight basis        of mean
+
+   trunk wood (4 measurements)
+
+    q,(gross)  =          8545             8582            35.8   Btu lb-l
+   qJgross) =          4747             4768            19.9   cal                                    y1
+   qv(gross) =         19861            19949           83.3   J g-
+
+   branch wood ( 3 measurements
+
+    q,(gross)  =          8518             8620             38.0   Btu lb-'
+    q,(gross)  =          4732             4789             21.1    ca1,q-l
+    q,(gross)  =         19799            20037            88.3    J g-
+
+   trunk bark (4 measurements)
+
+   qJgross) =          7997             8926            30.1   Btu lb-I
+    q,(gross)  =          4443             4959             16.7    cal 5-l
+    q,(gross) =         18590            20748            69.9    J g-
+
+   branch bark (4 measurements)
+
+    q,(gross)  =          7675             8440            54.5   Btu lb-I
+    q,(gross)  =          4264             4689            30.3   ca1q-l
+    q,(gross)  =         17841            19619         127     J g-
+
+   twig (4 measurements)
+
+    q,(gross) =          8363             8694            85.0   Btu lb-I
+   qJgross) =          4646             4830             47.2    cal4-l
+   qJgross) =         19439            20209          197     J g-
+
+   light-adapted leaf (5 measurements)
+
+    q,(gross) =          8698             9259            74.3   Btu lb-'
+   qJgross) =          4832             5144            41.3   cal9-l
+   qv(gross) =         202 17            21522          173     J g-
+
+                                                                          (more)
+
+
+                                       273

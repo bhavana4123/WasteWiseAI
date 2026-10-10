@@ -1,0 +1,53 @@
+                                                              PNNL-27186
+
+                   Summary
+
+
+   The Department of Energy Bioenergy Technologies Office (BETO) invests in research and
+development of new pathways for commercially viable conversion of biomass into drop-in ready
+transportation fuels, fuel blendstocks and products. The primary emphasis has been on terrestrial and
+algae feedstocks, but more recently BETO has begun to explore the potential of wet wastes for biofuel
+production, with focus on wastewater residuals, manure, food waste, and fats, oils and grease. A recent
+resource analysis estimates that 77 million dry tons per year of these wastes are generated annually, 65%
+of which are underutilized for any beneficial purpose.1 Approximately 14 million dry tons of the total
+resource is wastewater residuals (sludge and biosolids) generated at the nation’s wastewater treatment
+plants (WWTPs).2 Conversion of this resource into transportation fuels could significantly contribute to
+the creation of a new domestic bioenergy and bioproduct industry, while providing an economically and
+environmentally sustainable alternative for current waste disposal practices.
+
+    Hydrothermal liquefaction (HTL) is a process that uses hot, pressurized water in the condensed phase
+to convert biomass to a thermally stable oil product, also known as “biocrude”, which can then be thermo-
+catalytically upgraded to hydrocarbon fuel blendstocks. HTL is conceptually simple, has a high carbon
+efficiency, and can be applied to a wide range of wet feedstocks at similar processing conditions. The
+purpose of this report is to document the conceptual design, economics and supporting data for a sludge-
+to-fuel pathway via HTL and biocrude upgrading. The configuration includes a HTL plant that is co-
+located with a WWTP and a larger scale biocrude upgrading plant for production of hydrocarbon fuel
+blendstocks. Experimental data from bench scale testing of a 1:1 mixture of primary:secondary sludges
+are used to establish the economic and technical assumptions for the analysis. The design represents a
+goal case for the pathway, targeting performance that is anticipated to be achievable by 2022 with further
+research and development. The year 2022 is BETO’s target year for verification of hydrocarbon biofuel
+pathways.3 As this analysis represents a goal case, assumed values of several design parameters represent
+improvements in the technology relative to what has currently been demonstrated in the laboratory.
+While HTL is fairly well developed and may therefore be ready for commercialization prior to 2022,
+there are specific advancements addressed in this analysis that are necessary to enhance performance
+compared to what has been demonstrated to date. In addition, an important aspect to the pathway is the
+upgrading of biocrude to fuel blendstock, an area that has received much less attention and requires
+significant research to validate the goal case performance parameters.
+
+   Summary economics for the sludge HTL plant and the biocrude upgrading plant are presented in
+Figures ES.1 and ES.2, respectively. The estimated plant gate minimum fuel selling price for fuel
+blendstock from sludge HTL and upgrading is $3.46/gasoline gallon equivalent (gge) (Figure ES.2). This
+price is within the tolerance (+$0.49/gge) of BETO’s $3/gge programmatic cost target3 and illustrates that
+fuel blendstocks generated from HTL of sludge and centralized biocrude upgrading have the potential to
+
+1 DOE. 2017. Biofuels and Bioproducts from Wet and Gaseous Waste Streams: Challenges and Opportunities.
+Bionergy Technologies Office, Energy Efficiency and Renewable Energy, U.S. Department of Energy, Washington,
+D.C.
+2 Seiple T, AM Coleman, and RL Skaggs. 2017. “Municipal wastewater sludge as a sustainable bioresource in the
+United States.” J. Environ. Manage. 197:(2017) 673-680. http://dx.doi.org/10.1016/j.jenvman.2017.04.032
+3 DOE. 2016. Biomass Multi-Year Program Plan. Bionergy Technologies Office, Energy Efficiency and
+Renewable Energy, U.S. Department of Energy, Washington, D.C.
+
+
+
+                                                                           iii

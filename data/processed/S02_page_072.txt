@@ -1,0 +1,59 @@
+The most common GC detector performs analyses by    The Orsat analysis depends on the ability of certain
+measuring the thermal conductivity of the gas (TC     chemicals to react selectively with each gas component
+detector) and is the most suitable for producer gas     of the producer gas mixture. The components are ab­
+measurement. With this type of detector. helium (or a     sorbed in the order of CO2, O2, CO, then H2 and CH4,
+hydrogen-helium mixture, see below) is often used    and the analysis reports the volume percent of each
+because of its abnormally high thermal conductivity    component directly.
+relative to other gases.                                                       Orsat analysis equipment is portable, does not require
+The flame-ionization detector (FID) measures the num­   AC power, has no warmup time, and can be purchased
+ber of ions produced in a flame and is particularly use­     (along with the required chemicals) from scientific
+ful for detecting hydrocarbon species. The FID is not     supply houses for $500 to $1000.
+particularly useful for producer gas, since producer gas
+                                                             7.6.2.3 On-Line Gas Measurementcontains few hydrocarbons other than methane.
+                                                                           It is convenient to have continuous "on-line" measure­The response of the TC detector to low levels of
+                                             ment of all the gas components to show instantaneoushydrogen in the inert carrier gas is nonlinear, and this
+                                                    changes in composition that otherwise would not beleads to ambiguous results. There are two effective
+                                              shown by batch sampling. Methods for on-line gassolutions to this problem. A heated palladium tube at
+                                                      analysis include flame observation, combustionthe inlet can be used to selectively diffuse the hydrogen
+                                                            calorimetry, infrared absorption, thermal conductivity,out of the sample into a separate nitrogen gas stream;
+                                               and mass spectrometry.in this secondary stream, hydrogen yields a linear
+response (Carle method). Alternatively, adding    The heat content of the gas is a measure of a gasifier's
+hydrogen to the helium carrier gas will move the     performance and can be calculated from the gas com­
+baseline onto the linear region of the TC-detector     position (see Fig. 7-1 and Table 7-2). Most gasifier
+resp onse curve.                                                    facilities, if they have gas analysis equipment, use an
+                                                       Orsat analyzer or a gas chromatograph, so that normal­The position of a peak on the time scale of the recorder
+                                                         ly a value is available only after a considerable timechart indicates the time of retention and is characteris­
+                                                      delay (10-30 min). It is desirable to have a continuoustic of each particular gas component. The area under
+                                                          indication of gas quality.the peak, obtained by analog or digital integration, in­
+dicates the volume of each gas present. Although reten­    Continuous innnediate readout of producer gas com­
+tion times and sensitivities are listed for each adsorbent     position, however, has been achieved in two ways. One
+material, aging and drift are common to column pack­    method, used at U. C. Davis, uses infrared     absorp­                                                                                                                        (IR)
+ings, so it is necessary to calibrate the instrument daily     tion for continuous CO, CO2, and CH4 analysis with a
+to obtain an accuracy on the order of 1 %. For this pur­     thermal conductivity detector for continuous H2 deter­
+pose, it is necessary to have a cylinder of previously     mination. The second method uses a mass spectrom­
+analyzed standard gas. These cylinders are available     eter to give immediate on-line digital readout of all
+from GC equipment manufacturers.                       gases present, CO, CO2, H2, O2, H20, CH4, and high
+                                                   hydrocarbons (Graboski 1986).Although samples are usually collected as needed, it is
+possible to use automatic sampling with the GC to give    The calorimeter shown in Fig. 7-16 is a precise primary
+a measurement of gas composition at regular intervals.     standard for measuring HHV of the gas. Combustion
+The GC analysis cycle time depends on both the reten,       air, fuel rates, delivery temperatures, and pressures are
+tion time of the columns used and the number of     carefully measured. Heat-transfer air is also metered for
+species analyzed. This time is typically 30 minutes, but     inlet flow, temperature, and pressure. A counterflow
+nore that the warmup time for the GC is one day.          heat exchanger cools the combustion products to the
+                                                                  air inlet temperature (60"F) and simultaneously con­A number of companies, including Carle, Hewlett­
+                                                    denses water vapor to a liquid. The temperature rise ofPackard, and Perkin-Elmer, manufacture satisfactory
+                                                      the heat-transfer air is directly proportional to the HHVunits for $3000 to $30,000 and provide excel1ent
+                                                           of the fuel gas. The equipment pictured in Fig. 7-16 wasinstruction and service.
+                                                     designed for gas with a HHV of 1000 Btu/scf and may
+                                                         require modification of the burner to use producer gas
+7.6.2.2 Orsat Gas Analysis                                                   with a HHV of 150 Btu/scf.
+The Orsat gas analysis system was developed to                                                    Other simpler, more relative methods are available and
+measure the gases CO2, CO, O2, H2, and CH4. It was the                                         may be sufficient for many applications. It is informa­
+principal measurement method used before the GC was                                                                tive simply to observe the gas flame during operation.
+developed in the 1950s and is more reliable and less
+costly than GC; however, it requires more time (typi­    Flame length tends to increase with the gas heating
+cally 30 minutes of full operator attention per analysis)     value; flame luminance increases with hydrocarbon
+and more skill.                                 and tar content. After the operator has gained
+
+
+64    Handbook of Biomass Downdraft Gasifier Engine Systems

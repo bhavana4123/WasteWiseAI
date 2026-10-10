@@ -1,0 +1,34 @@
+   Table 22. Total capital investment for biocrude upgrading plant.
+
+                Cost Item                     Million US Dollars (2014$)
+ Hydrotreating                                          33.6
+ Hydrocracking                                            6.6
+ Hydrogen plant                                         27.2
+ Steam cycle                                               1.6
+ Balance of plant                                           6.5
+Total Installed Cost (TIC)                               75.6
+ Buildings (4% of TIC)                                     3.0
+ Site development (10% of TIC)                            7.6
+ Additional piping (4.5% of TIC)                            1.8
+Total Direct Costs (TDC)                               87.9
+
+Indirect Costs
+ Prorated expenses (10% TDC)                             8.8
+ Home office & construction fees (20% TDC)              17.6
+ Field expenses (10% TDC)                                 8.8
+ Project contingency (10% TDC)                            8.8
+ Startup and permits (10% TDC)                            8.8
+Total Indirect                                          52.8
+
+Fixed Capital Investment (FCI)                       140.7
+
+Working Capital (5% of FCI)                                7.0
+Land (6% of TPEC)(a)                                       2.7
+Total Capital Investment (TCI)                        150.4
+(a) Total purchased equipment cost
+
+
+
+
+
+                            30

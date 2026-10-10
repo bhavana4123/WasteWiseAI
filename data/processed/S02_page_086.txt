@@ -1,0 +1,41 @@
+         100 r-------------------________________________________________
+         80       Relationship between particle size and terminal velocity                                 0
+                     for solid spherical particles of various specific gravities                                                                                                Specific gravity
+         60                                                                                                                                               1 .0 m         50                                                                                                       Based on Stokes' Equation                                                                                                                                               1 .5         40                                       rp 0' (p,-p,)                                                                                                              2.0                           V ----
+         30                             lBŁ                                                             3.0                                                                                                              4.0
+                                                                                    _ 6.0                                                                                                                 B.O
+                ..:
+     2"
+          10      Ǫ
+    U"  B
+         '0     t  6                                                  V = Terminal velocity          5              8:.                                                    o = ȴiameter of particle
+         4                                                                                                                      cp = Gravitational constant
+                                                                p , = Density of particle         3                                                                                                                                  I               p, = Density of fluid
+                                                                        Ł = Viscosity of fluid
+          2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       IIIIII                                       Terminal velocities of solidi spherical particles in air at 68° F
+            0.31̄̅̆̇̈   0.4   0.6  O.B   1 ----̉ 2  --̊̋̌̍̎̏̐̑̒̓̔3  4    6  B  10      20   30 40--̖̗̕60 BO 100 --̘̙̚ 200  300
+                                               Terminal velocity, in.lmin
+
+Fig. 8-7. Particle settling velocity versus size and density  (Source: ASME 1965, Fig. 6)
+
+             573.16 K                    A pipe 2.5 cm (1 in.) inside diameter should provide a
+   30 .Nm3/h 273.16 K = 63 m3/h (37 ft3/min)   (8-6)     gas velocity of
+                                    V  =̃ "D2We wish to reduce solid particulates to 10 mglNm3
+from raw gas that exits the gasifier at 700·C. The gas                        4(63 m3/h)                                                =
+cools within a few feet of pipe to 300·C, which we will              3.14 (2.5 cm/l00 cm/m)2 (3600 s/h)
+consider as the cyclone inlet temperature. Screening                                                = 35 m/s (7000 £pm)                         (8-7)analysis of airborneshar (Fig. 7-4) shows a mass mean
+                             with a geometric    which is well above the minimum,particle diameter dp = 100  fll1
+standard deviation O'g = 2.5. Particulate sampling                                                          Selecting the cyclone inlet width equal to the gas pipeindicates that total dust load at peak flow is                                                         diameter, the cyclone is designed by the proportions5000 mg/Nm3, For a turndownratio requirement of4:1 ,                                                  from Fig. 8-5, For inlet width 2.5 cm (1 in.) and inletthe maximum dust penetration at peak flow rate is                                                       height 5 cm (2 in.) then the cyclone inlet velocity willP'D   100 x [(10 mg/Nm3)/(5000 mg/Nm3)]   0.2%.   =                               =          beDerating by square root of turndown, the maximum
+penetration for turndown is PD 0.2%/ȷ 0.1 %.                        =                  Q                                     v = AOn Fig, 7-4 we follow the particle size distribution line
+for an Imbert gasifier to the data point where the                                                                       (63 m3/h)(104 cm2/m2)
+cumulative fraction equals the maximum penetration        =                                                                          (2.5 cm)(5 cm)(3600 s/h)
+allowing for turndown PD (0.1%). The corresponding
+                     3 11m is the cut point we will         = 14 m/s (2755 £pm)                         (8-8)particle diameter dp =
+require. d 50 = 3 11m, as shown by the dotted line.         p                                         Cyclone cut size is the size particle that will be col­
+The recommended minimum gas velocity for convey­     lected with 50% efficiency. Then we calculate, using
+ing medium density dust is 15 mis, and for heavy dust     the viscosity and density of producer gas from Fig. 8-8
+(metal turnings) is 25 mis,                         and assuming ash density 2.0 (2000 kg/m3) and char
+
+
+
+78    Handbook of Biomass Downdraft Gasifier Engine Systems

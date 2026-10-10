@@ -1,0 +1,60 @@
+  1,299   kg/hr                                                                                                                                                                                                        21,398   kg/hr
+     22   kmol C/hr    Chemicals                                                                                                                                                                       Vent            471   kmol C/hr
+      -2   Gcal/hr                                                                                                          Recycle water                                                                              0   Gcal/hr
+                                                                           17
+  3,031   kg/hr
+      0   kmol C/hr    Chemicals                                                                                                                                                                                       21,808   kg/hr
+                                                                                                                                                                                                                                                      C/hr                                                                                                                                                                                                       941   kmol                                                                                                                                                                                                                 Ethanol
+                                                              Enzymatic      -3   Gcal/hr                            Pre-                                                                                                                                                                                                                             -139                                                                                                                                                                                                                                                      Gcal/hr                                                                    -147                                                                                   Fermentation         -111            Recovery104,167   kg/hr                           treatment                      hydrolysis
+  3,117   kmol C/hr     Biomass                                                                                                                                                                                     losses             -24   Gcal/hr
+   -316   Gcal/hr
+
+ 12,105   kg/hr              Air
+                                                                                                                                                                                                                                                    cake                   stillage                              4
+                                   80                                                                                                          -1                                         Lignin          Thin
+                                                                                                                 -1             -3
+  2,845   kg/hr                                                                                                                                                                                                         33,387   kg/hr
+     81   kmol C/hr     Glucose                                                                                                                                                                        Vent             54   kmol C/hr
+      -8   Gcal/hr                                Enzyme                                                                                                                                   0   Gcal/hr
+                                                    Production                      -4                                           -39
+    377   kg/hr
+                C/hr    Chemicals      6   kmol                                                                                                                                                             -97                    101      -1           Gcal/hr
+                                                                   86                                                                                                                          221,417   kg/hr
+ 32,853   kg/hr              Air                                                                                                       WWT Evap          88   kmol C/hr
+                                                                                                                                                                                                                                                            -1   Gcal/hr
+
+223,602   kg/hr              Air                                                                                                                                                                                               9,929   kg/hr
+  4,504   kg/hr                                                                                                                 Wastewater                 Brine             48   kmolGcal/hrC/hr
+      0   kmol C/hr    Chemicals                                                                                                                   treatment
+      2   Gcal/hr                                                                                                                                Biogas
+                                                                                                                                                                       -66                                          losses             -26   Gcal/hr
+
+                                       -3
+
+
+
+                            7
+
+
+                                                                                                                                                                                -6
+
+                                                                                                                 Boiler/                                                                              losses             -12   Gcal/hr
+284,495   kg/hr              Air                                                                   Turbogenerator                                                                     Elec out            -11   Gcal/hr    895   kg/hr
+      0   kmol C/hr    Chemicals
+      0   Gcal/hr                                                                                               Dilution                                                                         Dilution                                     Dilution                                                                                                                Elec Rsrv      371,750-4   Gcal/hrkg/hr
+                                                                                          water                                              water                       water                                                                                                      Stack+Ash        1,680-12   Gcal/hrkmol C/hr
+147,140   kg/hr                                                                                                 -51          Cooling water
+      0   kmol C/hr    Well water
+     87   Gcal/hr                                  Process and                                                                                  Recycle water
+                                                Cooling water                                                                216
+                                                                                                      Evaporation                                                                                                        137,362   kg/hr
+                                                                                                                                                                                                               Cooling twr           0   kmol C/hr
+                                                                                                                                                                                                                                       -20   Gcal/hr
+
+            kg/hr817,045
+   3,226          kmol C/hr                 Material                Heat               Work        Energy flows (Gcal/hr) shown on selected intermediate streams.                        817,0523,238   kg/hrkmol C/hr
+    -239   Gcal/hr                                                                                     Positive energy flow has a negative sign.                                                       -240   Gcal/hr
+
+                         Figure 18. Mass, carbon, and energy balance diagram for the overall process
+
+                                                   73

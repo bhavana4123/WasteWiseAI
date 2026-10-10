@@ -1,0 +1,51 @@
+(Jameson 2007). Further work is needed to investigate and develop methods for estimating the impact of
+modularized manufacturing of HTL systems on the plant project economics and MFSP.
+
+   The upgrading plant is assumed to receive biocrude from 10 HTL plants within a 100-mile radius and
+produces 2,700 barrels per stream day (BPSD) of fuel blendstocks. Further analysis by the resource
+assessment team is needed to determine the optimum radius for individual regions in the country. As
+illustrated by the regional analysis presented in Section 4.2, this scale and associated biocrude
+intermediate availability is reasonable in several of the most densely populated regions of the country.
+For perspective, the upgrader scale is 54% of other BETO design cases of ~5,000 BPSD fuel production
+and only 5% of the average scale for combined gasoline and diesel production at U.S. refineries of about
+51,000 BPSD (EIA 2016).
+
+    Sludge treatment and disposal currently represents a significant expense to WWTPs. Therefore, the
+solids reduction resulting from the HTL process would conceivably result in significant savings in
+avoided disposal costs to the plant. However, the base case model does not include this savings (i.e., a
+zero feedstock cost is used) in order to account for potential market adjustments that may result from
+implementation of this technology in the future. Sensitivity analysis around this assumption is presented
+in Section 4.0.
+
+   Wastewater treatment sludge is composed of water, three basic types of organic macromolecules:
+proteins, lipids/fats, and carbohydrates, as well as some inorganic material (ash and grit). Sludge
+composition will vary from plant to plant depending on the treatment processes used, types of industrial
+dischargers in the region (i.e., sewage chemistry), weather, and other factors. Compositional data on
+wastewater sludge is sparse in the literature and those that are available are highly variable and often do
+not indicate the source of the sludge (e.g., primary, secondary, mixed, or biosolids). While lipid,
+carbohydrate and protein content will vary to some degree from plant to plant, ash content is perhaps the
+single most important compositional parameter, as it most directly impacts the overall sludge to biocrude
+yield for a given plant size. In other words, the ash in the sludge increases equipment size and therefore
+capital expense, but does not contribute any fuel product. Table 3 lists ranges of sludge ash content found
+in the literature indicating a wide range of 15-40% for mixed primary/secondary.
+
+
+                    Table 3. Municipal sludge ash content (% of total solids)
+
+    Primary         Secondary       Mixed Sludge                              Source(a)
+      36              14               25           This work
+      8              16                    12(b)         Marrone 2016
+      35             23-33              28         Manara and Zabaniotou 2012
+     20-30         NR              15-25         Pennsylvania DEP 2001
+     10-30            25-35               18-33(b)      New Mexico Environment Department 2007
+     15-40            15-40               15-40(b)        Tchobanoglous et al. 2014
+     20-40            15-40               18-40(b)      ASCE 2000
+     20-25            20-25               20-25(b)        von Sperling and Gonçalves 2007
+                     20-30                  WEF 2013
+
+(a)  All sources except this work and Marrone reported as % volatile matter (VM). Ash is calculated as 100-%VM.
+(b) Calculated average mix of 1:1 primary, secondary mixture.
+
+
+
+                                          8

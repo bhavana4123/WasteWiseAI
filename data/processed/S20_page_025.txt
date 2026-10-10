@@ -1,0 +1,54 @@
+account for situations in which the existing dewatering unit is toward the end of its life and/or is not a
+large enough capacity to handle raw sludges (e.g., in the case of replacing AD). Chemical conditioning of
+the secondary sludge is assumed to be required to maximize dewatering efficiency. Water soluble
+polymers, or organic polyelectrolytes, are the most commonly used conditioning agents for mechanical
+dewatering and act as flocculants that enhance solid/liquid separation in the sludge (Tchobanoglous et al.
+2014). Cationic polyacrylamide is the backbone of most polymer used in the industry (Tchobanoglous et
+al. 2014). Polymers provide added benefit over inorganic conditioners by not adding ash to the sludge.
+
+
+                                                       Polymer
+
+
+                Mixed Primary/                                        Dewatered Sludge
+                 Secondary Sludge                                                    to HTL
+
+                                                    Centrifuge
+
+
+
+                                              Centrate Return to Headworks
+
+                       Figure 3. Process flow for slurry feed preparation.
+
+   The capital cost for the centrifuge is based on a vendor budgetary estimate. The installed equipment
+cost for the centrifuge is $1.4 million (2014 $) for 30,000 gal/hr feed capacity. Individual plants have
+differing configurations and therefore slight modifications to capital investment and operating costs are to
+be expected. Also, certain configurations of biological treatment, such as the use of membrane
+bioreactors in lieu of the conventional activated sludge process, or the use of nutrient removal, make
+sludge that is difficult to dewater (Tchobanoglous et al. 2014). Centrifugation of a mixture of primary
+sludge/WAS of 2-4% solids content, with added polymer at 5-16 lb/dry ton dry solids, is expected to
+achieve 25-35% solids content in the product (Stubbart et al. 2006).
+
+2.3  Hydrothermal Liquefaction
+
+   The main process steps in the HTL section of the plant are shown in Figure 4. The base case plant
+processes 100 dry tons per day of sludge. The modeled process is largely based on previous conceptual
+designs for wood HTL and algae HTL (Knorr et al. 2013; Jones et al. 2014). The 25% solids ground
+slurry feed is pumped to 2900-3000 psia and then preheated to 550°F (288°C) in two double-pipe heat
+exchangers in series using heat from the reactor liquid product (biocrude/aqueous mixture). High-
+pressure pumping of biomass slurries has only been demonstrated at bench and smaller pilot scale,
+however, it is generally thought to be more easily accomplished at large scale (Elliott 2011). Berglin et
+al. (2012) indicated that pumping a 15% solids wood slurry at HTL pressures is viable with commercial
+off-the-shelf equipment, such as a twin-screw feeder/piston pump type of system. Sludge is more easily
+pumpable than wood slurry and therefore should be possible at scale and at the higher feed solids
+assumed in this analysis. A fired heater with hot oil system is used to bring the pressurized feed up to the
+reactor temperature of 656°F (347°C) and provide reactor heat. Off-gas from the reactor along with
+purchased natural gas are burned in the fired heater to provide this heat. Scrubbing of the off-gas may be
+required, depending on local permit requirements. Approximately 20% of the heat is provided by the
+HTL off-gas, which is composed of 92% CO2 and 8% C1-C5 gasses).
+
+
+
+
+                                         10

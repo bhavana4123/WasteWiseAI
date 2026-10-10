@@ -1,0 +1,47 @@
+At the 15-day MCRT operational period, the energy benefit on a normalized basis is higher than
+during the 10-day MCRT operational period. This is likely due to the lower waste rate at the 15­
+day MCRT, allowing more of the slower growing methanogens (which produce methane in
+anaerobic digesters) to grow and populate the digested sludge, compared to the higher waste rate
+needed to achieve a 10-day MCRT. However, at the shorter MCRT period, more tonnage is
+applied to a fixed digester volume, which can result in an increase in overall gas production at a
+10-day MCRT compared to a 15-day MCRT. For example, a 1 million gallon digester operating
+at a 15-day MCRT and assuming 10% feed solids, has a food waste loading rate of
+approximately 27.8 dry tons per day. At a 10-day MCRT, the food waste loading is
+approximately 41.7 dry tons per day for the same digester and feed solids. Using the average
+methane production rate at a 15-day MCRT, the result is 369,740 cubic feet (ft3) of methane gas
+produced per day. At a 10-day MCRT, 396,150 ft3 of methane is produced per day, which is
+approximately 7% more than the methane gas produced at the 15-day MCRT.
+
+Volatile Solids Destruction and Biosolids Produced
+Table ES-2 summarizes the volatile solids destruction (VSD) data during the study at each
+MCRT tested. Throughout the study the VSD of the digesters appeared to stabilize around 80%,
+independent of MCRT, with some peaks near 90% VSD. This is consistently above the average
+range of 50% to 60% VSD for municipal wastewater solids digestion, and well above the
+minimum of 38% required by the EPA 503 regulations for land application. This indicates that
+food waste is significantly more biodegradable than municipal wastewater solids, and therefore
+allows for a 10-day MCRT digester operation, compared to a minimum15-day MCRT for
+municipal wastewater solids.
+
+Table ES-2. Bench-scale Anaerobic Food Waste Digester Volatile Solids Destruction (VSD)
+Summary.
+ Target MCRT,    Mesophilic Digester, VSD%     Thermophilic Digester, VSD%
+      days       AVG         SD        AVG         SD
+      15              73.8              4.7             80.8              1.6
+      10              76.4              6.3             82.4              3.0
+       5         NA        NA        NA        NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+Table ES-3 shows dry residual weights (inert and refractory materials remaining after digestion)
+in tons per 100 tons of dry digester feed applied. Dry residual weights for food waste (digested
+at mesophilic and thermophilic temperatures) and municipal wastewater solids feeds are
+compared.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-4
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,50 @@
+optimized for steam production. Hence, while steam turbine CHP system electrical efficiency64 may
+seem very low, it is because the primary objective is to produce large amounts of steam. The effective
+electrical efficiency65 of steam turbine systems, however, is generally very high, because almost all the
+energy difference between the high pressure boiler output and the lower pressure turbine output is
+converted to electricity. This means that total CHP system efficiencies66 are generally very high and
+approach the boiler efficiency level. Steam boiler efficiencies range from 70 to 85 percent HHV
+depending on boiler type and age, fuel, duty cycle, application, and steam conditions.
+
+   Table 4-2. Backpressure Steam Turbine Cost and Performance Characteristics*
+                                                                  System
+           Steam Turbine Parameters67
+                                                    1               2              3
+  Nominal Electricity Capacity (kW)                       500              3,000           15,000
+                                                                                         Industrial,          Industrial,                                                                Industrial, PRV  Typical Application                                                                universities,       universities,                                                            application                                                                                  hospitals          hospitals
+  Equipment Cost ($/kW)68                              $668            $401           $392
+  Total Installed Cost ($/kW)69                             $1,136            $682           $666
+ O&M Costs ($/kW)70                                   $0.010            $0.009          $0.006
+  Turbine Isentropic Efficiency (%)71                       52.5%           61.2%          78.0%
+  Generator/Gearbox Efficiency (%)                     94%           94%          96%
+  Steam Flow (lbs/hr)                                     20,050           152,600         494,464
+   Inlet Pressure (psig)                                    500             600            700
+   Inlet Temperature (° Fahrenheit)                          550             575            650
+  Outlet Pressure (psig)                                   50             150            150
+  Outlet Temperature (° Fahrenheit)                        298             373           379.7
+ CHP System Parameters                               1               2              3
+  Boiler Efficiency (%), HHV                           80%           80%          80%
+   Electric Efficiency (%), HHV72                           6.27%           4.92%          7.31%
+  Fuel Input (MMBtu/hr)                                     27.2             208.3           700.1
+  Steam to Process (MMBtu/hr)                               19.9             155.7           506.8
+  Steam to Process (kW)                                    5,844            45,624         148,484
+  Total CHP Efficiency (%), HHV73                        79.60%          79.68%         79.70%
+
+
+64 Net power output / total fuel input into the system.
+65 (Steam turbine electric power output) / (Total fuel into boiler – (steam to process/boiler efficiency)).
+66 Net power and steam generated divided by total fuel input.
+67 Characteristics for “typical” commercially available steam turbine generator systems provided by Elliott Group.
+68 Equipment cost includes turbine, gearbox, generator, control system, couplings, oil system (if required), and packaging; boiler
+and steam system costs are not included.
+69 Installed costs vary greatly based on site-specific conditions; installed costs of a “typical” simple installation were estimated
+to be 50-70% of the equipment costs.
+70 Maintenance assumes normal service intervals over a 5 year period, excludes parts.
+71 The Isentropic efficiency of a turbine is a comparison of the actual power output compared to the ideal, or isentropic, output.
+It is a measure of the effectiveness of extracting work from the expansion process and is used to determine the outlet
+conditions of the steam from the turbine.
+72 CHP electrical efficiency = Net electricity generated/Total fuel into boiler. A measure of the amount of boiler fuel converted
+into electricity.
+
+
+Catalog of CHP Technologies                         4–10                           Steam Turbines

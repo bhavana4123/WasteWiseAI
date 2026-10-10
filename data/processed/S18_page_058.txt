@@ -1,0 +1,51 @@
+sulfur was not required for our process but that nitrification would be required in conjunction
+with aerobic digestion to handle the ammonia.
+
+The wastewater treatment technology described here deviates significantly from current corn
+ethanol plants, which strive toward zero-liquid-discharge designs [64]. Such plants may have
+aerobic digesters or even simple reverse-osmosis systems on internal recycle streams. The
+deviation in wastewater treatment technology here reflects the challenges inherent in cleaning up
+inorganics (fertilizer, etc.) that are found on the non-food portion of a food crop and corrosive
+chemicals added in the front end to overcome lignocellulosic biomass recalcitrance.
+
+3.6.2 Design Basis
+The wastewater treatment system was designed by Harris Group and Brown and Caldwell under
+the 2010 subcontract mentioned above. The design includes anaerobic digestion, aerobic
+digestion with nitrification, sludge dewatering, and reverse osmosis. Additional details can be
+found in the subcontract report [65]. The relevant design parameters of the wastewater system
+are summarized in Table 22. Some of these quantities were adjusted from what was determined
+by laboratory analysis to avoid artificially overdesigning the system for the rich fermentation
+media components and high suspended solids in the sample.
+
+                    Table 22. Wastewater Treatment System Design Basis
+                    Hydraulic load                      2.15 MMgal/d
+                  Wastewater inlet temperature       50°C
+                         Inlet pH                             5.2
+                     Total COD                      87 g/L
+                    Soluble COD                    85 g/L
+                     Total solids                     68 g/L
+                     Total suspended solids              1.5 g/L
+                     Total alkalinity                     2,750 mg/L as CaCO3
+                Ammonia-N                       1,060 mg/L
+                     Total Kjeldahl N                    1,200 mg/L
+                     Sulfate                            4,400 mg/L
+                        Silica                             1,600 mg/L
+                  Potassium                      500 mg/L
+                  Phosphate                      805 mg/L
+
+Upsets (including unusual suspended solids, fouling, etc.) and other intermittent loads (e.g., from
+process spills) were not considered in the design. Rain and snow run-off, equipment washing,
+and other non-process wastewater are assumed to flow to a municipal wastewater treatment
+system. Insoluble organic compounds like cellulose, xylan, and protein are assumed inert in
+anaerobic digestion, although these are largely removed upstream in the stillage lignin separator
+(Area 500). BC indicated that these solid components could be handled in WWT for roughly the
+same capital cost, but additional operating costs due to nitrification requirements of the protein
+fraction were prohibitive.
+
+The process flow is detailed in PFD-A120-A601 and PFD-A120-A602 (Appendix E). The
+pressed stillage water, condensed pretreatment flash vapor, boiler blowdown, and cooling tower
+blowdown are mixed together and pumped through a heat exchanger (H-602) and cooled to
+35°C. The cooled stream then flows directly to the anaerobic digester (T-606).
+
+
+                                      48

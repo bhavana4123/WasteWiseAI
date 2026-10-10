@@ -1,0 +1,32 @@
+          Figure 3-4. Effect of Part Load Operation on Electrical Efficiency
+
+
+
+
+
+                 Source: Solar Turbines, Mars 10051
+
+3.4.4  Effects of Ambient Conditions on Performance
+3.4.4.1   Ambient Air Temperature
+The ambient conditions under which a gas turbine operates have a noticeable effect on both the power
+output and efficiency. At elevated inlet air temperatures, both the power and efficiency decrease. The
+power decreases due to the decreased air flow mass rate (the density of air declines as temperature
+increases), and the efficiency decreases because the compressor requires more power to compress air
+of higher temperature. Conversely, the power and efficiency increase when the inlet air temperature is
+reduced. Figure 3-5 shows the variation in power and efficiency for the nominal 7.5 MW Solar Taurus 70
+gas turbine as a function of ambient temperature. ISO rating conditions for gas turbines are at sea level
+and 59 °F. Compared to this rating point, power output drops to 80 percent at 100 °F and increases to
+107 percent at 40 °F. The corresponding efficiency effects are down 8 percent and up 2 percent for 100
+and 40 °F respectively. The effects of ambient temperature on output and efficiency need to be
+considered in the design and evaluation of a gas turbine CHP system because in many parts of the
+country, electric prices are highest in the summer when performance of the system is at its lowest.
+
+
+
+
+
+51 “Mars 100 Gas Turbine Generator Set”, Solar Turbines A Caterpillar Company.
+https://mysolar.cat.com/cda/files/126902/7/ds100pg.pdf
+
+
+Catalog of CHP Technologies                         3–10                         Combustion Tubines

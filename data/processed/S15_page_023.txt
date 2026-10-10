@@ -1,0 +1,63 @@
+TA 6M: Waste Heat Recovery
+
+
+
+
+             Condenser units (heat exchangers) that replace water with air to reduce the cost of cooling towers and
+           liquid cooling systems.
+
+             Waste heat exchangers designed for fast startup, low-thermal stresses, low cost, and compact size.
+
+              Evaporator section heat exchangers with “de-fouling” for glass and other particle-laden exhaust streams.
+
+             Turbo machinery with variable area inlet nozzles for high turndown.
+
+          A working fluid pump design with optimized efficiency for vapor compression. The exact design
+           features will vary with the commonly used working fluids used in Rankine cycle systems. The unit
+        may include alternates to the pump design, and could potentially crossover into CO2 compression for
+           sequestration.
+
+             Heat recovery recuperators—advanced design and analysis methods to improve thermal stresses for
+            fast startup.
+
+   Table 6.M.10 summarizes specific barriers to WHR, and the RD&D opportunities identified in the report that
+   are needed to overcome those barriers to technology adoption.
+
+
+       Table 6.M.10 RD&D Opportunities and Barriers Addressed1,4
+
+
+                                        Barriers Addressed19
+
+
+
+                                         of
+                                                                                            End-                     and                                                                                      Payback                   of            Transfer                                                                                 Costs                                                 LongPeriods    MaterialConstraintsand        MaintenanceCosts       EconomiesScale   LackUse   HeatRates         EnvironmentalConcerns   ProcessControlProductQuality   Process-SpecificConstraints        Inaccessibility
+
+    Develop low-cost, novel materials
+     for resistance to corrosive                                              x       x    contaminants and to high
+    temperatures
+
+    Economically scale down heat                                      x       x               x    recovery equipment
+
+    Develop economic recovery
+    systems that can be easily cleaned                                                      x      x              x     after exposure to gases with high
+    chemical activity
+
+    Develop novel manufacturing
+    processes that avoid introducing
+    contaminants into off-gases in                 x       x                             x        x         x
+    energy-intensive manufacturing
+    processes
+
+    Develop low-cost dry gas cleaning                                              x       x                     x      x        x    systems
+
+    Develop and demonstrate low-
+    temperature heat recovery
+    technologies, including heat pumps            x                      x
+    and low-temperature electricity
+    generation
+
+
+
+ 22  Quadrennial Technology Review 2015

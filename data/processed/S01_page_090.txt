@@ -1,0 +1,53 @@
+POTATO, WHITE; solid; proximate analysis: moisture, 79.5%; carbohydrates, 16.7%;
+    protein, 2%; fiber, 0.4%; ash, 0.8%; fat, 0.1%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 1526 Btu I
+    q,(gross)  = 848 cal g-
+    qv(gross) = 3548 J g-'
+
+   specific heat: at 303 K (86OF), with a moisture content (W)range of 0.23 to 0.83 wt.
+    fraction.
+   (W > 0.50)                                     (0.50 > W > 0.20)
+   Cp(Btu Ib-l  OF-')    = 0.216 + 0.780 W     Cp(Btu lb-I   OF-')        0.393 + 0.437 W
+   Cp(cal              1     = 0.216 + 0.780 W     Cp(cal q-'  K-l)     = 0.393 + 0.437 W           g-' K-
+   Cp(l g-  K-l)       = 0.904 + 3.264 W    Cp(3 g-  K-l)       = 1.644 + 1.828 W
+
+                                                   55MER/WAT; 70YAM
+
+RICE; Oryza sativa; solid; white; polished; 12.9% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 6937 Btu  Ib;'
+    qv(gross) = 3854 cal g-
+    q,(gross)  = 16125 J g- 1
+
+                                                     55MERlWAT
+
+RICE, FULLY FINISHED (ITALIAN ORIGIN); solid; Grain has fat content of 0.4%-2.0%.
+   The relationship between the grain and the moisture content was determined. One
+    third of the samples were not conditioned, one third were conditioned by adding
+    distilled water and equilibrating for one week, and the rest were dried in a vacuum
+   over CaC12 until they reached their respective moisture contents.  Moisture content
+   was determined by drying triplicate ground samples in a ventilated oven at 113°C
+   (235°F) for 4 hours.
+
+    specific heat: straight line regression equations for the relation between the specific
+    heat and moisture content where C  is apparent specific heat and M is moisture
+                                P
+    content (%I.The apparent specific heat of water [C (w)] was calculated from the                                                P
+    equation for M  100%.
+
+   Cp  0.009 M + 0.282 Btu lb-'  OF-'
+                             5-1  C  - 0.009 M + 0.282 cal g-'     P -
+  C    0.038 M + 1.180 3 g-  K-     P
+   C (w)  1.182 Btu lb-l  OF-'     P
+   C (w)= 1.182 cal     P
+    C,(W) = 4.946 1 g
+
+                                                               54HAS
+
+
+                                         96

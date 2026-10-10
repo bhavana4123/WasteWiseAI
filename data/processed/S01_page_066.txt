@@ -1,0 +1,59 @@
+Biomass-Derived Materials
+
+
+CELLULOSE; solid; Substance is microcrystalline and a calorimeter calibration test
+   substance, very homogeneous, 99.81% pure, and easily pelletized.  Trade name Avic  I
+  (FMC Corporation); pH = 5.5  t o 7; lot 1018-152 is an acid hydrolyzed derivative of a
+                                                                                                                                                   _+ 0.060 (sd.);    dissolving grade of wood pulp. The 96 moisture of 7 samples = 4.910
+   average concentration of water soluble impurities (fluoride, chloride, nitrate, and
+    sulfate) was 62.46 ppm. The formula for Avicel combustion is C6H1005(c) + 602(g) +
+   6C02(g) + 5H20(liq), and formula weight = 162.1439 g/mole.
+
+   gross heat of combustion: temperature = 28°C (82°F); 9 measurements made;
+   correction for heat of wetting was made; mean value is given with estimated
+   uncertainty.
+
+    q,(gross)   7460.17 ? 4.577 Btu lb;'
+    q,(gross)  = 4144.54 f 2.543 cal g-
+    q,(gross)  = 17340.76 f 10.64 J g-'
+
+                                                            8lCOL/XIH
+
+CELLULOSE DIACETATE; solid; repeating unit: Cl0Hl0O7; density, 1.36 g cm-'  at 20°C
+   (68OF); 0.04% ash.
+
+   gross heat of combustion: assume values refer  t o room temperature.
+
+    qv(gross)  8003.2 Btu Ib;]
+    q,(gross)  = 4446.2 c a l g-
+    q,(gross)  = 18602.9 J g-l
+
+                                                        57TAV/LAM
+
+CELLULOSE, HOLOCELLULOSE; FROM LOBLOLLY PINE WOOD; Pinus taeda; solid;
+    total water-insoluble carbohydrate constituents of loblolly pine wood; 7 I. 18%
+   holocellulose [68McM]; repeating unit: C6H o05.
+
+    specific heat: 333-413 K (14O0-284"F); samples were oven-dried at 100°C (212°F) for
+   12 hours before measurements were made.
+
+   Cp(Btu Ib-I  OF-')    = 0.23558 + 5.5 x     T
+               K-')     = -0.01724 + 9.9 x    T   Cp(cal q1
+   Cp( J g-  K-l)       = -0.07213 + 4.14 x lom3T
+
+                                                          70McM
+
+CELLULOSE TRIACETATE; solid; repeating unit: C 12H 1608.
+
+   gross heat of combustion: assume values refer to room temperature.
+                              1    q,(gross)    8120.7 Btu Ib-
+    q,(gross)  = 451 1.5 cal g-l
+    q,(gross)  = 18876.1 J g-'
+
+                                                         57TAV/LAM
+
+
+
+
+
+                                       68

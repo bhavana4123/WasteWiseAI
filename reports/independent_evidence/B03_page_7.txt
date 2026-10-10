@@ -1,0 +1,73 @@
+Environments 2018, 5, 84                                                                                    7 of 13
+
+
+and 19.2 ± 0.65 MJ/kg, respectively. The physical properties of the biomass between the two sites
+were not too different, except that the samples at the tissue plant had a somewhat higher ash content
+(1.8 ± 0.5% db vs. 1.06 ± 0.3% db at the UBC site). Table 2 lists the ultimate analysis and proximate
+analysis results, indicating that the fuel’s speciﬁcations were within the expected values.
+
+
+            Table 1. Properties of fuel based on samples taken at University of British Columbia.
+
+
+                                    Moisture       Bulk Density    Ash Content     Caloriﬁc Value
+              Parameter
+                                 Content (% wb)        (kg/m3)         (% db)           (MJ/kg)
+
+               Average                   26.8                150.7               1.06               19.20
+           Standard deviation               4.3                 17.3                0.28                0.65
+          Coefﬁcient of variation            0.15                 0.11                0.27                0.03
+
+                                       wb: wet basis; db: dry basis.
+
+                            Table 2. Ultimate and proximate analysis of fuel.
+
+
+                  Parameter     Measured Value (%)    Expected Range from Gasiﬁer Specs (%)
+
+                       Volatiles                 83.0                            70–85
+                 Fixed carbon              16.5                            15–25
+                  Carbon                 54.6                            48–52
+                Hydrogen                5.80                             5–6
+                 Oxygen                 39.0                            36–44
+                   Nitrogen                0.09                               <0.2
+                   Sulphur                 0.02                             <0.025
+                    Chlorine                0.04                             <0.025
+
+
+3.2. Syngas Composition
+
+     Visual observations and lab results show that no char or unburnt biomass remained in the ash
+collected from the UBC gasiﬁer. Thus, only results relevant to syngas and tar production are presented
+in this section and the following section.
+     Table 3 lists the average, minimum, and maximum concentrations of the syngas components (H2,
+CH4, CO, CO2) for the two sampling techniques used at the tissue plant. During each sampling event,
+syngas was collected using sampling bags. Insigniﬁcant differences in the syngas composition were
+observed for the two methods. Moreover, the syngas caloriﬁc value of 3.7 MJ/m3 on day 1 was in the
+neighbourhood of 4.1 MJ/m3 measured on day 2.
+
+
+        Table 3. Comparison of gas composition using the impingers and CE-O sampling techniques.
+
+
+                         CEN/TS 15439 Method                 CE-O Device
+              Species
+                      Ave    StdDev   Min    Max     Ave    StdDev   Min    Max
+
+             H2         9.1        0.5        8.4        9.9        8.0        1.2        6.0        9.8
+              O2         0.7        0.6        0.3        2.1        0.7        0.4        0.3        1.3
+             N2        57.3        1.9       54.6       61.3       57.2        2.3       53.7       61.7
+            CH4        1.3        0.3        0.8        1.9        2.0        0.5        1.1        2.7
+           CO        19.8        2.0       16.7       21.9       20.1        1.6       18.0       22.7
+            CO2        11.9        0.7       10.8       12.7       12.0        0.8       10.7       13.2
+
+
+    The UBC gasiﬁcation system was routinely managed to ensure the gasiﬁer bed temperature
+remained relatively constant between 875 and 1050 ◦C as fuel moisture content varied from 20% to
+35% wb, and this was achieved by raising the ER from 0.11 to 0.22 in order to increase the O2 level and
+hence promote the combustion reaction.
+
+Syngas Composition and Fuel Properties
+
+    Figure 5 highlights the variability in parameters from the UBC gasiﬁer. The plot of syngas
+component concentrations vs. MC shows that as MC increases from 20% to 35%, CO concentration

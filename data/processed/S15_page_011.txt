@@ -1,0 +1,55 @@
+TA 6M: Waste Heat Recovery
+
+
+   Engineering Scoping Study of Thermoelectric Generator (TEG)
+   Systems for Industrial Waste Heat Recovery14
+
+      The Engineering Scoping Study of Thermoelectric Generator (TEG) Systems for Industrial Waste
+      Heat Recovery14 report evaluated waste heat recovery opportunities for TEG systems in industrial
+       applications, focusing on opportunities in the glass, ethylene, iron and steel, and aluminum industries.
+      Three processes were selected as case studies to explore the potential for TEG waste heat recovery:
+       glass furnaces (905°–2,550°F), aluminum Hall-Hèroult cells (~1,760°F), and reverberatory furnaces
+       (~1,400°F). These applications have high potential for TEG waste heat recovery, as they have high-
+      temperature waste heat discharges and are in many cases poorly suited for conventional fluid-to-fluid
+       heat exchange operations. The study found that:
+
+                   Waste heat recovery systems based on existing TEG materials with a figure of merit (ZT) of
+           ~1 are not generally cost effective for waste heat recovery in industrial applications. Device
+                efficiency rarely exceeds 5% at this level of performance. However, if ZT values could be
+             boosted to ZT=2 or higher, a business case could be made in many industries.15
+
+                    Energy conversion efficiencies as high as 20% may be possible for TEG systems with a hot-side
+             temperature of at least 1340°F (1000 K) and a ZT value of at least 2. (For further discussion of
+         TEG energy efficiency and materials, see the QTR technology assessment 6.G, Direct Thermal
+             Energy Conversion Materials, Devices, and Systems.)
+
+                    Within the industries considered, an estimated 10 TBtu of energy could be saved annually
+             through the application of TEG technologies with ZT=2.
+
+     To realize these benefits, key identified R&D needs include the development of advanced
+       thermoelectric materials (with ZT=2 or higher), high-performance heat exchange surfaces, high-heat-
+       flux interface materials, and cost-effective manufacturing techniques for TEG modules.
+
+
+
+  Comments on the Engineering Scoping Study of Thermoelectric Generator (TEG)
+  Systems for Industrial Waste Heat Recovery14 for the purposes of this Technology
+  Assessment:
+
+  The lack of moving parts in thermoelectric generators holds the promise of reduced operation and maintenance
+   costs and longer times between failures. These potential benefits make thermoelectric generators important
+   to consider for industrial WHR applications. Estimates of energy recovery potential from thermoelectric
+   technologies have varied depending on assumptions. The Direct Thermal Energy Conversion Materials, Systems
+  and Devices Technology Assessment (6.G) estimated a potential savings of 6.5 to 16 TWh of electrical energy
+   annually, which is 0.9 to 2.3% of the 710 TWh of onsite electrical energy used at manufacturing plants (based
+  on 2010 data). This is 1.5–3.7% of the 430 TWh of waste heat predicted for the 2,470 TWh worth of annual
+   industrial energy consumption in the Waste Heat Recovery: Technology and Opportunities in U. S. Industry
+   report.4 The utilization of thermoelectrics for WHR in industrial settings will require not only materials
+  advances to achieve sufficient ZT, but also durable devices with systems and operating costs low enough to
+   provide a return on investment.
+
+
+
+
+
+ 10  Quadrennial Technology Review 2015

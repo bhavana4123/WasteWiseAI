@@ -1,0 +1,47 @@
+3.2.4 Enzymatic Hydrolysis Process Design
+Because deacetylation significantly reduced acetate inhibition, hydrolysate solid-liquid
+separation and subsequent washed-solid processing are also no longer required. The whole-slurry
+hydrolysate is conditioned with ammonia for subsequent enzymatic hydrolysis. Consistent with
+the experimental data discussed above, the enzyme loading was 19 mg protein/g cellulose for
+Run 4, but varied from 19–33 mg protein/g cellulose for the other runs. Neutralized PCS,
+enzyme, media, and sufficient water are combined to achieve 20% TS loading in the
+saccharification tank, for a total of 84 h (3.5 days) and maintained at 48°C. Although most of the
+enzymatic hydrolysis runtime during the pilot-scale demonstration occurred in the HSEHR, the
+hydrolysate liquefied significantly in the first 24 h, indicating that the 24-h residence time in a
+high solids continuous reactor assumed in the techno-economic model prior to transfer to a lower
+cost stirred tank batch reactor is a valid—and perhaps conservative—assumption. On-site
+enzyme production is assumed using parameters consistent with the 2011 design report. After
+enzymatic hydrolysis is complete, the hydrolyzed material is cooled prior to fermentation.
+Cellulose conversion results for the past several SOT cases are summarized in Table 10. FY
+2009 and FY 2010 SOTs were based on washed solids and 40 mg/g enzyme loading and thus
+achieved good cellulose conversion. Yield decreased in FY 2011 when whole slurry enzymatic
+hydrolysis was employed even at an enzyme loading of 40 mg/g, since the background sugars
+present in whole slurries inhibit enzyme hydrolysis. In the FY 2012 SOT, the removal of acetate
+before enzymatic hydrolysis and use of better enzyme preparations improved cellulose
+conversion. The economic impact of the slight cellulose-to-glucose yield reduction in FY 2012
+compared to FY 2011 is offset by the lower enzyme loading (19 mg/g versus 40 mg/g).
+
+               Table 10. Cellulose-to-Glucose Yields From Enzymatic Hydrolysis
+
+                               FY 2009   FY 2010   FY 2011   FY 2012                 % TS                              SOT      SOT     SOT     SOT
+
+                       15%        –       90%       –         –
+              Whole-slurry     17.5%       –       86%     83%        –
+                       20%     83%      84%     79%      78%*
+               * Yield is based on demonstration Run 4 data for FY 2012 SOT base case modeling. However, cellulose-
+            to-glucose yields ranged from 78%–92% in the pilot-scale demonstrations, shown in Table 7.
+
+
+3.2.5 Fermentation Process Design
+The fermentation proceeds at 33°C and a pH of 5.8 using an engineered fermentative bacterium.
+The fermentation residence time is 36 h (1.5 d). Table 11 summarizes the fermentation
+performance at 20% total solids, using corn steep liquor (CSL) as the only fermentation nutrient
+source. The combined saccharification and fermentation time remain the same as in the FY 2011
+case (5 days), as confirmed in the pilot-scale demonstration runs. Finally, the assumed CSL
+loading is 0.25%.
+
+
+
+
+
+                                      19

@@ -1,0 +1,52 @@
+    •  Combined cycle power plants – The trend in power plant design is to generate power with a gas
+        turbine and use the exhaust heat to generate steam that provides additional power through a
+       steam turbine. Such combined-cycle power plants are capable of achieving electric generation
+         efficiencies of over 50 percent. For large industrial CHP applications, an extraction-condensing
+       type of steam turbine can be used in a combined cycle plant with the steam turbine extracting a
+        portion of the steam for process use. There are many large independent power producers (IPP)
+        using combined cycle power plants operating on natural gas to provide power to the electric
+        grid and steam to one or more industrial customers.
+
+4.3   Technology Description
+4.3.1  Basic Process
+The thermodynamic cycle for the steam turbine is known as the Rankine cycle. This cycle is the basis for
+conventional power generating stations and consists of a heat source (boiler) that converts water to
+high pressure steam. In the steam cycle, water is first pumped to elevated pressure, which is medium to
+high pressure, depending on the size of the unit and the temperature to which the steam is eventually
+heated. It is then heated to the boiling temperature corresponding to the pressure, boiled (heated from
+liquid to vapor), and then most frequently superheated (heated to a temperature above that of boiling).
+The pressurized steam is expanded to lower pressure in a turbine, then exhausted either to a condenser
+at vacuum conditions, or into an intermediate temperature steam distribution system that delivers the
+steam to the industrial or commercial application. The condensate from the condenser or from the
+industrial steam utilization system is returned to the feedwater pump for continuation of the cycle.
+
+4.3.2 Components
+A schematic representation of a steam turbine power system is shown in Figure 4-1.
+
+                    Figure 4-1. Boiler/Steam Turbine System
+
+                                                     Steam
+
+                                                                                     Turbine
+
+
+                                Fuel
+
+                                                                                  Power out
+
+                                           Boiler
+
+
+
+
+                                                                      Process or                                      Pump
+                                                                 Condenser
+
+
+
+                                                                    Heat out
+In the simple schematic shown, a fuel boiler produces steam which is expanded in the steam turbine to
+produce power. When the system is designed for power generation only, such as in a large utility power
+
+
+Catalog of CHP Technologies                          4–3                            Steam Turbines

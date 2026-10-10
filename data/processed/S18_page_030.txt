@@ -1,0 +1,49 @@
+In previous designs, the pretreated biomass was separated into washed solid and liquid fractions,
+and the liquor and wash water were conditioned by an “overliming” process in which the pH was
+increased from 1 to ~10 with lime and then readjusted to ~5 with additional sulfuric acid. The
+lime and sulfuric acid precipitated as gypsum, which was removed in another solid-liquid
+separation step. The conditioned liquid was then re-slurried with the cellulosic solids before
+enzymatic hydrolysis. In overliming, a significant amount of sugar in the liquor (as much as
+13%) could be lost to side reactions occurring at high pH or pressed out with the wet gypsum.
+The present design uses ammonia in place of lime to avoid these sugar losses. The high
+miscibility of ammonia also permits conditioning of the whole hydrolysate slurry and eliminates
+the solid-liquid separation steps. Fermentation studies have indicated that there is no benefit to
+over-conditioning at high pH when using ammonia, so the hydrolysate is simply adjusted to
+enzymatic hydrolysis pH in one step. While ammonia is considerably more expensive than lime,
+the economic benefits of reduced sugar loss and reduced capital cost make ammonia the more
+economic alternative [32]. It is also possible that the ammonia could reduce nitrogen
+requirements in fermentation, but this currently is not modeled.
+
+3.2.2 Design Basis
+The pretreatment reactor system includes a feedstock receiving system, followed by a vertical
+vessel with a long residence time for steam-heating and potential acid impregnation of the
+biomass, followed by the horizontal pretreatment reactor, which operates at a higher pressure and
+a short residence time. PFD-P120-A201 (Appendix E) shows the components in greater detail
+and PFD-P120-A202 shows the oligomer conversion and conditioning equipment. The
+horizontal reactor configuration was chosen because it permits tighter residence time distribution
+control than a vertical reactor. This is important in single-step, high-severity pretreatment to
+minimize “over-cooking” or “under-cooking” portions of the biomass, either of which would
+lower the overall yield.
+
+Milled corn stover is fed to the receiving bins at the inlet of the pretreatment reactor (M-201).
+The receiving bins are rectangular with a bottom-drag conveyor that moves the feedstock pile
+inside the bin toward the doffing rolls (special scraper shafts with radial pins that spread material
+uniformly onto the discharge belt conveyor). The receiving bins also have a top rake-belt
+installed just under the bin cover to move incoming material toward the end of the bin, ensuring
+first-in/first-out material handling. At the discharge of each bin, the transfer conveyor (C-201)
+lifts material to the distribution screw conveyor (C-202), which supplies slightly (~10%) more
+feedstock than each pin drum feeder requires. Overfeeding allows the speed of the pin drum
+feeders to control the flow rate of material into each plug screw feeder. It also ensures that the
+plug screw feeders maintain a maximum fill. The excess feedstock is conveyed back to the
+storage bin by a series of screw conveyors (C-203).
+
+Each pin drum feeder (M-202) packs feedstock material into separate plug screw feeders (M-
+203). The 26-in. plug screw feeder is a rugged, high-compression screw device designed to form
+a pressure-tight plug of material through axial compression. The compression action in each plug
+screw feeder may also squeeze out water and some of the water-soluble extractive components.
+This “pressate” could be handled as a separate, concentrated waste stream but in the present
+model, it is assumed that the pressate is recombined with the hydrolysate at the outlet of the
+reactor. Dilute sulfuric acid is injected at the discharge spool of the plug screw feeder. Feedstock
+drops from the plug screw discharge into a mixing and heating screw (C-204). The heating screw
+
+                                      20

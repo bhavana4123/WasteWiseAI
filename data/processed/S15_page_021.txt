@@ -1,0 +1,71 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.9 Limitations of Currently Available WHR Technologies, Medium Temperature Ranges1
+
+
+   Equipment             Limitations and Barriers
+
+
+
+                                                  Lack economic justification for exhaust gas temperature below 1,000°F in many cases
+
+                                                   Economically justifiable heat recovery efficiency limit of 40% to 60%
+
+                                                High maintenance when used with gases containing particulates, condensable vapors, or    Metallic recuperators                              combustible material
+
+                                                    Fouling of heat transfer surfaces
+
+                                                         Difficulty in maintaining or cleaning the heat transfer surfaces
+
+                                                Lower heat recovery efficiency (usually less than 30%)
+
+                          Recuperative burners       Limited size availability (usually for burners with less than 1 MM Btu/hr)
+
+                                                Cannot be applied to processes where exhaust gases contain particles and condensable vapors
+
+                                                       Seal failure between the high-pressure and low-pressure gases (air)
+
+                                                    Plugging of exhaust gas passages when the gases contain particulates
+    Rotary regenerators                               High pressure drop compared to recuperators
+
+                                                  Maintenance and operation reliability concerns for rotary mechanism
+    Shell and tube heat      Fouling of heat transfer surfaces when the gases contain particulates or condensable liquids
+                          exchanger for heating      Condensation of moisture at selected cold spots and resulting corrosion
+    liquid (water)
+
+
+  While the above tables show limitations and barriers by temperature range, an alternative approach would be to
+  develop a matrix according to the type of equipment available in the market. Key considerations would include
+    its application range (i.e., temperatures and heat source characteristics); performance level; and limitations with
+   respect to industrial applications.
+
+  Technology Opportunities for Various Temperature Ranges1
+
+  R&D opportunities have been categorized according to the temperature regimes at which waste heat is available.
+   All of these are focused on improving the efficiency of WHR and cost reduction through improved lower-cost
+   materials, reduced maintenance, improved design, and other such factors.
+
+  Opportunities for High and Ultra-High Temperature Waste Heat Sources
+
+  R&D opportunities for both high temperature waste heat sources (1,200°F – 1,600°F), and ultra-high
+  temperature waste heat sources (>1,600°F) include the following:
+
+             Heat recovery systems that can handle high-temperature gases with solids and condensable
+          contaminants. These systems can also have internal cleaning systems to enable long-term continuous
+          operation without major maintenance time for cleaning or rebuilding. The systems can be recuperative
+          or regenerative.
+
+              Materials that can withstand high temperatures and chemical reactions with the waste heat source and
+          the cyclic nature of waste heat in terms of mass flow rates, temperature, or composition. These materials
+            will enable increased life-span heat recovery systems, such as ceramic recuperators.
+
+             High-temperature phase change materials that can be used by high-temperature heat recovery systems
+          to reduce the size of the system and allow tolerance of the cyclic nature of the waste heat source.
+
+               Selective coatings or laminations that are compatible with base materials of construction and can
+          withstand specific contaminants and combustibles in the waste gas streams.
+
+
+20  Quadrennial Technology Review 2015

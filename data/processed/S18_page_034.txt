@@ -1,0 +1,49 @@
+              Table 7. Research Status and 2012 Targets in the Pretreatment Area
+                                           2008        2009        2010       2012
+                                               State of      State of      State of    Targets
+                                        Technology  Technology  Technology
+ Pretreatment
+  Solids loading (wt %)                     30%       30%       30%      30%
+  Xylan conversion to xylose (%)              75%       84%       85%      90%
+  Xylan conversion to furfural (%)              11%        6.4%       8%      5%
+ Conditioning
+ Ammonia loading (g/L of hydrolysate)             13          10            4.8          4.8
+  Hydrolysate solid-liquid separation                yes          yes          yes        no
+  Xylose sugar loss (% entering conditioning)      2%       2%       2%      1%
+  Glucose sugar loss (% entering conditioning)     1%       1%       1%      0%
+
+In NREL’s pretreatment research, significant improvements in the conversion of xylan to xylose
+by dilute-acid pretreatment were demonstrated at the bench scale in 2007, where conversions of
+75% or higher were routinely achieved in bench-scale batch reactors [36]. Efforts to duplicate
+these results in continuous pilot-scale operation in 2008 proved more challenging. Continuous
+pretreatment is more difficult than batch pretreatment because process conditions (residence time
+in particular) cannot be as tightly controlled. Experiments in NREL’s 200 kg/day continuous
+horizontal pretreatment reactor indicated a xylan-to-xylose conversion limit of ~60% in that
+reactor configuration, though total conversion to monomeric and oligomeric xylose was around
+75%. The mild secondary oligomer conversion step was therefore added to convert the oligomers
+to monomeric xylose without generating additional degradation products, meeting the 2008
+xylose target of 75%.
+
+In 2009, the internals of the horizontal reactor were modified to tighten its residence time
+distribution [37]. Optimization of the operating conditions between the two stages met 2009
+targets with an overall xylan-to-xylose conversion of 79.6% with 6.4% loss to furfural.
+Remaining oligomers were 9.0%, leaving 5% of the xylan unreacted [38]. Further process
+optimization in 2010 showed little improvement over these conversions but additional xylose
+yield was obtained in enzymatic hydrolysis using an advanced cellulase preparation that has
+xylanase and “xylooligomerase” activities. In washed-solids enzymatic hydrolysis, the advanced
+enzyme preparation converted an additional 82% of the unreacted xylan to xylose. Overall, an
+85.3% yield of monomeric xylose was achieved from all thermochemical and enzymatic
+processes in 2010 experiments [39].
+
+The targeted enzymatic conversion of xylan and xylose oligomers described above is quite
+promising [40]. It could eliminate the secondary oligomer conversion step used in our design
+and, in general, permit lower-severity pretreatments that yield more xylose oligomers and fewer
+degradation products. Lower-severity pretreatments have relaxed residence time control
+requirements and may be able to utilize lower-cost vertical reactor configurations. (Vertical
+pretreatment reactors are typically less expensive than horizontal reactors with the same
+throughput because they have less complex internals, though reduced severity will probably not
+eliminate the need for exotic reactor cladding on acid-wetted surfaces.) Additionally, lower
+pretreatment severity would result in lower energy requirements and reduced chemical costs,
+including reduced cleanup in wastewater treatment.
+
+                                      24

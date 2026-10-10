@@ -1,0 +1,46 @@
+                                                 Woody and Tree Materials
+
+
+ASH, WHITE; Fraxinus americana;solid; Material came from various locations in New
+   Hampshire.  Bole samples were composed of cross sections taken from four positions
+   along length of each tree (at the base, one-third, two-thirds, one at top of the stem).
+   Branch samples were composed of cross sections taken from four positions along
+    length of each of four branches (one branch from four positions in the live crown of
+   the tree).  Bark was removed from half of each bole and branch sample and all
+   samples were oven-dried at 85°C (185'F)  to a constant weight.
+
+   gross heat of combustion: Assume values refer to room temperature, thermochemical
+    calorie used and values were expressed on a dry matter basis and adjusted for heat of
+   formation of nitric acid.  All tests were made at 99% confidence level and numbers in
+   parentheses are standard errors.
+
+   bole with bark                           branch with bark
+
+                                                                    (128)                                 1                                                       q,(gross)  =            =                                                               Btu    qv(gross)             8433                    (108)                       Btu                                                 8654                                                                   1P-'                                                     =                                                    4808                                                                            g-                                                                     (71) cal                                            P-'                 q,(gross)                                g-    qv(gross)                 (60)            = 4685                       cal
+    q,(gross)  = 19602 (251) J g-l                   q,(gross)   201 17 (297) J g-l
+
+   bole without bark                        branch without bark
+
+    q,(gross) = 8395 (59) Btu lb-I                  q,(gross)  = 8680 (175) Btu Ib-I
+    q,(gross) = 4664 (33) cal g-l                   q,(gross)  = 4822 (97) cal g-'
+    q,(gross)  = 190514 (138) J g-l               qv(gross) = 20175 (406) J g-l
+
+    foliage
+    q,(gross)  = 8638 Btu lb- 1
+    qv(gross) = 4799 cal g-l
+    qv(gross) = 20079 J g-l
+
+                                                                        8 1MUS/HOC
+ASH, WHITE; Fraxinus americana; solid; air-dried at 105'-110"C  (221 "-230°F); density,    0.63 g cm- .
+    specific heat: 273-379 K (3Z0-223OF)
+
+   Cp(Btu Ib-I  OF-')    = 0.327   Cp(cal g-1 K -1 1                       = 0.327
+   Cp(J g-  K-l)       = 1.368
+
+                                                          12DUN
+
+
+
+
+
+                                        235

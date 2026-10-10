@@ -1,0 +1,47 @@
+of the salt. However, attention is required to possible contamination of the glycerol by the salt,
+which may influence the purification, applicability, and market potential of the glycerol. The
+salts may possess different properties, including retention, relative to glycerol.
+
+For application of the acid-base concept to the organic chemistry of fats and oils, biodiesel, and
+the transesterification reaction, it is important to recall that fatty acids are acids (organic acids
+are often termed carboxylic acids), although rather weak ones. The important functionality in the
+fatty acid molecule is -COOH. The proton can dissociate to give -COO- and H+. Thus fatty acids
+can also form salts, in which the H+ is replaced by some cation such as Na+ or K+. Such salts of
+fatty acids form the basis of soaps, as described earlier.
+
+Fatty acids can also form esters, i.e. react with an alcohol, for example, methanol:
+
+              O              O
+                                                  ||                                                   ||
+                  R--C-OH + CH3OH → R--C-OCH3 + H2O.
+
+The italicized and bolded parts of the equation indicate which parts are exchanged. Actually in
+the esterification of the acid with methanol, it is OH- that is exchanged for CH3O-. Thus, under
+the right conditions, a carboxylic acid can give off either H+ or OH-. It is also possible to
+transform one ester into another:
+
+            O                O
+                                            ||                                                          ||
+             R—C-OCH3 + C2H5OH → R--COC2H5 + CH3OH.
+
+However as most carboxylic acids, including fatty acids, and alcohols are very weak acids and
+bases, stronger acids or bases need to be added to their mixture to achieve a reaction. These acids
+or bases function as the catalysts.
+
+Catalysts
+
+Two of the most commonly used catalysts for transesterification are NaOH and KOH. These
+catalysts operate by reacting with the alcohol according to the reaction given below (written
+using methanol and NaOH but other alcohols and catalysts could be substituted).
+
+         CH3OH + NaOH → CH3O-Na + H2O                        (Eq. 1)
+
+Similar to H2O “consisting” of H+ and OH-, CH3O-Na can be seen as consisting of
+CH3O- (alkoxide; alkylate) and Na+. CH3O- is the species that attacks the ester moieties in the
+glycerol molecule in the following fashion:
+
+
+
+
+
+                                      19

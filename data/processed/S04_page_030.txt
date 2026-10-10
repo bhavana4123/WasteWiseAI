@@ -1,0 +1,40 @@
+pressure, raising its temperature to the auto-ignition temperature of the fuel that is injected at high
+pressure.
+
+Engines are further categorized by crankshaft speed in revolutions per minute (rpm), operating cycle (2­
+or 4-stroke), and whether turbocharging is used. Reciprocating engines are also categorized by their
+original design purpose, such as automotive, truck, industrial, locomotive and marine. Hundreds of
+small-scale stationary power, CHP, irrigation, and chiller applications use automotive engine models.
+These are generally low-priced engines due to the economies of scale of large production volumes.
+Truck engines have the cost benefit of production volume and are designed for a reasonably long life
+(e.g., one million miles). A number of truck engines are available as stationary engines. Engines intended
+for industrial use are designed for durability and for a wide range of mechanical drive and electric power
+applications. Their sizes range from 20 kW up to 6 MW, including industrialized truck engines in the 200
+to 600 kW range and industrially applied marine and locomotive engines above 1 MW.
+
+There are 2-cycle engines in stationary power applications, particularly in standby service. However,
+most spark ignition and the diesel engines relevant to stationary power generation applications
+complete a power cycle in four strokes of the piston within the cylinder as shown in Figure 2-1.
+
+1.  Intake stroke – introduction of air (diesel) or air-fuel mixture (spark ignition) into the cylinder.
+2.  Compression stroke – compression of air or an air-fuel mixture within the cylinder. In diesel engines,
+    the fuel is injected at or near the end of the compression stroke (top dead center or TDC), and
+    ignited by the elevated temperature of the compressed air in the cylinder. In spark ignition engines,
+    the compressed air-fuel mixture is ignited by an ignition source at or near TDC.
+3.  Power stroke – acceleration of the piston by the expansion of the hot, high pressure combustion
+    gases.
+4.  Exhaust stroke – expulsion of combustion products from the cylinder through the exhaust port.
+
+                 Figure 2-1. 4-Stroke Reciprocating Engine Cycle
+
+
+
+
+
+Source: http://www.globalspec.com/learnmore/motion_controls/engines_components/industrial_engines
+
+
+
+
+
+Catalog of CHP Technologies                          2–4                         Reciprocating IC Engines

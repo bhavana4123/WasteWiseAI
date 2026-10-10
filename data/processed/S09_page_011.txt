@@ -1,0 +1,49 @@
+                       2. Basic Organic Chemistry
+
+As demonstrated in the preceding chapter, biodiesel production involves many chemical
+processes. In order to facilitate comprehension of the organic chemistry underlying biodiesel, its
+feedstocks, production and analysis, we will introduce some basic chemistry definitions. Some or
+parts of some definitions given here are taken from Webster’s Third New International
+Dictionary, published by Merriam-Webster, Springfield, MA, 1993.
+
+Basic Chemistry
+
+Chemistry is the science that deals with the composition, structure, and properties of substances
+and of the transformations that these substances undergo. In most cases, those transformations
+are called reactions.
+
+More than 100 elements are now known and most of them occur naturally. An element is a
+substance that cannot be separated into simpler substances by ordinary chemical means.
+Elements are arranged in a systematic fashion based on their atomic numbers (see definition
+below) and properties in the periodic table.
+
+An atom is the smallest particle of an element that can exist either alone or in combination with
+similar particles (other atoms) of the same or of a different element. It is the smallest particle of
+an element that enters into the composition of molecules (which leads us to the definition of a
+molecule below). An element is comprised exclusively of atoms having the same atomic
+number. The atoms of each element have a specific atomic weight, which is the average
+relative weight of an element as it occurs in nature referred to some element taken as standard.
+Atoms are composed of protons, electrons and neutrons, which are responsible for the atomic
+weight. The nucleus of an atom consists of the protons and neutrons. The nucleus is the bulk of
+the weight of the atom. Electrons are smaller and lighter and they orbit the nucleus. It is very
+important that a proton has a positive charge and an electron has a negative charge. The number
+of protons, neutrons and electrons that comprise an atom give the atom its properties and
+ultimately the properties of the element. Thus, the element with one proton (and one electron) is
+hydrogen. “Adding” another proton (and electron as well as neutrons) gives the next element
+(helium), etc. Carbon has six protons and six electrons while oxygen has eight protons and
+electrons.
+
+A molecule is the smallest particle of an aggregate of at least two connected atoms of either the
+same or different elements and has a combination of properties (chemical and physical) that is
+specific to it. Each molecule has a molecular weight, which is the weight of the molecule
+calculated as the sum of the atomic weights of its constituent atoms.
+
+A compound is a chemically distinct substance formed by the union of two or more ingredients
+(as elements) in definite proportion by weight and with definite structural arrangement.
+
+A mole is the quantity of a chemical substance that has a weight in mass units (in grams)
+numerically equal to the molecular weight or that in the case of a gas has a volume occupied by
+such a weight under specified conditions (as 22.4 liters at 0ºC and a pressure of 760 millimeters
+
+
+                                       7

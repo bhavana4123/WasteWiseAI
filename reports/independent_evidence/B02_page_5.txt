@@ -1,0 +1,55 @@
+Processes 2020, 8, 1407                                                                                      5 of 14
+
+
+
+3. Results and Discussion
+
+3.1. Distribution of Product
+
+     In the ﬁeld of biomass fast pyrolysis, reaction temperature and heating rate are considered
+to be the most important parameters to determine product distribution [21]. Therefore, this work
+investigated the inﬂuence of pyrolysis temperature and sawdust feeding rate on the distribution and
+characteristics of products under the conditions of atmospheric pressure and a nitrogen carrier gas
+ﬂow rate of 15 L/min. The increase in feeding rate at the same reaction temperature resulted in the
+increase in heating rate. Figure 2 shows the variations in the yield of bio-oil, biochar, and gas products
+with pyrolysis temperature. In this work, pyrolysis temperature was taken as the average of three
+temperatures, i.e., T3, T4, and T5, in the inner tube of the reactor shown in Figure 1. The yield of
+bio-oil showed a maximum value of 60.3 wt% at 444 ◦C, and then decreased steadily with increasing
+temperature. Meanwhile the yield of gaseous product increased continuously from 18.3 wt% at the
+lowest temperature of 426 ◦C to 38.7 wt% at the highest temperature of 528 ◦C examined. The yield
+of biochar product with pyrolysis temperature showed an opposite trend to gaseous product with a
+higher decrease at a lower temperature range between 426 and 457 ◦C. It can be said that most of the
+enhanced fraction of gaseous product with increasing temperature above 444 ◦C was attributed to the
+gasiﬁcation of organic compounds in bio-oil vapor. This gasiﬁcation reaction probably occurred in the
+downstream zone of the inner tube reactor and in the free board. In a related work using a circulating
+ﬂuidized bed reactor, Xianwen et al. [28] found that a higher temperature contributed to secondary
+reactions such as gasiﬁcation, resulting in a decrease in bio-oil yield. The biochar product was obtained
+from the two collection systems (reactor bottom and cyclone).
+
+              70
+                                                                                  bio-oil
+                                                                         char              60
+                                                                      gas
+
+              50
+                        (wt%)
+              40
+                        Yield              30
+
+
+              20
+
+
+              10
+                420     440     460     480     500     520
+                             Pyrolysis Temperature (oC)
+
+     Figure 2. Eﬀect of pyrolysis temperature on the product distribution for fast pyrolysis of wood sawdust
+      (0.8 kg/h feeding rate, 15 L/min N2 carrier gas ﬂow rate).
+
+    As shown in Figure 3, most of the total biochar was obtained from the reactor bottom collector
+over the temperature range examined. A higher pyrolysis temperature seems to give a slightly lower
+yield of biochar product from the reactor bottom collector with 89 wt% at 426 ◦C and 79 wt% at 528 ◦C.
+These data demonstrate the fact that the double-tube type of ﬂuidized bed reactor, employed in this
+work, is able to greatly reduce the load of biochar in the cyclone present after the bubbling ﬂuidized
+bed (BFB) reactor. Furthermore, this type of pyrolysis reactor can eﬀectively control the ﬂuidized bed

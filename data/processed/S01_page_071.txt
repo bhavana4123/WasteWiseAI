@@ -1,0 +1,57 @@
+                                                         Biomass-Derived Materials
+
+
+
+SULFITE LIQUOR, SPENT; aqueous; calcium and magnesium base waste liquor from
+   pulping of wood by sulfite process; gaseous sulfur dioxide, 2%-4%; aqueous sulfite,
+   2%-7%; aqueous sulfate, 2%-5%; solids, 80%-90%; also lignin sulfonate, calcium and
+   magnesium compounds, and carbohydrates.
+
+   gross heat of combustion: assume value refers to room temperature.
+
+   55% solids non-neutralized spent liquor      fermented and stripped liquor
+    qv(gross) = 8100 - 8370 Btu lbil               qv(gross) = 8460 - 8775 Btu Ib-I
+    q,(gross) = 4500 - 4650 cal g-                  qv(gross) = 4700 - 4875 cal g-'
+    qv(gross) = 18800 - 19500 J g-'                   q,(gross)  = 19700 - 20400 J g-l
+
+                                                            69HUL
+
+TANNIN EXTRACT, CHESTNUT;solid; dry powder obtained from concentrated solution
+   produced from treatment of chestnut chips with water.
+
+    specific heat: 298 K (77°F)
+
+  C (Btulb-I  OF-')     = 0.2889   Cp(calP  q15-l)                       = 0.2889
+   Cp(J g- K         = 1.2088
+
+                                                         55KAN
+
+TANNIN EXTMCT, QUEBRACHO, solid; dry extract from a wood-derived tannin; tannin
+   obtained from Aspidosperma quebrucho and Quebracho Zorentri imported as logs f rorn
+    Argentina.
+
+    specific heat: 298 K (77°F)
+
+   Cp(Btu Ib-l  OF-')     = 0.3152
+   Cp(cal   5-l)    = 0.3152     q1
+   Cp(J g-  K          = 1.3188
+
+                                                          55KAN
+
+XYLAN, solid; repeating unit: C,Hx04; polysaccharide which of ten occurs in association
+   with cellulose; xylose is the repeating unit; occurs in large amounts (20%-40%) in
+   cereal straws and brans.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 7637.0 Btu  lb;'
+    q,(gross)  = 4242.8 cal g-
+    q,(gross)  = 17751.9 J g-l
+
+                                                            23KAR/FIO
+
+
+
+
+
+                                      73

@@ -1,0 +1,47 @@
+                    131       156       157       160         170       171      172
+Total Flow lb/hr       1226      374       11342     11342       9742      9742     9742
+Temperature F        140       60        491       533         90        132      350
+Pressure  psia        28        450       15        17          15        18       16
+Vapor Frac           1         1         1         1           1         1        1
+Mass Flow  lb/hr
+ N2                 0         2         7216      7216        7214      7214     7214
+ O2                 0         0         368       368         2210      2210     2210
+ AR                 0         0         123       123         123       123      123
+ CO2                1126      4         2433      2433        5         5        5
+ H2O               0         0         1202      1202        190       190      190
+ NH3                0         0         0         0           0         0        0
+ CH4                37        368       0         0           0         0        0
+ C2H6               12        0         0         0           0         0        0
+ C3H8               4         0         0         0           0         0        0
+ N-C4H10            34        0         0         0           0         0        0
+ N-PENTAN           12        0         0         0           0         0        0
+ HEXANE            0         0         0         0           0         0        0
+ METHANOL          0         0         0         0           0         0        0
+ ETHANOL           0         0         0         0           0         0        0
+ ACETONE           0         0         0         0           0         0        0
+ ACEACID            0         0         0         0           0         0        0
+ PROACID            0         0         0         0           0         0        0
+ ETHAMIN           0         0         0         0           0         0        0
+ 2-PYRRLD           0         0         0         0           0         0        0
+ 2-PIPERD            0         0         0         0           0         0        0
+ 7-LACTAM           0         0         0         0           0         0        0
+ C5H9NS             0         0         0         0           0         0        0
+ TOLUENE           0         0         0         0           0         0        0
+ RYRO3ETM          0         0         0         0           0         0        0
+ PHENO4M           0         0         0         0           0         0        0
+ AMIPHENO          0         0         0         0           0         0        0
+ INDOLE             0         0         0         0           0         0        0
+ 2-PYTENE           0         0         0         0           0         0        0
+ C15OLEF            0         0         0         0           0         0        0
+ MC12AMID          0         0         0         0           0         0        0
+ C16AMIDE          0         0         0         0           0         0        0
+ C18AMIDE          0         0         0         0           0         0        0
+ C16:0FA            0         0         0         0           0         0        0
+ C18:1FA            0         0         0         0           0         0        0
+ C13H18             0         0         0         0           0         0        0
+ HEVOIL1            0         0         0         0           0         0        0
+ HEVOIL2            0         0         0         0           0         0        0
+Enthalpy, mmBtu/hr    -4.45       -0.78      -15.04      -14.91        -1.09       -0.99      -0.46
+
+
+                                    A.5

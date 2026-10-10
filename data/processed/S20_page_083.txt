@@ -1,0 +1,56 @@
+                                     - Compound Selection
+
+C.1 HTL Liquid Products Composition
+
+   HTL organic products are a complex mixture of hundreds of compounds. The number and type of
+compounds used in the Aspen model to represent HTL oil and the associated aqueous phase must
+reasonably match key properties, such as CHONS, density, heating value, GC/MS data, expected HTL oil
+distillation range, and aqueous solubility. The compounds chosen for the Aspen model are shown in
+Table C.1. Note that this list does not imply that these compounds occur in the given percentages in
+actual HTL oil, rather each compound represents a group of compounds that taken together exhibit the
+bulk properties. Carbon dioxide and ammonia in the aqueous phase actually form their ionic species in
+various amounts and types, including NH4+, NH2COO-, HCO3-, CO32-. For simplification purposes, ion
+formation is not simulated in the HTL model but their pure original compounds are considered.
+
+
+                   Table C.1. Compounds used to model HTL liquid products.
+
+                                    Heat & Mat'l
+         HTL Oil                Balance Names    Wt%    C   H  O   N     S      CAS
+N-methylthiopyrrolidone          C5H9NS           4.167%    5    9          1      1   10441-57-3
+Toluene                   TOLUENE         2.986%    7    8                      108-88-3
+1H-Pyrrole, 3-ethyl-2,4,5-trimethyl-  RYRO3ETM       5.284%    9   15          1          520-69-4
+Phenol, 4-methyl-             PHENO4M         0.459%    7    8    1                 106-44-5
+3-methyl-4-aminophenol         AMIPHENO        0.919%    7    9    1     1          2835-99-6
+Indole                      INDOLE           5.513%    8    7          1          120-72-9
+3,7,11,15-tetramethyl-2-Hexadecene  2-PYTENE         6.892%   20   40                      3452-07-1
+1-Pentadecene                 C15OLEF          6.892%   15   30                      13360-61-7
+N-Methyldodecanamide          MC12AMID        5.973%   13   27    1     1          27563-67-3
+Palmitamide(Hexadecanamide)     C16AMIDE        5.513%   16   33    1     1          629-54-9
+9-Octadecenamide, (Z)-          C18AMIDE       11.486%   18   35    1     1          301-02-0
+Palmitic acid (n-Hexadecanoic acid)   C16:0FA           7.811%   16   32    2                 57-10-3
+Oleic-acid                      C18:1FA          11.257%   18   34    2                 112-80-1
+Naphthalene, 1,2,3,4-tetrahydro-
+1,1,6-trimethyl-                 C13H18           9.189%   13   18                       91-20-3
+Triphenylformazan              HEVOIL1          9.915%   19   16          4          531-52-2
+Dibenzyl-sebacate              HEVOIL2          5.743%   24   30    4                 140-24-9
+                                               100.000%
+
+HTL Aqueous Phase                      wt%     C  H  O  N    S    CAS
+Methanol                 METHANOL       2.347%    1    4    1                 67-56-1
+Ethanol                   ETHANOL         0.391%    2    6    1                 64-17-5
+Acetone                   ACETONE         0.196%    3    6    1                 67-64-1
+Acetic acid                  ACEACID         2.347%    2    4    2                 64-19-7
+propanoic acid                PROACID         1.173%    3    6    2                 79-09-4
+CO2                      CO2             68.178%    1         2                 124-38-9
+NH3                      NH3             15.646%         3          1          7664-41-7
+Ethyl-amine                 ETHAMIN         1.956%    2    7          1          75-04-7
+Triphenylformazan              HEVOIL1          2.738%   19   16          4          531-52-2
+N-METHYLTHIOPYRROLIDONE                    5.028%    5    9          1      1   10441-57-3
+                                               100.000%
+
+
+
+
+
+                                            C.1

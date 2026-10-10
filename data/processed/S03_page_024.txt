@@ -1,0 +1,43 @@
+5- day MCRT
+The 5-day MCRT operational period was from 3/3/07 to 3/17/07 (almost 3 MCRTs), and neither
+digester was restarted during this time.
+
+3.2   Temperature
+
+For digester process stability, it is critical to maintain a consistent digester sludge temperature.
+Abrupt temperature fluctuations can quickly destabilize a digester. During this study the target
+temperatures for the mesophilic and thermophilic digesters were around 35 and 50°C,
+respectively.
+
+Temperatures were monitored continuously. The digester temperatures remained relatively
+stable except for a few incidences when the immersion heater failed, causing the temperature in
+the water bath to drop, which affected the digester temperature. In Table 3.2 the temperature
+data is summarized for both the mesophilic and thermophilic digesters for two target temperature
+operating periods.
+
+Table 3.2. Bench-scale Anaerobic Food Waste Digester Temperature Summary.
+   Operating       Mesophilic Digester Temp,      Thermophilic Digester Temp,
+     Period                °C                        °C
+             AVG       STD. DEV.     AVG       STD. DEV.
+     No. 1           35.22            1.14            50.09            0.40
+     No. 2           35.54            0.97            52.10            0.39
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+
+Operating Period No. 1 refers to the period when the thermophilic digester target temperature
+was approximately 50ºC, and the feed to both digesters was refrigerated. Operating Period No. 2
+refers to the period when the thermophilic digester temperature was increased to approximately
+52ºC, during the 10-day MCRT operating period, and the feed to each digester was at room
+temperature. The increases in feed temperature and thermophilic operating temperature were
+made to minimize digester temperature fluctuations during feed cycles and to maintain the
+minimum thermophilic digester temperature slightly above the target of 50ºC.
+
+Figure 3.2 presents the digester temperatures during the study.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                              9
+Funding Opportunity No. EPA-R9-WST-06-004

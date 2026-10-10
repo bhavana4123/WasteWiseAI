@@ -1,0 +1,63 @@
+The ash content of biomass is typically much less than     sents the maximum amount of energy that can be ob­
+that of coals, but some forms have a high ash content,     tained from combusting the fuel and is a necessary
+as shown in Table 3-3. This can lead to ash melting     value for calculating the efficiency of gasification. The
+(known as "slagging"), which can cause severe     high heating value (HHV) is measured in this test, since
+problems in some gasifiers. A standard ASTM method     liquid water is produced; however, the low heating
+is available for measuring the slagging temperature for     value (LHV) is more relevant to the amount of energy
+ash (Table 3-1).                                       produced, and this can be calculated from the HHV
+                                                      value shown in TableThe higher heating value of the fuel is determined by                             4-l.
+reacting the fuel with oxygen in a bomb calorimeter and    The heat of combustion is determined by the composi­
+measuring the heat released to a known quantity of     tion of the biomass and in fact can be calculated with
+water. The heat released during this procedure repre­     considerable accuracy from
+
+
+
+
+                       Table 3-3. Proximate Analysis Data for Selected Solid Fuels
+                        and Biomass Materials (Dry Basis, Weight Percent)
+
+                                            Volatile MaHer (VM)        Fixed Carbon (FC)       Ash          Reference
+
+Coals
+   Pittsburgh seam coal                        33.9                       55.8                        1 0.3                      (1 )
+  Wyoming Elkol coal                         44.4                       51 .4                  4.2                    (1 )
+   Lignite                                    43.0                       46.6                 10.4                      (1 )
+Oven Dry Woods
+  Western hemlock                           84.8                                 1 5.0                   0.2                  (2)
+  Douglas fir                                 86.2                                 1 3.7                      0.1                  (2)
+  White fir                                   84.4                                 1 3.1                   0.5                   (2)
+  Ponderosa pine                             87.0                                 1 2.8                   0.2                   (2)
+  Redwood                                  83.5                          16.1                   0.4                   (2)
+  Cedar                                    77.0                       21 .0                   2.0                  (2)
+Oven Dry Barks
+  Western hemlock                           74.3                        24.0                        1 .7                 (2)
+  Douglas fir                                 70.6                       27.2                  2.2                  (2)
+  White fir                                   73.4                       24.0                   2.6                 (2)
+  Ponderosa pine                            73.4                       25.9                  0.7                  (2)
+  Redwood                                   71 .3                        27.9                   0.8                 (2)
+  Cedar                                     86.7                          13.1                   0.2                   (2)
+Mill Woodwaste Samples
+  -4 mesh redwood shavings                  76.2                       23.5                   0.3                  (3)
+  -4 mesh Alabama oakchips                   74.7                        21 .9                   3.3                 (3)
+Municipal Refuse and Major Components
+  National average waste                     65.9                              9.1                25.0                  (4)
+  Newspaper (9.4% of average waste           86.3                        12.2                         1 .5                  (4)                                                    )
+  Paper boxes (23.4%)                        81.7                        12.9                  5.4                   (4)
+  Magazine paper (6.8%)                      69.2                          7.3                23.4                   (4)
+  Brown paper (5.6%)                           89.1                          9.8                      1.1                   (4)
+Pyrolysis Chars
+  Redwood (790' to 1 020'F)                  30.0                       67.7                   2.3                 (2)
+  Redwood (800' to 1725'F)                   23.9                       72.0                     4.1                   (2)
+  Oak (820' to 1 135'F)                       25.8                       59.3                 14.9                   (2)
+  Oak (1060'F)                                 27.1                       55.6                        1 7.3                  (2)
+(1) Bituminous Coal Research, Inc. 1974. Gas Generator Research and Development, Phase II. Process and Equipment Development. OCR-20-F;
+   PB·235530/3GI.
+(2) Howlett, K. and Gamache, A. 1977. Forest and Mill Residues as Potential Sources of Biomass. Vol. VI. Final Report. McLean, VA; The Mitre
+   Corporation/Metrek Division; ERDA Contract No. E (49·18) 2081 ; MTR 7347.
+(3) Boley, C. C. and Landers. W. S. 1969, Entrainment Drying and Carbonization of Wood Waste. Washington, D.C.: Bureau of Mines; Report of
+    Investigations 7282.
+(4) Klass. D. L. and Ghosh, S. 1973. "Fuel from Organic Wastes."' Chemical Technology, p. 689.
+Source: Reed 1981
+
+
+                                                                                                 Gasifier Fuels      1 1

@@ -1,0 +1,56 @@
+                                                                                                                                                                                                                                                                                                                                                                    IWoody and Tree Materials
+
+
+SOUTHERN HARDWOOD, SAWMILL RESIDUE, FRESH; solid; Material is mixed sawdust
+   and bark residue coming directly from the mill (generated the same day) collected
+   from 6 mills around Baton Rouge, Louisiana. The average moisture content is 107%;
+   when moderately packed the average density   24.0 Ib green wt. ft-3.
+
+   gross heat of combustion: oven-dry weight, assume values refer to room
+   temperature, and value is an average.
+    q,(gross)  = 8017 Btu lb- I
+    q,(gross)   4454 cal g-l
+    q,(gross)    18635 J g-l
+
+                                                         76CAS/CHO
+
+SOUTHERN HARDWOOD, SAWMILL RESIDUE, PILED; solid; Material is mixed sawdust
+   and bark residue from hardwood trees after it has been piled and exposed t o the
+   weather, collected from 6 sawmills near Baton Rouge, Louisiana. The average
+   moisture content is 184%; average density   29.4 Ib ft-3.
+
+   gross heat of combustion: oven-dry weight; assume values refer to room
+   temperature, and value is an average.
+    q,(gross)  = 8046 Btu lb- 1
+    qv(gross).= 4470 cal g-l
+    qv(gross) = 18702 J g-'
+
+                                                         76CAS/CHO
+
+SPRUCE, BALSAM; Abies Zasiocarpa; solid; ultimate analysis: carbon, 5 I .4 1%; hydrogen,
+    6.41%; nitrogen,  I .44%; sulfur, 0.19%; ash, 3.07%; moisture, 3.76%; proximate
+    analysis as received: moisture, 74.35%; volatile matter, 20.20%; fixed carbon, 4.13%;
+    ash, 0.82%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    air-dried at 80°C (176'F)                  as received                             \
+    q,(gross)  = 9547 Btu Ib- 1                   qv(gross) = 2448 Btu Ib- 1
+                                                                        -1    qv(gross) = 5304 cal g-l                         q,(gross)    1360 cal    qv(gross) = 22 19 1 J g- 1                                                -5                                                qv(gross) = 5692 J g
+
+                                                                   68KAI/FRI
+
+SPRUCE, BLACK; BARK; Picea mariana; solid; gross heat of combustion determined on
+   1 g samples of air-dried bark; ash content = 2.0%; moisture content = 6.5%.
+
+    gross heat of combustion: assume values refer to room temperature; values not
+    corrected for moisture or ash contents; hence, are on an as-determined basis.
+
+    qv(gross) = 8246 Btu Ib;'
+    qv(gross) = 4581 cal g-
+    qv(gross) = 19167 J g-'
+
+                                                            55CHA/MIT
+
+
+                                         294

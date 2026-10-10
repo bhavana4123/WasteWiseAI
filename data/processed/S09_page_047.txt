@@ -1,0 +1,49 @@
+                5. Basic Plant Equipment and Operation
+
+The intent of the basic plant equipment and operation section is to discuss the principles behind
+the primary plant equipment that would be used in a biodiesel production facility. Included will
+be discussion of reactors (both batch and continuous types), pumps, centrifuges, and distillation
+columns. Although there will be additional equipment in the plant such as settlers, storage tanks,
+etc., the four classes of equipment discussed here represent the heart of the process.
+
+Reactors
+
+The reactor is the only place in the process where chemical conversion occurs. Therefore, it
+dictates what chemical species must be handled downstream of the reactor. Reactors can be
+placed into two broad categories, batch reactors and continuous reactors. Two of reactors within
+the continuous reactor category are continuous stirred tank reactors (CSTRs) and plug flow
+reactors (PFRs). In the batch reactor, the reactants are charged into the reactor at the determined
+amount. The reactor is then closed and taken to the desired reaction conditions (temperature,
+pressure, and stir rates). The chemical composition within the reactor changes with time. Once
+the prescribed reaction time is complete, the chemical contents of the reactor are removed and
+sent for subsequent processing. In contrast, continuous reactors have a steady flow of reactants
+into the reactor and products out of the reactor. Once a continuous flow reactor reaches steady-
+state operation, the product composition leaving the reactor becomes constant. For CSTRs, the
+reactants are fed into a well-mixed reactor. The composition of the product stream is identical to
+the composition within the reactor. Hold-up time in a CSTR is given by a residence time
+distribution. For PFRs, the reactants are fed into one side of the reactor. The chemical
+composition changes as the material moves in plug flow through the reactor. The residence time
+is defined by the length of time required for molecules to travel through the reactor.
+
+The most important considerations within a reactor are the extent of reaction of the reactants,
+which is known as conversion, and the selectivity of the reaction to the desired products, which
+is known as the selectivity. Key reactor variables that dictate conversion and selectivity are
+temperature, pressure, reaction time (residence time), and degree of mixing. In general,
+increasing the reaction temperature increases the reaction rate and, hence, the conversion for a
+given reaction time. However, if more than one reaction is taking place, the selectivity to the
+desired products can be impacted by changing the reaction temperature. In the transesterification
+reaction, the selectivity of the reaction is not negatively impacted by increasing temperature.
+Increasing temperature in the transesterification reaction does impact the operating pressure. The
+reaction is a liquid phase reaction, so the pressure in the reactor must be maintained at a level
+that keeps the methanol in the liquid phase. Therefore, as the reaction temperature is increased
+the pressure must also be increased. Another means to increase the conversion in a reactor is to
+increase the reaction time. For a given temperature, conversion will increase as the reaction time
+increases. Increasing the reaction time has the negative effect of decreasing the chemical
+throughput in a given plant or increasing the reactor size for a given chemical throughput. A final
+very important parameter in the reactor is the degree of mixing or mass transfer. For batch
+reactors and CSTRs the degree of mixing is directly related to the amount of energy introduced
+through the impeller. Increasing the speed of the impeller, which increases the energy input to
+the reactor, increases the degree of mixing, which improves the performance of the reactor. A
+
+
+                                      43

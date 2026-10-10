@@ -1,0 +1,45 @@
+There appeared to be a correlation between severe temperature fluctuations, and digester stability
+for both mesophilic and thermophilic digesters. As temperature increased or decreased for either
+the mesophilic or thermophilic digester, the volatile acids increased in response. By maintaining
+a steady temperature with minimal variations, digester operation became more stable. For the
+thermophilic digester, maintaining a minimum temperature above 50 ºC resulted in stable
+operation. For the mesophilic digester, maintaining a minimum temperature above 35 ºC
+resulted in stable operation. This is discussed in more detail in Section 3.5.
+
+3.3   pH
+
+To maintain a healthy population of methanogens, the pH in an anaerobic digester is typically
+maintained between 7 and 7.5. The pH is maintained by a balance between the acetogens and
+methanogens. Acetogens produce acid, and methanogens consume acid (increasing alkalinity) to
+produce methane gas. Therefore, if the acetogens outpace the methanogens, the pH will drop,
+which can inhibit methanogens, and ultimately lead to an upset, or ‘sour’ digester. The means to
+anticipate a significant pH drop is to monitor digester sludge volatile acids, alkalinity, and gas
+quality and production, which is discussed in subsequent sections. pH is not a sensitive
+monitoring process parameter, as a significant change may indicate it is too late to make
+adjustments to stabilize digester operation, and will most likely require a long period of time to
+recover.
+
+pH was monitored on a daily basis. For most of the study, the pH remained in a stable operating
+range between 7 and 8, which was consistent with the average pH of 7.44 during previous
+EBMUD bench-scale anaerobic digestion studies. There were a few occurrences when the
+digester pH dropped significantly, which indicated unstable operation and required restarting the
+digesters with new seed sludge from EBMUD’s full-scale digesters. Table 3.3 summarizes the
+digester pH data for each target MCRT operating period. Figure 3.3 shows daily pH for each
+digester.
+
+Table 3.3. Bench-scale Anaerobic Food Waste Digester pH Summary.
+ Target MCRT,    Mesophilic Digester pH      Thermophilic Digester pH
+      days       AVG       SD       AVG         SD
+      15             7.41          0.13           7.47             0.13
+      10             7.26          0.24           7.45             0.24
+       5             6.94          0.23           7.00             0.20
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               11
+Funding Opportunity No. EPA-R9-WST-06-004

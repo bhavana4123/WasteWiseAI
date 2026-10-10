@@ -1,0 +1,49 @@
+                Table 4-1. Summary of Steam Turbine Attributes
+                         Steam turbines are capable of operating over a very broad range of steam
+                               pressures. Utility steam turbines operate with inlet steam pressures up to 3500
+                                psig and exhaust at vacuum conditions as low as 2 psia. Steam turbines can be Thermal output                          custom designed to deliver the thermal requirements of the CHP application
+                            through use of backpressure or extraction steam at appropriate pressures and
+                             temperatures.
+                         Steam turbines offer a wide range of fuel flexibility using a variety of fuel sources
+                                  in the associated boiler or other heat source, including coal, oil, natural gas, Fuel flexibility                       wood and waste products, in addition to waste exhaust heat recaptured in a heat
+                             recovery steam generator.
+                         Steam turbine equipment life is extremely long. There are steam turbines that
+                           have been in service for over 50 years. When properly operated and maintained
+                                 (including proper control of boiler water chemistry and ensuring dry steam),
+ Reliability and life          steam turbines are extremely reliable with overhaul intervals measured in years.
+                              Larger turbines require controlled thermal transients as the massive casing heats
+                         up slowly and differential expansion of the parts must be minimized. Smaller
+                               turbines generally do not have start-up restrictions.
+
+
+4.2   Applications
+Steam turbines are well suited to medium- and large-scale industrial and institutional applications,
+where inexpensive fuels, such as coal, biomass, solid wastes and byproducts (e.g., wood chips), refinery
+residual oil, and refinery off gases are available. Applications include:
+
+    •  Combined heat and power – Steam turbine-based CHP systems are primarily used in industrial
+       processes where solid or waste fuels are readily available for boiler use. In CHP applications,
+       steam may be extracted or exhausted from the steam turbine and used directly. Steam turbine
+       systems are very commonly found in paper mills as there is usually a variety of waste fuels from
+      hog fuel to black liquor. Chemical plants are the next most common industrial user of steam
+        turbines followed by primary metals. There are a variety of other industrial applications
+        including the food industry, particularly sugar and palm oil mills.
+
+    •  Mechanical drive – Instead of producing electric power, the steam turbine may drive equipment
+       such as boiler feedwater pumps, process pumps, air compressors and refrigeration chillers. Such
+        applications, usually accompanied by process use of steam are found in many of the CHP
+        industries described above.
+
+    •   District heating and cooling systems – There are cities and college campuses that have steam
+         district heating systems where adding a steam turbine between the boiler and the distribution
+       system or placing a steam turbine as a replacement for a pressure reducing station may be an
+        attractive application. Often the boiler is capable of producing moderate-pressure steam but the
+        distribution system needs only low pressure steam. In these cases, the steam turbine generates
+         electricity using the higher pressure steam, and discharges low pressure steam into the
+        distribution system. Such facilities can also use steam in absorption chillers to produce chilled
+       water for air conditioning.
+
+
+
+
+Catalog of CHP Technologies                          4–2                            Steam Turbines

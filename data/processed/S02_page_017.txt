@@ -1,0 +1,50 @@
+                         Chapter 3
+                 Gasifier Fuels
+
+
+3.1  Introduction                                   in detail in the publications of the American Society
+                                                            for Testing Materials (ASTM), shown in Table 3-1. The
+Biomass fuels occur in a multitude of physical forms.    equipment necessary for performing elemental
+The often-heard manufacturer's claim that a particular     analysis is shown in Table 3-2. The proximate analysis
+ gasifier can gasify "any biomass fuel" is a naive state­
+ment, and each form can be expected to have unique
+problems until proven otherwise. This physical dis­                        o = Oxygen
+parity accounts in part for the large number of gasifier                                          = Hydrogen
+ designs available today. The gasifiers used widely                                                                                                    = Carbon                                                                 10,000                                HC
+during World War II used specially prepared 1x2x2 cm3                                                           8000        Calorifichardwood blocks. However, such blocks could repre­               Ii;                        Value ofthe                                                           6000                         dry fue/s sent only a tiny fraction ofthe biomass materials avail­     Ȗ  !IS
+ able for gasification. Some gasifiers currently are            4000,                                                                                                                  -;; ȕ
+                                                            2000undergoing design evolutions that will enable them to       Q.ȗ.;Uuse a wider range of fuels; nevertheless, fuel properties             O ՔՕ--------Ֆ՗__ʾ____ˀˁ__-J
+are very important in determining satisfactory operat­           100
+ing conditions. Therefore, these multifeedstock
+gasifiers will be able to use only a limited range of           80
+biomass with controlled specifications, and anyone in­        ""
+stalling       such            a gasifier                     should                         have                                       tests run                                  on the                                                       fuel             1;:OJ    .60ʿto  be used          before                deciding                    upon                            a purchase.                                 The                                                   ability
+                                                            40to specify fuel parameters is very important, and we                                                                                                                   3':'iii
+discuss them in this chapter. Fortunately, a wide
+variety of tests are available for biomass and charcoal            20
+gasifiers that can be useful to those interested in
+gasification.                                                                  o                                                                                                                                               "'                                                                                                                                      '0                                                                                        "'"                                                                                                                                               :J -                                                                                                                                         '"                                                                                    0                                                                     0                                                                                            '"J'l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       .͙Green wood can contain up to 50% water by weight, so                                                                                    0    .Q                                                                                                                                               <:0                                                                         U                                                                                                                                                              <:          Q.1ii"                                                                                                                 OJ                                                                                                                                                                                :Jits properties vary widely with moisture content. The                                               .<::e                                                            3':                                                                     E              ::J             "chemical composition of biomass (expressed on a dry,         (a)      C              '"               0ash-free basis) is more constant than that of the various                                                         iii
+coals (bituminous, anthracite, lignite) as shown in
+Fig. 3-1. Furthermore, more than 80% of the biomass
+is volatile. Coal is typically only 20% volatile; the
+remaining 80% is unreactive coke, which is more dif­
+ficult to gasify than charcoal. Biomass generally has
+very low sulfur and ash content compared to coal.
+However, unlike coal, biomass comes in a wide variety
+of physical forms, making it necessary to tailor the
+shapes of the gasifier, fuel-drying equipment, feed sys­
+tems, and ash-removal equipment to each form. There­
+fore, the resulting gasifier design must be very
+fuel-specific.
+3.2 Biomass Fuel Analysis                                                                                                :J .20                                                                                                                                                                                                                                            .<:: U
+                                                                          "   <:
+3.2.1 Proximate and Ultimate Analysis                                                           .Q                                                                                                                      a: o0
+Two types of analyses, proximate and ultimate, are use­
+                                                                         (b)ful for defining the physical, chemical, and fuel proper­
+ties of a particular biomass feedstock. These analyses
+                                                                                   Fig. 3-1. Elemental (ultimate) analysis of (a) coals and wood and (b)
+were initially developed for coal and are widely avail­      biomass fuels (Sources: Skov 1974, p. 35. (@1974. Used with permis­
+able from commercial laboratories. They are described      sion of Biomass Energy Foundation, Inc.) and Kaupp 1984a, Fig. 96)
+
+
+                                                                                                   Gasifier Fuels    9

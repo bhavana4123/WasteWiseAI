@@ -1,0 +1,46 @@
+Fossil Materials
+
+
+
+FUEL, AVIATION; liquid; petroleum fraction with B.P. range 175O-35OoC (347O-662'F)
+    (kerosine).  Military jet fuels labeled JP-3, JP-4, JP-5, etc. Commercial jet fuels
+    labeled as ASTM types A, A-1, or B.
+
+   net heat of combustion: A is the aniline point, in degrees Fahrenheit, identifying the
+   minimum equilibrium solution temperature for equal volumes of aniline and sample.
+  G is the API gravity defined as: API gravity (deg) = 141.5/(sp. gr, 60/60°F)-131.5.
+   Tables are provided in ASTM Specification D 1405 to calculate q  (net) if sulfur   impurities are known.                                     P
+
+   Aviation gasoline, Grades 100-1 30 and 1 15- 145:
+
+   q (net) = [18049 + 0.0833 (A x G)] Btu Ib-I    P   qp(net) = [lo027 + 0.0463 (A x GI1 cal q1
+   qp(net)  [41954 + 0.1938 (A x G)1 J g-
+
+   Jet fuels:
+
+      JP-3
+
+      q (net) = [17951 + 0.1057 (A x GI1 Btu 1P-l
+       qP(net) = 19973 + 0.0587 (A x GI] cal g-
+       qp(net)P     = 141728 + 0.2456 (A x G)] 3 g-l
+
+      JP-4
+
+      q (net) = r17989 + 0,1057 (A x G)] Btu I       P      q (net) = [9994 + 0.0587 (A x GI] cal g-
+      qp(net) = (41815 + 0.2456 (A x G)] J g-l
+       P
+      JP-5
+
+      q (net) = [17926 + 0.1057 (A x G)] Btu 1
+      P      q (net) = [9959 + 0.0587 (A x GI] cal g-      q P(net) = [41668 + 0.2456 (A x G)] J g-l
+      P
+   Kerosine, Jet A or A-1 (see ASTM Speciation I) 1655):
+   q (net) = [17932 + 0.10930 (A x G)]Btu lb- 1
+   P  q (net) = [9962 + 0.06072 (A x GI] cal g-l   P   q (net)  [41680 + 0.25407 (A x G)] J g-l   P
+                                                                68AST
+
+
+
+
+
+                                      108

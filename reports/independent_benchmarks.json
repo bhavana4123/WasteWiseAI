@@ -1,0 +1,94 @@
+[
+  {
+    "benchmark_id": "B01",
+    "doi": "10.3390/app12104822",
+    "publication_url": "https://doi.org/10.3390/app12104822",
+    "feedstock": "Pine wood; Mati et al. 2022",
+    "experimental_conditions": "1 kg/h bubbling fluidized bed; 500 C; 1 bar; reactor 0.6\u20131.1 s; hot zone 530 C, 1.4\u20131.9 s in Table 1; Table 8 instead reports hot residence 0.6\u20131.1 s and 10\u201312% feed water; fractional condensation",
+    "reference_output": 62.9,
+    "reference_unit": "kg liquid per 100 kg as-received feed (reported campaign average)",
+    "evidence_location": "PDF pp5,9,11,16\u201317; Tables 1,4,8, Eq1 and section3.5",
+    "original_pdf": "reports/independent_evidence/B01_fresh.pdf",
+    "source_not_used_to_populate_original_csvs": true,
+    "predicted_output": null,
+    "prediction_unit": null,
+    "engine_status": "NOT_APPLICABLE",
+    "error": null,
+    "validation_status": "NOT_VALIDATED",
+    "reason": "Generic dry-wood typical reference is not validated for this independent pine/condensation system. Reported mean has 88\u201395% mass closure and approximate moisture, not identical reference conditions.",
+    "reference_proxy_screens": [
+      {
+        "explicit_proxy_input": {
+          "waste_category": "Wood and forestry waste",
+          "waste_subtype": "Dry wood reference",
+          "quantity": 100.0,
+          "unit": "kg",
+          "moisture_pct": 10.0,
+          "desired_output": "bio-oil",
+          "technology_preference": null,
+          "parameter_id": "P0022",
+          "property_id": null,
+          "reference_mode": true
+        },
+        "engine_reference_result_kg": 67.5,
+        "signed_deviation_from_reported_mean_kg_per_100kg": 4.600000000000001,
+        "relative_deviation_pct": 7.313195548489669,
+        "meaning": "Approximate cross-study reference screen only; feed substitution and moisture interval acknowledged. This is not an accepted prediction of the experiment."
+      },
+      {
+        "explicit_proxy_input": {
+          "waste_category": "Wood and forestry waste",
+          "waste_subtype": "Dry wood reference",
+          "quantity": 100.0,
+          "unit": "kg",
+          "moisture_pct": 12.0,
+          "desired_output": "bio-oil",
+          "technology_preference": null,
+          "parameter_id": "P0022",
+          "property_id": null,
+          "reference_mode": true
+        },
+        "engine_reference_result_kg": 66.0,
+        "signed_deviation_from_reported_mean_kg_per_100kg": 3.1000000000000014,
+        "relative_deviation_pct": 4.928457869634342,
+        "meaning": "Approximate cross-study reference screen only; feed substitution and moisture interval acknowledged. This is not an accepted prediction of the experiment."
+      }
+    ]
+  },
+  {
+    "benchmark_id": "B02",
+    "doi": "10.3390/pr8111407",
+    "publication_url": "https://doi.org/10.3390/pr8111407",
+    "feedstock": "Pine sawdust; Ha and Lee 2020",
+    "experimental_conditions": "0.5\u20131 mm particles; 0.8\u20131.8 kg/h; 15 L/min N2; atmospheric pressure; maximum reported at 440 C",
+    "reference_output": 62.4,
+    "reference_unit": "% dry feed mass (reported maximum)",
+    "evidence_location": "PDF p1 abstract, p3 Table1, p5 section3.1 and conclusions",
+    "original_pdf": "reports/independent_evidence/B02_fresh.pdf",
+    "source_not_used_to_populate_original_csvs": true,
+    "predicted_output": null,
+    "prediction_unit": null,
+    "engine_status": "NOT_APPLICABLE",
+    "error": null,
+    "validation_status": "NOT_VALIDATED",
+    "reason": "440 C maximum is outside selected 500 C reference; other yields are graph-based and were not guessed or interpolated."
+  },
+  {
+    "benchmark_id": "B03",
+    "doi": "10.3390/environments5070084",
+    "publication_url": "https://doi.org/10.3390/environments5070084",
+    "feedstock": "Recycled wood chips; Oveisi et al. 2018 updraft",
+    "experimental_conditions": "8.5 MWth updraft plant; feed moisture 20.6\u201333.3% wet; temperature in sampling campaigns 875\u20131050 C; unlike historical downdraft runs",
+    "reference_output": null,
+    "reference_unit": "No comparable mass-specific dry producer-gas volume inspected",
+    "evidence_location": "PDF pp1,4,6\u20137; Tables1\u20133, section3.2",
+    "original_pdf": "reports/independent_evidence/B03_fresh.pdf",
+    "source_not_used_to_populate_original_csvs": true,
+    "predicted_output": null,
+    "prediction_unit": null,
+    "engine_status": "NOT_APPLICABLE",
+    "error": null,
+    "validation_status": "NOT_VALIDATED",
+    "reason": "Updraft/downdraft, moisture, output and gas volume basis differ. Section3.2 reports calorific values 3.7 and 4.1 MJ/m3 for two days, not a comparable verified HHV \u00d7 volume-yield pair."
+  }
+]

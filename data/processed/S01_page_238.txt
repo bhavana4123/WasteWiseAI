@@ -1,0 +1,45 @@
+                                W d y and Tree Materials
+
+
+JUNIPER, UTAH; FOLIAGE; Juniperus osteosperrna; solid; freeze-dried to < 10%
+   moisture content. Composition is ash = 4.22% and char yield = 24.5%.  Char was
+   obtained from heating the sample to 500°C (932'F)  in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                      char (from 500°C heating)
+    qv(gross)  10020 Btu 1                     qv(gross) = 13160 Btu 1
+   qv(gross) = 5560 cal g-                      qv(gross) = 7310 cal g-
+    q,(gross)  = 23280 f g-l                         q,(gross) = 30590 3 g-I
+
+                                                                 82SUS
+
+JUNIPER, UTAH; STEMS; Juniperus osteosperma; solid; Stem samples were branches less
+   than 0.25 in. diameter with foliage removed and freeze-dried to < 10% moisture
+   content.  Composition is ash = 6.05% and char yield = 26.2%.  Char was obtained from
+   heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                      char (from 500°C heating)
+    q,(gross) = 8890 Btu lb- 1                                                       q,(gross)  = 13310 Btu lb-I
+    q,(gross)  = 4940 cal g-'                         q,(gross) = 7390 cal g-l
+    q,(gross)  = 20660 J g-'                          q,(gross)  = 30930 J g-l
+
+                                                                 82SUS
+
+LARCH; Larix occidentalis; solid; W -2d was air-dried at room temperature.  Composition
+    is ash = 0.19% and char yield = 20.7%.  Char was obtained from heating the sample to
+   400°C (932'F)  in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                      char (from 500°C heating)
+
+             8530                   Btu    q,(gross)  =                                                     =                                                  13890                                                         Btu                                                                        1                                 lb-'                     qv(gross)                                                                                                         P-'            =                                                              cal                                                                      g-                                                        q,(gross)    q,(gross)                                                     = 7720             4740 cal                                g-'
+    q,(gross) = 19830 f g-'                          q,(gross)  = 32290 J g-'
+
+                                                                 82SUS

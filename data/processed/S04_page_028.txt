@@ -1,0 +1,48 @@
+2.2   Applications
+Reciprocating engines are well suited to a variety of distributed generation applications, and are used
+throughout industrial, commercial, and institutional facilities for power generation and CHP.
+Reciprocating engines start quickly, follow load well, have good part load efficiencies, and generally have
+high reliabilities. In many cases, having multiple reciprocating engine units further increases overall
+plant capacity and availability. Reciprocating engines have higher electrical efficiencies than gas turbines
+of comparable size, and thus lower fuel-related operating costs. In addition, the upfront costs of
+reciprocating engine gensets are generally lower than gas turbine gensets in sizes below 20 MW.
+Reciprocating engine maintenance costs are generally higher than comparable gas turbines, but the
+maintenance can often be handled by in-house staff or provided by local service organizations.
+
+2.2.1 Combined Heat and Power
+There are over 2,000 active reciprocating engine combined heat and power (CHP) installations in the
+U.S. providing nearly 2.3 gigawatts (GW) of power capacity8. These systems are predominantly spark
+ignition engines fueled by natural gas and other gaseous fuels (biogas, landfill gas). Natural gas is lower
+in cost than petroleum based fuels and emissions control is generally more effective using gaseous fuels.
+Reciprocating engine CHP systems are commonly used in universities, hospitals, water treatment
+facilities, industrial facilities, and commercial and residential buildings. Facility capacities range from 30
+kW to 30 MW, with many larger facilities comprised of multiple units. Spark ignited engines fueled by
+natural gas or other gaseous fuels represent 84 percent of the installed reciprocating engine CHP
+capacity.
+
+Thermal loads most amenable to engine-driven CHP systems in commercial/institutional buildings are
+space heating and hot water requirements. The simplest thermal load to supply is hot water. The
+primary applications for CHP in the commercial/institutional and residential sectors are those building
+types with relatively high and coincident electric and hot water demand such as colleges and
+universities, hospitals and nursing homes, multifamily residential buildings, and lodging. If space heating
+needs are incorporated, office buildings, and certain warehousing and mercantile/service applications
+can be economical applications for CHP. Technology development efforts targeted at heat activated
+cooling/refrigeration and thermally regenerated desiccants expand the application of engine-driven CHP
+by increasing the thermal energy loads in certain building types. Use of CHP thermal output for
+absorption cooling and/or desiccant dehumidification could increase the size and improve the
+economics of CHP systems in already strong CHP markets such as schools, multifamily residential
+buildings, lodging, nursing homes and hospitals. Use of these advanced technologies in other sectors
+such as restaurants, supermarkets and refrigerated warehouses provides a base thermal load that opens
+these sectors to CHP application.
+
+Reciprocating engine CHP systems usually meet customer thermal and electric needs as in the two
+hypothetical examples below:
+
+    •  A typical commercial application for reciprocating engine CHP is a hospital or health care facility
+       with a 1 MW CHP system comprised of multiple 200 to 300 kW natural gas engine gensets. The
+
+8 ICF CHP Installation Database. Maintained for Oak Ridge National Laboratory by ICF International. 2013. http://www.eea­
+inc.com/chpdata/index.html
+
+
+Catalog of CHP Technologies                          2–2                         Reciprocating IC Engines

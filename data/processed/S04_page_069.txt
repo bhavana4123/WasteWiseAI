@@ -1,0 +1,45 @@
+Fuels must have only low levels of specified contaminants in them (typically less than 10 ppm total
+alkalis, and single-digit ppm of sulfur).
+
+Liquid fuels require their own pumps, flow control, nozzles and mixing systems. Many gas turbines are
+available with either gas or liquid firing capability. In general, gas turbines can convert for use with one
+fuel to another quickly. Several gas turbines are equipped for dual firing and can switch fuels with
+minimal or no interruption.
+
+Lean burn/dry low NOx gas combustors generate NOx emissions levels as low as 9 ppm (at 15 percent
+O2). Liquid fuel combustors have NOx emissions limited to approximately 25 ppm (at 15 percent O2).
+There is no substantial difference in general performance with either fuel. However, the different heats
+of combustion result in slightly higher mass flows through the expansion turbine when liquid fuels are
+used, and thus result in a small increase in power and efficiency performance. In addition, the fuel pump
+work with liquid fuel is less than with the fuel gas booster compressor, thereby further increasing net
+performance with liquid fuels.
+
+3.4.8 Gas Turbine System Availability
+Operational conditions affect the failure rate of gas turbines. Frequent starts and stops incur damage
+from thermal cycling, which accelerates mechanical failure. The use of liquid fuels, especially heavy fuels
+and fuels with impurities (alkalis, sulfur, and ash), radiates heat to the combustor walls significantly
+more intensely than the use of clean, gaseous fuels, thereby overheating the combustor and transition
+piece walls. On the other hand, steady operation on clean fuels can permit gas turbines to operate for a
+year without need for shutdown. Based on a survey of 41 operating gas turbine systems shown in Table
+3-7, the average availability of gas turbines operating on clean gaseous fuels, like natural gas, is around
+95 percent.
+
+              Table 3-7. Gas Turbine Availability and Outage Rates
+                   Gas Turbines             0.5 to 3 MW    3 to 20 MW   20 to 100 MW
+            Systems Surveyed                  11            21             9
+                Availability, %                    96.12%        94.73%        93.49%
+             Forced Outage Rate, %             2.89%         2.88%         1.37%
+             Scheduled Outage Rate, %           0.99%         2.39%         5.14%
+             Source: ICF
+
+3.5   Emissions and Emissions Control Options
+3.5.1 Emissions
+Table 3-8 shows typical emissions for each of the five typical turbine systems. Typical emissions
+presented are based on natural gas combustion showing emissions before and after exhaust treatment
+using SCR and CO oxidation.
+
+
+
+
+
+Catalog of CHP Technologies                         3–16                         Combustion Tubines

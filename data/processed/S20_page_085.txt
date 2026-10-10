@@ -1,0 +1,41 @@
+                                       - Indices
+
+
+                         Table D.1. Labor indices.
+
+                         Source: Bureau of Labor Statistics
+                       Series ID:  CEU3232500008 Chemicals
+                Average Hourly Earnings of Production Workers
+                 Current indices @ http://data.bls.gov/cgi-bin/srgate
+YEAR              INDEX             YEAR              INDEX
+ 2005                        19.67                      2010                        21.07
+ 2006                        19.60                      2011                        21.46
+ 2007                        19.55                      2012                        21.45
+ 2008                        19.50                      2013                        21.40
+ 2009                        20.30                      2014                        21.49
+
+
+                       Table D.2. Capital cost indices.
+
+               Chemical Engineering Magazine, CEI annual index
+YEAR              INDEX             YEAR              INDEX
+ 1990                        357.6                      2004                        444.2
+ 1991                        361.3                      2005                        468.2
+ 1992                        358.2                      2006                        499.6
+ 1993                        359.2                      2007                        525.4
+ 1994                        368.1                      2008                        575.4
+ 1995                        381.1                      2009                        521.9
+ 1996                        381.7                      2010                        550.8
+ 1997                        386.5                      2011                        585.7
+ 1998                        389.5                      2012                        584.6
+ 1999                        390.6                      2013                        567.3
+ 2000                        394.1                      2014                        576.1
+ 2001                        394.3                      2015                        556.8
+ 2002                        395.6                      2016                        541.7
+ 2003                        402.0
+
+
+
+
+
+                                   D.1

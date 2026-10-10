@@ -1,0 +1,42 @@
+Energy’s Advanced Reciprocating Engine Systems (ARES) program. One of the goals of the program is to
+develop a 45 percent efficient (HHV) medium sized natural gas engine operating at 0.3 lb NOx/MWh (0.1
+g NOx/bhph).
+
+2.5.2.2   Post-Combustion Emissions Control
+There are several types of catalytic exhaust gas treatment processes that are applicable to various types
+of reciprocating engines. Table 2-10 shows the methods in use today, the applicable engine types, and
+the pollutant reduction achievable.
+
+            Table 2-10. Post-Combustion Exhaust Gas Cleanup Options
+                                         Applicable Engine     Typical Performance Reductions, %         Emission Control Technology                                         Type         CO   NMHC    NOx    PM
+         Diesel Oxidation Catalyst                                          Diesel                90      80       0       20        (DOC)
+         Catalyzed Diesel Particulate                                          Diesel                90      90       0      90+           Filter (DPF)
+         Non-selective Catalytic          Rich Burn Natural                                                        90      80      95       0        Reduction (NSCR)             Gas
+                                    Lean Burn Natural      NG Oxidation Catalyst                               95      95       0       0                                   Gas
+         Selective Catalytic Reduction    Lean Burn Diesel or                                                        0       0       95       0         (SCR)                           Natural Gas
+         Reference: Jay Warner and Gary Bremigan, System Solutions for Optimizing Exhaust Emission Control Systems,
+         Universal Acoustic & Emissions Control Technologies USA, 2010
+
+2.5.2.3   Oxidation Catalysts
+Oxidation catalysts generally are precious metal compounds that promote oxidation of CO and
+hydrocarbons to CO2 and H2O in the presence of excess O2. CO and non-methane hydrocarbon analyzer
+(NMHC) conversion levels of 95 percent are achievable. Methane conversion may approach 60 to 70
+percent. Oxidation catalysts are now widely used with all types of engines, including diesel engines. They
+are being used increasingly with lean burn gas engines to reduce their relatively high CO and
+hydrocarbon emissions.
+
+2.5.2.4   Diesel Particulate Filter
+While not an issue for spark ignition engines firing gaseous fuels, compression ignition engines fueled by
+diesel or heavy oil produce particulates that must be controlled. Diesel particulate filters can reduce
+over 90 percent of particulate (soot) emissions from diesel engines. There are a variety of filter materials
+and regeneration strategies used. Currently, there are no commercially available particulate control
+devices available for large, medium speed diesel engines.31
+
+2.5.2.5  Three–Way Catalyst (Non Specific Catalytic Reduction)
+The catalytic three-way conversion process (TWC) is the basic automotive catalytic converter process
+that reduces concentrations of all three major criteria pollutants – NOx, CO, and VOCs. The TWC is also
+
+31 Private Communication, Wartsila, January 2014.
+
+
+Catalog of CHP Technologies                         2–24                         Reciprocating IC Engines

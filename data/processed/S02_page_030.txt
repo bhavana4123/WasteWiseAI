@@ -1,0 +1,61 @@
+                                                                                           Gasification processes
+                                                                                                     for converting solid fuels
+                                                                                         to gaseous fuels:
+                                                      o = Oxygen process
+                                                                   S = Steam process         L = Lignin                                            H
+       B = Biomass                                               H = Hydrogen process
+      CE = Cellulose             o Biomass                               P = Pyrolysis
+                                                             • Peat
+                                            • Coal
+                                   · Char
+
+
+
+
+                                                                                                         0.5
+
+
+
+
+
+                                                                               Combustion
+                                                                                         products
+
+
+                             0.5
+   (a)                                                             (b)
+
+Fig. 4-1.  (a) Phase diagram showing the relative proportions of carbon, hydrogen, and oxygen in solid, liquid, and gaseous fuels
+(b) Chemical changes during biomass conversion processes (Source: Reed 1981)
+
+
+                                                                                             Air diffusion in
+                                                                         plume
+
+
+
+                                                                          Combustion products                          1500'C                                  \
+                                                                            \               Combustion of gas,
+                                                                                                                     tar, and soot                                                             \
+
+                                                                         Gases from soot
+                                                                                     (luminous)
+
+
+                                                                                                Oil vapors crack to
+                                                                              hydrocarbons and tar
+
+
+                                                                                                        Oil vapor and gas
+                                                                                           Pyrolysis of wood
+
+
+
+                       '  ,    .
+                                 .                   . I
+                      (                 \                     I  ·      .   . \. ,              \
+            \  . \                               . \                '\   ,                           . \    . .:..
+
+Fig. 4-2. Pyrolysis, gasification, and combustion in the flaming match
+
+22    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,330 @@
+{
+  "wastes": {
+    "categories": [
+      {
+        "waste_category": "Agricultural residues",
+        "subtypes": [
+          "Almond orchard prunings",
+          "Almond shells",
+          "Barley straw",
+          "Bean straw",
+          "Biodegradable crop residue",
+          "Black walnut orchard prunings",
+          "Cabernet Sauvignon vineyard prunings",
+          "Cardinal vineyard prunings",
+          "Chenin Blanc vineyard prunings",
+          "Chipped or densified biomass residues",
+          "Cocoa hulls",
+          "Coconut fiber dust",
+          "Corn cobs",
+          "Corn stover",
+          "Cotton gin trash",
+          "Cotton stalks",
+          "English walnut orchard prunings",
+          "Olive pits",
+          "Peach pits",
+          "Peanut hulls",
+          "Pinot Noir vineyard prunings",
+          "Pistachio shells",
+          "Prune pits",
+          "Ribier vineyard prunings",
+          "Rice straw after harvest",
+          "Rice straw weathered six months",
+          "Straw and nut shells",
+          "Sugarcane bagasse",
+          "Thompson Seedless vineyard prunings",
+          "Tokay vineyard prunings",
+          "Walnut shells",
+          "Wheat straw",
+          "Zinfandel vineyard prunings"
+        ]
+      },
+      {
+        "waste_category": "Animal manure",
+        "subtypes": [
+          "Animal manures",
+          "Biogas from manure digestion",
+          "Dairy cow manure mechanically conditioned; Phyllis #2782",
+          "Dairy cow manure with straw bedding; Phyllis #1528",
+          "Fresh chicken manure; Phyllis #957"
+        ]
+      },
+      {
+        "waste_category": "Food and organic waste",
+        "subtypes": [
+          "Biogas from food waste digestion",
+          "EBMUD food waste pulp",
+          "EBMUD food waste pulp; mesophilic; 10-day MCRT",
+          "EBMUD food waste pulp; mesophilic; 15-day MCRT",
+          "EBMUD food waste pulp; thermophilic; 10-day MCRT",
+          "EBMUD food waste pulp; thermophilic; 15-day MCRT",
+          "EBMUD source-separated delivered food waste",
+          "Source-separated food waste"
+        ]
+      },
+      {
+        "waste_category": "Hazardous and medical waste",
+        "subtypes": [
+          "Regulated medical waste"
+        ]
+      },
+      {
+        "waste_category": "Industrial organic waste",
+        "subtypes": [
+          "Grape pomace",
+          "Industrial organic residuals",
+          "Wheat processing dust"
+        ]
+      },
+      {
+        "waste_category": "Industrial waste heat",
+        "subtypes": [
+          "Industrial hot gases and liquids"
+        ]
+      },
+      {
+        "waste_category": "Landfill waste",
+        "subtypes": [
+          "Biodegradable waste already in MSW landfill"
+        ]
+      },
+      {
+        "waste_category": "Municipal solid waste",
+        "subtypes": [
+          "Combustible RDF fraction",
+          "Dry shredded garbage sample A",
+          "Dry shredded garbage sample B",
+          "Dry shredded garbage sample C",
+          "Dry shredded garbage sample D",
+          "Non-recyclable non-hazardous MSW"
+        ]
+      },
+      {
+        "waste_category": "Paper and cardboard",
+        "subtypes": [
+          "Junk mail",
+          "Magazine",
+          "Newsprint"
+        ]
+      },
+      {
+        "waste_category": "Plastics",
+        "subtypes": [
+          "Commercial reference polymer PP-1",
+          "Commercial reference polymer PP-2",
+          "Commercial reference polymer PP-3",
+          "Commercial reference polymer PP-4",
+          "Commercial reference polymer PP-5",
+          "Commercial reference polymer PP-6",
+          "Commercial reference polymer PP-7",
+          "Commercial reference polymer PS-1",
+          "Commercial reference polymer PS-2",
+          "Commercial reference polymer PS-3",
+          "Commercial reference polymer PS-4",
+          "Commercial reference polymer PS-5",
+          "Commercial reference polymer PU-1",
+          "Commercial reference polymer PVC-1",
+          "Commercial reference polymer PVC-2",
+          "PE SRM 1475, 72% crystallinity",
+          "PE sample 1, high-pressure polymer",
+          "PE sample 2, linear Marlex",
+          "PE sample 3, low density",
+          "PE sample 4, high density Mirathen H",
+          "PP VK 166 untangled",
+          "PP degree of polymerization approximately 4000",
+          "PP isotactic, 58% crystallinity",
+          "PS atactic amorphous",
+          "PS isotactic amorphous",
+          "PS isotactic, 40% crystallinity",
+          "PVC 99.7 mole percent purity"
+        ]
+      },
+      {
+        "waste_category": "Sewage sludge",
+        "subtypes": [
+          "50/50 primary/secondary sewage sludge",
+          "Biogas from wastewater solids digestion",
+          "Detroit 50/50 primary/secondary sludge, experimental feed",
+          "Detroit 50/50 primary/secondary sludge; WW06 SS-2",
+          "Dried sewage sludge",
+          "EBMUD municipal wastewater solids",
+          "EBMUD primary sludge and thickened waste activated sludge feed",
+          "Wastewater solids"
+        ]
+      },
+      {
+        "waste_category": "Textile waste",
+        "subtypes": [
+          "Leather waste reference"
+        ]
+      },
+      {
+        "waste_category": "Used cooking oil and fats",
+        "subtypes": [
+          "Animal fat co-combustion product Rotterdam; Phyllis #3491",
+          "Fats, oils, and greases",
+          "Yellow grease"
+        ]
+      },
+      {
+        "waste_category": "Wood and forestry waste",
+        "subtypes": [
+          "Clean wood and bark",
+          "Dry wood reference",
+          "Ponderosa pine MT77 foliage",
+          "Ponderosa pine MT78 foliage",
+          "Ponderosa pine heartwood lumber",
+          "Poplar biomass",
+          "Western white pine dead foliage",
+          "Wood chips and mill ends",
+          "Wood chips, Walawender 1985 run 101",
+          "Wood chips, Walawender 1985 run 1011",
+          "Wood chips, Walawender 1985 run 1015",
+          "Wood chips, Walawender 1985 run 104",
+          "Wood chips, Walawender 1985 run 106",
+          "Wood chips, Walawender 1985 run 1110",
+          "Wood chips, Walawender 1985 run 1117",
+          "Wood chips, Walawender 1985 run 1119",
+          "Wood chips, Walawender 1985 run 1129",
+          "Wood chips, Walawender 1985 run 121",
+          "Wood chips, Walawender 1985 run 1221",
+          "Wood chips, Walawender 1985 run 123",
+          "Wood chips, Walawender 1985 run 910",
+          "Wood chips, Walawender 1985 run 920",
+          "Wood chips, Walawender 1985 run 922",
+          "Wood chips, Walawender 1985 run 924",
+          "Wood chips, Walawender 1985 run 927",
+          "Wood chips, Walawender 1985 run 929",
+          "Wood chips, Walawender 1985 run 98"
+        ]
+      }
+    ]
+  },
+  "technologies": {
+    "technologies": [
+      {
+        "technology": "Anaerobic digestion",
+        "requested_outputs": [
+          "biogas",
+          "biomethane"
+        ],
+        "documented_outputs": [
+          "biogas"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Biodiesel production",
+        "requested_outputs": [
+          "biodiesel"
+        ],
+        "documented_outputs": [
+          "fatty acid methyl esters"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Combined heat and power",
+        "requested_outputs": [
+          "electricity",
+          "useful heat"
+        ],
+        "documented_outputs": [
+          "electricity; useful heat"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Combustion",
+        "requested_outputs": [
+          "electricity",
+          "solid fuel energy",
+          "useful heat"
+        ],
+        "documented_outputs": [
+          "heat; electricity"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Fermentation",
+        "requested_outputs": [
+          "ethanol"
+        ],
+        "documented_outputs": [
+          "ethanol"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Gasification",
+        "requested_outputs": [
+          "electricity",
+          "syngas",
+          "useful heat"
+        ],
+        "documented_outputs": [
+          "producer gas"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Hydrothermal conversion",
+        "requested_outputs": [
+          "bio-oil"
+        ],
+        "documented_outputs": [
+          "biocrude; fuel blendstocks after upgrading"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Industrial waste heat recovery",
+        "requested_outputs": [
+          "electricity",
+          "useful heat"
+        ],
+        "documented_outputs": [
+          "useful heat; electricity where viable"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Landfill gas recovery",
+        "requested_outputs": [
+          "biogas",
+          "biomethane",
+          "electricity",
+          "useful heat"
+        ],
+        "documented_outputs": [
+          "landfill gas; electricity; heat; upgraded fuel"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "Pyrolysis",
+        "requested_outputs": [
+          "bio-oil",
+          "biochar",
+          "electricity",
+          "useful heat"
+        ],
+        "documented_outputs": [
+          "bio-oil; char; fuel gas"
+        ],
+        "equipment_forecast_supported": false
+      },
+      {
+        "technology": "RDF/SRF production",
+        "requested_outputs": [
+          "solid fuel energy"
+        ],
+        "documented_outputs": [
+          "solid recovered fuel"
+        ],
+        "equipment_forecast_supported": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+                                                  Woody and Tree Materials
+
+
+HEMLOCK, EASTERN; BARK; Tsuna canadensis; solid; gross heat of combustion
+   determined on 1 g samples of aG-dried bark; ash content = 1.6%; moisture content
+    6.2%.
+
+   gross heat of combustion: assume values refer t o room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+    qv(gross)  8802 Btu lb; I
+    q,(gross)  = 4890 cal g-
+    q,(gross)   20460 J g-l
+
+                                                           55CHA/MIT
+
+HEMLOCK, WESTERN Tsuga heterophylh; solid; air-dried at 105"-11O0C (221 '-230'F)    density, 0.45 g cm -3 .
+
+   specific heat: 273-379 K (32'-223'F)
+
+
+
+
+   gross heat of combustion: assume values refer to room temperature; air-dried.
+     q,,(gtoss)  = 8626 Btu lbi I
+    q,(gross)  = 4792 cal g-
+    q,(gross)   20050 J g-l
+
+                                                 12DUN; 68KAI/FRI; 66FRY
+
+
+
+
+
+                                        257

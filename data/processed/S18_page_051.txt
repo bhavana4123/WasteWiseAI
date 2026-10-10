@@ -1,0 +1,47 @@
+The carbon source (glucose) makes up 57% of the cost of the enzyme, i.e., $0.19/gal of the
+$0.34/gal is just for glucose. We can back out the unit cost of the enzyme from $0.34/gal by
+multiplying by the ethanol production rate and dividing by the enzyme flow rate, which works
+out to $4.24/kg protein.
+
+
+
+                                                        Other Nutrients
+                                                5%
+
+                                                                                            Electricity             $0.34/gal ethanol
+                                                           13%
+            $4.24/kg protein
+
+
+                                                                                   Fixed Costs
+                                                             4%
+                             Glucose
+                        57%
+
+
+
+
+                                                                                    Capital
+                                                           21%
+
+
+
+                                                              DW1102A
+
+                        Figure 10. Enzyme production cost breakdown
+
+The previous DOE target for enzyme cost was specified as $0.12/gal ethanol, or about one third
+of what is reported here. One way to achieve such a low cost contribution would be to reduce the
+enzyme loading. In Figure 11, we see that the enzyme contribution to MESP is roughly linear
+with the enzyme loading (mg of enzyme per g of cellulose entering enzymatic hydrolysis). At the
+loading specified in the present design (20 mg/g), the enzyme contribution is $0.34/gal. The
+enzyme contribution approaches $0.12/gal at about 8 mg/g loading. Therefore, the original
+enzyme cost targets could potentially be achieved by a reduction in enzyme loading, but such a
+loading would be significantly lower than what we currently use to approach the 90% cellulose
+conversion yield target.
+
+
+
+
+
+                                      41

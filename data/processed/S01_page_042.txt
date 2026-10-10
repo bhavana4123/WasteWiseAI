@@ -1,0 +1,50 @@
+                                                                    Alloys and Metals
+
+
+
+COPPER - continued
+
+   vapor pressure:
+
+    tern erature
+   C0Cf  (OF)      P(atm)     W a )         P ( p d
+   1118  2044        1o-6                  0.1            1.470 x  10:;
+   1589  2892        10-3              101.3           1.470 x 10
+   1830  3326           lo-;             1013.3           1.470 x 10-
+   2142  3888         10-            10132.5           1.470
+   2573  4663         1.o         10 1325.           14.696
+
+                                                        63HUL/ORR
+
+HASTELLOY X; solid; composition: carbon, 0.05%-0.15%; chromium, 20.50%-23.00%;
+    cobalt, 0.05%-2.50%;  iron, 17.00%-20.00%; manganese, 1.OO%  max.; molybdenum,
+   8.00%-10.00%;  silicon, 1.OO%  max.; tungsten, 0.2%-1.0%;  remainder nickel,
+    42.0%-54.0%.
+
+    specific heat: 273-1373 K (32'-2012"F)
+
+   Cp(Btu lb-'   OF-')     = 0.1037 + 2.4443 x loL5 T + 4.4886  x     T2 + 7.6473
+                                 x      T3 - 1.1710  x 10- l6 T4 + 7.3033 x 10- 19 T5
+
+                                                                       x 10-9 T2 + 1.030   Cp(cal g-1 K -1 )     = 0.0924 + 4.438 x    T -2.812
+                               x      T3 -1.885  x      T4 + 1.38 x 10- 17 T5
+           -1   -1                                                     x    T -1.1765  x    T2 + 4.310   Cp(J g  K            0.3866 + l.8569
+                                 x 10 11 T 3 -7.887  x 10- l 4 T4 + 5.77 x     T5
+
+   heat content: 273-1373 K (32"-2012'F)
+
+   q~-q32( B t U 1b-l)      = 0.1020 T + 8.6309  x     T2 - 2.6035 x     T3 + 1.91 19
+                                    x      T4 - 2.4321  x 10- l7 T5 + 1.2172 x 10- l9 T6 - 4.0464 (OF)
+
+                         = 0.0924 T + 2.219 x     T2 - 9.373 x     T3 + 2.575    qT'q273,2  (cal g-')
+                                       x      T4 -3.770  x     T5 + 2.30 x      T6 - 27.1429 (K)
+                        = 0.3866 T + 9.284  x     T2 -3.922  x  lo-'  T3 + 1.0774    qT'9273.2  (J g-')
+                                    x      T4 -1.5774  x     T5 + 9.62 x  lo-''  T6 - 113.5659 (K)
+
+                                                       64THA/KOH
+
+
+
+
+
+                                       39

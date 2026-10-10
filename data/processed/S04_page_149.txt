@@ -1,0 +1,44 @@
+FUE captures the value of both the electrical and thermal outputs of CHP plants and it specifically
+measures the efficiency of generating power through the incremental fuel consumption of the CHP
+system.
+
+EPA considers fuel savings as the appropriate term to use when discussing CHP benefits relative to
+separate heat and power (SHP) operations. Fuel savings compares the fuel used by the CHP system to a
+separate heat and power system (i.e. boiler and electric-only generation). The following equation
+determines percent fuel savings (S).
+
+                                                                
+                                                     F        
+                           S = 1−                  
+                                                P    + Q      
+                                                                                            Eff P     Eff Q 
+
+In the fuel saving equation given above, the numerator in the bracket term denotes the fuel used in the
+production of electricity and steam in a CHP system. The denominator describes the sum of the fuel
+used in the production of electricity (P/EffP) and thermal energy (Q/EffQ) in separate heat-and-power
+operations. Positive values represent fuel savings while negative values indicate that the CHP system in
+question is using more fuel than separate heat and power generation.
+
+             Table A-1. Measuring the Efficiency of CHP Systems
+  System      Component                 Efficiency Measure                        Description
+Separate      Thermal                Net Useful Thermal Output   Net useful thermal output for the                         EFFQ =heat and       Efficiency (Boiler)               Energy Input            fuel consumed.
+power (SHP)                Electric-only            Power Output                      Electricity Purchased From                          EFFP =              generation              Energy Input                   Central Stations via Transmission
+                                                                                  Grid.
+               Overall Efficiency                P + Q              Sum of net power (P) and useful
+               of separate heat   EFFSHP =                                thermal energy output (Q)
+            and power (SHP)                                P EFFPower + Q EFFThermal          divided by the sum of fuel
+                                                              consumed to produce each.
+                                                       Sum of the net power and net                               + Q) FCombined     Total CHP System   EFFTotal = (Pheat and       Efficiency                                                       useful thermal output divided by
+power (CHP)                                                             the total fuel (F) consumed.
+            FERC Efficiency              (P + Q 2)                 Developed for the Public Utilities
+                            EFFFERC =              Standard                  F                        Regulatory Act of 1978, the FERC
+                                                                   methodology attempts to
+                                                                            recognize the quality of electrical
+                                                                       output relative to thermal
+                                                                            output.
+
+
+
+
+
+Catalog of CHP Technologies                        A–2                                  Appendix A

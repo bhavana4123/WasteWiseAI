@@ -1,0 +1,58 @@
+                                                          Polymers and Plastics
+
+
+BUTADIENE-STYRENE COPOLYMER, X478; solid; composition: carbon, 89.443%;
+   hydrogen, 10.4008%; sulfur, 0.048%; oxygen, 0.15%; ash, 0.098%; styrene, 22.61%;
+   phenyl-6-naphthylamine,  0.1%; polymerized at 5°C (41 OF).
+
+   specific heat:
+
+   tem erature                                                               -1   -1                -1   -1
+    (KP  (OF)        Cp(Btu lb-I  OF-')        Cp(cal g  K   )     Cp(J g  K   )
+
+     15  -433                 0.016                   0.0 16               0.067
+     50  -370                 0.081                     0.08 1               0.338
+    100  -280                  0.147                  0.147               0.617
+    150  -190                  0.209                    0.209               0.874
+    195  -109                0.262                    0.262                 1.096
+    225    - 5 5                 0.405                   0.405                1.693
+
+   225-330 K (-54'   t o 135°F)
+
+   Cp(Btu Ib-l  OF-')    = 0.4228 + 3.812 x  lo-'  T + 3.483  x 10-7 T2
+                                                                        -6  2                      = 0.3337 + 6.29 x    T + 1.1205 x 10  T   Cp(cal q1K-')
+   Cp(J g-   K-')        = 1.396 + 2.432  x    T + 4.6882  x    T2
+
+                                                         55FUR/McC
+
+BUTENE-1-POLYSULFONE;solid; repeating unit: C4Hg02S.
+
+   gross heat of combustion: at 25°C (77'F)
+    q,(gross) = 10347 k 6.8 Btu lb- 1
+                                         1    q,(gross) = 5748.3 k 3.8 cal g-
+    q,(gross)   24050.9 k 15.9 J g-l
+
+                                                                            591VI/KEI
+
+cis-BUTEm-2-POLYSULFONE; solid; repeating unit: C4Hg02S.
+
+   gross heat of combustion: at 25°C (77OF)
+                                         1    q,(gross)   10340 2 4.7 Btu lb-
+    q,(gtoss)  = 5744.6 f 2.6 cal g-'
+    q,(gross) = 24035.4 k 10.9 J g-'
+
+                                                                           59IVI/KEI
+
+trans-BUTENE-2-POLYSULFONE;solid; repeating unit: C4H802S.
+
+   gross heat of combustion: at 25°C (77°F)
+
+    q,(gross) = 10342 2 4.5 Btu lb-I
+    q,(gross) = 5745.7 ? 2.5 cal g-l
+    q,(gross) = 24040.0 2 10.5 J g-l
+
+                                                                           59IVI/KEI
+
+
+
+                                      169

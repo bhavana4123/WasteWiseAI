@@ -1,0 +1,45 @@
+                        6. Chemical Plant Controls
+
+To produce quality products from a biodiesel production plant it is necessary to be able to control
+the production process. While a tremendously important control variable is the properties of the
+feedstock to the process, this section will only discuss the control of chemical plants within the
+unit operation of the processes, such as those discussed in the previous section. Two general
+types of processes can be used in the production of biodiesel, either batch or continuous. For
+batch processes the process control variables will be temperature, pressure, and levels.
+Temperature and pressure control are critical within the reaction and separation sections of the
+plants. Level control dictates charging to the reactor, operation of separation devices, and
+product storage. For continuous processes the process control variables include temperature,
+pressure, level, and flow rate.
+
+It is important to note that process variables, which are monitored and controlled, are not the
+same as the product specifications. Specifications are properties that are required of the final
+product such as those given in ASTM D 6751 for biodiesel. Control variables are those process
+variables that are monitored and adjusted to meet the desired specifications. As such,
+specifications are generally measured off-line in an analytical laboratory, while the process
+variables are process conditions that are measured in real time. The process variables are related
+to the specifications through some type of process model. The process model will typically be
+provided by the process licensor with subsequent refinement from plant operation experience.
+Some manufacturing plants will develop their own statistical or empirical models. It should be
+noted that the process models are typically feedstock dependent.
+
+In discussing process variable measurement instruments, the performance of the instruments can
+be characterized by their accuracy and/or precision. Accuracy is the ability of an instrument to
+measure the correct or “true” value of a process variable. In contrast, precision is the ability of an
+instrument to reproduce a process variable value within a certain interval. As such, it is possible
+to have either “accurate and imprecise” or “inaccurate and precise” instruments. For day-to-day
+operation the ability of a measurement instrument to be precise is generally more important than
+the need to be accurate. However, when the measurement instrument needs to be replaced,
+accuracy becomes an important issue.
+
+When considering an instrumental control system for a chemical plant there are a number of
+factors that should be considered; cost, precision, reliability, and operator interface. It is
+desirable to have the lowest cost monitoring system that will allow appropriate control of the
+process. Precision is important to assure that there is reproducibility of measurements. Reliability
+insures that the system is not prone to failures. Finally, it is desirable to have a monitoring and
+control system that provides an easy interface with the plant operators.
+
+
+
+
+
+                                      48

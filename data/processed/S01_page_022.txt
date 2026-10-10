@@ -1,0 +1,44 @@
+Agricultural Residues
+
+
+CEWURZTRAMINER GRAPES, VINEYARD PRUNINGS;solid; Material is considered
+   biomass fuel and has proximate analysis values (in percent by weight dry basis) for
+    volatile concentration (VCM) = 77.27, ash content = 2.47, and fixed carbon = 20.26.
+
+   gros heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)   8243 Btu Ib-'
+    q,(gross)  = 4579 cal g-'
+    q,(gross) = 19160 f g-'
+
+                                                             85JEN/EBE
+
+GRAPE POMACE;solid; Material is considered biomass fuel and has  roximate analysis
+   values (in percent by weight dry basis) for volatile concentration VCM) = 68.54, ash                                                         P
+   content = 9.48, and fixed carbon = 21.98.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 52.91,
+   hydrogen = 5.93, oxygen = 30.41, nitrogen = 1.86, sulfur = 0.03, chlorine = 0.05, and
+    residue (ash) = 8.81.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 8750 Btu lb; I
+    q,(gross) = 4861 cal g-
+    q,(gross)  = 20340 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 8234 Btu lbl'
+    qv(net) = 4575 cal gI
+    q,(net) = 19140 J g
+
+                                                                        85 JEN/EBE
+
+
+
+
+
+                                          18

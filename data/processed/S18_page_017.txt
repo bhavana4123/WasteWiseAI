@@ -1,0 +1,50 @@
+NREL and DOE for this report and reflect our best estimates at the time of publication. It should
+be emphasized, however, that these assumptions carry a large uncertainty and are subject to
+refinement.
+
+1.5  Review of Related Technoeconomic Studies
+Tao and Aden [4] performed a survey of technoeconomic models of existing biofuels (corn
+ethanol, sugarcane ethanol, and conventional soy biodiesel) from the literature. These studies
+were normalized to a consistent year-dollar value and feedstock cost (where applicable) and
+compared to published market studies. This comparison, shown in Table 1, indicated that
+technoeconomic analysis was able to predict the actual cost of production of these biofuels
+within the expected accuracy of such models.
+
+   Table 1. Comparison of Technoeconomic Analyses and Market Studies for Existing Biofuels
+                     Fuel                Market Study  TE Model
+                    Corn ethanol           $1.53/gal a      $1.54/gal b
+                     Sugarcane ethanol     $1.14/gal a      $1.29/gal c
+                   Soy biodiesel           $2.15/gal d      $2.55/gal e
+                                      a F.O. Lichts, 2007 [5].
+                                 b Kwiatkowski et al., 2006 [6].
+                                      c Rodrigues, 2007 [7]; Seabra, 2007 [8].
+                                 d Graboski & McCormick, 1998 [9].
+                                      e Haas et al., 2006 [10].
+
+The quantitative agreement in Table 1 is not altogether surprising, because the developers of
+these models were able to compare their results to real economics and make adjustments as
+necessary. (Also, for these particular fuels, feedstock makes up the largest part of the production
+cost, so uncertainty in the remaining non-feedstock conversion costs is not as obvious.)
+Developing a technoeconomic model for a pre-commercial technology, such as the corn-stover-
+to-ethanol process described in this report, requires a more ab initio approach, rooted in a
+thorough understanding of the state of the technology at the time of the analysis and good
+engineering practice.
+
+In the years since the last NREL design report in 2002, several newer technoeconomic studies of
+biochemical cellulosic ethanol production have been published. Many of these studies were
+based to varying degrees on NREL’s previous design report, borrowing from its process
+assumptions, cost information, or both. This was in fact the principal goal of the earlier NREL
+design reports: to establish a baseline or “zero-point” technoeconomic benchmark from which
+process alternatives and improvements could be evaluated by others in the public realm. The
+present report now aims to establish a new zero-point and thereby serve a similar purpose for
+analyses going forward.
+
+A brief survey of MESPs from recent technoeconomic studies of biochemical cellulosic ethanol
+production is presented in Table 2; note that these studies were not normalized to a consistent
+cost-year but were all published between 2008 and 2010, so cost-year differences should be
+minor. Clearly, there is a wide range of published MESP values within this subset of papers. For
+the most part, these are due to differences in feedstock cost, process assumptions, and co-product
+values, all of which vary considerably across the studies. For example, the analysis by Laser et
+al. [11] assumes a fairly low feedstock cost and very high yields (indicating aggressive process
+
+                                       7

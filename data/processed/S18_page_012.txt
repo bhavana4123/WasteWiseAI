@@ -1,0 +1,47 @@
+structure and financing. The projected 2012 nth-plant MESP computed in this report is $2.15/gal
+in 2007$.
+
+Modifications to the conceptual process design presented here will be reflected annually through
+NREL’s State of Technology (SOT) reports. These ensure that the process design and its cost
+benchmark incorporate the most current data from NREL and other DOE-funded research and
+that equipment costs stay up-to-date.
+
+We stress that this design report serves to describe a single, feasible cellulosic ethanol
+conversion process and to transparently document the assumptions and details that went into its
+design. This report is not meant to provide an exhaustive survey of process alternatives or cost-
+sensitivity analyses. These will be investigated in separate papers that extend and reference the
+present report. Furthermore, the process models and economic tools developed for this report are
+available to the public, and the authors and members of NREL’s Biochemical Platform Analysis
+task will provide support to researchers who wish to use them for their own studies.
+
+1.2  Process Overview
+The process described here uses co-current dilute-acid pretreatment of lignocellulosic biomass
+(corn stover), followed by enzymatic hydrolysis (saccharification) of the remaining cellulose,
+followed by fermentation of the resulting glucose and xylose to ethanol. The process design also
+includes feedstock handling and storage, product purification, wastewater treatment, lignin
+combustion, product storage, and required utilities. The process is divided into nine areas (see
+Figure 1).
+
+   •  Area 100: Feed handling. The feedstock, in this case milled corn stover, is delivered to
+       the feed handling area from a uniform-format feedstock supply system. Only minimum
+       storage and feed handling are required. From there, the biomass is conveyed to the
+       pretreatment reactor (Area 200).
+   •  Area 200: Pretreatment and conditioning. In this area, the biomass is treated with dilute
+        sulfuric acid catalyst at a high temperature for a short time to liberate the hemicellulose
+       sugars and break down the biomass for enzymatic hydrolysis. Ammonia is then added to
+       the whole pretreated slurry to raise its pH from ~1 to ~5 for enzymatic hydrolysis.
+   •  Area 300: Enzymatic hydrolysis and fermentation. Enzymatic hydrolysis is initiated in a
+       high-solids continuous reactor using a cellulase enzyme prepared on-site. The partially
+       hydrolyzed slurry is next batched to one of several parallel bioreactors. Hydrolysis is
+      completed in the batch reactor, and then the slurry is cooled and inoculated with the co-
+       fermenting microorganism Zymomonas mobilis. After a total of five days of sequential
+       enzymatic hydrolysis and fermentation, most of the cellulose and xylose have been
+       converted to ethanol. The resulting beer is sent to the product recovery train (Area 500).
+   •  Area 400: Cellulase enzyme production. An on-site enzyme production section was
+       included in this design. Purchased glucose (corn syrup) is the primary carbon source for
+      enzyme production. Media preparation involves a step in which a portion of the glucose
+         is converted to sophorose to induce cellulase production. The enzyme-producing fungus
+      (modeled after Trichoderma reesei) is grown aerobically in fed-batch bioreactors. The
+
+
+                                       2

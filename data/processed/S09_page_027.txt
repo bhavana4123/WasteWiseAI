@@ -1,0 +1,45 @@
+Table 6. ASTM D 6751 – 02 Requirements
+          Property           Method           Limits            Units
+     Flash point, closed cup      D 93           130 min           °C
+     Water and sediment      D 2709          0.050 max     % volume
+  Kinematic viscosity, 40 ° C    D 445            1.9 – 6.0         mm2/s
+          Sulfated ash        D 874           0.020 max            wt. %
+          Total Sulfur        D 5453           0.05 max            wt. %
+    Copper strip corrosion      D 130          No. 3 max
+        Cetane number        D 613           47 min
+         Cloud point        D 2500      Report to customer       °C
+       Carbon residue       D 4530          0.050 max            wt. %
+        Acid number        D 664           0.80 max      mg KOH/g
+         Free glycerin        D 6584            0.020              wt. %
+         Total glycerin        D 6584            0.240              wt. %
+         Phosphorus        D 4951           0.0010             wt. %
+ Vacuum distillation end point   D 1160       360 °C max, at         ºC
+                                    90% distilled
+        Storage stability          To be      To be determined      To be
+                               determined                          determined
+
+The flash point is a determinant for flammability classification of materials. The typical flash
+point of pure methyl esters is > 200 ° C, classifying them as “non-flammable”. However, during
+production and purification of biodiesel, not all the methanol may be removed, making the fuel
+flammable and more dangerous to handle and store if the flash point falls below 130ºC. Excess
+methanol in the fuel may also affect engine seals and elastomers and corrode metal components.
+Generally, a production Quality Control (QC) laboratory should include a flash point apparatus
+for quality control and as a means of detecting excess alcohol levels.
+
+Method: ASTM D 2709 – Water and sediment
+Requirement: 0.050 % volume max
+
+Water and sediment is a test that “determines the volume of free water and sediment in middle
+distillate fuels having viscosities at 40 °C in the range 1.0 to 4.1 mm2/s and densities in the range
+of 700 to 900 kg/m3.”
+
+This test is a measure of cleanliness of the fuel. For B100 it is particularly important because
+water can react with the esters, making free fatty acids, and can support microbial growth in
+storage tanks. Water is usually kept out of the production process by removing it from the
+feedstocks. However, some water may be formed during the process by the reaction of the
+sodium or potassium hydroxide catalyst with alcohol. If free fatty acids are present, water will be
+formed when they react to either biodiesel or soap. Finally, water is deliberately added during the
+
+
+
+                                      23

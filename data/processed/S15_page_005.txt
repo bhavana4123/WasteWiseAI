@@ -1,0 +1,42 @@
+TA 6M: Waste Heat Recovery
+
+
+  Comments on the report Energy Use, Loss, and Opportunities Analysis3 for the
+  purposes of this Technology Assessment:
+
+   This report provides estimates of energy losses for major energy use areas in manufacturing facilities. It
+   evaluated a limited number of process systems, and indicated that the major energy losses take place in process
+   heaters (includes steam and direct heaters), motor driven systems (compressed air, pumps, and fans), and steam
+   generation systems. More efficient systems can avoid some of these losses.
+
+    It is important to note that energy losses do not equate to recoverable energy. There are practical limits
+   (technical and economic) with respect to the recovery potential of those losses. The factors impacting the
+   feasibility of WHR options include heat quantity, heat temperature (quality), composition, minimum allowed
+   temperature, and logistical constraints like operating schedules and availability. Depending on these factors,
+  waste heat can have a number of uses including combustion air preheating, boiler feedwater preheating, load
+   preheating, power generation, steam generation, space heating, water preheating, and transfer to liquid or
+  gaseous process streams.4
+
+  The energy loss factors for major energy systems used in this report have been updated and refined in the latest
+  energy footprints assumptions/definitions document released in 2014.9 The updated and refined energy loss
+   factors are provided in Table 6.M.3 below. Figure 6.M.2 shows these onsite losses across different industrial
+   systems, including onsite generation losses, onsite distribution losses, and end use losses. Applied energy
+   (applied toward direct production or end use at the plant) is also shown, determined by subtracting from the
+   offsite generation and transmission losses, onsite generation and distribution losses, and end use losses from the
+  primary energy consumption for the facility.
+
+  These loss factors are represented visually in the DOE Manufacturing Energy and Carbon Footprints, which
+  map energy use and carbon emissions in manufacturing from energy supply to end use.10 By combining
+  energy consumption data with energy loss factors, each footprint visualizes the flow of energy (in the form of
+   fuel, electricity, or steam) to major end uses in manufacturing, including boilers, power generators, process
+   heaters, process coolers, machine-driven equipment, facility HVAC, and lighting.11 For more details, including
+   references, please refer to Table 1 in the “2010 Manufacturing Energy and Carbon Footprints: Definitions and
+  Assumptions” document.9 In addition, Appendix F of the 2013 report U.S. Manufacturing Energy Use and
+  Greenhouse Gas Emissions Analysis12 provides a detailed examination of the methodology used to determine
+   process heating losses shown below in Table 6.M.3.
+
+
+
+
+
+ 4  Quadrennial Technology Review 2015

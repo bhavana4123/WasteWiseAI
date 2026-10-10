@@ -1,0 +1,53 @@
+                        Chapter 1 1
+      Engine Adaptation and Operation
+
+
+ 1 1.1  Introduction                           11.4 Gasifier Types Suitable for
+                                       Shaft-Power GenerationProducer gas technology is useful to provide clean
+combustion heat, shaft power, and electricity from     Updraft and fluidized-bed gasifiers have the slowest
+widely available biomass fuels. Historically, engine     response times of the gasifier types and cannot be ex­
+ shaft power generation has been the major application     pected to follow changing loads with favorable results.
+ of small gas producers. Large producers, on the other    The gas from both updraft and fluidized-bed gasifiers
+hand, made "town gas," which was piped for cooking,     also contains large quantities of tars, making these
+ lighting, and heating.                                         gasifier types unsuitable for engine applications.
+The major use of small producers during World War IT    The fastest response time is obtained from cross draft
+was for transportation, especially trucks and buses. Al­     gas producers, but they are suitable only for low-tar
+though vehicles could become a major use of producer     fuels such as charcoal. Although low-tar operation has
+gas again, especially during a liquid fuel emergency,    been observed in cross draft gasifiers, nozzle spacing is
+the added difficulty of using solid fuels for transporta­     very critical and load variations can cause tarring.
+tion does not make producer gas competitive with
+gasoline today. If programs for making synthetic liquid    Downdraft gas producers provide a low-tar gas product
+                                                 from biomass and also have a rapid response time, so fuels (methanol, gasoline, or diesel) from biomass or
+                                                    they are suited for powering engines with eithercoal are successful, producer gas may never be needed
+for transportation applications.                          varying or fixed loads. Low-tar gasifiers now under
+                                                 development incorporate design changes that recycle
+                                              some of the gas with additional air to give even lower1 1.2 Producer Gas for Transportation                                                        tar values (on the order of 50 mg/Nm3) than
+Transportation applications place a very heavy     conventional downdraft gasifiers (see Chapter 5 and
+demand on producer gas systems: the system must be     especially Section 5.9).
+small, lightweight, and compact; operate at widely
+varying load conditions; have fast response times; be     1 1 .5 Sizing the Gas Producer to the
+low in tar; be low in cost; be safe; and be convenient to                                      Engine
+use and service.
+                                 A common problem among gasifiers is the use of an
+Currently, some vehicles are being powered regularly                                                        oversized gasifier. An oversized gasifier produces ex­by gasifiers in Brazil and the Philippines (Mahin, June                                                          cessive tars because lower flow rates do not develop1983). Sweden has maintained a stockpile of vehicle­                                                       the high temperatures necessary for good tar destruc­
+ready gasifiers as part of its national preparedness                                                                 tion. An undersized gasifier has excessive pressure
+strategy since the Suez oil crisis. A handful of groups                                                        drop, weak gas, and excessive raw gas temperature, andoffers plans for vehicle gasifiers (Mother 1982; Nunnik­                                         may be prone to burning out the grate. (See Sectionshoven 1984; Skov 1974). Various American vehicles                                                              5.7.3 and 5.7.4.)
+have been converted and operated for demonstration
+purposes; however, regular use of these vehicles is rare    Begin sizing by evaluating the actual horsepower
+(NAS 1983).                                         needed. For the task at hand, do not be misled by en­
+                                                         gine specifications. Vehicle applications seldom use
+1 1.3 Producer Gas for Electric Power         full power output. A better indication of operating
+                                                  horsepower is the vehicle's measured fuel economy.and Irrigation
+                                             The average vehicle engine power required from aCompaciness and low weight are not as important for
+                                                                gasifier may be figured from the gasoline mileage atpower and irrigation purposes as they are for transpor­
+                                                          cruising speeds:tation. Electric power production and irrigation place
+minimal requirements on turndown and response time
+                                               Power (hp) =                                 (11-1)of gas producers. The gas flow required for a
+synchronous generator varies over only a 3:1 ratio as         Cruising speed (mph) x Conversion (hp-h/gal)
+the electric output goes from full load to no load.                Gasoline mileage at cruising speed (mpg)
+
+
+
+
+
+                                                                 Engine Adaptation and Operation      1 05

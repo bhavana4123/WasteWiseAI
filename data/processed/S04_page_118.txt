@@ -1,0 +1,33 @@
+current measured in amps and the operational voltage. Based on the application and economics, a
+typical operating fuel cell will have an operating voltage of between 0.55 volts and 0.80 volts. The ratio
+of the operating voltage and the theoretical maximum of 1.48 volts represents a simplified estimate of
+the stack electrical efficiency on a HHV94 basis.
+
+As described above, resistance heat is also generated along with the power. Since the electric power is
+the product of the operating voltage and the current, the quantity of heat that must be removed from
+the fuel cell is the product of the current and the difference between the theoretical potential and the
+operating voltage. In most cases, the water produced by the fuel cell reactions exits the fuel cell as
+vapor, and therefore, the 1.23-volt LHV theoretical potential is used to estimate sensible heat generated
+by the fuel cell electrochemical process.
+
+The overall electrical efficiency of the cell is the ratio of the power generated and the heating value of
+the hydrogen consumed. The maximum thermodynamic efficiency of a hydrogen fuel cell is the ratio of
+the Gibbs free energy and the heating value of the hydrogen. The Gibbs free energy decreases with
+increasing temperatures, because the product water produced at the elevated temperature of the fuel
+cell includes the sensible heat of that temperature, and this energy cannot be converted into electricity
+without the addition of a thermal energy conversion cycle (such as a steam turbine). Therefore, the
+maximum efficiency of a pure fuel cell system decreases with increasing temperature. Figure 6-3
+illustrates this characteristic in comparison to the Carnot cycle efficiency limits through a condenser at
+50 and 100°C95. This characteristic has led system developers to investigate hybrid fuel cell-turbine
+combined cycle systems to achieve system electrical efficiencies in excess of 70 percent HHV.
+
+
+
+
+
+94 Most of the efficiencies quoted in this report are based on higher heating value (HHV), which includes the heat of
+condensation of the water vapor in the products.
+95 Larminie, James and Andrew Dicks, Fuel Cell Systems Explained. John Wiley & Sons, Ltd., West Sussex, England, 2000.
+
+
+Catalog of CHP Technologies                          6–8                                        Fuel Cells

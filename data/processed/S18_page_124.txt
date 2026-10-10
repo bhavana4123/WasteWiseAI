@@ -1,0 +1,27 @@
+Appendix E. Process Flow Diagrams
+
+The full set of PFDs for this process follow. Space for stream tables was limited; below is a key
+to lumped components. See Section 5.1 for a discussion on how LHV is computed.
+
+
+
+ Other sugars (SS)              arabinose, mannose, galactose, cellobiose, sucrose
+ Sugar oligomers (SS)          oligomers of glucose, xylose, and all minor sugars
+ Organic soluble solids (SS)    ammonium acetate, solubilized lignin, organic extractives, lactic acid,
+                                   cellulase and WWT nutrients
+ Inorganic soluble solids (SS)   ammonium sulfate, diammonium phosphate, sodium hydroxide, nitric
+                                   acid, sodium nitrate
+ Furfurals                            furfural, HMF
+ Other organics                   glycerol, gasoline denaturant, corn oil, succinic acid, xylitol
+ CO/SOX/NOX/H2S           NO, NO2, SO2, CO, H2S
+ Other struct. carbohydr. (IS)    arabinan, mannan, galactan
+ Protein (IS)                   corn protein, cellulase, denatured cellulase
+ Cell mass (IS)          WWT sludge, Z. mobilis from fermentation, T. reesei from cellulase
+                                production
+ Other insoluble solids (IS)        tar, ash, carbon, lime, gypsum
+
+
+
+
+
+                                      114

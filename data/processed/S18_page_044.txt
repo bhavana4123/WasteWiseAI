@@ -1,0 +1,49 @@
+Fermentation
+NREL continues to perform integrated fermentation experiments using the recombinant, co-
+fermenting Z. mobilis strain 8b. As of 2010, the ethanol tolerance limit of this microorganism has
+become the major barrier in NREL fermentation research. In co-fermentation, this strain readily
+consumes all of the available glucose, and we assume 95% is converted to ethanol. This
+microorganism will further consume the xylose in the system, producing ethanol until it reaches
+its ethanol tolerance limit of approximately 60 g ethanol/L. (In practice, the presence of typical
+fermentation inhibitors from biomass hydrolysate drives the limit to <60 g/L.)
+
+As discussed above, sugar yields from pretreatment and enzymatic hydrolysis have been steadily
+increasing. This has led to lower percent xylose utilizations in fermentation experiments,
+especially those performed at higher total solids loadings where the xylose is more concentrated.
+Characteristic ethanol yields from xylose in the 2009 and 2010 SOT cases are shown in Table
+17. Even though the amount of available sugar changes in each case, the final ethanol
+concentration is more or less constant (within the accuracy of the measurement) and is indicative
+of the microorganism’s practical ethanol tolerance limit. At 20% total solids in 2009, the
+microorganism was able to convert 82% of available xylose before reaching its limit. In 2010,
+the same limit was reached after converting only 63% of available xylose. In other words, the
+results summarized in Table 17 suggest that Z. mobilis strain 8b was operating very close to its
+ethanol tolerance limit in 2009 and was most likely being inhibited by ethanol in 2010 when the
+sugar concentrations increased.
+
+                            Table 17. Ethanol Yields from Xylose
+                                   2009 SOT                2010 SOT
+      % Total Solids in      Xylose      Final Ethanol     Xylose     Final Ethanol
+           Fermentation       Conversion   Conc. (g/L)   Conversion   Conc. (g/L)
+        15%                               -                   -        78%         49
+          17.5%                            -                   -        79%         53
+        20%              82%         52        63%         53
+        25%                               -                   -        20%         50
+
+Ethanologen strain research is currently being performed outside of NREL through ongoing
+DOE solicitation projects [50]. The companies participating in these projects are tasked with
+improving the ethanol tolerance of co-fermenting microorganisms like Z. mobilis to alleviate the
+problem of reduced ethanol yield at high sugar concentrations. Despite the highly sensitive
+nature of strains (ease of propagation, value of intellectual property, etc.), NREL expects to
+receive some of these strains for testing in 2011 and we hope to be able to demonstrate better
+ethanol tolerance from one or more of these strains under integrated processing conditions.
+
+The fermentation strain solicitation awardees were also tasked with demonstrating improved
+conversion of the minor hemicellulosic sugars (arabinose, galactose, and mannose) to ethanol.
+Arabinose is the third most abundant sugar available in corn stover following glucose and
+xylose, making up about 5% of the total available sugar. Achieving an 85% arabinose-to-ethanol
+yield provides an additional 3 gallons of ethanol per ton of dry corn stover and decreases the
+MESP by about $0.08/gal compared to the MESP with zero conversion of arabinose. Galactose
+accounts for another 2.5% of the available sugar, and mannose content in corn stover is typically
+negligible. As of 2008, it was clear that the solicitation awardees were not likely to make
+
+                                      34

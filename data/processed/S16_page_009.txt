@@ -1,0 +1,47 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+
+          PMMA-4, PMMA-5, and PMMA-6 contained red, blue, and  unknowns found in  all PE, PP, PET, and PS, which are
+         green dye compounds respectively. 1-(Methylamino)anthraqui-   included in the online Figshare database for future analyses.
+         none, otherwise known as disperse red 9, was the only obser-  To our knowledge, there were only four reports of a commer-
+          vable dye by ASE GC-MS. Many dyes do not ionize with elec-   cial vendor providing specific additive information in this
+          tron  ionization  (EI) and  are  unlikely  to be  detected by   study (PE-2, PS-2, EVA-1, and EVA-2).        Licence.    GC-EI-MS directly. Other techniques, such as liquid chromato-
+         graphy-MS would need to be utilized to target these types of
+        compounds, as well as other non-volatile or larger molecular        Unported
+         weight compounds.                          Elemental analysis   3.0           There are benefits and limitations to both ASE GC-MS and
+PM.      PyGC-MS. Compounds  that  are more  integrated  into  the   Elemental analysis  is useful for determining the chemical
+         polymer are less likely observed by ASE GC-MS, as they are   composition of a polymer, the presence of inorganic com-
+        more diﬃcult to extract. This can be highlighted by PBT-1,   ponents, and for confirming the chemical composition of6:34:53
+        which had no observable extractables, but many observable   organic  additives. We  conducted CHNS  analysis and  a
+        compounds by PyGC-MS (Fig. S2†). PyGC-MS is also useful   68-element screen on all plastic substrates (Table 1 and Fig. 3).
+          in situations where there is limited sample quantity, such as  We report elements that were measured at >0.005 wt% and6/21/2024
+          microplastics from the environment, whereas ASE extraction is   note elements that are present in trace amounts (<0.004 wt%)on Attribution-NonCommercial
+        more  sensitive  for  extractables because  of higher sample   in Fig. S1.† Without targeted analysis of specific inorganic
+         volumes. This was observed with wax mixtures in many PE and   additives, we could only make inferences about the possible
+        PP samples  (Fig.  2). Cryomilling likely improves extraction   additives present, given the specific elements present. ForDownloaded Commons    eﬃciency and can potentially release integrated additives.47   example, when characterizing an unknown polymer, the pres-
+       Many polymers contained unknown compounds not identified  ence of aluminum could be from flame retardants such as2024.        Creative    by the NIST or F-Search libraries. Conducting structural ana-  aluminum hydroxide, or from an aluminum barrier layer. The
+ a     lysis for unknown plastic additives would require advanced   following section discusses the possible presence of diﬀerentMarch26 under     analytical  techniques such  as  high-resolution mass  spec-   classes of inorganic or organic compounds in these polymers
+on       trometry, and/or fractionation with NMR spectroscopy. In this   given the presence of certain elements, which includes flame
+         work, we collected high-resolution GC-MS mass spectra for   retardants, fillers, metals, and halogens.        licensed
+  isPublished
+       article
+Article. This
+Access
+Open
+
+
+
+
+
+             Fig. 2   (A) ASE GC-MS chromatogram of PE-6 that contains a tentatively identiﬁed mixture of fatty alcohols (n-tetracosanol-1 highlighted), tris(2,4-
+            di-tert-butylphenyl) phosphite (Alkanox 240), and 2,4-di-tert-butylphenol, as well as unknowns. (B) PyGC-MS chromatogram of PE-6 contains ten-
+             tatively identiﬁed 2,4-di-tert-butylphenol. These results highlight how these two techniques, ASE GC-MS and PyGC-MS complement each other by
+            targeting extractable additives vs. additives that are more tightly bound to the polymer. (C) A Venn diagram with polymer class separated by the
+           types of tentatively identiﬁed additives present from stabilizers, process aids, plasticizers, ﬂame retardants and appearance compounds, highlighting
+            that most polymers contain several diﬀerent classes of additives.
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                            Green Chem., 2024, 26, 7067–7090  | 7075

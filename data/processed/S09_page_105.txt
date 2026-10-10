@@ -1,0 +1,49 @@
+                         16. Product Quality
+
+
+Generally, the fuel quality of biodiesel can be influenced by several factors:
+            · The quality of the feedstock.
+            · The fatty acid composition of the parent vegetable oil or animal fat.
+            · The production process and the other materials used in this process.
+            · Post-production parameters.
+
+The best current measure for biodiesel quality is the ASTM standard, ASTM D 6751: Standard
+Specification for Biodiesel Fuel (B100) Blend Stock for Distillate Fuels. This standard specifies
+the properties required for a biodiesel fuel to be used in an engine without problems. Even in
+blends with conventional diesel fuel, most people in the industry expect that the biodiesel
+blending stock will meet the standard before being blended. While some properties in the
+standard, such as cetane number and density, reflect the properties of the chemical compounds
+that make up biodiesel, other properties provide indications of the quality of the production
+process. Generally, the parameters given in the standard ASTM D6751 are defined by other
+ASTM standards. However, other test methods, such as those developed for the American Oil
+Chemists’ Society, (AOCS) may also be suitable (or even more suitable as they were developed
+for fats and oils and not for petroleum-derived materials addressed in the ASTM standards). This
+discussion will focus on the most important issues for assuring product quality for biodiesel as it
+is related to production as well as some post-production parameters.
+
+Production Process Factors
+
+Completion of reaction
+
+The most important issue during biodiesel production is the completeness of the
+transesterification reaction. The basic chemical process that occurs during the reaction is
+indicated by the following sequence of events:
+
+Triglyceride →  Diglyceride → Monoglyceride →  Glycerol
+                ↓             ↓           ↓
+                  methyl         methyl         methyl
+                      ester             ester             ester
+
+The triglycerides are converted to diglycerides, which in turn are converted to monoglycerides,
+and then to glycerol. Each step produces a molecule of a methyl ester of a fatty acid. If the
+reaction is incomplete, then there will be triglycerides, diglycerides, and monoglycerides left in
+the reaction mixture. Each of these compounds still contains a glycerol molecule that has not
+been released. These compounds are referred to as bound glycerol. When the bound glycerol is
+added to the free glycerol, we get the total glycerol. The ASTM specification requires that the
+total glycerol be less than 0.24% of the final biodiesel product. The ASTM method requires that
+the total glycerol be measured using a gas chromatographic method described in ASTM D 6584.
+Other methods can be used such as a high performance liquid chromatograph (HPLC; for
+example AOCS Recommended Practice Ca 14b-96: Quantification of Free Glycerine in Selected
+
+
+                                      101

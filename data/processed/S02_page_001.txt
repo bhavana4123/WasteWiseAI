@@ -1,0 +1,46 @@
+Handbook of Biomass
+Downdraft Gasifier
+Engine Systems
+
+SERIISP-271-3022
+DE88001135
+March      1988
+UC    Category.' 245
+
+
+
+
+
+This handbook has been prepared by the Solar Energy Research Institute under the U.S.
+Department of Energy                                                         It is intended as a guide                     Solar Technical Information Program.
+to the design, testing, operation, and manufacture of small-scale [less than   kW                                                                   200
+     hpJ] gasifiers. A great deal of the information will be useful for all levels of biomass(270
+gasification.
+
+The handbook is meant to be a practical guide to gasifier systems, and a minimum
+amount of space is devoted to questions of more theoretical interest.
+
+We apologize in advance for mixing English and Scientifique Internationale (SI) units.
+Whenever possible, we have used SI units, with the corresponding English units fol­
+lowing in parentheses. Unfortunately, many of the figures use English units, and it
+would have been too difficult to convert all of these figures to both units. We have sup­
+plied a conversion chart in the Appendix to make these conversions easier for the
+reader.
+Mr. Bill Nostrand, one of our very helpful reviewers, died in May 1985. Bill was num­
+ber one in the ranks of those who became interested in gasification because of its poten­
+tial for supplying clean, renewable energy. We all will miss him. The improvement of
+gasification systems will be noticeably slowed by his death.
+
+We dedicate this book to the Bill Nostrands of this world who will bring gasifier systems
+to the level of safety, cleanliness, and reliability required to realize their full potential.
+
+Thanks, Bill.
+
+T_ B. Reed and A. Das
+Golden, Colorado
+
+
+A Product of the
+                                                       A Division of Midwest Research InstituteSolar Technical Information Program
+                                                            Operated for theSolar Energy Research Institute
+1617 Cole Boulevard, Golden, Colorado 80401-3393                                                         U.S. Department of Energy

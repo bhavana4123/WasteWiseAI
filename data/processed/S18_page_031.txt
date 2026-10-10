@@ -1,0 +1,50 @@
+discharges the feedstock into the top of the presteamer (M-204). Hot water is added at this point
+to control the pretreatment effluent at 30 wt % total solids.
+
+The vertical biomass presteamer is designed for a retention time of up to 10 minutes at a
+temperature of up to 165°C, though in the current model it only operates at 100°C such that no
+significant hydrolysis reactions occur in the presteamer. With a 2,205 ton/day throughput and 10-
+minute retention time, a single vertical vessel is adequate. Feedstock flows downward through
+the vertical reactor with uniform temperature throughout. The reactor is discharged through a
+dual screw outlet device (C-205) to two plug screw feeders (M-206). The plug screw feeders
+meter feedstock to the pretreatment reactor and control the pressure and temperature difference
+between it and the presteamer. Acid for the pretreatment reaction is added at the discharge of
+each plug screw feeder. The transport conveyors (C-206, C-207) combine feedstock from both
+plug screw feeders and deliver it to the pretreatment reactor (M-207).
+
+The pretreatment reactor is a single horizontal reaction vessel. The reactor is designed for fairly
+severe conditions of up to 190°C (374°F) and about 1.1 wt % sulfuric acid. In the current design,
+the reaction conditions are milder at 158°C (316°F) and 18 mg acid/dry g of biomass. Acid is
+metered to the reaction chamber at a rate proportional to the mass flow rate of feedstock. High-
+pressure steam is injected into this vessel to maintain temperature. The reactor pressure is held
+just at the bubble point for the mixture. Heat losses from the reactor are not accounted for in the
+energy balance calculations. The residence time in the pretreatment reactor is nominally 5
+minutes. The reaction conditions are summarized in Table 5.
+
+                          Table 5. Pretreatment Reactor Conditions
+                               Sulfuric acid loading   18 mg/g dry biomassa
+                         Residence time      5 minutes
+                         Temperature         158°C
+                          Pressure              5.5 atm (81 psia)
+                             Total solids loading   30 wt %
+                                      a Additional acid is added downstream of the pretreatment reactor.
+
+The pretreatment reactor is discharged to a flash tank (T-203). The pressure of the flash is
+controlled to keep the temperature at 130°C (266°F). The slurry from T-203 goes into the
+secondary oligomer conversion reaction vessel (T-208), where it is held at 130°C for 20–30
+minutes. An additional 4.1 mg/g of sulfuric acid is added in the oligomer conversion step,
+bringing the total acid loading to 22.1 mg/g dry biomass. (Note that in the Aspen model, all of
+the acid is added to the pretreatment reactor block.)
+
+The oligomer conversion reactor is discharged into another flash tank (T-204) that operates at
+atmospheric pressure. After this flash, the hydrolysate whole slurry containing 30 wt % total
+solids and 16.6 wt % insoluble solids is sent to the conditioning tank (T-209). Here, the slurry is
+diluted with water to slightly greater than 20 wt % total solids to ensure miscibility through
+enzymatic hydrolysis. Ammonia gas is mixed into the dilution water to raise the hydrolysate pH
+to 5. The residence time in T-209 is 30 minutes and the dilution cools the slurry to 75°C (167°F).
+
+The flash vapor from T-203 is used to preheat the boiler feed water in H-812 or combined with
+the 100°C (212°F) flash vapor from T-204, which is condensed in H-201 and H-244. This
+
+
+                                      21

@@ -1,0 +1,51 @@
+Plant Materials (Non-Woody)
+
+
+SHRUBS, EVERGREEN, ALPINE TUNDRA; solid; Samples of 11 species of shrubs were
+   collected in the alpine tundra of Mt. Washington, N.H.  Mean lipid content was 3.72 ?
+   0.5% of the volatile-free dry weight.  Samples were ground and oven-dried at 80°C
+     ( I 76°F).
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+   for moisture and ash content.
+    qv(gross) = 9176 f 86 Btu lb- I
+    qv(gross)  5098 t 48 cal g-'
+    qv(gross)  21330 ? 201 J g-l
+
+                                                                         62BLI
+
+SHRUBS, EVERGREEN; CUTTINGS; solid; ultimate analysis: carbon, 48.5 1%; hydrogen,
+   6.54%; oxygen, 40.44%; nitrogen, 1.71%; sulfur, 0.19%; ash, 2.61%; proximate analysis
+   as received: moisture, 69.00%; volatile matter, 25.18%; fixed carbon, 5.01%; ash,
+   0.81%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+
+    q,(gross)   2709 Btu lb-'                    qv(gross) = 8741 Btu Ib-I
+    qv(gross) = 1505 cal                            q,(gross)  = 4856 cal g-'
+    q,(gross)  = 6299 J                               q,(gross)  = 20318 f g-l
+
+                                                                    66KAI
+
+SOW-TEAT STRAWBERRY (WOODLAND STRAWBERRY); Fragaria vesca; solid;
+   Material is an integral part of the ecosystem at the herbaceous layer level of the
+   mixed fir and beech forest in the Pulmonario (rubro) Abieti-Fagetum area of the
+   Bucegi mountains (two different stations) in Romania. The plants have the following
+    constitution: 33% of the weight is represented by the stem axis and 67% by leaves.
+   The species has an aestival (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+    calculated to a dry basis.
+    q,(gross) = 7538 Btu lbl 1
+    q,(gross)   4188 cal g-
+    q,(gross)  = 17523 J g-l
+
+                                                          73PAU/BRE
+
+
+
+
+
+                                        158

@@ -1,0 +1,47 @@
+                        Chapter 1 0
+         Instrumentation and Control
+
+
+ 1 0.1 The Need for Instrumentation and      meters (see below), the gas cleanup system and com­
+                                                       ponents, and any components that are prone to plug­Control
+                                                             ging, as shown in Fig. 9-1. The total pressure with
+The gasifiers of World War II were batch-fed, and gas     respect to atmospheric pressure (known as "gauge"
+ flowed to the engine in response to the vacuum created     pressure) may also be measured at the gasifier outIet,
+ in the engine. As a resuit, usually there were no con­     the cleanup outlet, and (if the gasifier is operated at a
+ trols or instruments other than those of the engine and     pressure above atmospheric pressure) the air inlet. In
+vehicle. The corresponding tradeoff was that a great     locations where occasional measurements are suffi­
+ deal of operator expertise was required in order to      cient, connections should be capable of being closed
+know when to shake the grate, stir the fuel bed, fill the      off when they are not in use.
+ fuel hopper, and clean the system, as well as how to
+                                             The pressures within the gasifier will be close to atmo­ operate the vehicle on hills and in traffic.
+                                                   spheric pressure (except for high-pressure gas
+Just as the modern automobile has a number of instru­     producers) and generally will be measured in cen­
+ments, sensors, warning lights, and controls, gasifiers     timeters (inches) of water column. * Pressure drops and
+built today should incorporate instruments and con­      differential pressures can be measured by a U-tube
+ trols to improve performance, convenience, and safety.    manometer filled with colored liquid. Liquid-filled
+                                                manometers are simple devices that use a fluid-filledDuring research and development, many measure­                                                           (usually colored water or light oil) tube to measure
+ments are required to determine operating parameters                                                            pressure. For convenience and portability, they can beand to determine where controls should be applied.
+                                           made from flexible, transparent plastic tubing and aHowever, a production gasifier system (like a produc­                                                  meter stick. Commercial units are available in a wide
+tion car) should require relatively few key instruments                                                      range of accuracies, from 0.25% to 3% of the full-scaleand controls.                                                          reading.
+Ideally, gasifiers of the future will operate automatical­
+                                                   For more sensitive measurements, an inclined-tubely and unattended. A working gasifier system requires                                            manometer may be used (Dwyer 1960). Typicalthe integrated operation of a number of components.                                                                    It     inclined-tube scales can be read to 0.1 in. water gauge,is desirable to have automatic controls and warning                                              and curved-tube manometers (e.g., the Dwyer Marksystems on production gasifiers in order to keep the                                                                                II)
+                                                     provide high resolution over a wide range of readings.system in balance and to warn the operator when a par­                                                 Commercial units are available for as low as $10, dual­ticular component needs attention. Although such a                                                    range vertical inclined manometers start at $30, anddegree of automation would have been impossible to                                                          stationary high-resolution manometers can cost asimplement on the gasifiers of World War II, reliable, in­                                          much as $400. Special handling is required to avoidexpensive sensors, instruments, and controls are wide­
+                                                          losing or blowing out gauge fluid because of excessively available today in much of the world, due largely to                                                       pressure. Accurate leveling  is important for all
+the development of the modern automobile and solid­                                                   manometers.
+state technology.
+                                                  Diaphragm-type differential pressure gauges give aThis chapter deals with the methods and equipment
+                                                       needle-pointer reading of the differential pressure.that have been used to measure each physical quantity                                             They are available in full-scale accuracies of 2% andcritical to optimal gasifier operation. Since these                                                                full-scale ranges from 0.25 to 150 in. water gauge (e.g.,measurements are commonly used by chemical
+                                                   those manufactured by Dwyer). These gauges areengineers, the reader  is referred to chemical
+                                                   rugged and can be used in all positions with positiveengineering texts, and especially to handbooks such as                                             and negative pressures.the Chemical Engineers' Handbook (Perry 1973).
+                                                   For nondifferential pressures in excess of a few pounds
+1 0.2 Gasifier Instruments                      per square inch, the well known Bourdon gauges
+                                                    should be used.
+1 0.2.1 Pressure Measurement
+
+                                                                                                                                        in. waterIn experimental work, pressure drops may be measured      *1029 em water = 1 atm; 406.8                                                                                                                 in. water gauge = 1 atm; 26.4
+routinely across the gasifier bed, the orifice plate flow    = 1 psi.
+
+
+
+
+                                                                                Instrumentation and Control    99

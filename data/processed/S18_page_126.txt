@@ -1,0 +1,43 @@
+                                                                                                                                                                                                                                                                                                            Work Stream      kW    Gcal/hr
+                                                                                                                                                                                                                                                                                      WC201              80     0.069
+                                                                                                                                                                                                                                                                                      WC202              80     0.069
+                                                                                                                                                                                                                                                                                      WC203             160     0.138
+                                                                                                                                                                                                                                                                                      WC204              75     0.064
+                                                                                                                                                                                                                                                                                      WC205              80     0.069
+COMPONENT             UNITS     105       212       214       215       216       217       218       222       232       516       710                                                                                                                                                                 WC206              20     0.017
+Total Flow                         kg/hr     104,167    140,850    38,801     3,490      24,534    311,842    19,782    292,060     1,980      36,821      1,981                                                                                                                                                                 WC207              40     0.034
+Insoluble Solids          %      67.7%     0.0%      0.0%      0.0%      0.0%     14.8%     0.0%     15.8%     0.0%      0.0%      0.0%                                                                                                                                                              WM201              80     0.069
+Soluble Solids           %      12.3%     0.0%      0.0%      0.0%      0.0%     12.0%     0.0%     12.8%     0.0%      0.0%      0.0%                                                                                                                                                              WM202              30     0.026
+Temperature                   °C       25        95       113       268       268       158       130       130       22       114       21                                                                                                                                                               WM203            2000     1.720
+Pressure                     atm        1.0         4.7         6.1        13.0        13.0         5.7         2.6         9.6        11.8         6.1         5.4                                                                                                                                                               WM204              45     0.039
+Vapor Fraction                               0.0         0.0         0.0         1.0         1.0         0.0         1.0         0.0         0.0         0.0         0.0                                                                                                                                                               WM205              30     0.026
+Ethanol                           kg/hr                          18                             18         8        10                   18                                                                                                                                                                        WM206            2000     1.720
+Water                             kg/hr     20,833    140,850    36,767     3,490      24,534    224,002    19,533    204,469     139      36,629      139                                                                                                                                                               WM207              82     0.071
+Glucose (SS)                      kg/hr                           0                               3,550       0        3,550                 0                                                                                                                                                                               WP201                1     0.001
+Xylose (SS)                       kg/hr                           0                             16,643       0       16,643                 0                                                                                                                                                                               WP203              64     0.055
+Other sugars (SS)                 kg/hr      642                  0                               3,720       0        3,720                 0                                                                                                                                                                                   WT203              170     0.146
+Sugar Oligomers (SS)             kg/hr                           0                            566        0        566                  0
+Organic Soluble Solids (SS)       kg/hr     12,208                 1                             12,866       0       12,866                 1
+Inorganic Soluble Solids (SS)      kg/hr
+Ammonia                         kg/hr                           0                             0         0         0                   0
+Acetic Acid                        kg/hr                                                              1,508       36       1,473
+Sulfuric Acid                       kg/hr                            1,842                             1,842       0        1,842      1,842                 1,842
+Furfurals                          kg/hr                          172                             1,034      205       829                 172
+Other Organics                    kg/hr                           0                             0         0         0                   0
+Carbon Dioxide                   kg/hr
+Methane                          kg/hr
+O2                                kg/hr
+N2                                kg/hr
+CO/SOX/NOX/H2S                kg/hr                           0                                                                     0
+Cellulose (IS)                      kg/hr     29,205                                                 26,138                26,138
+Xylan (IS)                         kg/hr     16,273                                             423                 423
+Other Struct. Carbohydr. (IS)       kg/hr      3,675                                                96                  96
+Acetate (IS)                       kg/hr      1,508
+Lignin (IS)                         kg/hr     13,132                                                 12,475                12,475
+Protein (IS)                        kg/hr      2,583                                                   2,583                 2,583
+Cell Mass (IS)                     kg/hr
+Other Insoluble Solids (IS)         kg/hr      4,108                                                   4,377                 4,377
+Carbon Mole Flow               kmol/hr     3,117                 10                              3,127       12       3,115                 10
+COD                              kg/hr     101,238               327                           101,565     396      101,168               327
+LHV | 25°C                      Gcal/hr     -315.6       72.2       18.2         -0.4         -2.7       -231.7        -2.9       -230.0       1.2        16.9        1.2
+                                                                                                           116

@@ -1,0 +1,60 @@
+    processes
+
+
+Article
+Study of a Method to Eﬀectively Remove Char
+Byproduct Generated from Fast Pyrolysis of
+Lignocellulosic Biomass in a Bubbling Fluidized
+Bed Reactor
+
+Jong Hyeon Ha 1,2 and In-Gu Lee 1,*
+
+  1  Energy Resources Upcycling Research Laboratory, Korea Institute of Energy Research, 152 Gajeong-ro
+     Yuseong-gu, Daejeon 34129, Korea; jhha@kier.re.kr
+  2  Chemical and Biological Engineering Department, Korea University, 145 Anam-ro,
+    Seongbuk-gu 02841, Korea
+ *   Correspondence: samwe04@kier.re.kr; Tel.: +82-42-8603559
+
+
+ Received: 16 October 2020; Accepted: 2 November 2020; Published: 4 November 2020
+
+ Abstract: A critical issue in the design of bubbling ﬂuidized bed reactors for biomass fast pyrolysis is
+ to maintain the bed at a constant level to ensure stable operation. In this work, a bubbling ﬂuidized
+ bed reactor was investigated to deal with this issue. The reactor consists of inner and outer tubes and
+ enables in situ control of the ﬂuidized-bed level in the inner-tube reactor with a mechanical method
+ during biomass fast pyrolysis. The signiﬁcant fraction of biochar produced from the fast pyrolysis in
+ the inner-tube reactor was automatically removed through the annulus between the inner and outer
+ tubes. The eﬀect of pyrolysis temperature (426–528 ◦C) and feeding rate (0.8–1.8 kg/h) on the yield
+ and characteristics of bio-oil, biochar, and gaseous products were examined at a 15 L/min nitrogen
+ carrier gas ﬂow rate for wood sawdust with a 0.5–1.0 mm particle size range as a feed. The bio-oil
+ reached a maximum yield of 62.4 wt% on a dry basis at 440 ◦C, and then slowly decreased with
+ increasing temperature. At least 79 wt% of bio-char byproduct was removed through the annulus
+ and was found in the reactor bottom collector. The GC-MS analysis found phenolics to be more than
+ 40% of the bio-oil products.
+
+
+ Keywords: wood sawdust; fast pyrolysis; BFB reactor; inner and outer tubes; bio-oil; biochar
+
+
+
+
+1. Introduction
+
+     Since biomass is a carbon-based resource, it potentially produces all the types of fuels and
+chemicals which are presently obtained from crude oil. Furthermore, the use of biomass as a renewable
+energy carrier contributes to a reduction in the use of fossil fuels that are believed to be the major
+cause for global warming and environmental pollutions on the earth. Although many types of biomass
+resources are available for energy production, woody biomass is abundantly used to account for 87%
+of bioenergy produced in the world [1]. Currently, commercialized technologies that use woody
+biomass as an energy source are mostly direct burning methods including combustion in boiler
+systems [2], coﬁring with coal in power plants [3], and burning in stoves [4]. A drawback of direct
+burning of woody biomass is the diﬃculty of long-term storage of the heat energy product. During
+recent decades, advanced thermochemical technologies have been developed for the conversion of
+lignocellulosic biomass to liquid or gas fuels [5]. Examples include fast pyrolysis [6], liquefaction [7],
+and gasiﬁcation [8]. Fast pyrolysis and liquefaction both aim at the production of liquid biofuel,
+referred to as bio-oil, while gasiﬁcation produces combustible syngas that can further undergo synthesis
+processes such as Fischer-Tropsch (FT) diesel to produce liquid hydrocarbon fuels [9] and dimethyl
+
+
+
+Processes 2020, 8, 1407; doi:10.3390/pr8111407                                         www.mdpi.com/journal/processes

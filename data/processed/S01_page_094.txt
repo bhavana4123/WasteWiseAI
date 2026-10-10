@@ -1,0 +1,58 @@
+Foods
+
+
+WHEAT, BERSEE; solid; Material is a soft white grain of French origin grown as a high-
+    yielding winter or spring variety.  Straight line regression equations for computing the
+    specific heat (C ) at different moisture contents (MI in percent are below.  Moisture
+                P
+   content was determined in a ventilated oven at 113°C (235°F) for 4 hours and
+   calculated as a percentage of wet weight.  Germination was either 100% or 0%.
+
+    specific heat: temperature range 273-291 K (32"-64"F).  The apparent specific heat
+   of water [C (w)] was computed from the regression equation by writing M = 100%.
+             P
+  M = 23.7%-33.6%             M = l.8%-7.7%
+
+  Cp  0.00731 M + 0.336 Btu lb-I  OF-'      Cp  0.00591 M + 0.297 Btu Ib-I  OF-'
+  Cp = 0.00731 M + 0.336 cal  -I K-l       Cp = 0,00591 M + 0.297 cal  -1 K-1
+  C  = 0.03059 M + 1.406 J  g-'  K-'       Cp = 0.02473 M + 1.243 J g-7 K-1    P
+  C (w) = 1.07 Btu Ib-I OF-'           C (w) = 0.89 Btu lb-I OF-'
+    P                                     P
+  C (w) = 1.07 cal                 C (w) = 0.89 cal     K-l                                            -'    P                                        CP(w)P    = 3.72 f g-5 K-1  C      (w) = 4.48 J
+    P
+  M  7.7%-23.7%               M = 0.0%-1.8%
+
+  Cp = 0.01036 M + 0.263 Btu Ib-I  OF-'     Cp = 0.00406 M + 0.307 Btu Ib-I  OF-'
+   Cp = 0.01036 M + 0.263 cal     K-l      Cp = 0.00406 M + 0.307 cal  -I K-I
+  C  = 0.04335 M + 1.100 I g-'  K-l             = 0.01699 M + 1.284 J g-'  K-'    P                                       cP
+  C (w) = 1.30 Btu 1b-l OF-'             C (w) = -0.10 Btu Ib'l  OF-'
+    P                                   P
+  C (w)   1.30 cal                 C (w)   -0.10 cal
+     P                                   P
+  C (w)= 5.44 I g                         C,(W) = -0.42 J     P
+                                                                         54DIS
+
+WHEAT, NO. 1 NORTHERN MANITOBA; solid; Grain had an initial moisture content of
+    13.7%.  Samples of this batch were conditioned by drying in an oven (at either 60" or
+   113°C) or by addition of liquid water in air-tight jars.  Material is a Canadian hard
+   red spring wheat.
+
+    specific heat: temperature range 273-291 K (32O-64OF); data are mean values with
+   standard error in parentheses and moisture content (M) is given in % on a wet weight
+    basis.
+
+     M                 P                P
+                           (Btu Lpllb-    %
+
+      17.5                   0.447(0.0027)           0,447(0.0027)            I .870(0.0113)
+      15.3                   0.416(0.0021)            0.4 I6(0.002 I)        1.741(0.0088)
+      13.7                   0.398(0.0020)           0.398(0.0020)            I .665(0.0084)
+      10.1                   0.367(0.0039)           0.367(0.0039)         1.536(0.0163)
+        4.9                   0.333(0.0024)           0.333(0.0024)         1.393(0.0100)
+       1.89                  0.3 1S(0.0024)           0.318(0.0024)         1.331(0.0100)
+       1.29                   0.3 1O(0.0029)           0.3 lO(0.0029)        1.297(0.0121)
+
+                                                                          54DIS
+
+
+                                       100

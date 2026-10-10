@@ -1,0 +1,53 @@
+            Table 3. Some elements of importance to organic chemistry.
+           Name       Symbol   Atomic Number    Atomic Weight
+
+             Carbon     C        6                 12.011
+
+             Hydrogen   H       1                 1.008
+
+               Nitrogen   N       7                 14.007
+
+            Oxygen    O       8                 15.9994
+
+              Phosphorus  P        15                30.974
+
+                Sulfur      S        16                32.06
+
+
+For biodiesel purposes, carbon, hydrogen and oxygen are especially important and it is a good
+idea to memorize their atomic weights. For (rough) estimates, it suffices to just use the values H
+= 1, C = 12, O = 16, etc.
+
+When atoms form molecules, they connect via bonds. For organic chemistry, it is extremely
+important that each carbon atom in a molecule forms four bonds to other atoms. These other
+atoms can be other carbon, hydrogen, or oxygen or atoms of other elements. The bonds can be
+formed to a mixture of other atoms, for example, one carbon atom can form a bond to one
+hydrogen, one oxygen and two carbon atoms to meet the requirement of four bonds. When a
+carbon atom bonds to four other atoms, regardless of the nature of these atoms, these bonds are
+single bonds. Hydrogen can form only one bond to other atoms and oxygen can form two bonds
+to other atoms. It is also extremely important that carbon atoms can form double bonds or triple
+bonds. Compounds that have double or triple bonds are often called unsaturated compounds (can
+you explain why?). Thus, one carbon atom can be connected to an oxygen atom by a single bond,
+another carbon by a single bond, and another carbon by a double bond to meet the requirement of
+four bonds. Two carbon atoms can also be connected by triple bonds. A carbon atom and an
+oxygen atom can also be connected by a double bond (obviously, then the oxygen atom cannot
+form a bond with another atom). This versatility in bonding is responsible for the many different,
+often complex, structures of organic compounds.
+
+As in the case of water discussed above, organic molecules can be written as formulas, for
+example, CH4 for methane. For more complex molecules, it is a good idea and indeed customary
+to write structural formulas because of the many possible structures for a given combination of
+carbon atoms with other atoms (a feature known as isomerism). That way, features like double or
+triple bonds can also be indicated by the corresponding number of lines between carbon atoms or
+carbon and other atoms. Examples of some simple organic molecules containing only carbon,
+hydrogen, and oxygen that also show the diversity of organic compounds (check to see that there
+are always four bonds per carbon) are shown in Figure 9.
+
+Organic compounds can be categorized into various classes of compounds. In the above
+examples, note that methanol, ethanol (the alcohol contained in alcoholic beverages), and 1- and
+2-propanol (note the difference in 1- and 2-propanol; what does the difference in nomenclature
+indicate?) belong to the class of compounds known as alcohols. Their common feature is the
+
+
+
+                                       9

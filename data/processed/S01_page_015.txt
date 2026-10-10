@@ -1,0 +1,49 @@
+                                                                   Agricultural Residues
+
+
+BABASSU HUSKS; solid; Material is considered biomass fuel and has  roximate analysis
+   values (in percent by weight dry basis) for volatile concentration VCM) = 79.71, ash                                                             P
+   content = 1.59, and fixed carbon = 18.70.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 50.3 1,
+   hydrogen = 5.37, oxygen = 42.29, nitrogen = 0.26, sulfur = 0.04, and residue (ash)
+    1.73.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atrn 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 8570 Btu lbll
+    q,(gross)  = 4761 cal g-
+    q,(gross)  = 19920 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+                      1   qv(net) = 8101 Btu lb-
+   qv(net) = 4500 cal g-'
+    qv(net) = 18830 J g-l
+
+
+BARLEY STRAW; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 68.80, ash
+   content = 10.30, and fixed carbon = 20.90.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    39.92, hydrogen = 5.27, oxygen = 43.81, nitrogen = 1.25, and residue (ash) = 9.75.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 7447 Btu lb- 1
+   qv(gross) = 4 137 cal g-l
+    q,(gross) = 17310 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+   qv(net) = 6987 Btu 1bT1
+    q,(net)  = 3881 cal g-
+   qv(net) = 16240 J g-'
+
+                                                                         85 JEN/EBE
+
+
+
+
+
+                                       11

@@ -1,0 +1,49 @@
+                  Table 3-6. Gas Turbine Non-Fuel O&M Costs
+                                                            System
+          Cost Component
+                                      1           2           3           4           5
+ Net Operating Capacity (kW)               3,304         7,038        9,950      20,336        44,488
+ Turbine O&M ($/kWh)                 $0.0090      $0.0090      $0.0089     $0.0062      $0.0062
+ BOP O&M ($/kWh)                    $0.0036      $0.0033      $0.0031     $0.0031      $0.0030
+ Total O&M ($/kWh)                   $0.0126      $0.0123      $0.0120     $0.0093      $0.0092
+Source: Compiled by ICF from vendor-supplied data
+
+Daily maintenance includes visual inspection by site personnel of filters and general site conditions.
+Typically, routine inspections are required every 4,000 hours to insure that the turbine is free of
+excessive vibration due to worn bearings, rotors, and damaged blade tips. Inspections generally include
+on-site hot gas path boroscope inspections and non-destructive component testing using dye penetrant
+and magnetic particle techniques to ensure the integrity of components. The combustion path is
+inspected for fuel nozzle cleanliness and wear, along with the integrity of other hot gas path
+components.
+
+A gas turbine overhaul is needed every 25,000 to 50,000 hours depending on service and typically
+includes a complete inspection and rebuild of components to restore the gas turbine to nearly original
+or current (upgraded) performance standards. A typical overhaul consists of dimensional inspections,
+product upgrades and testing of the turbine and compressor, rotor removal, inspection of thrust and
+journal bearings, blade inspection and clearances and setting packing seals.
+
+Gas turbine maintenance costs can vary significantly depending on the quality and diligence of the
+preventative maintenance program and operating conditions. Although gas turbines can be cycled,
+cycling every hour triples maintenance costs versus a turbine that operates for intervals of 1,000 hours
+or more. In addition, operating the turbine over the rated capacity for significant periods of time will
+dramatically increase the number of hot path inspections and overhauls. Gas turbines that operate for
+extended periods on liquid fuels will experience shorter than average overhaul intervals.
+
+3.4.7  Fuels
+All gas turbines intended for service as stationary power generators in the United States are available
+with combustors equipped to handle natural gas fuel. A typical range of heating values of gaseous fuels
+acceptable to gas turbines is 900 to 1,100 Btu per standard cubic foot (scf), which covers the range of
+pipeline quality natural gas. Clean liquid fuels are also suitable for use in gas turbines.
+
+Special combustors developed by some gas turbine manufacturers are capable of handling cleaned
+gasified solid and liquid fuels. Burners have been developed for medium Btu fuel (in the 400 to 500
+Btu/scf range), which is produced with oxygen-blown gasifiers, and for low Btu fuel (90 to 125 Btu/scf),
+which is produced by air-blown gasifiers. These burners for gasified fuels exist for large gas turbines but
+are not available for small gas turbines.
+
+Contaminants in fuel such as ash, alkalis (sodium and potassium), and sulfur result in alkali sulfate
+deposits, which impede flow, degrade performance, and cause corrosion in the turbine hot section.
+
+
+
+Catalog of CHP Technologies                         3–15                         Combustion Tubines

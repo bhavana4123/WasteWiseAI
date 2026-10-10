@@ -1,0 +1,57 @@
+ also can be used to measure gas flow and to collect
+ moisture and tars and particulates over a measured
+ time.
+                                                                                                     10
+Figure 7-12(c) shows a system train for measuring gas                    9
+ flow and tars and particulates.
+
+The ball valve at the sample port (Fig. 7-12(a) and (cll
+permits changing the filter disc without danger of
+ releasing gas or admitting air. The filter holder in
+ Fig. 7-12(a) and (c) must be maintained, by electric
+heating or locating close to the hot gas pipe to keep the
+ filter hot enough, above the water dew point, typically
+ 80'C, to avoid water condensation in the filter disc.
+                                                                                                                                                                                          I          Gas velocity.  m/sec                                                Λ
+The desiccant-drying section (Fig. 7-12(a)-(cll should                                                    i2be constructed so that it can be disconnected for weigh­                                                             i Ping. We have found that an indicating desiccant as­                  t;4
+sembly can           be                fabricated                    by containing                                       the                                           desiccant
+between        two             glass-wool                       plugs                              in Tygon                                        or glass                                            "U"­                      =>-g ̸5
+tubes (Fig. 7-12(bll. (Drierite is a commercial form of
+                                                                                      Fig. 7ǆ 11. Errors in concentrations of 5 and 10 Jlm particles  (Source:
+anhydrous CaS04 containing cobalt sulfate, which      Strauss 1975, Fig. 2.13. © 1975. Used with permission of Pergamon
+changes from blue to pink when it becomes hydrated.)      Press)
+
+                 Table 7-S. Additional Components for Continuous Gas Quality Test Train
+
+Function             Specifications                                               Manufacturer
+Sample Port           1/4 in. FPT Fitting                                    Common compression fittings
+                         1/4 in. MPT ....1/4 in. tube compression                                             (e.g., Swagelock)
+Hygrometer          Cross fitting bushed down to accept 114 in. tubing                    User fabricated
+  Dry Bulb           Water reselVoir in bottom
+  Wet Bulb          2 hole stopper with thermometers
+                     Dry bulb bare
+                 Wet bulb wrapped with wicking that dips into water reselVoir
+Dryer                   Indicating desiccant Drierite or silica gel in a container large           User fabricated
+                      enough for several hours sample time 1 .5 cm dia x 40 cm
+                        U-tube
+Pump               Aquarium pump modified for suction and pressure selVice            Whisper (User modified)
+                        capable of 50 in. WG, 0.01 scfm
+Flow Meter             Floating ball rotameter-RMA                                 Dwyer
+Burner                  Diffusion flame non-mixed                                  See Fig. 7-16 or user fabricated
+                        1/4 in. tubing with 1/8 in. ID opening
+Readout             Chromel-alumel thermocouple                                Omega, etc.
+
+
+                 Table 7-6. Additional Components for Condensible Collection Test Train
+
+Item               Purpose                                                                               Price Rank
+Gas Dryer            For small sample moisture determination
+                     8 in. length of 3/8 in. tubing with fittings filled with indicating desiccant weighed
+                         before and after each test                                                      2
+                     For large sample pump protection
+                     250 ml flask filled with indicating desiccant or ice bath, bubbler, impinger, condenser          3
+Filter Heater        To prevent condensation at probe                                                                                     1
+                       Heater tape around sample lines and filter holder heated chamber
+
+
+                                                                       Gas Testing    59

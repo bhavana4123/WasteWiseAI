@@ -1,0 +1,53 @@
+                           Table 29. Chemical Costs and Sources
+  Component             Cost (2007$)  Source
+  Feedstock (corn stover)     $0.0224/lb    MYPP, $58.50/dry ton @ 20% moisture [27]
+   Sulfuric acid, 93%          $0.0399/lb     Basic Chemical of Omaha via Harris Group
+  Ammonia                  $0.1993/lb     Terra Industries via Harris Group
+  Corn steep liquor           $0.0252/lb     Corn Products via Harris Group
+  Diammonium phosphate    $0.4385/lb    Ronas Chemicals via Harris Group
+   Sorbitol                    $0.5005/lb     Coast Southwest via Harris Group
+  Glucose                   $0.2579/lb    USDA ERS [78]
+  SO2                       $0.1378/lb     SRI Chemical Economics Handbook (CEH)
+  Enzyme nutrients           $0.3727/lb     SRI CEH (See Table 20)
+  Caustic                    $0.0678/lb    Brown and Caldwell WWT design [65]
+  Lime                       $0.0904/lb      Harris Group
+   Boiler chemicals            $2.2661/lb     2002 Design Report [2]
+  Cooling tower chemicals    $1.3580/lb     2002 Design Report [2]
+  Fresh water                $0.0001/lb     Peters & Timmerhaus [74]
+
+                             Table 30. Variable Operating Costs
+Process  Stream Description      Usage   Usage    Cost     $/hour   MM$/yr   Cent/Gal
+Area                                   (kg/h)     (lb/h)     ($/ton)              (2007$)   Ethanol
+                                                                                       (2007$)
+                             Raw materials
+N/A       Feedstock (wet)          104,167  229,688     46.80   5,374.69     45.20      74.07
+A200       Sulfuric acid, 93%           1,981    4,367     81.39     177.73      1.49       2.45
+         Ammonia                  1,051    2,317    406.96     471.48      3.97       6.50
+A300     Corn steep liquor            1,158    2,554     51.55      65.84      0.55       0.91
+         Diammonium phosphate      142     313    895.32     140.33      1.18       1.94
+            Sorbitol                     44      98  1,021.93      49.96      0.42       0.69
+A400      Glucose                    2,418    5,332    526.52   1,403.60     11.80      19.34
+          Corn steep liquor            164     363     51.55       9.35      0.08       0.13
+         Ammonia                  115     254    406.96      51.59      0.43       0.71
+          Host nutrients                67     149    745.30      55.34      0.47       0.76
+            Sulfur dioxide                16      36    275.70       4.99      0.04       0.07
+A600      Caustic                    2,252    4,966    135.65     336.83      2.83       4.64
+A800       Boiler chems                <1       1  4,532.17       1.23      0.01       0.02
+        FGD lime                  895    1,973    180.87     178.42      1.50       2.46
+A900      Cooling tower chems           2       5  2,716.10       7.14      0.06       0.10
+         Makeup water            147,140  324,443      0.23      38.11      0.32       0.53
+           Subtotal                                                8,328.49     70.36     115.30
+                                 Waste disposal
+A800      Disposal of ash             5,725   12,623     28.86     182.15      1.53       2.51
+           Subtotal                                               182.15      1.53       2.51
+                                 By-products and credits
+           Grid electricity             12,797 kW   $0.0572/kWh    731.57      6.15      10.08
+          Area 100 electricity          859 kW   $0.0572/kWh     49.13      0.41       0.68
+           Subtotal                                               780.71      6.57      10.76
+Total variable operating costs                                      7,779.08     65.33     107.76
+
+
+
+
+
+                                      63

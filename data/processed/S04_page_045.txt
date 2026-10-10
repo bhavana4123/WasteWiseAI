@@ -1,0 +1,50 @@
+some propane and normally is used in low compression engines (both naturally aspirated and
+turbocharged). Retarded ignition timing eliminates detonation.
+
+2.4.7.3   Biogas
+Biogases (landfill gas and digester gas) are predominantly mixtures of methane and CO2 with HHV in the
+range of 300 to 700 Btu/scf. Landfill gas also contains a variety of contaminants as discussed earlier.
+Biogases are produced essentially at or somewhat below atmospheric pressure so must be compressed
+for delivery to the engine. After compression, cooling and scrubbing or filtration are required to remove
+compressor oil, condensate, and any particulates that may have been entrained in the original gas.
+Scrubbing with a caustic solution may be required if acid gases are present. Because of the additional
+requirements for raw gas treatment, biogas powered engine facilities are more costly to build and
+operate than natural gas-based systems.
+
+A key contaminant in biogas is a class of compounds called siloxanes, a subgroup of silicones containing
+Si-O bonds with organic radicals. These compounds are widely used for a variety of industrial processes
+and are also commonly added to consumer products, including detergents, shampoos, cosmetics, paper
+coatings, and textiles. Siloxanes in wastewater do not break down in wastewater treatment facilities or
+in landfills. As sludge undergoes anaerobic digestion, it may be subjected to temperatures of up to 150
+oF. At these temperatures, siloxanes volatilize and enter the gas stream. Subjected to the heat of
+combustion in a reciprocating engine (turbine or microturbine), siloxanes leave behind hard deposits of
+silica on pistons and valve assemblies causing abrasion and impact damage that reduce the life and
+efficiency of the engine. Siloxanes need to be removed using refrigeration or sorbents such as activated
+carbon, alumina, synthetic resins, or liquid sorbents.25
+
+For engines operating on biogas, additional capital investment is required for this fuel clean-up,
+compression, and sometimes derating of the engine capacity due to the lower thermal energy content
+of the fuel. For a 1,000 kW reciprocating engine, the added equipment and installation cost is about
+$600/kW.26 Smaller systems can require nearly the same amount of equipment, so unit costs go up
+rapidly on smaller installations.
+
+Improved engine design and hardened valve seats reduce siloxane damage on engines, thereby reducing
+the need for complete removal.
+
+2.4.7.4   Industrial Waste Gases
+Industrial waste gases that are common used as reciprocating engine fuels include refinery gases and
+process off-gases. Refinery gases typically contain components such as H2, CO, light hydrocarbons, H2S,
+and ammonia, as well as CO2 and N2. Process off-gases include a wide variety of compositions. Generally,
+waste gases are medium- to low-Btu content. Medium-Btu gases generally do not require significant
+engine derating; low-Btu gases usually require derating.
+
+
+
+
+25 Dick McCarrick, “Siloxanes and Biogas,” Environmental Leader (online edition), July 10, 2012.
+http://www.environmentalleader.com/2012/07/10/siloxanes-and-biogas/
+26 Opportunities for and Benefits of Combined Heat and Power at Wastewater Treatment Facilities, Eastern Research Group and
+EEA, Inc. (now ICF) for the U.S. EPA, 2007.
+
+
+Catalog of CHP Technologies                         2–19                         Reciprocating IC Engines

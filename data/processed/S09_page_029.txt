@@ -1,0 +1,50 @@
+found to have sulfur levels of 40-50 ppm. The sulfur limits for on-highway diesel fuel will be
+reduced to 0.0015% (15 ppm) in 2006, so producers that do not meet this future specification on
+a regular basis may need to consider sulfur removal technology in their facility.
+
+Method: ASTM D 130 – Copper strip corrosion
+Requirement: No. 3, max
+
+The copper strip corrosion is used “ [for the] detection of the corrosiveness to copper of fuels
+and solvents.” This test monitors the presence of acids in the fuel.
+
+For B 100, the most likely source of a test failure would be excessive free fatty acids, which are
+determined in accordance with an additional specification. The producer may choose to run this
+test periodically, but the acid number (D 664) determination is the more important acid content
+QC measurement.
+
+Method: ASTM D 613 – Cetane number
+Requirement: 47, min
+
+The cetane number is “a measure of the ignition performance of a diesel fuel obtained by
+comparing it to reference fuels in a standardized engine test.” Cetane for diesel engines is
+analogous to the octane rating in a spark ignition engine – it is a measure of how easily the fuel
+will ignite in the engine.
+
+For B100, the cetane number is seldom an issue because all of the common fatty acid esters have
+cetane numbers near or above 47. The cetane number can be predicted ± 10 % using the esters
+composition. It is unlikely that an individual producer will ever run cetane tests on-site because
+the equipment is extremely expensive.
+
+Method: ASTM D 2500 – Cloud point
+Requirement: Report in ºC to customer
+
+The cloud point is “The temperature at which a cloud of wax crystals first appears in a liquid
+when it is cooled down under conditions prescribed in this test method.” The cloud point is a
+critical factor in cold weather performance for all diesel fuels.
+
+The chemical composition of some biodiesel feedstocks leads to a B100 that may have higher
+cloud points than customers desire. The cloud point, however, is another parameter that can be
+predicted ± 5 % with knowledge of the esters composition, but producers are advised to be
+equipped to perform this test. Since the saturated methyl esters are the first to precipitate, the
+amounts of these esters, methyl palmitate and methyl stearate, are the determining factors for the
+cloud point.
+
+The producer can modify the cloud point two ways. One is through the use of additives that
+retard the formation of solid crystals in the B100 by various mechanisms. The cloud point can
+also be modified by blending feedstocks that are relatively high in saturated fatty acids with
+feedstocks that have a lower saturated fatty acid content. The result is a net lower cloud point for
+
+
+
+                                      25

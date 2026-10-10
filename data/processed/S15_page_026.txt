@@ -1,0 +1,67 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.11 Summary of Waste Heat By Type and Associated Barriers,1 continued
+
+
+   Type of Waste Heat              Associated Barriers to Adoption in U.S. Industry
+
+   Hot water that contains large
+   amounts of contaminants such as                             No major technical barriers for cleaning the water (removing the solids)
+     solids from the process or other                                      Lack of opportunities to use low-grade heat within the plant or economically justifiable    sources, but does not contain
+                                     energy conversion systems.    organic liquids or vapors mixed
+    with the water
+
+
+                                                        No major technical barriers for filtering the water (removing the solids)
+
+                                                               The presence of SO2, CO2, and other dissolved gases presents problems of high PH values   Hot water or liquids containing                                            for water use within a plant. Typical water degasification processes (vacuum deaeration,    dissolved perceptible solids,                                        gas transfer membrane, hot water steam injection/stripping deaeration, etc.) are energy    dissolved gases (e.g., CO2, O2,and                                           intensive and costly.
+    SO2) or liquids                                                  Lack of opportunities to use low-grade heat within the plant or economically justifiable
+                                     energy conversion systems
+
+
+                                                                  Economically justifiable cooling air collection system
+
+                                Hot solids that are cooled after      Lack of opportunities to use low-temperature heat within the plant or economically
+    processing in an uncontrolled         justifiable energy conversion systems.
+   manner                     Variations in cooling air temperatures and the presence of microscopic particulates
+                                       prevent their use in combustion system (burners)
+
+   Hot solids that are cooled after
+    processing using water or air-     No major technical barriers for filtering the water (removing the solids)
+    water mixture. Examples include   Lack of opportunities to use low-grade heat within the plant or economically justifiable
+    hot coke, ash, slag, and heat         energy conversion systems
+    treated parts
+
+   Hot liquids and vapors that are
+    cooled after thermal processing.                              No major technical barriers for recovering heat if there is sufficient temperature “head”
+    Examples include fluids heated                                      Lack of opportunities to use low-grade heat within the plant or economically justifiable    in petroleum refining or the
+                                     energy conversion systems    chemical, food, mining, or paper
+    industries
+
+
+                                                                  Economically justifiable collection system for hot material    By-products or waste that
+     is discharged from thermal       Economics of processing the material to recover recyclable or useful materials, or
+    processes. These materials           combustibles for use of chemical heat
+                                 contain sensible, latent,              Materials are often classified as hazardous materials and need special treatment
+   and chemical heat that is         Cost of recycling or cleaning the residues and treatment of gases or other materials that
+    not recovered prior to their           are produced during the recovery or treatment process
+     disposal.20                                                           Variations in the amount of recoverable materials
+
+
+                                                        No practical way of recovering this heat, especially for systems such as rotary kilns or
+                                 moving surfaces (i.e. conveyors)
+    High-temperature surfaces                                   Low efficiency and cost for advanced surface-mounted energy conversion technologies
+                                     such as thermoelectric systems
+
+
+                                                        No practical way of recovering and collecting this heat, especially for systems such as rolls
+    Extended surfaces or parts used     used for a furnace
+    in furnaces or heaters           Low efficiency and high cost for advanced surface-mounted energy conversion
+                                        technologies such as thermoelectric systems
+
+
+
+
+ 25  Quadrennial Technology Review 2015

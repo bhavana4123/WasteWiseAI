@@ -1,0 +1,48 @@
+system, the steam is exhausted from the turbine at the lowest practical pressure, through the use of a
+water-cooled condenser to extract the maximum amount of energy from the steam. In CHP plants or
+district heating systems, the steam is exhausted from the steam turbine at a pressure high enough to be
+used by the industrial process or the district heating system. In CHP configuration, there is no condenser
+and the steam and condensate, after exiting the process, is returned to the boiler.
+
+There are numerous options in the steam supply, pressure, temperature and extent, if any, for reheating
+steam that has been partially expanded from high pressure. Steam systems vary from low pressure lines
+used primarily for space heating and food preparation, to medium pressure and temperature used in
+industrial processes and cogeneration, and to high pressure and temperature use in utility power
+generation. Generally, as the system gets larger the economics favor higher pressures and
+temperatures, along with their associated heavier walled boiler tubes and more expensive alloys.
+
+4.3.2.1   Boiler
+Steam turbines differ from reciprocating engines, internal combustion engines, and gas turbines in that
+the fuel is burned in a piece of equipment, the boiler, which is separate from the power generation
+equipment. The energy is transferred from the boiler to the steam turbine generator by an intermediate
+medium, typically steam under pressure. As mentioned previously, this separation of functions enables
+steam turbines to operate with an enormous variety of fuels. The topic of boiler fuels, their handling,
+combustion and the cleanup of the effluents of such combustion is a separate and complex issue that is
+addressed in the fuels and emissions sections of this report.
+
+For sizes up to (approximately) 40 MW, horizontal industrial boilers are built. This enables them to be
+shipped via rail car, with considerable cost savings and improved quality, as the cost and quality of
+factory labor is usually both lower in cost and greater in quality than field labor. Large shop-assembled
+boilers are typically capable of firing only gas or distillate oil, as there is inadequate residence time for
+complete combustion of most solid and residual fuels in such designs. Large, field-erected industrial
+boilers firing solid and residual fuels bear a resemblance to utility boilers except for the actual solid fuel
+injection. Large boilers usually burn pulverized coal; however, intermediate and small boilers burning
+coal or solid fuel employ various types of solids feeders.
+
+4.3.2.2   Steam Turbine
+In the steam turbine, the steam is expanded to a lower pressure providing shaft power to drive a
+generator or run a mechanical process.
+
+There are two distinct designs for steam turbines – impulse and reaction turbines. The difference
+between these two designs is shown in Figure 4-2. On impulse turbines, the steam jets are directed at
+the turbine's bucket shaped rotor blades where the pressure exerted by the jets causes the rotor to
+rotate and the velocity of the steam to reduce as it imparts its kinetic energy to the blades. The next
+series of fixed blades reverses the direction of the steam before it passes to the second row of moving
+blades. In Reaction turbines, the rotor blades of the reaction turbine are shaped more like airfoils,
+arranged such that the cross section of the chambers formed between the fixed blades diminishes from
+the inlet side towards the exhaust side of the blades. The chambers between the rotor blades essentially
+form nozzles so that as the steam progresses through the chambers its velocity increases while at the
+
+
+
+Catalog of CHP Technologies                          4–4                            Steam Turbines

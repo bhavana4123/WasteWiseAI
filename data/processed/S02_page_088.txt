@@ -1,0 +1,56 @@
+                                                       capture element is the dynamic cake that forms on the
+                                                             ,", Gas out                           filter surface. This cake, which consists of captured
+                                                                 particles, presents a circuitous path that effectively
+                                                   captures fine particles, while coarser captured     i' '"'  "             particles maintain an open cake structure to promote    G"
+                                                    high gas permeability, When a new filter fabric is
+                                                             inserted, the main mechanism of particle collection is      "C:::>                                 physical sizing as determined by the openings in the           Skirt
+                                                    weave. At first, small particles may pass uncaptured
+                                                              until some buildup accumulates on the filter. From this
+                                                       point on, the gas must effectively pass through a packed
+                                               bed of micrometer-sized particles. Interception and
+                                                 impaction then emerge as significant collection
+                                                  mechanisms.
+
+                                                              8.6.3.3 Application of 8aghouse Filters
+
+                                                  Baghouse filters have been used with good success in
+                                        many of the more successful and reliable engine
+                         Liquid out                            gasifier systems (Breag 1982; Kjellstrom 1981), The use                                                                                 of fabric filters has virtually eliminated the corrosive
+ Fig, 8-9, Wet cyclone  (Source: Calvert 1972, Fig, 3, 1-6)
+
+Collecting entrained droplets from wet scrubbers with             r-_'T"'-___    compressed
+a cyclone separator requires an outlet skirt to prevent                                  -,--,   r supply
+reentrainment of liquids that have impinged on the       Solenoid     -"             ˿="ill!=ȵ;p==ǩ=¥ai 60 psi        oi'i"
+                                                                                                Nozzleoutlet tube, as shown in Fig, 8-9,                                --1r---"--'i"-o"k:
+                                                                                               Induced
+8.6.2.6 Recent Cyclone Development                                                                 flow
+Recent work has been done on cyclone design specifi­                                            Opens                                                                                           1Timer:                                                           exhauster    __     -cally applied to gasifiers by LePori (1983),              ΋Ό΍""'"ΎI ' "                      eachturn valvefor 0,1ins
+                                                                                                                     at 10 s
+8.6.3 8aghouse Filter                                                                                         intervals
+8.6.3.1  Principle of 8aghouse Filters                                                                              Filter media
+                                                                                                                                           (felt, ceramic,
+Baghouse filters (such as shown in Fig, 8-10) are used                                                     metallic, etc,)
+widely today to capture fine dust particles and to
+separate flyash from combustion gases. A baghouse fil­                                                                                                                                            '
+ter consists of one or more fibrous filter bags supported                                                Retainers: For
+                                                                                                 support ofon metal cages enclosed in a chamber through which                                                                                                                fabric media
+the gases must pass, A deposit of the separated par­
+ticles soon builds up on the bag and establishes a dust
+cake of appropriate pore size through which addition­
+al particles cannot pass. As more dust is accumulated,
+the pressure drop increases. When the cake is an op­
+timal thickness for removal, the bag is agitated either           air
+by gas pressure or by mechanical means, causing the
+excess cake to drop to the bottom of the housing where
+it is eventually removed.
+
+8.6.3.2 Action of the Filter Cake in the Operation of               Material discharge                                                                                                                                                                                                                    !Fabric Filters
+                                                                   Note:  This schematic is intended to describeFibrous bag filters have been found to be outstanding                                                                   function and is not necessarily typical of actual
+in the removal of particles down to submicron sizes, as                                                                   construction
+shown in the grade efficiency curve of Figs, 8-2 and
+8-11 , High-efficiency capture of small particles  is
+surprisingly independent of the size of openings in the        Fig, 8-10. Cloth bag  filter with intermittent reverse pulse cleaning
+filter weave, The reason for this is that the primary       (Source: Wort< 1955, p, 483)
+
+
+80    Handbook of Biomass Downdraft Gasifier Engine Systems

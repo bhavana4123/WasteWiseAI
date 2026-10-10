@@ -1,0 +1,49 @@
+                    1. Basics of Biodiesel Production
+
+Biodiesel is an alternative fuel for diesel engines that is gaining attention in the United States
+after reaching a considerable level of success in Europe. Its primary advantages are that it is one
+of the most renewable fuels currently available and it is also non-toxic and biodegradable. It can
+also be used directly in most diesel engines without requiring extensive engine modifications.
+The purpose of this book is to describe and explain the processes and issues involved in
+producing this new fuel.
+
+The most cursory look at the literature relating to biodiesel will soon reveal the following
+relationship for prediction of biodiesel from fats and oils.
+
+      100 lbs of oil + 10 lbs of methanol → 100 lbs of biodiesel + 10 lbs of glycerol
+
+This equation is a simplified form of the following transesterfication reaction.
+
+
+        O                         O
+                              ||                                                                                              ||
+   CH2 - O - C - R1                      CH3 - O - C - R1
+           |
+           |     O                         O        CH2 - OH
+           |                   ||                                                                                             ||                          |
+   CH  - O - C - R2 +  3 CH3OH  →      CH3 - O - C - R2  +  CH - OH
+           |                                (Catalyst)                                                          |
+           |     O                         O        CH2 - OH
+           |                   ||                                                                                             ||
+   CH2 - O - C - R3                      CH3 - O - C - R3
+
+        triglyceride       methanol            mixture of fatty esters     glycerol
+
+                        Figure 1. Transesterification Reaction
+
+where R1, R2, and R3 are long chains of carbons and hydrogen atoms, sometimes called fatty acid
+chains. There are five types of chains that are common in soybean oil and animal fats (others are
+present in small amounts):
+
+Palmitic:    R =  - (CH2)14 – CH3             16 carbons, (including the one that
+                                R is attached to.) (16:0)
+
+Stearic:    R =  - (CH2)16 – CH3             18 carbons, 0 double bonds (18:0)
+
+
+Oleic:     R =  - (CH2)7 CH=CH(CH2)7CH3   18 carbons, 1 double bond (18:1)
+
+
+
+
+                                       1

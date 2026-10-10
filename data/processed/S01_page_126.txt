@@ -1,0 +1,50 @@
+                                                                          Paper
+
+
+BROWN PAPER; solid; ultimate analysis in percent by weight: carbon, 44.90%; hydrogen,
+    6.08%; oxygen, 47.84%; nitrogen, 0.00%; sulfur, 0.1 1%; ash, 1.07%; proximate analysis
+    as received in percent by weight: moisture, 5.83%;  volatile matter, 83.92%; fixed
+    carbon, 9.24%; ash, 1.01%.
+
+    gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+
+    q,(gross) = 7261 Btu Ib;'                     qv(gross) = 7711 Btu Ib-I
+    q,(gross)  = 4034 cal g-                      qv(gross) = 4284 cal g-l
+    qv(gross) = 16877 J g-'                         q,(gross)   17924 J g-l
+
+                                                                    66KAI
+CORRUGATJiD BOX; solid; ultimate analysis in percent by weight: carbon, 43.73%;
+    hydrogen, 5.70%; oxygen, 44.93%; nitrogen, 0.09%; sulfur, 0.21%; ash, 5.34%;
+   proximate analysis as received in percent by weight: moisture, 5.20%; volatile
+    matter, 77.47%; fixed carbon, 12.27%; ash, 5.06%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+
+    qv(gross) = 7047 Btu lb-I                    qv(gross) = 7434 Btu    q,(gross)  = 3915 cal g- 1                    $'
+                                               qv(gross) = 4130 cal g-
+    q,(gross) = 16382 J g-'                      qv(gross) = 17280 J g-l
+
+                                                                    46KAI
+FOOD CARTONS; solid; ultimate analysis in percent by weight: carbon, 44.74%;
+   hydrogen, 6.10%; oxygen, 41.92%; nitrogen, 0.15%; sulfur, 0.16%; ash, 6.93%;
+   proximate analysis as received in percent by weight: moisture, 6.1 1%; volatile
+   matter, 75.59%; fixed carbon, 11.80%; ash, 6.50%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+    q,(gross) = 7263 Btu Ibi'                    q,(gtosd  = 7735 Btu Ibi 1
+   qv(gross) = 4035 cal g-                      qv(gross) = 4297 cal g-
+    q,(gross)  = 16882 J g-'                         q,(gross) = 17980 J g-'
+
+                                                                    66KAI
+
+
+
+
+
+                                      137

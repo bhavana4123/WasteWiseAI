@@ -1,0 +1,3 @@
+# Keep the existing runtime pins, including Uvicorn for local regression runs.
+-r requirements-production.txt
+mangum==0.21.0

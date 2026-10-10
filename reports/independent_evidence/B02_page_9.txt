@@ -1,0 +1,64 @@
+Processes 2020, 8, 1407                                                                                      9 of 14
+
+
+
+the formation of levoglucosan. This is an unexpected result because levoglucosan is known to be a
+compound which is ﬁrst formed during the decomposition of cellulose, and then undergoes further
+degradation reactions to form furan derivatives and acids. Probably, pyrolysis temperatures below
+480 ◦C are too low to achieve complete decomposition of cellulose to its unit compound, levoglucosan.
+Meanwhile higher pyrolysis temperatures promote the decomposition of furfurals and acids which
+might be produced from levoglucosan. The compounds present in the bio-oil products at the two
+pyrolysis temperatures were all grouped on the basis of their functionalities, as shown in Figure 7.
+Phenol derivatives from the decomposition of lignin fraction were more than 40 area % at 440 ◦C and
+increased to 48.3 area % at 480 ◦C, indicating that the phenol derivatives were relatively stable under
+the pyrolysis conditions. In a related work, Klemetsrud et al. [39] also found that a higher temperature
+favored the formation of phenolic species from the pyrolysis of hybrid poplar biomass. In the pyrolysis
+of Douglas-ﬁr lignin, Zhou et al. [40] found a signiﬁcant amount of guaiacol derivatives without
+the formation of monophenols. On the basis of their ﬁndings, they proposed lignin thermochemical
+conversion mechanisms consisting of two major steps in which the formation of lignin oligomers
+occurred relatively fast, and then the formed oligomer were further degraded to monophenols at lower
+reaction rates. The formation of nitrogen-containing compounds was consistent with the elemental
+analysis results and slightly increased with an increase in the pyrolysis temperature. Furan derivatives
+and acids were present in the bio-oil products at low levels, indicating that those compounds were not
+stable under the pyrolysis conditions.
+
+
+     Table  3.   Comparison  of major organic compounds  in  bio-oil products obtained  at two
+     diﬀerent temperatures.
+
+             RT                                                         Area (%)
+       No.                         Compound
+                (min)                                                       440 ◦C       480 ◦C
+
+         1       4.722                          Furfural                             2.48           2.20
+         2       7.269                    2(5H)-Furanone                         1.77           2.24
+         3       7.658                 1,2-Cyclopentanedione                      1.99           1.44
+         4       9.111                     Furfural, 5-methyl-                        1.09           0.71
+         5       11.875        2-Cyclopenten-1-one, 2-hydroxy-3-methyl-            1.82           1.92
+         6       12.533                4-Methyl-5H-furan-2-one                     0.73           0.87
+         7       14.147                    Phenol, 4-methyl-                        0.75           0.73
+         8       14.662              Phenol, 2-methoxy- (guaiacol)                  4.62           5.45
+         9       15.692                         Maltol                              0.98           0.77
+        10      19.176        4H-Pyran-4-one, 3,5-dihydroxy-2-methyl-            0.88           0.58
+        11      19.480           Phenol, 2-methoxy-4-methyl- (cresol)               6.90           7.41
+        12      19.954                     1,2-Benzenediol                         2.92           3.86
+        13      20.241        1,4:3,6-Dianhydro-.alpha.-d-glucopyranose            0.73           0.48
+        14      21.368       2-Furancarboxaldehyde, 5-(hydroxymethyl)-           2.44           1.80
+        15      22.655                1,2-Benzenediol, 3-methyl-                    0.67           1.06
+        16      23.382              Benzeneethanol, 2-methoxy-                   3.05           3.31
+        17      24.017                   4 Methyl catechol                        0.95           1.53
+        18      24.904                2-Methoxy-4-vinylphenol                    0.57           0.55
+        19      26.844            Phenol, 2-methoxy-3-(2-propenyl)-                1.36           2.54
+        20      27.262               Phenol, 2-methoxy-4-propyl-                   0.57           0.94
+        21      28.578                           Vanillin                             2.46           3.32
+        22      30.723      Phenol, 2-methoxy-4-(1-propenyl)- (isoeugenol)         2.94           2.17
+        23      31.130               Phenol, 2-methoxy-4-propyl-                   1.24           1.27
+        24      32.194       Ethanone, 1-(4-hydroxy-3-methoxyphenyl)-           1.24           1.70
+        26      33.476     Benzoic acid, 4-hydroxy-3-methoxy-, methyl ester        3.44           1.41
+        27      34.042              2,6-dimethyl-4-hydroxyaniline                  1.38           4.13
+        28      34.311                        d-Allose                             3.55           1.61
+        29      34.546    1,6-Anhydro-.beta.-D-glucopyranose (levoglucosan)       2.96           6.50
+        30      36.005         propano 3-methoxy-4-hydroxyphenone             0.52           0.65
+        31      38.534        Benzeneacetic acid, 4-hydroxy-3-methoxy-            1.56           1.72
+        32      62.927              1-Phenanthrenecarboxylic acid                  0.98           0.53
+         total                                                                         67.90          65.40

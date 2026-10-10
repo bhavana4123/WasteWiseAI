@@ -1,0 +1,49 @@
+differences, steam turbines are more efficient than reciprocating steam engines operating from the
+steam at the same inlet conditions and exhausting into the same steam exhaust systems.
+
+There are numerous mechanical design features that have been created to increase efficiency, provide
+for operation over a range of conditions, simplify manufacture and repair, and achieve other practical
+purposes. The long history of steam turbine use has resulted in a large inventory of steam turbine stage
+designs that can be used to tailor a product for a specific application. For example, the division of steam
+acceleration and change in direction of flow varies between competing turbine manufacturers under the
+identification of impulse and reaction designs. Manufacturers tailor clients’ design requests by varying
+the flow area in the stages and the extent to which steam is extracted (removed from the flow path
+between stages) to accommodate the client specifications.
+
+When steam is expanded through a very high pressure ratio, as in utility and large industrial steam
+systems, the steam can begin to condense in the turbine if the temperature of the steam drops below
+the saturation temperature at that pressure. If water drops were allowed to form in the turbine, they
+would impact the blades and would cause blade erosion. At this point in the expansion, the steam is
+sometimes returned to the boiler and reheated to high temperature and then returned to the turbine
+for further (safe) expansion. In a few very large, very high-pressure utility steam systems, double reheat
+systems are installed.
+
+With these choices the designer of the steam supply system and the steam turbine have the challenge of
+creating a system design which delivers the (seasonally varying) power and steam, that also presents the
+most favorable business opportunity to the plant owners.
+
+Between the power (only) output of a condensing steam turbine and the power and steam combination
+of a back pressure steam turbine, essentially any ratio of power to heat output can be supplied to a
+facility. Moreover, back pressure steam turbines can be obtained with a variety of back pressures,
+further increasing the variability of the power-to-heat ratio.
+
+4.3.2.3   Condensing Turbine
+The primary type of turbine used for central power generation is the condensing turbine shown
+schematically in Figure 4-3. These power-only utility turbines exhaust directly to condensers that
+maintain vacuum conditions at the discharge of the turbine. An array of tubes, cooled by water from a
+river, lake or cooling tower, condenses the steam into (liquid) water.59 The vacuum conditions in the
+condenser are caused by the near ambient cooling water causing condensation of the steam turbine
+exhaust steam in the condenser. As a small amount of air is known to leak into the system when it is
+below atmospheric pressure, a relatively small compressor or steam air ejector may be used to remove
+non-condensable gases from the condenser. Non-condensable gases include both air and a small
+amount of the corrosion byproduct of the water-iron reaction, hydrogen.
+
+
+
+
+
+59 At 80° F, the vapor pressure of water is 0.51 psia, at 100° F it is 0.95 psia, at 120° F it is 1.69 psia and at 140° F Fahrenheit it is
+2.89 psia
+
+
+Catalog of CHP Technologies                          4–6                            Steam Turbines

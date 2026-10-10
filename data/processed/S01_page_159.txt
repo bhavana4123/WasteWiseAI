@@ -1,0 +1,41 @@
+Polymers and Plastics
+
+
+NORYL RESIN 111; solid; (E.I. duPont de Nemours and Company trade name);
+   composition: polystyrene, 47%; polyphenylene oxide, 47%; polybutadiene, 5%;
+   polyethylene, 1%.
+
+   heat of fusion: 83O - 103O C ( 18 1O -2 17 O F)
+
+   Lf = 0.4 Btu lb-I
+   Lf = 0.2 ca1-q-l
+   Lf   0.8 J g
+
+   specific heat:
+
+   tern erature
+                                              Cp(cal g-1 K-l)    (KP  (OF)         Cp(Btu lb-I   OF-')                            Cp(J g-l K-l)
+
+    194  -110                 0.178                   0.178                0.745
+    277    39                 0.242                   0.242                1.013
+    298    77                 0.282                   0.282                1.205
+    323   122                 0.316                    0.3 16                1.322
+    373   212                0.393                   0.393                1.644
+    424   304                 0.439                    0.439                1.837
+    482   408                 0.483                    0.483                   2.021.
+    519   475                0.503                  0.503                2.105
+
+   specific heat change at glass transition temperature:
+
+   tern erature
+    (KP  (OF)      C (Btu lb-l             Cp(cal g-l K-')      Cp(J g-l K-l)                      P
+    212    - 7 8                 0.005                   0.005                0.021
+    414   286                 0.044                    0.044                0.184
+
+                                                                  70ba1
+
+
+
+
+
+                                      174

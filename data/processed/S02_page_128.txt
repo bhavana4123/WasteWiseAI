@@ -1,0 +1,50 @@
+  Loosen clothing around the neck and throat, and     bogen) gas (02 + 7% CO2) or pure oxygen, with two face
+  check for the presence of an adequate airway in the    masks and shoulder harnesses to free the hands of the
+  throat.                                                   rescuers. The Karbogen gas removes CO as much as
+ • If the person is unconscious, administer artificial     three times as fast as pure oxygen alone since the CO2
+                                                       in Karbogen gas stimulates the vagus nerve, causing  respiration immediately.
+ • Administer oxygen or mixed resuscitation gas (7%    more rapid breathing and, hence, faster CO removal.
+ CO2 in oxygen) as soon as possible; see Fig. 12-1.       Chronic CO poisoning symptoms, which often "sneak
+ • Summon medical aid but not at the expense of leav­    up" on the victim, cause him to become tired, uncom­
+                                                                 fortable, and irritable, and also induce sleeping dif­  ing the victim unattended.
+ • Keep the victim warm.                                        ficulty. Sex drive virtually disappears, and urinary and                                                       heart problems have been common. Memory and
+• Keep the victim under surveillance, as relapses often     eyesight may be temporarily impaired. More extensive
+  occur.                                            mental symptoms may occur, including impaired
+                                               memory, reduced concentration and perseverance, andExertion presents two profoundly dangerous effects on
+                                                        possibly brain damage. The effects of chronic COCO poisoning victims.  First, increased exertion in­
+                                                     poisoning may go undiagnosed or be attributed to othercreases the speed of CO absorption into the blood
+                                                        causes by the uninformed victim.stream, as shown in Fig. 12-2. Second, physical exer­
+tion increases the impact of CO that has already been                                                            12.2.1.2 Carbon Monoxide Exposure Standards
+absorbed, as shown in Table 12-1. Removing a person
+suffering from CO poisoning to fresh air should be done      It is curious that no safe threshold CO exposure limit
+as quickly as possible, but preferably without the    was recognized during the development and use of
+victim's active participation.  If possible, the person    Swedish World War II-era gasifiers. Such a threshold
+should be carried. Over-exertion on the part of the     limit would recognize CO levels below which one
+rescuers should also be avoided.                       could expect to be free from the effects of chronic CO
+                                                        poisoning. The current threshold limit value (TLV) in
+Every second is valuable, and the difference may have                                                        the United States is 50 ppm CO in the work place time
+a life-saving effect. Any producer gas installation                                                   weighted average for an 8-h work day. Short-term ex­
+should include two bottles of mixed resuscitation (Kar­                                                       posure limit (STEL) is 400 ppm (MSA and AeGIH
+                                         [OSHA 1982]). The international standards are shown
+                                                       in Table 12-2. Atmospheric concentrations above 1%
+  " 70                                                  (10,000 ppm) CO may cause unconsciousness in only
+   '0
+   X -                                         a few minutes.  0 60          I-......       c:0                                                        12.2.1.3 Safe Operating Procedures
+   Ec:       " "                     "-                        From a safety standpoint, the best gasifier systems  0 50    •              "    £J               •          "'"                                                       operate at negative pressure (suction gasifiers), so that   "  "      ,                                                          leaks result in air being drawn into the system (possibly                     ,    ,  "-                                         r'\.     40    \•  E                                                  causing gas explosions, which the equipment should   '0        ,                                                  be designed                                                                         to handle                                                                         without                                                                           harm)                                                                                                 rather                                                                                         than CO          c:=>                     "\ '-  0 30             \•    ,  ".                                                   being                                                             expelled                                                                            into the                                                                        workshop.                                                                                                              If                                                                                           the gasifier                                                                                                                                is    £J     c:                    \                           pressurized or if there is an outlet blower, then the gas
+    :0 20                  \                           will be under positive pressure and leaks will release
+    .2         \        '\    OJ   0           \                          CO. The importance of achieving a leak-tight system   E                                                cannot be overemphasized.  " 10                 "    .c                            '"                     The entire system should be leak-tested upon installa­    t'                 I'          \          tion and regularly with engine service thereafter. The
+             20   40    60   80   100   120  140                                                        pipes carrying producer gas should be provided with
+                     Time (min.)                           fittings to close off and pressurize the system to 4 in.
+                                                    water gauge. and the entire system should be checked
+                      Inhalation of                       with soap bubbles, especially at fittings, valves, welds,
+    ---- air                                     lids, and seals.
+     ----- oxygen
+     - - - - - ai r + 7% CO2                Where possible, generators should be used outside,
+     _ _ _ _ _ _ _ oxygen + 7% CO2               with adequate ventilation. Indoor installations should
+                                                    provide adequate ventilation that effectively changes
+Fig. 12-1. Treatment ofcarbon monoxide poisoning  (Source: Gengas     the inside air supply every 1 to 2 minutes. Alarms are
+1950, Fig. 265)                                               available for measuring and signaling excessive CO
+
+
+
+1 20    Handbook of Biomass Downdraft Gasifier Engine Systems

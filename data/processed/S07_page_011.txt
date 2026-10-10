@@ -1,0 +1,36 @@
+energy to provide this heat.The process heat requirement can be derived by burning the
+gas and/or the charcoal by-product. More advanced configurations could gasify the char to
+a lower heating value (LHV) gas and then burn the resultant gas more effectively to
+provide process heat, with the advantage that the alkali metals in the char can be much
+better controlled and avoid potential slagging problems from direct char combustion.
+There are many other ways of providing the heat.11
+
+Pyrolysis liquid bio-oil
+
+
+Crude pyrolysis liquid or bio-oil is dark brown and approximates to biomass in elemental
+composition. It is composed of a very complex mixture of oxygenated hydrocarbons with
+an appreciable proportion of water from both the original moisture and reaction product.
+Solid char may also be present.The product spectrum from fast pyrolysis of aspen poplar
+wood, and the high dependence on temperature, are shown in Figure 8.
+
+
+
+
+
+Figure 8: Variation of products from aspen poplar with temperature 15
+
+
+The liquid is formed by rapidly quenching and thus ‘freezing’ the intermediate products of
+flash degradation of hemicellulose, cellulose and lignin.The liquid thus contains many
+reactive chemicals, which contribute to its unusual attributes. Bio-oil can be considered a
+micro-emulsion in which the continuous phase is an aqueous solution of holocellulose
+decomposition products, which stabilises the discontinuous phase of pyrolytic lignin macro-
+molecules through mechanisms such as hydrogen bonding.
+
+
+Bio-oil has a higher heating value (HHV)of about 16-17 MJ/kg as produced with about
+25% wt water that cannot readily be separated. It is composed of a complex mixture of
+oxygenated compounds that provide both the potential and challenge for utilisation.There
+are some important characteristics of this liquid that are summarised in Table 2 and
+                                                                              11discussed briefly below, of which the most significant is that it will not mix with any

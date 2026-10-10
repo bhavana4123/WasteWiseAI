@@ -1,0 +1,61 @@
+              1 00         ---¹                                                       R           I---.....                                                                                                                                                                go                                                                                      "
+                                                                                                   "                                                                                                                                                                           <0         80
+
+
+
+         60
+
+
+
+         40
+
+
+
+
+
+                                 -0..         20 1'"'""--0-__
+
+                                              Char-ash content                                         %
+
+              50        1 00      200        500       1 000    2000       5000       1 0000   20000   oơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱ=cƲƳ
+                                    Char particle size,1i m
+
+
+Fig. 3ǈ3. Char¿a5h content and carbon content versus char particle size for a stratified bed gasifier (Source: Das 1985)
+
+
+                      Table 3-10. Siagging Behavior of Crop Residues and Wood
+
+81agging Fuels          % Ash      Degree of 81agging      Non-8lagging Fuels           % Ash
+Barley straw mix                     10.3           Severe            Cubed alfalfa seed straw                     6.0
+Bean straw                         10.2           Severe            Almond shell                                4.8
+Corn stalks                          6.4           Moderate           Corn cobs                                               1 .5
+Cotton gin trash                             1 7.6           Severe               Olive pits                                   3.2
+Cubed colton stalks                 17.2           Severe            Peach pits                                  0.9
+RDF pellets                                1 0.4           Severe             Prune pits                                  0.5
+Pelleted rice hulls                   14.9           Severe             Walnut shell (cracked)                              1 .1
+Safflower straw                       6.0            Minor               Douglas Fir wood blocks                     0.2
+1/4" pelleted walnut shell mix          5.8           Moderate             Municipal tree prunings                       3.0
+Wheat straw and corn stalks          7.4           Severe            Hogged wood manufacturing residue          0.3
+                                                             Whole log wood chips                          0.1
+Source: Kaupp 1984a
+
+
+3.3.4 Biomass Moisture Content and Effects       most of this variation is due to the variability of MAF
+                                                           content; and if reduced to a MAF basis, the variation is
+The fuel moisture content greatly affects both the                                         much less.
+operation of the gasifier and the quality of the product
+gas. These issues are addressed in the following
+sections.                                             3.4. Beneficiation of Biomass Fuels
+                                            Chunky fuels (such as mill ends, chips, and corn cobs),3.3.5 Biomass Heating Value
+                                               which have at least one dimension larger than a few
+It can be seen in Table 3-6 that there is a wide range of     millimeters, can be used in fixed-bed gasifiers without
+heating values for various biomass forms. A larger col­     further size reduction, though they may require separa­
+lection of heating values has recently been published     tion from fines and dirt. Bulky fuels, such as logs,
+showing a variation of 5-25 kJ/g (2000-10,000 Btu/lb)     branches, and straw, require chipping or chopping and
+for various biomass forms (Domalski 1986). However,     possibly densification before use in most gasifiers.
+
+
+
+
+1 6    Handbook of Biomass Downdraft Gasifier Engine Systems

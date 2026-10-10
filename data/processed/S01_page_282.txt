@@ -1,0 +1,57 @@
+                                                                    Miscellaneous
+
+
+
+DOWTHERM A; liquid; (trademark, Dow Chemical Co.); a mixture of diphenyl and
+   diphenyl oxide.
+
+   specific heat: 323-513 K (12Z0-464'F)
+
+   Cp(Btu lb-l  OF-')    = 0.356 + 4.111  x     T
+   CJcal      K-I)        0.167 + 7.40 x    T     q1
+   Cp(J g-  K-')       = 0.699 + 3.096 x     T
+
+                                                      60BOW/GAR
+
+FAT, WOOL; solid; (lanolin); Main constituents are cholesterol esters of higher molecular
+   weight fatty acids.
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    q,(gross)   17530 f 6.3 Btu -p-l1
+    q,(gross)   9741 f 3.5 cal g
+    q,(gross)  = 40756 k 14.6 J g-l
+
+                                                              64PAL/REI
+
+GRAPHITE, ARTIFICIAL; solid; National Carbon Co. spectroscopic grade.
+
+   gross heat of combustion: at 25°C (77'F),  average of 2 samples
+    q,(gross)  = 12664 f 4.3 Btu lb- 1
+    q,(gross)  = 7035.8 5 2.4 cal g-'
+    q,(gross)   32785 f 10 J g-l
+
+                                                      38DEW/HAR
+
+GRAPHITE, BUCKINGHAM; solid; 0.25% ash.
+
+   gross heat of combustion: at 25'C  (77"F), average of 2 samples; corrected for ash
+    content.
+
+    qv(gross)  14106 f 3.6 Btu lb-l
+    q,(gross) = 7836.8 2 2.0 c 71 g-l    qv(gross) = 32789 2 8 J g-
+
+                                                      38DEW/HAR
+
+GRAPHITE, CEYLON, solid; 2.2% ash.
+
+    gross heat of combustion: at 25OC (77"F), average of 2 samples; corrected for ash
+   content .
+                              1    qv(gross) = 14085 ? 0.9 Btu lb-
+    qv(gross) = 7825.0 f 0.5 c71 g-'    qv(gross) = 32740 ? 2 J g-
+
+                                                      38DEW/HAR
+
+
+                                       307

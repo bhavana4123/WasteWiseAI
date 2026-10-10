@@ -1,0 +1,45 @@
+Appendix A - Heat and Material Balances ............................................................................................... A.1
+Appendix B - Equipment Cost Details .......................................................................................................B.1
+Appendix C - Compound Selection ...........................................................................................................C.1
+Appendix D - Indices ................................................................................................................................ D.1
+Appendix E - TCLP Testing Results.......................................................................................................... E.1
+Appendix F - Process Efficiency Metrics .................................................................................................. F.1
+
+                         Figures
+
+
+Figure 1. Typical steps for conventional biological treatment at a WWTP (adapted from
+    Tchobanoglous et al. 2014). .................................................................................................................. 3
+Figure 2. Simple block diagram for the WWTP/HTL plant and centralized biocrude upgrading
+     plant. ..................................................................................................................................................... 4
+Figure 3. Process flow for slurry feed preparation. .................................................................................... 10
+Figure 4. Process flow for sludge HTL. ..................................................................................................... 12
+Figure 5. Process flow for HTL aqueous phase treatment. ........................................................................ 18
+Figure 6. Process flow for HTL biocrude hydrotreating. ........................................................................... 20
+Figure 7. Boiling point distribution (ASTM D2887) for hydrotreated product from sludge
+     biocrude. ............................................................................................................................................. 22
+Figure 8. Process flow for hydrogen production (from Jones et al. 2014). ................................................ 24
+Figure 9. Sludge HTL biocrude production cost for goal case. ................................................................. 29
+Figure 10. Upgraded fuel production cost for the goal case. ..................................................................... 32
+Figure 11. Sensitivity analysis for sludge HTL plant. ............................................................................... 34
+Figure 12. Sensitivity analysis for biocrude upgrading plant. ................................................................... 35
+Figure 13. Regional fuel production at $3.50/gge from sludge HTL and biocrude upgrading. ................. 36
+
+                         Tables
+
+
+Table 1. Nth-plant assumptions. .................................................................................................................. 5
+Table 2. Cost factors for direct and indirect costs. ....................................................................................... 6
+Table 3. Municipal sludge ash content (% of total solids) ........................................................................... 8
+Table 4. Sludge composition and ash content. ............................................................................................. 9
+Table 5. Sludge HTL experimental results and model assumptions. ......................................................... 13
+Table 6. HTL reactor specifications. .......................................................................................................... 14
+Table 7. Sludge HTL capital costs. ............................................................................................................ 15
+Table 8. HTL aqueous phase constituent analysis from experimental run ................................................ 16
+Table 9. Comparison of HTL effluent water and WWTP headworks component flows. .......................... 17
+Table 10. Possible HTL water ammonia removal/recovery options. ......................................................... 19
+Table 11. HTL aqueous phase ammonia removal system capital costs ..................................................... 19
+
+
+
+                                                          xii

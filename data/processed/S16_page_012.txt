@@ -1,0 +1,58 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+
+         absence of oxygen by a free radical mechanism resulting in the   acrylate, indicating either lower molecular mass polymer with
+         formation of carbon fibers.70 This explains why the high resi-   lower thermal stability, or excess monomer.
+         dues observed for PAN-1 under nitrogen were subsequently    EGA using TGA-FTIR (Table S8†) was able to clearly identify
+         reduced under air (34 wt% to <0.3 wt%).70 Under an  air  known or expected additives and/or processing aids in PE-2,
+         environment, EVA-3 and PVC-2 had residual wt%s of 11% and   PVC-2, PS-1, PU-1, and EVA-3 (Fig. 6). PE-2 exhibited a 1 wt%        Licence.   8% respectively (Fig. 5), which indicates they likely have high   library match to butylated hydroxytoluene (BHT), which is a
+          oxidative  stability  because  they  contain  relatively  high  commonly used antioxidant that scavenges free radicals and
+        amounts  of flame  retardant  materials,  possibly including   other reactive species that cause polymer degradation.72 There        Unported         organic and inorganic  additives.71 This  is consistent with  was a 1% weight loss event in PVC-2 that library matched
+   3.0        ICP-MS results, which indicate signifcant concentrations of Ti   5-norbornene-2,3-dicarboxylic anhydride (NBDCA). NBDCA is
+PM.       in EVA-3 and PVC-2 (5.894 wt% and 3.865% respectively).        used as a monomer in norbornene-based polymers, which are
+         EGA using TGA-FTIR was performed on 21 polymers which  used as reactive processing additives in plastic manufacturing
+        had >1 wt% loss events before the polymer degradation temp-   to improve the processing characteristics and physical pro-6:34:53          erature in an inert environment to investigate the presence of   perties of the final plastic product.73,74 PS-2 exhibited a 97%
+           additives, with selected examples shown in Fig. 6. Table S8 in   library match for pentane at approximately a 2 wt% mass loss
+         the ESI† includes the FTIR vapor phase  library matching   event, in agreement with information provided by the vendor.6/21/2024
+           results for EGA analysis of TGA polymer mass loss events for   Here, pentane could have been used as a blowing agent inon Attribution-NonCommercial
+            all 21 polymers, which includes the onset temperature of each   plastics to produce a lightweight, porous material.75 PU-1
+        mass loss event and total wt% loss for each degradation event.   exhibited a library match for 1,2-dibutoxyethane with a signifi-
+       Many library matches are monomers or expected decompo-   cant weight loss (45 wt%). Even though, 1,2-dibutoxyethaneDownloaded Commons     sition  products  of  the  polymer,  including,  for  example,  can be used as a solvent or co-solvent in the production of
+         alkanes from PE; hydrogen chloride, benzene, and 1-chloroc-   certain types of plastic, including PU, the products detected2024.        Creative    tane from PVC; styrene from PS; acetic acid or acetaldehyde   here are likely from the thermal degradation of the polymer
+ a    from PVAc, PVOH, EVA, and EVOH; and methyl methacrylate    itself. As polyurethanes are extremely complex and made withMarch26 under    from PMMA (Fig. 4). Multiple weight loss events for PMMA  many diﬀerent formulations, this data highlights the potential
+on      samples had FTIR spectral library matches for methyl meth-   to use EGA using TGA-FTIR for some product characteriz-
+                                                                                 ation.76 Although EGA with TGA-FTIR may provide insight into        licensed
+  is                                                                  the structure of this polymer, this technique alone cannot dis-Published                                                                      tinguish between a thermal degradation product or a small
+       article                                                              molecule additive. The FTIR spectra for EVA-3 exhibited a 77%
+Article. This                                                                            library match for vinylbenzene and 3-methyl-1-phenyl-3-penta-
+Access                                                                            nol,WhileindicatingTGA andthe TGA-FTIRpresence ofprovidesaromaticvaluablestructures.information on
+Open                                                                 thermal stability, chemical structure, and the presence of addi-                                                                                         tives,  it  is important to consider the limitations of these
+                                                                 methods. FTIR library matches provide tentatively identified
+                                                          compounds as likely or similar structures, but matrix eﬀects
+                                                               from strongly absorbing backgrounds or simultaneously evol-
+                                                                        ving gases can interfere with spectral resolution and library
+                                                                    matching. Additionally, in some cases, the library matching
+                                                                         software cannot distinguish certain chemicals. For example,
+                                                                    vapor phase FTIR library matching cannot distinguish nonade-
+                                                                              canenitrile from other long-chain hydrocarbons due to nearly
+                                                                              identical FTIR spectra. Several polymers had a library match
+                                                                                for  nonadecanenitrile and  other  long-chain hydrocarbons
+                                                                       including PVAc (22 wt%), EVA-1 (77 wt%), and EVA-2 (70 wt%)
+                                                                          (Table S8†). As neither PVAc, EVA-1, or EVA-2 contained a mea-
+                                                                        surable  amount  of  nitrogen  based  on CHN  analysis
+                                                                              (>0.1 wt%), they are unlikely to contain such a high amount of
+             Fig. 5  TGA curves for (A) PVC-2 and (B) EVA-3 under nitrogen and air   nonadecanenitrile, and  likely contain hydrocarbons. While
+           environments. PVC-2 exhibited a residue of 32 wt% under nitrogen, and   this  is an obvious case,  it  is more diﬃcult to distinguish
+         11% under air. EVA-3 had a residue of 18% under nitrogen, and 11%   library  matches when  characterizing unknown  or mixed
+          under air. This suggests that these two polymers contain ﬂame retard-
+                                                                            materials. Instruments such as TGA GC-MS may be useful to
+            ants, either as organic or inorganic additives. Under nitrogen, samples
+                                                                           further resolve these issues. Instrumental sensitivity is also a         were run from 35 °C to 200 °C at 4 °C min−1 and then 200 °C to 800 °C
+            at 20 °C min−1. Experiments with air were conducted from 30 °C to   limitation of TGA and TGA-FTIR, with detection limits gener-
+         900 °C at 20 °C min−1.                                                      ally around 1 wt%, while many additives can be present at
+
+
+
+        7078  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

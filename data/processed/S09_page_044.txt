@@ -1,0 +1,49 @@
+                                                                                          Methanol                                       Esters
+
+
+
+
+                      TG
+
+                                                           Supercritical Reactor
+                                Alcohol
+
+
+
+
+
+                                                                                                                                              Glycerol
+
+                     Figure 20. Supercritical esterification process
+
+The refining of glycerol is discussed in a separate chapter, although it is a topic of great
+importance to the choice of biodiesel production process. Generally the quality of the glycerol
+produced and its value as a coproduct is an important economic variable. The typical glycerol
+produced by a biodiesel plant is 50% glycerol or less and contains water, salts, methanol, methyl
+esters, and unreacted glycerides, color and odor bodies, dimers, timers, and other minor
+compounds. This is commonly referred to as “biodiesel crude” and is generally worth less than 5
+cents per pound. Removing the water and methanol and bringing the glycerol content up to 88%
+can generate a credit based on the value of crude glycerol. Salts, and particularly sulfur salts or
+potassium salts reduces the value of the crude glycerol produced.
+
+Summary
+There are multiple operating options available for making biodiesel. Many of these technologies
+can be combined under various conditions and feedstocks in an infinite number of ways. The
+technology choice is a function of desired capacity, feedstock type and quality, alcohol recovery,
+and catalyst recovery. The dominant factor in biodiesel production is the feedstock cost, with
+capital cost contributing only about 7 % of the final product cost.
+
+However, some reaction systems are capable of handling a variety of feedstocks and qualities,
+while others are not. Also, the different approaches to the esterification process result in quite
+different operating requirements, different water use requirements, and different operating
+modes.
+
+In general, smaller capacity plants and variable feedstock quality suggest use of batch systems.
+Continuous systems generally lead the operation on a 24/7 basis, requiring larger capacities to
+justify larger staffing requirements and require a more uniform feedstock quality.
+
+
+
+
+
+                                      40

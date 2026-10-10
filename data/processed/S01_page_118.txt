@@ -1,0 +1,31 @@
+                                                                   Inorganic Materials
+
+
+
+BENTONITE, PEMBINA; solid; a colloidal clay (aluminum silicate) containing a
+   montmor illonite.
+
+   heat of dehydration: AH(dehydration) is derived from endotherrns in the differential
+   thermal analysis (DTA)curve, neglecting endotherms around 110°C (230°F) at which
+   adsorbed water is evolved. Two endothermic peaks appear in the curve giving peak
+   temperatures of 408°C (766OF)and 663°C (1225OF).
+
+   AH(dehydration) = 52 Btu lb-I
+   AH(dehydration) = 29 cal g-'
+   bH(dehydration) = 121 J g-'
+
+                                                              54ALL
+
+BENTONITE, WYOMING; solid; a colloidal clay (aluminum silicate) containing sodium
+   montmorillonite, which swells 12-fold when wetted with water.
+
+   heat of dehydration: approximate dehydration temperature is 675°C ( I 24OF).
+   AH(dehydration) is derived from endotherms in the differential thermal analysis
+   (DTA) curve, neglecting endotherms around 110°C (230'F)  at which adsorbed water is
+    evolved.
+
+   AH(dehydration) = 79 Btu lb-'
+   AH(dehydration) = 44 cal g-'
+   AH(dehydration) = 184 J g-l
+
+                                                               54ALL

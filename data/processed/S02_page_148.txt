@@ -1,0 +1,52 @@
+Standard conditions for gas measurements vary wide­     indicate the sources of gas measurement conventions.
+ly depending on the organization setting the standards.    However, the reader should exercise extreme caution
+Since gas properties can be measured to a precision     in all conversions using the term "sc£."   If the gas
+considerably finer than the error introduced by a    measurement conditions are not specified or cannot be
+misunderstanding in standard conditions. expressions     safely presumed. then gas heating value is subject to
+of gas volume and heating value must specify the     3 % uncertainty.
+measurement conditions.
+                                   We have used 1 atrn = 101.32 kPa = 760 mm = 29.92 in.
+Two often-used references (Kaupp 1984a; Gengas 1950)   Hg for a standard pressure and a temperature of 20°C =
+use gas measurement conventions different from corn­     68°F in our data reporting.
+man gas practice. The following table is provided to
+
+
+
+                              Standard Measuring Conditions for Gases
+
+                                                             Standard Conditions
+Unit       Where Used                        Pressure                       Temperature       Reference
+
+scm/sci     EPA Method 5                        Dry gas 760 mm = 1 atm            68°F = 20°C                                                                                                                                           (1)
+scf          American Gas Association             762 mm = 30 in. Hg dry gas         60°F = 15 5/9°C           (2)
+sci          Compressed Gas Institute             760 mm - 1 atm 29.92 in. Hg        68°F = 20°C
+Nm3       NTP = STP                        760 mm = 1 atm dry gas            O°C
+             Standards Council of Canada                 1 atm dry                        15°C                      (3,4)
+             Environment Canada Air               29.92 in. Hg                      537°R                      (5)
+                Pollution Control                                                    78°F
+               Directorate
+scf         ANSI Standard Z132.1                  Saturated with water 14.73 psia      60°F                      (6)
+                for gas calorific value
+                       weight standard              29.92 in. Hg = 101 .325 kPa         O°C = 32°F                (7)              Molecular
+               conditions                       760 mm = 1 atm dry gas
+scf         Kaupp and Goss                               1 atm                           77°F = 25°C               (8)
+Nm3         Generator Gas                                   1 atm dry                       O°C dry                    (9)
+sci                                                                      1 atm dry                        70°F = 21 . 1 1 °C
+
+(1) Environmental Protection Agency. "Determination of Particulate Emissionsfrom Stationary Sources," Codified Federal Register 40, Pt. 60, Appendix
+   A,Method 5.
+(2) Dictionary of Scientific and Technical Terms, 3rd Ed. New York: McGraw-Hili, 1984.
+(3) International Standards Organization, Measurement Conditions for GaseousFuels, ISO STO 5024-TC2B, 1979.
+(4) ENFOR Proiect C172, DDS File No. 4155, KL229-1-4117, 1979.
+(5) Environment Canada Air Pollution Directorate, EPS 1 AP.74-1, 1974.
+(6) Calorific Value of Gases in Natural Gas Range by Continuous RecordingCalorimeter, ASTM 0 1826, 1977.
+(7) Determining the Properties of Fine Particulate Matter, ASME PTC-28, 1 965.
+(8) Kaupp, A. and Goss, J.R. State-of-the-Art for Small (2-50 kW) Gas Producer-Engine Systems. Final Report to USDA, Forest SeNice, 1981.
+(9) Generator Gas: The Swedish Experience from 1939-1945. SERI/SP-33-140, 1979 (Solar Energy Research Institute, Golden, Colo).
+
+
+
+
+
+140    Handbook of Biomass Downdraft Gasifier Engine Systems
+                                                                                        * u.s. GPO: 1988 573-ffi8/80):XXl

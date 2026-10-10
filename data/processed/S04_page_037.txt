@@ -1,0 +1,37 @@
+    Table 2-2. Gas Spark Ignition Engine CHP - Typical Performance Parameters
+                                                                 System
+       Cost & Performance Characteristics14
+                                                1         2        3        4          5
+ Form of Recovered Heat                         H2O      H2O     H2O     H2O     H20, steam
+ Total Efficiency [%)19                             80.0%     78.9%    78.4%    78.3%      76.5%
+ Thermal Output / Fuel Input [%)                    53.0%     44.4%    41.6%    37.9%      35.0%
+ Power / Heat Ratio20                                 0.51       0.78      0.89      1.06        1.19
+Source: Compiled by ICF from vendor supplied data.
+
+The data in the table show that electrical efficiency increases as engine size becomes larger. As electrical
+efficiency increases, the absolute quantity of thermal energy available to produce useful thermal energy
+decreases per unit of power output, and the ratio of power to heat for the CHP system generally
+increases. A changing ratio of power to heat impacts project economics and may affect the decisions
+that customers make in terms of CHP acceptance, sizing, and the desirability of selling power.
+
+2.4.1  Part Load Performance
+In power generation and CHP applications, reciprocating engines generally drive synchronous generators
+at constant speed to produce steady alternating current (AC) power. As load is reduced, the heat rate of
+spark ignition engines increases and efficiency decreases. Figure 2-3 shows the part load efficiency curve
+for a typical lean burn natural gas engine. The efficiency at 50 percent load is approximately 8 to 10
+percent less than full load efficiency. As the load decreases further, the curve becomes somewhat
+steeper. While gas engines compare favorably to gas turbines, which typically experience efficiency
+decreases of 15 to 25 percent at half load conditions, multiple engines may be preferable to a single
+large unit to avoid efficiency penalties where significant load reductions are expected on a regular basis.
+Diesel engines exhibit even more favorable part load characteristics than spark ignition engines. The
+efficiency curve for diesel engines is comparatively flat between 50 and 100 percent load.
+
+
+
+
+
+19 Total CHP Efficiency = (net electric generated + net thermal energy recovered)/total engine fuel input.
+20 Power/Heat Ratio = (CHP electric power output (Btus))/useful thermal output (Btus)
+
+
+Catalog of CHP Technologies                         2–11                         Reciprocating IC Engines

@@ -1,0 +1,50 @@
+                          Table 8. Enzymatic Hydrolysis Conditions
+  Temperature                          48°C (118°F)
+   Initial solids loading                     20 wt % total solids (10.6% insoluble/9.4% soluble)
+  Residence time                             3.5 days total (84 h)
+  Number and size of continuous vessels      8 @ 950 m3 (250,000 gal) each
+  Number and size of batch vessels          12 @ 3,600 m3 (950,000 gal) each
+  Cellulase loading                       20 mg protein/g cellulose
+
+The batch reactors are agitated and temperature-controlled using a pump-around loop that
+consists of a centrifugal pump (P-300) and a heat exchanger (H-300). During enzymatic
+hydrolysis, the temperature is maintained with cooling water. Temperature control during
+enzymatic hydrolysis is important. Enzyme studies at NREL have indicated an optimum
+temperature of 48°C for a number of commercial and development enzymes. A -5°C deviation
+could result in a dramatically reduced rate of reaction; a +5°C deviation could result in the onset
+of protein denaturation. Either situation would reduce the cellulose conversion yield for the same
+residence time.
+
+Table 9 lists the reactions and conversions taking place during enzymatic hydrolysis. The
+saccharified slurry contains 11.7 wt % total soluble sugar (including oligomers), with 6.7%
+monomeric glucose and 3.7% monomeric xylose. As mentioned in Section 3.2, some of the more
+advanced enzyme preparations have shown a significant ability to also convert xylan to xylose.
+This additional conversion is captured in pretreatment so it is not included in Table 9. Note that
+glucose oligomers are modeled in Aspen as “glucose molecules in oligomeric form”; the actual
+size distribution of the oligomers is not captured.
+
+              Table 9. Enzymatic Hydrolysis Reactions and Assumed Conversions
+             Reaction                          Reactant  % Converted to
+                                                         Product
+               (Glucan)n → n Glucose Oligomer       Glucan     4.0%
+               (Glucan)n + ½n H2O → ½n Cellobiose  Glucan     1.2%
+               (Glucan)n + n H2O → n Glucose       Glucan     90.0%
+               Cellobiose + H2O → 2 Glucose         Cellobiose  100%
+
+After 60 hours of additional enzymatic hydrolysis in F-300, the saccharified slurry is cooled by
+the pump-around loop and larger heat exchanger H-310 (specific to this task and shared between
+all the fermentors) to 32°C for fermentation. Recombinant Zymomonas mobilis bacterium is used
+as the ethanologen. This strain of Z. mobilis can simultaneously ferment glucose and xylose to
+ethanol. The present design assumes that the minor hemicellulosic sugar arabinose is also
+fermented to ethanol with the same yield as xylose, although this is a research target for 2012
+and has not yet been demonstrated at NREL.
+
+The inoculum protocol for Z. mobilis is a direct transfer of cells without a cell concentration step.
+In order to provide a required 10% inoculum volume back to the production fermentors, 10% of
+the saccharified slurry is split off to seed production (see PFD-P120-A301, Appendix E). Each
+seed train consists of five reactors operating in batch mode with a 24-hour batch time and an
+additional 12-hour turnaround time. The seed fermentors are cooled with chilled water from Area
+900 to maintain the temperature at 32°C (90°F). The first vessel (40 gallons) is inoculated with a
+seed culture from the lab. Its broth is used to inoculate a larger reactor, and so on. After five
+
+                                      28

@@ -1,0 +1,59 @@
+                                                                                                                                                                                                               I
+W d y and Tree Materials
+
+
+CHERRY, BLACK; Prunus serotina; solid; mean age   12.3 years, mean basal stem
+   diameter   8.9 cm, mean stem bark (proportion of dry weight) = 9.9%, ash content
+    (proportion of oven dry weight) of components of sample: wood = 0.4196, branches =
+    0.8%, twigs   1.796, bark   4.2%, and leaves = 5.6%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                         twigs:
+
+    q,(gross)  = 8579 Btu lbll                       q,(gross)  = 8759 Btu lb-l
+    q,(gross)  = 4766 cal g-                          q,(gross)  = 4866 cal g-l
+    q,(gross)  = 19941 J g-l                        q,(gross) = 20359 J g-l
+
+    bark:                                          leaves:
+    qv(gross)  8906 Btu Ib- 1                                                       1                                                       q,(gross)   9418 Btu Ib-
+    qv(gross)  4948 cal g-l                        q,(gross)   5232 cal g-'
+    qv(gross)  20702 J g-l                         q,(gross)   21891 J g-l
+
+   branches:
+                                         I    q,(gross)  = 8714 Btu lb-
+    q,(gross)  = 4841 cal g-l
+                       1    qv(gross) = 20255 J g-
+
+                                                              79NEE/STE
+
+CHERRY, CORNELIAN; Cornus mas; solid; Material is a tree, one of the dominant
+   species of a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown
+    forest soil, at 300 m above sea level located in the southern part of the Bukk
+   Mountains of north Hungary. Samples were dried at 85'C (185"F), then ground and
+    pelleted. The ash content was determined at 500°C (932°F) while the temperature
+   was increased stepwise. Ash content of stem and branch wood = 0.7%; stem and
+   branch bark   10.0%; leaf = 14.0%; root  8.3%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer t o room
+   temperature.
+
+                      dry weight       ash-free dry        std dev.
+                          basis          weight basis         of mean
+
+   stem and branch wood (3 measurements)
+
+    q,(gross)             8404             8462             20.3   Btu lb'l
+    q,(gross)  =          4669              470 1             11.3    cal q1
+    q,(gross)            19535            19669            47.3    J g-
+
+   stem and branch bark (4 measurements)
+
+    qv(gross)           8172             8987             29.5   Btu lb-'
+    q,(gross)  =          4540             4993             16.4    cal 9-l
+    q,(gross)  =         18995            20891            68.6    J g-
+
+                                                                          (more)
+
+                                       246

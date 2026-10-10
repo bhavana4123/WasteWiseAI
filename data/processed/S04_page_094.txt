@@ -1,0 +1,51 @@
+stable and reliable power, and their low emissions compared to reciprocating engines. Important
+applications and functions are described below:
+
+    •  Combined heat and power (CHP) – microturbines are well suited to be used in CHP applications
+       because the exhaust heat can either be recovered in a heat recovery boiler, or the hot exhaust
+       gases can be used directly. Typical natural gas fueled CHP markets include:
+
+        o  Commercial – hotels, nursing homes, health clubs
+        o   Institutional – public buildings
+        o   Industrial – small operations needing hot water or low pressure steam for wash water as in
+           the food and manufacturing sectors
+
+    •  Combined cooling heating and power (CCHP) – The temperature available for microturbine
+       exhaust allows effective use with absorption cooling equipment that is driven either by low
+       pressure steam or by the exhaust heat directly. Cooling can be added to CHP in a variety of
+        commercial/institutional applications to provide both cooling and heating.
+
+    •  Resource recovery – the ability of microturbines to burn a variety of fuels make it useful for
+       resource recovery applications including landfill gas, digester gas, oil and gas field pumping and
+      power applications, and coal mine methane use.
+
+    •  Peak shaving and base load power (grid parallel).
+
+    •  Thermal oxidation of very low Btu fuel or waste streams – Microturbine systems have been
+       designed to provide thermal oxidation for applications needing methane or volatile organic
+      compound destruction such as for landfill gas or other waste gases.
+
+    •  Premium power and power quality – due to the inverter based generators, power quality
+        functionality can be added to CHP, and power-only applications allowing the system to be part
+        of an overall uninterruptible power supply (UPS) system providing black start capability and
+       back-up power capability to provide power when the electrical grid is down. The system can also
+       provide voltage and other power quality support. Such functions are useful for applications with
+       high outage costs and sensitive power needs including small data centers, hospitals, nursing
+       homes, and a variety of other applications that have critical service requirements.
+
+    •  Power only applications – microturbines can be used for stand-alone power in remote
+        applications where grid power is either unavailable or very high cost. The systems can also run
+       as back-up power or in peak-shaving mode, though such use is limited.
+
+    •   Microgrid – Microturbines are inverter based generation, and are therefore well-suited for
+        application in utility microgrids, providing grid support and grid communication functions. This
+       area of use is in a development and demonstration phase by electric power companies.
+
+5.3   Technology Description
+5.3.1  Basic Process
+Microturbines operate on the same thermodynamic cycle (Brayton Cycle) as larger gas turbines and
+share many of the same basic components. In this cycle, atmospheric air is compressed, heated (usually
+
+
+
+Catalog of CHP Technologies                          5–2                                  Microturbines

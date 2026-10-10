@@ -1,0 +1,48 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+
+        Licence.
+        Unported
+   3.0
+PM.
+6:34:53
+             Fig. 8   First heat DSC trace for (A) PP-1, with the melting temperature (Tm) labeled in red and crystallinity temperature (Tc) labeled in blue and (B)
+           PP-2, where two glass transitions were observed (Tg1, Tg2) labeled in yellow, and an exotherm (*) following the melting endotherm (Tm). The DSC6/21/2024        trace of PP-2 indicates a complex polymer morphology and possibly the presence of additives. PP samples were run from −90 °C to 265 °C at a rate
+           of 10 °C min−1 with 5-minute isothermal holds between each heating and cooling ramp.on Attribution-NonCommercial
+Downloaded Commons     after the melting point at approximately 260 °C and 280 °C,   increases in crystallinity in the second heat (2.3–23.6%) while
+           respectively  (Fig. S18 and S19†),  likely due to the loss of  most EVOH, PVAc, and PVOH plastics exhibited decreases in2024.        Creative    adsorbed water.84 The DSC thermogram for PP-2, PP-5, PP-6,   crystallinity in the second heat (12.0–65.4%), suggesting that
+ a    and PP-7 contained an exotherm after the melting endotherm   the latter polymers have undergone a process of stress relax-March26 under    in the first heat (Fig. 8 and S20–S22†). While there is no corres-   ation (Fig. 9). These results indicate that performing reactions
+on      ponding mass loss event in the TGA results, it is likely that   at or near melt can have significant impacts on the polymer,
+           crystallization or curing are occurring, possibly due to the pres-  independent from other viariables. This type of DSC analysis        licensed
+  is    ence of additives. We did observe complex low molecular mass  can also be used to understand how thermal pretreatment canPublished      wax mixtures in these three PP samples by ASE GC-MS, but it  impact deconstruction eﬀeciency, such as using melt proces-
+       article     is uncertain what mechanism is causing an exotherm. The   sing as a pretreatment prior to the enzymatic depolymerization
+Article. This   DSC chromatogram for PS-5 contained sharp, inconsistent   of PET.86
+Access        crystallizationpresence of impuritiespeaks in (Fig.both S23†),coolingwithcycles,no indicatingcorrespondingthe  mostFinally,pertinentalthoughpolymerDSCthermalis usefulproperties,in determininginterpretationsome of canthe
+Open      mass loss event in TGA data. GC-MS data of PS-5 provides evi-  be limited when the structure is not known. For example, the         dence of a complex mixture of aromatics and unknowns that  PU material also exhibited an exotherm in the first heat at
+        might induce crystallization events.                            approximately 229 °C  (Fig. S27†), which could be due to
+             Certain types of exotherms can indicate structural changes   several unknown processes that might include thermal history,
+         including  cyclization and  further chemical  reactions. For   crosslinking, or possibly additives. The TGA scan of the PU
+         example, the DSC of PAN exhibited an exotherm at 285 °C   material also contained a mass loss event at 263 °C that
+           (Fig. S24†), which is consistent with previous literature results,   accounts for approximately 45 wt%, which was confirmed by
+          indicating cyclization reactions that form carbon fibers.70,85  EGA as likely 1,2-dibutoxyethane, while the GC-MS data indi-
+         EVA-1 (25% VA) and EVA-2 (40% VA) both exhibited exotherms   cates the presence of several possible organic additives. These
+          that correspond to crosslinking events at 241 °C and 231 °C   observations highlight the need for multiple techniques to
+           respectively  (Fig. S25 and  S26†).  Increasing  vinyl  acetate   characterize polymer formulations.
+         content lowers the thermal stability of EVA, resulting in lower
+                                                              Changes in polymer characteristics with cryomilling          crosslinking temperatures.84
+           Changes between the first and second heat can provide   After characterizing the polymers as received, we sought to
+          insight into the applied thermal history, crystallization behav-  understand   the   eﬀect   of   pre-processing   techniques.
+            ior, and stability of a polymer. Typically, the first heating cycle   Cryomilling is a common pre-processing technique prior to
+            is used to ‘erase’ the thermal history of the polymer, allowing   plastics depolymerization processes because it reduces particle
+         the  comparison  of  polymer  samples when  a  controlled   size, and increases porosity and surface area, which can simul-
+         thermal history is applied. Examining the first heat of the   taneously impact the thermal properties and molecular mass
+         polymer is most relevant to recycling treatments conducted on   distributions  of the  polymer.16,87 There  are two  potential
+         polymers as is, while the second heat scan after thermal stress   eﬀects that cryomilling may have on plastic: stress-induced
+         can assess the  reversibility of  crystallization behavior. For   cracking and stress-induced crystallization.88 We cryomilled all
+         example, several PE, PP, PBT, and PHB samples had slight   samples, excluding PU, PK, and polymers that were purchased
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                            Green Chem., 2024, 26, 7067–7090  | 7081

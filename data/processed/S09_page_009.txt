@@ -1,0 +1,49 @@
+   CH2 - OH                          CH3 - OH
+           |                                                                                              |
+           |     O                                                                         |
+           |                   ||                                                                         |
+   CH  - O - C - R2                      CH3 - OH
+           |                                                                                              |
+           |     O                                                                         |     O
+           |                   ||                                                                         |                   ||
+   CH2 - O - C - R3                      CH3 - O - C - R3
+
+       Diglyceride                           Monoglyceride
+
+            Figure 4. Chemical Structure of Diglyceride and Monoglyceride
+
+Bound glycerol is added to any fully reacted glycerol, or free glycerol, that may still be in the
+biodiesel, to get the total glycerol. If the original oil contains 10.4% glycerol, and the
+final biodiesel can only contain a total glycerol level of 0.24%, then the transesterification
+reaction must be
+
+      10 4. − .0 24
+                  x 100 = 97 7. %    or 97.7% complete.
+         10 4.
+
+Competing Reactions
+
+It is common for oils and fats to contain small amounts of water and free fatty acids. Free fatty
+acids consist of the long carbon chains described that are disconnected from the glycerol
+backbone. They are sometimes called carboxylic acids.
+
+                     O
+                                                                            ||
+                  HO - C - R
+
+                    Figure 5. Carboxylic Acid (R is a carbon chain)
+
+The oleic group we have used earlier gives oleic acid, one of the free fatty acids that can be
+found in unrefined vegetable oils and animal fats.
+
+                     O
+                                                                            ||
+                  HO - C - (CH2)7 CH=CH(CH2)7CH3
+
+                                Figure 6. Oleic Acid
+
+
+
+
+
+                                       5

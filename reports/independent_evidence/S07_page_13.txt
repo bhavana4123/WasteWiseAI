@@ -1,0 +1,39 @@
+feed moisture and the water of reaction from pyrolysis, typically about 12% based on dry
+feed, both end up in the liquid product.This results in a liquid with around 25% water.
+Water levels above 35-40% from high feed moisture or vapour cracking can result in
+instability and phase separation. Water addition reduces viscosity, which is useful; reduces
+heating value, which means that more liquid is required to meet a given duty; and can
+improve stability.The effect of water is therefore complex and important. It is miscible
+with polar solvents such as methanol, acetone, etc., but substantially immiscible with
+petroleum-derived fuels.
+
+
+The density of the liquid is very high at around 1.2 kg/litre, compared with light fuel oil at
+around 0.85 kg/litre.This means that the liquid has about 42% of the energy content of
+fuel oil on a weight basis, but 61% on a volumetric basis.This has implications for the
+design and specification of equipment such as pumps and atomisers in boilers and engines.
+
+
+Pyrolysis liquids cannot be completely vaporised once they have been recovered from the
+vapour phase. If the liquid is heated to 100ºC or more to try to remove water or distil off
+lighter fractions, it reacts firstly by polymerisation followed by thermal cracking and
+eventually produces a solid residue of around 50 wt% of the original liquid and some
+distillate containing volatile organic compounds and water. Bio-oil has been successfully
+stored for several years in normal storage conditions in steel and plastic drums without
+any deterioration that would prevent its use in any of the applications tested to date.
+However, there is a gradual increase in viscosity over time and in extreme cases of wide
+temperature fluctuation, phase separation can occur.
+
+Applications of bio-oil
+
+
+Bio-oil can substitute for fuel oil or diesel in many static applications including boilers,
+furnaces, engines and turbines for electricity generation.16 Figure 9 summarises the
+possibilities. A range of chemicals including food flavourings, specialities such as
+
+
+
+
+
+                                                                              13
+Figure 9: Applications for products of fast pyrolysis

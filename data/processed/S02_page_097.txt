@@ -1,0 +1,53 @@
+                                   Clean air                to 70% of the total energy contained within the initial
+                                                                    fuel.
+              Dirty air                               The heat losses from surfaces vary from 1 to
+                                                         5 Btu/ft2-h-'F, depending on the geometry of the gas
+                                                             cooler and the temperatures involved. Thus, a great
+                                                         deal of the cooling at higher temperatures can be
+                                                    accomplished in the pipes and at the surfaces of the                    Waterinlets
+                                                                  gasifier itself, as well as in the cyclone separators or
+                                                      other cleaning equipment. However, as the gas
+                                                     approaches ambient temperature, additional cooling
+                                       Centrifugal              surface through some form of gas cooler is required.                                   entrainment
+                                      separator            Gas coolers exchange heat between the gas and the sur­
+   Venturi                                             roundingcal radiatorair,usedor betweenin vehiclethe applicationsgas and a liquid.is shownA typi­in
+                                                                    Fig. 8-3. Here, the motion of the vehicle increases air
+                                                    flow around a gas cooler, so that more cooling air is
+                                                             available at the higher speeds when the heat load is
+                                                                    greatest. In stationary applications, forced ventilation
+                                                                     is required to move air through the gas cooler.
+                                               As the gas cools, tars begin to condense at temperatures
+                                                  below 350'C. As the temperature passes below the dew
+                                                          point of the gas (typically 40' -50'C), water also will
+                                                      condense. Water condensation helps to remove tar par­
+                                                                    ticles but yields a contaminated water condensate in
+                                                         the process. If tars and particulates are removed from
+                                                      the gas before it enters the gas cooler, then the gas cooler
+                                                  Dirty           will be able to operate longer between cleanings. All                                                       heat-exchange and gas-cooling surfaces in contact with                                      1_ water                 t
+
+ Fig. 8-17.  Venturi scrubber with centrifugal entrainment separator (Source: Calvert 1972. Fig. 5.3.6-1)                                                                   Liquid in
+
+
+When the gas leaves the char gasification zone at about
+ BOO'C. the sensible heat of the gas accounts for about
+ 15% of the initial energy in the wood. If the gas is
+ burned while it is still hot. then the sensible heat can
+ be utilized. However, if the gas is to be used in an
+ internal-combustion engine,  it must be cooled to
+ prevent preignition, to improve the engine volumetric
+ efficiency, and to facilitate gas cleanup.
+The thermal energy in the raw gas may be either dis­
+ sipated, used for low-temperature applications such as                                             •
+ drying, or recycled into the gasifier by using the ener­
+ gy to preheat the incoming air. Each method has been
+ used on gasifiers. Airblast preheating was used exten­                                             •                                                                                                    • sively in European vehicle gasifiers to improve the gas                                                                                                •
+ and to permit wetter fuels to be gasified (Schliipfer                            " 1937; Egloff 1941; Lutz 1940).
+Using sensible heat to do more than preheat the air blast
+. or heat the fuel hopper is hardly justified because the
+ gas is dirty and only a small quantity of heat (15%) is
+ involved. If usable heat is desired, then the engine ex­                           Gas and liquid out
+haust gas and engine coolant fluid are much cleaner
+ and more abundant sources of heat, representing 50%        Fig. 8-18. Ejector Venturi scrubber  (Source: Calvert 1972, Fig. 3. 1-4)
+
+
+                                                            Gas Cleaning and Conditioning    89

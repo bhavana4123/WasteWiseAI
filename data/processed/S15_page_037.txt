@@ -1,0 +1,68 @@
+TA 6M: Waste Heat Recovery
+
+
+     41 EPA Combined Heat and Power Partnership, Waste Heat to Power Systems, 2012. Available at http://www.epa.gov/chp/documents/waste_heat_
+      power.pdf.
+     42  J. Zhu, et al., “Experimental study of a thermoelectric generation system,” Journal of Electronic Materials 40(5), 744–752, 2011.
+     43  S. LeBlanc, S. Yee, M. Scullin, D. Dames, and K. Goodson, “Material and manufacturing cost considerations for thermoelectrics,” Renewable and
+      Sustainable Energy Reviews, pp. 313–327, 2014.
+     44 U.S. DOE Office of Energy Efficiency & Renewable Energy, Cement Manufacturing Energy and Carbon Footprints (2010 MECS), available
+        at: http://energy.gov/sites/prod/files/2014/02/f7/2014_cement_energy_carbon_footprint.pdf. This data is also accessible via the U.S. DOE
+     Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available at: http://www.energy.gov/eere/amo/dynamic-
+      manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     45 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+     46 U.S. DOE Office of Energy Efficiency & Renewable Energy, Glass and Glass Products Manufacturing Energy and Carbon Footprints (2010
+     MECS), available at: http://energy.gov/sites/prod/files/2014/02/f7/2014_glass_energy_carbon_footprint.pdf. This data is also accessible via
+      the U.S. DOE Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available at: http://www.energy.gov/eere/amo/
+      dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     47 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs
+
+ Acronyms
+
+
+   BF                    By-product fuel
+
+   BOF                   Basic oxygen furnace
+
+   DTEC                   Direct Thermal Energy Conversion
+
+   DOE                 Department of Energy
+
+   EAF                      Electric arc furnace
+
+   EIA                  Energy Information Administration
+
+   EPA                   Environmental Protection Agency
+
+   HRSG                Heat recovery steam generator
+
+   HVAC                   Heating, ventilation, and air-conditioning
+
+   MECS                 Manufacturing Energy Consumption Survey
+
+   MMBtu                    Million Btu
+
+  ORC                  Organic Rankine cycle
+
+   RC                   Rankine cycle
+
+   SRC                Steam Rankine cycle
+
+   rpm                    Revolutions per minute
+
+   R/R                   Regenerative & recuperative
+
+    scf                   Standard cubic foot
+
+   TEG                   Thermoelectric generators
+
+   tonne                  Metric ton (1,000 kilogram)
+
+   US                    United States
+
+
+
+
+36  Quadrennial Technology Review 2015

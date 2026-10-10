@@ -1,0 +1,48 @@
+business’s bottom line in the form of zoning issues and emissions credits, fuel cells become a more
+appealing type of DG.
+
+Some types of fuel cell systems have already demonstrated high availability and reliability. As fuel cells
+further mature in the market, they are expected to achieve the high reliability associated with fewer
+moving parts.
+
+While fuel cells require significant power conditioning equipment in the form of direct current to
+alternating current conversion, power from fuel cell systems is clean, exhibiting none of the signal
+disturbances observed from grid sources.
+
+Finally, zoning for fuel cell systems is easier than other types of DG systems. Fuel cell systems can be
+designed for both indoor and outdoor installation, and in close proximity to sensitive environments,
+people, or animals.
+
+6.2.3 Remote Power
+In locations where power from the local grid is unavailable or extremely expensive to install, DG is a
+competitive option. As with premium power, remote power applications are generally base load
+operations. Consequently, emissions and efficiency become more significant criteria in much of the
+remote power DG market. Coupled with their other potential advantages, fuel cell systems can provide
+competitive energy into certain segments of the remote power DG market. Where fuel delivery is
+problematic, the high efficiency of fuel cell systems can also be a significant advantage.
+
+6.2.4 Grid Support
+One of the first applications that drew the attention of electric utilities to fuel cell technologies was grid
+support. Numerous examples of utility-owned and operated distributed generating systems exist in the
+U.S. and abroad. The primary application in the U.S. has been the use of relatively large diesel or natural
+gas engines for peaking or intermediate load service at municipal utilities and electric cooperatives.
+These units provide incremental peaking capacity and grid support for utilities at substations. Such
+installations can defer the need for T&D system expansion, can provide temporary peaking capacity
+within constrained areas, or be used for system power factor correction and voltage support, thereby
+reducing costs for both customers and the utility system. The unique feature of fuel cell systems is the
+use of power conditioning inverters to transform direct current electricity into alternating current. These
+power conditioners can be operated almost independent of the fuel cell to correct power factors and
+harmonic characteristics in support of the grid if there is enough capacity.
+
+6.2.5 Peak Shaving
+In certain areas of the country, customers and utilities are using on-site power generation to reduce the
+need for costly peak-load power. Peak shaving is also applicable to customers with poor load factor
+and/or high demand charges. Typically, peak shaving does not involve heat recovery, but heat recovery
+may be warranted where the peak period is more than 2,000 hours/year. Since low equipment cost and
+high reliability are the primary requirements, equipment such as reciprocating engines are ideal for
+many peak-shaving applications. Emissions may be an issue if operating hours are high. Combining peak
+shaving and another function, such as standby power, enhances the economics. High capital cost and
+
+
+
+Catalog of CHP Technologies                          6–5                                        Fuel Cells

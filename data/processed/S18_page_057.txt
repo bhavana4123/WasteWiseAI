@@ -1,0 +1,52 @@
+3.6  Area 600: Wastewater Treatment (WWT)
+
+3.6.1 Overview
+The ethanol process generates a number of wastewater streams that must be treated before
+recycle to the process or release to the environment. This is accomplished in the wastewater
+treatment system in Area 600. The treated water is assumed clean and fully reusable by the
+process, which reduces both the fresh makeup water requirement and discharge to the
+environment.
+
+Figure 13 is a simplified flow diagram of the WWT area. Condensed pretreatment flash vapor,
+boiler blowdown, cooling tower blowdown, and the pressed stillage water streams are mixed
+together. The combined wastewater stream is processed by anaerobic digestion and aerobic
+digestion to digest organic matter in the stream. Anaerobic digestion produces a biogas stream
+that is rich in methane so it is fed to the combustor. Aerobic digestion produces a relatively clean
+water stream that can be reused in the process as well as a sludge that is primarily composed of
+cell mass. The sludge is also burned in the combustor.
+
+
+         Boiler blowdown                              Biogas CH4/CO2
+ Cooling tower blowdown        Anaerobic               Air            Vent to atmosphere
+                            Digestion                                            Evaporator
+      Pretreatment flash                                                    Clarifier
+           Beer stillage                                                                        Waste brine
+                                                RO
+
+                                                Aerobic
+                                                                                                          Treated water
+                                                  Digestion
+                                                                      Dewatering
+                                                                                                                        Digester sludge
+                                                                                                                                      to combustor
+             Figure 13. Simplified flow diagram of the wastewater treatment process
+
+In previous designs, the stillage from the beer column was evaporated in Area 500 to yield a
+syrup that could be routed to the combustor, minimizing the loading to WWT in that model. In
+the present design, this process flow was ruled out because of the switch to ammonia
+conditioning in Area 200. In the 2002 design, sulfate ions introduced in dilute-acid pretreatment
+precipitated as gypsum after overliming and were removed from the process. With the switch to
+ammonia conditioning, the resultant ammonium sulfate and ammonium acetate salts remain in
+the process and end up in the stillage. When we modeled evaporation of the stillage to syrup, the
+salt concentrations in the syrup were so high that boiler vendors were not comfortable quoting a
+combustor system to handle it, due to concerns of burner fouling. We chose, therefore, to
+eliminate the stillage evaporators and route the stillage to wastewater treatment instead.
+
+While we were confident that anaerobic and aerobic digestion could satisfactorily treat the
+organic material flowing to WWT in our design, some technology vendors expressed concern
+with the concentrations of ammonia and sulfate and indicated that these could require special
+upstream cleanup steps, at additional cost and complexity. In 2010–2011, NREL therefore
+contracted with Harris Group and Brown and Caldwell (BC) to design a treatment system using
+actual material generated in the pilot plant. Their testing determined that upstream removal of
+
+                                      47

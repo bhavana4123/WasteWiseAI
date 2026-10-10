@@ -1,0 +1,51 @@
+designed as a pre-fabricated skid generally has a lower construction cost. Also, components that
+are more highly machined and have higher-quality metallurgy tend to be more expensive per unit
+mass and therefore have a lower installation factor as a function of purchase price than a less
+sophisticated component does. A good example of all three of these considerations is the
+pretreatment reactor system.
+
+                                Table 25. Installation Factors
+               Equipment                                           Multipliera
+                     Agitators, carbon steel                                  1.6
+                     Agitators, stainless steel                                1.5
+                     Boiler                                                  1.8
+                 Compressors, motor driven                              1.6
+                  Cooling tower                                          1.5
+                       Distillation columns, stainless steel                      2.4
+                 Heat exchangers, shell & tube, stainless steel            2.2
+                 Heat exchangers, plate & frame, stainless steel           1.8
+                 Heat exchangers, air-cooled                             2.8
+                      Inline mixers                                            1.0
+                 Skidded equipment                                     1.8
+                   Solids handling equipment (incl. filters)                   1.7
+                  Pressure vessels, carbon steel                          3.1
+                  Pressure vessels, stainless steel                        2.0
+                  Pretreatment reactor system                            1.5
+                Pumps, stainless steel                                  2.3
+                Pumps, carbon steel                                    3.1
+                  Tanks, field-erected, carbon steel                        1.7
+                  Tanks, field-erected, stainless steel                      1.5
+                  Tanks, storage, plastic                                  3.0
+                  Tanks, storage, carbon steel                            2.6
+                  Tanks, storage, stainless steel                           1.8
+                  Turbogenerator                                         1.8
+                         a Installed cost = (purchased equipment cost) x (multiplier).
+
+The purchased cost for a given component reflects a baseline equipment size. As changes are
+made to the process, the equipment size required may be different than what was originally
+designed. Instead of re-costing in detail, an exponential scaling expression was used:
+
+                                                          ௡                                                         Size                   New Cost ൌሺBase Costሻ൬New                                              Base Size൰
+
+where n is a characteristic scaling exponent (typically in the range of 0.6 to 0.7) based upon
+some characteristic of the equipment related to production capacity, such as flow or heat duty.
+Such scaled costs are easier to calculate and generally give nearly the same result as resizing the
+equipment for each scenario. The scaling exponent can be inferred from vendor quotes if
+multiple quotes are given for different sizes, computed with costing software, or obtained from a
+standard reference [73–74, 76]. In our case, we returned to the exponents proposed in the 1994
+Chem Systems report, which are shown in Table 26. Note that because the costs for most
+equipment items were newly estimated at their size in the present design, the exponents do not
+greatly affect the base MESP. They only factor into the calculation when changes are made in
+the process.
+
+                                      59

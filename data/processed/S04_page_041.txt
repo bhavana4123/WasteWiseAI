@@ -1,0 +1,47 @@
+materials (including site work), engineering, project management (including licensing, insurance,
+commissioning and startup), and financial carrying costs during the 4 to 18 month construction period.
+All engines are in low NOx configuration. System 1, a stoichiometric (rich burn) engine, uses a three-way
+catalyst to reduce emissions to their final level. The other systems are all lean burn engines and are
+shown with a SCR, CO catalyst, and continuous emissions monitoring system (CEMS) that are required in
+environmentally sensitive areas such as Southern California and the Northeastern U.S.
+
+Table 2-4 provides cost estimates for combined heat and power applications based on a single unit
+engine. The CHP system is assumed to produce hot water, although the multi-megawatt size engines are
+capable of producing low-pressure steam. The heat recovery equipment consists of the exhaust
+economizer that extracts heat from the exhaust system, process heat exchanger for extracting heat from
+the engine jacket coolant, circulation pump, control system, and piping. These cost estimates include
+interconnection and paralleling. The package costs are intended to reflect a generic representation of
+popular engines in each size category. The interconnection/electrical costs reflect the costs of paralleling
+a synchronous generator for the larger systems. The 100 kW system uses an inverter based generator
+that has been pre-certified for interconnection in most areas. Labor/materials represent the labor cost
+for the civil, mechanical, and electrical work as well as materials such as ductwork, piping, and wiring.
+Project and construction management also includes general contractor markup and bonding, and
+performance guarantees. Contingency is assumed to be 5 percent of the total equipment cost in all
+cases. Cost estimates for multiple unit installations have lower unit costs than single unit installations.
+
+     Table 2-4. Estimated Capital Cost for Typical Gas Engine Generators in Grid
+                        Interconnected CHP Applications
+                                                            System
+             Capital Cost, $/kW
+                                        1          2          3          4          5
+  Nominal Capacity (kW)                   100        633        1121       3326       9341
+  Equipment (Costs in 2013 ($/kW))
+     Gen Set Package                     $1,400       $400       $375       $350       $575
+      Heat Recovery                      $250       $500       $500       $500       $175
+       Interconnect/Electrical               $250       $140       $100        $60        $25
+      Exhaust Gas Treatment                          $750       $500       $230       $150
+   Total Equipment                         $1,900      $1,790      $1,475      $1,140       $925
+   Labor/Materials                        $500       $448       $369       $285       $231
+   Total Process Capital                     $2,400      $2,238      $1,844      $1,425      $1,156
+       Project and Construction                                       $125       $269       $221       $171       $139     Management
+      Engineering and Fees                $250       $200       $175        $70        $30
+       Project Contingency                  $95        $90        $74        $57        $46
+       Project Financing                    $30        $42        $52        $78        $62
+   Total Plant Cost ($/kW)                  $2,900      $2,837      $2,366      $1,801      $1,433
+   Source: Compiled by ICF from vendor-supplied data
+
+
+
+
+
+Catalog of CHP Technologies                         2–15                         Reciprocating IC Engines

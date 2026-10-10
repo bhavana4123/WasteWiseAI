@@ -1,0 +1,48 @@
+                                                                    Alloys and Metals
+
+
+IRON - Continued
+
+   heat of vaporization: at the boiling point 2875OC (5207OF).
+                  1    L,   2698 Btu lb-
+     L,  = 1499 cal
+    L, = 6271 J
+
+   vapor pressure:
+
+    tern erature
+   C0CP  (OF)       P(atm)           P(Pa)             P(psi)
+   1326  2419        1o-6                  0.1           1.470 x  10:;
+   1829  3324           I 0-3             101.3           1.470 x 10
+   2080  3776           lo-;             1013.3           1.470 x 10-
+   2417  4383         10-           10132.5           1.470
+   2875  5207        1.o          10 1325.           14.696
+
+                                                       63HUL/ORR
+
+IRON, CAST; liquid; composition of cast iron: base iron (Fe),the compound cementite
+   (Fe3C), and alloying elements of graphite (C) and silicon (Si), and lesser elements such
+   as Mn, P, and S. A typical composition for ductile iron is C   3.2%-4.2%,
+    Si  1.1%-3.5%, Mn = 0.3%-0.8%, P   0.08%, S = 0.02%,  and remainder Fe.
+
+   heat content: The temperature range is (-140O0-160O0C) (2600"-2900"F); T is in K;
+   the equation applies to all cast iron and is the sum of individual heat content
+   equations where the lesser elements are ignored. X is weight fraction of substance.
+   qy-q32(Bt~lb-l)    = (0.3164T - 1.94) XFe + (0.3164T - 5.36) XFe c
+                                                         3
+                       + (0.9004T + 1494.4) Xc + (0.39021 + 989.5) Xsi
+
+   qT-q273 (cal g-')    = (0.1758T - 1.08) XFe + (0.1758T - 2.98) XFe
+                                                         3
+                        + (0.5002T + 830.2) X c + (0.2168T + 549.7) Xsi
+
+                       = (0.7357T - 4.53) XFe + (0.73571 - 12.47) XF,+
+                        + (2.0929T + 3473.5) X c + (0.9072T + 2300.1) Xsi
+
+                                                          73DUC
+
+
+
+
+
+                                       41

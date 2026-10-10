@@ -1,0 +1,56 @@
+Polymers and Plastics
+
+
+
+POLYPROPYLENE; solid; repeating unit: C3H6.
+
+   gross heat of combustion: at 25°C (77°F)
+
+    isotactic; 58% crystallinity                Polypropylene VK 166, untangled
+
+    q,(gross)    19948.3 2 4 Btu Ib- 1              q,(gross) = 19838 k 9.2 Btu Ib- 1
+    q,(gross)    11082.4 f 2.2 cal                  q,(gross)    2: 11021.2 f 5.1 cal g-l
+                                                     4 - I    q,(gross)   46368.8 f 9.2 J g-                 q,(gross)  = 46112.7 f 21.3 J g-'
+
+   degree of polymerization -4000 units
+    q,(gross)    19944.9 k 4 Btu lb- I
+    q,(gross) = 11080.5 2 2.2 cal
+    q,(gross)  = 46360.8 5 9.2 J
+
+                                                 63PAR/MOS; 67FRA/MIS
+
+POLYSTYRENE; solid; repeating unit: C8H8.
+
+   gross heat of combustion: at 25°C (77'F)
+
+    isotactic, 40% crystallinity                 polystyrol BW
+    qv(gross) = 17838 k 5.6 Btu lb- 1                                        1                                                qv(gross)  17860 2 7.2 Btu lb-
+                                                                   1    q,(gross) = 9909.9 f 3.1 cal g-l               q,(gross)  = 9922.4 2 4.0 cal g-
+    q,(gross)  = 41463.0 f 13.0 J g-l              q,(gross)  = 41515.3  _+ 16.7 3 g-'
+
+    isotactic, amorphous                       polystyrol P70
+                                                   I                                        1    q,(gross) = 17853 f 4.3 Btu Ib-               q,(gross) = 17821 f 5.4 Btu Ib-                                                    I   qv(gtoss) = 9928.5 ,+ 2.4 Btu lb;               q,(gross) = 9900.5 ,+ 3.0 cal g-l
+    q,(gross) = 41499.0 2 10.0 J g-               q,(gross) = 41423.7 f 12.6 J g- 1
+
+    atactic, amorphous
+    q,(gross) = 17858 ,+ 2.5 Btu lb- 1
+    q,(gross)   9921.2  +, 1.4 cal
+    q,(gross)  = 41510.3 f 5.9 J g
+
+                                                           67FRA/MIS; 68 JOS
+
+POLYUREA (POLYHARNSTOFF); solid; empirical formula C15H1804N4;a polymer of
+   adipic acid diamide plus (2,4-2,6)-toluene diisocyanate.
+
+   gross heat of combustion: at 25°C (77'F)
+
+    q,(gross)  = 10717 r 3.1 Btu lb-:
+    q,(gross)  = 5954.0 2 1.7 cal g-
+    q,(gross) = 2491 1.5 t 7.1 J g-l
+
+                                                             67FRA/MIS
+
+
+
+
+                                        184

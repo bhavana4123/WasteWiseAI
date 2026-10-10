@@ -1,0 +1,50 @@
+Table 3.8. Comparison of Residuals Production for Food Waste and Municipal Wastewater
+Solids Digestion at a 15-day MCRT.
+ Total Solids Applied,                 Total Solids Residual, dry tons
+      dry tons
+
+     Digester Feed      Mesophilic Food   Thermophilic Food       Municipal
+                    Waste Digestion    Waste Digestion     Wastewater Solids
+                                                                        Digestion1
+        100                36                30                 56-70
+ Notes:
+  1. Residuals production assumes a range of municipal wastewater solids VSDs between 38-57%.
+
+Post-digestion food waste residuals are approximately half the weight of municipal wastewater
+solids residuals for the same weight of digester feed, reflecting the greater concentration of
+volatile material in the food waste and the higher VSD. The amount of food waste residual
+solids after mesophilic anaerobic digestion appears to be slightly higher then after thermophilic
+anaerobic digestion.
+
+3.9    Digester Gas Composition
+
+During methanogenesis, methane (CH4) and carbon dioxide (CO2) make up almost all of the
+digester gas produced. Combining methane and carbon dioxide usually accounts for nearly 99%
+or more of the digester gas content, with methane at about 60-65% and carbon dioxide at about
+35-40%. The methane and carbon dioxide concentrations can be used as an indicator of digester
+process stability.
+
+Gas composition was sampled twice weekly for each digester to monitor process stability.
+Average methane content values for the digesters at the target operating MCRTs are provided in
+Table 3.9. Figure 3.12 presents the methane content (as CH4%), and Figure 3.13 presents the
+carbon dioxide (as CO2%) content of each digester.
+
+Table 3.9. Bench-scale Anaerobic Food Waste Digester Methane Gas Composition
+Summary.
+ Target MCRT,        Mesophilic Digester            Thermophilic Digester
+      days           Methane (CH4), %            Methane (CH4), %
+             AVG         SD        AVG         SD
+      15             64               0.6             67               6.1
+      10             59               3.5             60               4.4
+       5         NA        NA        NA        NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               26
+Funding Opportunity No. EPA-R9-WST-06-004

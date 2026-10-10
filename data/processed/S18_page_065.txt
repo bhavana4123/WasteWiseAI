@@ -1,0 +1,47 @@
+     Total Duty = 97 MMkcal/hr (386 MMBtu/hr)                                                    Hydrolyzate flash
+                                                                            Pre-fermentation                                                    condenser
+                               Hydrolysis                                            cooler                                           8%
+                                cooler                                 6%
+                        11%
+                                                  EtOH product
+               Chiller condenser                                    cooler
+              14%                               5%
+
+                                                             Molsieve
+                                                              regeneration
+                                                                   cooler
+                                                3%
+
+                                                             Enzyme production
+                 Condensing                                           compressor
+                    Turbine                                      1%
+                 52%                                                                    Beer column
+                                                                     condenser
+                                                        0%
+    DW1102A
+
+                   Figure 14. Cooling duty distribution between major users
+
+By far the biggest user of cooling water is the condensing turbine. In contrast to the 2002 design,
+the cooling water duty required by the ethanol separation section is relatively small because an
+air-cooled condenser was specified for the rectification column. Aspen computes the cooling
+tower evaporation rate based on a temperature drop from 37°C to 28°C. It was assumed that
+windage would be 0.005% of the total flow to the tower. The tower blowdown was assumed to
+be 0.15% of the flow leaving the tower basin.
+
+Chilled water is provided by two 2,350-ton Trane centrifugal chillers. Per the chiller spec sheet,
+the compressor electricity demand for the chiller was estimated at 0.56 kW/ton of refrigeration.
+The cooling water demand for the chiller system was assumed to be equal to the heat removed in
+the chilled-water loop. The chilled-water loop provides cooling to the fermentors in Area 300
+and Area 400.
+
+Fresh water is assumed to enter the facility at 13°C and is used to cool the wastewater entering
+Area 600 to digestion temperature before entering the process water tank. The fresh water is
+mixed with the treated wastewater effluent in the process water tank (T-914) and then split
+several ways. Clean water must be provided to biomass dilution in the front end, to the cellulase
+production unit, to the vent scrubber, and to the boiler and cooling tower water makeup. The
+process water tank is designed for an 8-hour residence time. The process water pump (P-914)
+pumps water from the tank into the facility and is designed to handle 1.5x the process water flow
+requirement. In the present design, less water is recycled internally in the process than in the
+
+                                      55

@@ -1,0 +1,58 @@
+                                                                    Vegetable Oils
+
+
+
+RAPESEED OIL; liquid; The vegetable oil has a chemical composition of up t o 3 fatty
+   acids linked t o a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic = 3.49, stearic   0.85, oleic = 64.40, linoleic = 22.30, and
+    linolenic = 8.23.  The acid value (number of mg of KOH needed to neutralize free
+    fatty acids in 1 g sample) = 1.14, the phosphorus = 18.0 ppm, peroxide value (milli-
+   equivalents of peroxide per 1000 g sample that oxidize KI during test conditions) =
+    30.2, water and sediment (% by volume)   trace, carbon residue (% by weight) = 0.30,
+   ash (% by weight) = 0.054, and sulfur (% by weight) = 0.01.  Density = 0.9115 kg/L.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   qy(gross) = 17083 Btu 1
+    qv(gross) = 9491 cal g-
+   qv(gross) = 39709 J g-l
+
+                                                          82GOE/SCH
+
+RYE OIL; liquid; oil extracted from rye grain, Secale cereale.
+
+   gross heat of combustion: assume values refer to room temperature.
+    qv(gross) = 16780 Btu lb- 1
+    q,(gross)  = 9320 cal g-'
+    qv(gross) = 38990 3 g-l
+
+   obtained by ether extraction
+
+    q,(gross)  = 16560 Btu  I
+    q,(gross)   9200 cal g-
+    q,(gross)  = 38495 J g-l
+
+                                                      55MER/WAT
+
+SAFFLOWER OIL; liquid; The vegetable oil has a chemical composition of up t o 3 fatty
+   acids linked t o a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic   8.60, stearic = 1.93, oleic = 11.58, and linoleic =
+    77.89. The acid value (number of mg of KOH needed to neutralize free fatty acids in
+    1 g sample) = 0.70, the phosphorus = 20.0 ppm, peroxide value (milliequivalents of
+   peroxide per 1000 g sample that oxidize KI during test conditions) = 56.4, water and
+   sediment (% by volume) = trace, carbon residue (96 by weight) = 0.25, ash (% by
+   weight) = 0.006, and sulfur (% by weight) = 0.01.  Density = 0.9144 kg/L.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 17001 Btu 1
+    q,(gross)  = 9445 cal g-
+    qv(gross) = 39519 J g-l
+
+                                                          82GOE/SCH
+
+
+
+
+
+                                       225

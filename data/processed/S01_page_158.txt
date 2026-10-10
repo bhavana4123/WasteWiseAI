@@ -1,0 +1,54 @@
+                                                          Polymers and Plastics
+
+
+MELINEX FILM; solid; Material measured was a polyester 0.001 in. thick, with an
+    empirical formula (C10H804),.
+
+    gross heat of combustion: temperature = 298.15 K (77OF),pressure = 30 atm oxygen,
+    result had a mean C02 recovery of 99.746%.
+    qv(gross) = 9864.3 2 2.6 Btu lb- 1
+    q,(gross)  = 5480.1 2 1.4 cal
+    q,(gtoss)  = 22928.9  ?: 6 J g-
+
+                                                         75AND/BAR
+
+2,5-METHYLOLMELAMINE, HARDENED; solid; elementary analysis: carbon, 34.19%;
+   hydrogen, 5.27%; oxygen, 17.07%; nitrogen, 43.47%; empirical f ormula
+   C1 I H2004N 12; a melamine-formaldehyde polymer.
+
+   gross heat of cornbustion: at 25°C (77OF)
+
+    q,(gross) = 6950.9 f 2.3 Btu lb-I
+    q,(gross) = 3861.6 f 1.3 cal g-'
+    q,(gross)  = 16156.9 f 5.4 J g-l
+
+                                                              67FRA/MIS
+
+2,5-METHYLOLMELAMINE, UNHARDENED; solid; elementary analysis: carbon, 32.70%;
+   hydrogen, 5.53%; oxygen, 20.51%; nitrogen, 41.26%; empirical formula
+   C5.5HllO2.5Ng; a melamine-formaldehyde polymer.
+
+   gross heat of combustion: at 25°C (77°F)
+    q,(gross) = 6699.2 5 2.2 Btu lb- 1
+    q,(gross) = 3721.8 t 1.2 cal g-l
+   qv(gross) = 15572.0 f 5.0 J g-l
+
+                                                             67FRA/MIS
+
+MYLAR FILM; solid; E.  I. duPont de Nemours and Company trade name; Repeating unit
+    is (C12H1204)n.  Material measured was 100-gauge, type A polyester film and is a
+   copolymer of ethylene glycol and terephthalic acid.
+
+   gross heat of combustion: temperature = 25°C (77"F), oxygen pressure = 30 atm, value
+   given is expressed as a function of humidity (where RH is relative humidity in %).
+    q,(gross) = -9862.74 + 0.4543RH Btu Ib- 1
+    q,(gross) = -5479.30 + 0.2524RH cal g-l
+    q,(gross)  = -22925.39 + 1.0560RH J g-l
+
+                                                      70MAN/RAP
+
+
+
+
+
+                                       173

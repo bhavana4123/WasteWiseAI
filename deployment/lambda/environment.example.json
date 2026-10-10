@@ -1,0 +1,7 @@
+{
+  "Variables": {
+    "WASTEWISE_ENV": "production",
+    "WASTEWISE_CORS_ORIGINS": "https://frontend.example.com",
+    "PYTHONDONTWRITEBYTECODE": "1"
+  }
+}

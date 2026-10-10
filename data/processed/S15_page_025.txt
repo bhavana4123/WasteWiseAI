@@ -1,0 +1,62 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.11 Summary of Waste Heat By Type and Associated Barriers1
+
+
+   Type of Waste Heat              Associated Barriers to Adoption in U.S. Industry
+
+
+
+                                                               Reduced thermodynamic potential for the most efficient heat recovery due to materials
+                                           limitations (particularly metallic) that require gases to be diluted
+    High-temperature combustion                                       Heat transfer limits on the flue gas side in steam generation or other power generation    products or hot flue gases that                                                           (i.e., organic Rankine cycle) heat exchanger systems applications    are relatively clean
+                                                                       Seal issues for heat exchanger designs with metallic and nonmetallic (ceramics)
+                                  components (due to dissimilar thermal expansions)
+
+
+                                                                          Availability or cost of materials that are designed to resist the corrosive effects of
+                                     contaminants    High-temperature flue gases
+    or combustion products         Lack of design innovation that will allow self-cleaning of the heat recovery equipment to
+    with contaminants such as          reduce maintenance
+    particulates or condensable       Lack of cleaning systems (similar to soot blowing) that allow easy and on-line removal of
+    vapors                              deposits of materials on heat transfer surfaces
+
+                                                                 Heat transfer limitations on the gas side of heat exchange equipment
+
+                                                                     Limitations on the heat exchanger size that prevent use on retrofit, which may be due to
+    Heated air or flue gases                                        heat transfer limitations or design issues such as size and shape of heat transfer surfaces
+    containing high (>14%) O2              (e.g., tubes or flat plates)
+    without large amounts of                                           Lack of availability of combustion systems for small (less than 1 MMBtu/hr) sizes to use    moisture and particulates
+                                   low O2 exhaust gases as combustion air for fired systems
+
+                                                                Lack of available, economically justifiable vapor concentrators for recovery and reuse of
+    Process gases or by-product          the organic-combustible components, which would avoid the need for heating a large
+    gases and vapors that contain       amount of dilution air and the resultant large equipment size. The concentrated fluids can
+    combustibles in gaseous or vapor    be used as fuel in the heating systems (ovens).
+   form                       Lack of availability of compact heat recovery systems that will reduce the size of the heat
+                                      exchangers (large regenerators)
+
+    Process or make-up air mixed
+    with combustion products,       Rapid performance drop and plugging of conventional heat exchanger. Unavailability of
+    large amounts of water vapor,        designs that allow self-cleaning of heat transfer surfaces on units such as recuperators.
+    or moisture mixed with small     Lack of innovative designs that allow use of condensing heat exchangers (gas-water)
+   amount of particulates but no       without having the corrosive effects of carbonic acid produced from CO2 in flue products
+    condensable organic vapors
+
+
+                                                        No major technical barriers. The major barriers are cost and return on investment for    Steam discharged as vented                                        the collection of steam, the cooling system, condensate collection and, in some cases, the    steam or steam leaks                                        cleaning system.
+
+
+                                 Other gaseous streams               Application-specific barriers
+
+    Clean heated water discharged
+   from indirect cooling systems                                       Lack of opportunities to use low-grade heat within the plant. Lack of economically    such as process or product                                                justifiable heat recovery systems that can convert low-grade heat into a transportable and    cooling or steam condensers.                                        usable form of energy, such as electricity.    This stream does not contain any
+     solids or gaseous contaminants
+
+
+
+
+
+24  Quadrennial Technology Review 2015

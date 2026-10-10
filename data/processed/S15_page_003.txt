@@ -1,0 +1,50 @@
+TA 6M: Waste Heat Recovery
+
+
+  Introduction to the Technology/System
+
+  Introduction to Waste Heat Recovery
+
+  Waste heat is generated from a variety of industrial systems distributed throughout a manufacturing plant. The
+   largest sources of waste heat for most industries are exhaust and flue gases and heated air from heating systems
+  such as high-temperature gases from burners in process heating; lower temperature gases from heat treating
+   furnaces, dryers, and heaters; and heat from heat exchangers, cooling liquids, and gases. While waste heat in the
+  form of exhaust gases is readily recognized, waste heat can also be found within liquids and solids. Waste heat
+   within liquids includes cooling water, heated wash water, and blow-down water. Solids can be hot products that
+   are discharged after processing or after reactions are complete, or they can be hot by-products from processes
+   or combustion of solid materials. Other waste heat sources that are not as apparent include hot surfaces, steam
+   leaks, and boiler blow-down water. Table 6.M.1 shows a number of major sources of industrial waste heat along
+  with the temperature range and characteristics of the source.1
+
+
+       Table 6.M.1 Typical Temperature Range and Characteristics for Industrial Waste Heat Sources1
+
+
+   Waste Heat Source                                Temperature Range (°F)               Cleanliness2
+
+    Furnace or heating system exhaust gases               600 – 2,000                             Varies
+   Gas (combustion) turbine exhaust gases                900 – 1,100                         Clean
+    Reciprocating engines
+       Jacket cooling water                              190 – 200                           Clean
+      Exhaust gases (for gas fuels)                        900 – 1,100                          Mostly clean
+   Hot surfaces                                              Post-intercooler water                Clean
+    Compressor post-intercooler water                    100 – 180                           Clean
+   Hot products                                      200 – 2,500                          Mostly clean
+    Steam vents or leaks                                250 – 600                           Mostly clean
+    Condensate                                       150 – 500                           Clean
+    Emission control devices – thermal oxidizers, etc.        150 – 1,500                          Mostly clean
+
+
+  Various reports prepared for the Department of Energy (DOE) and other organizations1,3,4,5,6,7,8 have studied
+   sources of waste heat, primarily from industrial heating systems. The scope of these reports varied from
+   estimating annual energy losses from industrial heating systems, to reviewing waste heat from various
+   industries and identifying general R&D opportunities. The following is an overview of several waste heat
+   reports that were used as references in this Technology Assessment, with key RDD&D opportunities
+   highlighted that may lead to improved waste heat recovery (WHR). Added to each report overview are
+  comments, considerations and/or updates intended to improve alignment with this Technology Assessment.
+
+
+
+
+
+  2  Quadrennial Technology Review 2015

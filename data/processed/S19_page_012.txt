@@ -1,0 +1,57 @@
+2 Methods
+2.1 Demonstration Runs
+2.1.1 Feedstock
+The demonstration runs used Pioneer 33B51 corn stover received in 2003 from Wray, Colorado
+(Kramer farm). The stover was received tub ground and was further knifed milled (Jordan
+Reduction Solutions, Birmingham, Alabama) through a ¾-in. rejection screen in the NREL
+IBRF.
+
+2.1.2  Description of Pilot Plant Activities
+Figure 2 illustrates the sequence of operations and associated pilot plant equipment used for the
+2012 demonstration runs. This figure shows the equipment used for each unit operation
+performed in the pilot plant along with associated chemical flows and mode of operation (batch,
+semi-batch, continuous). Plant operating conditions are given in Table 2. A description of each
+unit operation follows.
+
+                   Corn Stover  NaOH
+
+
+                     De-acetylation and       Water
+                    Washing (Batch):
+                          DI tank              Spent Caustic Liquor
+
+
+                     Acid Impregnation       H2SO4                             Water                         Steam            NH4OH    Enzyme                         (Batch): DI tank
+
+                         Solid Separation             Feeding (Semi-              Pretreatment             Enzymatic Hydrolysis      Water
+                       (Batch): Lg. Screw              Continuous):               (Continuous): Lg.                (Batch): HSEHR
+                            Press                  Acrison Feeder               Hor. Rx (Metso)              (HSEHR, Scott)           Nutrients
+
+                                                                                            C5/C6 Fermentation                         Acid Liquor
+                                                                                                                     (Batch): 1500-L
+                                                                                                     Fermentor
+
+
+                                                                                                  Kill/Distillation           Inoculum Production
+                                                                              (Batch/Continuous)              (Batch): 160-L           Nutrients
+                                                                                                     Fermentor
+
+                                                                                   Ethanol
+                                                                                                  Inoculum Production
+                                                                                                                                         Nutrients                                                                                                                   (Batch): Shake Flask
+
+
+                                                                                                       Inoculum
+                                                                                                              Production, Revive         Nutrients
+                                                                                                                  (Batch): Conical Tube
+
+
+                                                                                                          Frozen Cells
+
+             Figure 2. Pilot plant sequence of operations and associated equipment
+
+
+
+
+
+                                       5

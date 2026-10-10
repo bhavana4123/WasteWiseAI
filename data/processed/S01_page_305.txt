@@ -1,0 +1,46 @@
+                                  Appendix C
+
+         SYMBOLS, UNITS, CONVERSION FACTORS, ATOMIC WEIGHTS
+
+                     Symbols for Thermodynamic Quantities
+
+
+The symbols indicated in this Appendix        NOTE: The Gibbs energy is frequently
+are those adopted by the International          called free energy, Gibbs free energy, or
+                                            Gibbs function. The commonly encoun-Union of Pure and Applied Chemistry
+                                              tered term free energy in American work(IUPAC), 1969.                                          on thermodynamics almost invariably
+                                                refers t o Gibbs energy.  This usage of the
+Symbols in parentheses are alternates,                                         term free energy and the symbol F are
+accepted but not recommended by             being discouraged by the IUPAC because
+IUPAC.  Also indicated are other com-           of confusion with the Helmholtz energy
+monly used symbols and names of quanti-      and the common European usage of F for
+ties not accepted by IUPAC.                   the latter.
+
+                                                   Planck function: Y  -G/T
+Primary Symbols
+                                                        compressibility factor:
+       thermodynamic temperatwe               2 = pV/nRT
+        (absolute temperature)
+                                                      heat capacity
+        Kelvin temperature
+                                                          specific heat capacity (heat
+        Celsius temperature                          capacity divided by mass)
+
+       molar gas constant                            heat capacity ratio: C /Cv                                                                      P
+       Boltzmann constant                          Joule-Thomson coefficient
+
+        heat                                        thermal conductivity
+
+       work                                       thermal diffusivity: a = 1/pCp
+
+        internal energy                                 coefficient of heat transfer
+
+        enthalpy: H = U + pV                          cubic expansion coefficient:
+                                                      u = (aV/aT) /V
+                                                          P        entropy
+                                                      isothermal compressibility:
+       Helmholtz energy: A = U - TS                 k = -(aV/ap)T/V
+
+       Massieu function: J = -A/T                     pressure coefficient:
+                                                        B = (ap/aTIV
+        Gibbs energy: G = H - TS

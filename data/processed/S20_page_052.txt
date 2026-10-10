@@ -1,0 +1,55 @@
+          5.0  Conclusions and Recommendations
+
+    This analysis shows that fuel blendstocks generated from HTL of sludge and centralized biocrude
+upgrading have the potential to be competitive with fossil fuels. The estimated plant gate MFSP of
+$3.46/gge final fuel blendstock for the goal case conceptual design for 2022 is within the tolerance of
+BETO’s $3/gge programmatic goal for biofuel production cost. This analysis illustrates the feasibility of
+HTL for point-of-generation conversion of waste feedstock at a scale 1/20th that of the standard
+lignocellulosic biorefinery scale typically used in BETO design cases. The relevance of this work reaches
+beyond wastewater treatment sludge to lay the groundwork for application to other distributed wet wastes
+and blends that together represent a significant resource of underutilized biomass.
+
+    Future research in several key areas is needed to support the goal case design, including:
+
+  Increased biocrude yields through
+
+   –  Improved continuous solid/liquid separations and liquid/liquid separations. Research is needed to
+        investigate and test improved methods for enhanced phase separation such as coalescers,
+       continuous solids separation, solids washing, feed de-ashing, and other approaches.
+
+   –   Incorporation of FOG and other fat-rich waste resources, such as skimmed FOG from the
+     WWTP, collected restaurant grease trap waste, and regional rendering. Further work is necessary
+        to determine and test appropriate sludge/FOG blends.
+
+   –   Increased feed solids concentration. Concentrating the solids increases the amount of carbon
+        reporting to the biocrude phase during HTL and improves economics through decreased capital
+        costs and increased energy efficiency. Further work is needed to assess high pressure pumping
+       and HTL of sludge feed at 25% solids at various ash contents.
+
+   –  Decreased ash/grit content in the sludge solids through WWTP operations such as improved
+        degritting and/or deashing technology, and reduced inorganic flocculating agent usage.
+
+  Strategies for more effective and scalable heat transfer at HTL operating pressure:
+
+   –  Improved understanding of fundamental heat and mass transfer limitations for sludge heating and
+        associated improvements to the design for application at scale. This includes heat transfer studies
+        to better characterize the preheater equipment needs and rheology studies to determine viscosity
+         profile as a function of temperature and flow rate.
+
+   –   Investigation of alternative heat exchanger designs for reduced material costs such as static mixer
+        heat exchangers, dual-shell configurations (Fassbender 1992), and staged heating with shell/tube
+        units for the latter portion of preheating.
+
+  Cost-effective treatment technologies for the HTL aqueous phase. Baseline testing is needed to
+    determine the effectiveness of various options (e.g., ammonia stripping, biological methods and
+   membranes) for nitrogen removal. Further investigation of conversion (e.g., catalytic gasification)
+   and treatment technologies through collaborative experimental and modeling work with universities
+   and industry is needed to understand the impacts of full integration with the WWTP.
+
+  Address scale challenges for distributed waste feedstocks through:
+
+   –   Integration of additional waste feedstocks on a regional basis. Resource analysis will help to
+        identify available waste feedstock blends including manure, FOG, pulp sludge, food waste, etc…
+
+
+                                         37

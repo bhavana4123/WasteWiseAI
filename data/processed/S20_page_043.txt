@@ -1,0 +1,37 @@
+3.1.3   Minimum Biocrude Selling Price
+
+   The minimum fuel selling price (MFSP) of the biocrude is determined using a discounted cash flow
+rate of return analysis. The MFSP is the plant gate selling price of the fuel product that makes the net
+present value of the project equal to zero with a 10% discounted cash flow rate of return over a 30 year
+plant life and 40% equity with the remainder debt financed at 8% interest for a 10 year term (see Table 1,
+Section 1.3). The resulting MFSP for the 100 dry ton/day sludge HTL plant is $2.35/gge biocrude, or
+$2.53/gallon. The modeled biocrude has a lower heating value (LHV) of 124,990 Btu/gal. A LHV of
+116,090 Btu/gal (ANL 2016) is used to convert the heat value of the fuel products to a gasoline gallon
+equivalent basis. Table 20 shows the breakdown of costs contributing to the MFSP of the biocrude. This
+MFSP corresponds to a revenue from biocrude sales of $9.6 million/year. The payback period of the
+project, calculated as the fixed capital investment divided by the average annual cash flow (Peters et al.
+2004), is 13 years at the assumed 10% internal rate of return (IRR). This payback period does not
+consider any avoided sludge disposal costs that would be incurred due to reduction of solids from HTL.
+Figure 9 shows the contribution of each section of the HTL plant to the overall MFSP. The HTL section
+of the plant constitutes 72% of the production cost. Sensitivity analysis around key financial and
+technical assumptions and their impact on the MFSP is presented in Section 4.0.
+
+
+                         Table 20. Biocrude MFSP cost breakdown.
+
+                                                           $/gge         $/year
+                                                          biocrude    (2014 USD)
+                          Natural Gas                         0.14       $600,000
+                         Quicklime, Polymer                 0.18       $800,000
+                             Electricity                          0.11       $500,000
+                         Fixed Costs                         0.68      $2,800,000
+                           Capital Depreciation                 0.27      $1,100,000
+                       Average Income Tax                0.16       $700,000
+                       Average Return on Investment       0.81      $3,300,000
+                        Total                              2.35
+
+
+
+
+
+                                         28

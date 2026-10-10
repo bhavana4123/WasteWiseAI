@@ -1,0 +1,51 @@
+4.4  Fixed Operating Costs
+Fixed operating costs are generally incurred in full whether or not the plant is producing at full
+capacity. These costs include labor and various overhead items. Many of the assumptions on
+fixed operating costs follow the 2002 design report [2] and/or Peters and Timmerhaus [74].
+
+Table 31 shows the recommended number of employees and associated salaries. The number of
+employees was estimated by considering the likely degree of automation for each area and
+adding a reasonable number of management and support employees. The total number of
+employees has been reduced from 77 in the 2002 design to 60. The major reason for the reduced
+labor requirement is the redesign of the feed handling area. In the present design, feedstock is
+received year-round according to uniform-format specifications and is unloaded with truck
+tippers, eliminating the need for yard employees and operators to perform milling and washing.
+Eight operators and two laboratory technicians were added to support the on-site enzyme section,
+but overall fewer employees were required. Excluding these 10 employees, 50 employees for the
+ethanol facility is also consistent with a 2008 LECG consulting report prepared for the
+Renewable Fuels Association [79]. Salaries were estimated by using commercially available
+salary estimators such as Salary.com as well as open positions posted on internet job sites.
+Because the model feedstock is corn stover, salaries were estimated for rural regions of the U.S.
+Midwest (Iowa, Missouri, etc.). These estimates may vary depending on location.
+
+                              Table 31. Fixed Operating Costs
+    Position                2007       #             2007 Cost  MM$/yr    Cent/Gal
+                            Salary   Required                       (2007$)    Ethanol
+                                                                                  (2007$)
+                                Labor and supervision
+    Plant manager           141,569     1                 141,569
+    Plant engineer            67,414     2                 134,828
+    Maintenance supervisor    54,894     1                  54,894
+    Maintenance technician    38,522     12                462,266
+    Lab manager             53,931     1                  53,931
+    Lab technician            38,522     2                  77,044
+    Lab tech-enzyme          38,771     2                  77,044
+     Shift supervisor           46,227     4                 184,906
+     Shift operators            38,522     20                770,443
+     Shift oper-enzyme         38,771     8                 308,177
+    Yard employees          26,966     4                 107,862
+    Clerks and secretaries     34,670     3                 104,010
+     Total salaries                                          2,500,000     2.48          4.06
+    Labor burden (90%)                                     2,200,000     2.23          3.65
+                                     Other overhead
+    Maintenance             3.0%   of ISBL              3,200,000     3.14          5.15
+    Property insurance         0.7%   of FCI               2,700,000     2.80          4.60
+    Total fixed operating costs                                         10.66         17.46
+
+A 90% labor burden is applied to the salary total and covers items such as safety, general
+engineering, general plant maintenance, payroll overhead (including benefits), plant security,
+janitorial and similar services, phone, light, heat, and plant communications. The 90% estimate is
+the median of the general overhead range suggested in the 2008 PEP Yearbook produced by SRI
+Consulting [80].
+
+                                      64

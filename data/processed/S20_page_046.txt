@@ -1,0 +1,53 @@
+3.2.2   Operating Costs
+
+    Table 23 and Table 24 list the plant variable and fixed operating costs and supporting assumptions for
+the biocrude upgrading facility. Biocrude cost is the large majority (95%) of the operating cost and
+therefore efforts aimed at reducing its production cost are critical to reducing the final fuel MFSP.
+
+
+                  Table 23. Biocrude upgrading plant variable operating costs.
+
+                                                                                                Total Cost
+                                                                                                (2014), million
+                   Variable                    Value               Source                USD/year
+ Biocrude cost, $/gge (2014$)                        2.42(a)    This analysis                           99.9
+ Hydrotreating catalyst, $/lb (2014$)              16.6    IHS 2014c                             0.40
+      (2 year life)
+ Hydrocracking catalyst, $/lb (2014$)             16.6    IHS 2014c                             0.03
+      (5 year life)
+ Hydrogen plant catalyst, $/1000scf H2           0.0205   IHS 2014b                             0.06
+ (2014$) (5 year life)
+ Natural gas, $/1000scf (2014$)                   5.62    EIA 2014a                             2.79
+ Cooling tower chemical, $/lb (2007$)             1.36    Humbird et al. 2011                     0.01
+ Boiler chemical, $/lb (2007$)                    2.27    Humbird et al. 2011                     0.01
+  Electricity, ¢/kWh (2014$)                      7.09    EIA 2014b                             0.92
+ Water makeup, $/ton (2001$)                    0.20    Humbird et al. 2011                     0.05
+ Wastewater fee, $/ton (2001$)                   0.48     Peters et al. 2004                       0.07
+ Total                                                                                      104.2
+  (a)  Includes 10 cents/gge cost for biocrude transportation to the refinery (Sheppard 2011).
+
+
+                   Table 24. Biocrude upgrading plant fixed operating costs.
+
+                                                                               Total Cost (2014),
+                        Position Title                 Number              million USD/year
+             Conversion Plant (unburdened)
+                 Plant Manager                         1                       0.15
+                 Plant Engineer                         1                       0.07
+               Maintenance Super                      1                       0.06
+              Lab Manager                          1                       0.06
+                   Shift Supervisor                        3                       0.14
+              Lab Technician                         3                       0.12
+               Maintenance Tech                      6                       0.24
+                   Shift Operators                        25                      1.20
+              Yard Employees                        4                       0.11
+                 Clerks & Secretaries                     1                       0.04
+             Subtotal                                                            2.19
+            Overhead & maintenance       90% of labor & supervision           1.97
+             Maintenance capital               3% of TIC                  4.05
+              Insurance and taxes                  0.7% of FCI                 0.99
+             Total Other Fixed Costs                                             9.18
+
+
+
+                                         31

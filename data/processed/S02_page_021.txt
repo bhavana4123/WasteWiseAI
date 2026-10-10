@@ -1,0 +1,64 @@
+                     Table 3-6. Ultimate Analysis Data for Selected Solid Fuels and
+                          Biomass Materials (Dry Basis, Weight Percent)
+
+                                                                               Higher Heating Value
+Material                C      H      N      S     0     Ash     (kJ/g)     (Btu/lb)   Reference
+Pittsburgh seam coal            75.5       5.0         1 .2        3.1       4.9      10.3    31 .67       1 3,650            (1 )
+West Kentucky No. 1 1 coal       74.4        5.1          1 .5       3.8       7.9       7.3    31 .23     13,460          (2)
+Utah coal                       77.9       6.0         1 .5       0.6       9.9        4.1    32.87     14,170          (1)
+Wyoming Elkol coal              71.5       5.3          1 .2       0.9      16.9       4.2    29.49       1 2,710          (2)
+Lignite                          64.0       4.2       0.9        1.3      19.2      10.4    24.85       1 0,712          (2)
+Charcoal                        80.3        3.1       0.2       0.0        1 1 .3       3.4    31 .02       1 3,370           (1 )
+Douglas fir                      52.3        6.3        0.1       0.0     40.5       0.8    21 .0       9,050          (1)
+Doublas fir bark                 56.2       5.9       0.0       0.0     36.7          1 .2    22.0       9,500           (1 )
+Pine bark                       52.3       5.8       0.2       0.0     38.8       2.9    20.4       8,780            (1 )
+Western hemlock               50.4       5.8        0.1         0.1      41 .4       2.2    20.0       8,620           (1 )
+Redwood                       53.5       5.9        0.1       0.0     40.3       0.2    21 .0       9,040            (1 )
+Beech                          51 .6       6.3       0.0       0.0     41 .5       0.6    20.3       8,760           (1 )
+Hickory                        49.7       6.5       0.0       0.0      43.1       0.7    20.1       8,670           (1 )
+Maple                          50.6       6.0       0.3       0.0     41 .7          1 .4    19.9       8,580           (1 )
+Poplar                          51 .6       6.3       0.0       0.0     41 .5       0.6    20.7       8,920            (1 )
+Rice hulls                      38.5       5.7       0.5       0.0     39.8      15.5    15.3        6,61 0           (1 )
+Rice straw                      39.2        5.1       0.6        0.1      35.8        1 9.2    15.8       6,540            (1 )
+Sawdust pellets                 47.2       6.5       0.0       0.0     45.4         1 .0    20.45      8,814          (3)
+Paper                         43.4       5.8       0.3       0.2     44.3       6.0    17.57      7,572          (4)
+Redwood wastewood            53.4       6.0        0.1        0.1      39.9       0.6    21 .26      9,163          (5)
+Alabama oak woodwaste         49.5       5.7       0.2       0.0      41 .3       3.3    19.18      8,266         (5)
+Animal waste                   42.7       5.5       2.4       0.3      31 .3        1 7.8      1 7.1       7,380           (1 )
+Municipal solid waste            47.6       6.0          1 .2       0.3     32.9        1 2.0      1 9.83      8,546          (6)
+(1) Tillman, D. A. 1978. Wood as an Energy Resource. New York: Academic Press.
+(2) Bituminous Coal Research, Inc. 1974. Gas Generator Research and Development, Phase fl. Process and Equipment Development. OCR-20-F;
+   PB·235530/3GI.
+(3) Wen, C. Y., Bailie, R. C., Lin, C. Y., and O'Brien, W. S. 1974. "Production of Low Btu Gas Involving Coal Pyrolysis and Gasification." Advances in
+   Chemistry Series. Vol. 131. Washington, D.C.: American Chemical Society.
+(4) Bowerman, F. R. 1969. Introductory Chapter to Principles and Practices of Incineration. Corey, R. C., editor. New York: John Wiley and Sons.
+(5) Boley, C. C. and Landers, W. S. 1969. Entrainment Drying and Carbonization of Wood Waste. Washington, D.C.: U.S. Bureau of Mines; Report
+    of Investigations 7282.
+(6) Sanner, W. S., Ortuglio, C., Walters, J. G., and Wolfson, D. E. 1970. Conversion of Municipal and Industrial Refuse into Useful Materials by
+    Pyrolysis. U.S. Bureau of Mines; Aug; RI 7428.
+Source: Reed 1981
+
+
+determine the thickness of the gasification zone, the     3.3.2 Charcoal and Char Properties
+pressure drop through the bed, and the minimum and
+                                                Carbon is the name applied to a chemical element thatmaximum hearth load for satisfactory operation. A
+                                                       occurs in dozens of physical forms, both pure (such asuniform particle size helps overcome some problems.
+                                              diamond and graphite) and impure (such as coke, char­Improving the grate design, as well as added agitation
+                                                                 coal, and soot). Charcoal refers to the 10% to 30% solidor stirring, can go a long way to give trouble-free gasifier
+                                                    carbon product from biomass pyrolysis. Its composi­operation and to broaden the range of fuel shapes
+                                                          tion can vary from 50% carbon to more than 80% car­suitable for gasification.
+                                                       bon, depending on the temperature and conditions of
+                                                          pyrolysis (see Table 3-7). Also, since it contains most
+At the same time, it is important to realize that exces­                                                        of the original ash from the biomass, charcoal typical­
+sive agitation results in excess carbon carryover, which                                                          ly contains from 2% to 10% mineral matter (Emrich
+in turn reduces the efficiency of the gasifier. In addi­                                                           1985).
+tion, carbon carryover reduces the oxygen/fuel ratio,
+since the carbon requires more oxygen than the     Charcoal manufacture dates to prehistoric times and is
+biomass for gasification. This in turn reduces the     a well-established industry today with standards for its
+oxygen available for flaming pyrolysis and increases     various uses. Charcoal is simpler to gasify, and it is
+the rate of tar formation.                                   easier to clean up the gas for engine use than biomass
+
+
+
+
+                                                                                                   Gasifier Fuels                                                                                                13

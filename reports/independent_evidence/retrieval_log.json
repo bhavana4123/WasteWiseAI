@@ -1,0 +1,54 @@
+[
+  {
+    "source_id": "S01",
+    "url": "https://www.nlr.gov/docs/legosti/old/2839.pdf",
+    "access_time_utc": "2026-10-08T12:29:51.043878+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://docs.nlr.gov/docs/legosti/old/2839.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\S01_fresh.pdf",
+    "sha256": "60255fa30ac8ec2f885ff59496a224eb7a34f2ebe177df2625c65df5c2fb50a0",
+    "identical_to_archived_bytes": true
+  },
+  {
+    "source_id": "S02",
+    "url": "https://www.nlr.gov/docs/legosti/old/3022.pdf",
+    "access_time_utc": "2026-10-08T12:30:11.058727+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://docs.nlr.gov/docs/legosti/old/3022.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\S02_fresh.pdf",
+    "sha256": "1b7ade7b865b1fccaab471a3e985c9bdb96a5a4690fe14783473a44d5f21db46",
+    "identical_to_archived_bytes": true
+  },
+  {
+    "source_id": "S03",
+    "url": "https://www.epa.gov/system/files/documents/2024-08/ebmud-final-report-anaerobic-digestion-of-food-waste-2008-03.pdf",
+    "access_time_utc": "2026-10-08T12:30:20.141853+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://www.epa.gov/system/files/documents/2024-08/ebmud-final-report-anaerobic-digestion-of-food-waste-2008-03.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\S03_fresh.pdf",
+    "sha256": "b44ddc9b6a34f592a04156118484cc35dc37acd24ef500aac9e9eefaed8f649d",
+    "identical_to_archived_bytes": true
+  },
+  {
+    "source_id": "S07",
+    "url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+    "access_time_utc": "2026-10-08T12:30:22.208613+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\S07_fresh.pdf",
+    "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+    "identical_to_archived_bytes": true
+  }
+]

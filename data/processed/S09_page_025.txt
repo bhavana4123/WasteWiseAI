@@ -1,0 +1,48 @@
+            O                          O
+                                              ||                                                                                              ||
+           CH2-O-C-R                            CH2-O-C-R
+                              |                                                                                                 |
+                              |   O                O                   |
+                              |              ||                                                           ||                   |
+  OH- +   CH-O-C-R     →      HO-C-R  + CH-O-            (Eq. 4)
+                              |                                                                                                 |
+                              |    O                                                                              |    O
+                              |                ||                                                                              |              ||
+           CH2-O-C-R                            CH2-O-C-R
+
+Hydroxide   Triglyceride              Free fatty acid         Triglyceride anion
+
+The free fatty acid can react with the Na+ to form soap. Some water in the system can be
+tolerated, because R-O- is a stronger base than OH- so the transesterification reaction occurs at a
+higher rate than the “saponification” of glycerol leading to free fatty acids. The equilibrium of
+the following reaction (formation of free fatty acids from the ester) is far on the left side of the
+reaction equation:
+
+             O             O
+                                              ||            ||
+     OH- +  R-O-C-R →  R-O- + HO-C-R                             (Eq. 5)
+
+                  alkyl ester             free fatty acid
+
+As a result of the slow reaction rate, only very minor amounts of free fatty acids are formed
+during transesterification if the reaction is free of water at the beginning. Another aspect of the
+weaker basicity of OH- vs. R-O- is that the ester moieties in the triglyceride molecules will react
+less with OH- than R-O-. However, when too much catalyst (or water) is present, Eq. 5 becomes
+more prevalent and causes enhanced formation of mono- and diglyceride molecules instead of
+reactions with all positions in the glycerol backbone. Thus, the effect of too much catalyst or too
+much water leads to the same result, namely, enhanced formation of undesirable mono- and
+diglycerides as well as free fatty acids. Too much catalyst can lead to soap formation when
+conditions encourage free fatty acid production.
+
+Because of the possibility of the reactions described above leading to free fatty acids and mono-
+and diglycerides, direct use of sodium or potassium alkylate (R-ONa or R-OK; the alkylate
+moiety must correspond to the R- moiety in the alcohol) as catalysts is becoming of greater
+interest. The reaction of alcohol and XOH given above (Eq. 1) cannot occur in this case
+(assuming, of course, that the reaction system is free of water). Instead, the transesterification
+according to Eq. 2 can occur directly.
+
+
+
+
+
+                                      21

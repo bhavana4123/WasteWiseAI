@@ -1,0 +1,35 @@
+       Figure 3-5. Effect of Ambient Temperature on Capacity and Efficiency
+
+
+
+
+
+Source: Solar Turbines, Taurus 7052
+
+Figure 3-5 also shows how inlet air cooling can help to moderate the loss of power and efficiency at
+higher ambient temperatures. The figure shows that cooling the air entering the turbine by 40 to 50°F
+on a hot day can increase power output by 15 to 20 percent. The decreased power and efficiency
+resulting from high ambient air temperatures can be mitigated by any of several approaches to inlet-air
+cooling, including refrigeration, evaporative cooling, and thermal-energy storage using off-peak cooling.
+
+With refrigeration cooling, either a compression driven or thermally activated (absorption chiller)
+refrigeration cycle cools the inlet air through a heat exchanger. The heat exchanger in the inlet air
+stream causes an additional pressure drop in the air entering the compressor, thereby slightly lowering
+cycle power and efficiency. However, as the inlet air is now substantially cooler than the ambient air
+there is a significant net gain in power and efficiency. Electric motor compression refrigeration requires
+a substantial parasitic power loss. Thermally activated absorption cooling can utilize waste heat from the
+gas turbine, reducing the direct parasitic loss. However, the complexity and cost of this approach pose
+potential drawbacks in many applications.
+
+Evaporative cooling, which is widely used due to its low capital cost, uses a spray of water directly into
+the inlet air stream. Evaporation of the water reduces the temperature of the air. Since cooling is limited
+to the wet bulb air temperature, evaporative cooling is most effective when the wet bulb temperature is
+appreciably below the dry bulb (ordinary) temperature. Evaporative cooling can consume large
+
+
+
+52 “Taurus 70 Gas Turbine Generator Set”, Solar Turbines A Caterpillar Company.
+https://mysolar.cat.com/cda/files/1987672/7/ds70gs.pdf
+
+
+Catalog of CHP Technologies                         3–11                         Combustion Tubines

@@ -1,0 +1,37 @@
+                                                           stances and should be treated with due caution, Col­
+                                    ..      1.0 r--r-"---,TT-r----,-TO                                                          lected tars that cannot be recycled to the gasifier or                                             -""'O"'˼:-m;rn"""CllJ'''''l''O".,il!B   9-....                                                                                  0.........                                                                       -  ...                                    /               ԰     burned on site may need to be treated as hazardous    0.8                         o˻'8                                                                                 t:. §/0,  Bed depth 6 "                                       .....      wastes. They should not be dumped on the ground or   >.                         8ż/'§ 8  Ź      Particle density .83 glee m§      released into waterways. Prevention through low-tar  g     0.6                   I                     /                                  0 2S fps   6 8 fps            gasifier designs is the best cure for tar (see Chapters 4  ;gw  f------+----f/I           II '-  0D 20fpsl0 fps   0 6 fps        and 5).  ID OA         - Experimental                    ,/                       ///                                  --- Theoretical             8.8.3 Condensate        /30                      fps  ./                           5 fps    0.2     . //
+                     ....,;...,    -; /                            The liquid condensate from producer gas may contain  O;L-Ϳ΀΁_-L΂-L΃-L΄΅LLΆ-L·       substantial amounts of tars and phenols. Phenols are       0.3      0.6                             2                                3        6      10      20     well-known germicides and will kill soil bacteria if                          Diameter                                       (microns)
+                                                      spread on the ground. If released into waterways, the
+ Fig. 8-24. Entrainment separator collection efficiency ofpacked bedfor    condensate could damage lifeforms supported by those
+ droplet removal  (Source: Perry 1973, Fig. 18-142)                 waterways.
+                                                For condensate water, as with tars, prevention is the
+8.8 Disposal of Captured                        best cure. Methods of minimizing condensate forma­
+                                                         tion should be considered fully early in the design andContaminants
+                                                           selection of the system (see Chapter 5). Gas moisture
+8.8.1 Char·Ash                                     content may be minimized by using dry fuel (the drier,
+                                                       the better) and by recycling heat back into the gasifier
+The char-ash removed from producer gas is free of                                                    through an air-blast preheater. Condensation from the
+dangerous materials and can be burned or safely     gas may be minimized by limiting the amount of gas
+disposed of in a landfill. When burned to white ash,     cooling so as to use the gas above its water dew point
+char-ash contains valuable minerals that may be      (40'-60·C). The loss in engine power or the costs of
+beneficially returned to the soil. Charcoal is a valuable,     larger engines may be more than offset by the savings
+clean-burning fuel, worth several times the value of     in the cost of condensate disposal.
+wood. Alternate uses and possible markets definitely
+should be examined.
+Larger char material may be saleable for further                                      Air filter--;!r'"charcoal gasification, combustion, or briquetting.                             Engine
+In addition to valuable soil minerals, charcoal has been
+successfully used as a soil conditioner in Japan, result­
+ing    in      improved                crop                       yields                           (Kishimoto                                         1985).                                                            It also        Exhaust                                                                                        ':                                            ͽ.-- . -"---'                                                                 pipe                                                                                                                                                                                     .has   been        used as a                  livestock                          feed                            supplement                                             to reduce                                              Žži._.!i'('C3:.               _                                                  VI                                                                                                                                                                                                                       I --. __'        _digestive problems and meat hormone levels (Taylor        Note: The1986). Charcoal has long been considered a premium                                                                                                                     .
+cooking fuel in many developing countries.                                                              pipe runs                                     I    ŋ                                                                                                                                                                                                     ,        ź 'Ż                                                                                                                 Starting                                                             alongside the      II                  .8.8.2 Tar                                                 exhaust pi pe                               fan
+                                                                                                                                                                                                                          ,A gasifier that produces more than 0.5 g/Nm3 oftar can­              Secondary[J:s;Jnot be suitably cleaned for engine applications due to                    air valve
+the large amounts of tar that must be captured and dis­               Gas valveposed of. For a worst-case tar production scenario of                                                                                I'\.ǘ::Ǚ-=-,::.::=ǚ=:::==r'l                                                                                                            '-2 g/Nm3 (0.2%), up to 2 g oftarper hp-hmay arise with                                           FromI
+each horsepower. Thus, a 100-hp engine would                                                                                                                          gasifier
+produce up to 4,8 kg oftar in 24 hours, or about 5 L. At
+room temperature, tar is a viscous, slow-flowing,        Fig. 8-25. Heating ofsecondary air by exhaustgas heat from the engine
+molasses-like fluid. It may contain carcinogenic sub-      (Source: Gengas 1950, Fig. 85)
+
+
+
+
+
+92    Handbook of Biomass Downdraft Gasifier Engine Systems

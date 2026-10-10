@@ -1,0 +1,34 @@
+Including these hemicellulase “accessory” enzymes in our technoeconomic analysis is
+complicated because little to no cost information exists for these highly specialized, pre-
+commercial enzymes. However, preliminary analysis has shown that if the xylan and xylose
+oligomer hydrolysis is carried out simultaneously with the cellulose enzymatic hydrolysis,
+accessory enzymes are probably the more economic option, assuming they can be obtained at a
+cost per kg of protein similar to that currently assumed for cellulase [41].
+
+Replacing overliming with ammonia conditioning has eliminated significant sugar losses and
+gypsum disposal cost. Because ammonia can be mixed with the dilution water and applied as an
+aqueous solution, the whole hydrolysate slurry may be treated at once without a solid-liquid
+separation step. However, from Table 7, one may note that elimination of hydrolysate solid-
+liquid separation is not assumed until 2012. This is due not to problems with the conditioning
+procedure but to conversion limitations in whole-slurry enzymatic hydrolysis caused by end-
+product inhibition, particularly with respect to the xylanase activities discussed above.
+Nevertheless, in the present design, which is intended to reflect 2012 technology, a whole-slurry
+process through conditioning and enzymatic hydrolysis is assumed.
+
+Further research topics in the pretreatment area include biomass deacetylation through acid pre-
+impregnation, use of co-catalysts (e.g., iron salts), and disc-refining of the pretreated slurry.
+These are designed to reduce sulfuric acid usage in pretreatment and achieve high xylose yields
+under less severe pretreatment conditions while maintaining high enzymatic digestibility of
+cellulose in the pretreated solids, with economic benefits as discussed above. In addition,
+deacetylation and disc-refining may significantly enhance downstream enzymatic hydrolysis and
+potentially decrease enzyme loading requirements. Acid pre-impregnation is not explicitly
+modeled in our design, but it is envisioned that it could take place in the vertical presteamer,
+though the cost of the reactor system would have to be increased to include Incoloy cladding on
+the presteamer as well as all screw feeders and conveyors between the presteamer and the
+pretreatment reactor. This design effort is ongoing.
+
+
+
+
+
+                                      25

@@ -1,0 +1,48 @@
+4.5.1.2   Flue Gas Recirculation (FGR)
+FGR is the most effective technique for reducing NOx emissions from industrial boilers with inputs below
+100 MMBtu/hr. With FGR, a portion of the relatively cool boiler exhaust gases re-enter the combustion
+process, reducing the flame temperature and associated thermal NOx formation. It is the most popular
+and effective NOx reduction method for firetube and watertube boilers, and many applications can rely
+solely on FGR to meet environmental standards.
+
+External FGR employs a fan to recirculate the flue gases into the flame, with external piping carrying the
+gases from the stack to the burner. A valve responding to boiler input controls the recirculation rate.
+Induced FGR relies on the combustion air fan for flue gas recirculation. A portion of the gases travel via
+ductwork or internally to the air fan, where they are premixed with combustion air and introduced into
+the flame through the burner. Induced FGR in newer designs utilize an integral design that is relatively
+uncomplicated and reliable.
+
+The physical limit to NOx reduction via FGR is 80 percent in natural gas-fired boilers and 25 percent for
+standard fuel oils.
+
+4.5.1.3  Low Excess Air Firing (LAE)
+Boilers are fired with excess air to ensure complete combustion. However, excess air levels greater than
+45 percent can result in increased NOx formation, because the excess nitrogen and oxygen in the
+combustion air entering the flame combine to form thermal NOx. Firing with low excess air means
+limiting the amount of excess air that enters the combustion process, thus limiting the amount of extra
+nitrogen and oxygen entering the flame. This is accomplished through burner design modification and is
+optimized through the use of oxygen trim controls.
+
+LAE typically results in overall NOx reductions of 5 to 10 percent when firing with natural gas, and is
+suitable for most boilers.
+
+4.5.1.4  Low Nitrogen Fuel Oil
+NOx formed by fuel-bound nitrogen can account for 20 to 50 percent of total NOx levels in oil-fired boiler
+emissions. The use of low nitrogen fuels in boilers firing distillate oils is one method of reducing NOx
+emissions. Such fuels can contain up to 20 times less fuel-bound nitrogen than standard No. 2 oil.
+
+NOx reductions of up to 70 percent over NOx emissions from standard No. 2 oils have been achieved in
+firetube boilers utilizing flue gas recirculation.
+
+4.5.1.5   Burner Modifications
+By modifying the design of standard burners to create a larger flame, lower flame temperatures and
+lower thermal NOx formation can be achieved, resulting in lower overall NOx emissions. While most
+boiler types and sizes can accommodate burner modifications, it is most effective for boilers firing
+natural gas and distillate fuel oils, with little effectiveness in heavy oil-fired boilers. Also, burner
+modifications must be complemented with other NOx reduction methods, such as flue gas recirculation,
+to comply with the more stringent environmental regulations. Achieving low NOx levels (30 ppm)
+through burner modification alone can adversely impact boiler operating parameters such as turndown,
+capacity, CO levels, and efficiency.
+
+
+Catalog of CHP Technologies                         4–17                           Steam Turbines

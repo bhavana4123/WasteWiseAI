@@ -1,0 +1,51 @@
+Polymers and Plastics
+
+
+BUTADIEm-STYREM COPOLYMER, GL-422;solid; composition: carbon, 90.100%;
+    hydrogen, 9.170%; sulfur, 0.081%; oxygen, 0.14%; ash, 0.1 11%;  styrene, 42.98%;
+    phenyl-6-naphthylamine,  0.1%; polymerized at 50°C (I 22°F).
+
+    specific heat:
+
+   temperature
+    (K)  (OF)        Cp(Btu lb-I  OF-')        Cp(cal g-1 K-l)     Cp(J g-1 K -1
+
+      5  -450               0.0008 I                0.0008 1             0.0034
+     50  -370                0.076                   0.076                 0.3 18
+    100  -280                0.136                  0.136               0.569
+    150  -190               0.190                 0.I90              0.794
+    200  -100                0.244                  0.244                1.022
+    220  -64                0.268                   0.268                1.122
+    255   - 1               0.405                   0.405                1.694
+
+   for temperature range: 255-330 K (0"-135"F)
+
+   Cp(Btu lb-I  OF-')     = 0.506 + 2.77 x    T + 3.688 x 10-7 T2
+                                                 x lod5 T + 1.195 x 10-6 T2   Cp(cal q1K-')        0.316 + 4.37
+   Cp(J g-  K-')       = 1.322 + 1.83 x    T + 5.000  x 10-6 T2
+
+                                                        55FUR/McC
+
+BUTADIENE-STYRENE COPOLYMER, X-454; solid; composition: carbon, 88.869%;
+   hydrogen, 10.872%;  sulfur, 0.056%; oxygen, 0.235%;  ash, 0.18%;  styrene, 8.58%;
+   phenyl-6-naphthylamine,  0. I %; polymerized at 5°C (36°F).
+
+   specific heat:
+
+
+                     Cp(Btu Ib'l    OF-')        Cp(cal g-1 K -1 )     Cp(J g-l K-l)    tern(€8erature("F)
+     50  -370                0.084                  0.084                 0.35 1
+    100  -280                0. I53                  0.153               0.464
+    150  -190                0.220                    0.220               0.92
+    200  -100                0.373                   0.373                 1.56
+    250   - 10                0.423                   0.423                 1.77
+    300    80                0.464                   0.464                 1.94
+    330   134                0.485                   0.485                2.03
+
+                                                        53bFUR/McC
+
+
+
+
+
+                                        168

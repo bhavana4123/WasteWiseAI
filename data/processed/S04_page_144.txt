@@ -1,0 +1,50 @@
+Some key takeaways from Table 7-2 are:
+
+    •   Electric efficiencies and total CHP efficiencies tend to increase with system size.
+    •  As systems get larger, the power-to-heat ratio tends to increase (i.e., more electricity is
+        delivered relative to recovered heat).
+    •  Performance varies within a given size range due to different prime mover and heat recovery
+        technologies, and different system designs.
+    •  Recovered heat from packaged systems is typically in the form of hot water.
+
+More details on the characteristics of efficiency, thermal output, and other technical information for
+reciprocating engines and microturbine technologies are provided in their respective Catalog sections.
+
+7.6.1 Part-Load Operation
+In most packaged systems, reciprocating engines or microturbines drive generators at a constant speed
+to produce steady alternating current (AC) power. As load is reduced, generator speed decreases, the
+heat rate of the prime mover increases, and electrical efficiency decreases. Electrical efficiency at half
+load is typically 10 to 25 percent less than full-load efficiency, with efficiencies falling more steeply for
+loads lower than half of the unit’s rated capacity.
+
+Systems comprising multiple units can reduce part-load efficiency penalties, which is especially
+important for commercial applications. Electric loads for commercial buildings tend to vary more than
+they do in manufacturing facilities. Because individual units can be put in standby mode when the
+building load drops, the other units can continue to operate at or near peak efficiency. In the same
+circumstances, a single-unit system might need to operate at reduced electrical efficiency.
+
+More information on part-load performance for reciprocating engines and microturbines can be found
+in their respective sections of the Catalog.
+
+7.6.2  Installed Costs
+Installed costs include equipment and installation costs. Equipment costs vary depending on factors
+such as:
+
+    •   Emissions controls (included as standard equipment or as options)
+    •  Sound attenuation performance level
+    •   Generator type (induction/synchronous/inverter)
+    •   Black start/islanding capability
+    •   Specialized heat recovery equipment (e.g. absorption chiller)
+
+Table 7-3 presents typical equipment costs for packaged systems. These costs represent cost data
+provided by EPA CHP Partner companies that manufacture packaged systems and reflect difference in
+features provided as standard equipment.
+
+Installation costs are not presented. Packaged system vendors report large variations in installation
+costs, based on such factors as:
+
+
+
+
+
+Catalog of CHP Technologies                         7–13                       Packaged CHP Systems

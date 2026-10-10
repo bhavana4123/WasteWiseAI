@@ -1,0 +1,59 @@
+TA 6M: Waste Heat Recovery
+
+
+                                                                            Figure 6.M.4 shows       Figure 6.M.4 Waste Heat Losses and Work Potential from Selected Process Exhaust Gases (2002)4
+                                                                      steam boilers divided into
+                                                                            conventional fuels (CF) and
+                                                                        byproduct fuels (BF). While
+                                                                      steam boilers have high total
+                                                                          waste heat losses, attributable to
+                                                                              the large number of industrial
+                                                                                     boilers (approximately 43,000
+                                                                                           total units) rather than boiler
+                                                                                          inefficiency. Typical boiler
+                                                                                          efficiencies (80-85%) are
+                                                                            higher than other fired units
+                                                                       such as glass furnaces. Heat
+                                                                                      losses from boilers are in the
+                                                                     low temperature range, as
+                                                                         evidenced by the low heat
+                                                                            content from a 300°F [150°C]
+                                                                                    reference. Values do not reflect
+                                                                                           total waste heat losses by
+                                                                                   industry, but rather the waste
+   heat losses from selected processes. Iron/Steel includes coke ovens, blast furnaces, basic oxygen furnaces, and
+   electric arc furnaces. Aluminum includes primary refining cells and secondary melting furnaces. Metal casting
+   melting includes aluminum reverberatory furnaces, stack melters, and iron cupolas in metal casting facilities.
+  Aluminum includes primary and secondary refining furnaces.
+
+   This taxonomy provides a useful framework for future estimates; however, a greater understanding of
+  R&D opportunities is revealed if the temperature ranges are expanded. In this Technology Assessment, the
+  temperature ranges have been expanded on both sides (high and low) of the spectrum. This expansion suggests
+   additional R&D is needed in the temperature ranges below 250°F (ultra-low temperature) and higher than
+   1,600°F (ultra-high temperature), where cost-effective WHR methods or equipment are currently limited.
+  Hence, this technology assessment targets the following five temperature ranges:
+
+              Ultra-low temperature: below 250°F. An example of the lower temperature for this range is the
+          temperature of a cooling medium such as cooling tower water or other water used for cooling systems.
+         Recovery of the waste heat is affected by factors such as the condensation temperature of combustion
+          products or flue gases (usually below 180°F for natural gas combustion products); the applicability
+           of low-temperature, non-oxidizing materials such as aluminum or non-metallic materials such as
+         polymers or plastics; or the usage of low-temperature WHR systems such as heat pumps.
+
+           Low temperature: 250°F – 450°F, as defined in the study.
+
+           Medium temperature: 450°F – 1,200°F, as defined in the study.
+
+            High temperature: 1,200°F – 1,600°F, a new range for high temperature is proposed in this TA. Based
+        on input from industry experts and WHR equipment suppliers, it is suggested that the study definition
+           of the “high” temperature range (historically all temperatures >1,200°F) be divided in two temperature
+          ranges – high temperature (1,200°F – 1,600°F) and ultra-high temperature (>1,600°F), which are based
+        on distinctions of equipment and materials for use in these ranges.
+
+              Ultra-high temperature: >1,600°F. A new temperature range is proposed in this TA for WHR from
+          streams above 1,600°F, which require use of special high-temperature materials that can be metallic or
+          nonmetallic, such as ceramics. Selection of material and equipment design becomes critical in many
+           cases, as such streams contain a large amount of contaminants.
+
+
+  7  Quadrennial Technology Review 2015

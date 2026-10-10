@@ -1,0 +1,52 @@
+The 2012 technical targets were met during bench-scale testing in mid-2012. Deacetylated corn
+stover was pretreated in NREL’s 200 kg/d pilot-scale pretreatment reactor and then
+enzymatically hydrolyzed at bench scale with a commercial enzyme package. The resulting
+sugars were fermented to ethanol (again at bench scale) using an organism developed under a
+DOE cost-shared research solicitation. The feedstock was deacetylated by soaking corn stover in
+a dilute sodium hydroxide (NaOH) solution (0.4% w/v) at 80°C for 2 h. This procedure removes
+a large fraction of the acetyl groups from the hemicellulose backbone prior to pretreatment. This
+process lowers acetic acid concentrations in the pretreated liquor, which improves carbohydrate
+polymer-to-sugar yields and sugar-to-ethanol yields because acetic acid inhibits both processes.
+Integrated bench-scale, whole-slurry testing produced a cellulose-to-ethanol yield of 87% and a
+xylose-to-ethanol yield of 94% at 20% total solids (TS). These yields exceeded the cellulose-to-
+ethanol target of 86% and xylose-to-ethanol target of 85% (Table 1), and represent a dramatic
+improvement over performance results demonstrated at the end of FY 2011, which did not
+employ deacetylated stover (77% cellulose-to-ethanol and 80% xylose-to-ethanol yields,
+respectively). However, the one remaining caveat (other than bench- versus pilot-scale
+operation) was that the cellulose enzymatic hydrolysis was performed at a high enzyme loading
+(40 mg protein/g cellulose) during this work. This was done to ensure that enough sugars were
+generated to test the hypothesis that higher fermentation yields and ethanol titers could be
+achieved by removing acetic acid inhibition. In the subsequent pilot-scale runs it was recognized
+that enzymatic hydrolysis would need to be done at a lower enzyme loading (closer to 20 mg/g)
+to meet the ultimate 2012 cost target. Nevertheless, this work clearly established the process to
+use for pilot-scale testing, illustrated in Figure 1.
+
+
+
+
+           Corn Stover   NaOH
+
+Water          De-acetylation          Spent Caustic Liquor                                                     Cells
+
+              Acid Impregnation        H2SO4                         Water                  Inoculum Production         Nutrients
+
+
+                 Solid Separation            Pretreatment            Enzymatic Hydrolysis           C5/C6 Fermentation         Nutrients
+
+
+                 Acid Liquor                 Steam           NH4OH     Enzyme                    Distillation
+
+                                                                                                          Ethanol
+
+   Figure 1. Corn stover-to-ethanol process flow diagram used for integrated pilot-scale testing
+
+
+The remainder of this report presents results for several integrated pilot plant demonstration runs
+performed in the latter half of FY 2012 to produce yield data needed to estimate the MESP using
+the previously described techno-economic model and ultimately successfully demonstrating the
+$2.15/gal cost target shown in Figure 1. In parallel with the pilot-scale demonstration runs,
+samples of pre- and post-inoculated enzymatic hydrolysate were taken and fermented in a 500-
+mL fermentor. The pre-inoculated sample was inoculated with a separate lab-grown inoculum.
+
+
+                                       3

@@ -1,0 +1,18 @@
+          Table A-1 Averages and Standard Deviations of Parameters-Continued
+
+ Item         Parameter             Units      # of samples             Thermo   Meso
+  25   Hydrogen Sulfide (15 d)         ppm           2        average        525      535
+                                                                                   std. dev.        106      417
+                                                                            coeff. var.       0.20      0.78
+       Hydrogen Sulfide (10 d)         ppm            0/1       average        N/S    1,400
+                                                                                   std. dev.              N/A
+                                                                            coeff. var.             N/A
+       Hydrogen Sulfide (5 d)          ppm                                 N/S      N/S
+ Notes: 1. N/S- Not Sampled.  2. N/A- Not Applicable.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                          A- 7
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,66 @@
+TA 6M: Waste Heat Recovery
+
+
+
+
+             Heat recovery from very high temperature gases (2,200°F) that contain condensable vapors and produce
+           solid particles that need to be removed. Possible methods include fluidized bed or solid particle-gas heat
+           transfer with a proper material handling system.
+
+             Quenching methods for hot gases to control generation of condensates, and subsequent use of these
+          clean gases in conventional boilers or air heaters.
+
+               Electricity generation through direct contact or radiation from moderate temperature
+          (300°F – 900°F) surfaces with economically justifiable paybacks. Possible methods are thermoelectric
+        and thermophotovoltaic devices under development.
+
+             Use of advanced heat exchangers for evaporators and condensers that use direct gas-air heating for the
+          evaporators, and air for condensers. This would eliminate secondary heat exchanger loops that utilize
+          hot water or steam for the evaporators, as well as the need for cooling towers for the condenser. This
+           simplified approach would reduce costs as well as eliminate inefficiencies introduced with the use of
+         secondary heat exchanger circuits.
+
+             Secondary heat recovery systems for flue gases discharged from regenerators. These gases are at
+          temperatures in the range of 800°F – 1,200°F. The gas temperature is cyclic and, in some cases, the gases
+          contain very small amount of particulates, which are easy to remove.
+
+              Glass batch drying and preheating systems using exhaust gases from the melting furnace or refining
+          forehearth section exhaust gases. Previously developed systems have not been used by the industry due
+          to a variety of issues related to operations and maintenance. A new approach or design is required.
+
+            Hot gas cleanup systems for use by medium- to low-temperature gases prior to secondary heat recovery.
+
+             Use of CHP systems for generating hot gases for use in annealing ovens. The system will deliver
+            electricity as well as hot air with low oxygen for use as combustion air.
+
+             Use of heat from annealed products. The heat is available at temperatures below 500°F.
+
+  Considerations for Coating Plants or Paint Shops
+
+ WHR related R&D consideration for the Coating Plants or Paint Shops include:
+
+             Secondary heat recovery from regenerative thermal oxidizer (RTOs) exhaust gases that are available
+         from 350°F – 400°F.
+
+             Control system for ovens to regulate the amount of make-up air used. This will require development of
+          a system that controls the amount of make-up air, and hence the amount of heat wasted from the oven.
+
+  Endnotes
+     1 Oak Ridge National Laboratory (ORNL), Industrial Waste Heat Recovery: Potential Applications, Available Technologies and Crosscutting R&D
+      Opportunities, Arvind Thekdi (E3M Inc.) and Sachin Nimbalkar (ORNL), ORNL/TM-2014/622, January 2014. Available at: http://info.ornl.
+      gov/sites/publications/files/Pub52987.pdf. This report provides a current, comprehensive assessment of WHR technologies, and sections of this
+      report are excerpted in this Technology Assessment.
+     2  Large amounts of particles or condensable vapors can impede the performance of heat recovery technologies.
+     3  Energetics Incorporated and E3M, Incorporated, Energy Use, Loss and Opportunities Analysis: U.S. Manufacturing & Mining, prepared for
+      the U.S. Department of Energy, Industrial Technologies Program, December 2004. Available at: http://energy.gov/sites/prod/files/2013/11/f4/
+      energy_use_loss_opportunities_analysis.pdf
+     4  BCS, Incorporated, Waste Heat Recovery: Technology and Opportunities in U. S. Industry, prepared for the U.S. Department of Energy, Industrial
+      Technologies Program, March 2008. Available at: http://www1.eere.energy.gov/manufacturing/intensiveprocesses/pdfs/waste_heat_recovery.pdf
+     5  Pacific Northwest National Laboratory (PNNL), Opportunity Analysis for Recovering Energy from Industrial Waste Heat and Emissions, prepared
+       for the U.S. Department of Energy, April 2006. Available at: http://www.pnl.gov/main/publications/external/technical_reports/PNNL-15803.pdf
+     6  Lawrence Berkeley National Laboratory (LBNL), Energy Efficiency Improvement and Cost Saving Opportunities for Petroleum Refineries: An
+    ENERGY STAR® Guide for Energy and Plant Managers, prepared for the U.S. Environmental Protection Agency, February 2015. Available at:
+      http://www.energystar.gov/sites/default/files/tools/ENERGY_STAR_Guide_Petroleum_Refineries_20150330.pdf
+
+
+ 33  Quadrennial Technology Review 2015

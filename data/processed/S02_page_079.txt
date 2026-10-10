@@ -1,0 +1,54 @@
+                         Chapter 8
+      Gas Cleaning and Conditioning
+
+
+8.1  Introduction                                  respective capabilities and suitability, and some
+                                                    approaches for overall cleanup systems.
+If the gas is to be used in a burner application, an
+                                             The basic cleanup system design strategy should beupdraft gasifier can be used, and no cleanup will be
+                                                   based on the required cleanliness goals (determined byneeded. However, if the fuel gas will be fed to an                                                        the application], the order of removal, temperature,engine, then a downdraft or other tar cracking gasifier                                               and the intended deposit site for collected materials. Inmust be used; and the gas must be cleaned and
+                                                          addition, size, weight, cost, reliability, the need for ex­conditioned before it is fed to the engine.
+                                                                 otic materials, water consumption, effluents disposal,
+The gas emerging from a downdraft gasifier is usually     the time between cleaning cycles, and the ease of
+hot and laden with dust, containing up to 1 % tars and    equipment servicing must be considered.
+particulates. If these materials are not removed proper­                                             The first step toward producing clean gas is to choose
+ly, they can cause maintenance, repair, and reliability                                                    a gasifier design that minimizes production of tars andproblems much more costly and troublesome than                                                            particulates to be removed, such as a downdraft oroperation of the gasifier itself. In fact, it is likely that     other low-tar gasifier, and to make sure that the gasifiermore gasifier engine systems have failed because of im­                                                                    is operated in a manner that will minimize particulateproper cleanup systems than for any other cause. In
+                                                     production by proper sizing (see Chapter 5). Develop­particular, the gas is very dirty during startup and
+                                             ment of cleaner gasifiers is proceeding in the Unitedshould be burned at the gasifier until the system is fully                                                            States and Europe at a good pace (see Chapter 5).operational. (See Sections 9.3.3, 9.3.4 and 9.4.1 for
+blowers, ejectors, and flares.)                       The next step, which simplifies the handling of cap­
+                                                     tured contaminants, is to remove particulates, tars, andIn 1983, the Minneapolis Moline Engine Company be­                                                    water in the proper order and at the right temperature.came the first contemporary engine manufacturer to                                                                    If the gas is immediately cooled and quenched in oneoffer a 5000-h warranty on its engine-based on a fuel                                                          operation, then char, tars, and water all are removed atgas at the engine containing less than 5 mg/Nm3 of total
+                                                 one location to form a sticky, tarry mess. Ifparticulatescombined tars and particulates (Mahin, June 1983).
+                                                          are removed first at a temperature above the dewpointThis amounts to 99% removal of all dust particles.                                                        of the tars (-300°C), tars are removed next at inter­
+Prior to 1950, manufactured gas was widely distributed    mediate temperatures (above 100°e), and water is
+to homes, and the technology for gas cleanup was used    removed last at 30°-60°C, then each separated con­
+extensively and well understood at that time. The     taminant can be handled much more easily. The rela­
+chemical and energy industries of today routinely use     tion between gas temperature and each operation is
+the methods that will be described in this chapter.       shown in Fig. 8-1.
+In order to design effective gas cleanup systems, one    The final step of effective gas cleanup is to wisely
+must determine the magnitude, size, and nature of the     choose a site for depositing the collected materials.
+contaminants, and then couple that information with     Devices can be classified as either "in-line" or "off­
+knowledge of methods available for their removal. This      line." In-line devices, such as fabric bags and packed­
+chapter presents the principles of gas cleanup, the     fiber filters, cut off the gas flow as they become filled
+available types of separation equipment and their    with the tar or particulate material that they have
+
+
+
+
+         T > 700                °c
+
+
+
+
+                                                                                      Water
+                                                                                              separator           Reheater                                                                                                                                                                        It---ǫR.io;,;;;-l
+               Grate
+                                                                 Tars                    Water                Engine exhaust             large particles
+                                                                                                                        heat
+
+
+
+F;g. 8-1. Schematic relationship of gas temperature to contaminant removal
+
+
+
+                                                          Gas Cleaning and Conditioning    71

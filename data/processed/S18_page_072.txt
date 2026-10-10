@@ -1,0 +1,48 @@
+   Table 28. Project Cost Worksheet Including Total Direct Costs and Total Capital Investment
+Process Area                                     Purchased Cost    Installed Cost
+  Area 100: Feedstock handlinga                       $    14,200,000   $    24,200,000
+  Area 200: Pretreatment                             $    19,900,000   $    29,900,000
+  Area 200: Conditioning                             $      1,500,000   $     3,000,000
+  Area 300: Enzymatic hydrolysis and fermentation        $    18,500,000   $    31,200,000
+  Area 400: Enzyme production                        $    10,700,000   $    18,300,000
+  Area 500: Recovery                               $    11,100,000   $    22,300,000
+  Area 600: Wastewater                              $    49,300,000   $    49,400,000
+  Area 700: Storage                                 $      2,800,000   $     5,000,000
+  Area 800: Boiler                                   $    36,500,000   $    66,000,000
+  Area 900: Utilities                                 $      4,000,000   $     6,900,000
+Totals (excl. Area 100)                              $   154,500,000   $   232,100,000
+ Warehouse                              4.0%   of ISBL            $     4,200,000
+  Site development                          9.0%   of ISBL            $     9,400,000
+  Additional piping                          4.5%   of ISBL            $     4,700,000
+Total Direct Costs (TDC)                                             $   250,400,000
+  Prorateable expenses                     10.0%   of TDC            $    25,000,000
+  Field expenses                           10.0%   of TDC            $    25,000,000
+ Home office & construction fee               20.0%   of TDC            $    50,100,000
+  Project contingency                       10.0%   of TDC            $    25,000,000
+  Other costs (start-up, permits, etc.)           10.0%   of TDC            $    25,000,000
+Total Indirect Costs                                                 $   150,200,000
+
+Fixed Capital Investment (FCI)                                        $   400,600,000
+ Land                                                            $     1,800,000
+  Working capital                           5.0%   of FCI             $    20,000,000
+Total Capital Investment (TCI)                                        $   422,500,000
+
+Lang Factor (FCI/purchased equip cost)b                                       3.1
+TCI per annual gallon                                                          $6.92/gal
+2007 dollars
+                                                          DW1102A
+a Feedstock handling not included in this calculation.
+b Area 600 not included in Lang Factor.
+
+4.3  Variable Operating Costs
+Variable operating costs, which include raw materials, waste handling charges, and by-product
+credits, are incurred only when the process is operating. Quantities of raw materials used and
+wastes produced were determined using the Aspen material balance. Table 29 documents the
+costs and sources of chemicals used in the process, and Table 30 summarizes the variable costs
+on a per-year and per-gallon-of-ethanol basis.
+
+
+
+
+
+                                      62

@@ -1,0 +1,50 @@
+leading from the air control into the crankcase permits    The power lost when diesel engines are converted to
+ air flowthroughthe engine. The volume ofthe pulsator     operate on producer gas is less than that lost by spark­
+mixing chamber necessarily prevents gas from being     ignition engines for three reasons. First, some diesel
+ sucked all the way into the crankcase.                     fuel is introduced; second, diesel engines operate at a
+                                                        higher compression ratio; and third, diesel engines
+The third method of two-cycle conversion, the two­                                                         operate with a large excess of air, so the energy per
+ cycle crank case system shown in Fig. 11-10 is the
+ simplest. Mixed gas is drawn through check valves into
+the crankcase, where the gas enters the combustion
+chamber through the piston ports. Engines popular for
+use on today's motorcycles use this same principle.
+
+1 1 .1 0 Diesel Engine Conversion
+                                                            40 /----p11.10.1  Diesel Operation with Producer Gas
+
+Diesel engines are operated on producer gas in the
+"aspirated" mode. The producer gas is mixed with the
+                                                            30intake air stream. A small quantity of diesel fuel is in­        .cro
+troduced continuously through regular injectors to ig­                                                                                                                                                                                                "'-'"c
+nite the gas mixture and provide timing. This so-called
+pilot-injection mode or diesel dual-fuel mode is also                                                                                                 ԩuused occasionally with natural gas or alcohol fuels.    20ǶǷǸ)ǹ--+---Ǿ---1                                                    c
+Direct-injection diesel engines are bettersuited for con­                                      ų                                                     cversion to producer gas than antechamber diesel                "'"
+engines.                                                                                                 Q)
+                                10Ǵǵ.-4-----+----ǥ,----                                        ͺ
+      3
+
+
+                                                                         1000      2000      3000     4000
+                                                                                 Crankshaft rpm         f\    H,                                  Fig. 11-7. Ignition advance forproducergas operation. Shaded area is
+                                                                    range ofproducer gas operation; solid line is typical operating condition
+      2                                                                 (Source: Gengas 1950, Fig. 198)     I  \
+      "0Q)     Cl.     "'       /    Q)
+    OJE
+     u::          J
+                                                                                           From
+
+                                                                                          Gas
+        CH,     CO                                                       )\'_JΣ---J
+     "-  ,.-    ., f---                               ,,˸ ..._ p                                                                                      To
+     o                                                                                               generator
+      o                25        50        75       100
+          % Volume of gas in mixture
+
+       P = 4.4% CO2: 29.1% CO: 10.2% H;.>: 56.3% N;:>
+
+Fig.  11-6. Flame speed of various gases versus mixture  (Source:       Fig.  11-8. Bolinder Munktell two-stroke engine  (Source: Gengas
+Kaupp 1984a, Fig. 182)                                                   1950, Fig, 191)
+
+
+                                                                  Engine Adaptation and Operation      1 1 1

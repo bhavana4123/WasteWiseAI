@@ -1,0 +1,48 @@
+                3. Biodiesel Specifications and Properties
+
+Introduction
+
+This module will acquaint you with the fuel specification that defines and sets the quality
+standards for biodiesel. The standard is framed as a set of property specifications measured by
+specific ASTM test methods. The standard for biodiesel is ASTM 6751-02.
+
+ASTM D 6751 – 02 sets forth the specifications that must be met for a fatty acid ester product to
+carry the designation “biodiesel fuel” or “B100”or for use in blends with any petroleum-derived
+diesel fuel defined by ASTM D 975, Grades 1-D, 2-D, and low sulfur 1-D and 2-D.
+
+The instructional goals for this module are:
+    1.  Learn the Specifications for B 100 fuel.
+    2.  Introduce the Methods used to measure the performance parameters for B 100 fuel.
+    3.  Describe the Methods and measurements needed for a basic quality control laboratory for
+       a production facility.
+
+Definition of “Biodiesel”
+Biodiesel is defined as: a fuel comprised of mono-alkyl esters of long chain fatty acids derived
+from vegetable oils or animal fats, designated B100.
+
+A “mono-alkyl ester” is the product of the reaction of a straight chain alcohol, such as methanol
+or ethanol, with a fat or oil (triglyceride) to form glycerol (glycerin) and the esters of long chain
+fatty acids.
+
+Biodiesel can be used as B 100 (neat) or in a blend with petroleum diesel. A blend of 20 %
+biodiesel with 80 % petrodiesel, by volume, is termed “B 20”. A blend of 2 % biodiesel with 98
+% petrodiesel is “ B 2”, and so on.
+
+Property Requirements and Specified Methods for B100
+
+The values of the various biodiesel properties specified by ASTM D 6751 are listed in Table 6.
+Each of these properties and the test method used to measure it are described below.
+
+Method: ASTM D93- Flash point, closed cup
+Requirement: 130 ºC min
+
+The flash point is defined as the “lowest temperature corrected to a barometric pressure of 101.3
+kPa (760 mm Hg), at which application of an ignition source causes the vapors of a specimen to
+ignite under specified conditions of test.” This test, in part, is a measure of residual alcohol in
+the B100.
+
+
+
+
+
+                                      22

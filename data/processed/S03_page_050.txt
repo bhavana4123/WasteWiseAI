@@ -1,0 +1,51 @@
+4.0 Summary and Conclusions
+
+The results of this study demonstrate that anaerobic digestion of food waste can be achieved at a
+reduced MCRT (10 days), and at both mesophilic and thermophilic temperatures. Compared to
+municipal wastewater solids digestion, food waste digestion has many benefits. Food waste
+digestion is also an attractive alternative to composting since it can be done in a smaller foot
+print, and is a net energy producer rather than consumer. Table 3.12 summarizes the parameters
+comparing food waste digestion to municipal wastewater solids digestion.
+
+ Table 4.1. Summary of Parameters Comparing Anaerobic Food Waste Digestion to
+ Anaerobic Municipal Wastewater Solids Digestion.
+                                 Food Waste Digestion         Municipal
+                                                             Wastewater
+                                                                            Solids
+     Parameter         Units                                                                       Digestion
+                                 15-day MCRT   10-day MCRT   15-day MCRT
+                           Meso  Thermo  Meso  Thermo      Meso(1)
+ VS (as percent of TS),
+                %        86.3     87      89.9     90.6          77
+ Feed
+ VS Loading, Feed          lb/ft3-day    0.28     0.29     0.53     0.54              0.2(2)
+ COD Loading, Feed        lb/ft3-day    0.55     0.57     1.09     1.11         0.06-0.3(3)
+ VSD             %        73.8     80.8     76.4     82.4        38-57%(4)
+ Methane (CH4)                %       64      67      59      60           63
+ Content
+ Methane Production          ft3/lb TS        13,300             9,500            10,000
+ Rate, Avg (Range)          applied     (9,800–17,000)(5)   (6,600–14,400)(5)    (7,500–12,600)
+                                    ft3 per day/
+                          1,000 ft3         2,300             2,600             750
+                              digester      (1,100–3,200)      (1,800–3,800)       (550–930)
+                        volume
+ Residuals (Mass of
+ Biosolids Produced) as
+                %       36      30      31      26          56-70
+ a Percent of Feed
+ Applied.
+
+ Notes:
+  1. Based on data from previous EBMUD bench-scale pilot study. Digesters were fed thickened waste activated sludge
+    and screened primary sludge.
+  2. Maximum recommended loading rate, WEF MOP 8.
+  3. Maximum recommended loading rate, M&E, 4th Edition.
+  4. EPA 503 Regulations minimum is 38%. Typical average is 57% from EBMUD bench-scale pilot study.
+  5. Data combined for mesophilic and thermophilic digesters
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               35
+Funding Opportunity No. EPA-R9-WST-06-004

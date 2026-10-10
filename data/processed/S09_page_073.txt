@@ -1,0 +1,50 @@
+source of catalysts that decrease fuel stability. Gentle washing prevents the formation of
+emulsions and results a rapid and complete phase separation.
+
+The phase separation between esters and water is typically very clean and complete. However,
+the equilibrium solubility of water in esters is higher than the specified water content for B100.
+Therefore, after the washing step there will be more than the equilibrium amount of water
+present.
+
+Vacuum driers can either be batch or continuous devices for removing water. The system is
+operated at a highly reduced pressure, which allows the water to evaporate at much lower
+temperature. A variation that also allows for rather high heating and evaporation rates is the
+falling film evaporator. This device operates at reduced pressure. As the esters pour down the
+inside wall of the evaporator the direct contact with the heated wall evaporates the water rapidly.
+Care should be taken with high temperature evaporators to avoid darkening the fuel which is a
+sign that the polyunsaturated methyl esters are polymerizing.
+
+Because the total water burden in the esters is low, molecular sieves, silica gels, etc. can also be
+used to remove the water. An advantage of these systems is that they are passive. However, a
+disadvantage is that these units must be periodically regenerated.
+
+Other Ester Treatments
+
+There are absorbents on the market that selectively absorb hydrophyllic materials such as
+glycerol and mono- and di-glycerides (i.e Magnesol from the Dallas Group). This treatment,
+followed by an appropriate filter, has been shown to be effective in lowering glycerides and total
+glycerol levels.
+
+Some vegetable oils and many yellow greases and brown greases leave an objectionable color in
+the biodiesel. There is no color specification in ASTM D 6751, but an activated carbon bed is an
+effective way to remove excessive color. The fats and oil industry literature has other bleaching
+technologies that may also be explored for biodiesel producers.
+
+The European specification for sulfur content is much tighter than the U.S. requirement. As a
+result, a number of producers in Europe are resorting to the use of vacuum distillation for the
+removal of sulfur compounds from the biodiesel product. By 2006, all U.S. biodiesel must meet
+new sulfur standards of 15 ppm or less. Therefore, biodiesel producers needs to be aware of the
+sulfur content of their fuel, and must incorporate sulfur reduction technology if needed before
+that date. Vacuum distillation has the added benefit of deodorization and the removal of other
+minor contaminants, which may provide a benefit to those firms that use highly degraded
+feedstocks such as trap grease.
+
+Filtering is an essential part of all biodiesel production. While feedstocks entering the plant
+should be filtered to at least 100 µm, biodiesel leaving the plant should be filtered to at least 5
+µm to ensure no contaminants are carried with the fuel that could damage the engine. At has
+been suggested that the fuel could be cooled before filtering to capture some of the saturated
+
+
+
+
+                                      69

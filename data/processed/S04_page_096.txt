@@ -1,0 +1,48 @@
+size axial flow turbines and compressors are typically more efficient than radial flow components.
+However, in the size range for microturbines – 0.5 to 5 lbs/second of air/gas flow – radial flow
+components offer minimum surface and end wall losses thereby improving efficiency.
+
+As mentioned earlier, microturbines operate on either oil-lubricated or air bearings, which support the
+shaft. Oil-lubricated bearings are mechanical bearings and come in three main forms – high-speed metal
+roller, floating sleeve, and ceramic surface. Ceramic surface bearings typically offer the most attractive
+benefits in terms of life, operating temperature, and lubricant flow. While they are a well-established
+technology, they require an oil pump, oil filtering system, and liquid cooling that add to microturbine
+cost and maintenance. In addition, the exhaust from machines featuring oil-lubricated bearings may not
+be useable for direct space heating in cogeneration configurations due to the potential for air
+contamination.
+
+Air bearings allow the turbine to spin on a thin layer of air, so friction is low and rpm is high. They have
+been in service on airplane cabin cooling systems for many years. No oil or oil pump is needed. Air
+bearings offer simplicity of operation without the cost, reliability concerns, maintenance requirements,
+or power drain of an oil supply and filtering system.
+
+5.3.2.2   Generator
+The microturbine produces electrical power either via a high-speed generator turning on the single
+turbo-compressor shaft or through a speed reduction gearbox driving a conventional 3,600 rpm
+generator. The high-speed generator single-shaft design employs a permanent magnet, and an air-
+cooled generator producing variable voltage and high-frequency AC power. This high frequency AC
+output (about 1,600 Hz for a 30 kW machine) is converted to constant 60 Hz power output in a power
+conditioning unit. Power conditioning involves rectifying the high frequency AC to DC, and then inverting
+the DC to 60 Hz AC. However, power conversion comes with an efficiency penalty (approximately 5
+percent). In addition to the digital power controllers converting the high frequency AC power into usable
+electricity, they also filter to reduce harmonic distortion in the output. The power conditioning unit is a
+critical component in the single-shaft microturbine design and represents significant design challenges,
+specifically in matching turbine output to the required load. To accommodate transients and voltage
+spikes, power electronic units are generally designed to handle seven times the nominal voltage. Most
+microturbine power electronics generate three-phase electricity.
+
+To start-up a single shaft design, the generator acts as a motor turning the turbo-compressor shaft until
+sufficient rpm is reached to start the combustor. If the system is operating independent of the grid
+(black starting), a power storage unit (typically a battery) is used to power the generator for start-up.
+
+Electronic components also direct all of the operating and startup functions. Microturbines are generally
+equipped with controls that allow the unit to be operated in parallel or independent of the grid, and
+internally incorporate many of the grid and system protection features required for interconnection. The
+controls also allow for remote monitoring and operation.
+
+Figure 5-2 provides an example of the compact design of the basic microturbine components (in this
+case, for the Capstone model C200 (200 kW)). The turbocompressor section, riding on air bearings,
+
+
+
+Catalog of CHP Technologies                          5–4                                  Microturbines

@@ -1,0 +1,59 @@
+Appl. Sci. 2022, 12, 4822                                                                                                         5 of 25
+
+
+
+                                transfer. The volatile mixing of sand with biomass particles leads to high heat and mass
+                               transfer coefﬁcients, a favorable condition for fast pyrolysis. FBR can be well scaled up or
+                     down to meet different experimental requirements, and, in particular, the process tempera-
+                              ture can be conveniently controlled, while catalysts can be introduced in the form of sand.
+                            Nevertheless, when considering industrial-scale applications of FBR, the process design
+                       and management might present some hurdles like the high volumes of carrier gas leading
+                              to considerable sand attrition problems and energy efﬁciency losses [47].
+                               Building on a theoretical background [48], it has been possible to calculate all the
+                             functional parameters to achieve steady-state bed ﬂuidization and to reach fast pyrolysis
+                             reactions and products. In our case, the bed was indirectly heated by being placed in an
+                                 electric furnace in which two heating zones could be controlled independently. The main
+                            operating conditions and parameters of the process are listed in Table 1.
+
+                             Table 1. Bubbling ﬂuidized bed reactor (BFBR) operational parameters.
+
+                                             Parameter                                   Value
+
+                                          Experimental time                                90 min
+                                                           Msand,initial                                           2.1 kg
+                                       Bed height                                       0.250 m
+                                      Bed diameter                                          0.1 m
+                                U                                          0.1–0.19 m s−1
+                                          U/Umf                                        3–5
+                                                                τreactor                                           0.6–1.1 s
+                                                        τhot                                             1.4–1.9 s
+                                                              Treactor                                      500 ◦C
+                                                      Thot                                       530 ◦C
+                                         P                                         1 bar
+
+
+                           The pre-existing layout was speciﬁcally modiﬁed to meet the required characteristic
+                                for the proposed experimental campaign. A simpliﬁed scheme of the pilot unit is presented
+                              in Figure 1.
+                            During operation, a Nitrogen ﬂow was fed to the biomass hopper, creating a slight
+                            overpressure, which prevented vapors and gases leaving the ﬂuidized bed pyrolysis re-
+                             actor from ﬂowing back to the hopper via the double screw feeding system. Sand was
+                           continuously fed to control the char holdup and to keep constant the bed height in the
+                                reactor. It is important to control and to know the char holdup as it catalyzes the cracking
+                              of pyrolysis vapors leading to a lower oil yield and inﬂuences ﬂuidization behavior.
+                    A mass ﬂow controller was used to set the feed rate of the ﬂuidization ﬂow, keeping a
+                            constant sand-to-biomass ratio roughly at around 1.5. Details of the condensation trail are
+                            described in the next section.
+                           The vapor/gas stream leaving the reactor results in containing sand ﬁnes and a
+                               fraction of the produced char. All the sand and most of the char particles were collected in
+                           a knockout vessel. A downstream series of three cyclones, equipped with collection vessels,
+                              to remove almost all residual char particles.
+                           The gaseous stream leaving the condensing section was mainly composed of non-
+                          condensable gases and a mixture of aerosols, which were collected in a tubular cotton gas
+                               ﬁlter (10 µm). Finally, a dry gas meter was used to measure the gas ﬂow before the main
+                              ventilation system.
+                            The custom bubbling ﬂuidized bed reactor (BFBR) allows rapid heating of the biomass
+                               particles by mixing them in a stream of moving sand particles at high temperatures. The
+                                volatile mixing of sand with biomass particles leads to high heat and mass transfer coefﬁ-
+                                cients. The sand bed is indirectly heated by being placed in an electric furnace in which
+                       two heating zones can be controlled independently.

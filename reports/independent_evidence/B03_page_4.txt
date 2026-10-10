@@ -1,0 +1,56 @@
+Environments 2018, 5, 84                                                                                    4 of 13
+
+
+
+them was the utilization of their output energy. The gasiﬁer installed at UBC used the energy for steam
+generation while the other gasiﬁcation system provided energy for a tissue plant.
+    Each of the gasiﬁer reactors was made of a cylindrical chamber 5 m in diameter and 5 m in height
+(Figure 1). The chips were vertically fed to the reactor by a feeder screw located at the center of and
+underneath the reactor. The fuel then passed through several stages before it was converted to syngas.
+The major stages were drying, partial oxidation (combustion), pyrolysis, gasiﬁcation, and reduction to
+ash. Air was introduced to the fuel pile at the combustion stage. The gasiﬁer temperature was kept
+constant by controlling the fuel feed rate, equivalent ratio, and fuel pile height. The bed temperature
+generally ranges from 815–980 ◦C when combustion occurs. The fuel gets converted into three major
+components: syngas, tar, and non-combustible ash. The tar-rich syngas is directed to the thermal
+oxidizer where it is burned to generate heat. Ash is removed by an automated system. An electrostatic
+precipitator is in place to treat the particulate matter to ensure the emission standard speciﬁed in the
+air quality permit is met.
+
+2.2. Gas and Tar Sampling
+
+    Various tar sampling methods have been developed over recent decades, each with their own
+advantages and disadvantages [29]. The most common method for tar sampling is condensing the
+tar in a cooled liquid solvent, such as isopropanol [30]. The contents of the solution are analyzed to
+determine the tar concentration via gravimetric evaporation or gas chromatography (GC). The tar
+measurement and CEN/TS 15439 standard is an impinger-based sampling protocol developed by the
+European Union [31,32] following the work done by Kiel et al. [30].
+    CanmetENERGY-Ottawa (CE-O) has designed, tested and fabricated an alternative syngas and
+tar sampling device [30] for in-situ industrial applications. The unit comprises of a sampling probe,
+chiller, vacuum pump, and gas ﬂow meter. Robinson [33] conducted a series of experiments using a
+lab-scale bubbling ﬂuidized bed gasiﬁer and hardwood pellets as fuel, and showed that the CE-O was
+able to sample syngas with tar concentrations less than 10 g/m3. Robinson found the samples taken
+by the CE-O and the CEN/TS 15439 standards provided a similar syngas proﬁle and tar production.
+     In this paper, the CE-O and the CEN/TS 15439 standards were used side-by-side to sample
+syngas and collect tar from the gasiﬁcation reactor. The gas chromatography-thermal conductivity
+detector (GC-TCD) technique was used to identify and quantify syngas composition. The amount
+of solvent, or isopropanol, for each sampling event was about 600 g.  Approximately 170 L of
+syngas was pulled through the sampling device over a period of 90 min. The concentration of
+the tar samples was quantiﬁed using GC-FID equipped with a column packed with DPDM-siloxane
+(5% diphenyl + 95% dimethyl). The heating program applied to the sample in GC was as follows:
+initial temperature 50 ◦C for 5 min, ramp at 8 ◦C/min to 300 ◦C and hold at 300 ◦C time for 5 min.
+GC-FID identiﬁed the major compounds in the sample.  Other unknown peaks in the GC-FID
+results were added to the major compounds to calculate the total tar concentration in the solvent Cs.
+Tar concentration in syngas, Cg was calculated according to the following equation:
+
+                      M    Cs × Vs
+                                  Cg =  =
+                                        Vg     Vg
+
+where M is the mass of tar, Vs is the volume of solvent, Vg is the volume of syngas, and Cs is the
+concentration of tar in the solvent as measured by GC.
+
+2.3. Biomass Fuel Sampling
+
+    Biomass fuel samples were taken from the port near the gasifier feeding auger. Approximately 5 kg
+of fuel was collected during each syngas sampling event for subsequent measurements of moisture
+content, ash content, and caloriﬁc value. Fuel samples were taken before, during, and after tar

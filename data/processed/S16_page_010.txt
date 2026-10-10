@@ -1,0 +1,49 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+
+        Licence.
+        Unported
+   3.0
+PM.
+6:34:53
+6/21/2024          Fig. 3  Periodic table of highest weight percent concentrations of elements measured in 59 plastic samples. These results indicate that most
+           research grade polymers contain additives with inorganic content. The elements found at the highest concentration included Ca, Ti, and Si. For moston Attribution-NonCommercial
+           elements, samples were digested using microwave acid wet digestion (MAWD), and then analyzed using inductively coupled plasma mass spec-
+           trometry (ICP-MS). Fluorine was analyzed potentiometrically following combustion.
+Downloaded Commons
+          Some polymers  that did not  contain  nitrogen  in  the  used as a barrier material.59,60 It is unlikely the polymers in2024.        Creative    polymer backbone contained an appreciable amount of nitro-   this study contained an aluminum barrier, which is commonly
+ a    gen, including EVA-3 (0.9 wt%), PP-4 (0.2 wt%), and PHB-1  used in  plastic films such as multi-layer food packaging.March26 under     (0.2 wt%). It is possible that this nitrogen originates from addi-  Phosphorous was observed in 3 polymers (0.005–0.028 wt%),
+on        tives or processing aids. GC-MS data indicates that there are   while 4 contained antimony (0.008–0.063 wt%). Phosphorous-
+          several unknown additives in each of these polymers, which   containing additives are almost always organic and can be        licensed
+  is   may contain nitrogen. PHB is a bio-derived plastic, and there-  used as flame retardants and stabilizers, while antimony isPublished        fore the nitrogen may be from residual media or cellular   also used as a catalyst in the production of PET.55,56,61 All three
+       article     material.                                           PET polymers contained antimony, which is likely from the
+Article. This      Some  polymers  exhibited  a  sulfur  content  between   polymerization catalyst antimony trioxide (Sb2O3). Magnesium
+Access       to0.1–0.8plasticswt%as(Tablea processingS2†). Elementalaid or stabilizer,sulfur isandsometimessulfur-contain-added   tainedwas observedzinc (0.006–0.011in 6 polymerswt%).(0.005–0.081Polymers thatwt%),containand 6 bothcon-
+Open       ing organic additives can be used as chain transfer agents,   zinc and boron may contain zinc borate, a commonly used           stabilizers,  plasticizers, processing aids, and curing agents   flame retardant. Zinc-containing compounds can also be used
+         including mercaptans, thiurams, dithiocarbamates,48 thiour-   as thermal stabilizers, slip agents, fillers, and to prevent dis-
+           eas,49 and thiols.48–51 PMMA-2 contained 0.1% S, and had   coloration (e.g., zinc oxide and zinc stearate).13,62 Other salts
+       GC-MS  library matches  for 1-dodecanethiol and  N-ethyl-2-   that  were  observed  included  sodium  and  potassium
+         methyl-benzenesulfonamide (EMBSA). The addition of 1-dode-   (0.005–0.100%).
+          canethiol can improve surface properties which can help to       Fillers are commonly used to improve performance, proces-
+         reduce the adhesion of contaminants due to its high hydro-   sing, and costs of polymers. Silica or silicon dioxide, and
+          phobicity.52 EMBSA can also be used as a plasticizer, a modify-   calcium carbonate are both common reinforcing fillers, as well
+         ing agent in PMMA, and a component of ink formulations.53,54   as zinc oxide, metal, and wood powders.19 Calcium and silicon
+        While there is evidence of the source of sulfur in PMMA-2, the   exhibited a high laboratory background but were observable
+         source of sulfur in nylon-66, EVA-3, and several PE samples is   above blank concentrations in 30 plastics. In one study, it was
+        unknown.                                              found that single-use plastic bags contained 15–36 wt% in-
+           Flame retardants are another common class of polymer   organic additives primarily as calcium carbonate (CaCO3) and
+           additives, and often contain inorganic elements such as boron   titanium dioxide (TiO2).20 Titanium was measured in 20 plas-
+           (borates, boron  oxide), aluminum (aluminum  trihydrate),   tics (0.005–5.894 wt%), likely from TiO2. Inorganic pigments
+        phosphorus  (organo-phosphates,  phosphonates),  antimony  can be up to 10 wt% in plastics, with TiO2 accounting for
+         (antimony  trioxide), magnesium (magnesium hydrate), and   approximately 70% of total pigment volume globally.63
+          zinc (zinc borate).55,56 Aluminum was detected in 13 plastics      Several plastics contained small amounts of certain metals.
+          (0.005–0.413 wt%), 51 contained boron (0.014–0.108 wt%).  Chromium (Cr) was found in 2 plastics (0.005–0.012 wt%), 1
+        While boron and aluminum-containing compounds can be   with niobium (Nb) (0.011), 1 with tin (Sn) (0.380), and 2 with
+         used as flame retardants and heat stabilizers,57,58 boron can   tungsten (W) (0.005–0.07). While Cr is used as a filler, color-
+          also act as a nucleating agent, and aluminum is commonly   ant, and corrosion inhibitor, its use is likely limited because of
+
+
+
+        7076  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

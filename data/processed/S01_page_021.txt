@@ -1,0 +1,51 @@
+                                                                  Agricultural Residues
+
+
+COTTON STALKS; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 65.40, ash
+   content = 17.30, and fixed carbon = 17.30.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    39.47, hydrogen = 5.07, oxygen = 39.14, nitrogen = 1.20, sulfur = 0.02, and residue
+    (ash) = 15.10.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gtoss)   6810 Btu lbi 1
+    q,(gross)   3783 cal g-
+    q,(gross)  = 15830 f g-l
+
+   net heat of combustion: assume values refer t o room temperature.
+   qv(net) = 6363 Btu lbl 1
+   qv(net) = 3535 cal g-
+   qv(net) = 14790 J g-l
+
+                                                                85JENIEBE
+
+ENGLISH WALNUT, ORCHARD PRUNINGS; solid; Material is considered biomass fuel
+   and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 80.82, ash content = 1.08, and fixed carbon = 18.10.  Also the
+   ultimate analysis of the elemental composition of the fuel (values in percent by
+   weight dry basis) is carbon = 49.72, hydrogen   5.63, oxygen = 43.14, nitrogen = 0.37,
+    sulfur = 0.01, chlorine = 0.06, and residue (ash) = 1.07.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 8445 Btu            $'
+    qv(gross) = 4692 cal g-
+    qv(gross) = 19630 J g-l
+
+   net heat of combustion: assume values refer t o room temperature.
+                              1   qv(net) = 7955 Btu lb-
+   qv(net) = 4419 cal g-'
+   qv(net) = 18490 J g-'
+
+                                                             85JENIEBE
+
+
+
+
+
+                                           17

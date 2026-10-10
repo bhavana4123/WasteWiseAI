@@ -1,0 +1,83 @@
+TA 6M: Waste Heat Recovery
+
+
+  Limitations of Currently Available Technologies
+
+   Table 6.M.8 and Table 6.M.9 depict limitations and barriers of currently available WHR technologies for ultra-
+   high, high, and medium temperature ranges.
+
+
+       Table 6.M.8 Limitations of Currently Available WHR Technologies, High and Ultra-High Temperature Ranges1
+
+
+   Equipment             Limitations and Barriers
+
+
+
+                                                Upper temperature limit of 1,600°F
+
+                                                   Economically justifiable heat recovery efficiency limit of 40% to 60%1
+
+                                                High maintenance costs for use with gases containing particulates, condensable vapors, or
+                              combustible material
+    Metallic recuperators                               Reduced life expectancy in applications where the mass flow and temperature of the fluids vary or
+                                 are cyclic
+
+                                                    Fouling and corrosion of heat transfer surfaces
+
+                                                         Difficulty in maintaining or cleaning the heat transfer surfaces
+
+
+                                                 Reduced system life expectancy due to thermal cycling and the possibility of leaks from the high-
+                                pressure side
+
+                                                High initial cost    Ceramic recuperators
+                                                        Relatively high maintenance
+
+                                                       Size limitations – difficult to build large size units
+
+
+                                                Lower heat recovery efficiency (usually less than 30%)
+
+                                                   Temperature limitation – exhaust gas temperature less than 1,600°F
+    Recuperative burners                                 Limited size availability (usually for burners with less than 1 MM Btu/hr)
+
+                                                Cannot be applied to processes where exhaust gases contain particles and condensable vapors
+
+                                                    Large system footprint
+
+                                                    Declining performance over time
+
+                                                    Plugging of exhaust gas passages when the gases contain particulates
+    Stationary regenerators   Chemical reaction of certain exhaust gas constituents with the heat transfer surfaces
+
+                                                          Possibility of leakage through dampers and moving parts
+
+                                                  Cost can be justified only for high-temperature (>2,000°F) exhaust gases and larger size (>50 MM
+                              Btu/hr firing rate)
+
+                                                       Seal failure between the high-pressure and low-pressure gases (air)
+
+                                                    Plugging of exhaust gas passages when the gases contain particulates
+    Rotary regenerators                               High pressure drop compared to recuperators
+
+                                                  Maintenance and operation reliability issues for rotary mechanism
+
+                                                    Large footprint for many applications
+
+                                                  Complicated controls with dampers that cannot be completely sealed
+
+                                                          Difficult pressure control for the furnace    Regenerative burners
+                                                  Cost competiveness
+
+                                                    Plugging of the bed when the gases contain particulates. Require frequent cleaning of the media
+                          and the bed.
+
+                                                   Limited to use for large size systems (usually higher than 25 MM Btu/hr)
+    Heat recovery steam     Limited to use with only clean and particulate-free exhaust gases
+    generators - boilers      Only viable for plants with need for steam use
+
+                                                            Initial cost is very high compared to other options such as recuperators
+
+
+ 19  Quadrennial Technology Review 2015

@@ -1,0 +1,56 @@
+3.5  Area 500: Product, Solids, and Water Recovery
+
+3.5.1 Overview
+Area 500 separates the fermentation broth from Area 300 into water, anhydrous ethanol, and
+combustible solids. Distillation and molecular sieve adsorption are used to recover ethanol from
+the raw fermentation beer and produce 99.5% ethanol. Distillation is accomplished in two
+columns. The first, called the beer column, removes the dissolved CO2 and most of the water.
+The second column is called the rectification column and concentrates the ethanol to a near-
+azeotropic composition. See Figure 12 for a process overview of this area.
+                                                                                            ATM.
+
+
+
+
+                                                                Clean water
+                                                                        Vent Scrubber
+
+ Fermentation Vents
+
+
+             Beer Column      CW
+                                                                                                        Return to beer well
+
+
+
+ Beer
+                                                                                                                      Ethanol product
+                                                                                                  CW
+                                                         STEAM                                          LP                 Rectification                                                                                     Molecular Sieve
+                                        Column            Lignin Separator                                                        Adsorption
+
+                              Lignin to combustor
+                                                                        Regenerate
+                                                                                      STEAM
+                                Stillage to WWT                  LP         Water to recycle
+
+                  Figure 12. Simplified flow diagram of the separation process
+
+The ethanol product leaves the rectification column at ~92.5% ethanol and is further dehydrated
+to 99.5% by vapor-phase molecular sieve adsorption. During regeneration of the adsorption
+columns, a low-purity (70 wt %) ethanol stream is generated and is recycled back to the
+rectification column for recovery. The beer column overhead stream is fed to a water scrubber
+along with the fermentation vents (containing mostly CO2 but also some ethanol), thereby
+recovering nearly all of the ethanol. The scrubber effluent is fed back to the beer well.
+
+The beer column bottoms (stillage) stream contains the unconverted insoluble and dissolved
+solids. The insoluble solids are dewatered by a pressure filter and sent to the combustor in Area
+800. The pressed stillage water cannot be recycled directly back to the process because it
+contains high levels of organic salts such as ammonium acetate and ammonium sulfate,
+fermentation nutrients not consumed by the organism, and soluble inorganic compounds from
+the biomass. Instead, the pressed stillage water is directed to wastewater treatment (Area 600) for
+cleanup.
+
+
+
+                                      44

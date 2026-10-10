@@ -1,0 +1,51 @@
+          Table A-1 Averages and Standard Deviations of Parameters-Continued
+
+ Item         Parameter             Units      # of samples             Thermo   Meso
+  20   Methane/COD Consumed             ft3/lb            5/2       average          4.6        6.6
+        (15 d)                                                                  std. dev.          1.0        3.0
+                                                                            coeff. var.       0.23      0.45
+       Methane/COD Consumed             ft3/lb            3/6       average          3.0        3.3
+        (10 d)                                                                  std. dev.          0.5        0.6
+                                                                            coeff. var.       0.16      0.17
+       Methane/COD Consumed             ft3/lb           1        average          1.6        0.9
+         (5 d)                                                                   std. dev.       N/A     N/A
+                                                                            coeff. var.     N/A     N/A
+  21   Ammonia (15 d)             mg N/L           4/3       average        2,213     1,930
+                                                                                   std. dev.        454      444
+                                                                            coeff. var.       0.21      0.23
+      Ammonia (10 d)             mg N/L           2/4       average        1,825     2,255
+                                                                                   std. dev.        64      123
+                                                                            coeff. var.       0.03      0.05
+      Ammonia (5 d)             mg N/L          1        average        1,680     1,350
+                                                                                  std. dev.       N/A     N/A
+                                                                            coeff. var.     N/A     N/A
+  22  TKN (15 d)              mg N/L         7        average        4,800     2,333
+        (Feed)                                                                 std. dev.        2,060     550
+                                                                            coeff. var.       0.43      0.24
+     TKN (10 d)              mg N/L         4        average         2,750     3,525
+         (Feed)                                                                std. dev.         71      1,269
+                                                                            coeff. var.       0.03      0.36
+     TKN (5 d)               mg N/L         3        average         3,400     3,400
+        (Feed)                                                                 std. dev.       N/A     N/A
+                                                                            coeff. var.      N/A     N/A
+  23    Coliform (15 d)              MPN/g           2/3       average        285       8
+         (Digester)                                                             std. dev.        304       5
+                                                                            coeff. var.        1.1        0.5
+        Coliform (10 d)              MPN/g           0/1       average        N/S       2
+         (Digester)                                                             std. dev.              N/A
+                                                                            coeff. var.             N/A
+        Coliform (5 d)               MPN/g          1        average         9      2300
+         (Digester)                                                             std. dev.       N/A     N/A
+                                                                            coeff. var.     N/A     N/A
+  24    Coliform (15 d)              MPN/g           2/3       average       465,000    5,867
+        (Feed)                                                                 std. dev.       615,183    9,642
+                                                                            coeff. var.       1.32      1.64
+        Coliform (10 d)              MPN/g           0/1       average        N/S      3,000
+        (Feed)                                                                 std. dev.              N/A
+                                                                            coeff. var.             N/A
+        Coliform (5 d)               MPN/g          1        average       900,000   900,000
+        (Feed)                                                                 std. dev.       N/A     N/A
+                                                                            coeff. var.     N/A     N/A
+
+Anaerobic Digestion of Food Waste                                                          A- 6
+Funding Opportunity No. EPA-R9-WST-06-004

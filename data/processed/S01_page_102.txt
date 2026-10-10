@@ -1,0 +1,48 @@
+                                                                           Fossil Materials
+
+
+FUEL, AVIATION; liquid; petroleum fraction with B.P. range 175"-35OoC (347'-662'F).
+
+   gross heat of combustion: assume values refer to 25OC (77OF).
+
+   aviation gasoline, grade 91-96:             aviation gasoline, grade 100-130:
+                                                                                     1    q,(gross)  = 20232 Btu lb-I                   qv(gross) = 20288 Btu Ib-
+    q,(gross)  = 11240 cal                          q,(gross) = I1271 cal
+    qv(gross) = 47028 J                            q,(gross) = 47158 J
+
+                                                         48LET/MAT
+
+FUEL, COED-1 FMC WESTERN KENTUCKY COAL DERIVED; liquid; Material was
+   refined by fractionation. Composition was nitrogen = 40 pprn, sulfur = 0.05 wt. %,
+   aromatics = 24.8%, C9 t o C16 n-alkanes = 3.90 wt. %, and hydrogen = 12.80 wt. %.
+   The freezing point is -48°C (-54°F).
+
+   net heat of combustion: assume values refer to room temperature; where net heat of
+   combustion [q (net at 25"C)I = gross heat of combustion [q (gross at 25OC)I - 91.23 H,
+   where H = hydrogen weight % of the sample.
+
+    q,(net)  = 18294 Btu lb-l
+    q,(net)  = 10163 cal
+    qv(net) = 42523 J
+
+                                                         76HAZ/HAL
+
+FUEL, COED-2 UTAH COAL DERIVED; liquid; Material was refined by fractionation.
+   Composition was nitrogen = 42 ppm, sulfur = 0.04 wt. %, aromatics = 24.I%, Cg t o
+   C16 n-alkanes = 7.14 wt. %, and hydrogen = 12.98 wt. %. The freezing point is -40°C
+    (-40 OF).
+
+   net heat of combustion: assume values refer to room temperature; where net heat of
+   combustion [q (net at 25"C)] = gross heat of combustion [q (gross at 25'C)] - 91.23 H,
+   where H = hydrogen weight 96 of the sample,
+                           1    q,(net)   18327 Btu Ib-
+    q,(net)  = 10207 cal
+     q,(net)  = 42705 J
+
+                                                         76HAZ/HAL
+
+
+
+
+
+                                       109

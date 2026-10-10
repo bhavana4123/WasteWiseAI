@@ -1,0 +1,50 @@
+with a mineral acid such as sulfuric acid. This removes some of the minerals from the clay and
+produces a larger volume of micropores and smaller clay particles.
+
+The bleaching clays are mixed with the oil, either directly or by premixing with a small amount
+of oil to produce a slurry and then adding the slurry to the oil. After the adsorption processes
+have reached equilibrium, the clay is filtered out by self-cleaning filters.
+
+The peroxide value of the oil is very low after bleaching because the hydroperoxides have been
+eliminated but the free fatty acid level may be slightly higher. This may be due to some of the
+sulfuric acid leaching out of the clay or to hydrolysis of the oil. Hydrolysis is a chemical reaction
+between the oil and water that produces free fatty acids and glycerin.
+
+Deodorization
+
+Deodorization is the final processing stage before the oil is ready for use in food products. The
+deodorization removes the trace components that give the oil an unpleasant taste and odor.
+Deodorization is essentially a distillation process that occurs at high temperature (200º - 260º C)
+and low pressure (2 - 7 torr, 2.5-9.2 mbar). The odor causing compounds are more volatile than
+the oil and will be removed by extended heating at high temperature and low pressure.
+
+The first step of deodorization is deaeration. This step removes all the dissolved oxygen so that
+the oil does not oxidize at the high temperatures used in deodorization. In batch deodorizers, the
+deaeration occurs naturally while the oil is heated from the typical inlet temperature of 40º - 80º
+C to the deodorization temperature range of 200º - 260º C. If adequate vacuum is available, the
+oil should be deaerated by the time the oil reaches 100º - 120º C.
+
+Preheating is sometimes identified as the second step of deodorization. In continuous flow
+deodorization processes, a portion of the heat required for heating the oil comes from cooling the
+deodorized oil. As much heat as possible is transfered from the final product to incoming oil.
+After preheating, the oil is heated to its final temperature by steam or another heating fluid such
+as Dowtherm A.
+
+After the oil has been held at high temperature for sufficient time (2 - 5 hours in a batch
+deodorizer), it is cooled to 120º C where it is common practice to add 50 - 100 mg/kg of citric
+acid. The citric acid is added to chelate trace metals in the oil so that they can be removed by
+filtration. Chelation is a chemical process where a compound, known as a chelating agent, binds
+to a metal compound and makes it unavailable for further reaction. Then the oil is cooled further
+to its storage or bottling temperature. One final stage of filtration, known as polish filtration,
+occurs immediately before the oil leaves the plant.
+
+As mentioned earlier, biodiesel can be produced from oil at any stage in the various processes.
+The compounds removed during refining, bleaching, and deodorization are mostly removed by
+water washing or collect in the glycerol phase. Biodiesel produced from crude soybean oil
+retains somewhat more color than biodiesel from refined oil but phosphorus and free fatty acid
+levels seem to be equivalent [8].
+
+
+
+
+                                      85

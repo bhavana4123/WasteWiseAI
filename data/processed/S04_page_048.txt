@@ -1,0 +1,47 @@
+2.5.1.3  Unburned Hydrocarbons
+Volatile hydrocarbons also called volatile organic compounds (VOCs) can encompass a wide range of
+compounds, some of which are hazardous air pollutants. These compounds are discharged into the
+atmosphere when some portion of the fuel remains unburned or just partially burned. Some organics
+are carried over as unreacted trace constituents of the fuel, while others may be pyrolysis products of
+the heavier hydrocarbons in the gas. Volatile hydrocarbon emissions from reciprocating engines are
+normally reported as non-methane hydrocarbons (NMHCs).
+
+2.5.1.4   Carbon Dioxide (CO2)
+While not considered a pollutant in the ordinary sense of directly affecting health, emissions of carbon
+dioxide (CO2) are of concern due to its contribution to climate change. The amount of CO2 emitted is a
+function of both fuel carbon content and system efficiency. The fuel carbon content of natural gas is 34
+lbs carbon/MMBtu; oil is 48 lbs carbon/MMBtu; and (ash-free) coal is 66 lbs carbon/MMBtu. As
+converted to CO2 in the exhaust, these values are 117 lb/MMBtu for natural gas, 160 lb/MMBtu for
+diesel oil, and 205-226 lb/MMBtu for coal.
+
+2.5.2 Emissions Control Options
+Emissions from natural gas SI engines have improved significantly in the last decade through better
+design and control of the combustion process and through the use of exhaust catalysts. Advanced lean
+burn natural gas engines are available that produce NOx levels as low 1.8 lb/MWh and CO emissions of
+8.1lb/MWh before any exhaust gas treatment. Adding selective catalytic reduction (SCR) and a CO
+oxidation catalyst can allow lean burn reciprocating engines to meet the very stringent California South
+Coast emissions standards of 0.07 lb/MWh for NOx and 1.0 lb/MWh for CO.
+
+NOx control has been the primary focus of emission control research and development in natural gas
+engines. The following provides a description of the most prominent emission control approaches.
+
+2.5.2.1   Combustion Process Emissions Control
+Control of combustion temperature has been the principal focus of combustion process control in gas
+engines. Combustion control requires tradeoffs – high temperatures favor complete burn up of the fuel
+and low residual hydrocarbons and CO, but promote NOx formation. Lean combustion dilutes the
+combustion process and reduces combustion temperatures and NOx formation, and allows a higher
+compression ratio or peak firing pressures resulting in higher efficiency. However, if the mixture is too
+lean, misfiring and incomplete combustion occur, increasing CO and VOC emissions.
+
+Lean burn engine technology was developed during the 1980s as a direct response to the need for
+cleaner burning gas engines. As discussed earlier, thermal NOx formation is a function of both flame
+temperature and residence time. The focus of lean burn developments was to lower combustion
+temperature in the cylinder using lean fuel/air mixtures. Lean combustion decreases the fuel/air ratio in
+the zones where NOx is produced so that peak flame temperature is less than the stoichiometric
+adiabatic flame temperature, therefore suppressing thermal NOx formation. Most lean burn engines use
+turbocharging to supply excess air to the engine and produce the homogeneous lean fuel-air mixtures.
+Lean burn engines generally use 50 to 100 percent excess air (above stoichiometric). The typical
+uncontrolled emissions rate for lean burn natural gas engines is between 1.5-6.0 lb/MWh.
+
+
+Catalog of CHP Technologies                         2–22                         Reciprocating IC Engines

@@ -1,0 +1,49 @@
+           400
+
+       0
+        :2
+        'w?:'   300                                     Viscosity
+      0      "        .Զ     ....                                                                                                       1.0
+    >                  ;:>                                                                                                               0.9           "'                                                                                                      "                "'            '"
+                                                                                         E         01                                '  200                                                                                              0.8
+                                                                      "      g      ď<1>                                                                                                            0.7            01E     "                                                                   g            '"                                                                                                                               01            :J                                                                                                                                     '"                                                                                                               0.6    "                                                                                                0     0                                                Density                                                     CL                                                                                                               0.5         a.
+             iii                                                                                                                                                                          ?:'     "    100                                                                                                 0.4    'w                                                                                                                                                                            c:         c.
+         >-                                                                                                      0.3  0<1>        I-
+                                                                                                               0.2
+                                                                                                                          0.1
+             0
+              o 20      100        200        300        400       500         600       700
+                                          Gas temperature (0 C)
+
+ Fig. 8-8. Gas viscosity versus temperature
+
+density 0.2 (200 kg/m3), that the cyclone cut size will     removal. Also, any tars in the gas stream must still be
+be                                             removed by other means.
+
+
+
+                                                              8.6.2.5 Other Factors in Cyclone Performance
+                9(255 x 10­ kg/m-s)(0.025 m)          The most common errors encountered in cyclone
+             2(5)(14 m/s)(2000 - 0.489 kg/m") (3.14)       design are a low intake velocity caused by an oversized
+                                                          cyclone, and reentrainment of solid particles caused by
+     =   2.5 J.lm                                    (8-9)     improper cone design or faulty design of the discharge
+                                                               receiver.for ash, and
+                                                   Reducing the flow rate decreases the separator's perfor­
+        ʵ      9(259 X 10-7 kg/m-s)(0.025 m)           mance, but it has only a slight effect on gas cleanliness     =      I             2(5)(14 m/s)(200 - 0.489 kg/mo) (3.14)        because the dust load entrained in the inlet gas to the             '4                                                          separator is also lower at the reduced flow rate. The
+     = 8 J.lffi                                    (8-10)     resulting effect is that this outlet dust load slowly in­
+                                                         creases with a decreased flow rate by the inverse squarefor char.
+                                                            root of gas flow rate (Gengas 1950; Calvert 1972; Perry
+The cyclone pressure drop will be                         1973).
+    _ (.065)(PG)(Vi2)Ad                                        It is tempting to reduce the cyclone inlet width with an  Ll.p  ­
+             De2                                          inlet vane; however, the upset cyclone proportions
+                                                  have been found to reduce the effective number of gas
+        (.065)(0.489 kg/m3)(14 m/s)2(0.025 m)(O.05 m)      rotations   to as low as two and to increase reentrain­                                                          Nt                            (0.05 m)2                    ment (Perry 1973). Therefore, to remove finer particles
+                                                     using cyclones at a lower pressure drop, it is preferable    = 31 mm (1.22 in.) H 0                    (8-11)                              2                                to reduce the individual cyclone diameter using
+We can see that this cyclone should achieve the desired     multiple parallel cyclones (multi-clones) if necessary.
+particulate removal without excessive pressure drop.                                                      Air leaking into the char-ash hopper at the bottom of a
+However, there is still a finite possibility of large par­     cyclone separator deteriorates performance substan­
+ticles passing through a cyclone, so it is not advisable      tially. Similarly, removing the gas through the bottom
+to use a cyclone as the sole method of particulate    improves the efficiency of the cyclone separator.
+
+
+                                                          Gas Cleaning and Conditioning   79

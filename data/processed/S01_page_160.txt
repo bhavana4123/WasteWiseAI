@@ -1,0 +1,48 @@
+                                                          Polymers and Plastics
+
+
+NYLON-6; solid; (poly-E-caprolactam); repeating unit: C6H1 NO.
+
+   gross heat of combustion: at 20°C (68OF)
+
+   slow condensation                          rapid condensation
+
+                        1            =                                                     =             13640                   Btu                                                   13660                                                           Btu    q,(gross)                                                                 1P-'             7575                           g-                    cal    q,(gross)                                                                            g-                                                     = 7587                                                               cal                                      P-'                      q,(gross)q,(gross)
+    q,(gross) = 31694 J g-'                         q,(gross)  = 31744 J g-l
+
+   Mirarnid H: 25OC (77°F)
+    q,(gross)  = 13417 ? 5.0 Btu Ib;I
+    q,(gross) = 7454.1 2 2.8 cal g-
+    q,(gross) = 31188.0 2 11.7 J g-l
+
+    specific heat: 273-433 K (32"-320°F); amorphous nylon-6.
+
+   Cp(Btu lb-I O F - ' )    = -0.047 + 8.3 x     T
+                 d?q-')    = -0.085 + 1.5 x     T   Cp(cal g-'
+   Cp(J g-  deg  )     = -0.356 + 6.3 x    T
+
+   melting point: maximum melting temperature is 225°C (437'F)
+
+   heat of fusion: at 225°C (437°F)
+
+   Lf = 81 Btu  Ib;'
+   Lf = 45 cal g-
+   Lf   188 J g-'
+
+                                           57KAC; 55MAR/SMI; 67FRA/MIS
+
+NYLON-6; liquid; (poly-E-caprolactam); repeating unit: C6Hl lNO.
+
+   specific heat: 433-553 K (320"-536"F)
+
+   Cp(Btu Ib-I  OF-')      0.5708 + 1.867 x    T
+   Cp(cal-q-l K-l)     = 0.485 + 3.36  x     T
+   Cp(J g   K-l)       = 2.029 + 1.406 x     T
+
+                                                          3JMAR/SMI
+
+
+
+
+
+                                      175

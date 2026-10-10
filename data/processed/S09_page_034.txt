@@ -1,0 +1,49 @@
+               4. Types of Biodiesel Production Processes
+
+Types of Biodiesel Production Processes
+
+Introduction
+
+This module provides an overview of the steps in the production of biodiesel from preparation of
+the feedstock to the recovery and purification of the fatty acid esters (biodiesel) and the co-
+product glycerol (also called glycerin). We will review several chemistries used for esterification
+and different approaches to product preparation and purification.
+
+The emphasis throughout the module will be the choices to be made in matching feedstock
+selection, capacity, and operating mode with the selection of the basic process chemistry and
+layout for a specific location. While no specific process technology is favored in this description,
+an effort has been made to describe the major approaches currently in use in the industry.
+
+Feedstocks Used in Biodiesel Production
+
+The primary raw materials used in the production of biodiesel are vegetable oils, animal fats, and
+recycled greases. These materials contain triglycerides, free fatty acids, and other contaminants
+depending on the degree of pretreatment they have received prior to delivery. Since biodiesel is a
+mono-alkyl fatty acid ester, the primary alcohol used to form the ester is the other major
+feedstock.
+
+Most processes for making biodiesel use a catalyst to initiate the esterification reaction. The
+catalyst is required because the alcohol is sparingly soluble in the oil phase. The catalyst
+promotes an increase in solubility to allow the reaction to proceed at a reasonable rate. The most
+common catalysts used are strong mineral bases such as sodium hydroxide and potassium
+hydroxide. After the reaction, the base catalyst must be neutralized with a strong mineral acid.
+
+Typical proportions for the chemicals used to make biodiesel are:
+
+       Reactants     •Fat or oil (e.g. 100 kg soybean oil)
+                    •Primary alcohol (e.g. 10 kg methanol)
+       Catalyst      •Mineral base (e.g. 0.3 kg sodium hydroxide)
+       Neutralizer   •Mineral acid (e.g. 0.25 kg sulfuric acid)
+
+Fats and Oils: Choice of the fats or oils to be used in producing biodiesel is both a process
+chemistry decision and an economic decision. With respect to process chemistry, the greatest
+difference among the choices of fats and oils is the amount of free fatty acids that are associated
+with the triglycerides. Other contaminants, such as color and odor bodies can reduce the value of
+the glycerin produced, and reduce the public acceptance of the fuel if the color and odor persist
+in the fuel.
+
+Most vegetable oils have a low percentage of associated free fatty acids. Crude vegetable oils
+contain some free fatty acids and phospholipids. The phospholipids are removed in a
+
+
+                                      30

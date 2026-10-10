@@ -1,0 +1,57 @@
+          Conclusions
+
+
+                 There is substantial and growing interest in thermal processing of biomass for
+                    biofuels, to make both energy and chemicals. Fast pyrolysis is a relatively new
+                 thermal conversion technology for biomass that has benefited from extensive
+                 development in the last 30 years. It offers the key advantage of directly producing a
+                     liquid fuel in high yield that can be stored and/or transported to the point of use.
+                  This provides considerably more flexibility and allows greater use to be made of
+                 economies of scale for power generation, and transport fuel synthesis.
+
+
+                 There are technical and economic challenges.Technical challenges lie in scaling up
+                  the endothermic pyrolysis reactor, particularly concerning heat transfer, and in
+                 improving the quality and consistency of the bio-oil. Economic challenges lie in
+                  reducing the capital cost, partly from scaling up and partly by developing and
+                 improving the technology. Scaling must consider that, with a few exceptions,
+                  bioenergy systems will always be small relative to fossil fuel options and must
+                   therefore be technically and economically competitive at much smaller scales of
+                  operation than the process and power generation industries are used to handling. It
+                       is this ability to improve economies of scale in applications for bio-oil that provides
+                one of the best justifications of fast pyrolysis, whereby bio-oil from decentralised fast
+                    pyrolysis plants can be readily transported to central process plants.
+
+
+          References
+
+
+
+
+                 1      European Commission, Communication from the Commission: Energy for the Future:
+                          Renewable Energy Sources-White Paper for a Community Strategy and Action Plan, COM
+                            (97) 599, Final of 26.11.97, EC, Brussels. (1997)
+
+                 2      IEA World Energy Outlook 2000, IEA, Paris. (2000)
+
+                 3       Bridgwater AV, Biomass fast pyrolysis, Thermal Science 8: (2)17-45 (2004)
+
+                 4       Bridgwater AV, Renewable fuels and chemicals by thermal processing of biomass, Chem Eng
+                            J. 91: 87-102 (2003)
+
+                 5       Bridgwater AV and Peacocke GVC, Fast pyrolysis processes for biomass, Renewable and
+                             Sustainable Energy Reviews, 4: 1-73 (1999)
+
+                 6       Bridgwater AV,The production of biofuels and renewable chemicals by fast pyrolysis of
+                             biomass, International Journal of Global Energy Issues, in press.
+
+                 7       Scott DS, Piskorz J and Radlein D, Liquid products from the continuous flash pyrolysis of
+                             biomass, Ind. Eng. Chem. Process Des. Dev. 24: 581-588 (1985)
+
+                 8       Scott DS and Piskorz J,The flash pyrolysis of aspen poplar wood, Can. J. Chem. Eng. 60:
+                         666-674 (1982)
+
+                 9       Scott DS, Legge RL, Piskorz J, Majerski P and Radlein D, Fast pyrolysis of biomass for
+                              recovery of speciality chemicals, Developments in Thermochemical Biomass Conversion
+                             Bridgwater AV and Boocock DGB (Eds.) Blackie Academic and Professional, London, UK,
+18                       523-535 (1997)

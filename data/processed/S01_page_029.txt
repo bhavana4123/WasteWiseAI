@@ -1,0 +1,47 @@
+                                                                  Agricultural Residues
+
+
+
+SAFFLOWER STRAW; solid; Material is considered biomass fuel and has proximate
+    analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    77.05, ash content = 4.65, and fixed carbon = 18.30.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    41.71, hydrogen = 1.54, oxygen = 46.58, nitrogen = 0.62, and residue (ash) = 5.55.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atrn 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 8273 Btu lb;'
+    q,(gross) = 4596 cal g-
+    q,(gross)  = 19230 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net)  = 7787 Btu lb'l
+   qv(net) = 4326 cal g-l
+   qv(net) = 18100 J g-'
+
+                                                                        85 JEN/EBE
+
+SUGARCANE BAGASSE; solid; Nine varieties of Indian sugarcane were used. Average
+   ash content, 3.66%; average moisture content, 4.5 1%.  Fibers obtained from shredding
+   cane in a laboratory shredder and washing in running water for 24 hours to remove all
+    soluble substances.  Fibers were dried at 100°-1050C (212"-221"F) to constant weight
+   and pulverized to pass through 60 mesh sieve.
+
+   gross heat of combustion: assume value refers to room temperature and is on a
+    moisture-free, ash-free basis.  Value is an average of gross heats of combustion of
+   nine different varieties bagasse. The uncertainty is given as two times the standard
+   deviation of the mean.
+    q,(gross) = 8188 f 78 Btu lb- 1
+    qv(gross) = 4549 f 43 cal g-l
+    qv(gross) = 19033 f 180 J g-l
+
+                                                            53BHA
+
+
+
+
+
+                                         25

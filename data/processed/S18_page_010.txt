@@ -1,0 +1,48 @@
+Acronyms
+
+AFEX      ammonia fiber explosion
+BFW          boiler feed water
+BLS         Bureau of Labor Statistics
+C5/C6         refers to mixtures of xylose (a C5 sugar) and glucose (a C6 sugar)
+CBP          consolidated bioprocessing
+CIP           clean-in-place
+COD         chemical oxygen demand
+CSL         corn steep liquor
+DAP        diammonium phosphate
+DCFROR     discounted cash flow rate of return
+DOE         U.S. Department of Energy
+FCI           fixed capital investment
+FGD          flue gas desulfurization
+HHV         higher heating value
+HMF        5-hydroxymethyl furfural
+INL          Idaho National Laboratory
+IRR           internal rate of return
+ISBL          inside battery limits (of the plant)
+LHV         lower heating value
+MESP      minimum ethanol selling price
+MM          million (e.g., MMBtu or $__MM)
+MSSP      minimum sugar selling price
+MYPP      OBP’s Multi-Year Program Plan
+NPV          net present value
+NREL        National Renewable Energy Laboratory
+OBP          Office of the Biomass Program
+OTR        oxygen transfer rate
+OUR        oxygen uptake rate
+PCS           pretreated corn stover
+PFD          process flow diagram
+SCFM        standard cubic feet per minute
+SHF          separate (or sequential) hydrolysis and fermentation
+SOT         annual State of Technology case
+SSCF        simultaneous saccharification and co-fermentation
+TCI            total capital investment
+TDC           total direct cost
+TE          technoeconomic
+VOC          volatile organic compound
+VVM       volume (of gas) per volume (of liquid) per minute
+WWT        wastewater treatment
+
+
+
+
+
+                                                 ix

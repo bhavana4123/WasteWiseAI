@@ -1,0 +1,65 @@
+TA 6M: Waste Heat Recovery
+
+
+  Considerations for the Iron and Steel Industry
+
+  The iron and steel industry was the fifth largest energy-consuming U.S. manufacturing sector in 2010 (following
+   chemicals; petroleum refining; forest products; and food and beverage), consuming 1,460 TBtu of the 19,200
+  TBtu of manufacturing total primary energy use.37,38 The R&D considerations most relevant to the iron and steel
+   industry include:
+
+             Secondary heat recovery devices that can supplement and enhance performance of the currently used
+          systems, and are capable of recovering part (less than 50%, in most cases) of the waste heat available.
+
+             Recovery of waste heat or increasing the value of available heat from blast furnace gas (removal of
+          moisture).
+
+             Recovery of waste heat in hot products such as hot slabs, rolled steel shapes downstream of the rolling
+            mill, heat treated steel processed in furnaces, and coke discharged from coke oven batteries. In some
+           cases, the technologies exist but are too difficult to implement due to space requirements in existing
+          operations, cost, or lack of use of the low-grade heat produced after heat recovery. Further examination
+          in partnership with industry would improve understanding of these opportunities.
+
+             Recovery and use of waste heat from highly contaminated hot gases such as hot coke oven gas from the
+          ovens. No technology exists or is commercially used in similar cases.
+
+             Energy recovery through cleaning and recycling steam heat from degasifying systems used for liquid
+            steel refining.
+
+             Recovery or utilization of convective and radiant heat from furnace walls or openings, or from hot
+          products such as hot steel shapes after rolling.
+
+             Use of low-grade heat in the form of cooling water used in casters or in rolling operations.
+
+  Considerations for Steel Mini-mills (EAF Furnaces and Rolling Mill)
+
+ WHR related R&D considerations specific to EAF steel plants include:
+
+             Heat recovery from EAF exhaust gases. Options could include hot gas clean-up, controlled combustion
+           of combustibles to manage reaction temperatures while avoiding melting of steel oxides and other
+           solid contaminants, and heat recovery from highly contaminated (e.g., particulate and condensable oil
+          vapors) gases.
+
+             Heat recovery from surfaces of hot ladles. The heat loss from hot ladles takes place through radiation
+        and convective heat transfer to the surrounding environment.
+
+             Heat recovery from cooling water used in the continuous casting process and reheat furnace cooling
+             (e.g., walking beam furnaces or thin-slab reheating roller hearth furnaces).
+
+             Secondary heat recovery from reheat furnaces downstream of conventional heat recuperators to recover
+          additional heat. One option is preheating the product entering the furnace. Issues to be addressed
+          include the location of the heat source and heat use, available space, and the infrastructure or logistics
+           of transporting heat to the desired location.
+
+             Heat recovery from hot cooled products. This could be medium- or low-grade heat.
+
+  Considerations for the Aluminum Industry
+
+  The aluminum industry was the tenth largest energy-consuming U.S. manufacturing sector in 2010 (following
+   chemicals; petroleum refining; forest products; food and beverage; iron and steel; plastics; fabricated metals;
+   transportation equipment; and computer, electronics, and electrical equipment), consuming 456 TBtu of
+   the 19,200 TBtu of manufacturing total primary energy use.39,40 To enable the aluminum industry to more
+   effectively adopt WHR technologies, the following R&D issues need to be addressed:
+
+
+ 31  Quadrennial Technology Review 2015

@@ -1,0 +1,54 @@
+                                                         Optical pyrometers can be used from about 300'C (in­
+                                                                 frared) or 700'C (visible) to 4000'C. They require a
+                                                     viewport and are generally hand-operated. They are
+                              P2                             useful for spot-checking surface temperatures.
+                                             Of these methods, thermocouples are best suited to
+                                                 most gasifier measurements. Thermocouples are avail­
+                                                         able with either analog or digital readouts, and the sig­
+                                                          - 230            nal can be  recorded  electronically. Analog                                      a1    ::: 19°
+                                                         - 15°             thermocouple meters may cost as little as $50, but they                                   02   ::: 5°
+                                                          require a fixed lead resistance. They are used widely in
+                                                          pottery and foundry trades. Digital pyrometer readouts
+                                                                  start at $200. They read to greater precision than
+Fig.  10-6. Herschel-type Venturi flowmeter  (Source: Perry 1973,     analog, and due to their high input impedance, lead
+Fig. 5-13. © 1973. Used with permission of McGraw HIli Book Co.)       length is not critical.
+
+
+
+10.2.3 Solid Flow Measurement                      1 0.3 Controls
+Most World War II gasifiers were batch-fed, so it was    For commercial application, gasifiers must be safe, de­
+very easy to weigh the biomass fuel as it was fed in     pendable, and convenient. Automatic and unattended
+order to record biomass consumption. However, this     operation, an eventual necessity, will require suitable
+technique results in only a long time average     control and warning sensors and mechanisms.
+measurement of the actual feed rate.
+                                                         10.3.1  Fuel-Level ControlsMany gasifier systems will be fed automatically, using
+level controls to determine the feed rate, as shown in      If a gasifier continues to operate after the biomass has
+Fig. 9-1. If the change in weight between levels is    been consumed, there is a danger of damaging the high­
+calibrated, then recording the number of feed cycles al­     temperature region of the gasifier because of the ex­
+lows one to estimate biomass consumption. A more ac­     traordinarily high temperatures generated during char
+curate technique involves a weighing means that is     gasification and combustion. Therefore, level controls
+inserted along the feed train to measure the amount of    should be installed in the various fuel hoppers and the
+feed delivered to the gasifier.                                 gasifier itself to warn when the biomass level is getting
+                                                          low.Alternatively, the gasifier itself may be weighed to
+record both the entry and consumption rates of fuel.   A number of level indicators are available on the
+Flexible connections on the gasifier are needed, so that    market for signaling the level of solids and liquids in
+the gasifier can be weighed free from the variable forces     containers. These operate on the basis of light or sound
+of the connections.                                           signals, bin wall pressure, resistance to vibration or
+                                                           rotation, and absorption of radiation. Suitability
+10.2.4 Temperature Measurements                depends on vulnerability to failure from clogging or tar­
+                                                          ring the device. After installation, the control shpuldLow temperatures (up to 300'C, 572'F) can be visually
+                                                be repeatedly tested to ensure that it is functioning,indicated with mercury thermometers or bimetallic­
+                                                          since we have seen these devices clog or not functionstem dial thermometers. Alternatively, thermistor sen­
+                                                              for many reasons not anticipated by either the user orsors can be used in this temperature range to provide
+                                                        manufacturer.an electrical signal that can be used for automatic
+recordkeeping and/or control purposes.
+                                                      10.3.2 Pressure Controls
+Chromel-alumel (type K) thermocouples can be used                                                  Simple electromechanical switches that sense absolutecontinuously to lOOO'C (l800'F) and intermittently to                                                        or differential pressure are available. These switchesl200'C, and they provide an almost linear electrical                                                      provide on/off switch closure signal. An especially at­signal of 40 /lVrc. Sheathed thermocouples should al­                                                                 tractive, inexpensive, low pressure differential switchways be used in connection with producer gas applica­                                                                       is the Dwyer Minitactor®.tions, because thermocouple alloys will react with hot
+reducing gases, H2 and CO, changing the output volt­     Special pressure or differential pressure transducers
+age calibration. Thermocouples are used widely in in­     are needed to produce analog electrical signals for an
+dustry for temperature measurements and are available     analog programmable controller, a control console, or
+from a number of sources.                                 data acquisition.
+
+
+
+                                                                               Instrumentation and Contror     1 03

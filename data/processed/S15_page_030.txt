@@ -1,0 +1,62 @@
+TA 6M: Waste Heat Recovery
+
+
+  Opportunities in Advanced High Efficiency Power Generation Systems
+
+  R&D opportunities in advanced high efficiency power generation systems include:
+
+            High turndown systems for use in applications where the waste heat stream heat content (in terms of
+          Btu/hr) changes significantly (due to mass flow or temperature fluctuations).
+
+             Systems with non-water cooled condensers to avoid the need for water and cooling towers.
+
+  Risk, Uncertainty and Other Considerations
+
+ WHR has the potential to save energy costs, but industry may be reluctant to adopt WHR technologies if there
+   is a perceived or real potential for the technologies to negatively impact production. In order to reduce risk,
+  a comprehensive evaluation of WHR technologies is needed on a case-by-case basis; however, some general
+   guidelines and considerations include:
+
+               Identify waste heat sources and reduce generation of waste heat. This is the most cost effective and
+          quickest way to reduce energy use and improve overall thermal efficiency of a heating system.
+
+               Select appropriate methods of heat recycling where the waste heat is used within the heating system
+              itself. Waste heat recycling is the use of waste heat from a process heating system for its use within the
+        same system. This would eliminate issues related to matching of supply and demand of heat. The most
+        commonly used method of waste heat recycling for fuel fired systems is to preheat combustion air
+         where the flue gas temperature is relatively high – usually higher than 1000°F. However, preheating of
+        makeup air or dilution air should be considered at all temperatures for processes using high volumes of
+              air, as in the case of drying ovens. Possibility of load or charge preheating should be considered for new
+         equipment and where available space and system configuration allows its use. A few examples of charge
+          preheating include feed water heating for boilers, and drying and preheating of materials in metals and
+         non-metal industries.
+
+                  If heat recycling is not possible then consider WHR within the plant. Common examples are: use of
+          hot gases in lower temperature processes, to preheat water or cleaning liquids used in the plant, use of
+          heat for space heating in plants located in colder climates, steam generation where waste heat streams
+          contain large (>10 MM Btu/hr) amounts of recoverable heat.
+
+             Consider use of electric power generation using steam turbine-generator systems or other systems such
+           as organic Rankine Cycle (ORC) systems when it is not possible to use heat within the plant or there is a
+          strong case based on economics to use on-site power generation.
+
+              Evaluate waste heat characteristics such as temperature, flow rates, waste gas, presence of contaminants
+            (solids, liquid vapors, and other condensable materials), and variations in in these characteristics.
+
+              Evaluate the overall economics of the waste heat recycling or recovery system.
+
+  The uptake of WHR technologies is highly dependent upon the willingness of industrial subsectors to invest
+   in technologies that can provide a return on investment (via energy efficiency) without risk to operational
+   efficiency. During times of low energy costs, there is less incentive for companies to invest in energy efficiency
+   technologies, and there are different drivers and barriers based on industry subsector.
+
+  Considerations by Major Industry
+
+  The following considerations have been identified where R&D could impact WHR in the specific major
+   industries analyzed in this TA.
+
+
+
+
+
+29  Quadrennial Technology Review 2015

@@ -1,0 +1,58 @@
+                                                 Woody and Tree Materials
+
+
+FIR, DOUGLAS; STEMS; Pseudotsuga menzeisii; solid; Stem samples were branches
+   < 0.25 in. diameter with foliage removed and freeze-dried  t o < 10% moisture
+   content. Composition is ash = 2.57% and char yield = 27.9%.  Char was obtained from
+   heating the sample t o 500°C (932°F)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+
+                                                   13640                                                                                                                  I                                                           Btu                  Btu    q,(gross)                               lb-I                     qv(gross)            =            9630                                                                                              P-'    q,(gross)                    cal                                                                                 g-'                                                        q,(gross)   7580                                                              cal            = 5350                        g-l
+    q,(gross)  = 22380 J g-l                      qv(gross)  31710 J g-l
+
+                                                                   82SUS
+
+FIR, GRAND; Abies grandis; solid; Wood sample was air-dried at room temperature.
+   Composition is ash = 0.49% and char yield = 20.7%.  Char was obtained from heating
+   the sample t o 500°C (932°F)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer t o room
+   temperature.
+
+    fuel                                      char (from 500°C heating)
+                                                        q,(gross)  = 13770 Btu lb- 1    q,(gross) = 8710 Btu lb-I
+    q,(gross)  = 4840 cal g-l                         q,(gross)  = 7650 cal g-'
+    q,(gross) = 20250 J g-l                         q,(gross)  = 32000 J g-l
+
+                                                                   82SUS
+
+FIR, WHITE; solid; Material is considered biomass fuel and has proximate analysis values
+    (in percent by weight dry basis) for volatile concentration (VCM) = 83.17, ash
+   content = 0.25, and fixed carbon = 16.58. Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 49.00,
+   hydrogen = 5.98, oxygen = 44.75, nitrogen = 0.05, sulfur = 0.01, chlorine = 0.01, and
+   residue (ash) = 0.02.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 0 2 , and corrections applied for the formation of nitric and
+   sulfuric acids.
+
+    q,(gross)  = 8583 Btu lbll
+    q,(gross)  = 4768 cal g-
+    qv(gross) = 19950 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net)  = 8062 Btu  lb;'
+    q,(net)  = 4479 cal g;
+    q,(net)  = 18740 J g-
+
+                                                                       85 JEN/EBE
+
+
+
+                                       255

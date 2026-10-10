@@ -1,0 +1,38 @@
+                           W d y and Tree Materials
+
+
+WILLOW, BLACK; BARK; SaZix nigra; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content   6.0%; moisture content = 6.7%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+    q,(gross)  = 7168 Btu lbl 1
+   qv(gross) = 3982 cal g-
+    q,(gross)  = 16661 J g-l
+
+                                                     JXHA/MIT
+
+WILLOW, SANDBAR; Salix exigua; solid; Each tree was separated into small parts (being
+    less than 0.64 cm (1/4 in.) in diameter and roughly equivalent to tops and branches)
+   and large parts with the weighted proportion of small (25%) and large (75%) material
+    in the whole tree.  Overall mean specific gravity for whole tree = 0.38 (oven dry
+   weight and green volume).  Bark of whole tree = 25%.
+
+   gross heat of combustion: oven-dried, assume values refer to room temperatule.
+
+   small parts                             whole tree
+                                                         q,(gross)  = 7943 Btu lb- 1    q,(gross)  = 8017 Btu lb-l
+   qv(gross) = 4454 cal g-l                      qv(gross) = 4413 cal g-l   qv(gross) = 18636 J g- 1                                                 qv(gross) = 18464 J g-'
+
+   large parts
+    q,(gross)  = 7922 Btu lb- 1
+    q,(gross)  = 4401 cal g-l
+    q,(gross)  = 18414 f g-'
+
+                                                                        8 1GEY
+
+
+
+
+
+                                     30 1

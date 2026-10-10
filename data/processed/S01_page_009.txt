@@ -1,0 +1,46 @@
+valid.  The value thus obtained is for one mole of gaseous species; the average molecular
+weight must be obtained to calculate the specific heat of Vaporization: Lv = AHvap/M.
+
+internal Energy.  When heat, q, is added or removed, and work, w, is done on or by the
+system, its internal energy, U, is modified according to the equation: U  q + w.
+
+Net Calorific Value. See Net Heat of Combustion.
+
+Net Heat of Combustion. The heat produced by combustion of one unit of substance at
+atmospheric pressure under conditions such that all water in the products remains in the
+form of vapor.  The net heat of combustion is calculated from the gross heat of combus-
+tion at 2OoC (68°F)by subtracting 572 cal g-l (1030 Btu lb-l) of water derived from one
+unit mass of sample, including both the water originally present as moisture and that
+formed by combustion.   This subtracted amount  is not equal to the latent heat of
+vaporization of water (586 cal g-'  at 20°C) because the calculation also reduces the data
+from the gross value at constant volume to the net value at constant pressure.  Theappropriate factor for this reduction is 572 cal g- 1.
+
+Net Heat of Reaction.  The specific isothermal net heat of reaction at the specified
+temperature and at constant volume.  qv(net) is equal to -AU/M, where AU is the molar
+internal energy of the process, and M is the molecular weight.  This value differs from
+q,(gross)  in that water formed is in the gaseous state. The specific isothermal net heat
+of reaction at the specified temperature and at constant pressure, q (net),  is equal to                                                              P
+-AH/M, where AH is the molar change in enthalpy of the process, and M  is the molecular
+weight.  Where possible, the values of q (net) have been converted to the standard state,                                  P
+(-AHO/M) [74ASM].   Most  of the data, though, are of such low precision, because of
+sample variability or measurement method, that the correction is impractical.
+
+Proximate Analysis.  The determination by prescribed methods of  moisture,  volatile
+matter, fixed carbon (by difference), and ash.  Unless otherwise specified, the term
+proximate analysis does not include determinations of chemical elements or any determi-
+nations other than those named.
+
+Residual Moisture.  The moisture content remaining in a sample after it has been air-
+dried and milled down, if necessary, to an analysis sample.
+
+ Specific Heat, C   The change in enthalpy with temperature at constant pressure (1 atm
+                   P' unless otherwise specified) for one unit mass of substance.     = [a(H/M)/aTlp.  At con-                                                        cP
+ stant volume Cv = [a(U/M)/aT],.    Numerical values for C  are given in  J g-l K-l,                                                      P
+ cal g-' K-I, and Btu lb-l   OF-'.
+
+ Sublimation Pressure.  The saturated equilibrium pressure over the solid substance at a
+ given temperature.  Values are expressed in pascals (Pa = Nam-')  and in Torr (Torr =
+ 133.3224 Pa).   The  conventional  atmosphere  is taken  as  101325 Pa.   One  bar  is
+ 100,000 Pa.
+
+                                            4

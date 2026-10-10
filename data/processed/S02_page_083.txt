@@ -1,0 +1,65 @@
+The details, including the mathematics, of separation     8.6.2 Cyclone Separators
+can be found in Strauss (1975). However, it is interest­
+                                                     Cyclones are simple and inexpensive dust anG dropleting to note that the relation between any separator's
+                                                             separators; they are widely used on gasifiers and will50% capture cut-particle diameter and the capture rate
+                                                be discussed in extra detail in this section.for other sized particles is:
+                                                Hot gas cyclone separators are well suited to remove     dp50 = (1/2) dp80 = (1/3) dp90 = (1/4) dp95    (8-4)      solid particles larger than 10 J.lID as a prefilter for the
+All collectors using the same capture mechanism will     gas cooler and fine particle removal, as shown in
+be characterized by the same slope  (Fig. 8-2) and      Fig. 8-3, for a vehicle gasifier of the 1939-1945 era.
+standard deviation (Table 8-1).
+                                                    Cyclone separators are also used widely in industrial
+                                                         processes. The principles are well-developed, and
+8.6 Dry Collectors                                                      designs are easily scaled to the necessary size.
+                                                         High-efficiency cyclone separators can be fabricated
+8.6.1 Gravity Settling Chambers
+                                                         readily by a sheet-metal or welding shop. Cyclone
+As long as unlimited space and materials are provided,     design parameters are presented in this section and aǐ
+a gravity settling chamber theoretically can achieve any     greater length in Perry (1973), Calvert (1972), and
+level of particle separation down to the Stokes' limit of     Strauss (1975). Unfortunately, the small cyclones
+                                                 required for small gasifiers are not availableabout 1 J.lID. In fact, many of the earliest gasworks used
+gigantic settling chambers. However, even though it is     commercially, so they must be custom designed and
+effective, this method tends to be a bit cumbersome.        fabricated.
+
+
+
+
+
+                                                                                            Engine
+
+
+
+
+
+                                                Insulation
+
+
+
+
+                                                           Gas Cooler
+
+
+              Air                                                                                               Blower
+
+
+
+
+
+                                                                                                                                      Filter
+
+
+
+          Shaker linkage
+
+
+                                                                       Centrifugal Filter
+
+
+
+
+
+Fig. 8-3. Typical vehicle gasifier system showing cyclone and gas cooler  (Source: Adapted from Skov 1974)
+
+
+
+
+                                                        Gas Cleaning and Conditioning    75

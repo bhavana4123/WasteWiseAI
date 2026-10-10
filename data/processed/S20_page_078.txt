@@ -1,0 +1,51 @@
+                                                                                415
+
+  A300, A400                                                                                                Steam to A400
+  Process Heat
+
+                                                                         Steam Turbine
+                                                                                     E-601
+                                                                 645
+                  618       618633      Steam System
+Boiler Feedwater                        A600
+   Makeup
+
+
+                    426                                 648             647
+
+A400 Condensate
+                                                                Condenser
+                                                                HX-600
+
+                                      600
+
+
+
+
+
+                                        Blowdown                                  715
+
+                                                                                                                                    Cooling Water to
+                                                         Cooling Water                                             A310,350
+                                   730
+                                                          Service – A700             709709
+              A310, 350
+                                                                                                               Losses              Service Return
+                                        760
+
+           A600 Service
+                                                                                    713
+                Return
+                                                                                                              Blowdown
+                                                710
+
+              Cooling Tower
+             Makeup
+
+  A600 STEAM SYSTEM
+ A700 COOLING WATER
+      Upgrading Plant
+
+
+
+                                                         A.18

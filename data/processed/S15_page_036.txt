@@ -1,0 +1,62 @@
+TA 6M: Waste Heat Recovery
+
+
+     20 TMS, Linking Transformational Materials and Processing for an Energy-Efficient and Low-Carbon Economy—Innovation Impact Report,
+      2011, The Minerals, Metals, & Materials Society: Warrendale, Pennsylvania, USA. Available from: http://energy.tms.org/docs/pdfs/
+      InnovationImpactReport2011.pdf
+     21  P. A. Pilavachi, Energy Efficiency in Process Technology, Elsevier Applied Science, 1993.
+     22 National Energy Technology Laboratory, “Particulate Removal.” Web page. Available at: http://www.netl.doe.gov/research/coal/energy-systems/
+       gasification/gasifipedia/particulate-removal.
+     23 U.S. DOE Office of Energy Efficiency and Renewable Energy, “Advanced Membrane Separation Technologies for Energy Recovery.” DOE
+      Fact Sheet DOE/EE-0507, May 2011. Available at: https://www1.eere.energy.gov/manufacturing/industries_technologies/imf/pdfs/advanced_
+      membrane_separation.pdf.
+     24 Tom McGowan, “VOC and Odor Control Options for Industry and Manufacturing,” presented at the Air & Waste Management Association
+      Conference, Atlanta, GA, 2013.
+     25 U.S. DOE Office of Energy Efficiency and Renewable Energy, “Continuous Processing of High Thermal Conductivity Polyethylene Fibers and
+       Sheets: A Lightweight Material for Heat Exchange Applications.” DOE Fact Sheet DOE/EE-0869. Available at: http://energy.gov/sites/prod/
+      files/2015/03/f20/Polyethylene%2520Fibers%2520and%2520Sheets.pdf
+     26 Van Long Le, Michel Feidt, Abdelhamid Kheiri, and Sandrine Pelloux-Prayer, “Performance optimization of low-temperature power generation
+     by supercritical ORCs (organic Rankine cycles) using low GWP (global warming potential) working fluids.” Energy 67 (2014) 513-526.
+     27  P.E. Hufford, “Direct Refrigeration from heat recovery using 2-stage Absorption Chillers,” Proceedings from the Fifth Industrial Energy
+      Technology Conference Volume II, Houston, TX, April 17-20, 1983.
+     28  Balaji, K., Ramkumar, R., “Study of Waste Heat Recovery from Steam Turbine Xhaust for Vapour Absorption System in Sugar Industry.”
+      Procedia Engineering 38 (2012) 1352-1356.
+     29 Examples include ash from coal or solid waste fired boilers, slag from steel melting operations, dross from aluminum melters, bottom waste
+     from reactors, and sludge
+     30 U.S. DOE Office of Energy Efficiency & Renewable Energy, Chemicals Manufacturing Energy and Carbon Footprints (2010 MECS), available
+        at: http://energy.gov/sites/prod/files/2014/02/f7/2014_chemicals_energy_carbon_footprint.pdf. This data is also accessible via the U.S. DOE
+     Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available at: http://www.energy.gov/eere/amo/dynamic-
+      manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     31 U.S. DOE Office of Energy Efficiency & Renewable Energy, Petroleum Refining Manufacturing Energy and Carbon Footprints (2010 MECS),
+       available at: http://energy.gov/sites/prod/files/2014/02/f7/2014_petroleum_refining_energy_carbon_footprint.pdf. This data is also accessible
+       via the U.S. DOE Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available at: http://www.energy.gov/eere/amo/
+      dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     32 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+     33 U.S. DOE Office of Energy Efficiency & Renewable Energy, Forest Products Manufacturing Energy and Carbon Footprints (2010 MECS),
+       available at: http://energy.gov/sites/prod/files/2014/02/f7/2014_forest_products_energy_carbon_footprint.pdf. This data is also accessible via
+      the U.S. DOE Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available from: http://www.energy.gov/eere/amo/
+      dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     34 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+     35 U.S. DOE Office of Energy Efficiency & Renewable Energy, Food and Beverage Manufacturing Energy and Carbon Footprints (2010 MECS),
+       available at: http://energy.gov/sites/prod/files/2014/02/f7/2014_food_beverage_energy_carbon_footprint.pdf. This data is also accessible via
+      the U.S. DOE Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available from: http://www.energy.gov/eere/amo/
+      dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     36 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+     37 U.S. DOE Office of Energy Efficiency & Renewable Energy, Iron and Steel Manufacturing Energy and Carbon Footprints (2010 MECS), available
+        at: http://energy.gov/sites/prod/files/2014/02/f7/2014_iron_steel_energy_carbon_footprint.pdf. This data is also accessible via the U.S. DOE
+     Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available from: http://www.energy.gov/eere/amo/dynamic-
+      manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     38 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+     39 U.S. DOE Office of Energy Efficiency & Renewable Energy, Alumina and Aluminum Manufacturing Energy and Carbon Footprints (2010
+     MECS), available at: http://energy.gov/sites/prod/files/2014/02/f7/2014_alumina_%20aluminum_energy_carbon_footprint.pdf. This data is also
+       accessible via the U.S. DOE Advanced Manufacturing Office Dynamic Manufacturing Energy Sankey Tool, available at: http://www.energy.gov/
+      eere/amo/dynamic-manufacturing-energy-sankey-tool-2010-units-trillion-btu.
+     40 U.S. DOE Office of Energy Efficiency & Renewable Energy, Manufacturing Energy and Carbon Footprints (2010 MECS), available at: http://
+      energy.gov/eere/amo/manufacturing-energy-and-carbon-footprints-2010-mecs.
+
+
+ 35  Quadrennial Technology Review 2015

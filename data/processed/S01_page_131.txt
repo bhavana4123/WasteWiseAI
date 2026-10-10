@@ -1,0 +1,51 @@
+Plant Materials (Non-Woody)
+
+
+BIG SAGEBRUSH, FOLIAGE; Artemisia tridentata; solid; freeze-dried to < 10% moisture
+    content. Composition is ash = 7.10% and chat yield = 25.7%.  Char was obtained from
+    heating the sample to 500°C (932°F)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+
+                 Btu            =    q,(gross)             9440                                                     =                                                           Btu                                                    14350                             Ib-I                      q,(gross)                                                                        1P-'                             g-'                    cal    q,(gross)             = 5240                                                                            g-                                                                cal                                                      q,(gross)                                                     = 7970
+    q,(gross) = 21940 J g- 1                                                  q,(gross) = 33350 J g-'
+
+                                                                  82SUS
+
+BIG SAGEBRUSH, STEMS;Artemisia tridentata; solid; Stem samples were branches less
+   than 0.25 inch diameter with foliage removed and freeze dried to < 10% moisture
+    content.  Composition is ash = 2.83% and char yield = 27.1%.  Char was obtained from
+   heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                                                              1    q,(gross)  = 8590 Btu lb-I                      q,(gross)   14420 Btu lb-
+    qv(gross) = 4770 cal g-'                        q,(gross) = 8010 cal g-l
+                                                      q,(gross)  = 33520 J g- 1    q,(gross)  = 19960 J g-'
+
+                                                                  82SUS
+
+BRACKEN FERN, FRONDS;Pteridium aquilinurn; solid; Cured samples were air-dried at
+   room temperature. Composition is ash  9.24% and char yield = 38.7%. Char was
+   obtained from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                     1    q,(gross)   8620 Btu lb-                        q,(gross)  = 13190 Btu 1P-l
+    qv(gtoss) = 4790 cal g-l                        q,(gtoss)  = 7330 cal g-
+   qv(gross) = 20030 J g- 1                       q,(gross) = 30650 J g- I
+
+                                                                 82SUS
+
+
+
+
+
+                                        144

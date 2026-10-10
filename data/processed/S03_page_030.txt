@@ -1,0 +1,46 @@
+10-day MCRT
+During stable operational periods, the gas production averaged 5.4 L/ hr (standard deviation 1.5
+L/hr) for the thermophilic digester and 4.5 L/hr (standard deviation 0.8 L/hr) for the mesophilic
+digester. Average gas production increased during the 10-day MCRT operational period,
+compared to the 15-day MCRT period, resulting from an increase in organic loading to the
+digesters.
+
+5-day MCRT
+Gas production first increased sharply and then dropped off sharply (as presented in Figure 3.4)
+when both thermophilic and mesophilic digesters were operated at a 5-day MCRT; although gas
+production was typically higher in the thermophilic digester compared to the mesophilic digester.
+The lower gas production was likely due to the methanogens growth rate being too slow for the
+5-day MCRT, resulting in a washout of methanogens. The initial jump in gas production was
+likely due to the higher organic loading in the presence of a sufficient methanogen population,
+which later washed out.
+
+3.5    Total Alkalinity and Total Volatile Acids
+
+Total alkalinity (TALK) represents the acid neutralizing capacity in the digester, and is important
+because it indicates the ability of the digester to buffer an increase in acid. If alkalinity is
+increasing, then the methanogen population is growing. If the alkalinity is being reduced, then
+the acetogens are producing volatile acids at a faster rate than the methanogens ability to convert
+the volatile acids into methane, leaving acids available to consume alkalinity.
+
+Total volatile acids (TVA) are short-chain organic acids, or volatile fatty acids, measured as
+acetic acid in mg/L. Complex organic compounds such as carbohydrates, longer-chain fats, and
+proteins are broken down during acetogenesis to produce TVAs. TVA concentrations are used
+to indicate the balance between acetogens and methanogens. If TVA concentrations continue to
+increase, it indicates that the methanogens are not able to grow as quickly as the acetogens.
+
+Combining TVA and TALK in a ratio is a useful tool to monitor digester stability, since the ratio
+can indicate if the acids are out of balance with the alkalinity. For municipal wastewater solids
+digested at mesophilic temperatures, a conservative TVA/TALK ratio of 0.1 or less has been
+used as a safe operating zone. TVA/TALK ratio trends are monitored regularly to assess digester
+stability.
+
+TALK and TVA were sampled twice weekly during the study to monitor digester stability.
+Figure 3.5 presents the TALK trend. Figure 3.6 presents the TVA trend. Figure 3.7 presents the
+TVA/TALK ratio trend in the digesters.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               15
+Funding Opportunity No. EPA-R9-WST-06-004

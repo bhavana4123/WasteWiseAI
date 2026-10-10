@@ -1,0 +1,55 @@
+        Testing of different blends to establish overall yields and impact on quality is needed. Dry waste
+      may also be beneficial as it is cheap to transport relative to wet materials and could reduce
+       dewatering energy.
+
+   –   Investigation of the feasibility of transporting sludge to enable larger scale HTL plants.
+
+   –   Investigation of modular HTL systems for smaller scale applications.
+
+  Improved performance of biocrude upgrading through (Jones et al. 2014):
+
+   –  Improved catalyst performance. Hydrotreating catalyst maintenance and stability are unknown,
+        as are regeneration protocols and lifetimes. Longer-term testing with biocrude and detailed
+        characterization of catalyst performance and deactivation modes are needed. Pretreatment steps,
+       such as desalting, need to be demonstrated.
+
+   –  Development of hydrodeoxygenation and hydrodenitrogenation reaction kinetics to assist reactor
+        designs and better inform the choice of co-processing in a petroleum refinery. A possible method
+        to be more generally applicable might be to establish rate laws for sludge components such as,
+         lipids, carbohydrates and proteins.
+
+   –  Both standard and comprehensive characterization of the major distillation fractions, gasoline
+        range, diesel range, and gas oil range for the HTL oil and the hydrotreated oil. The jet fuel range
+       should also be characterized, and an understanding of how to produce a jet cut without degrading
+       naphtha and diesel properties would also be useful. Testing for key final fuel qualities, such as
+         flash, octane, cetane, and cold flow properties is desirable.
+
+   –  Demonstration of hydrocracking yields of the gas oil fraction. Combined hydrotreating-
+       hydrocracking is a possible way to reduce cost and could be achieved through catalyst research
+       and development.
+
+   –   Investigation of compatibility of biocrude with petroleum refinery insertion points and other
+        coprocessing strategies.
+
+                      6.0  References
+
+
+Amuda OS, A Deng, AO Alade, and Y Hung. 2008. “Conversion of Sewage Sludge to Biosolids”
+Chapter 2 in Biosolids Engineering and Management, Vol. 7. Wang, Shammas, and Hung (eds.).
+Humana Press, New York.
+
+ANL. 2016. Greenhouse Gases, Regulated Emissions, and Energy use in Transportation (GREET)
+Model. Argonne National Laboratory, Argonne, IL.                                     .
+
+Appell HR, I Wender, and RD Miller. 1970. Conversion of Urban Refuse to Oil. Technical Progress
+Report #25, Bureau of Mines Solid Waste Program, Pittsburgh, PA.
+
+Appell HR, YC Fu, S Friedman, PM Yavorsky, and I Wender. 1971. Converting Organic Wastes to Oil:
+A Replenishable Energy Source. Bureau of Mines Report of Investigations 7560, Pittsburgh Energy
+Center, Pittsburgh, PA.ASCE. 2000. Conveyance of Residuals from Water and Wastewater Treatment.
+ASCE Manuals and Reports on Engineering Practice No. 98, American Society of Civil Engineers,
+Reston, VA.
+
+
+
+                                         38

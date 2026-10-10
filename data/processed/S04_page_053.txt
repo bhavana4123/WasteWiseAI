@@ -1,0 +1,21 @@
+The ARES program has been active for more than 10 years. The program has produced and
+commercialized Phase I and Phase II engines with current work on a Phase III engine to reach the overall
+design efficiency goals of 0.1 g/bhp NOx emissions, 50 percent BTE efficiency, 80+ percent CHP
+efficiency, maintenance costs of $0.01/kWh while maintaining cost competitiveness.34
+
+For a technology originally developed in the 19th century, reciprocating internal combustion engines
+have continually improved and adapted to the needs of the market more than 100 years later. Ongoing
+improvements in efficiency, cost, and emissions reduction will ensure that reciprocating engines will
+continue to remain viable and competitive with newer technologies such as fuel cells and microturbines
+in the distributed generation market. Installations of multiple large engines have proven to be
+competitive in power generation applications of more than 200 MW.
+
+
+
+
+
+34 Industrial Distributed Energy R&D Portfolio Report: Summary, U.S. Department of Energy Advanced Manufacturing Office,
+June 2011.
+
+
+Catalog of CHP Technologies                         2–27                         Reciprocating IC Engines

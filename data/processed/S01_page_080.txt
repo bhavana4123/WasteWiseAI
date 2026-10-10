@@ -1,0 +1,37 @@
+F d s
+
+
+FAT, RYE; Secale cereale; solid; ether extract.
+
+    gross heat of combustion: assume values refer to room temperature.
+
+                      1    q,(gross)  =             16240                   Btu                                         P-'                           g-    qv(gross)             9020                    cal
+    qv(gross) = 37740 J g-'
+
+                                                      55MER/WAT
+
+FAT, WHEAT; Triticum aestivum; solid; ether extract.
+
+   gross heat of combustion: assume values refer to room temperature.
+   qv(gross) = 16330 Btu lb- 1
+    q,(gross)  = 9070 cal g-l
+    q,(gross)  = 37950 J g-l
+
+                                                      55MER/WAT
+
+FLOUR, SOY BEAN; Soia hispida.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   4.17% moisture, 6.5% fat                 6.5% moisture, 3.3% fat
+   qv(gross) = 6689 Btu lbi 1                      q,(gross)  = 6264 Btu Ib- 1
+                                                qv(gross)  3480 cal g; 1    q,(gross)  = 3716 cal g-
+    q,(gross)  = 15548 J g-l                        q,(gross)   14560 J g-
+
+                                                      55MER/WAT
+
+
+
+
+
+                                         86

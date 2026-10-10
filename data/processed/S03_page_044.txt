@@ -1,0 +1,45 @@
+3.10   Specific Methane Gas Production Rate
+
+The specific methane gas production rate is defined as the digester methane gas production rate
+normalized by the food waste solids (as TS) applied. The specific methane gas production rate
+of food waste was calculated and compared to the specific methane gas production rate of
+municipal wastewater solids using the following equation:
+
+         CH4 production rate (ft3/lb)=         CH4% X Gas Production ( ft3/day)
+                                  TS% X Feed (gal/day) X 8.34 lbs per gal
+
+Figure 3.14 presents the specific methane gas production rate data during operation at the 15-,
+10-, and 5-day MCRT operational periods. The chart is shaded to denote stable and unstable
+operational periods so that a representative comparison can be made with municipal wastewater
+solids.
+
+15-day MCRT
+During stable operation periods at 15-day MCRT operation, both the mesophilic and
+thermophilic digesters had specific methane gas production rates that exceeded the average of
+5 ft3 CH4/lb for municipal wastewater solids at a 15-day MCRT. Both digesters appeared to
+have comparable methane production rates, with peak values near 8.5 ft3 CH4/ lb food waste.
+When digesters were not stable, the specific gas production rates dropped below the average for
+municipal wastewater solids. This data shows that food waste has a significantly higher specific
+methane gas production rate than municipal wastewater solids, which results in a higher energy
+value when both digesters are stable.
+
+10-day MCRT
+During the 10-day MCRT operational period, the specific methane gas production rate dropped
+off, which most likely resulted from a reduced methanogen population. This was observed
+earlier in Section 3.10, when the methane content dropped off at the 10-day MCRT. Even
+though the specific methane gas production rate is not optimized, the range is near that of
+municipal wastewater solids specific methane production during a 15-day MCRT. The specific
+methane gas production rates from both mesophilic and thermophilic digesters appear to be
+similar.
+
+5-day MCRT
+During this period, the specific methane gas production dropped off considerably for both
+mesophilic and thermophilic digesters, probably due to methanogen washout from the much
+higher sludge wasting rate.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               29
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,46 @@
+aldehydes. Some of these compounds, particularly the ketones and aldehydes, can cause the oil
+to have an unpleasant taste and smell. Other compounds are actually desirable, such as the
+tocopherols which act as antioxidants. The sterols are relatively inert and can remain in the oil.
+The food-grade oil typically contains 0.5 - 1.5% non-oil compounds that are known collectively
+as unsaponifiable matter.
+
+Processing of crude soybean oil to food-grade oil generally consists of three steps: refining
+(degumming and caustic refining), bleaching, and deodorization. As mentioned earlier, these oils
+are known as RBD oils (refined, bleanched, and deodorized).
+
+Refining
+
+The refining step is designed to remove the phospholipids and free fatty acids from the crude oil.
+Crude soybean oil typically contains 500-700 ppm of phosphorus which corresponds to 1.5% to
+2.1% phospholipids [1]. The main reason to remove these phospholipids is that some of the
+compounds, particularly the calcium and magnesium salts of phosphatidic and lysophatidic
+acids, are strong emulsifiers. If these compounds are still present during the later alkali
+neutralization step, they will inhibit the separation of the soaps and lower the yield of neutral oil.
+Phospholipids (also called phosphotides) will also react with water to form insoluble sediments
+that are not desirable when cooking with the oil.
+
+Refining may consist of two steps. The first step is degumming. In this step, crude soybean oil is
+mixed with 1% - 3% of water and the mixture is agitated mechanically for 30-60 minutes at 70º
+C (158º F). This hydrates the phospholipids and gums and these hydrates are insoluble in the oil.
+They can be separated by settling, filtering, or centrifuging. The phosphorus content can be
+lowered to 12-170 ppm by this procedure. The byproduct of water degumming has value as a
+feedstock for lecithin production.
+
+Table 1 shows the profile of phospholipids from lecithins produced from various oilseeds. It
+shows that there are significant differences in the distribution of compounds between the
+different feedstocks.
+
+A portion of the phosphatides are not hydratable by contact with water alone. The addition of
+citric or phosphoric acid will hydrate those remaining. Citric acid is prefered if the byproduct is
+to be used for  lecithin. The acid hydration  is accomplished by adding 0.05-0.2 wt% of
+concentrated (85%) phosphoric acid to crude oil, which has been heated to 60 - 85 C. The
+residence time varies from a few seconds to 1-2 minutes depending on the type and quality of the
+oil. The extent of gum removal by these techniques  is related to the strength of the acid
+treatment. Figure 29 shows a schematic diagram of the processes involved to degum soybean oil
+and produce edible lecithin.
+
+
+
+
+
+                                      81

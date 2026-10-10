@@ -1,0 +1,31 @@
+Table 7. QC Laboratory Recommended Equipment: Needs and Costs
+                                                                     Approx.
+ASTM Method                        Apparatus                         Cost
+
+D93 – Flash Point    Hertzog MP 329 Automatic Pensky-Martens Tester         $ 10,300
+                   Koehler Pensky-Martens Flash Cup Tester                $  2,200
+D130 - Corrosion    Koehler K25330 Copper Strip Test Bath                  $  3,700
+                     Standards: ASTM - $ 195; Koehler - $ 466
+D445 - Viscosity     Koehler AKV9500 Automated Kinematic Viscosity System  $ 22,500
+                      Polystat Constant Temperature Bath (Cole – Parmer)        $  2,900
+                   Viscometer Cleaning and Drying Apparatus (Koehler)       $  3,400
+                    Viscometers, various ranges                            $   120 ea
+D664 – Acid Value
+            KEM AT-150 Automatic Potentiometric Titrator           $  7,000
+D874 – Sulfated     Koehler Isotemp Basic Muffle Furnace, 0.58 cu.ft.          $  2,500
+Ash
+D2500 – Cloud      Koehler Cloud and Pour Point Bath                      $  5,500
+Point
+                   Koehler Automated Cloud and Pour Point System          $ 21,000
+D2709 – Water and  PAC 67310 Benchtop Centrifuge                        $  6,600
+Sediment
+D6584 – Total and   Shimadzu GC-17A Gas Chromatograph                  $ 18,000
+Free Glycerol
+
+        Total Cost  Recommended Apparatus                             $ 76,100
+
+
+
+
+
+                                      29

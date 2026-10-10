@@ -1,0 +1,28 @@
+ Figure 26. Comparison of tert-butylhydroquinone (TBHQ) with other anioxidants by the
+ active oxygen method (AOM). (From Sherwin, E. R. and Thompson, J. W., Food Technol. (Chicago),
+                                              21(6) , 106, 1967.
+
+
+Figure 25 shows some of the most common antioxidant additives used in food products: BHA,
+BHT, PG, and TBHQ. The properties of these additives are well known and they are considered
+safe.
+
+Figure 26 shows a comparison of the effectiveness of the different antioxidants in three different
+oils. This data was obtained from oils and not biodiesel, however, since the oxidation processes
+are similar for the two classes of compounds, the relative effectiveness of the additives should be
+similar. Figure 26 clearly shows that TBHQ is the most effective additive for equivalent treat
+rates.
+
+Table 8 shows additional comparisons between the additives for variable treat rates. Again,
+TBHQ is almost twice as effective as the nearest other additive.
+
+Since metals, especially copper, can act as catalysts for oxidation, compounds called chelators
+are frequently added to the oils and fats along with the antioxidants. Chelators bind up metals
+into stable molecules that do not participate in promoting oxidation. Citric acid is a common
+chelator used in the food industry [1]. Figure 4 shows the effect of adding citric acid to
+antioxidants. It extends the oxidative induction period and improves the stability of the oil.
+
+
+
+
+                                      72

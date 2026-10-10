@@ -1,0 +1,50 @@
+                                                  Woody and Tree Materials
+
+
+ASPEN, TREMBLING; Populus tremuloides; solid; Material came from various locations
+    in New Hampshire.  Bole samples were composed of cross sections taken from four
+    positions along length of each tree (at the base, one-third, two-thirds, and at top of
+   the stem). Branch samples were composed of cross sections taken from four positions
+   along length of each of four branches (one branch from four positions in the live
+   crown of the tree).  Bark was removed from half of each bole and branch sample and
+    all samples were oven-dried at 85°C (185°F)to a constant weight.
+
+   gross heat of combustion: Assume values refer t o room temperature, thermochemical
+   calorie used and values were expressed on a dry matter basis and adjusted for heat of
+   formation of nitric acid.  All tests were made at 99% confidence level and numbers in
+   parentheses are standard errors.
+
+   bole with bark                           branch with bark
+    q,(gross)  = 8782 (50) Btu lbr 1               qv(gross) = 8957 (61) Btu Ibl 1
+    q,(gross)  = 4879 (28) cal g-                 qv(gross) = 4976 (34) cal g-
+    q,(gross)  = 20414 (117) J g-l                qv(gross)  20820 (142) 3 g-l
+
+    bole without bark                        branch without bark
+
+    q,(gross)   8905 (56) Btu  lb;'                   q,(gross)   8773 (32) Btu lbl I
+    q,(gross)   4947 (31) cal g-                 qv(gross) = 4874 (18) cal g-
+    q,(gross)   20698 (130) f g-'                   q,(gross)  = 20393 (75) J g-l
+
+    foliage
+
+    q,(gross)  = 9648 Btu  lb;'
+    q,(gross)  = 5360 cal g-
+    q,(gross)  = 22426 J g-l
+
+                                                      8lMUS/HOC
+
+BEECH; Fagus atropunicea; solid; air-dried at 105"-110°C (22l0-23O0F);density,
+    0.75 g ~ m  - ~  .
+
+   spe5fic heat: 273-379 K (3ZD-223"F)
+
+  C (Btu lb-I OF-')    = 0.326            -1 fj-1 )    Cp(cal-qP                 = 0.326
+   Cp(J g    K'   )       = 1.364
+
+                                                          12DUN
+
+
+
+
+
+                                       237

@@ -1,0 +1,50 @@
+Centrifuges
+                                         Centrifuges are most typically used to separate solids
+                                    and liquids, but they can also be used to separate
+                                       immiscible liquids of different densities. This type of
+                                          separation can also be achieved using a settling tank.
+                                   While a settling tank may be cheaper, a centrifuge can
+                                     be used to increase the rate of separation relative to a
+                                               settling tank. In a centrifuge the separation is
+                                      accomplished by exposing the mixture to a centrifugal
+                                             force. The more dense phase will be preferentially
+                                         separated to the outer surface of the centrifuge. A
+                                           centrifuge generally consists of (1) a bowl containing
+the mixture, (2) a drive shaft and drive-shaft bearings, (3) a drive mechanism, and (4) a casing to
+segregate the separated products. Centrifuges are very amenable to continuous operation. A
+range of different centrifuge configurations are available with a common form being disk
+centrifuges.
+
+The performance of a centrifuge depends on the specifications of the centrifuge as well as the
+characteristics of the mixture to be separated. While centrifuges are generally rated in terms of
+mixture handling capacity, the product quality specifications are the most important
+consideration. The choice of appropriate centrifuge type and size are predicated on the degree of
+separation needed in a specific system. The viscosity of the liquid has important implications on
+the choice of centrifuge size since higher viscosity fluids are more difficult to handle. If a
+sufficient density difference exists between immiscible fluids, centrifugation is a faster means of
+separation than settling.
+
+Distillation
+
+Another means of separating chemicals in a fluid mixture is by exploiting the differences in
+boiling points between the chemicals. If the boiling points are sufficiently different for the
+chemicals to be separated, such as with water and biodiesel, an evaporator or flash vaporizer can
+be used for the separation. In the evaporator, the liquid is heated to a temperature in which only
+the more volatile chemical species will vaporize. As such the vapor stream leaving the
+evaporator will be enriched in the more volatile species and the liquid stream from the
+evaporator will be enriched in the less volatile species. In an evaporator, the separation is
+accomplished by supplying heat while the mixture is held at a fixed pressure. In contrast, a flash
+vaporizer first heats the liquid, at an elevated pressure. Then, the heated liquid is sent through a
+flash valve that decreases the pressure. The decrease in pressure causes the more volatile portion
+of the liquid mixture to vaporize.
+
+An important separation device for miscible fluids with similar boiling points (e.g., methanol and
+water) is the distillation column. Separation in a distillation column is predicated on the
+difference in volatilities (boiling points) between chemicals in a liquid mixture. In a distillation
+column the concentrations of the more volatile species are enriched above the feed point and the
+less volatile species are enriched below the feed point. The vaporization in the column is driven
+by heat supplied in the reboiler, which is subsequently removed in the overhead condenser. The
+
+
+
+                                      46

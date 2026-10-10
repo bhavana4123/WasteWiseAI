@@ -1,0 +1,64 @@
+                                                      engine knock, a single-cylinder, direct-injection, slow­
+                                                    speed (1000-1500 rpm) diesel engine was able to run
+                                             on 100% producer gas for extended periods (Cruz
+                                                           1984).
+
+                                                           Ignition reliability is better with pilot injection than
+                                        Pulsating           with spark ignition. The minimum injector quantity for
+                                 chamber              stable pilot ignition and efficient combustion is given
+                                             by a diesel fuel-mixed gas ratio of 10 mg/kg. Increasing
+                                                              this ratio will boost power output, up to a ratio of
+                                                     20 mg/kg; above this injection rate, thermal efficiency
+                                                                     falls with no significant power increase. Partial load
+                                                        operation is complicated by the fact that a full inlet
+                                                     charge is required to develop ignition temperature.
+                                                          Throttling for no-load operation must lean out the gas
+                                                    mixture and reduce the injection quantity to as low as
+                                                      5 mg/kg (Anon 1944).
+ Fig.  11-9. Pulsator two-stroke engine  (Source: Gengas 1950,     Diesel engines also can be converted completely to
+ Fig. 187)
+                                                    producer gas by reducing the compression ratio, add­
+                                                        ing a spark-ignition system, and replacing the injectors
+stroke is very close to the heating value of producer gas­    with spark plugs. The modification expense is hardly
+air mixtures. Furthermore, full diesel operation can be      justified, considering the successes of pilot injection,
+achieved readily by simply increasing the quantity of    except in situations where complete replacement of
+diesel fuel to normal levels when needed. This can be     diesel fuel is required. The compression ratio should
+accomplished easily by using the existing governor on    be reduced to 9.5-10:1. For antechamber diesel engines,
+many diesel engines. The brake thermal efficiency is     the heads must be replaced.
+higher for dual-fuel operation than it is for straight
+                                                            Pilot injection helps the producer gas-air mixture to ig­diesel fuel operation, as shown in Fig. 11-11.
+                                                                  nite. Very stable and reliable ignition has been ob­
+Standard diesel engines inject the liquid fuel into the     served using pilot injection; in fact, it has been shown
+compressed-air charge in order to start combustion at     to perform better than spark ignition. The power out­
+a time preset relative to the crank position. When using    put from weak gas (e.g., 118 Btu/scf) can be 90% of that
+producer gas, it is necessary to advance the injection     from straight diesel fuel with 40% excess air (Anon
+timing angle with engine speed especially at high rpm.     1944). Minimum pilot injection is limited by its ability
+The optimum injection timing for one engine is shown     to provide stable ignition at roughly 10% to 20% of the
+in Fig. 11-12. An engine with an improperly set timing     regular idle injection.
+angle will run roughly at low speed and expel smoky
+exhaust at high speeds.                                11.10.2 Starting Diesel Engines
+
+  has been reported that when operating conditions al­     Diesel engines are started by first igniting and fanningIt
+lowed producer gas-air mixtures to self-ignite without     the gasifier with the blower until clean, burnable gas is
+
+
+
+                                                                         Spark plU9                                         /
+                                                              Distrubutor
+                         GaS
+                                                           Throttle                  Shutoff:emiXerX
+                  Valve                      I
+
+                           Damper for     Secondary­                             secondary air '\  air intake                               Safety valve
+
+                                Startin9 fan
+
+
+
+
+
+Fig. 11-10. Two-cycle crankcase system  (Source: Gengas 1950, Fig. 185)
+
+
+
+1 1 2    Handbook of Biomass Downdraft Gasifier Engine Systems

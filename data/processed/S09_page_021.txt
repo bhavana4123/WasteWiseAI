@@ -1,0 +1,49 @@
+Compounds in which several benzene rings are fused together (even more than in naphthalene)
+are termed polyaromatic hydrocarbons (PAHs). They are found in exhaust emissions of
+petrodiesel and, in reduced amounts, of biodiesel fuel.
+
+Why are vegetable oils transesterified to produce biodiesel? This question will mainly be dealt
+with in other parts of the course(s), but briefly, vegetable oil methyl esters have lower viscosities
+(resistance to flow of a liquid) than the parent vegetable oils (think of honey or syrup, which
+have high viscosities and flow with difficulty, vs. water or milk, which have low viscosities and
+flow easily). Compared to the viscosities of the parent vegetable oils, the viscosities of vegetable
+oil methyl esters are much closer to that of petrodiesel. High viscosity causes operational
+problems in a diesel engine such as poor quality fuel injection and the formation of deposits.
+
+The Concept of Acids and Bases
+
+Many compounds, both organic and inorganic, can be classified as acids and bases. The most
+useful concept of acids and bases as these materials relate to biodiesel is that of proton donors
+(acids) or proton acceptors (bases), also often called Brønsted (or Lowry) acids and bases.
+Transferring a proton from an acid to a base is an acid-base reaction. A proton is a hydrogen
+atom stripped of its electron. Thus, a proton carries a positive charge and is often written H+.
+
+Whether a compound can behave as an acid or base depends on some of the atoms contained in
+it. Thus, organic compounds containing nitrogen often have base character, while those
+containing oxygen in form of OH (hydroxy) groups often have acid character (there are
+compounds that have the characteristics of both but that will not concern us here). Also, there are
+acids and bases in which a proton has been replaced by another particle carrying a positive
+charge called a cation, derived from another element. Note that a charged particle, be it
+negatively or positively charged, is called an ion. Without going into further detail, that acids and
+bases split (dissociate) into ions instead of atoms results from the position of the atoms in that
+compound in the periodic table of the elements and the corresponding electron configuration of
+those atoms.
+
+Thus, in water (H2O), one proton (H+) can be replaced by the positively charged cation of
+sodium (Na+) or potassium (K+) to give NaOH (sodium hydroxide) or KOH (potassium
+hydroxide). Obviously, the remaining hydroxy part (OH) is then negatively charged to give OH-
+(hydroxide). As a result, NaOH and KOH are strong bases as they have a tendency to take up a
+proton. Similarly, in an alcohol such as methanol (CH3OH), the proton attached to the oxygen
+atom can be replaced by, for example, Na+. The resulting CH3ONa (sodium methylate; sodium
+methoxide; sodium methanolate) is a strong base, CH3O- being the reason.
+
+Similarly, but in the reverse fashion, there are acids, the best-known being sulfuric acid (H2SO4),
+hydrochloric acid (HCl) and nitric acid (HNO3). Acids have a tendency to give off protons,
+leaving a negatively charged particle called an anion. For example, the anion of sulfuric acid is
+HSO4 -.
+
+
+
+
+
+                                      17

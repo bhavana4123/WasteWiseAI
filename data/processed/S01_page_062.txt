@@ -1,0 +1,53 @@
+1                                                                        Animals
+
+
+  SHEEP, HIDE; solid; protein and fat composition determined on ash-free dry basis for
+      material from bodies of 43 sheep; mean composition: protein, 74.05%; fat, 25.95%.
+
+      gross heat of combustion: assume values refer to room temperature.
+
+      qv(gross) = 11651 Btu 1
+       q,(gross)   6473 cal g-
+       q,(gross)   27083 J g-l
+
+     For the % fat range 18.37 to 38.72:
+
+       q,(gross)  = 19824 + 69.25 (% fat)] Btu lb-I.
+       q,(gross)  = [5458 + 38.47 (96 fat)] cal g-l
+       q,(gross)  = [22836 + 160.96 (% fat)] J g-l
+
+     For the % protein range 61.28 to 81.63:
+      qv(gross)  Cl6749 - 69.25 (% protein)] Btu 1
+       q,(gross)  = [9305 - 38.47 (% protein)] cal g-
+       q,(gross)  = [38932 - 160.96 (% protein)] J g-l
+
+                                                                64PAL/REI
+
+  SHEEP, INGESTA-FREE BODY; solid; protein and fat composition determined on ash-
+      free dry basis for bodies of 63 sheep; mean composition: protein, 43.33%;  fat, 56.67%.
+
+      gross heat of combustion: assume values refer to room temperature.
+
+       q,(gross)  = 13790 Btu 1P-l
+      qv(gross) = 7661 cal g-
+       q,(gross) = 32054 J g-l
+
+     For the % fat range 28.80 to 79.43:
+
+      qv(gross) = [9682 + 72.45 (% fat)] Btu lb-I
+      qv(gross) = 15379 + 40.25 (% fat)] cal g-l
+      qv(gross) = C22506 + 168.41 (96 fat)] J g-l
+
+     For the % protein range 20.57 to 71.20:
+
+       q,(gross) = [16929 - 72.45 (% protein)] Btu Ib-'
+       q,(gross)  = [9405 - 40.25 (% protein)] cal g-l
+       q,(gross)  = C39351 - 168.41 (% protein)] J g-'
+
+                                                                  64PAL/REI
+
+
+
+
+
+                                         61

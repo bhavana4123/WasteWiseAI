@@ -1,0 +1,34 @@
+{
+  "counts": {
+    "total": 140,
+    "passed": 137,
+    "failed": 3,
+    "skipped": 0
+  },
+  "groups": {
+    "tests.test_engine": {
+      "passed": 60
+    },
+    "tests.test_scientific_golden": {
+      "passed": 70,
+      "failed": 3
+    },
+    "tests.test_scientific_integrity.ScientificIntegrityTests": {
+      "passed": 7
+    }
+  },
+  "failures": [
+    {
+      "name": "test_independent_mass_conversion_overflow_must_be_rejected",
+      "message": "Failed: DID NOT RAISE ValueError"
+    },
+    {
+      "name": "test_independent_energy_overflow_must_be_rejected_or_blocked",
+      "message": "AssertionError: An infinite energy must not be labeled CALCULATED_REFERENCE\nassert (inf is None or False)\n +  where inf = CalculationResult(input_waste_details={'waste_category': 'Municipal solid waste', 'waste_subtype': 'Dry shredded garba...inal_value': '18500', 'original_unit': 'J/g', 'converted_value': '18.5', 'converted_unit': 'MJ/kg'}], scenario_id=None).calculated_value\n +  and   False = <built-in function isfinite>(inf)\n +    where <built-in function isfinite> = math.isfinite\n +    and   inf = CalculationResult(input_waste_details={'waste_category': 'Municipal solid waste', 'waste_subtype': 'Dry shredded garba...inal_value': '18500', 'original_unit': 'J/g', 'converted_value': '18.5', 'converted_unit': 'MJ/kg'}], scenario_id=None).calculated_value"
+    },
+    {
+      "name": "test_independent_moisture_tolerance_requires_published_support",
+      "message": "AssertionError: Unpublished moisture acceptance band is not a source-verified operating condition\nassert 185.23680000000002 is None\n +  where 185.23680000000002 = CalculationResult(input_waste_details={'waste_category': 'Wood and forestry waste', 'waste_subtype': 'Wood chips, Wala..._value': '5.33', 'original_unit': 'MJ/m3', 'converted_value': '5.33', 'converted_unit': 'MJ/m3'}], scenario_id='P0056').calculated_value"
+    }
+  ]
+}

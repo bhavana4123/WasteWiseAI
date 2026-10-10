@@ -1,0 +1,50 @@
+            products developed so far include:
+          ●Multiple stage separation processes: combination of cyclones/filter elements/catalyst
+                unit.
+          ●Hi-flow multi-cyclone with advanced separation efficiency: advanced cyclone design
+                 utilising modified material construction.
+           ●Metallic media for surface filtration: metal fibre using high temperature cermets; and
+             metal powder membranes designed for high efficiency and rapid filter cake discharge
+               following pulse-jet.
+         ●Metal foam for catalytically active filters.
+
+
+            Porvair has an active development effort to demonstrate the benefits of an integrated
+            multiple stage separation process particularly for biomass gasification.The challenges for
+          raw gas clean-up are identified as:
+
+
+                Particulate concentration                  up to 1% of flow, by mass
+               Tar concentration                    ~ 4000 ppm
+                 Particle size distribution               < 100 micron
+                Solids bulk density                     300 - 600 kg/m3
+
+
+
+         When fully developed and demonstrated the integrated systems (ex: pre-filtration cyclones
+            followed by membrane filters and/or catalytic membranes) should improve solids
+            removal/recovery; increase efficiency of pulse jet cleaning; reduce pulse jet operation; and
+           reduce the number of contaminants emitted. As a part of this effort, Porvair is evaluating
+          a variety of permeable media. Rigorous methodologies are followed for metallurgy
+             selection based on gas composition, temperature, and strength to tolerate anticipated
+            pressure drop across membranes to identify:
+         ●media in range of metals and cermets to withstand 900oC.
+           ●sintered metal fibre, sintered metal powder and membrane combinations.
+         ●media which exhibits a permeability range of 3.1 x 10-11 m2 to 1.8 x 10-13 m2.
+         ●media which exhibits an efficiency of 99.98% removal of > 0.3 micron particles.
+         ●media with 95% of pore size distribution < 0.45 micron.
+
+
+          Back flushing is an integral part of any membrane separation. Porvair’s novelty for
+            designing back flushing is based on the use of the kinetic energy in the pulse air/gas and
+             partially converting it to pressure energy at the venturi. In doing so a sonic pulse results
+           which can effectively clean deposits on membranes.
+
+
+            Porvair has extensive experience with metal foam, used as catalytically active filter in
+             diesel particulate filters. Metal foam is a promising substrate for gas clean-up with high
+             catalytic surface area, low-pressure drop, and good depth filtration properties. Porvair is
+             currently exploring opportunities and partnerships to develop metal foam in biomass
+             gasification hot gas clean-up applications.
+
+50

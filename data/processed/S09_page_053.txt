@@ -1,0 +1,50 @@
+                                   The most common process variable monitored in a
+                                        chemical plant is the temperature. The temperature
+                                                  at a specific point is generally measured using
+                                         thermocouples, which are electrical devices.
+                                      Thermocouples are made of two different metallic
+                                             wires. These wires are connected at a junction. An
+                                                 electrical current is established when the junction is
+                                            heated. The electrical current is proportional to the
+                                          temperature at the junction. For this reason, the
+                                       thermocouple must be calibrated to correlate
+temperature to current. Thermocouples are categorized by the metals used in their junctions, with
+different metal junction combinations being more appropriate for different temperature ranges.
+Individual thermocouples are typically not calibrated by the supplier. Instead, manufacturers will
+typically test a representative portion of the thermocouples they produce. Due to the
+manufacturing procedure, thermocouples are usually precise (or completely don’t work) but can
+be inaccurate. The thermocouple is typically enclosed within a thermowell. The thermocouple
+must be fully inserted into the thermowell with the thermowell extended appropriately into the
+process to obtain a correct reading. If the temperature of a process liquid is being measured it is
+generally adequate for the thermowell to extend about 2-3 inches into the liquid. Due to inferior
+heat transfer, the thermowell should extend about 6 inches into a process vapor.
+
+Thermocouples are typically used in processes for both monitoring and controlling the process.
+When a thermocouple is used as part of a process control loop, the electrical current output from
+the thermocouple is compared with the current expected for the set point temperature. Deviation
+of the actual temperature from the set point temperature will cause a change in the output to a
+heater or cooler that is included in the control loop.
+
+Pressure values can be measured using several different types of devices such as liquid column,
+elastic element, and electrical sensing. The most common form of a liquid column device is a
+manometer in which the liquid height can be observed visually and correlated to the pressure
+through the density of the liquid. Liquid column devices are rarely used in chemical processes.
+Elastic element devices measure pressure by determining deformation of an elastic material. This
+elastic material is usually metallic. One type of elastic element device uses bellows elements.
+The displacement of the bellows can be correlated to the pressure value. The most common
+pressure measurement instruments used in chemical processes are electrical sensing devices,
+which are known as strain gauges. Strain gauges
+are predicated on the fact that the electrical
+resistance of conducting solids changes with
+length and diameter of the solid. The dimensional
+changes of the solid induced by a pressure causes
+an increase in the electrical resistance of the
+conducting solid. An elastic element or electrical
+sensing device used to measure pressure is called
+a pressure transducer. The pressure tap for a
+transducer should be located in the vapor phase of a process. A transducer located in the liquid
+phase will detect a different pressure at different depths in the liquid.
+
+
+
+                                      49

@@ -1,0 +1,55 @@
+ Animals
+
+
+
+CATTLE; solid; results apply to total body of cattle.
+
+    gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    For sample of 100% protein:              For sample of 100% fat:
+
+    qv(gross) = 9805 Btu Ib-l                      q,(gross) = 17098 Btu -p-lI
+    qv(gross) = 5447 cal g-1                     qv(gross) = 9499 cal g
+    q,(gross) = 22790 J g-l                        q,(gross)  = 39744 J g-1
+
+                                                                              6 1STR
+CHITOW Katherina tunicata; solid; invertebrate animal; mollusk of the order
+    Polyplacophora,
+
+    gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    q,(gross)  = 8460 Btu lbll
+    q,(gross)  = 4700 cal g-
+    q,(gross) = 19665 J g-l
+
+                                                                             7 1PA1
+CILIATE; Tetrahymena pyriforrnis; solid; Class of Protozoa characterized by presence of
+    cilia; found in any exposed body of water.
+
+    FQSS  heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+    q,(gross) = 10688 f 373 Btu 1
+    q,(gross) = 5938 2 207 cal g-
+    qv(gross) = 24845 f 866 J g-l
+
+                                                                          6 I SLO/RIC
+CLADOCERA; Leptodora kindtu; solid; A group of minute, chiefly fresh-water,
+   entomostracan crustaceans, of ten know as water fleas.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+    q,(gross)  = 10091 f 1051 Btu Ib-I
+    q,(gross)  = 5605 f 584 cal g-l
+    q,(gross)  = 23451 A 2443 J g-l
+
+                                                                          6 I SLO/RIC
+
+
+
+
+
+                                        56

@@ -1,0 +1,54 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.3 Typical Energy Losses Associated with Selected Energy Consuming Systems in Manufacturing Facilities
+
+
+    Energy System                 Percent Energy Lost
+
+    Energy Generation, Transmission and Distribution Losses
+
+                                         Offsite (grid) electricity generation and transmission – 66.8%
+     Offsite Generation                Offsite steam generation – 20%
+                                         Offsite steam transmission – 10%
+
+                                   Onsite steam generation (conventional boiler) – 18% to 22%
+    Onsite Generation              Onsite CHP/cogeneration – 18% to 29%
+                                   Onsite steam distribution – 20%
+
+    Onsite Direct End Use (Process and Non-process) Losses
+
+                                    Process heating (direct and indirect) – 18% to 72%
+                                    Process cooling, refrigeration – 35%
+                                    Electro-chemical – chemicals 35%, aluminum 60%, other 48%
+                                Other processes – Electric 5%, Fuel 70%, Steam 40%
+                               Machine drive i.e., shaft energy – Electric 6% to 8%, Fuel 63%, Steam 60%
+                               Machine driven systems:
+    Process Energy              Pumps – 40%
+
+                                                                Fans – 40%
+
+                                                             Compressed air – 85%
+
+                                                                    Materials handling – 15%
+
+                                                                    Materials processing (e.g., grinders) – 80%
+
+                                                              Other systems – 52%
+
+                                          Facility HVAC – 40%
+                                          Facility lighting – 40%
+                                Other facility support – 80%    Non-process Energy                                   Onsite transportation – 5%
+                                Other non-process e.g., cleaning equipment, maintenance tools – Electric 33%, Fuel 35%,
+                                Steam 30%
+
+
+
+       Figure 6.M.2 Estimates of Energy Losses for Major Energy Use Areas in Manufacturing9, 10, 11
+
+
+
+
+
+  5  Quadrennial Technology Review 2015

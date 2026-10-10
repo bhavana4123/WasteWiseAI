@@ -1,0 +1,54 @@
+Agricultural Residues
+
+
+
+SUGARCANE BAGASSE; solid; Material is considered biomass fuel and has proximate
+    analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    73.78, ash content = 11.27, and fixed carbon = 14.95. Also the ultimate analysis of
+    the elemental composition of the fuel (values in percent by weight dry basis) is
+   carbon = 44.80, hydrogen = 5.35, oxygen = 39.55, nitrogen = 0.38, sulfur = 0.01,
+    chlorine = 0.12, and residue (ash) = 9.79.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 7456 Btu lb;'
+    qv(gross) = 4 142 cal g-
+    q,(gross)  = 17330 J g-l
+
+   net heat of combustion: assume values refer t o room temperature.
+    qv(net) = 6987 Btu lb; 1
+    qv(net) = 3881 cal g-
+    qv(net)  16240 J g-l
+
+                                                                 85JEN/EBE
+
+SUGARCANE BAGASSE; solid; Material is fibrous residue from sugar cane after the cane
+    is harvested and crushed to extract the juice.  Mill-run bagasse contains an average of
+   46%-52% moisture, 43%-52% fiber, and 2%-6% soluble solids (mostly sucrose).
+   Substance is composed of pith (30% dry weight of cane), fiber bundles contained in
+    pith (15% dry weight of cane), true fiber cell rind of stalk (50% dry weight of cane),
+   and dense waxy nonfibrous epidermus (5% dry weight of cane),
+
+   gross heat of combustion: Formulas are derived from qv(gross) of dry, ash- ree    fiber = 8442 Btu Ib-',  q,(gross)  of soluble matter called Brix = 7110 Btu Ib- f , average
+   ash content = 3% of dry material, and where S denotes the sucrose and W the
+   moisture con tent % bagasse.
+    q,(gross)   8190 - 18 S - 81.9 W Btu Ib; 1
+   qv(gross)  4550 - 10 S - 45.5 W cal g- I
+    q,(gross)   19037 - 42 S - 190.4 W J g-
+
+   net heat of combustion: Formulas are derived from deduction of latent heat of water
+   vapor from q,(gross)  and where S denotes sucrose and W is moisture content %
+   bagasse.
+   qv(net) = 7650 - 18 S - 86.4 W Btu lbll
+   qv(net) = 4250 - 10 S - 48.0 W cal g-
+   qv(net) = 17782 - 42 S - 200.8 W J g-l
+
+                                                                53PER
+
+
+
+
+
+                                      26

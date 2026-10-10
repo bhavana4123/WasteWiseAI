@@ -1,0 +1,51 @@
+7.0 Gas Testing                                                                                                                                                                                                     . 51
+       7.1 Introduction   .   .   .    .   .   .    .   .   .   .   .   .   .   .   .   .    .   .   .                                                                                                             . 51
+        7.2 Gas-Quality Measurements and Requirements                                                                                                                           . 51
+       7.3 Description of Producer Gas and Its Contaminants                                                                                                                            . 51
+              7.3.1 The Gas Analysis                                                                                                                                                                                         . 51
+              7.3.2 Particulates                                                                                                                                                                      . 51
+              7.3.3 Tars    .   .   .   .   .                                                                                                                                                                   . 55
+       7.4 Gas Sampling    .   .   .   .                                                                                                                                                                   . 55
+              7.4.1 Sample Ports                                                                                                                                                                   . 55
+              7.4.2 Isokinetic Sampling                                                                                                                                                     . 56
+       7.5 Physical Gas-Composition Testing                                                                                                                                         . 57
+              7.5.1 Raw Gas       .   .   .   .   .                                                                                                                                                       . 57
+              7.5.2 Cleaned Gas                                                                                                                                                                     . 61
+        7.6 Chemical Gas Composition                                                                                                                                                                     . 61
+               7.6.1 Gas Samples for Chemical Analysis                                                                                                                                            . 61
+              7.6.2 Methods of Analysis   .                                                                                                                                                                            . 62
+               7.6.3 Water Vapor Analysis     .   .   .   .   .   .   .   .                                                                                                                 . 65
+       7.7 Analysis of Test Data     .   .   .   .   .   .   .   .   .   .   .   .   .                                                                                                                 . 66
+              7.7.1 Mass Balances and Energy Balances                                                                                                                    . 66
+              7.7.2 Flow Rate Characterization     .   .   .   .                                                                                                                     . 67
+       7.8 Particle-Size Measurement     .   .   .   .    .   .    .   .   .                                                                                                                     . 67
+              7.8.1 Typical Particle-Size Distributions                                                                                                                       . 67
+              7.8.2 Sieve Analysis    .   .    .   .   .   .   .                                                                                                                                    . 67
+              7.8.3 Microscopic Size Analysis                                                                                                                                        . 67
+              7.8.4 Aerodynamic Size Analysis                                                                                                                                     . 67
+              7.8.5 Graphic Analysis of Size Distribution                                                                                                                . 69
+              7.8.6 Physical Size Analysis                                                                                                                                                . 70
+
+8.0 Gas Cleaning and Conditioning                                                                                                                                                   . 71
+        8.1 Introduction    .    .   .   .   .    .   .   .   .   .                                                                                                                                                . 71
+       8.2 The Power Theory of Gas Cleanup                                                                                                                                         . 72
+        8.3 Gas Cleanup Goals       .   .   .   .   .   .   .   .                                                                                                                                        . 74
+              8.3.1 Gas Contaminant Characteristics                                                                                                                           . 74
+              8.3.2 Typical Dirty Gas                                                                                                                                                           . 74
+              8.3.3 Gas Cleanup Goals   .   .                                                                                                                                                                            . 74
+              8.3.4 Cleanup Design Target                                                                                                                                                . 74
+       8.4 Classification of Particles   .   .   .                                                                                                                                                . 74
+        8.5 Particle Movement and Capture Mechanisms                                                                                                                   . 74
+       8.6 Dry Collectors    .   .    .   .   .   .   .   .   .    .   .                                                                                                                                        . 75
+              8.6.1 Gravity Settling Chambers                                                                                                                                        . 75
+              8.6.2 Cyclone Separators                                                                                                                                                       . 75
+              8.6.3 Baghouse Filter                                                                                                                                                              . 80
+              8.6.4 Electrostatic (Cottrell) Precipitators                                                                                                                      . 83
+       8.7 Wet Scrubbers   .   .   .   .   .   .   .   .   .   .   .   .                                                                                                                                    . 84
+              8.7.1 Principles of Wet Scrubbers                                                                                                                                     . 84
+              8.7.2 Scrubber Equipment   .                                                                                                                                                . 86
+              8.7.3 Auxiliary Equipment                                                                                                                                                   . 88
+
+
+
+                                                                                          Contents    v

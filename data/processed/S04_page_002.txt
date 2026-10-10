@@ -1,0 +1,23 @@
+Disclaimer
+
+The information contained in this document is for information purposes only and is gathered
+from published industry sources. Information about costs, maintenance, operations, or any other
+performance criteria is by no means representative of EPA, ORNL, or ICF policies, definitions,
+or determinations for regulatory or compliance purposes.
+
+
+
+
+
+The September 2017 revision incorporated a new section on packaged CHP systems
+(Section 7).
+
+
+
+This Guide was prepared by Ken Darrow, Rick Tidball, James Wang and Anne Hampson at ICF
+International, with funding from the U.S. Environmental Protection Agency and the U.S. Department of
+Energy.
+
+
+
+Catalog of CHP Technologies                                                 ii                                            Disclaimer

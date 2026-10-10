@@ -1,0 +1,55 @@
+                     Atomic Weights of the Elements 1983
+                                (Scaled t o -rA  (12C)=12)
+            N.E. Holden and R.L. Martin, Pure & Appl. Chem. 56, 653-674 (1984).
+         IUPAC Commission on Atomic Weights and Isotopic Abundances
+
+The atomic weights of many elements are not invariant but depend on the origin and
+treatment of the material. The footnotes to this Table elaborate the types of variation
+t o be expected for individual elements. The values of fir(€)given here apply to elements
+as they exist naturally on earth. When used with due regard to the footnotes they are
+considered reliable t o k1 in the last digit, unless otherwise noted.
+
+                             Alphabetical order in English
+
+                                   Atomic    Atomic
+   Names                Symbol    Number    Weight            Footnotes
+   Actinium *              Ac         89                        A
+  A lu m in iu m              A1           13      26.98154
+   Americium *          Am        95                       A
+   Antimony (Stibiurn)        Sb          51       121.75 2 3
+   Argon                   Ar          18      39.948           g        r
+   Arsenic                 As          33       74.9216
+   Astatine*             A t         85                       A
+   Barium                 Ba          56       137.33          g
+   Berkelium*              Bk         97                       A
+   Beryllium               Be          4       9.0 1218
+   Bismuth                     Bi          83      208.9804
+   Boron                 B           5       10.811 k 5       m  r
+   Bromine                    Br          35      79.904
+   Cadmium              Cd         48       112.41          g
+   Caesium               cs         55       132.9054
+   Calcium               Ca          20      40.078 k 4        g
+   Californium*             Cf         98                       A
+   Carbon              C           6       12.011                          r
+   Cerium                Ce         58       140.12          g
+   Chlorine               c1         17      35.453
+   Chromium               Cr          24       51.9961 2 6
+   Cobalt                co         27      58.9332
+   Copper                        c u          29      63.546 2 3                    r
+   Curium *            Cm        96                         A
+   Dysprosium             DY         66       162.50 2 3       g
+    Einsteinium *              Es         99                        A
+   Element 104" (a)         Unq        104                       A
+   Element 105* (b)         UnP        105                       A
+   Element 106" (c)         Unh        106                        A
+   Element 107* (d)          Uns        107                       A
+   Erbium                     Er         68      167.26 2 3        g
+   Europium                Eu         63       151.96          g
+   Fermium*            Fm         100                       A
+    Fluorine               F          9      18.998403
+
+ (a)-(d) Systematic names: (a) Unnilquadium; (b) Unnilpentium; (c) Unnilhexium; (d) Unnilseptiqqm
+
+
+
+                                        338

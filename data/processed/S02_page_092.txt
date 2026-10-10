@@ -1,0 +1,46 @@
+                   Table 8-5. Typical Performance Data for Electrostatic Precipitators
+
+                                        Dust Concentrations
+                                      g/m3 at Operating Temp.          Collecting        Power Consumption
+Type of Plant                                       Inlet        Outlet             Efficiency ('¥oj         W/l 000 m3/h
+Coal Gas Industry
+Peat gas producer                            5.34         0.008               99.85                 702
+Cracking plant for natural gas                  0.224        0.002               99.20                   120.4
+ Producer gas from lignite briquettes            37.7           0.20                99.47                 652
+ Producer gas from sembituminous lignite       28.7           0.10                 99.7                  602
+Shale·gas cleaning plant                     40.0          0.006                99.9                   903
+Coke oven town gas cleaning                 24.15         0.010                99.9                   903
+Coke oven town gas cleaning                  17.0           0.003               99.9                 1605
+Coke oven gas cleaning                      28.0          0.078               99.8                  752
+Oil carburetted water gas cleaning              4.73         0.039               99.2                 1404
+Tar carburetted water gas cleaning             10.0          0.050               99.5                           1 805
+Source: Perry 1973. Table 20·45.
+
+characteristics for electrostatic precipitators are shown     gravitational. or centrifugal means. For particles
+in Table 8-5, indicating high capture efficiency.           smaller than 0.1 /lm, motion is dominated by molecular
+                                                                collisions. They follow Brownian motion principles,The precipitator tube diameter should be small enough                                                 behave more like a gas, and may be collected by dif­to allow the corona discharge to be established at a                                                       fusion onto a liquid surface. In this section we will lookreasonable voltage and large enough so that its volume                                                              at the basic mechanisms of particle movement andwill provide the necessary residence time with a                                                       capture for wet scrubber systems.reasonable length. Low flow rates result in a higher
+residence time and higher collection efficiency.            Particles with diameters between 0.1 and 1 /lID fall
+                                                      within the so-called "open window." They are the mostMultiple parallel precipitator tubes, as shown in                                                                 difficult particles to capture, either by diffusion or in­Fig. 8-13, permit a more compact precipitator design                                                                  ertial mechanisms. They are too large to diffuse welland use a lower voltage than a single larger tube. The                                                   but too small to settle. However, they can be made tosparldng voltage for tube precipitators is shown in                                               grow in size, since small particles collide naturally andTable 8-6. In practice, precipitators are operated at the     agglomerate into larger particles that are easier tohighest operating voltage without excessive sparking                                                           capture.(Perry 1973). One-second delays between sparks have
+been found to result in effective precipitator operation.    One method of high-efficiency collection uses primary
+                                                           collection of large particles by inertia and diffusion,Application of a negative (rather than positive) voltage                                                     followed by an increase in fine particle size by ag­on the center electrode is favored because this arrange­                                                        glomeration, and finally by collection and entrainmentment results in a more stable corona and less sparking.                                                            separation. The rate of agglomeration is proportional to
+The typical current through the electrode is low: 0.1 to     the total number of particles present. Agglomeration is
+0.5 mA/m2 of collecting surface (Perry 1973). Half­     also assisted by the presence of droplets that act as
+wave rectification of a 50 to 60 Hz electric supply     nuclei.
+provides adequate time for extinguishing sparks.                                                              Particles tend to move toward a surface on which con­
+The power consumed by an electrostatic precipitator is     densation is taking place. This phenomenon is referred
+very low, typically 1.5 W/hp (Strauss 1975). and the     to as "Stefan motion." Particles tend to migrate away
+pressure drop also is very low, at considerably less than
+1  in. of water. High-voltage equipment requires                                                           Table 8-6. Electrostatic Precipitator
+rigorous safety measures. In addition, unforeseen                                                                 Sparking Potentials
+power failures may cause a loss of the electrostatic
+precipitator's cleaning ability, with a subsequent                                Sparking Potential,a volts
+release of tars to the engine.                              Pipe Diameter, in.         Peak     Root Mean Square
+                                                         4                59,000          45,000
+8.7 Wet Scrubbers                                                           6                76,000          58,000
+                                                             9                90,000          69,000
+8.7.1  Principles of Wet Scrubbers                           12               100,000          77,000
+As we have previously stated, particles with diameters      aFar gases at atmospheric pressure, 10QoF, containing water vapor, air,
+larger than 1 /lm settle by gravity and inertia. They fol­     C02 and mist, and negative-discharge-electrode polarity.
+low Stokes' law and can be captured by impaction,      Source: Perry 1973, Table 20·43.
+
+84    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,50 @@
+Alloys and Metals
+
+
+
+LEAD; solid; atomic number, 82; atomic wt.,  207.2; density, 11.3 g      (705.5 lb ft-3).
+   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, C AH^0 at
+                           P   25°C (77'F);  product of combustion is Pb02.
+
+   qp(gross) = 576 Btu lb-'
+   qp(gross)  320 cal g-l
+   qp(gross) = 1339 J g-'
+
+                                                       82WAG/EVA
+
+   specific heat:
+
+
+
+    298    77                0.0305                  0.0305               0.128
+    500   441                0.0328                  0.0328               0.137
+    600   621                0.0339                  0.0339               0.142
+
+   heat of fusion: at the melting point 327.4"C (621.3"F).
+                        1  Lf = 9.90 Btu lb-
+  Lf = 5.50 cal q1
+  Lf = 23.0 J g-
+
+   heat of vaporization: at the boiling point 1743OC (3169°F).
+                    1    L, = 368.0 Btu Ib-
+    L, = 204.4 cal
+    L,  = 855.3 J
+
+   vapor pressure:
+
+   tern erature
+   ("Cf  (OF)       P(atm)          P(Pa)           Npsi)
+
+    615  1139        10-4                  0.1            1.470 x 10-'2
+    956  1753         lo-*              101.3           1.470 x
+   1137  2079       1 0 j            1013.3           1.470 x 10-
+   1388  2530         10-           10132.5            1.470
+   1743  3169           1.9         101325.           14.696
+
+                                                       63HUL/ORR
+
+
+
+
+
+                                      42

@@ -1,0 +1,49 @@
+57.   Wang, D.; Cooney, C.; Demain, A.; Dunnill, P.; Humphrey, A.; Lilly, M. Fermentation
+      and Enzyme Technology. New York: John Wiley & Sons, 1979.
+
+58.    Schell, D.; Riley, C.; Bergeron, P.; Walter, P. Technical and Economic Analysis of an
+      Enzymatic Hydrolysis Based Ethanol Plant – Draft. SERI Technical Report TP-232-
+       4295. Golden, CO: Solar Energy Research Institute, 1991.
+       http://biodev.nrel.gov/bcfcdoc/3892.pdf.
+
+59.    Jechura, J. Sugar Platform Post Enzyme Subcontract Case. Technical Memo, Document
+      #9382 Golden, CO: National Renewable Energy Laboratory, October 2005.
+       http://biodev.nrel.gov/bcfcdoc/9382.pdf.
+
+60.    Merino, S.T.; Cherry, J. “Progress and Challenges in Enzyme Development for Biomass
+        Utilization.” Adv. Biochem. Engin./Biotechnol.; Vol. 108, 2007; pp. 95-120.
+
+61.    Dean, D.; Dodge, T.; Valle, F.; Chotani, G. “Development of biorefineries—technical
+      and economic considerations.” Kamm, B. et al., ed. Biorefineries—industrial processes
+      and products. Status quo and future directions. Vol. 1, Weinheim, Germany: Wiley-
+     VCH, 2006; pp. 67–83.
+
+62.   “New Enzymes Turn Waste into Fuel.” Press release. Novozymes, Inc., February 15,
+       2010. http://novozymes.com/en/news/news-archive/Pages/45713.aspx.
+
+63.    “Genencor Introduces Accellerase DUET.” Press release. Genencor, February 15, 2010.
+       http://www.genencor.com/wps/wcm/connect/genencor/genencor/media_relations/news/ar
+       chive/2010/pressrelease_509_en.htm.
+
+64.    Ahmetović, E.; Martin, M.; Grossman, I.E. “Optimization of energy and water
+      consumption in corn-based ethanol plants,” Ind. Eng. Chem. Res.; Vol. 49, 2010; pp.
+       7972-7982.
+
+65.    Steinwinder, T.; Gill, E.; Gerhardt, M. Process Design of Wastewater Treatment for the
+     NREL Cellulosic Ethanol Model. NREL/SR-5100-51838. Work performed by Brown and
+       Caldwell, Nashville, TN, under NREL Subcontract RGB-0-40607. Golden, CO: National
+      Renewable Energy Laboratory, September 2011.
+       http://www.nrel.gov/docs/fy11osti/51838.pdf.
+
+66.    Mohagheghi, A.; Ruth, M.; Schell, D. “Conditioning Hemicellulosic Hydrolysates for
+       Fermentation: Effects of Overliming pH on Sugar and Ethanol Yields.” Process
+       Biochemistry; Vol. 41, 2006; pp. 1806-1811.
+
+67.    Reaction Engineering International. Steam and Electricity Generation Options for the
+       Biomass-To-Ethanol Process. Work performed by Reaction Engineering International,
+        Salt Lake City, UT, under NREL Subcontract ACO-8-18019-01. Golden, CO: National
+      Renewable Energy Laboratory, March 1998.
+
+
+
+                                      92

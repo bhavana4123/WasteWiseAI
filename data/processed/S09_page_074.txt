@@ -1,0 +1,33 @@
+esters as they crystallize and thereby lower the cloud point of the fuel. The crystallized esters
+could be melted by heating and used within the plant as boiler fuel.
+
+Additization of Esters
+
+Petroleum-based diesel fuels are treated with a wide range of additives to improve lubricity,
+detergency, oxidative stability, corrosion resistance, conductivity, and many other properties.
+Additive technology for biodiesel is less advanced, so fewer additives are available to enhance
+performance.
+
+
+
+
+
+           Figure 24. Oxidation behavior of vegetable oils and animal fats [1].
+
+One area where the biodiesel producer needs to give serious consideration is oxidative stability.
+Biodiesel, because it contains large numbers of molecules with double bonds, is much less
+oxidatively stable than petroleum-based diesel fuel. Fortunately, stability-enhancing additive
+technology is well-developed in the food industry and many of these additives can be carried
+over to stabilizing biodiesel.
+
+Figure 24 shows typical oxidation behavior for vegetable oils and animal fats. In this test, the oil
+and fat were exposed to heat and aeration to accelerate the oxidation process. The progress of the
+oxidation is monitored by measuring the peroxide value, or the fraction of the oil that has been
+converted to a peroxide molecule, the first step in the oxidation process. Both the vegetable oil
+and animal fat have no conversion for a period of time (called the induction period), but then
+oxidize quickly. In this case, the lard actually oxidizes earlier than the vegetable oil, probably
+due to the presence of natural antioxidants in the vegetable oil. Lipid oxidation is an autocatalytic
+process so that when it starts, it progresses at ever-increasing rate.
+
+
+                                      70

@@ -1,0 +1,47 @@
+                                Temperature (K)                    COICO,
+                         1000       1200              ·1 400                           2          3                                                                                        M                                                                                     R                                                  -        Ğ-..                                           0                  0                                                                                        "ĝ                                                                                     0                                                                                           .'                                  ,                   "                                                                                                                      ,                                                                                                          ,                   m                                                                                                                        ,                   2 r-                                             \0                                                                 1:{                                                          r___·_ -T,            0                 4 r-                          /*                                                                                   ,                  6 f-                            ,                 100-              E                              /;                                        <DE                 2-                            :tr ȋ100 s       i=                          <D                                   o         100 s                          C>  8 r-                                          c'"
+                                 <;;
+                      is 10
+
+                                            Key                                                    200-             o                   12 -
+                                                                      1:{ Experimental data
+                                                                                                                                                          ..                            0    "
+                      14 r-                          Prediction
+               - Ref 1
+                   16   - Grate  1:{ - - - -     --­ Ref 2                         - 0 -
+
+
+
+Fig. 5-14. Observed and calculated temperature and composition in abiabatic char conversion zone  (Source Reed 1984, Fig. 5)
+
+temperature in the absence of solids. (Combustion with
+air generates producer gas; combustion with oxygen                            Fuel
+could generate                synthesis                               gas.)                         The hot                                    combustion                                                                                                   ĜRproducts         (1000'-1100'C)                        are                             reinjected                                           at the                                           center of                                                                                            gthe gasifier. One-fourth of the gas rises through the                      .i J                                                                                                              Air              0"
+                                                                                                   Dupper chamber to assure pyrolysis of the biomass fuel.                                            -ll-                                                                                                   m
+The remaining three-fourths travel down through the
+lower chamber               containing                         the char                              produced                                      from the
+biomass        in the upper                    chamber.                        The                                 char is gasified                                         by                 '"      !
+reacting with the CO2 and H20 produced by combus­
+tion, as in other gasifiers. The high-temperature com­bustion chamber may permit more thorough                      ,                                        )
+destruction of the tars; in any case, this gasifier claims                                                                                     Top gas
+to produce very low tar levels.                                                     Pyrolysis                 burner
+                                                                          zone
+
+            Table 5-5. Tar Content in
+      Product Gas from Downdraft Gasifiers                                                                       L---
+                          Throat   Specific   Tar                          Reduction
+                Capacity  Diameter   Load   Content                       zone
+                                                     Gas outletGasifier           kg/h    m     kg/hm2  g/Nm3         h
+                                            <-:
+Kromag KS-12        1 5.0       0.12     1330      0.62
+Kromag K-4          7.5       0.09        1 1 80        1 .90
+Semmler           12.0         0.1 5      680      0.88
+Danneberg             1 9.0        0.1 5     1075     0.70                                              .....
+Leobersdorfer      36.0       0.42      260        1 .20
+TH. Twente         20.0       0.20      640     0.50                             Ash pit
+Forintek Canada    50.0         ?         ?     3.00
+Mini Gasifier         0.2        0.01     2550      3.00
+                                                                                   Fig. 5-15. DeLaCotte tar recyclmg gasifier (Source: Kaupp 1984a,
+Source: Susanto 1983                                                           Fig. 133)
+
+44    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,47 @@
+Depending on their origin and contaminants, industrial gases sometimes require pretreatment
+comparable to that applied to raw landfill gas. Particulates (e.g., catalyst dust), oils, condensable gases,
+water, C4+ hydrocarbons and acid gases may all need to be removed. Process offgases are usually
+available at pressures of several atmospheres or higher, which are generally satisfactory for delivery to
+an on-site or nearby reciprocating engine facility.
+
+2.4.8 System Availability
+The percentage of time that a system is either up and running or available for use is referred to as its
+availability. Systems are unavailable during periods of scheduled maintenance or forced outages.
+Reciprocating engines are maintenance intensive but, they can provide high levels of availability, even in
+high load factor applications. While natural gas engine availabilities vary with engine type, speed and
+fuel quality, Table 2-8 illustrates typical availability numbers based on a survey of natural gas engine
+gensets in CHP applications.
+
+         Table 2-8. Availabilities and Outage Rates for Natural Gas Engines
+           Reciprocating Engines                < 100 kW      100-800 kW    800-9000 kW
+          Systems Surveyed                      14             8             18
+              Availability, %                        97.93%        95.99%        98.22%
+           Forced Outage Rate, %                 1.76%         1.98%         0.85%
+           Scheduled Outage Rate, %               0.73%         2.47%         1.12%
+          Source: ICF27
+
+
+Some engine manufacturers offer engine exchange programs or other maintenance options that
+increase the ability to promptly deliver and install replacement units on short notice, typically increasing
+facility availabilities to greater than 95 percent. The use of multiple units or back-up units at a site can
+further increase the availability of the overall facility over 99 percent.
+
+2.5   Emissions and Emissions Control Options
+Emissions of criteria pollutants – oxides of nitrogen (NOx), carbon monoxide (CO), and volatile organic
+compounds (VOCs – unburned, non-methane hydrocarbons) – are the primary environmental concern
+with reciprocating engines operating on natural gas. Emissions of sulfur compounds (SOx) depend only
+on the sulfur content of the fuel. SOx emissions are an issue only in large, slow speed diesels firing heavy
+oils. SOx emissions from natural gas engines are assumed to be less than 0.0006 lb/MMBtu.28 Particulate
+matter (PM) can be an important pollutant for engines using liquid fuels. Ash and metallic additives in
+the fuel contribute to PM in the exhaust. Particulate emissions from 4-stroke lean burn natural gas
+engines are 4,000 times lower than for an uncontrolled diesel engine.
+
+
+
+
+
+27 Distributed Generation Operational Reliability and Availability Database, EEA, Inc. (now part of ICF), January 2004
+28 EPA AP-42, Natural Gas Fired Reciprocating Engines.
+
+
+Catalog of CHP Technologies                         2–20                         Reciprocating IC Engines

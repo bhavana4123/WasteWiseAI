@@ -1,0 +1,33 @@
+                  Figure 9. Sludge HTL biocrude production cost for goal case.
+
+3.2  Biocrude Upgrading Plant
+
+    Table 21 lists the feed and product flow rates for the centralized sludge biocrude upgrading facility.
+The plant processes 2,730 BPSD of biocrude feed (from 10 HTL plants) and produces 2,660 BPSD of
+diesel and gasoline blendstocks.
+
+
+Table 21. Annual feed and product flows for centralized biocrude upgrading plant (processing biocrude
+         from 10 HTL plants).
+
+                      Stream                      Million gal/year            Million lbs/year
+
+            Biocrude feed                                37.9                    296.2
+             Hydrotreated oil                              36.6                    242.6
+             Diesel blendstock                 27.6 (29.6 million gge/year)(a)         183.8
+           Naphtha (gasoline blendstock)      9.2 (9.1 million gge/year) (a)           56.5
+
+               (a) Based on a gasoline LHV of 116,090 Btu/gal (ANL 2016).
+
+
+3.2.1    Total Capital Investment
+
+    Table 22 summarizes the costs presented in Section 2.0 for the sludge HTL biocrude upgrading plant
+including the steam cycle and balance of plant items such as the tank farm, flare and cooling water
+system. The hydrotreating section of the plant has the single highest installed capital cost.
+
+
+
+
+
+                                         29

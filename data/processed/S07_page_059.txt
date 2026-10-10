@@ -1,0 +1,48 @@
+Mechanical biological treatment
+An alternative to the conventional ‘mass burning’ of residual MSW, which is of current
+interest, is the so-called mechanical biological treatment (MBT) processes.These typically
+split the residual waste stream into three fractions: a recyclable stream (glass, metals), a
+biological stream (for composting and anaerobic digestion), and a fuel stream for energy
+recovery.There are about 50 such facilities in operation in Europe mainly in Germany and
+Austria.There is considerable interest in the rest of Europe in these technologies as a
+means of achieving the requirements of the Landfill Directive.
+
+
+This Topic is being undertaken by AEA Technology in the UK. It will be carried out in
+close co-operation with Task 37. An initial database of MBT plants has been created,
+which is now available on the Task 36 website. A case study titled ‘MBT in Ennigerloh’
+(Germany) is available and a further two case studies of Eastern Creek (Australia) and
+SBI Freisland, Omrin, (Netherlands) are being drafted and will be finalised in 2007.
+
+
+Greenhouse gas balances for MSW systems
+This Topic is being led by CANMET in Canada.The scope of the project was modified
+during 2005. Originally it included the development of a comprehensive spreadsheet that
+would encompass both GHG implications and economics of management strategies for
+MSW and provide a waste management optimisation tool. However, the funding body –
+The Canadian Government Panel on Energy R&D (PERD) – has advised CANMET that
+work has already been done in Canada to produce an environmental analysis model ‘ICF’.
+This model is able to evaluate the lifecycle environmental and energy effects of waste
+management processes but does not contain the capital, operating and maintenance costs
+of these technologies.The objectives of the project were:
+●to develop an economic model to be used in conjunction with the ICF;
+●to provide a waste management optimisation tool; and
+●to show a clear picture of how Canada’s management of MSW can assist in meeting
+  Kyoto Protocol targets.
+
+
+In 2005 the Economic Spreadsheet Model was developed.This comprised:
+●Data for three Canadian case studies and economic analyses. Specifically, for the BTA
+  demonstration plant in Toronto; the Edmonton composting facility; and the Burnaby
+  waste-to-energy facility in Vancouver.
+●Development, testing and debugging of the comprehensive economics spreadsheet model.
+●Running the model (performing optimisation exercises) on a number of scenarios, in
+  conjunction with runs on the ICF Model.
+
+
+The work programme in 2006 was focused on completion/exporting the model to
+participating countries. Specifically, fine-tuning of the model and updating of data;
+provision of instruction in model modification/use to those participating countries desiring
+this assistance; and preparation/delivery of the final report/model.
+
+                                                                           59

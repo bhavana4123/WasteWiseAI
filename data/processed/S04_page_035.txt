@@ -1,0 +1,37 @@
+                  Figure 2-2. Closed-Loop Heat Recovery System
+
+
+
+
+
+Ebullient Cooling Systems – Ebullient cooling systems cool the engine by natural circulation of a boiling
+coolant through the engine. This type of cooling system is typically used in conjunction with exhaust
+heat recovery for production of low-pressure steam. Cooling water is introduced at the bottom of the
+engine where the transferred heat begins to boil the coolant generating two-phase flow. The formation
+of bubbles lowers the density of the coolant, causing a natural circulation to the top of the engine.
+
+The coolant at the engine outlet is maintained at saturated steam conditions and is usually limited to
+250°F and a maximum of 15 psig. Inlet cooling water is also near saturation conditions and is generally 2
+to 3°F below the outlet temperature. The uniform temperature throughout the coolant circuit extends
+engine life and contributes to improved combustion efficiencies.
+
+Exhaust Heat Recovery – Exhaust heat is typically used to generate hot water of up to about 230°F or
+steam up to 400 psig. Only a portion of the exhaust heat can be recovered since exhaust gas
+temperatures are generally kept above temperature thresholds to prevent the corrosive effects of
+condensation in the exhaust piping. For this reason, most heat recovery units are designed for a 250 to
+350°F exhaust outlet temperature.
+
+Exhaust heat recovery can be independent of the engine cooling system or coupled with it. For example,
+hot water from the engine cooling can be used as feedwater or feedwater preheat to the exhaust
+recovery unit. In a typical district heating system, jacket cooling, lube oil cooling, single stage
+aftercooling, and exhaust gas heat recovery are all integrated for steam production.
+
+2.4  Performance Characteristics
+Table 2-2 summarizes performance characteristics for typical commercially available natural gas spark
+ignition engine CHP systems over a 100 kW to 9 MW size range. This size range covers the majority of
+the market applications for engine-driven CHP. Heat rates and efficiencies shown were taken from
+manufacturers’ specifications and industry publications. Available thermal energy was taken directly
+from vendor specifications or, if not provided, calculated from published engine data on engine exhaust
+
+
+Catalog of CHP Technologies                          2–9                         Reciprocating IC Engines

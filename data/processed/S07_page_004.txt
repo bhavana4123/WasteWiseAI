@@ -1,0 +1,47 @@
+     Biomass Pyrolysis
+
+
+
+
+                This feature article provides an overview based on the work of Task 34: Pyrolysis of
+               Biomass. It was prepared by the Task Leader, Professor Tony Bridgwater, Bioenergy
+               Research Group, Aston University, UK.
+
+
+
+          Introduction
+
+
+              Renewable energy is of growing importance in responding to concerns over the
+               environment and security of energy supply. Biomass is unique in providing the only
+               renewable source of fixed carbon, which is an essential ingredient in meeting many of
+               our fuel and consumer goods requirements. It is also considered the renewable
+                energy source with the highest potential to contribute to the energy needs of modern
+                  society for both the developed and developing economies worldwide.1,2 Wood, energy
+                crops and agricultural and forestry residues are some of the main renewable energy
+                resources available.The biodegradable components of municipal solid waste (MSW)
+              and commercial and industrial wastes are also significant bioenergy resources,
+                although, particularly in the case of MSW, they may require extensive processing
+                before conversion.
+
+
+                Bioenergy could provide the major part of the projected renewable energy provisions
+                 of the future as biofuels in the form of gas, liquid or solid fuels, or electricity and
+                heat.There are many ways of providing these biofuels, including thermal and
+                  biological conversion, of which pyrolysis, and particularly fast pyrolysis, forms the
+                 focus of this review.
+
+
+               Of the available biomass conversion technologies for production of more usable
+                energy forms, fast pyrolysis is the least developed, but offers the benefits of a liquid
+                  fuel with concomitant advantages of easy storage and transport as well as higher
+              power generation efficiencies than fossil fuelled systems at the smaller scales of
+                operation that are likely to be realised from bioenergy systems. All the other thermal
+              and biological biomass conversion processes are commercially available, usually with
+               performance guarantees, and are steadily being implemented around the world.
+
+
+
+
+
+4

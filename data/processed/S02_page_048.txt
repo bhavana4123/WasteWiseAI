@@ -1,0 +1,51 @@
+                                                    Airgitator
+                            /.,..
+
+
+
+                                                                          ,
+                                                                          I
+                                                                          I
+                                                                                             ,                            c ==.:_ΟI     I
+                                                                                I     I
+                                                                                     I
+                                                                                I                                                                                             I                                       Cyclone
+                                                     Ir=--=--.:>I
+                                                                               I
+                                                                                       I    ,
+                                                                          I •• 1
+                                                                 11.' 1
+                                                                                       II                                                                                             II ,.
+
+                                                                                       ,    ,                                          Fan motor
+                                  L----.                                                          .....----,---I'l.                             r----
+                                                                                      I _                                          - _-"C:a ___jU'l:==>_                                                                             Ie;.
+            Ceramic                ballls.tJl
+                 Grid plate
+
+
+
+
+
+Fig. 5-11. Buck Rogers gasifier  (Source: Walawender 1985, p. 913. © 1985. Used with permission of Elsevier Science Publishing Co., Inc.)
+
+In principle, the gasifier can be scaled to large     perience with these gasifiers (using both oxygen and
+diameters because it operates as a plug-flow reactor,      air) have uncovered questions that must be understood
+and the air and fuel are uniformly mixed. A 0.6 m    and resolved in any commercial design.
+(24 in.) internal diameter gasifier has been operated
+successfully by the Buck Rogers Co. of Kansas     5.8.3 Unanswered Questions About the
+(Walawender 1985; Chern 1985). A 0.77 m (30 in.)     Stratified Downdraft Gasifier
+internal diameter gasifier to produce 750 kW of power                                              The foremost question about the stratified downdraft
+has been developed by Syngas Systems, Inc., (Graboski
+                                                                 gasifier design concerns char and ash removal. As the
+1985) and is being operated extensively on air and
+                                                         charcoal reacts with the gases in the char gasification
+oxygen (Graboski 1986).                                                        zone, it eventually reaches a very low density and
+We believe that these advantages, coupled with the     breaks up into a dust containing all of the ash as well
+design's simplicity, may ultimately allow the stratified     as a percentage of the original carbon. This dust may
+downdraft gasifier to supplant the Imbert and other ear­    be carried away partially by the gas. However, sooner
+lier gasifiers, and that a number of design variations     or later it will begin to plug the gasifier so it must be
+will grow from the basic stratified downdraft gasifier    removed by shaking or stirring. (Imber! gasifiers have
+described here. Nevertheless, several years of ex­     a provision for shaking the grate and, when used to
+
+40    Handbook of Biomass Downdraft Gasifier Engine Systems

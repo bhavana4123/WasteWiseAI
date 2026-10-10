@@ -1,0 +1,52 @@
+              Table A-1 Averages and Standard Deviations of Parameters-Continued
+                                                     # of
+       Item         Parameter             Units       samples              Thermo   Meso
+        5    Total Alkalinity (15 d)      mg CaCO3/L       7/6      average         8,771     10,617
+                                                                                      std. dev.         1,195     1,132
+                                                                               coeff. var.        0.14       0.11
+               Total Alkalinity (10 d)      mg CaCO3/L      7/14     average          9,571     9,507
+                                                                                      std. dev.        901      982
+                                                                               coeff. var.        0.09       0.10
+               Total Alkalinity (5 d)       mg CaCO3/L       1      average         6,600     5,600
+                                                                                      std. dev.       N/A     N/A
+                                                                               coeff. var.      N/A     N/A
+        6    Total Volatile Acids (15 d)    mg acetic        7/6      average         2,439      945
+                                                     acid/L                      std. dev.         1,829      727
+                                                                               coeff. var.        0.75       0.77
+               Total Volatile Acids (10 d)    mg acetic        6/13     average         4,183     5,143
+                                                     acid/L                      std. dev.         1,363     3,520
+                                                                               coeff. var.        0.33       0.68
+               Total Volatile Acids (5 d)     mg acetic        1      average         8,900     8,500
+                                                     acid/L                      std. dev.       N/A     N/A
+                                                                               coeff. var.      N/A     N/A
+        7   TVA/TALK Ratio (15 d)      mg acetic        7/6      average          0.28       0.09
+                                                         acid/ mg                     std. dev.         0.22       0.08
+                                       CaCO3                    coeff. var.        0.79       0.86
+          TVA/TALK Ratio (10 d)      mg acetic        6/13     average          0.45       0.56
+                                                         acid/ mg                     std. dev.         0.18       0.40
+                                       CaCO3                    coeff. var.        0.40       0.71
+          TVA/TALK Ratio (5 d)      mg acetic        1      average          1.35       1.52
+                                                         acid/ mg                     std. dev.       N/A     N/A
+                                       CaCO3                    coeff. var.      N/A     N/A
+        8    Total Solids (15 d)         %            7/6      average           2.2        2.2
+                (Digester)                                                         std. dev.          0.3        0.1
+                                                                               coeff. var.        0.13       0.05
+               Total Solids (10 d)         %           7/14     average           2.4        2.9
+                (Digester)                                                        std. dev.          0.3        0.6
+                                                                               coeff. var.        0.11       0.20
+               Total Solids (5 d)          %            1/1      average           2.0        2.0
+                (Digester)                                                        std. dev.       N/A     N/A
+                                                                               coeff. var.      N/A     N/A
+        9    Total Solids (15 d)         %            7/6      average           9.3        6.4
+               (Feed)                                                             std. dev.          2.6        1.5
+                                                                               coeff. var.        0.28       0.23
+               Total Solids (10 d)         %           7/14     average           9.8        9.6
+               (Feed)                                                             std. dev.          1.9        1.6
+                                                                               coeff. var.        0.19       0.17
+               Total Solids (5 d)          %            1/1      average           8.2        8.2
+               (Feed)                                                             std. dev.       N/A     N/A
+                                                                               coeff. var.      N/A     N/A
+
+
+Anaerobic Digestion of Food Waste                                                          A- 3
+Funding Opportunity No. EPA-R9-WST-06-004

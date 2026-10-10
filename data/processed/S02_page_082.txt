@@ -1,0 +1,57 @@
+sharpness indicates that particle separation  is      gasifier, especially during startup, idling, and when
+degraded by some mechanism such as reentrainment    wet fuel is used.
+or fragmentation.
+                                                        8.3.4 Cleanup Design Target
+The minimum particle size and typical pressure drops
+are shown for various scrubbers in Table 8-2. The     Requirements for solid-particle removal jIlay be deter­
+scrubber selection parameters are the particle size to be    mined from knowledge of average particle diameter dp'
+removed, the desired collection efficiency, and the    and the worst-case char-ash dust content     This in­                                                                                                                            (Cd)'
+maximum pressure drop.                               formation can be gathered using isokinetic sampling
+                                                      techuiques to collect a representative sample of all par­
+8.3 Gas Cleanup Goals                               ticle sizes. If celmax represents the maximum permis­
+                                                             sible dust level for engine use, then the maximum
+                                                           a is given by:8.3.1 Gas Contaminant Characteristics              permissible dust penetration
+                                                                                                                            (8-3)Gas cleanup goals should be based on the degree of con­                                ex. = cdmax x 100% /cdmeasured
+tamination, the size, distribution, and nature of the                                      On a probability plot of the size distribution of the dust
+contaminants, as well as the degree of cleanliness re­                                                 shown, for example, in Fig. 7-4, we then find the par­
+quired by the equipment. Both solid and liquid con­                                                                  ticle size d where cumulative mass % less than dptaminants are present in producer gas. The solids are                                                       equals a.              is then the cyclone cut diameterchar, ash, and soot, and they cover a wide range of sizes.                        1-1:tis dp50                                                       required for solids cleanup.
+The liquid is initially a fine mist or fog composed of
+                                                                                                                              50)                                                          useful rule of thumb is that the cut diameter (ddroplets smaller than 1  iJlIl, but the droplets   A                                                                                                  p
+agglomerate to increase in size as the gas cools.           required for a cyclone or scrubber will be about the
+                                               same as the diameter at the cumulative fraction cor­
+8.3.2 Typical Dirty Gas                             responding to the maximum permissible penetration
+                                                             (Calvert 1972).A typical specification for dirty gas might be
+   mg/Nm3 of particulates with mean diameter d 50100                                        p
+        a geometric standard deviation crg   3.5, and    8.4 Classification of Particles100 iJlIl,
+tar contamination of    mg/Nm3.                 1000                                                        Solid particles with diameters greater than 1 Jlm are
+8.3.3 Gas Cleanup Goals                              called dust, and those with diameters below 1 Jlm are
+                                                            referred to as fume. Liquid droplets over    Jlm in                                                                                   10The solids can be quite abrasive, and the tar mist can                                                      diameter are called spray, and droplets with diameters
+cause the inlet valves, rings, throttle shafts, and other                                                 below 10 Jlm are called mist. Aerosols are solids or
+moving parts to stick. Therefore, both contaminants                                                           liquids suspended in a gas (Calvert 1972).
+must be thoroughly removed for reliable engine opera­
+tion (Gengas 1950; Freeth 1939; Goldman 1939; Kaupp     Dispersion aerosols are materials that begin as large
+1984a; Kjellstrom 1981). Successful gasifier-engine     particles and subsequently are broken into smaller
+systems have required gas cleanliness standards from      sizes. They tend to be coarse with a wide size-range,
+10 mg/Nm3 to less than 1 mg/Nm3.                   composed of irregular particles and aggregates  (i.e.,
+                                                        char-ash dust). Condensation aerosols are formed from
+Many gasifiers can produce very clean tar-free gas                                                        supersaturated vapors, such as tar and water mist from
+under certain conditions. However, it is best to design                                                     chemical reactions, and soot formed from cracked
+the gas cleanup system with adequate capability for the                                                   hydrocarbon molecules. They tend to be very fine and
+very dirty gas that is occasionally produced by every                                                       of uniform size.
+
+         Table 8-2. Minimum Particle Size
+           for Various Types of Scrubbers            8.5 Particle Movement and Capture
+                                   Mechanisms                    Pressure Drop,  Minimum Particle
+                                    in. water           Size, öm                                               Methods for separating particulates from the gas stream
+Spray towers                0.5-1 .5                    1 0          usually depend on the mass of the particles. The
+Cyclone spray scrubbers      2-10             2-10           simplest method allows the particles to settle under the
+Impingement scrubbers       2-50               1-5           influence of gravity, with the gas stream flowing verti­
+Packed- and fluidized-bed                                      cally upward or horizontally. For horizontal separa­
+    scrubbers               2-50             1-10            tion, the process can be accelerated by providing
+Orifice scrubbers           5-100                       1          multiple horizontal plates. Particles also can be
+Venturi scrubbers           5-100               0.8                                                       separated from the gas on the basis of their mass by
+Fibrous-bed scrubbers        5-1 1 0              0.5                                                       using the centripetal force provided by a centrifugal
+Source: Perry 1973, Table 20-41.                                   separator.
+
+
+74    Handbook of Biomass Downdraft Gasifier Engine Systems

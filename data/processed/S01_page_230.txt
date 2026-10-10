@@ -1,0 +1,47 @@
+                                                  Woody and Tree Materials
+
+
+FIR, DOUGLAS; Pseud tsuga taxifolia; solid; air-dried at 105'4 10°C (221"-230"F),    density, 0.48 g cm -9.
+
+   specific heat: 273-379 K (32"-223OF)
+
+   Cp(Btu lb-I  OF-')    = 0.327
+   Cp(cal yl2-l)    = 0.327
+   Cp(J g-  K   )          1.368
+
+                                                          12DUN
+
+FIR, DOUGLAS; Pseudotsuga menzeisii; solid; Wood was air-dried at room temperature,
+   Composition is ash  0.15% and char yield   20.1%.  Char was obtained from heating
+   the sample to 5 0 O O C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+
+    q,(gtoss)   8710 Btu lb-I                    qv(gross) = 13720 Btu 1
+    q,(gtoss)   4840 cal g-l                     qv(gross) = 7620 cal g-
+    qv(gross) = 20250 J g-l                         q,(gross) = 31900 J g-l
+
+                                                                   82SUS
+
+FIR, DOUGLAS; BARK; Pseudotsuga menzeisii; solid; Bark samples were air-dried at
+   room temperature,  Composition is ash   1.25% and char yield = 37.2%. Char was
+   obtained from heating the sample to 5OOOC (932'F)  in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     chat (from 500°C heating)
+
+                                                                       1                   Btu                                                      q,(gross)  =                                                   12860    q,(gross)             10310                                                           Btu            =                        1P-'                         g-                    cal    qv(gross)            = 5730                                                                             g-                                                      q,(gross)                                                     = 7140                                                                cal
+    q,(gross)  = 23960 3 g-l                      qv(gross) = 29890 J g-l
+
+                                                                    82SUS
+
+
+
+
+
+                                       253

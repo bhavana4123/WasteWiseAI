@@ -1,0 +1,48 @@
+5.4.5  Fuels
+Stationary microturbines have been designed to use natural gas as their primary fuel. Microturbines
+designed for transportation applications typically utilize a liquid fuel such as methanol. As previously
+noted, microturbines are capable of operating on a variety of fuels including:
+
+    •   Liquefied petroleum gas (LPG) – propane and butane mixtures
+    •  Sour gas – unprocessed natural gas as it comes directly from a gas well
+    •   Biogas – any of the combustible gases produced from biological degradation of organic wastes,
+       such as landfill gas, sewage digester gas, and animal waste digester gas
+    •   Industrial waste gases – flare gases and process off-gases from refineries, chemical plants and
+        steel mills
+    •  Manufactured gases – typically low- and medium-Btu gas produced as products of gasification
+       or pyrolysis processes
+
+Some of the elements work as contaminants and are a concern with some waste fuels, specifically the
+acid gas components (H2S, halogen acids, HCN, ammonia, salts and metal-containing compounds,
+halogens, nitrogen compounds, and silicon compounds) and oils. In combustion, halogen and sulfur
+compounds form halogen acids, SO2, some SO3, and possibly H2SO4 emissions. The acids can also corrode
+downstream equipment. Solid particulates must be kept to low concentrations to prevent corrosion and
+erosion of components. Various fuel scrubbing, droplet separation, and filtration steps are required if
+fuel contaminant levels exceed manufacturer specifications. Landfill gas in particular often contains
+chlorine compounds, sulfur compounds, organic acids, and silicon compounds which dictate fuel
+pretreatment. A particular concern with wastewater treatment and landfill applications is the control of
+siloxane compounds. Siloxanes are a prevalent manmade organic compound used in a variety of
+products, and they eventually find their way into landfills and waste water. When siloxanes are exposed
+to high temperatures inside the combustion and exhaust sections of the turbine, they form hard silicon
+dioxide deposits that can eventually lead to turbine failure.
+
+5.4.6 System Availability
+Microturbine systems in the field have generally shown a high level of availability.87 The basic design and
+low number of moving parts is conducive to high availability; manufacturers have targeted availabilities
+of 98-99 percent. The use of multiple units or backup units at a site can further increase the availability
+of the overall facility.
+
+5.5   Emissions
+Microturbines are designed to meet State and federal emissions regulations including more stringent
+State emissions requirements such as in California and other states (e.g., the Northeast). All
+microturbines operating on gaseous fuels feature lean premixed (dry low NOx, or DLN) combustor
+technology. All of the example commercial units have been certified to meet extremely stringent
+standards in Southern California of less than 4-5 ppmvd of NOx (15 percent O2.) After employing a
+CO/VOC oxidation catalyst, carbon monoxide (CO) and volatile organic compound (VOC) emissions are at
+
+
+87 Availability refers to the percentage of time that the system is either operating or available to operate. Conversely, the
+system is unavailable when it is shut down for maintenance or when there has been a forced outage.
+
+
+Catalog of CHP Technologies                         5–16                                  Microturbines

@@ -1,0 +1,40 @@
+Table 8. HTL aqueous phase constituent analysis from experimental run
+
+                       Constituent                         mg/L(a)
+      BOD(d)                                         22,900
+    COD                                           61,300
+     CODs                                   Not measured
+    TOC (total organic carbon)                        20,550
+      Total Carbon                                    24,700
+      TKN(b) (total Keldahl nitrogen)                     7,670
+     TSS (total suspended solids)                  Not measured
+      Nitrogen (total)                                   7,700
+      Free ammonia-Nitrogen                           4,900
+        Calcium                                  <1
+      Phosphorus (total)                              11
+      Potassium                                    280
+     Sodium                                      140
+       Sulfur                                       461
+       Silicon                                       294
+      Chloride                                      280
+       Nitrate                                        36
+      Phosphate                                   <10
+       Sulfate                                       196
+       Alkalinity as CaCO3, total(b)                      15,700
+      Dissolved Organics
+         Acetic Acid                                    5,450
+        Acetone                                       1,090
+        Ethanol                                    240
+        Methanol                                      6,870
+         P-Cresol                                       1,170
+        Propanoic acid                                 2,040
+       Phenolics, total recoverable(b)                     69
+    pH                                                   7.8
+        (a) Detroit sludge; WW-06 SS-2 (20% solids feed; LHSV=4 hr-1)
+        (b) Detroit sludge; WW-06 (composite of LHSV 2 hr-1 and 4 hr-1)
+
+
+
+
+
+                            16

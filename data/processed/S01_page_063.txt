@@ -1,0 +1,50 @@
+Animals
+
+
+SHEEP, VISCERA; solid; protein ant  fat composition determined on ash-free dry basis for
+    viscera from bodies of 63 sheep; mean composition: protein, 33.50%; fat, 66.50%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   qv(gross) = 14420 Btu 1
+    q,(gross) = 801 1 cal g-
+   qv(gross) = 33518 J g-l
+
+   For the % fat range 26.42 to 87.12:
+
+    q,(gross) = [9770 + 69.86 (% fat)] Btu lb-I
+    q,(gross)   [5428 + 38.81 (% fat)] cal g-l
+    q,(gross) = [22711 + 162.38 (96 fat)] J g-l
+
+   For the 96 protein range 12.88-73.38:
+
+                      (%            =                       69.86                                  protein)]                                      Btu    q,(gross)                       -            [16762                                                                            IP-'                     (%                                              g-              [9312                       38.81                                 protein)]                                        cal    q,(gross) =                    -
+    q,(gross) = [38961 - 162.38 (% protein)] J g-l
+
+                                                              64PALIREI
+
+SHRIMP, BRINE; Artenia sp. (nauplu); solid; a brachiopod crustacean.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+    q,(gross) = 12127 f 1553 Btu lb- 1
+    q,(gross) = 6737 f 863 cal g-l
+   qv(gross)  28188 f 361 1 J g- 1
+
+                                                                             6 I SLO/RIC
+
+SNAIL; Tegula funebralis; solid; invertebrate animal; gastropod mollusk,
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected for moisture and ash content.
+   qv(gross) = 9144 Btu lbl 1
+   qv(gross) = 5080 cal g-
+    q,(gross)  = 21255 J g-l
+
+                                                                              7 1PA1
+
+
+
+
+
+                                      62

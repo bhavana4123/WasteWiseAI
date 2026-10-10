@@ -1,0 +1,47 @@
+                                                  Woody and Tree Materials
+
+
+OAK, RED; Q ercus rubra; solid; air-dried at 105"-110"C (22I0-23O0F),density,             -3    0.62 g cm  .
+    specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-I  OF-')     = 0.331
+   Cp(cal 4-l ~  - 9 = 0.331
+    C,( J g-  K-l)        =  1.385
+
+                                                          12DUN
+
+OAK, RED; Quercus rubra; solid; Material came from various locations in New
+   Hampshire.  Bole samples were composed of cross sections taken from four positions
+   along length of each tree (at the base, one-third, two-thirds, and at top of the stem).
+   Branch samples were composed of cross sections taken from four positions along
+    length of each of four branches (one branch from four positions in the live crown of
+   the tree).  Bark was removed from half of each bole and branch sample and all
+   samples were oven-dried at 85°C (185°F) to a constant weight.
+
+   gross heat of combustion: Assume values refer to room temperature, thermochemical
+    calorie used and values were expressed on a dry matter basis and adjusted for heat of
+   formation of nitric acid.  All tests were made at 99% confidence level and numbers in
+   parentheses ate standard errors.
+
+   bole with bark                           branch with bark
+                                                       q,(gross)   8797 (56)Btu Ibl 1    qv(gross) = 8780 (45) Btu
+    qv(gross) = 4878 (25) cal g-l                    q,(gross)   4887 (31) cal g-
+    q,(gross)  = 20410 (105) J g                    q,(gross)   20447 (130) J g-l
+
+    bole without bark                        branch without bark
+    qv(gross)  8654 (45) Btu lb- 1                 q,(gross)  = 8654 (56) Btu $'
+    q,(gross)   4808 (25) cal g:l,                   qv(gross) = 4808 (31) cal g-
+    q,(gross)  = 201 17 (105)J g                    q,(gross)   201 17 (130) J g-'
+
+    foliage
+    q,(gross)  = 8941 Btu Ib; 1
+    q,(gross)  = 4967 cal g-
+    q,(gross)  = 20782 J g-l
+
+                                                       82MUS/HOC
+
+
+
+
+
+                                        275

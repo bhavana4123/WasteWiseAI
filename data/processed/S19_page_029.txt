@@ -1,0 +1,35 @@
+                  Table 13. Installed Capital Costs in the FY 2012 SOT Model
+                     Compared to the 2011 Design Report (2007$)
+                 Capital Costs ($MM)           2011 Design Report    FY 2012 SOT
+       Pretreatment                                 30                 25
+        Neutralization/conditioning                       3                  4
+        Saccharification and fermentation                 31                 25
+        On-site enzyme production                      18                 17
+         Distillation and solids recovery                    22                 20
+    WWT                                       49                 41
+       Storage                                      5                  4
+        Boiler/turbogenerator                           66                 68
+          Utilities                                       7                  7
+       Total installed equipment cost                 232                210
+
+
+3.2.8 MESP of FY 2012 SOT Using Pilot-Scale Demonstration Data
+Table 14 shows the FY 2012 target case and SOT case performance and cost results, based on
+Run 4 process conditions and results. As in the 2011 design report, the SOT model includes on-
+site enzyme production to compute enzyme costs. The SOT case meets the cost target for FY
+2012 with a modeled MESP of $2.15/gal ethanol using $58.50/dry ton feedstock cost. Cost
+contribution details from each major process area for the FY 2012 SOT case are presented in
+Figure 8, while the historical trend in MESP reduction demonstrated since 2007 is shown in
+Figure 9. Further process and cost details are summarized in Appendix A. Ethanol yield (gal/ton)
+is roughly 10% lower than the target case; however, this is offset by a similar 10% cost reduction
+in combined capital and operating costs (Table 13), because of modifications made to the model
+directly tied to process improvements demonstrated in the pilot plant (e.g., deacetylation, lower
+severity pretreatment, and associated WWT updates). The roughly equivalent reduction of
+overall yields and associated capital and operating costs from the original targets lead to a
+demonstrated per-gallon ethanol cost that achieves the FY 2012 target.
+
+
+
+
+
+                                      22

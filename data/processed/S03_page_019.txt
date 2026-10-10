@@ -1,0 +1,33 @@
+Figure 2.1 Bench-scale Anaerobic Food Waste Digester Schematic.
+
+
+
+
+
+Preparation of Feed
+Five-gallon buckets of the final processed food waste slurry (called pulp) being fed to EBMUD’s
+full-scale digesters were collected weekly and stored in a refrigerator (maintained at
+approximately 4 to 8 ºC) for feed to the bench-scale digesters. The food waste evaluated during
+this study is representative of food waste available from restaurants, grocery stores, and produce
+markets throughout California, and around the U.S. Food waste was collected from local
+restaurants, grocery stores, and other food handling facilities that source separate food waste, and
+then pre-processed by a local waste hauler. The pre-processing included: screening to remove
+larger objects, a magnet to remove ferrous metals, and grinding to reduce particle size. After
+delivery of the pre-processed food waste by the hauler to EBMUD, the waste was slurried for
+pumping and underwent additional on-site processing to remove more contaminants. The on-site
+processing (EBMUD food waste process—patent pending) included pumping the food waste
+slurry through a rock trap and grinder to remove any remaining large debris, and then passing the
+food waste slurry through a paddle finisher to remove grit and smaller debris, such as plastics,
+rubber bands, and chopsticks. The paddle finisher is composed of 2-4 paddles that rotate along
+the inside length of a cylindrical screen, with 0.040 or 0.065 inch openings; modifications to the
+size openings could be explored. Soft biodegradable materials are pushed and extruded through
+the screen. After passing through the screen this material is called “pulp” . The harder materials,
+which are not extrudable through the screen openings, is called “pomace.” The pomace is
+transported by the paddles down the inside length of the screen and pushed out of the finisher.
+The pulp was pumped to EBMUD’s anaerobic digesters and the pomace was trucked to a landfill,
+but might be recycled with a dry digester (producing more methane gas for electricity
+generation), gasification (producing a synthetic gas for electricity generation and less residual
+solids), or some other process. The EBMUD process requires that all food waste materials be
+
+Anaerobic Digestion of Food Waste                                                              4
+Funding Opportunity No. EPA-R9-WST-06-004

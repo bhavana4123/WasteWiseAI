@@ -1,0 +1,53 @@
+                                                            Plant Materials (Non-Woody)
+
+
+ GALLBERRY, FOLIAGE;Rex glabra; solid; freeze dried to < 10% moisture content.
+     Composition is ash = 2.27% and char yield = 25.4%.  Char was obtained from heating
+     the sample t o 500°C (932°F) in nitrogen.
+
+     gross heat of combustion: ash-free, dry basis; assume values refer t o room
+     temperature.
+
+     fuel                                    char (from 500°C heating)
+     qv(gross) = 9960 Btu lb- 1                                                  qv(gross) = 14460 Btu I
+     qv(gross) = 5530 cal g-l                     qv(gross) = 8030 cal g-
+                                                                       1      q,(gross)  = 23140 J g-'                         q,(gross) = 33610 J g-
+
+                                                                    82SUS
+
+ GERMANDER SPEEDWELL (ANGEL'S-EYE); Veronica chamaedrys; solid; Material is an
+     integral part of the ecosystem at the herbaceous layer level of the mixed fir and
+     beech forest in the Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains
+t    (two different stations) in Romania. The plants have the following constitution: 33%
+      of the weight is represented by the stem axis and 67% by leaves. The species has an
+     aestival (summer) type vegetation period.
+
+     gross heat of combustion: assume values refer t o room temperature and values are
+     calculated to a dry basis.
+      q,(gross) = 7783 Btu lbi 1
+     qv(gross) = 4324 cal g-
+      q,(gross)  = 18092 J g-'
+
+                                                          73PAU/BRE
+
+ GLABER CRESS; Cardamine ghnduligera; solid; Material is an integral part of the
+    ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+     Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+     stations) in Romania. The plants have the following constitution: 33% of the weight
+       is represented by the stem axis and 67% by leaves. The species has a vernal (spring)
+     type vegetation period.
+
+     gross heat of combustion: assume values refer t o room temperature and values are
+     calculated to a dry basis.
+
+     qv(gross) = 7574 Btu  lb;'
+     qv(gross) = 4208 cal g-
+      q,(gross) = 17606 J g-'
+
+                                                           73PAU/BRE
+
+
+
+
+
+                                        149

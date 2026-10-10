@@ -1,0 +1,52 @@
+    Feedstock
+                                                                  Feedstock
+
+
+
+                    Flush water
+                                                        Screw feeder
+
+
+                            Steam
+
+
+
+                                                                         Vertical
+                                                             presteamer
+
+
+
+
+                   Flush water                          Screw feeder
+
+                                                              Acid                                                                                         Hydrolysate
+                                                                              Horizontal reactor       Vent       to oligomer
+                                                                                         conversion
+   Pressate                         Steam
+
+
+
+                                                                        Pressate
+                                                                                     reinjection
+
+             Figure 7. Horizontal pretreatment reactor design scheme (Andritz, Inc.)
+
+
+Costs for other equipment, such as pumps, agitators, tanks, conveyors, and heat exchangers, were
+estimated using Harris Group’s internal database. The holding tank for sulfuric acid (T-201) is
+plastic, and the rest of the equipment is stainless steel—most of it 316SS to provide additional
+acid resistance at temperatures below 100°C (212°F).
+
+3.2.4 Achieving the Design Case
+Table 7 shows demonstrated pilot-scale performance results achieved from 2008–2010
+[21, 34–35] as well as the 2012 conversion targets (i.e., those used in the Aspen model) for the
+pretreatment area. In pretreatment, the 2012 target is 90% conversion of xylan to monomeric
+xylose with 5% loss to degradation products. An additional 2012 target is to move to a whole-
+slurry conditioning process and thereby eliminate the need for a solid-liquid separation step in
+the pretreatment area.
+
+
+
+
+
+                                      23

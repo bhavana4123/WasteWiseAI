@@ -1,0 +1,18 @@
+7.4.1  Installed Packaged Systems
+Figure 7-10 presents packaged system installations by market segment, and Table 7-1 presents total
+installed packaged system capacity and the median system size by market segment.
+
+          Figure 7-10. Packaged System Installations by Market Segment
+
+
+
+
+
+            Source: ICF/U.S. DOE Combined Heat and Power Installation Database, February 2017
+           https://doe.icfwebservices.com/chpdb/.
+
+
+
+
+
+Catalog of CHP Technologies                          7–7                       Packaged CHP Systems

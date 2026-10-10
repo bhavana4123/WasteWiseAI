@@ -1,0 +1,56 @@
+                                                              Rubber Materials
+
+
+RUBBER-SULFUR COMPOUNDS; solid; repeating unit: [(C3H8),S   1; x varies between 1
+   and 4; y varies between 0 and 3; maximum sulfur content - 3 2 2
+
+   gross heat of combustion: at 30°C (86"F), sulfur as gaseous SO2.
+    q,(gross) = 10791 - 9041 m cal g-'
+    q,(gross)  = 45150 - 37828 m J g-'
+
+  m is grams of sulfur per gram of compound
+
+                                                                        34 JES/CUM
+
+TIRE; solid; typical compounding formulae for passenger tire treads.
+
+                                   Natural rubber       SBR cis-polybutadiene*
+                                                    46              %
+
+   Smoked sheet                          57.6                           -
+   SBR 1712                              -                          46.8
+   cis-Polybutadiene                       -                           11.3
+   Reogen                                         1.2                            -
+   K-Stay G                               -                                   2.3
+   Stearic acid                                 1.4                                 0.9
+   Zinc oxide                         2                                   1.4
+   Agerite resin D                          0.9                               0.7
+   Agerite HP                                  0.3                               0.2
+   Antozite 67s                                2.3                                 1.8
+   Microcrystalline wax                        0.6                              0.5
+    Philrich 5                                   2.9                             3.2
+  HAF                                       28.8                           -
+   ISAF                                   -                           29.5
+   Sulfur                                         1.4                               0.8
+  Amax No.  I                                    0.3                             -
+  Amax                                  -                                  0.7
+   Redax                                        0.3                           -
+
+   *SBR is styrene-butadiene rubber
+
+   gross heat of decomposition: at 375°C (707°F) the mean value is for random samples
+    of black-sidewal  tire tread; pr ducts are a liqu'd distillate with a heat of combustion   qv = 40000 J g   (10000 cal g- P) (18000 Btu lb- f ) and a combustible gas.         -'
+
+           =    q,(gross)                  Btu             1260                         1P-'                        g-    q,(gross)           = 700                   cal
+    q,(gross)  = 3000 J g-'
+
+   gross heat of combustion: value for the tire residue remaining after heating to
+   1000°C (1832°F).
+
+           =             14000                   Btu    q,(gross)                          1P-'                          g-            = 7800                    cal    q,(gross)
+    q,(gross)   32640 J g-l
+
+                                                      74COL/DOW
+
+
+                                       209

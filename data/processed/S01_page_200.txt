@@ -1,0 +1,51 @@
+Vegetable Oils
+
+
+
+PEANUT OIL; liquid; The vegetable oil has a chemical composition of up t o 3 fatty acids
+    linked to a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic = 11.38? stearic = 2.39, oleic = 48.28, linoleic = 31.95,
+    linolenic = 0.93, arachidic = 1.32? behenic = 2.52, and lignoceric = 1.23. The acid
+   value (number of mg of KOH needed to neutralize free fatty acids in  I g sample)
+    0.20, the phosphorus = 9.0 ppm, peroxide value (milliequivalents of peroxide per
+   1000 g sample that oxidize KI during test conditions)   82.7, water and sediment (%
+   by volume) = trace, carbon residue (% by weight) = 0.24, ash (% by weight)   0.005,
+   and sulfur (94 by weight) = 0.01.  Density = 0.9026 kg/L.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+   qv(gross) = 171 15 Btu 1   qv(gross) = 9508 cal g- P-'
+                                  I   qv(gross) = 39782 J g-
+
+                                                         82GOE/SCH
+
+PEANUT OIL, UNREFINED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 192. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number   92.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58" to 131 OF).
+
+   temperature                Ho(t)-H "( -50"C)
+   ("C)   (OF)      Btu lb-l                cal g-l                J &-I
+
+   -50   -58             0.00                     0.00                  0.90
+    -25    -13            16.85                    9.36                 39.16
+     0    32          66.74                  37.08                155.14
+    23    77          90.38                  50.21               210.08
+    50   122          112.12                  62.29                260.62
+    55   131            1 16.53                 64.74               270.87
+
+   heat of fuslm: result is a mean value Lxtemperature range -    to 55°C            ' to
+    131°F).
+                   1   Lf   34.2 Btu Ib-
+    Lf = 19.0 cal
+
+
+                                                                      55RIE
+
+
+
+
+
+                                       222

@@ -1,0 +1,50 @@
+Inorganic Materials                                                                                                                                          I  /
+
+
+CLAY, NEWTON ABBOT BALL; solid; Material is a white high-plasticity burning clay
+   composed of hydrated aluminum silicate of generalized formula AI2O3SiO2 -xH20,
+   where x indicates a variable amount of water.
+
+   heat of dehydration: approximate dehydration temperature is 542°C (1008°F).
+   AH(dehydration) is derived from endotherms in the differential thermal analysis
+  (DTA)curve, neglecting endotherms around 110°C (230°F) at which adsorbed water is
+    evolved.
+
+   AH(dehydration) = 128 Btu 1
+   AH(dehydration) = 71 cal g-
+   AH(dehydration1  297 J g-l
+
+                                                             54ALL
+
+GLASS, PYR€X; solid (Corning 7740); .SO2, 80.66%; B203, 12.93%; Na20, 3.80%; AIZ03,
+   2.14%; K20, 0.45%.
+
+   heat content: 373-850 K (212"-1071"F)
+
+   Q-932 (Btu 1b-l)      = -170.784 + 0.2325 (t + 459.67) + 2.44 x        (t + 459.67)'
+                               -2.619  x lo4 (t + 459.67)-l (t/"F)
+
+                                                                  x                                           T2 + 8.083 x lo3 T-l (K)   qT-9273.2 (cal 9-l)    = -94.88 + 0.2325 T + 4-39
+                                                                     x     T2 + 3.382 x lo4 T-l (K)   qT-9273.2  (J g-  )        -396.98 + 0.9728 T + 1.837
+
+   specific heat:
+
+   173-293 K (-148" to 68°F)
+
+   Cp(Btu lb-I         = -0.1788 + 3.829 x    T - 1.1728 x    T2
+                            + 2.63 x loh3 T - 3.80 x     T2  c (cal y1K - ~ )      -0.245    P
+   Cp(J g-  K-l)         -1.025 + 1.100 x lod2 T - 1.59 x  lo-' T2
+
+   373-850 K (212"-1071"F)
+
+   Cp(Btu Ib-I         = 0.2325 + 4.878  x        (t + 459.67) - 2.619  x lo4 (t + 459.67)-'
+  c (cal  -I K-')      = 0.2325 + 8.78 x    T - 8.083 x 103 T- 2
+                                                            4                                                                       -2   Cp(Jp  g-? K -1 )                       = 0.9728 + 3.674  x    T - 3.382 x 10                                                   T
+
+                                               68HAG/COO; 63GAT/KRE
+
+
+
+
+
+                                       130

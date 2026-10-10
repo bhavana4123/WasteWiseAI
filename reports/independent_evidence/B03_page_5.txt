@@ -1,0 +1,39 @@
+Environments 2018, 5, 84                                                                                    5 of 13
+
+
+
+collection following the CEN/TS 14778-1 standard [34], and fuel MC (moisture content) was measured
+in accordance with the CEN/TS 14774 standard [35].
+
+2.4. Test Procedure
+
+      Initially, we conducted a test using the CE-O and compared the results with those derived from
+the impingers. This test occurred at the tissue plant. Samplings using the two pieces of equipment
+were done in parallel and from the same port over two days (Figure 2). Each syngas and tar sampling
+event lasted for about 20 min.
+    For the impingers technique, a sampling probe was connected to an in-line particulate matter
+ﬁlter, which was then attached to the ﬁrst impinger bottle in the ice bath. The last impinger bottle
+was in the hot bath and connected to a pump which sent the gas through a ﬂow meter to exhaust.
+Overall cleaning was carried out at the end of the entire testing day, whereby the probes were washed
+with isopropyl alcohol in order to collect the heavy tar that had not been absorbed by the impingers.
+The cleaning procedure took an additional 10 min to complete.
+    The testing procedure using the CE-O approach was in accordance with the speciﬁcations in the
+CanmetENERGY report, which included instructions regarding device operation, assembly guidelines,
+sampling procedures, and use of solvent. Setup of the CE-O device consisted of three main modules:
+hot gas particulate ﬁltration and heated lines; tar collection ﬂask, chiller, and pump; and gas ﬂow
+rate measurements.
+
+
+
+
+
+     Figure 2.  Side-by-side syngas and tar sampling arrangement using impingers and the CE-O
+    (CanmetENERGY-Ottawa) device. The sampling port is located about 2/3 distance from the bottom of
+     the reactor.
+
+
+   A follow-up test was performed at the UBC gasiﬁer over a period of two months. The tests
+involved 40 sampling events using the CE-O device. The device was checked for oxygen leakage.
+After the test, the concentration of oxygen in the syngas was evaluated. Those samples with high
+oxygen levels (greater than 0.5%) were deleted from the dataset to ensure that there was no gas dilution
+due to outside air.

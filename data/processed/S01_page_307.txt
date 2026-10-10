@@ -1,0 +1,45 @@
+                   Units of Measurement - International System (SI)
+                          SI - Base Units and Supplementary Units
+
+
+                Name of                             placed 1 meter apart in
+ Quantity              Unit    Symbol                  vacuum, would produce
+                                                      between these condu  ors a                                                            force equal t o 2 x 103 new-
+length              meter     m                                                             ton per meter of length.
+mass                 kilogram    kg
+time                second        S                                                   candela: The candela is the luminoustemperature           kelvin      K                                                                    intensity, in the perpendicularelectric current      ampere    A                                                              direction? of a surface ofluminous intensity    candela     cd                                                      1/600 000 square meter of aamount of substance  mole          rnol                                                            black body at the tempera-plane angle           radian       rad                                                             ture of freezing platinumsolid angle              st eradian     sr                                                         under a pressure of 101 325
+                                                       newtons per square meter.
+Definitions of the SI Base Units
+                                                      mole: The mole is the amount of
+     meter: The meter is the length equal                   substance of a system which
+             to 1 650 763.73 wavelengths                     contains as many elementary
+               in vacuum of the radiation                         entities as there are carbon
+            corresponding t o the transi-                  atoms in 0.012 kilogram of
+             tion between the levels 2plO                      carbon-12.
+           and 5d5 of the krypton-86
+           atom.                       NOTE: The elementary entities must be
+                                                  specified and may be atoms, molecules,
+  k Logram: The kilogram is equal to the          ions, electrons? other particles, or speci-
+           mass of the international            fied groups of such particles.
+            prototype of the kilogram.
+
+    second: The second is the duration of        Prefixes
+            9 192 631 770 periods of the                                   Multiplication
+             radiation corresponding to the        SI Symbol   Prefix Name    Factor
+             transition between the two
+            hyperfine levels of the ground
+                                      T           tera             state of the cesium-I33 atom.
+                                  G           aiga
+                          M        mega      kelvin: The kelvin is the fraction                                                 k             kilo            1/273.16 of the thermo-                                                h           hecto           dynamic temperature of the                                              da         deka              triple point of water. The                                                d           deci             kelvin is used both for ther-
+                                                  C            centi          modynamic temperature and
+                                m             milli              for thermodynamic tempera-
+                                                                                                          FI          micro             ture interval.                                                  n          nano
+   ampere: The ampere is that constant          P            pic0                                                                                   f          femto            current which,  if maintained
+                                              a           atto               in two straight parallel con-
+            ductors of infinite length, of
+              negligible cross section, and
+
+
+
+
+                                        333

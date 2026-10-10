@@ -1,0 +1,50 @@
+Oil is removed from soybeans by two techniques: mechanical crushing and solvent extraction.
+Mechanical crushing is prefered for smaller plants because it requires a smaller investment.
+Typically plants that process less than 100,000 kg/day use mechanical crushing and plants that
+process more than 300,000 kg/day use solvent extraction [4, p. 113].
+
+Before the oil can be extracted, the seeds must be prepared. This involves removing stems,
+leaves, stones, sand, dirt, and weed seeds. The stems and stones can be screened out because they
+are usually larger than the seeds. Weed seeds, sand, and dirt are usually smaller and can be
+removed by finer screens. Magnets can remove iron particles.
+
+After cleaning, the seeds are often dehulled. The hulls are abrasive and contain very little oil
+(less than 1%). Removing the hulls reduces the wear on the screw press. It can also increase the
+extraction of oil because the hulls absorb oil. On oilseeds with thick shells, dehulling typically
+involves cracking the shells and then separating the shells by screening or aspiration. With
+soybeans, dehulling generally includes removal of residual fines.
+
+Oilseeds that are to be processed by solvent extraction are usually flaked to increase the exposure
+of the oil to the solvent. Hexane in a percolation extractor is the most common technology used
+today. This type of extractor drips the solvent down on the flaked soybeans so it can dissolve the
+oil in a manner similar to a coffee percolator. The oil-laden solvent, or miscella, is then filtered
+and removed from the extractor. To remove the solvent, the miscella is heated to vaporize the
+solvent. This gets the the miscella to about 5% solvent [4]. Then the remaining solvent is
+stripped by injecting steam into the oil. The steam and hexane vapors are condensed and, since
+the two fluids are insoluble, they can be separated in a settling tank. Figure 1 shows a schematic
+of a typical solvent extraction plant that includes several stages of solvent recovery.
+
+The alternative to solvent extraction is mechanical extraction or crushing. The beans are
+generally preheated to destroy enzymes that cause problems with using the meal as animal feed.
+One popular way of cooking the bean is to use an expanding extruder. This device compresses
+the beans to very high pressure so that the temperature rises to 150º - 160ºC, which is high
+enough to deactivate the enzymes. The extrusion also frees the oil and produces a frothy, liquid
+that quickly solidifies as the water flashes to vapor and reduces the moisture level from 10-14%
+to 6-7%. After cooking or extrusion, the oil seeds are usually fed to a screw press where they are
+compressed to high pressure. Drainage slots are provided for the oil to leave the press. Moisture
+control is important to maintain proper temperature. If the moisture level is too high, then beans
+will be soft and the oil will contain excessive solids. If the moisture level is too low, then the
+oilseeds will overheat. Ideally, the moisture should be 2-3% for full pressing and 4-6% for pre-
+pressing [4]. If the beans have not been extruded, then pre-pressing may be used to break the cell
+walls and release the oil from the seed. It can preceed both mechanical and solvent extraction.
+
+After extrusion from the seed, crude soybean oil contains impurities that can be classified into
+two categories: oil insoluble and oil soluble [1]. The oil-insoluble impurities consist of seed
+fragments and meal fines, free water, and long-chain hydrocarbons or waxes that cause
+cloudiness when the oil is refrigerated. Most of this material can be removed by filtration. As
+described in Table 1, the oil-soluble materials include free fatty acids, phosphatides, gummy or
+mucilaginous substances, color bodies, protein, tocopherols, sterols, hydrocarbons, ketones, and
+
+
+
+                                      80

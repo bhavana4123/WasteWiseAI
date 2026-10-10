@@ -1,0 +1,48 @@
+2.5.1 Emissions Characteristics
+2.5.1.1   Nitrogen Oxides (NOx)
+NOx emissions are usually the primary concern with natural gas engines and are a mixture of (mostly)
+NO and NO2 in variable composition. In measurement, NOx is reported as parts per million by volume in
+which both species count equally (e.g., ppmv at 15 percent O2, dry). Other common units for reporting
+NOx in reciprocating engines are g/hp-hr and g/kWh, or as an output rate such as lb/hr. Among natural
+gas engine options, lean burn natural gas engines produce the lowest NOx emissions directly from the
+engine. However, rich burn engines can more effectively make use of three way catalysts (TWC) to
+produce very low emissions. If lean burn engines must meet extremely low emissions levels, as in
+California CARB 2007 standards of .07 lb/MWh then selective catalytic reduction must be added. Rich
+burn engines would qualify for this standard by taking a CHP credit for avoided boiler emissions. Lean
+burn engines can meet the standard using selective catalytic reduction (SCR). Both rich burn and lean
+burn engines have been certified for operation in Southern California meeting the stringent California
+Air Resources Board (CARB) 2007 standards.
+
+The control of peak flame temperature through lean burn conditions has been the primary combustion
+approach to limiting NOx formation in gas engines. Diesel engines produce higher combustion
+temperatures and more NOx than lean burn gas engines, even though the overall diesel engine air/fuel
+ratio may be very lean. There are three reasons for this: (1) heterogeneous near-stoichiometric
+combustion; (2) the higher adiabatic flame temperature of distillate fuel; and (3) fuel-bound nitrogen.29
+The diesel fuel is atomized as it is injected and dispersed in the combustion chamber. Combustion
+largely occurs at near-stoichiometric conditions at the air-droplet and air-fuel vapor interfaces, resulting
+in maximum temperatures and higher NOx. In contrast, lean-premixed homogeneous combustion used
+in lean burn gas engines results in lower combustion temperatures and lower NOx production.
+
+For any engine there are generally trade-offs between low NOx emissions and high efficiency. There are
+also trade-offs between low NOx emissions and emissions of the products of incomplete combustion (CO
+and unburned hydrocarbons). There are three main approaches to these trade-offs that come into play
+depending on regulations and economics. One approach is to control for lowest NOx accepting a fuel
+efficiency penalty and possibly higher CO and hydrocarbon emissions. A second option is finding an
+optimal balance between emissions and efficiency. A third option is to design for highest efficiency and
+use post-combustion exhaust treatment.
+
+2.5.1.2   Carbon Monoxide (CO)
+CO and VOCs both result from incomplete combustion. CO emissions result when there is inadequate
+oxygen or insufficient residence time at high temperature. Cooling at the combustion chamber walls and
+reaction quenching in the exhaust process also contribute to incomplete combustion and increased CO
+emissions. Excessively lean conditions can lead to incomplete and unstable combustion and high CO
+levels. Therefore, control of NOx through lean combustion can increase CO and VOC emissions out of the
+engine.
+
+
+
+29 Kirby Chapman, Cost Effective Reciprocating Engine Emissions Control and Monitoring for E&P Field and Gathering Engines,
+Kansas State University, 2003.
+
+
+Catalog of CHP Technologies                         2–21                         Reciprocating IC Engines

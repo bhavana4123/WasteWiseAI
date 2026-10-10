@@ -1,0 +1,56 @@
+Woody and Tree Materials
+
+TUPELO, WATER - Continued
+
+    foliage
+    q,(gross) = 8820 Btu Ib- 1
+    qv(gross) = 4900 cal g-l
+    q,(gross)   20502 J g-'
+
+                                                        82GOW/FRE
+
+WARTY-BARKED SPINDLE TREE; Eonyrnus verrucosus; solid; Material is a tree, one of
+   the dominant species of a 65-year-old climazonal oak forest (Quercetum petraeae-
+    cerris) on brown forest soil, at 300 rn above sea level located in the southern part of
+   the Bukk Mountains of north Hungary. Samples were dried at 85°C (185"F), then
+   ground and pelleted. The ash content was determined at 500°C (932°F) while the
+   temperature was increased stepwise. Ash content of stem and branch wood = 0.7%;
+   stem and branch bark = 6.3%; leaf   9.5%; root = 8.1%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature.
+
+                      dry weight      ash-free dry         std dev.
+                         basis         weight basis         of mean
+
+   stem and branch wood (3 measurements)
+
+   qv(gross)           849 1               8548         16     Btu lb-l
+    q,(gross)  =          4717               4749            9.0    cal                               c1
+    q,(gross)  =         19736               I9870       38     J g-
+
+   stem and branch bark (5 measurements)
+
+    q,(gross)            8548               9146          42.8   Btu Ib-'
+    q,(gross)            4749               508 1         23.8   cal
+    q,(gross)            19870               21259         99.6    J g-
+
+    leaf (5 measurements)
+
+    q,(gross)  =          8215               9074          82.6   Btu lb-I
+    q,(gross)             4564               504 1          45.9    cal q1
+    q,(gross)            I9096              2 1092      192     J g-
+
+   root (3 measurements)
+
+    q,(gross)            8305               9041          35.6   Btu Ib-I
+    q,(gross)            4614               5023          19.8    cal q-'
+    q,(gross)           19305               21016         82.8    J g-
+
+                                                                75PAP
+
+
+
+
+
+                                      300

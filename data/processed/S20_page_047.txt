@@ -1,0 +1,38 @@
+3.2.3   Minimum Fuel Selling Price
+
+   The MFSP for the goal case centralized upgrading plant is $3.46/gge fuel blendstock. Table 25
+shows the breakdown of costs contributing to the fuel blendstock MFSP. Note that the cost of the
+biocrude feed is given per gge of upgraded fuel, considering that 1.05 gge of biocrude is needed to make
+1 gge of upgraded fuel. Figure 10 shows the contribution of each section of the upgrading plant to the
+overall MFSP. Again, the overriding impact of biocrude price on the fuel production price is evident.
+Sensitivity analysis around key financial and technical assumptions and their impact on the MFSP is
+presented in Section 4.0.
+
+
+                   Table 25. Upgraded fuel blendstock MFSP cost breakdown.
+
+                                                         $/gge
+                                                                      final
+                                                                  fuel          $/year
+
+                       Biocrude Feed                     2.58        $99,900,000
+                         Natural Gas                       0.07         $2,800,000
+                          Catalysts & Chemicals             0.01           $500,000
+                     Waste Disposal                   0.002          $100,000
+                            Electricity and other utilities        0.02         $1,000,000
+                        Fixed Costs                       0.24         $9,200,000
+                          Capital Depreciation               0.002        $4,700,000
+                      Average Income Tax               0.07         $2,800,000
+                      Average Return on Investment      0.46        $17,700,000
+                       Total                             3.46
+
+
+
+
+
+                   Figure 10. Upgraded fuel production cost for the goal case.
+
+
+
+
+                                         32

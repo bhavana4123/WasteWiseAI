@@ -1,0 +1,46 @@
+6  Concluding Remarks
+
+6.1  Summary
+NREL analysts and process engineers made a significant effort in 2009–2010 to update the 2002
+design report of Aden et al. [2] that described the biochemical conversion of lignocellulosic
+biomass (corn stover) to ethanol. The purpose of these design reports is to investigate the process
+design and economics of converting lignocellulosic biomass to ethanol at scale and at a profit.
+The end result of the analysis is an absolute selling price for ethanol that is based on reasonable
+process engineering and plant design assumptions. This information is used to predict the cost-
+competitiveness and market penetration potential of cellulosic ethanol in comparison with
+petroleum-derived fuels and corn ethanol. The design report also helps NREL and DOE to direct
+their research by using it to examine the sensitivity of the selling price to process alternatives,
+equipment and operating cost reductions, and advances in conversion research. Proposed
+research and its anticipated results can be translated into a new design with new economics that
+can be compared with the benchmark case.
+
+In updating the design report, NREL and Harris Group revisited all major assumptions of the
+2002 and earlier design reports, questioning their validity and making adjustments or
+improvements where needed. This included taking advantage of new technologies and
+engineering practices. All equipment costs and major raw material costs were updated with new
+quotes obtained in 2009$ and 2010$.
+
+Some of the notable conversion process changes from the 2002 design were the following:
+
+   •  The corn stover feedstock composition used in the design was updated to reflect a
+       composition with a carbohydrate profile closer to the mean observed in NREL studies.
+   • A highly detailed pretreatment reactor configuration was provided by Andritz, Inc. The
+        specifications of the reactor were mutually agreed upon between Andritz, Harris Group,
+      and NREL researchers.
+   •  Ammonia conditioning of the pretreated biomass replaced the previous practice of
+       overliming followed by gypsum precipitation. The ammonia process allows the
+       hydrolysate to be conditioned as a whole slurry, eliminating a solid-liquid separation step.
+   •  The enzymatic hydrolysis and fermentation section was previously modeled as a
+       continuous train but is now modeled as a batch system. Upstream of the batch reactors, a
+       continuous high-solids enzymatic hydrolysis reactor was added.
+   •  An on-site enzyme production section replaced the previous purchased-enzyme cost
+       model. Cellulase enzyme is produced using a T. reesei analog on glucose substrate. The
+       purpose of the enzyme production section was to improve transparency on the true cost of
+      enzymes for cellulosic ethanol and not to make a judgment call as to whether enzymes
+       should be made on-site or purchased from a distributor.
+   •  The wastewater treatment section was completely redesigned in high detail to accurately
+      model treatment of the elevated nitrogen and sulfur levels that resulted from the switch
+      from overliming to ammonia conditioning.
+
+
+                                      83

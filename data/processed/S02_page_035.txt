@@ -1,0 +1,44 @@
+(up to one mile) in pipelines. It is also called synthesis                  Fuel hopper
+gas. since it can be used as a feedstock for the chemi­
+cal synthesis of methanol. ammonia. methane. and
+gasoline. The oxygen must be either purchased or
+produced on-site. making it economically prudent only
+in larger installations. It has been reported that pipeline
+distribution of low-energy gas is also economically                                                             -'Ipractical for distances up to one mile if the air used for                                                       I
+gasification is compressed. rather than compressing                                                                                                                            I                                 Ithe larger volume of producer gas (McGowan 1984).                                   Gas                                            Ȏȏ::=:H§Ȑ=l   --There are many types of direct gasifiers. each with itsspecial virtues and defects. They will be discussed in                            I
+Chapter 5.                                                    =;2=' '9                                                              C + CO, = 2CO                                                                      Reduction                                pyro=fI                                                              C + H,O = CO + H,                                                                                                                                                                                                                                                                            I
+4.4  Principles of Operation of Direct                                                                                                                                                                                                                                                         I:ȍ             I                                                                                                 = CO,Gasifiers                                                                                         f:: Combustion                                                                                            -1  C + 0,                                                       ---          ..-"'  ...,
+4.4.1  Introduction                                                                                                        _'-'-:-Ai:-rʼ"'                                                                  t --Ash tSince volatile organic molecules make up ap­
+proximately 80% of the products from biomass                                                                               (a)
+pyrolysis (Diebold 1985b). the principal task in                  Fuel hopperbiomass (but not coal) gasification is to convert this
+condensible volatile matter to permanent gases. A
+secondary task is to convert the resulting charcoal also
+to gas.
+The most important types of fixed-bed gasifiers for this
+task are the updraft and downdraft gasifiers of Fig. 4-5.
+These gasifiers will be discussed in greater detail in
+Chapter 5. but a brief introduction here will facilitate                                __  Gasunderstanding of the fundamental principles involved.                                                                                                   ..., Ր
+The terms           "updraft                      gasifier"                       and "downdraft                                                 gasifier"
+may     seem            like trivial                    mechanical                                  descriptions                                               of gas                    Pyrolysis
+flow patterns. In practice. however. updraft biomass
+gasifiers can tolerate high moisture feeds and thus have                                                              C + 0, = CO,
+some advantages for producing gas for combustion in
+a burner. However. updraft gasifiers produce 5 % to
+20% volatile tar-oils and so are unsuitable for opera­
+tion    of engines.              Downdraft                              gasifiers                               produce                                              typically                                                              C + CO, = 2COless    than         1 % tar-oils                 and so                            are used                               widely for                                           engine                 Reduction   •                                                              C + H,O = CO + H,operation. The reasons for this difference are given                                            Ŏ-""'AshL-J
+below.
+                                                                            (b)
+4.4.2 Operation of the Updraft Gasifier                                                                                    Fig. 4·5. Schematic diagram of (a) updraft and (b) downdraft gasifier
+The updraft gasifier is shown schematically in      showing reactions occurring in each zone (Source: Reed 1981, Figs.                                                                                 8·6. 8·7)
+Fig. 4-5(a). Biomass enters through an air seal (lock
+hopper) at the top and travels downward into a rising                                                     absorbed in the endothermic reduction and pyrolysis
+stream of hot gas. In the pyrolysis section. the hot gas                                                           reactions above.
+pyrol yzes the biomass to tar-oil. charcoal. and some
+gases. In the reduction zone the charcoal thus formed    Depending upon the pyrolysis conditions in a gasifier.
+reacts with rising COz and HzO to make CO and Hz.    one can generate a wide range of vapors (wood oil and
+Finally. below the reduction zone incoming air burns    wood tar) in the hot gas. If the pyrolysis products are
+the charcoal to produce COz and heat (Desrosiers 1982;     to be burned immediately for heat in a boiler or for
+Reed 1985b). Note that the combustion to COz is     drying (close-coupled operation). then the presence of
+exothermic. and the heat produced in the gas here is     condensible vapors in the gas is of little importance. In
+
+                                                                                        Principles of Gasification   27

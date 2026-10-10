@@ -1,0 +1,35 @@
+the raw gas are subject to ash and tar buildup, so ample     value of the dry gas (HV d) and the moisture fraction
+cleanout ports should be provided to clean these     (Fm) from Fig. 8-22, where Fm = water vapor partial
+surfaces without requiring extensive disassembly.         pressure/total (absolute) gas pressure.
+8.7.3.2 Gas Drying                                  Then, HVw is found from
+The diluting effect of water vapor on the wet gas heat­
+ing value (HVw) may be determined from the heating                                                        (8-12)
+
+                  Gas out
+                                  11'
+
+                 '!F=r='""'iF" - Liquid                                                          Raschig ring                     Berf saddle                                                     in
+
+
+
+                               Gas distributor            Lessig                         Tellerette                                      and                     ring
+                                    packing support
+                Gasin
+
+
+                        Liquid
+                       out                                          Pall ring                           Intalox
+                                                                                           saddle
+
+Fig. 8-19. Paeked towerandpaekings  (Source: Kaupp 1984a, Fig. 151)
+
+             100                                                                                  'ti                                                                                                    "'                                           wԳ                                       ,              -­             " 140                                                                                             N;;  Collection                             Reentrainment               05,  120                                     a"                                                                                                 Q)"   efficiency                 degrades droplet                                                                                                    m   for 6 Jim                     collection above                     <ii> 100
+  oil droplets                  50 in. H20              c'"  80             50   in 6" deep                                                                  .,                                                                                 .cQ)  60   bed of                                                                                   "'                                                                                                       '"  2" spheres                                                             '"  40                                                                             '0                                                                    Power loss(%)                                         2  20                                                Ή"                                                             0                                                                                                              (/).,    10         30          50         70
+                    2   5   10  20  50  1 00                       Dew point-CO                       1
+                   Pressure drop (AP) in.                                 H20
+
+Fig. 8-20. Performance of packed bed                                          Fig. 8-21. Power loss due to moisture saturated producer gas for
+                                                                   150 Btu/sef dry basis gas
+
+
+90    Handbook of Biomass Downdraft Gasifier Engine Systems

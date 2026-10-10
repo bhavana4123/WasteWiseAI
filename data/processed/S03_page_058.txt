@@ -1,0 +1,54 @@
+        Table A-1 Averages and Standard Deviations of Parameters-Continued
+
+ Item          Parameter             Units    # of samples             Thermo  Meso
+  15   Gas/VSD (15 d)                           ft3/lb         7/5       average         13.7     19.6
+                                                                                std. dev.         2.4       5.0
+                                                                          coeff. var.       0.18     0.26
+      Gas/VSD (10 d)                           ft3/lb        7/14      average         10.7     10.4
+                                                                                std. dev.         2.9       3.0
+                                                                          coeff. var.       0.27     0.29
+      Gas/VSD (5 d)                             ft3/lb         1        average          7.7       5.5
+                                                                                std. dev.      N/A    N/A
+                                                                          coeff. var.     N/A    N/A
+  16   Methane/VSD (15 d)                     ft3/lb         4/3       average          9.3      11.7
+                                                                                std. dev.         1.7       4.0
+                                                                          coeff. var.       0.19     0.34
+       Methane/VSD (10 d)                     ft3/lb         5/8       average          6.4       6.9
+                                                                                std. dev.         2.0       1.8
+                                                                          coeff. var.       0.31     0.25
+       Methane/VSD (5 d)                      ft3/lb         1        average          4.0       2.3
+                                                                                std. dev.      N/A    N/A
+                                                                          coeff. var.     N/A    N/A
+  17   Carbon Dioxide Content       %           4/3       average        29      35
+        (15 d)                                                               std. dev.         5.3       1.2
+                                                                          coeff. var.       0.18     0.03
+       Carbon Dioxide Content       %           5/8       average        35      37
+        (10 d)                                                               std. dev.         2.1       4.4
+                                                                          coeff. var.       0.06     0.12
+       Carbon Dioxide Content       %          1        average        43      53
+        (5 d)                                                                 std. dev.      N/A    N/A
+                                                                          coeff. var.     N/A    N/A
+  18  COD Loading                        lb/ft3-day      13/12      average         0.68     0.42
+        (15 d)                                                               std. dev.        0.30     0.15
+                                                                          coeff. var.       0.44     0.36
+     COD Loading                        lb/ft3-day       9        average         1.03     1.07
+        (10 d)                                                               std. dev.        0.15     0.29
+                                                                          coeff. var.       0.14     0.28
+     COD Loading                        lb/ft3-day       3        average         1.91     1.89
+        (5 d)                                                                 std. dev.      N/A    N/A
+                                                                          coeff. var.     N/A    N/A
+  19   Gas/COD Consumed                     ft3/lb         5/2       average          7.1      10.3
+        (15 d)                                                               std. dev.         2.0       4.6
+                                                                          coeff. var.       0.28     0.45
+      Gas/COD Consumed                     ft3/lb         3/6       average          5.2       5.6
+        (10 d)                                                               std. dev.         0.9       1.2
+                                                                          coeff. var.       0.17     0.21
+      Gas/COD Consumed                     ft3/lb         1        average          3.0       2.2
+        (5 d)                                                                 std. dev.      N/A    N/A
+                                                                          coeff. var.     N/A    N/A
+
+
+
+
+Anaerobic Digestion of Food Waste                                                          A- 5
+Funding Opportunity No. EPA-R9-WST-06-004

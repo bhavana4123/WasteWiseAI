@@ -1,0 +1,51 @@
+                                                 Woody and Tree Materials
+
+
+PINE, EASTERN WHITE; Pinus strobus; solid; Material came from various locations in
+   New Hampshire.  Bole samples were composed of cross sections taken from four
+    positions along length of each tree (at the base, one-third, two-thirds, one at top of
+   the stem). Branch samples were composed of cross sections taken from four positions
+   along length of each of four branches (one branch from four positions in the live
+   crown of the tree).  Bark was removed from half of each bole and branch sample and
+    all samples were oven-dried at 85°C (185'F)  to a constant weight.
+
+   gross heat of combustion: Assume values refer to room temperature, thermochemical
+   calorie used and values were expressed on a dry matter basis and adjusted for heat of
+   formation of nitric acid.  All tests were made at 99% confidence level and numbers in
+   parentheses are standard errors.
+
+   bole with bark                           branch with bark
+                                                                       1    q,(gross)  = 9049 (59) Btu lb-'                qv(gross) = 9679 (36) Btu lbl
+    q,(gross)   5027 (33) cal g-'                 qv(gross) = 5377 (31) cal g"
+    q,(gross)  = 21033 (138) J g-'                 qv(gross) = 22497 (130) J g-'
+
+   bole without bark                        branch without bark
+
+    q,(gross) = 9031 (58) Btu lb;'                   q,(gross)   9182 (49) Btu lb-'
+    q,(gross) = 5017 (32) cal g-                  qv(gross) = 5101 (27) cal g-l
+    q,(gross)   20991 (134) J g-'                   q,(gross)  = 21343 (1 13) J g-'
+
+    foliage
+    q,(gross) = 9407 Btu lbi 1
+    qv(gross) = 5226 cal g-
+    q,(gross) = 21866 J g-'
+
+                                                                      8 lMUS/HOC
+
+PINE, JACK; BARK; Pinus banlcsiana; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content   1.7%; moisture content   6.6%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+
+                         1    qv(gross) = 8761 Btu lb-
+    q,(gross)   4867 cal g-l
+    qv(gross) = 20364 J g-l
+
+                                                           55CHA/MIT
+
+
+
+
+
+                                       28 1

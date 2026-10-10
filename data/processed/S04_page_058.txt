@@ -1,0 +1,48 @@
+higher temperatures and pressures. While such advancements increase the manufacturing cost of the
+machine, the higher value, in terms of greater power output and higher efficiency, provides net
+economic benefits.
+
+3.3.2.1 Types of Gas Turbines
+
+Aeroderivative Gas Turbines
+Aeroderivative gas turbines for stationary power are adapted from their jet and turboshaft aircraft
+engine counterparts. While these turbines are lightweight and thermally efficient, they are usually more
+expensive than products designed and built exclusively for stationary applications. The largest
+aeroderivative generation turbines available are 40 to 50 MW in capacity. Many aeroderivative gas
+turbines for stationary use operate with compression ratios in the range of 30:1, requiring a high-
+pressure external fuel gas compressor. With advanced system developments, larger aeroderivative
+turbines (>40 MW) have achieved over 43 percent simple-cycle efficiency (LHV).
+
+Industrial Gas Turbines
+Industrial gas turbines, or frame gas turbines, are exclusively for stationary power generation and are
+available in capacities from 1 to over 300 MW. They are generally less expensive, more rugged, can
+operate longer between overhauls, and are more suited for continuous base-load operation with longer
+inspection and maintenance intervals than aeroderivative turbines. However, they are less efficient and
+much heavier. Industrial gas turbines generally have more modest compression ratios (up to 16:1) and
+often do not require an external fuel gas compressor. Larger industrial gas turbines (>100 MW) are
+approaching simple-cycle efficiencies of approximately 40 percent (LHV) and combined-cycle efficiencies
+of 60 percent (LHV).
+
+Industrial plants use gas turbines between 500 kW to 40 MW for on-site power generation and for direct
+mechanical drive applications. Small gas turbines also drive compressors on long distance natural gas
+pipelines. In the petroleum industry, turbines drive gas compressors to maintain well pressures and
+provide compression and pumping for refineries and petrochemical plants. In the steel industry,
+turbines drive air compressors used for blast furnaces. In process industries such as chemicals, refining
+and paper, and in large commercial and institutional applications turbines are used in combined heat
+and power mode generating both electricity and steam for use on-site.
+
+3.4  Performance Characteristics
+The efficiency of the Brayton cycle is a function of pressure ratio, ambient air temperature, turbine inlet
+air temperature, the efficiency of the compressor and turbine elements, turbine blade cooling
+requirements, and also any other performance enhancements (i.e., recuperation, intercooling, inlet air
+cooling, reheat, steam injection, or combined cycle). All of these parameters, along with gas turbine
+internal mechanical design features, continue to improve with time. Therefore newer machines are
+usually more efficient than older ones of the same size and general type.
+
+Table 3-2 summarizes performance characteristics for typical commercially available gas turbine CHP
+systems over the 3 to 45 MW size range. In the table, note that:
+
+
+
+
+Catalog of CHP Technologies                          3–5                          Combustion Tubines

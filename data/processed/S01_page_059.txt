@@ -1,0 +1,53 @@
+Animals
+
+
+FLY, CADDIS; Pycnopsyche guttifer; solid; insects having aquatic larvae, they are
+    included in the Neuroptera, or constitute the order Trichoptera.
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+   €or moisture and ash content.
+
+                      1             10271                   Btu    q,(gross)            =                                     P-'                        g-    q,(gross)                   cal             = 5706
+   qv(gross) = 23874 J g-l
+
+                                                                         6 1SLO/RIC
+
+GUPPIE; Lebistes reticulatus; solid; A small top minnow of the Barbados, Trinidad, and
+   Venezuela area; frequently kept as an aquarium fish.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+    q,(gross) = 10481 Btu lb- 1
+    qv(gross) = 5823 cal g-l
+    q,(gross) = 24363 J g-'
+
+                                                                         6 1SLO/RIC
+
+HYDIIIA, GREEN; Chlorohydra viridissima; solid; Small fresh-water hydrozoan polyps
+    that contain chlorophyll chromatophores, usually found attached to submerged
+    objects; the body is a simple tube with a mouth at one extremity.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+             10312    qv(gross)                         Btu                  f                  445                                             IP-'                   2                               g-    q,(gross)  = 5729                         cal                  247
+     q,(gtoss)  = 23970 f 1033 J g-l
+
+                                                                         6 lSLO/RIC
+
+MITE; Tyroglyphus Zintneri; solid; Small arachnids that are parasitic in nature.
+
+    gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+    qv(gross) = 10454 f 803 Btu 1
+    q,(gross)  = 5808 2 446 cal g-
+    q,(gross) = 24301 +, 1866 J g-'
+
+                                                                          6 lSLO/RIC
+
+
+
+
+
+                                     58

@@ -1,0 +1,51 @@
+Paper
+
+
+JUNK MAIL; solid; ultimate analysis in percent by weight: carbon, 37.87%; hydrogen,
+   5.41%; oxygen, 42.74%; nitrogen, 0.17%; sulfur, 0.09%; ash, 13.72%; proximate
+    analysis as received in percent by weight: moisture, 4.56%; volatile matter, 73.32%;
+    fixed carbon, 9.03%; ash, 13.09%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+
+   qv(gross)  6093 Btu  Ib;'                       q,(gross)  = 6383 Btu lbll
+    q,(gross)  = 3385 cal g-                         q,(gross)  = 3546 cal g-
+    q,(gross)  = 14161 1 g-l                        q,(gross)  = 14835 S
+
+                                                                   66KAI
+
+MAGAZINE; solid; ultimate analysis in percent by weight: carbon, 32.9 1%; hydrogen,
+   4.95%; oxygen, 38.55%; nitrogen, 0.07%; sulfur, 0.09%; ash, 23.43%; proximate
+    analysis as received in percent by weight: moisture, 4.1 1%; volatile matter, 66.39%;
+    fixed carbon, 7.03%; ash, 22.47%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                                dry basis
+                         1                      q,(gross) = 5483 Btu Ib; I   qv(gross) = 5258 Btu lb-
+    q,(gross)   2921 cal g-l                       q,(gross) = 3046 cal 5;
+   qv(gross)  12221 J g-l                        q,(gross) = 12746 J g
+
+                                                                   66KAI
+
+NEWSPRINT; solid; ultimate analysis in percent by weight: carbon, 49.14%; hydrogen,
+   6.10%; oxygen, 43.03%; nitrogen, 0.05%; sulfur, 0.16%; ash, 1.52%; proximate analysis
+   as received in percent by weight: moisture, 5.97%; volatile matter, 81.12%; fixed
+   carbon,  I 1.48%; ash, I .43%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+    q,(gross)  = 7979 Btu Ib; I                      q,(gross)  = 8485 Btu lb; 1
+    q,(gross)  = 4433 cal g-                      qv(gross) = 4714 cal g-
+    q,(gross) = 18548 J g-l                        q,(gross) = 19724 J g-l
+
+                                                                   66KAI
+
+
+
+
+
+                                      138

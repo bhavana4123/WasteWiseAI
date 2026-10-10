@@ -1,0 +1,59 @@
+twice the mass of oxygen required for biomass     In summary, both understanding and commercializa­
+pyrolysis, and hence high char conversion increases     tion of the stratified downdraft gasifier have made
+the overall oxygen/biomass ratio. If up to 10% of the   ·    remarkable progress in only a few years of work, but a
+biomass is removed as char-ash at the grate, then the     great deal of effort still is in progress. It is not clear
+ oxygen/fuel ratio decreases; in turn,.the temperatures    whether this design ultimately will displace conven­
+ of flaming combustion decrease, and the resulting gas     tional Imbert and other gasifiers.
+has both a higher energy content and a higher tar con­
+ tent. This added control of the oxygenlbiomass ratio     5.8.4 Modeling the Stratified Downdraft
+has not been well-defined.                             Gasifier
+A third issue in the design of the stratified downdraft   A mathematical model has been developed at SERI to
+gasifier is the prevention of bridging and channeling.     predict the behavior and dimensions of the stratified
+High-grade biomass fuels such as wood blocks or pel­     downdraft gasifier (Reed 1983a, 1984, 1985a). The
+ lets will flow down through the gasifier under the in­    model is based upon predicting the length of both the
+fluence of gravity. However, other fuels (such as stringy     flaming pyrolysis and char reaction zones from the
+chips, sawdust, and rice hulls) can form a bridge,     properties of the biomass fuels and the gasifier through­
+preventing continuous flow and giving rise to very high     put. The zone lengths predicted for various sizes of
+temperatures. Obviously, it is desirable to use these     biomass fuels are given in Table 5-4, and a diagram of
+widely available biomass residues. Bridging can be     the gasifier, dimensioned for dry wood chips, is shown
+prevented by stirring, shaking, or agitating the bed and,     in Fig. 5-13. The predicted pyrolysis and char bed
+since the temperatures in the gasifier are relatively low,     temperatures and chemical composition measured in
+ it is possible to use a stainless steel central stirring arm     the char bed are shown in Fig. 5-14. The interested
+such as the one shown in the Buck Rogers gasifier of     reader is referred to the papers for further details,
+Fig. 5-11.                                       which are beyond the scope of this handbook.
+A fourth issue to be addressed in the design of stratified    5.9 Tar-Cracking Gasifiers
+downdraft gasifiers is bed stabilization. When the
+gasifier operates at stable steady state, the flaming     5.9.1  Introduction
+pyrolysis zone advances into the biomass at the same
+rate that the char is consumed, resulting in a stationary    The cost of the gas cleanup system needed for engine
+reaction zone at a fixed level in the gasifier. However,     use generally exceeds the cost of the gasifier. Further­
+this zone can move up in very dry fuels, consuming the     more, even if tar impurities are removed in filters and
+fuel reservoir and emerging at the top of the gasifier.     scrubbers (see Chapter 8], they still must undergo the
+Since no more fuel is available, the gasifier will operate      difficult task of disposal. Therefore, one of the major
+in this "top-stabilized" mode, but there is a substantial     areas for future gasifier development will be the design
+heat loss through the open top. This results in lower
+conversion efficiency and could create a fire hazard.
+(The SERI and SGI gasifiers operate regularly in this                                                                                              Dimensions
+top-stabilized mode with oxygen but have closed                                                         Unburned
+refractory tops and pressure-feeding apparatus.) Fuel           fuel zone
+must be added at a steady rate to prevent alternate
+                                                              Flaming
+pyrolysis and char gasifier operation, which can                                              7 em                                                                      pyrolysis
+generate high tar levels. (We have observed higher tar        zone
+levels from this pulsing pyrolysis process when using                              ....
+oxygen than when using air.)                                                             Reacting char--t-"--->o.J"1111111       1 1 em
+Very wet fuels inhibit the flaming pyrolysis zone from     zone
+advancing fast enough to keep up with the incoming
+fuel, and the zone subsequently moves toward the       ·Non-reacting
+grate, consuming the dead char zone at the bottom. The       char zone                                Optional
+zone may become "grate-stabilized" at this point. or it
+may continue to move to the grate and be extinguished.                                                                                           Gas
+Thus, control of the reaction zone position is very im­                                                                       Insulated
+portant in the stratified downdraft gasifier. A number            shell                                --  1 5 cm ȶof mechanisms seem to be effective in stabilizing this
+position and they are discussed in a recent paper (Reed       Fig. 5-13. Stratified downdraft gasifier design  (Source: Reed 1984,
+1985a).                                                                         Fig. 6)
+
+
+
+
+42    Handbook of Biomass Downdraft Gasifier Engine Systems

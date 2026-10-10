@@ -1,0 +1,30 @@
+  Figure 7. Boiling point distribution (ASTM D2887) for hydrotreated product from sludge biocrude.
+
+   The heavy oil fraction from hydrotreating is assumed to be hydrocracked into additional gasoline and
+diesel range fuel. No experimental data are yet available for hydrocracking of hydrotreated HTL
+biocrude, so it is assumed that the heavy cut is processed similar to petroleum operations. The
+hydrocracking assumptions for the model are given in Table 13.
+
+
+                        Table 13. Hydrocracking model assumptions.
+
+           Process                             Basis                            Assumptions
+Hydrocracking heavier than    No experimental data, assumed to be    H2 chemical consumption:
+ diesel portion of hydrotreated     similar to conventional hydrocrackers       0.004 wt/wt heavy oil
+HTL biocrude             LHSV=1                             Product breakdown:
+                               Temperature: 734 °F (390 °C)            Gas (excluding excess H2); 3 wt%
+                                  Pressure: 1035 psia                        Liquid fuels: 96 wt%
+                                                                    Aqueous: 1 wt%
+
+2.5.2   Biocrude Hydroprocessing Capital Costs
+
+    Table 14 shows the capital costs for the hydrotreater and hydrocracker systems, which are based on a
+review of conventional naphtha, diesel and kerosene hydrotreaters as published in the IHS 2014 Yearbook
+and from Petroleum Refining Technology and Economics (Gary 2007). Additional cost details can be
+found in Appendix B.
+
+
+
+
+
+                                         22

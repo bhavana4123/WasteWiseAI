@@ -1,0 +1,45 @@
+Vegetable Oils
+
+
+
+COCONUT OIL; liquid; The saponification number, which is the mean molecular weight
+    of the fatty acids present in the molecule = 255. The amount of iodine absorbed and
+   expressed as a percentage of the molecular weight (a measure of the proportion of
+    unsaturated fatty acid present) called the iodine number   10.
+
+   enthalpy difference: temperature range measured -40" to 55°C (-58" to 131°F).
+   temperature                   H"(t)-H0(-50 " C)
+   ("C)     ( O F )       Btu Ib-I                cal g-1                J g-l
+
+   -50   -58            0.00                  0.00                  0.00
+   -25   -13           15.21                  8.45                35.35
+     0    32          37.30                  20.72                 86.69
+    25    77          89.62                  49.79               208.32
+    50   122          124.97                 69.43               290.50
+    55   131          129.22              7 1.79              300.37
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-38" to
+    131°F).
+                                1   Lf   55.1 Btu Ib;
+   Lf   30.6 cal g-
+   Lf = 128.0 J g-l
+
+                                                                      55RIE
+
+COCONUT OIL; liquid; extracted from coconut meat, COCOSnucifera; mixture of
+   glycerides of lauric (-48%) and myristic (-17.5%) acids; remainder made JP of
+   glycerides of capyrlic, capric, palmitic, stearic, oleic, and linoleic acids,
+   Saponification number 253-262.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gtoss)  = 16330 Btu Ib- 1
+    q,(gross)  = 9070 cal g-l
+    q,(gross) = 37950 J g-l
+
+                                                     55MERIWAT
+
+
+
+
+
+                                        214

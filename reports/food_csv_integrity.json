@@ -1,0 +1,18 @@
+{
+  "checked_files": 12,
+  "changed_files": [],
+  "sha256": {
+    "data\\conversion_parameters.csv": "2dbcd8546e39821b5091c1d78b96822ef0bb7665525d50ea64b7e55c9a010dd3",
+    "data\\sources.csv": "c817bd9541e6ad01b46f60ffe82fb36fbe2f365eddd4d531a466779047762d97",
+    "data\\source_verification.csv": "906cc68d2c3c197b07d5c6f9c0000029c6c4f17cef5c8d29bf340a4aa93429c5",
+    "data\\technology_mapping.csv": "ea467712605af21f591fbb6b7758e76a65808a1366c71a1eeb82b68290783f8b",
+    "data\\technology_performance.csv": "4305089cd246f04e75f4c6f27d4e1fe837a45335251344dff2a873eb92165503",
+    "data\\waste_properties.csv": "02764210401fe8d2ca9f8cb35e29edd176f85b716504806b727c47d51f6bdd10",
+    "data\\verified\\conversion_parameters.csv": "2dbcd8546e39821b5091c1d78b96822ef0bb7665525d50ea64b7e55c9a010dd3",
+    "data\\verified\\sources.csv": "9c620bbfcffa452b4ac11aebd592ff6e533256de6a16496a57d562d832719425",
+    "data\\verified\\source_verification.csv": "1db1037d283db462ae3bbb0da3113e52db97aee0d82b83e42b935c3348b20aa2",
+    "data\\verified\\technology_mapping.csv": "ea467712605af21f591fbb6b7758e76a65808a1366c71a1eeb82b68290783f8b",
+    "data\\verified\\technology_performance.csv": "4305089cd246f04e75f4c6f27d4e1fe837a45335251344dff2a873eb92165503",
+    "data\\verified\\waste_properties.csv": "fb3bee9811b433950de46e6963d4fe4ef5bb795af065406672a688681ef3ea14"
+  }
+}

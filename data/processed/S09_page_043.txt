@@ -1,0 +1,56 @@
+The ester-glycerol phase separation is clean and the final products are catalyst- and water-free.
+The equipment volume has to be larger for the same quantity of final product because of the
+additional volume of the co-solvent. The Biox Process is depicted in Figure 19. Cosolvents that
+are subject to the hazardous and/or air toxic EPA list for air pollutants require special “leak
+proof” equipment the entire sytem including methanol/cosolvent recovery and recycling.
+Fugitive emissions are tightly controled. The cosolvent must be completely removed from the
+glycerin as well as the biodiesel.
+
+
+
+
+
+                                                                                                                               Ester
+                                                                                     Alcohol, Co-solvent
+
+                                TG
+
+                                               Alcohol
+                                                                 Reactor
+                                                 Co-solvent
+
+
+
+
+                                                                                                                       Glycerol
+
+
+                         Figure 19. Biox Co-Solvent Process
+
+Non-Catalyzed Systems – Supercritical Process
+
+When a fluid or gas is subjected to temperatures and pressures in excess of its critical point, there
+are a number of unusual properties exhibited. There no longer is a distinct liquid and vapor
+phase, but a single, fluid phase present. Solvents containing a hydroxyl (OH) group, such as
+water or primary alcohols, take on the properties of super-acids.
+
+A non-catalytic approach is the use of a high (42:1) alcohol to oil ratio. Under supercritical
+conditions (350 to 400 °C and > 80 atm or 1200 psi) the reaction is complete in about 4 minutes.
+Capital and operating costs can be more expensive, and energy consumption higher.
+
+An intriguing example of this process has been demonstrated in Japan, where oils in a very large
+excess of methanol have been subjected to very high temperatures and pressures for a short
+period of time. The result is a very fast (3 to 5 minute) reaction to form esters and glycerol. The
+reaction must be quenched very rapidly so that the products do not decompose. The reactor used
+in the work to date is a 5 ml cylinder that is dropped into a bath of molten metal, and then
+quenched in water.
+
+Clearly, while the results are very interesting, the scale-up to a useful process may be quite
+difficult. Figure 20 depicts one conception of a configuration for a supercritical esterification
+process.
+
+
+
+
+
+                                      39

@@ -1,0 +1,48 @@
+                                                          Plant Materials (Non-Wdy)
+
+
+HERBS, ALPINE TUNDRA; solid; Samples of 20 species of herbs were collected in the
+    alpine tundra of Mt. Washington, N.H.  Mean lipid content was 1.43 ? 0.1% of
+    volatile-free dry weight. Samples ground and oven-dried at 80°C (176'F).
+
+   gross heat of combustion: assume values refer  t o room temperature and are corrected
+    for moisture and ash content.
+    q,(gross) = 8282 k 52 Btu lb- 1
+    q,(gross) = 4601 ? 29 cal g-'
+    q,(gross)  = 19251 f 121 J g-'
+
+                                                                          62BLI
+
+IDAHO FESCUE, CURED; Festuca idahoensis; solid; Material is aerial plant air dried at
+   room temperature.  Composition is ash = 9.45% and char yield = 24.6%.  Char was
+   obtained from heating the sample to 500°C (932°F)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer t o room
+   temperature.
+
+    fuel                                     char (from 5OOOC heating)
+    q,(gtoss)  = 8670 Btu lb- 1                                                     =                                                qv(gross)                                                    14340                                                            Btu                                                                        1P-'                                                                        g-                                                      q,(gross)                                                     = 7970                                                               cal    q,(gross)  = 4820 cal g-'
+    qv(gross) = 20160 J g-'                          q,(gross)  = 33340 J g-l
+
+                                                                  82SUS
+
+IRISH SHAMROCK (EUROPEAN WOOD SORREL); OxaZis acetoselza; solid; Material is an
+    integral part of the ecosystem at the herbaceous layer level of the mixed fir and
+   beech forest in the Pulrnonario (rubro) Abieti-Fagetum area of the Bucegi mountains
+   (two different stations) in Romania. The plants have the following constitution: 33%
+    of the weight is represented by the stem axis and 67% by leaves. The species has an
+    aestival (summer) type vegetation period.
+
+    gross heat of combustion: assume values refer to room temperature and values are
+    calculated t o a dry basis.
+    qv(gross) = 7783 Btu lb- 1
+    qv(gross) = 4324 cal g-'
+    qv(gross) = 18092 J g- 1
+
+                                                          73PAU/BRE
+
+
+
+
+
+                                       151

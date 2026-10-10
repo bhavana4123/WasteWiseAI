@@ -1,0 +1,46 @@
+                                                                    Agricultural Residues
+
+
+
+MACADAMIA SHELLS; solid; Material is considered biomass fuel and has proximate
+    analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    75.92? ash content = 0.40, and fixed carbon = 23.68.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    54.41, hydrogen = 4.99? oxygen = 39.69, nitrogen = 0.36, sulfur = 0.Ol9 and residue
+    (ash) = 0.56.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02?and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 9039 Btu  Ib;'
+    qv(gross) = 5022 cal g-
+    qv(gross) = 21010 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 8604 Btu lbll
+    qv(net) = 4780 cal g-
+    qv(net) = 20000 J g-l
+
+                                                             85JEN/EBE
+
+MERLOT GRAPES, VINEYARD PRUNING3 solid; Material is considered biomass fuel
+   and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 77.47, ash content = 3.04, and fixed carbon = 19.49.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm Oz, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 8105 Btu lb-I
+    q,(gross)  = 4503 cal g-'
+    qv(gross)  18840 J g-'
+
+                                                                         85 JEN/EBE
+
+
+
+
+
+                                         19

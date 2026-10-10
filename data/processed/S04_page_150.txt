@@ -1,0 +1,28 @@
+             Table A-1. Measuring the Efficiency of CHP Systems
+  System      Component                 Efficiency Measure                        Description
+                Effective                  P                         Ratio of net power output to net
+                 Electrical      FUE =                                      fuel consumption, where net fuel
+                Efficiency (or                            F − Q EFFThermal               consumption excludes the
+               Fuel Utilization                                               portion of fuel used for producing
+                 Efficiency, FUE):                                                 useful heat output. Fuel used to
+                                                                    produce useful heat is calculated
+                                                                     assuming typical boiler efficiency,
+                                                                                 usually 80 percent.
+              Percent Fuel                F                        Fuel savings compares the fuel
+               Savings        S = 1−                               used by the CHP system to a                            P EFFP + Q EFFQ                                                                          separate heat and power system.
+                                                                                   Positive values represent fuel
+                                                                              savings while negative values
+                                                                                 indicate that the CHP system is
+                                                                             using more fuel than SHP.
+Key:
+P = Net power output from CHP system
+Q = Net useful thermal energy from CHP system
+F = Total fuel input to CHP system
+EFFP = Efficiency of displaced electric generation
+EFFQ = Efficiency of displaced thermal generation
+
+
+
+
+
+Catalog of CHP Technologies                        A–3                                  Appendix A

@@ -1,0 +1,47 @@
+generated at a rate of 0.31 kg/MWh (0.2 lb/MMBtu). Nitrogen oxide, or NOx, is generated at
+0.31 kg/MWh (0.2 lb/MMBtu). NOx formation is a complicated mechanism and depends on the
+feed, combustion temperatures, excess air rate, combustor design, and the presence of flue gas
+cleanup devices like FGD. The fate of the ammoniated salts in the combustor feed is not well
+understood, but it is likely that some of the ammonia is converted to nitrous oxide (N2O) while
+also acting to reduce NOx formation [68]. (Ammonia injection is indeed one way to reduce NOx
+emissions.)
+
+On the steam side, the boiler feed water (BFW) system includes a softener (M-820) for the
+makeup and condensate water, a deaerator (T-826) to remove air and other non-condensables,
+surge tanks, and pumps. Makeup water and condensate are treated and deaerated in these units
+then preheated with steam to 177°C (351°F). The boiler feedwater pumps (P-826) raise the BFW
+pressure to 900 psig (62 atm), requiring 540 kW (720 hp) of power. An amine injection system is
+specified to remove oxygen, which can pit the boiler surfaces. Other boiler chemicals include
+ammonia, added to control the pH and reduce the corrosive nature of the hot condensate, and
+phosphate, added to control the formation of scale in the steam drum. Boiler blowdown is 3% of
+steam production. The blowdown stream is flashed to atmospheric pressure; the vapor is vented
+to the air and the liquid is routed to wastewater treatment.
+
+The turbogenerator (M-811) uses a multistage turbine with two extraction ports and a final
+condenser. Of the superheated steam leaving the boiler, 12% is extracted from the turbine at 175
+psig (13 atm) and 268°C (514°F) for feeding to the pretreatment reactor and the BFW
+economizer. An additional 35% is extracted at 125 psig (9.5 atm) and 164°C (327°F) and is used
+in distillation and in the deaerator. The rest of the steam is condensed at -13 psig (0.1 atm). The
+condensate is pumped back to the boiler. The turbine shaft turns a generator to produce
+electricity. The generator efficiency is assumed to be 85%. For this design, a total of 41 MW of
+power is generated from the system. The process uses 28 MW, leaving about 13 MW to be sold
+to the grid.
+
+3.8.3 Cost Estimation
+Harris Group investigated the combined system of combustor, boiler, and turbogenerator. They
+contacted several vendors to obtain cost and operating information to identify a system suitable
+for the available fuel streams and steam requirements. The combustor/boiler quote ultimately
+came from Babcock & Wilcox and included the BFW preheater, FGD spray dryer, and
+baghouse. For the baghouse, bag replacement appears as a periodic charge in the cash flow
+worksheet.
+
+The turbogenerator is essentially an off-the-shelf technology, and Harris Group obtained a quote
+for a 42.2 MW Siemens generator suitable for this project. Harris Group also obtained quotes
+from Proctor Sales for support equipment including the deaerator, chemical injection system,
+tanks, and pumps.
+
+
+
+
+
+                                      53

@@ -1,0 +1,55 @@
+                                                           Plant Materials (Non-W oody)
+
+
+
+TOUCH-ME-NOT; Impatiens noli-tangere; solid; Material is an integral part of the
+   ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania.  The plants have the following constitution: 33% of the weight
+     is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated to a dry basis.
+    qv(gross) = 7963 Btu lb; I
+    qv(gross) = 4424 cal g-
+    qv(gross) = 18510 J g-'
+
+                                                          73PAU/BRE
+
+WHITE BUTTERBUR; Petasites albus; solid; Material is an integral part of the ecosystem
+   at the herbaceous layer level of the mixed fir and beech forest in the Pulmonario
+    (rubro) Abieti-Fagetum area of the Bucegi mountains (two different stations) in
+   Romania. The plants have the following constitution: 33% of the weight is
+   represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated to a dry basis.
+    q,(gross)  = 6802 Btu lbi 1
+    qv(gross) = 3779 cal g-
+    q,(gross)  = 15811 J g-l
+
+                                                          73PAU/BRE
+
+WINDFLOWER (WOOD ANEMONE); Anemone nemorosa; solid; Material is an integral
+    part of the ecosystem at the herbaceous layer level of the mixed fir and beech forest
+    in the Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania, The plants have the following constitution: 33% of the weight
+    is represented by the stem axis and 67% by leaves. The species has a vernal (spring)
+   type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+    calculated to a dry basis.
+
+    qv(gross) = 8134 Btu lbll
+    q,(gross) = 45 19 cal g-
+    qv(gross)  18907 J g-l
+
+                                                          73PAU/BRE
+
+
+
+
+
+                                       161

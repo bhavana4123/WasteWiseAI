@@ -1,0 +1,49 @@
+location-to-location, depending on the available supply. It should be noted, therefore, that the
+chemical costs used in this analysis are static back-projections based on these cost indices. While
+these costs are reported in 2007$, they do not necessarily reflect the actual market price of that
+chemical in 2007.
+
+The electricity export price was taken to be the average wholesale price as determined by the
+North American Electric Reliability Corporation for a given year. The wholesale price applies to
+electricity that is credited back to the grid. These data are provided on the Energy Information
+Administration’s website [72]. For 2007, the wholesale electricity price was 5.71675 cents/kWh.
+
+4.2  Total Capital Investment (TCI)
+Section 3 of this report describes the details of the conceptual process design and how the
+purchased cost of the equipment was determined. The next step is to determine the installed cost
+of that equipment. The installation cost can be determined by performing a detailed study of
+everything required to install the necessary equipment and make it operational (e.g., foundation,
+piping, wiring). This type of detail is not warranted at this level of analysis, and a factored
+approach in which multipliers are applied to the purchased equipment cost is considered
+satisfactory. Many engineering texts such as Garrett [73] or Peters and Timmerhaus [74] detail
+such factored methodologies for common chemical processes. Indeed, there are as many
+methodologies for computing the total installed cost of capital equipment as there are textbooks
+on plant economics. The matter of which method is “correct” is of course open for debate;
+however, at this level of detail, each methodology is generally considered as good as the next.
+
+The overarching cost methodology we have followed comes from the first biochemical design
+report prepared for NREL by Chem Systems in 1994 [75]. They provided installation factors for
+individual pieces of equipment, taken from Walas [76]. While simpler methods suggest a single
+multiplier be applied to the total purchased equipment cost, those methods tend to cite
+multipliers applicable for very large projects comprising mostly carbon steel equipment. For the
+relatively small plant described here, with mixed carbon and stainless steel equipment, the
+individual installation factor method makes more sense.
+
+From the 1994 Chem Systems report, some of the installation factors were modified in the 1999
+and 2002 design reports based on the experience of the engineers involved. Because the costs for
+the present design were all new, we chose to revert all installation factors back to the values
+specified by Walas. We found, however, that the Walas factors were in turn taken from the
+methodology of Cran [77], who deliberately excluded instrumentation costs from his installation
+factors so that these could be estimated separately. Although Cran details how to compute
+instrument costs, we decided to assume these would be 30% of the purchased equipment cost,
+consistent with the estimate in Peters and Timmerhaus [74], which we imposed by adding 0.3 to
+the Cran factors.
+
+The list of installation factors for the various pieces of equipment is shown in Table 25. See
+Appendix A for a complete listing of the equipment, along with its purchased and installed costs.
+In contrast to the 2002 design, which had an equipment cost for every single item, Harris Group
+obtained many package quotes, in which a given unit operation and all of its support equipment
+were quoted under one price. The installation factor for such packages can be relatively low
+because most of the engineering is already included in the price. Additionally, equipment
+
+                                      58

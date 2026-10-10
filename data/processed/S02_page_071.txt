@@ -1,0 +1,60 @@
+slowed to a greater extent, and water and CO2 are     a peak. The quantity of that gas is then determined by
+slowed to the greatest degree. The gas sample is mixed     integrating the area under the peak in the curve and
+with a carrier gas; usually, helium is used because it    compared with that in a calibration gas of koown com­
+ does not occur naturally in the sample. A detector,     position. More advanced recorders include automati­
+which is inserted into the gas stream at the end of the      cally controlled valving, integration of the response
+column, records on a chart recorder both the time of     curves, calculation ofgas quantity from calibration fac­
+passage and the quantity of each component. The      tors, and a printout of the composition results. Such a
+presence of a particular gas component is indicated by     printout is shown in Fig. 7-15.
+
+                       co......
+                       '"
+                                                                               '"                                                                                                    '"
+                                                                                  '"                                                                                                    '"          Ĕēe                                                                                                                   .
+                                                                               '"                                                                                                    '"
+                                                                                                                                                                ...                                       ....                                                                                           0N<;                                                                                        "
+                                                                                                                                                                                                                                                                                         .J:                                                                                              m
+
+
+
+
+
+                                                                                              '" '"
+                                                                                                                                                                                                                                            ..... '"
+                                                                                              co '"
+                                                                                                                                                                                                            ...   ....
+
+
+
+                                         Չ  r--- O'\
+                                                                           ro M O
+
+
+                                                                                                                                                                   ....  ....  ....                                 0               '" '"  .....
+                             '"                                                    '"         '".                              '"                                                  '"                                           .                                 .                    ....
+                            '"                      '"                   ....
+                   "-.J\
+                                             ,J -- Lr                               V' f
+
+                                  [ H P J  2 7 :  MANUAL INJECTI ON AT 1 5 : 4 9 FEB 7 ,  1 9 8 4
+               RUN E 7  SAMPLE W6
+
+              RUN TIME                AMOUNT   NAME
+                     2 . 8 7                         2 5 . 7 2 3   HYDROGEN
+                    4 . 2 5                           0 . 1 5 PROPYLENE
+                     9 . 4 6                        0 . 0 8 2 1 9 TRANSBUTENE
+                   1 5 . 2 6                        1 4 . 5 9 2 C02
+                 15 . 8 4                         1 . 3 1 8 ETHYLENE
+                   1 6 . 3 7                          0 . 1 3 6 ETHANE
+                   1 7 . 0 9                          0 . 3 6 7 ACETYLENE
+                   1 8 . 4 1                           0 . 4 9 OXYGEN
+                   1 8 . 7 6                         1 . 9 4 9 N I TROGEN
+                   1 9 . 5 8                         3 . 9 3 0 3 METHANE
+                   2 3 . 9 2                      0 . 0 0 2 8 2 7 BACKFLUSH
+
+
+Fig. 7-15. Typical gas chromatography printout
+
+
+
+                                                                       Gas Testing    63

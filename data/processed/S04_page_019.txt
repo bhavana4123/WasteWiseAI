@@ -1,0 +1,48 @@
+Key comparisons shown in Table 1-3 are described in more detail below:
+
+    •   Electric efficiency varies by technology and by size with larger systems of a given technology
+        generally more efficient than smaller systems. There is overlap in efficiency ranges among the
+         five technology classes, but, in general, the highest electric efficiencies are achieved by fuel
+          cells, followed by large reciprocating engines, simple cycle gas turbines, microturbines, and then
+       steam turbines. The highest electric efficiencies are achievable by large gas turbines operating in
+      combined cycle with steam turbines that convert additional heat into electricity.
+    •   Overall CHP efficiency is more uniform across technology types. One of the key features of CHP
+          is that inefficiencies in electricity generation increase the amount of heat that can be utilized for
+       thermal processes. Therefore, the combined electric and thermal energy efficiency remains in a
+       range of 65-80 percent. The overall efficiency is dependent on the quality of the heat delivered.
+       Gas turbines that deliver high pressure steam for process use have lower overall efficiencies
+       than microturbines, reciprocating engines, and fuel cells that are assumed, in this comparison,
+        to deliver hot water.
+    •   Installed capital costs include the equipment (prime mover, heat recovery and cooling systems,
+        fuel system, controls, electrical, and interconnect) installation, project management,
+        engineering, and interest during construction for a simple installation with minimal need for site
+       preparation or additional utilities. The costs are for an average U.S. location; high cost areas
+      would cost more. The lowest unit capital costs are for the established mature technologies
+        (reciprocating engines, gas turbines, steam turbines) and the highest costs are for the two small
+        capacity, newer technologies (microturbines and fuel cells.) Also, larger capacity CHP systems
+        within a given technology class have lower installed costs than smaller capacity systems.
+    •   Non-fuel O&M costs include routine inspections, scheduled overhauls, preventive maintenance,
+      and operating labor. As with capital costs, there is a strong trend for unit O&M costs to decline
+        as systems get larger. Among technology classes gas turbines and microturbines have lower
+    O&M costs than comparably sized reciprocating engines. Fuel cells have shown high O&M costs
+         in practice, due in large part to the need for periodic replacement of the expensive stack
+       assembly.
+    •   Start-up times for the five CHP technologies described in this Guide can vary significantly.
+        Reciprocating engines have the fastest start-up capability, which allows for timely resumption of
+       the system following a maintenance procedure. In peaking or emergency power applications,
+        reciprocating engines can most quickly supply electricity on demand. Microturbines and gas
+        turbines have a somewhat longer start-up time to “spool-up” the turbine to operating speed.
+       Heat recovery considerations may constrain start-up times for these systems. Steam turbines,
+      on the other hand, require long warm-up periods in order to obtain reliable service and prevent
+        excessive thermal expansion, stress and wear. Fuel cells also have relatively long start-up times
+        (especially for those systems using a high temperature electrolyte.). The longer start-up times
+        for steam turbines and fuel cells make them less attractive for start-stop or load following
+        operation.
+    •   Availability indicates the amount of time a unit can be used for electricity and/or steam
+        production. Availability generally depends on the operational conditions of the unit.
+      Measurements of systems in the field have shown that availabilities for gas turbines, steam
+        turbines, and reciprocating engines are typically 95 percent and higher. Early fuel cell and
+
+
+
+Catalog of CHP Technologies                             1-7                                      Introduction

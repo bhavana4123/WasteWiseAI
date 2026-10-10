@@ -1,0 +1,50 @@
+   Table 4-2. Backpressure Steam Turbine Cost and Performance Characteristics*
+                                                                  System
+           Steam Turbine Parameters67
+                                                    1               2              3
+  Power/Heat Ratio74                                      0.086             0.066           0.101
+  Net Heat Rate (Btu/kWh)75                               4,541             4,540            4,442
+  Effective Electrical Efficiency (%), HHV                  75.15%          75.18%          76.84%
+  Heat/Fuel Ratio76                                       0.733             0.748            0.724
+* For typical systems available in 2014.
+
+Equipment costs shown include the steam turbine, gearbox, generator, control system, couplings, oil
+system (if required), and packaging. Installed costs vary greatly based on site-specific conditions.
+Installed costs of a “typical” simple installation were estimated to be 50-70 percent of the equipment
+costs. Boiler and steam system costs are not included in these estimates.
+
+4.4.1 Performance Losses
+Steam turbines, especially smaller units, may leak steam around blade rows and out the end seals.
+When the turbine operates or exhausts at a low pressure, as is the case with condensing steam turbines,
+air can also leak into the system. The leakages cause less power to be produced than expected, and the
+makeup water has to be treated to avoid boiler and turbine material problems. Air that has leaked
+needs to be removed, which is usually done by a steam air ejector or a fan removing non-condensable
+gases from the condenser.
+
+Because of the high pressures used in steam turbines, the casing is quite thick, and consequently steam
+turbines exhibit large thermal inertia. Large steam turbines must be warmed up and cooled down slowly
+to minimize the differential expansion between the rotating blades and the stationary parts. Large
+steam turbines can take over ten hours to warm up. While smaller units have more rapid startup times
+or can be started from cold conditions, steam turbines differ appreciably from reciprocating engines,
+which start up rapidly, and from gas turbines, which can start up in a moderate amount of time and load
+follow with reasonable rapidity.
+
+Steam turbine applications usually operate continuously for extended periods of time, even though the
+steam fed to the unit and the power delivered may vary (slowly) during such periods of continuous
+operation. As most steam turbines are selected for applications with high duty factors, the nature of
+their application often takes care of the need to have only slow temperature changes during operation,
+and long startup times can be tolerated. Steam boilers similarly may have long startup times, although
+rapid start-up boilers are available.
+
+
+
+
+73 Total CHP efficiency = (Net electricity generated + Net steam to process)/Total fuel into boiler.
+74 Power/Heat Ratio = CHP electrical power output (Btu)/useful heat output (Btu).
+75 Net Heat Rate = (total fuel input to the boiler - the fuel that would be required to generate the steam to process assuming
+the same boiler efficiency)/steam turbine electric output (kW).
+76 Effective Electrical Efficiency = (Steam turbine electric power output) / (Total fuel into boiler – (steam to process/boiler
+efficiency)). Equivalent to 3,412 Btu/kWh/Net Heat Rate.
+
+
+Catalog of CHP Technologies                         4–11                           Steam Turbines

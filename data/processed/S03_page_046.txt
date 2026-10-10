@@ -1,0 +1,57 @@
+Table 3.10. Bench-scale Anaerobic Food Waste Digester COD Loading Rate Summary.
+ Target MCRT,  Mesophilic Feed COD Loading,  Thermophilic Feed COD Loading,
+      days                     lb/ ft3-day                              lb/ ft3-day
+             AVG         SD        AVG          SD
+       15             0.42             0.15              0.68              0.30
+       10             1.07             0.29              1.03              0.15
+       5             1.89        NA               1.91         NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+Figure 3.15 shows the COD loading to the digesters. Comparing the COD loading rate of food
+waste to the range of COD loading in a typical anaerobic digester fed wastewater solids (between
+0.06 to 0.3 lb/ft3-day), it is evident that the COD loading rate for food waste can substantially
+exceed that of municipal wastewater solids, and not impact digester stability. This indicates that
+food waste is more readily degradable and less toxic in anaerobic digesters than municipal
+wastewater solids. One of the main toxicants present in digested municipal wastewater solids is
+ammonia and a discussion of digester ammonia concentrations may be found in Appendix C.
+
+
+                                 Figure 3.15 Anaerobic Food Waste Digester COD Loading Rate
+
+
+                  3.0
+                         Start 15d MCRT                              Start 10d
+                      11/27/2006                                                                                           Start 5d MCRT                                          MCRT 1/9/2007                                                                                                                3/3/2007
+
+                  2.5
+
+
+
+                                                                                                              Thermo Test
+                  2.0
+                                                                                                          Meso Test                                                      (lb/ft3-day)
+                     Rate  1.5
+                                      Loading
+                COD  1.0
+
+
+
+
+                  0.5
+                                                              Typical Municipal Digester Range: 0.06 to 0.3 lb COD/ft3-day*
+
+
+
+                  0.0
+                11/25/2006     12/9/2006    12/23/2006     1/6/2007      1/20/2007      2/3/2007      2/17/2007      3/3/2007      3/17/2007
+                                                               Date                   *Based on M&E 4th Ed. pg 998.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               31
+Funding Opportunity No. EPA-R9-WST-06-004

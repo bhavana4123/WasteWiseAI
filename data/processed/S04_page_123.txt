@@ -1,0 +1,47 @@
+                            Electrical output is computer grade power, meeting critical power requirements
+High-quality power     without interruption. This minimizes lost productivity, lost revenues, product loss, or
+                        opportunity cost.
+                      While the systems have few moving parts, stack assemblies are complex and have had
+                      problems with seals and electrical shorting. Recommended stack rebuilds requiredReliability and life                       every 5-10 years are expensive.
+
+                     The only combustion within a fuel cell system is the low energy content hydrogen
+                      stream exhausted from the stack when using pure hydrogen as a fuel source. This
+                      stream is combusted within the reformer and can achieve emissions
+Emissions                        Signatures of < 2 ppmv CO, <1 ppmv NOx and negligible SOX (on 15% O2, dry basis).
+                    However most fuel cells need to convert natural gas (CH4) to hydrogen (H2). During
+                            this process CO2 is emitted at varying levels based on the efficiency of the fuel cell.
+                          Different types of fuel cells have varied efficiencies. Depending on the type andEfficiency                         design, electric efficiency ranges from 30% to close to 50% HHV.
+Quiet operation         Conversational level (60dBA @ 30 ft.), acceptable for indoor installation.
+Siting and size          Indoor or outdoor installation with enclosure.
+                     The primary fuel source for fuel cells is hydrogen, which can be obtained from naturalFuel use                          gas, coal gas, methanol, and other fuels containing hydrocarbons.
+
+6.4  Performance Characteristics
+Fuel cell performance is a function of the type of fuel cell and its capacity. Since the fuel cell system is a
+series of chemical, electrochemical, and electronic subsystems, the optimization of electric efficiency
+and performance characteristics can be a challenging engineering task. The electric efficiency calculation
+example provided in the next section illustrates this.
+
+Table 6-3 summarizes performance characteristics for representative commercially available and
+developmental natural gas fuel cell CHP systems over the 0.7 kW to 1,400 kW size range. This size range
+covers the majority of the market applications. All systems included in Table 6-3 are commercially
+available as of 2014.
+
+            Table 6-3. Fuel Cell CHP - Typical Performance Parameters
+  Performance Characteristics     System 1      System 2     System 3      System 4      System 5
+Fuel Cell Type                  PEMFC        SOFC       MCFC         PAFC        MCFC
+Nominal Electricity Capacity (kW)       0.7            1.5          300           400           1,400
+Net Electrical Efficiency (%), HHV)     35.3%        54.4%       47%          34.3%         42.5%
+Fuel Input (MMBtu/hr), HHV         0.0068        0.0094          2.2             4.0            11.2
+Total CHP Efficiency (%), HHV        86%        74%        82%         81%         82%
+Power to Heat Ratio                  0.70           2.78          1.34           0.73           1.08
+Net Heat Rate (Btu/kWh), HHV        9,666          6,272         7,260          9,948          8,028
+Exhaust Temperature (°F)          NA         NA          700         NA           700
+Available Heat (MMBtu/hr)         NA         NA      0.78 (to 120°F)  0.88 (to 140°F)  3.73 (to 120°F)
+Sound (dBA)                   NA       47 (at 3 feet)  72 (at 10 feet)  65 (at 33 feet)  72 (at 10 feet)
+NA = not available or not applicable
+Source: ICF, specific product specification sheets
+
+
+
+
+Catalog of CHP Technologies                         6–13                                       Fuel Cells

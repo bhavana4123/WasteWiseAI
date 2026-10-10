@@ -1,0 +1,42 @@
+Miscellaneous                                                                                                                                                                                                                 I 1
+
+
+VACUUM CLEANER CATCH;solid; ultimate analysis on dry basis in percent by weight:
+    carbon, 35.69%; hydrogen, 4.73%; oxygen, 20.08%; nitrogen, 6.26%; sulfur, 1.15%;
+    ash, 32.09%; proximate analysis as received in percent by weight: moisture, 5.47%;
+    volatile matter, 55.68%; fixed carbon, 8.51%; ash, 30.34%.
+
+    gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+    qv(gross) = 6390 Btu Ib; 1                                                       q,(gross)  = 6761 Btu                                $'
+    q,(gross)  = 3550 cal g-                         q,(gross)   3756 cal g-
+   qv(gross) = 14854 J g-'                         q,(gross) = 15714 3 g-'
+
+                                                                    66KAI
+
+VASELINE; solid; semi-solid mixture of hydrocarbons having a melting point range from
+   380-60°C (100"-140"F);colorless or pale yellow petroleum jelly.
+
+   gross heat of combustion: assume values refer to room temperature.
+                                1   qv(gross) = 19890 Btu lb-
+    q,(gross)  = 11050 cal
+    q,(gross)  = 46233 J
+
+                                                         56ROT/BEC
+WAX, PARAFF N; solid; hard wax, freezing point 53"-55"C (127"-131°F); density,
+    0.902 g crn-';  repeating unit: CH2,
+
+   gross heat of combustion: 25°C (77°F)
+
+    q,(gross)  = 19888 Btu lb-I
+   qv(gross) = 11049 cal
+   qv(gross) = 46229 J
+
+                                                       56MAG
+
+
+
+
+
+                                      312

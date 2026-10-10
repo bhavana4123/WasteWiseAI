@@ -1,0 +1,50 @@
+Glycerides and Fatty Acid Methyl Esters by HPLC with Laser Light-Scattering Detection) or a
+chemical procedure such as that described in AOCS Official Method Ca 14-56 (Total, Free and
+Combined Glycerol Iodometric Method). All of these techniques require a fairly high level of
+training and some laboratory equipment.
+
+Free Glycerol
+
+Free glycerol refers to the amount of glycerol that is left in the finished biodiesel. Glycerol is
+insoluble in biodiesel so almost all of the glycerol is easily removed by settling or centrifugation.
+Some glycerol may remain either as suspended droplets or a very small amount that is dissolved
+in the biodiesel, and is known as free glycerol. Most of this glycerol should be removed during
+the water washing process. Water-washed fuel is generally very low in free glycerol, especially if
+hot water is used for washing. Distilled biodiesel tends to have a greater problem with free
+glycerol due to glycerol carry-over during distillation. Fuel with excessive free glycerol will
+usually have a problem with glycerol settling out in storage tanks, creating a very viscous
+mixture that can plug fuel filters and cause combustion problems in the engine.
+
+Residual Alcohol and Residual Catalyst
+
+Since methanol (and ethanol) and the alkaline catalysts are more soluble in the polar glycerol
+phase, most will be removed when the glycerol is separated from the biodiesel. However, the
+biodiesel may still contain 2-3% methanol after the separation, which may constitute as much as
+40% of the excess methanol from the reaction. Most plants will recover this methanol by heating
+the biodiesel. Any methanol remaining after this heating process should be removed by the water
+washing process. Therefore, the residual alcohol level in the biodiesel should be very low. The
+allowable alcohol level is specified in European biodiesel standards (give number), but is not
+included in the ASTM standard. Tests have shown that even as little as 1% methanol in the
+biodiesel can lower the flashpoint of the biodiesel from 170C to less than 40C. Therefore, by
+including a flashpoint specification of 130 C, the ASTM standard limits the amount of alcohol to
+a very low level (<0.1%). Residual alcohol left in the biodiesel will not affect its use in the
+engine. The amount is too small to negatively impact the fuel’s performance. However, lowering
+the flashpoint presents a potential safety hazard as the fuel may need to be treated more like
+gasoline, which also has a low flashpoint, than diesel fuel.
+
+Most of the residual catalyst is removed with the glycerol. Like the alcohol, remaining catalyst
+should be removed during the water washing. Although a value for residual catalyst is not
+included in the ASTM standard, it will be limited by the specification on sulfated ash. Excessive
+ash in the fuel can lead to engine deposits and high abrasive wear levels.
+
+Equipment and expertise requirements for quality control of production factors
+
+All biodiesel production facilities should be equipped with a laboratory so that the quality of the
+final biodiesel product can be monitored. It is also important to monitor the quality of the
+feedstocks.
+
+
+
+
+
+                                      102

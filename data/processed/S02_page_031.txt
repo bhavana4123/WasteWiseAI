@@ -1,0 +1,43 @@
+A more quantitative picture of pyrolysis is obtained    and Table 3-3). The curve of Fig. 4-3 represents pure
+through thermogravimetric analysis (TGA). In this     pyrolysis in an inert gas (such as nitrogen or argon). If
+technique, a small piece of biomass is suspended on a     pyrolysis occurs in air, the curve drops more steeply
+balance pan in a furnace, and the temperature is in­     within the region from 250·-400·C because the char and
+creased with time at a known rate. An example of the     products are oxidized also. As the char burns, it even­
+residual weight change experienced by a small sample     tually reaches the ash line between 400· and 500·C.
+of flax shives heated at a rate of 40·C/min is shown in                                                      In Fig. 4-3, more than 80% of the total dry mass of theFig. 4-3. One sees that moisture is released first, at                                                  sample is volatilized below 500·C, leaving an addition­100·C, followed by the volatile materials at 250·-450·C;                                                              al 10% to 20% of the original mass of carbon for con­these temperatures are important in understanding                                                       version to gas. It is now recognized that the volatilepyrolysis, gasification, and combustion. According to                                                     matter is composed of monomers (as well as other frag­the figure, a fraction of char and ash remains in the end.                                                    ments) of the cellulose, hemicellulose, and ligninIf air is allowed to enter the system after pyrolysis, the                                                 polymer that make up biomass (Evans 1984). It is alsocarbon (char) will bum, leaving the ash as the final                                                      recognized that up to 65% of the biomass dry weightproduct. Each form of biomass produces slightly dif­
+                                                  can be converted to this water-soluble "wood oil,"ferent quantities of char, volatile material, and ash.                                               which potentially may form the basis of new processesKnowledge of these quantities, as well as the tempera­                                                               for wood liquefaction (Roy 1983; Scott 1983; Dieboldture dependencies of the reaction and associated                                                          1984). Unfortunately, these oils are corrosive and high­weight losses, are useful in understanding gasifier                                                          ly oxygenated, so that further processing will be re­operation and design.                                                      quired to make a high-grade liquid fuel (Diebold 1986).
+The results shown in Fig. 4-3 are qualitatively similar    However, they have been burned successfully in in­
+to those obtained in a proximate analysis of most     dustrial boilers and turbines with only minor modifica­
+biomass but are not identical because heating rates are     tions required for the burners (Bowen 1978; Jasas
+higher and samples are smaller in TGA (see Chapter 3     1982).
+
+
+                                                                                                     ġ
+
+ r---------,------------_, Փ                                                                                                     |o             ­    1 00                                                                                              "                                                                                   Recorder trace       f---.;-.:-:..:-                      - - - - - - - -MOisture
+                                                                                               pyrolysis of flax shives
+
+                                                     Temperature                                                                                 Heating rate     40°C/mi n
+                                                                        Sample weight   581 2 mg
+   80                                                                              Recorder speed  4 em/min
+
+ OJ
+ .!:  .                                                                   Sample ashed in air at 600° C
+ 'iiic:                                                                                proximate analysis (%) E                                                                           Wet   Dry A  60                                                                               Moisture     4.0 :c
+ OJ
+ 'w                                                                                             Volatiles    59.2    61.7
+ "
+ "iii                                                                         Char        25.7   26.0
+ :E c:                                                                     Ash          5.3     5.5
+0 40
+                                                                                       \                                  ---Ȓ\                                                                                                    \
+                             - -   - - - - - -   - - - ----------­                                      -ȑ-  20                                -f-
+                                                                              admitted                                          Char                            Air                                 __Ւ••I                                                                                    to                                                                          system
+
+
+                                      Ash       O͐   ------͑  ------_=͒  ----͓  -L------͔͕    ------͖  ------͗͘    -------J                               200                        400                        600      o
+                                               Temperature (OC)
+
+Fig. 4-3. Thermogravimetric analysis of a typical biomass sample heated in the absence of air (Source: Reed 1981, Fig. 5-2)
+
+                                                                                          Principles of Gasification    23

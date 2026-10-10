@@ -1,0 +1,49 @@
+                                                 Woody and Tree Materials
+
+
+ALDER, EUROPEAN BLACK; AZnus gzutinosa; solid; Each tree was separated into small
+    parts (being less than 0.64 cm (1/4 in.) in diameter and roughly equivalent to tops and
+    branches) and large parts with the weighted proportion of small (25%) and large (75%)
+    material in the whole tree.  Overall mean specific gravity for whole tree = 0.37 (oven
+    dry weight and green volume).  Bark proportion of whole tree = 23%.
+
+    gross heat of combustion: oven-dried, assume values refer to room temperature.
+
+    small parts                             whole tree
+    qv(gross) = 7965 Btu lb- 1                                                        q,(gross)   8177 Btu lb-I
+    qv(gross) = 4425 cal g-'                         q,(gross)   4543 cal g-'
+    qv(gross) = 18514 J g-'                          q,(gross)  = 19008 J g-'
+
+    large parts
+    q,(gross) = 8248 Btu Ib- 1
+    q,(gross)  = 4582 cal g-l
+    q,(gross) = 19171 J g-l
+
+                                                            81GEY
+ALDER, RED; BARK; AZnus rubru; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content = 3.1%; moisture content   5.8%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+    q,(gtoss)   7947 Btu lb- 1
+    q,(gross) = 4415 cal g- 1
+    q,(gross)  = 18472 J g-l
+
+                                                           55CHA/MIT
+ASH; Fraxinus excelsior; solid; ultimate analysis: carbon, 49.18%; hydrogen, 6.27%;
+    nitrogen, 0.07%; ash, 0.57%.
+
+   gross heat of combustion: 20°C (68°F);air-dried at 110°-1150C (23Oo-24O0F),ash
+    free.
+
+    q,(gross)   8507 Btu lb-I
+    q,(gross)  = 4726 cal g-'
+    q,(gross)  = 19774 J g-'
+
+                                                             1883GOT
+
+
+
+
+
+                                       233

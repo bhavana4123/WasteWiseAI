@@ -1,0 +1,50 @@
+3.4  Area 400: Cellulase Enzyme Production
+
+3.4.1 Overview
+This process area produces cellulase enzyme that is used in Area 300 to hydrolyze cellulose into
+glucose. Cellulase refers to a mixture of enzymes (catalytic proteins) that includes: (1)
+endoglucanases, which attack randomly within the cellulose fiber, reducing polymer chain length
+rapidly; (2) exoglucanases, which attack the ends of highly crystalline cellulose fibers; and (3) β-
+glucosidase, which hydrolyzes the small cellulose fragments (cellobiose, a glucose dimer) to
+glucose. Cellulase is produced industrially using (among other microorganisms) Trichoderma
+reesei, a filamentous fungus that secretes high levels of cellulase enzymes when grown
+aerobically in the presence of cellulose or other cellulase inducers.
+
+The 1999 design report [1] introduced Area 400 to produce cellulase on-site with ethanol, using a
+slipstream of the conditioned hydrolysate slurry from pretreatment. The 2002 design report [2]
+omitted Area 400 in favor of a purchased-enzyme model in which the enzyme was assigned a
+certain fixed cost contribution per gallon of ethanol. Area 400 was reinstated for this design
+report with new reactor design assumptions and several other improvements over the 1999
+cellulase enzyme production model. We note that by including an on-site enzyme production
+section, NREL and DOE are not making a judgment about whether or not the cellulosic ethanol
+industry should align to this mode of enzyme distribution. Rather, the model on-site enzyme
+section is intended to improve transparency in determining the true cost of cellulase enzymes for
+large-scale cellulosic ethanol production.
+
+The present design considers submerged aerobic cultivation (“aerobic fermentation”) of a T.
+reesei-like fungus on a feedstock of glucose and fresh water. Producing cellulase enzymes with
+glucose is not straightforward, because the absence of cellulose does not encourage the
+microorganism to secrete cellulase enzymes. Here, we have assumed a media preparation step
+where a small fraction of glucose is converted to sophorose, a powerful inducer of cellulase,
+using a small amount of the cellulase enzyme itself. When grown on this substrate, T. reesei has
+been shown to productively secrete cellulase [53]. Using glucose as the substrate is not
+necessarily more expensive than using hydrolysate slurry from pretreatment because the
+expected enzyme titer is significantly higher with glucose, reducing the capital and utility costs
+compared with using hydrolysate. Figure 9 is a simplified flow diagram of the enzyme
+production section.
+
+
+                                                Seed train
+                                                     (Trichoderma reesei)
+
+            Glucose + water                                           Glucose/sophorose                              Air
+
+Sophorose conversion enzyme
+                        Media prep
+                                                                       Holding tank
+                                                    Aerobic culture
+                                                          (fed-batch)                To hydrolysis
+
+              Figure 9. Simplified flow diagram of the enzyme production process
+
+                                      36

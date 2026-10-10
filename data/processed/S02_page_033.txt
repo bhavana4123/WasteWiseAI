@@ -1,0 +1,56 @@
+The ratio CO/COz (or Hz/HzO) is a measure of the             <I> of about 0.25 all of the char is converted to gas, and
+producer gas quality. Approximately 30%  of the     the fraction of energy in the wood converted to gas
+biomass is burned to provide the energy for gasification     reaches a maximum. With less oxygen, some of the char
+of the rest. The exact amount of excess oxygen required      is not converted; with more oxygen, some of the gas is
+depends on the efficiency of the process. It can be im­    burned and the temperature rises very rapidly as
+proved in practice with insulation, by drying, or by    shown in Fig. 4-4(a), Thus, it is desirable to operate as
+preheating the reactants. A fascinating question in     close to an equivalence ratio of 0.25 as possible.
+gasification is how the reacting products "know" how                                     How is it possible to operate exactly at this ratio ofO.25?much oxygen to use (see below).                                                      In a fixed bed gasifier, operation at lower values of <I>
+                                              would cause charcoal to be produced (as shown for low4.2.5 Thermodynamics of Gasification
+                                                                                                                                                      <I> in Fig. 4-4(c)), and it would build up in the reactor
+Thermodynamics is the bookkeeping of energy. Al­     unless it is augered or shaken out. Operation at values
+though thermodynamics cannot always predict what     of <I> above 0.25 consumes charcoal and the temperature
+will happen for a particular process, it can rule out     goes up rapidly. Hence, maintaining the bed at a con­
+many things that cannot happen. It was mentioned     stant level automatically ensures the correct oxygen
+above that Eq. (4-2) is thermodynamically impossible     input.
+in the absence of added heat and that Eq. (4-3) actual­
+ly governs the reaction. How is this determined?                                           4.3 Indirect and Direct Gasification
+At the high temperature where gasification takes place   Processes
+(typically 70oo-1000°C), there are only a few stable
+combinatio::ts of the principal elements of biomass­     4.3.1  Indirect (Pyrolitic) Gasification
+carbon, hydrogen, and oxygen. These are C, CO, COz,
+                                                                               It is now recognized that wood-oil vapor is unstable atCH4, Hz, and HzO. The relative concentration of these
+                                                       temperatures above 600°C and cracks rapidly at 700° to
+species that will be reached at equilibrium can be.                                                   SOO°C to form hydrocarbon gases (such as methane,predicted from the pressure, the amount of each ele­                                                          ethane, and ethylene), Hz, CO, and COz' In addition,ment, and the equilibrium constant determined from
+                                               one obtains a 1% to 5% yield of a tar composed ofthe thermodynamic properties and temperature, sub­
+                                                      polynuclear aromatics and phenols similar to thoseject to an energy balance. It is then possible to deter­
+                                                  found in coal tar (Antal 1979; Diebold 19S4; Dieboldmine the species that would form at equilibrium as a
+                                                           19S5),function of the amount of oxygen added to the system.
+The results of calculations of this type are shown in     Pyrolytic gasification is accomplished when a portion
+Figs. 4-4 and 3-5.                                       of the fuel or char is burned in an external vessel with
+                                                                             air, and the resulting heat is used to supply the energyThe adiabatic reaction temperature of biomass with
+                                                       necessary to pyrolyze the biomass. The principal ad­air or oxygen, determined in this manner, is shown in
+                                                       vantage of this process is that a medium-energy gas isFig.  4-4(a). This  is the temperature that would be
+                                                 produced without using oxygen. The higher energyreached if biomass came to equilibrium with the
+                                                       content may be required for long-distance pipelinespecified amount of air or oxygen. (There is no guaran­
+                                                               delivery. The disadvantage is that a significant fractiontee that equilibrium will be reached in any given
+                                                        of tar may be produced, and indirect heat or mass trans­gasifier, but downdraft gasifiers approach equilibrium
+                                                                fer is required, which complicates the apparatus andquite closely - see below,)
+                                                       the process. Pyrolytic gasification will not be discussed
+The oxygen used in a process determines the products     further because it is only practical in large installations
+and temperature of the reaction. The oxygen consumed    and is not as well-developed as direct gasification with
+is typically plotted as the equivalence ratio,  <I> - the    oxygen or air.
+oxygen used relative to that required for complete com­
+bustion. (Complete oxidation of biomass with oxygen     4.3.2 Direct Gasification
+requires a weight ratio of 1.476 [mass of oxygen/mass                                                          Pyrolysis and gasification processes are endothermic,
+ofbiomassl; with air, a ratio of 6.36.) A very low or zero                                                        so heat must be supplied in order for the processes to
+oxygen use is indicative of pyrolysis, shown at the left                                                          occur. In fact, the heat required to accomplish pyrolysisofthe figure; a  of about 0.25 is typical ofthe gasifica­                                      <I>                                 and raise the products to 600°C is about 1.6-2.2 kJ/g
+tion region at the middle; and combustion is indicated                                                       (700-S00 Btu/lb), representing 6% to 10% of the heat
+by a    1 at the right.             <I> :2                                                of combustion of the dry biomass (Reed 19S4), This
+The composition of the gas produced is shown in     heat is supplied directly by partially combusting the
+Fig. 4-4(b). The amount of energy remaining in the char     volatile tars in downdraft gasifiers; in updraft gasifiers,
+and converted from solid to gas is shown in Fig. 4-4(c).       it comes from the sensible heat of the gases resulting
+The low heating value of the gas is shown in Fig. 4-4(d).    from charcoal gasification. This combustion then
+From these figures it is seen that at an equivalence ratio     dilutes the product gas with COz and HzO, the products
+
+                                                                                        Principles of Gasification    25

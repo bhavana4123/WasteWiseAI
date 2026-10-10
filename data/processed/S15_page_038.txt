@@ -1,0 +1,62 @@
+TA 6M: Waste Heat Recovery
+
+
+
+   USGS              US Geological Survey
+
+  WHP                Waste heat to power
+
+  WHR                Waste heat recovery
+
+ Glossary
+
+
+    Air to fuel ratio          In a combustion process, the ratio of the air supply flow rate to the fuel
+                          supply flow rate when measured under the same conditions.
+
+   Absorption chiller    A type of air cooling device that uses absorption cooling to cool interior
+                            spaces.
+
+    Available heat         The gross quantity of heat released within a combustion chamber minus
+                         both the dry flue gas loss and the moisture loss. It represents the quantity of
+                          heat remaining for useful purposes (and to balance losses to walls, openings,
+                       and conveyors).
+
+   Blow-down           Water intentionally ejected from a boiler to avoid the precipitation
+                            of impurities on the boiler heat exchange surfaces during continuing
+                           evaporation of steam. The water is blown out of the boiler by steam pressure
+                             within the boiler.
+
+   Blower               The device in an HVAC system that distributes the filtered air from the return
+                          duct over the cooling coil/heat exchanger. This circulated air is cooled/
+                         heated and then sent through the supply duct, past dampers, and through
+                          supply diffusers to the living/working space.
+
+   Burner Capacity       The maximum heat output (in Btu per hour) released by a burner with a
+                             stable flame and satisfactory combustion.
+
+   By-product fuel         Materials having calorific value, which are generated as a by-product in
+                          manufacturing and production processes. For example – black liquor, wood
+                              chips, bio-gas, etc.
+
+    Cleanliness of         The quality of exhaust gases from industrial heating processes. It depends
+   exhaust gases         on many factors related to the operation and design of heating equipment.
+                          For example, the presence of highly corrosive fluxing agents (e.g., chlorides,
+                                fluorides, etc.), particulates (e.g., metal oxides, carbon or soot particles,
+                              fluxing materials, slag, aluminum oxide, magnesium oxide, manganese), and
+                          combustibles (e.g., CO, H2, hydrocarbons) affect the cleanliness of exhaust
+                            gases.
+
+   Combustion air           All of the air supplied through a burner other than that used for atomization.
+
+
+   Dew point            The temperature at which a vapor condenses when it is cooled at constant
+                             pressure.
+
+    Electrolysis        A chemical change in a substance that results from the passage of an
+                               electric current through an electrolyte.
+
+
+
+
+ 37  Quadrennial Technology Review 2015

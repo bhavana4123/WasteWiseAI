@@ -1,0 +1,59 @@
+Foods
+
+
+HOMINY; from corn (maize); Zea mays; 10.96% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 7175 Btu lbll
+   qv(gross)  3986 cal g-
+    q,(gross) = 16677 J g-'
+
+                                                      55MER/WAT
+
+HONEYDEW MELON; solid; chemical analysis: 92.6% water, 0.21% fat, and 2.83% water
+    soluble solids. Sample was cubed, seeds included, no rind.
+
+   specific heat: 4" to -40°C (40" to -40°F); the initial freezing point = -0.8"C (30.5"F).
+
+
+
+    4.44    40                  0.92                    0.92                  3.85
+  - 0.83     30.5                0.92                    0.92                 3.85
+  - 6.67    20                    1.85                     1.85                   7.74
+  -12.2     10                   0.94                    0.94                 3.93
+  -17.0      0                   0.68                     0.68                   2.85
+  -23.3    -10                 0.58                    0.58                 2.43
+  -28.9     -20                 0.53                    0.53                 2.22
+  -34.4     -30                   0.50                    0.50                 2.09
+  -40      -40                 0.48                    0.48                  2.0 1
+
+                                                                  49STA
+
+LARD, AMERICAN COMMERCIAL; solid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 202. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 66.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58"  t o 131°F).
+
+   temperature                   H"(t)-H0(-50" C)
+   ("C)  (OF)      Btu lb-I                cal g-l                J g-'
+
+    -50    -58            0.00                   0.00                    0.00
+    -25    -13           16.67                   9.26                38.74
+     0    32           48.98                  27.21             113.85
+    25    77           88.54                  49.19               205.8 1
+    50   122          120.33                 66.85               279.70
+    55   131         124.70                  69.28               289.87
+
+   heat of fusion: results is a mean value for temperature range -50" to 55OC (-58" to
+    131'F).
+                   1   Lf = 47.7 Btu Ibi
+   Lf = 26.5 cal g-
+   Lf = 110.9 J g-l
+
+                                                                       55RIE
+
+
+                                         90

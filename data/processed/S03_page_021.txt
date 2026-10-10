@@ -1,0 +1,50 @@
+3.0 Results and Discussion
+
+The following subsections present and discuss the significant findings from the data collected in
+this study. This data is also summarized in Appendix A, Table A-1. In addition, ammonia and
+nitrogen data are presented in Appendix C. Only data collected during stable operating periods
+are included in the summaries, except total solids, volatile solids , and COD for food waste feed
+and digester temperature. The data summarized for these parameters includes all data collected
+during digester operation at the target MCRTs. The average values for municipal wastewater
+solids on the accompanying figures are from a previous EBMUD digestion bench-scale study
+using municipal wastewater primary and thickened waste activated sludge, unless noted
+otherwise.
+
+The digester operational targets included a baseline startup period for at least one MCRT, or until
+stable digester operation was observed. After the startup period, the digesters were to operate at
+a 15-day MCRT for a minimum of 3 MCRTs, followed by a 10-day MCRT for a minimum of 2
+MCRTs, and a 5-day MCRT for a minimum of 2 MCRTs. The goal was to demonstrate the
+feasibility of digesting food waste at a higher rate than municipal wastewater solids, which has a
+minimum required MCRT of 15 days to meet the Class B requirements of the 40 Code of Federal
+Regulations, 503 regulations for land application.
+
+Due to stability issues, the digesters were reseeded with new sludge during the 15-day and 10­
+day MCRT periods, which extended the study schedule.
+
+3.1   Mean Cell Residence Time
+
+The mean cell residence time (MCRT) is the theoretical average time a bacterial cell remains in a
+digester. The shorter the MCRT, bacterial populations would need to reproduce faster to prevent
+being washed out of the digester. As the digester MCRT decreases the slower growing bacterial
+populations also decrease, until the MCRT is so short that the slower growing bacteria (e.g.,
+methanogens) are eliminated from the digester. Eliminating the slower growing methanogenic
+bacteria usually results in a volatile acid accumulation in the digested sludge and consequently
+an incomplete digestion process.
+
+The MCRT is a key parameter that is used to control process stability and determine the required
+digester volume. Longer MCRTs generally result in a more stable process and a higher degree
+of solids stabilization; however, this requires larger digesters and greater capital funding.
+Therefore, a tradeoff exists between process stability and capital costs.
+
+In the municipal wastewater treatment industry, the minimum MCRT for an anaerobic digester is
+15 days to meet the Class B requirements of the 503 regulations. In practice, the MCRT range is
+typically 15 to 30 days. For stable digester operation, however, it is also important to maintain a
+consistent MCRT that is long enough to maintain a sufficient methanogen population.
+
+Food waste is composed of organic material, such as carbohydrates, proteins, and short-chain
+fats that are readily biodegradable. Municipal wastewater solids contain human waste that has
+already decomposed to a certain degree and is more resistant to further degradation. Because
+
+
+Anaerobic Digestion of Food Waste                                                              6
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,49 @@
+                   Laboratory - Exercise 1
+
+Investigations of Biodiesel Production Pitfalls
+
+Equipment needed:
+Four 500 ml Erlenmeyer flasks containing 200 g of soybean oil
+Four 125 ml Erlenmeyer flasks, 3 containing 43 g of methanol, one containing 21.5 g of
+methanol
+Four hot plate/stirrers
+Four separatory funnels with ringstands
+Aluminum foil (for capping flasks)
+Small bottles containing preweighed sodium hydroxide, three with 2 g, one with 10 g.
+
+Group 1: Too much water (How much harm can a little water do?)
+   •   Starting with 200 g of soybean oil in a 500 ml flask. Add 10 g of water.
+   •  Add 2 g of sodium hydroxide pellets to 43 g of methanol and agitate until the pellets are
+       dissolved.
+   •  Add the methanol/sodium hydroxide solution to the soybean oil. Add a magnetic stirring
+       bar and place on the hot plate. Heat to 60-65ºC and agitate for 1 hour. Pour into a
+       separatory funnel and allow to separate.
+Does separation occur?
+What happens when you add water?
+
+Group 2: Too much catalyst (If a little bit is good, more must be better)
+   •   Start with 200 g of soybean oil in a 500 ml flask.
+   •  Add 10 g of sodium hydroxide pellets to 43 g of methanol and agitate until the pellets are
+       dissolved. Heating may be required.
+   •  Add the methanol/sodium hydroxide solution to the soybean oil. Add a magnetic stirring
+       bar and place on the hot plate. Heat to 60-65ºC and agitate for 1 hour. Pour into a
+       separatory funnel and allow to separate.
+Does separation occur?
+What happens when you add water?
+
+Group 3: Not enough alcohol (Why should I use more than the reaction needs?)
+   •   Start with 200 g of soybean oil in a 500 ml flask.
+   •  Add 2 g of sodium hydroxide pellets to 21.5 g of methanol and agitate until the pellets are
+       dissolved. Heating may be required.
+   •  Add the methanol/sodium hydroxide solution to the soybean oil. Add a magnetic stirring
+       bar and place on the hot plate. Heat to 60-65ºC and agitate for 1 hour. Pour into a
+       separatory funnel and allow to separate.
+Does separation occur?
+What happens when you add water?
+
+Group 4: High free fatty acid feedstock (Why treat this any differently than refined oil?)
+   •   Start with 200 g of animal fat in a 500 ml flask.
+
+
+
+                                      41

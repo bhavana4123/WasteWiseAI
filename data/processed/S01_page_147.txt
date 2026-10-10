@@ -1,0 +1,59 @@
+Plant Materials (Non-Woody)
+
+
+SUDAN GRASS; solid; Material is considered biomass fuel and has proximate analysis
+    values (in percent by weight dry basis) for volatile concentration (VCM) = 72.75, ash
+   content = 8.65, and fixed carbon   18.60.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon   44.58,
+   hydrogen = 5.35, oxygen = 39.18, nitrogen = 1.21, sulfur = 0.08, chlorine = 0.13, and
+   residue (ash)   9.47.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)   7447 Btu Ib; 1
+   qv(gross) = 4156 cal g-
+    q,(gross)  = 17390 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net) = 7017 Btu  Ib;'
+   qv(net) = 3898 cal9;
+   qv(net) = 16310 J g
+
+                                                                       85 JEN/EBE
+
+SWEET WOODRUFF; Galium odoraturn; solid; Material is an integral part of the
+   ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+    is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated to a dry basis.
+
+    q,(gross)  = 7281 Btu  lb;'
+    q,(gross)  = 4045 cal g;
+    q,(grass)  = 16924 J g'
+
+                                                          73PAU/BRE
+
+TALL OXEYE; Telekia speciosa; solid; Material is an integral part of the ecosystem at
+   the herbaceous layer level of the mixed fir and beech forest in the Pulmonario (rubro)
+   Abieti-Fagetum area of the Bucegi mountains (two different stations) in Romania.
+   The plants have the following constitution: 33% of the weight is represented by the
+   stem axis and 67% by leaves. The species has an aestival (summer) type vegetation
+    period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+    calculated to a dry basis.
+    q,(gross) = 7634 Btu lb; 1
+    qv(gross) = 4241 cal 6;
+    q,(gross) = 17744 J g
+
+                                                          73PAU/BRE
+
+
+
+                                       160

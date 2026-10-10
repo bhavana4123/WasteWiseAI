@@ -1,0 +1,55 @@
+Alloys and Metals
+
+
+
+MONEL; solid; corrosion resistant alloy; composition:  nickel, 67 wt. %; copper, 30 wt. %;
+    iron, 1.4 wt. %; manganese,  I wt. %.
+
+    specific heat:
+
+   tem erature
+    (KP  (OF)        Cp(Btu lb-l "F-l)       Cp(cal g-l ~  - 1  )    Cp(J g-1 K -I )
+
+    1   -457.6               0.000026               0.000026            0.000 11
+    50   -369.4                 0.0 I9                      0.0 19               0.078
+   100   -279.4                0.06                      0.06                   0.24
+   200     -99.4                   0.09                      0.09                  0.37
+   300     80.6                 0.10                      0.10                 0.43
+
+                                                       QOKEE/KUR
+MONEL "K";solid; composition:  nickel, 63%-70%;  aluminum, 2%-4%; iron, 2.0%
+   (maximum); silicon, 1 .O% (maximurn); manganese, 1.5% (maximum); carbon, 0.25%
+   (maximum); remainder is copper.
+
+   specific heat: -120" to 982°C (-184" to 1800°F)
+                       = 0.09479 + 7.150  x    T - 7.717 x  lo-'  T2 + 3.549 x 10- 11 T3
+                     = 0.097 + 1.20  x     T - 2.39 x  lo-'  Tz + 2.07  x 10- 10 T3
+                     = 0.406 + 5.02  x     T - 10.0 x loe7 T2 + 8.66  x 10- 10 T3
+
+                                                          58LUC/DEE
+
+NICKEL; solid;  tomic number, 28; atomic wt., 58-69; density, 8.90 g crn-'
+    (555.6 Ib ft-4.
+   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, -AHc0 at
+                           P
+   25OC (77°F); product of combustion is nickel oxide, NiO.
+
+    qp(gross) = 1757 Btu 1P-l
+   q (gross) = 976 cal g-    P   q (gross) = 4084 J g-'    P
+
+
+   specific heat:
+
+   tem erature
+                                                                                     -1   -1               C (Btu lb-I  OF-')         Cp(cal g-1 K-l)      Cp(J g  K   )  (€8(OF)                      P
+    298    77                 0.106                   0.106                0.444
+    500   441                 0.126                   0.126                0.525
+    630   675                 0.158                    0.158               0.663
+    700   801                 0.126                    0.126                0.525
+
+                                                                           (more)
+
+
+
+
+                                       44

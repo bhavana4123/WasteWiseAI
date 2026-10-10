@@ -1,0 +1,50 @@
+Section 3. Technology Characterization – Combustion Turbines
+
+3.1   Introduction
+Gas turbines have been in use for stationary electric power generation since the late 1930s. Turbines
+went on to revolutionize airplane propulsion in the 1940s, and since the 1990s through today, they have
+been a popular choice for new power generation plants in the United States.
+
+Gas turbines are available in sizes ranging from 500 kilowatts (kW) to more than 300 megawatts (MW)
+for both power-only generation and combined heat and power (CHP) systems. The most efficient
+commercial technology for utility-scale power plants is the gas turbine-steam turbine combined-cycle
+plant that has efficiencies of more than 60 percent (measured at lower heating value [LHV]35). Simple-
+cycle gas turbines used in power plants are available with efficiencies of over 40 percent (LHV). Gas
+turbines have long been used by utilities for peaking capacity. However, with changes in the power
+industry and advancements in the technology, the gas turbine is now being increasingly used for base-
+load power.
+
+Gas turbines produce exhaust heat at high temperatures that can be recovered in a CHP configuration to
+produce steam for process use. Such CHP configurations can reach overall system efficiencies (electricity
+and useful thermal energy) of 70 to 80 percent. By the early 1980s, the efficiency and reliability of
+smaller gas turbines (1 to 40 MW) had progressed sufficiently to be an attractive choice for industrial
+and large institutional users for CHP applications.
+
+Gas turbines have very low emissions compared to other fossil-powered generation technologies. With
+catalytic exhaust cleanup or lean pre-mixed combustion, some large gas turbines achieve emissions of
+oxides of nitrogen (NOx) well below 10 parts per million (ppm).36 Because of their relatively high
+efficiency and the reliance on natural gas as a primary fuel, gas turbines emit substantially less carbon
+dioxide (CO2) per kilowatt-hour (kWh) generated than other fossil technology in commercial use.37
+
+3.2   Applications
+Gas turbines are used in a variety of stationary applications:
+
+    •   Electric utility central station power generation – Gas turbines are used widely by the electric
+          utility industry. Combined cycle turbine plants contribute to base-load power needs, and simple
+        cycle turbines are used for meeting peak-load. Today, gas turbines comprise 32 percent, or 315
+        gigawatts (GW), of central station power plant capacity
+
+
+35 Most of the efficiencies quoted in this report are based on higher heating value (HHV), which includes the heat of
+condensation of the water vapor in the combustion products. In engineering and scientific literature concerning heat engine
+efficiencies the lower heating value (LHV – which does not include the heat of condensation of the water vapor in the
+combustion products) is usually used. The HHV is greater than the LHV by approximately 10 percent with natural gas as the fuel
+(e.g., 50 percent LHV is equivalent to 55 percent HHV). HHV efficiencies are about 8 percent greater for oil (liquid petroleum
+products) and 5 percent for coal.
+36 Volumetric emissions for gas turbines are measured at 15 percent oxygen in the exhaust.
+37 Fuel cells, which produce electricity from hydrogen and oxygen, emit only water vapor. There are emissions associated with
+producing the hydrogen supply depending on its source. However, most fuel cell technologies are still being developed, with
+only one type (phosphoric acid fuel cell) commercially available in limited production.
+
+
+Catalog of CHP Technologies                          3–1                          Combustion Tubines

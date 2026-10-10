@@ -1,0 +1,42 @@
+                             Table 7. Sludge HTL capital costs.
+
+                                              Purchased,           Installed,
+                                               million USD       million USD
+                 Item                         (2014)            (2014)                Source
+
+HTL Reactor System: Pumps, heat          $5.67             $11.34           Knorr et al. 2013; ACCE
+integration, HTL reactor, knockout drums                                               (reactor)
+Phase separation                          $0.47             $1.12         ACCE (product coolers);
+                                                                         Knorr et al. 2013
+                                                                                        (separators)
+Hot oil system for reactor and trim heater    $0.48             $0.64            Knorr et al. 2013
+Total                                     $6.6              $13.1
+
+2.4 HTL Aqueous Phase Treatment
+
+2.4.1   Aqueous Treatment Design Basis
+
+    After separation from the biocrude product, the HTL aqueous phase is routed back to the WWTP’s
+treatment train. Table 8 lists the measured HTL aqueous phase constituent concentrations from the
+experimental run with Detroit sludge. While the organic and ammonia levels in the HTL water are high
+relative to a typical WWTP influent, the overall volume is small. Table 9 provides a comparison of the
+component loadings from the HTL water versus the average WWTP headworks (calculated for 100 MGD
+at concentrations from Tchobanoglous et al. (2014). As shown in Table 9, the HTL water contributes 9%
+and 18% of the BOD and ammonia load to the WWTP, respectively. The organic content, which is
+essentially all dissolved, would likely be processed without issue by the activated sludge process (note
+that the extra aerating power required is included in the analysis). The high ammonia, on the other hand,
+could cause problems at some plants, such as toxicity impacts and/or pass through to the WWTP’s
+discharge to the environment. Significantly high phosphate levels may also pose a problem. Some plants
+may be able to recycle the HTL aqueous stream directly back to primary or secondary treatment without
+pre-treatment. Others, particularly those that are already near their permitted effluent nitrogen and/or
+phosphorus limit and/or do not already have an enhanced nutrient removal step in the main treatment
+train, might have to treat this stream to reduce loads on the plant. In any case, it is anticipated that
+effluent limits will become increasingly stringent and nutrient recovery will become more important for
+WWTPs in the future. Therefore, as a conservative measure, treatment of the HTL water is included in
+the design.
+
+
+
+
+
+                                         15

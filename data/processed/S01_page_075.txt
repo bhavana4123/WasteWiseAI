@@ -1,0 +1,57 @@
+                                                                      Foods
+
+
+CITRUS FRUIT, RINDS AND SEEDS; solid; ultimate analysis: carbon, 44.1 1%; hydrogen,
+   5.22%; oxygen, 38.34%; nitrogen, 1.02%; sulfur, 0.1 1%; ash, 3.18%; moisture, 8.02%;
+   proximate analysis as received: moisture, 8.02%; volatile matter, 71.46%; fixed
+   carbon, 17.34%; ash, 3.18%.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+   as received                                    air dried
+                                                qv(gross) = 7376 Btu lb- 1    qv(gross) = 1708 Btu 1
+    q,(gross)  = 949 cal g-                          q,(gross)  = 4098 cal g-l
+    q,(gross)  = 3970 J g-'                       qv(gross) = 17146 J g-'
+
+                                                             66KAI; 68KAI/FRI
+
+COCOA BUTTER; solid; The saponification number, which is the mean molecular weight
+    of the fatty acids present in the molecule = 194. The amount of iodine absorbed and
+   expressed as a percentage of the molecular weight (a measure of the proportion of
+   unsaturated fatty acid present) called the iodine number = 38.
+
+   enthalpy difference: temperature range measured -50"  t o 53°C (-58" t o 131OF).
+
+                                                            O C)   temperature                H O (t )-H" (-50
+  ("C)  (OF)       Btu lb-I                cal g-l               J g-'
+
+    -50    -58            0.00                   0.00                    0.00
+    -25    -13           14.67                   8.15                 34.10
+    0    32           33.10                  18.39                 76.94
+    25    77           63.76                 35.42               148.20
+    50   122          131.85                 73.25               306.47
+    55   131          136.22                 75.68               316.65
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58" to
+   131 OF).
+
+   Lf = 63.0 Btu lbll
+   Lf = 36.0 cal g-
+   Lf = 146.4 J g-l
+
+                                                                      55RIE
+
+COCONUT; COCOSnucifera; solid; meat; 19.2% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross)  = 4882 Btu Ib;'
+    q,(gross)  = 27 12 cal g-
+    q,(gross)  = 11347 J g-l
+
+                                                     55MERIWAT
+
+
+
+
+
+                                     81

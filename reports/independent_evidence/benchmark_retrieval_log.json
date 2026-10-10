@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "B01",
+    "url": "https://ris.utwente.nl/ws/portalfiles/portal/288453995/applsci_12_04822_v2.pdf",
+    "access_time_utc": "2026-10-08T12:41:34.249230+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://ris.utwente.nl/ws/portalfiles/portal/288453995/applsci_12_04822_v2.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\B01_fresh.pdf",
+    "sha256": "f44cdee6795365283c594c6f40d475ebf9cf90eaeecc7ccb6a73fa0c36abaf50",
+    "identical_to_archived_bytes": false
+  },
+  {
+    "source_id": "B02",
+    "url": "https://mdpi-res.com/d_attachment/processes/processes-08-01407/article_deploy/processes-08-01407.pdf",
+    "access_time_utc": "2026-10-08T12:41:39.045586+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://mdpi-res.com/d_attachment/processes/processes-08-01407/article_deploy/processes-08-01407.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\B02_fresh.pdf",
+    "sha256": "024500861d0cfc4f9bf0306732430fdcb7643e7aec09129c0d6325e34b8206c2",
+    "identical_to_archived_bytes": false
+  },
+  {
+    "source_id": "B03",
+    "url": "https://mdpi-res.com/d_attachment/environments/environments-05-00084/article_deploy/environments-05-00084.pdf",
+    "access_time_utc": "2026-10-08T12:41:40.846493+00:00",
+    "external_verification": "NOT_CHECKED",
+    "http_status": 200,
+    "final_url": "https://mdpi-res.com/d_attachment/environments/environments-05-00084/article_deploy/environments-05-00084.pdf",
+    "content_type": "application/pdf",
+    "retrieval_status": "DOWNLOADED",
+    "file": "reports\\independent_evidence\\B03_fresh.pdf",
+    "sha256": "050ced730949544f2018297c9fca11eb304d458bfdd19242b1d6567550539dd2",
+    "identical_to_archived_bytes": false
+  }
+]

@@ -1,0 +1,48 @@
+The end result of the technoeconomic analysis was a predicted minimum ethanol selling price
+(MESP) of $2.15/gal (2007$). This reflects a $0.74/gal contribution from feedstock, a $0.34/gal
+contribution from enzymes, and a $1.07/gal contribution from the remainder of the conversion
+process.
+
+6.2  Variance from the 2002 Design
+In the original 2002 design report, which projected 2012 technology, the modeled 2012 MESP
+was $1.07/gal ethanol in 2000$ ($1.29/gal if directly converted to 2007$). Since then, the
+projected 2012 model has evolved to include inflation in capital and chemical costs, new
+feedstock costs from INL, elimination of feedstock handling and yard workers, and some key
+process changes, including the oligomer conversion step in pretreatment and the switch to
+ammonia conditioning. The most recently updated MESP target for 2012 was $1.49/gal ethanol
+in 2007$ [27]. The model used to compute this price was based on the 2008 State of Technology
+model [21], which in turn was based on the 2002 design model. Table 42 compares this previous
+model to the present design, with the costs broken down by process area (note that the totals may
+be appear to be off by a cent due to rounding).
+
+      Table 42. Comparison of the Previous Target Case and the Present Design (2007$/gal)
+   Model Comparison by Area       2012 Model Based  New 2012 Model     Difference
+                                on 2008 SOT        (This Work)
+   Feedstock                              $0.57              $0.74             $0.17
+   Feed handling (included in                                           $0.01              $0.00             -$0.01    feedstock cost in current model)
+    Pretreatment/conditioning                 $0.26              $0.29             $0.03
+    Saccharification and fermentation          $0.12              $0.20             $0.08
+    Cellulase                               $0.12              $0.34             $0.22
+     Distillation and solids recovery             $0.16              $0.12             -$0.04
+   Wastewater treatment                    $0.03              $0.34             $0.31
+   Storage                                 $0.02              $0.02             $0.01
+    Boiler/turbogenerator (includes                                           $0.16              $0.04             -$0.12     electricity co-product credit)
+     Utilities                                 $0.06              $0.06             $0.01
+   TOTAL (MESP)                         $1.49              $2.15             $0.66
+
+Because the MESP is expressed in $/gal, it depends of course on the overall ethanol yield, which
+in the present design is about 12% lower than in the older model. Overall, there was a $0.66/gal
+(44%) increase over the previous target of $1.49/gal. When broken down by process area, we see
+in Table 42 that the more notable changes in cost came from the enzyme section (due to a change
+in the way enzyme costs were determined, i.e., by on-site production instead of an assumed price
+per gallon of ethanol) and from the wastewater area (material that was previously burned is now
+being routed to wastewater). The individual contributors to the cost delta are expressed in a
+different way in Table 43. At $0.22 per gallon, the new enzyme cost model is the largest
+contributor to the MESP difference between the two models. Another $0.08 can be attributed to
+the lower yield from the new feedstock composition, and $0.10 to an increase in the feedstock
+cost. A total of $0.21 can be attributed to net increases in the capital equipment costs, chemical
+costs, and labor rates.
+
+
+
+                                      84

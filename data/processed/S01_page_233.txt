@@ -1,0 +1,56 @@
+Woody and Tree Materials
+
+
+FIR, WHITE; Abies concotor; solid; Wood samples were air-dried at room temperature.
+   Composition is ash = 0.55% and char yield = 22.1%.  Char was obtained from heating
+   the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+   fuel                                    char (from 500°C heating)
+                           1    q,(gross)  = 8850 Btu Ib-                        q,(gross)  = 14270 Btu I
+    q,(gross)  = 4920 cal g-l                        q,(gross)  = 7930 cal g-
+    q,(Gross)  = 20570 J g-l                        q,(gross)  = 33180 J g-l
+
+                                                                    82SUS
+
+FIR, WHITE; Abies concolor; solid; Material was obtained from Whitaker's Forest in
+   Tulare County, California, with predominant soil series of Shaver sandy loam derived
+   from granitic parent material. The layer was collected from the understory of the
+    forest floor. Average yearly decomposition of the forest floor for white fir is:  litter,
+   6.67%; duff, 1.46%.
+
+   gross heat of combustion: assume values refer t o room temperature; ash-free.
+
+   branch-twig                                      litter
+                                                 qv(gross)  9338 Btu lb- 1    qv(gross) = 8990 Btu lb-I
+                             -1
+    q,(gross)    4939 cal 5                         q,(gross)   5188 cal g-l    q,(gross)   20665 J g                           q,(gross)   21707 J g-l
+
+   duff
+    q,(gross)  = 9238 Btu lbi 1
+    q,(gross)  = 5132 cal g-
+    q,(gross)  = 21472 J g-l
+
+                                                      78AGEIWAK
+
+FIR, WHITE; ROTTEN WOOD; Abies concolor; solid; Samples were air-dried at room
+   temperature. Composition is ash = 0.15% and char yield = 21.3%.  Char was obtained
+   from heating the sample to 500°C (932'F)   in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temper at ur e.
+
+    fuel                                     char (from 500°C heating)
+                           1    q,(gross)  = 8750 Btu lb-                        q,(gross)  = 13720 Btu 1F-l
+    q,(gross)  = 4860 cal g-l                         q,(gross)   7620 cal g-
+    q,(gross) = 20340 J g-l                         q,(gross)   31900 J g-'
+
+                                                                   82SUS
+
+
+
+
+
+                                         256

@@ -1,0 +1,45 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+
+         Furthermore, physical properties such as molecular mass, branch     In this study, we aimed to provide baseline data for poly-
+          density and percent crystallinity can impact product yields during  mers that are available commercially and commonly used as
+            catalytic and enzymatic deconstruction of polymers.15,16          benchmark substrates for research. To that end, we compre-
+            Approximately 95% of all plastics manufactured globally in   hensively characterized 59 polymers across 20 polymer classes,
+         2018 by production capacity can be attributed  to the 20   sourced from widely available commercial vendors, including        Licence.    polymer  types  represented  in  Fig.  1.1,17  However,  these   Alfa  Aesar, Goodfellow, and Sigma-Aldrich, among others
+         polymer classes do not fully indicate the complexity of plastics   (Table 1). We characterized molecular composition, polymer
+         compositions  or  formulations. A  recent  review  classified  morphology,  molecular mass  distributions,  thermal  pro-        Unported         10 547 unique chemicals associated with use in plastics, as   perties, elemental compositions, the presence of additives,
+   3.0          either monomers, additives, or processing aids.18 Of these,  and the eﬀects of cryomilling on structural and thermal pro-
+PM.     25% were substances of unknown or variable composition,   perties. All source data are available in the ESI† or provided
+         with most of the rest classified as individual compounds. Most   online. Taken together, we intend this work to provide both
+           plastic additives can be divided into 4 categories: (1) functional   baseline  analytical  characterization  of  plastics and  plastic6:34:53
+          additives (e.g. stabilizers, antistatic agents, flame retardants,   additives for recycling studies and a resource on how to com-
+           plasticizers, lubricants etc.), (2) colorants (e.g. pigments, dyes),   prehensively perform these characterizations, as well as provid-
+            (3) fillers (e.g. CaCO3, talc, etc.), and (4) reinforcements (e.g.   ing the  research community with  readily  accessible  fully6/21/2024
+          glass fiber, carbon fiber, etc.). The most commonly used addi-   characterized substrates.on Attribution-NonCommercial
+           tives are plasticizers, flame retardants, antioxidants, acid sca-
+          vengers, UV and thermal  stabilizers, lubricants, pigments,
+           antistatic  agents,  and  slip  agents.19,20  While  there  are                                              ResultsDownloaded Commons   many  studies on  plastic  additives found  in  the  natural
+                            there are considerably fewer studies on the   Similar to how studies in the biomass conversion literature2024.       environment,21–24        Creative    occurrence of additives in manufactured plastics in relation to   report baseline characterization data, for polymer recycling
+ a    the development of new recycling strategies.25–27                 research, it is critical to both use benchmark substrates fromMarch26 under
+on licensed
+  isPublished
+       article
+Article. This
+Access
+Open
+
+
+
+
+
+             Fig. 1  Chemical classes of plastics analyzed in this study. Abbreviations: high-density polyethylene (HDPE), low-density polyethylene (LDPE), linear
+           low-density polyethylene (LLDPE), polypropylene (PP), polystyrene (PS), polyvinyl chloride (PVC), polyethylene terephthalate (PET), polycarbonate
+            (PC), nylon-6,6, polybutylene terephthalate (PBT), polyurethane (PU), nylon-6, polylactic acid (PLA), polyhydroxybutyrate (PHB), acrylonitrile buta-
+           diene styrene (ABS), styrene acrylonitrile (SAN), polyketone (PK), polyvinyl alcohol (PVOH), ethylene vinyl alcohol (EVOH), polyvinyl acetate (PVAc),
+           ethylene vinyl acetate (EVA), polymethyl methacyrlate (PMMA), and polyacrylonitrile (PAN).
+
+
+
+        7068  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

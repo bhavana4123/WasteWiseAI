@@ -1,0 +1,47 @@
+the same level. “Non-California” versions have NOx emissions of less than 9 ppmvd. The emissions
+characteristics are shown in Table 5-6.
+
+               Table 5-6. Microturbine Emissions Characteristics
+                                                             System
+                                        1        2        3        4        5        6
+ Nominal Electric Capacity (kW)              30       65       200      240      320      1,000
+ Recovered Thermal Energy (kW)              61.0      119.8     258.9     376      450     1,299.0
+ Nominal Electrical Efficiency, HHV          23.6%    25.3%    28.1%    27.2%    29.2%    28.1%
+ NOx (ppm @ 15% O2, dry) [1]                9        4        4        5        9        4
+ NOx (lb/MWh) [2]                           0.49      0.17      0.14      0.23      0.39      0.14
+ NOx (lb/MWh with CARB CHP credit)          0.16      0.06      0.06      0.09      0.16      0.06
+ CO (ppm @ 15% O2, dry) [1]                40        8        8        5        10        8
+ CO (lb/MWh) [3]                              1.8       0.24       0.2       0.14      0.26       0.2
+ CO (lb/MWh with CARB CHP credit)           0.59      0.08      0.09      0.06      0.11      0.09
+ VOC (ppm @ 15% O2, dry) [1, 4]              9        3        3        5        9        3
+ VOC (lb/MWh) [5]                           0.23      0.05       0.2       0.08      0.13       0.2
+ VOC (lb/MWh with CARB CHP credit)          0.08      0.02      0.09      0.03      0.06      0.09
+ CO2 (lb/MWh electric only) [6]               1,814     1,680     1,497     1,530     1,424     1,497
+ CO2 (lb/MWh with CARB CHP credit)         727      700      817      749      722      815
+Notes:
+1.  Vendor estimates for low emission models using natural gas fuel. For systems 1, 2, 3, and 6 the vendor
+    provided both input- (ppmv) and output-based emissions (lb/MWh.) For units 4 and 5, the output emissions
+   were calculated as described below.
+2.  Output based NOx emissions (lb/MWh) = (ppm @15% O2) X 3.413) / ((272 X (% efficiency HHV))
+3.  Output based CO emissions (lb/MWh) = (ppm @15% O2) X 3.413) / ((446 X (% efficiency HHV))
+4.   Volatile organic compounds.
+5.  Output based VOC emissions (lb/MWh) = (ppm @15% O2) X 3.413) / ((782 X (% efficiency HHV))
+6.  Based on 116.39 lbs CO2 / MMBtu.
+
+The CO2 emissions estimates with CHP show the potential of microturbines in CHP applications to
+reduce the emissions of CO2. Coal fired generation emits about 2,000 lb/MWh, and even state of the art
+natural gas combined cycle power plants produce CO2 emissions in the 800-900 lb/MWh range, even
+before transmission line losses are considered.
+
+5.6   Future Developments
+Microturbines first entered the market in the 30-75 kW size range. Of the last several years,
+microturbine manufacturers have developed larger capacity products to achieve better economics of
+operation through higher efficiencies and lower capital and maintenance costs.
+
+Manufacturers are continuing to develop products with higher electrical efficiencies. Known
+developments include a model Capstone is developing, with the Department of Energy, on a 250 kW
+model with a target efficiency of 35 percent (gross output, LHV) and a 370 kW model with a projected
+42 percent efficiency. The C250 is intended to feature an advanced aerodynamic compressor design,
+
+
+Catalog of CHP Technologies                         5–17                                  Microturbines

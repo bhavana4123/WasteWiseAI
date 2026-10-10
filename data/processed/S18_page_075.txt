@@ -1,0 +1,42 @@
+Annual maintenance materials were estimated as 3% of the installed ISBL capital cost and
+property insurance and local property tax were estimated as 0.7% of the fixed capital investment,
+based on the 1994 Chem Systems report [75].
+
+4.5  Discounted Cash Flow Analysis and the Minimum Selling Price of Ethanol
+Once the total capital investment, variable operating costs, and fixed operating costs have been
+determined, a discounted cash flow rate of return (DCFROR) analysis can be used to determine
+the minimum selling price per gallon of ethanol produced. The discounted cash flow analysis is
+calculated by iterating the selling cost of ethanol until the net present value of the project is zero.
+This analysis requires that the discount rate, depreciation method, income tax rates, plant life,
+and construction start-up duration be specified. Because this plant is equity-financed, some
+assumptions about the loan terms are also required.
+
+We stress that the financial assumptions detailed in this section are of course subject to
+uncertainty and are not intended to represent the final word in project management. For research
+and policy purposes, one must at some point decouple the cost of making ethanol from the cost
+of making money. These financial parameters serve merely as a reference point from which to
+examine other economic sensitivities.
+
+Discount Rate
+For this analysis, the discount rate (which is also the internal rate of return [IRR] in this analysis)
+was set to 10% and the plant lifetime was set to 30 years. The discount rate was also used in
+previous design reports and was based on the recommendation in Short et al. [81] on how to
+perform economic evaluations of renewable energy technologies for DOE. His view was that,
+“In the absence of statistical data on discount rates used by industrial, transportation and
+commercial investors for investments with risks similar to those of conservation and renewable
+energy investments, it is recommended that an after tax discount rate of 10%…be used.”
+
+Equity Financing
+For this analysis, it was assumed that the plant would be 40% equity financed. The terms of the
+loan were taken to be 8% interest for 10 years. The principal is taken out in stages over the 3-
+year construction period. Interest on the loan is paid during this period, but principal is not paid
+back. (This is another nth-plant assumption, which says that this cash flow comes from the parent
+company until the plant starts up.) This is all in contrast to the 2002 design, which assumed a
+100% equity purchase. Figure 16 illustrates the sensitivity of minimum ethanol selling price to
+the percentage of equity financing and the after-tax discount rate (the IRR).
+
+
+
+
+
+                                      65

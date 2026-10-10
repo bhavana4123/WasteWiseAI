@@ -1,0 +1,42 @@
+                                                                       Foods
+
+
+WHALE OIL, UNREFINED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 192. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 120.
+
+   enthalpy difference: temperature range measured -50"  t o 55'C  (-58" to 131°F).
+
+   temperature                H "( t)-H"(-50 O C)
+   ("C)  (OF)       Btu lb-'                 cal g-l                J g-l
+
+    -50    -58             0.00                     0.00                   0.00
+    -25    -13            21.22                   11.79                 49.33
+     0    32          55.17                 30.65                128.24
+    25    77           84.47                  46.93                196.36
+    50   122         106.09                  58.94                246.61
+    55   131          110.32                  6 1.29                255.44
+
+   heat of fusion: result is a mean value for temperature range -50'  to 55°C (-58"  t o
+    131'F).
+                 1   Lf = 27.4 Btu Ib-
+   Lf = 15.2 cal
+
+
+                                                                      55RIE
+
+WHEAT; Triticum aestivum; 8.5% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross) = 7362 Btu lb- 1
+    qv(gross) = 4090 cal g-l
+    q,(gross) = 17115 3 g-l
+
+                                                     55MERlWAT
+
+
+
+
+
+                                        99

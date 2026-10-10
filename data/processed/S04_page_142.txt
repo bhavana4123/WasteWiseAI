@@ -1,0 +1,37 @@
+    •   Control panel – controls and monitoring instruments.
+
+Figure 7-13 provides a process diagram that shows how these different components interact in a
+packaged system.
+
+                   Figure 7-13. Packaged CHP System Diagram
+
+
+
+
+
+Source: EPA CHP Partnership
+
+
+7.5.1 Heat Recovery
+A defining characteristic of CHP systems is their ability to recover and put to beneficial use otherwise-
+wasted heat. Most packaged systems use recovered heat to produce hot water, but steam and chilled
+water options are also available.
+
+To produce chilled water, packaged systems are coupled with an absorption chiller, which converts
+recovered heat into chilled water that can be used for air conditioning or other cooling loads. In this
+way, more of the system’s thermal output can be used, which increases system efficiency. Packaged
+systems with absorption chillers are well-suited for applications that consistently require chilled water,
+such as supermarkets and data centers, as well as buildings with seasonal heating and cooling needs,
+like multifamily buildings, hotels, health clubs and health care facilities.
+
+        Specifying Packaged CHP System Capacity Based on Thermal and Electric Requirements
+  Sizing decisions are best made based on an understanding of facility electrical and thermal loads (hot
+  water, heating cooling), and how they match with the outputs of available packaged systems.
+  Typically, packaged CHP capacity is selected in a way that allows facilities to utilize all of the electric
+ and thermal energy on site, while operating at or near full load. Building energy modeling can be used
+  to determine the system that best meets the facility’s needs while operating efficiently and providing
+ an acceptable return on investment. Energy models often used include eQUEST and EnergyPlus.
+
+
+
+Catalog of CHP Technologies                         7–11                       Packaged CHP Systems

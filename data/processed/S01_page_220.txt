@@ -1,0 +1,60 @@
+                                                 Woody and Tree Materials
+
+
+BOXELDER; Acer negundo; solid; mean age = 11 years, mean basal stem diameter =
+    8.97 cm, mean stem bark (proportion of dry weight) = 9.13%, ash content (proportion
+    of oven dry weight) of components of sample: wood = 0.78%, branches = 1.6%, twigs =
+   2.9%, bark = 9.5%, and leaves = 6.2%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                         twigs:
+
+   qv(gross) = 8809 Btu lbll                       q,(gross)   8708 Btu lbl'
+    q,(gross)  = 4894 cal g-                        q,(gross)   4838 cal 6;
+    qv(gross) = 20477 J g-l                      qv(gross)  20242 J g
+
+    bark:                                          leaves:
+
+    qv(gross) = 7778 Btu 1bT                       q,(gross) = 9050 Btu Ib;'
+    qv(gross) = 4321 cal g-                         q,(gross)  = 5028 cal gi
+    qv(gross) = 18079 J g-l                        q,(gross)  = 21037 J g
+
+   branches:
+
+    qv(gross)  8786 Btu  lb;'
+    q,(gross)   4881 cal g-
+    qv(gross) = 20422 J g-l
+
+                                                             79NEE/STE
+
+CABBAGE WOOD; Ligustrum vuZgare; solid; Material is a shrub, one of the dominant
+   species of a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown
+    forest soil, at 300 m above sea level located in the southern part of the Bukk
+   Mountains of north Hungary. Samples were dried at 85°C (185"F), then ground and
+    pelleted.  The ash content was determined at 500°C (932°F) while the temperature
+   was increased stepwise. Ash content of stem and branch wood = 0.7%; stem and
+   branch bark = 4.9%; leaf = 9.0%; root = 6.8%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature.
+
+                      dry weight       ash-free dry       std dev.
+                         basis          weight basis        of mean
+
+   stem and branch wood (4 measurements)
+
+    qv(gross) =          8318             8375           57.2   Btu lb-I
+    q,(gross) =          4621             4653            31.8    cal                                 q1
+    qJgross) =         19334             19468         133     J g-
+
+   stem and branch bark (4 measurements)
+
+    qJgross) =          8194             8624            96.7   Btu lb-l
+    qv(gross) =          4552              4791            53.7   cal g-1
+    qv(gross)           19046            20046          225     cal g-l
+
+                                                                           (more)
+
+                                       243

@@ -1,0 +1,54 @@
+Agricultural Residues
+
+
+RICE STRAW (COLLECTEDAFTER HARVEST); solid; Material is considered biomass
+    fuel and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM)  69.33, ash content = 13.42, and fixed carbon   17.25.  Also the
+   ultimate analysis of the elemental composition of the fuel (values in percent by
+   weight dry basis) is carbon = 41.78, hydrogen = 4.63, oxygen = 36.57, nitrogen = 0.70,
+    sulfur = 0.08, chlorine = 0.34, and residue (ash) = 15.90.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    qv(gross) = 7004 Btu lbll
+    qv(gross) = 3891 cal g-
+    qv(gross) = 16280 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 6599 Btu lbi'
+    qv(net) = 3666 cal g l
+    qv(net) = 15340 J g-
+
+                                                                      85 JEN/EBE
+
+RICE STRAW, WEATHERED (COLLECTED 1/2 YEAR AFTER HARVEST); solid; Material
+     is considered biomass fuel and has proximate analysis values (in percent by weight dry
+    basis) for volatile concentration (VCM)  62.31, ash content = 24.36, and fixed
+   carbon = 13.33.  Also the ultimate analysis of the elemental composition of the fuel
+    (values in percent by weight dry basis) is carbon = 34.60, hydrogen   3.93, oxygen =
+    35.38, nitrogen = 0.93, sulfur = 0.16, and residue (ash) = 25.00.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    qv(gross) = 6264 Btu Ib-I
+    q,(gross) = 3480 cal g-l
+    q,(gross)  = 14560 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qvhet) = 5920 Btu lb'l
+    qv(net) = 3289 cal g-l
+    q,(net)  = 13760 J g-l
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                      24

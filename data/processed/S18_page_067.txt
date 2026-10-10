@@ -1,0 +1,48 @@
+4  Process Economics
+
+The ultimate purpose for developing such a detailed process design, simulation model, and cost
+estimate is to determine the economics of ethanol production. This information is used either as
+an absolute cost to assess ethanol’s potential in the marketplace or as a relative cost that can be
+used to guide research by examining the change in production cost associated with a process
+modification or other core research activity.
+
+The total capital investment (TCI) is first computed from the total equipment cost. Next, variable
+and fixed operating costs are determined. With these costs, we use a discounted cash flow
+analysis to determine the minimum ethanol selling price (MESP) required to obtain a zero net
+present value (NPV) with a finite internal rate of return (IRR). This section describes the
+assumptions made in completing the discounted cash flow analysis.
+
+Our analysis does not take into account any policy factors such as subsidies, mandates, or carbon
+credits because these would be purely speculative. The purpose of this analysis is to demonstrate
+whether or not cellulosic ethanol can be cost-competitive on its own merits and, if it cannot, to
+give policymakers a sense of the magnitude of incentive required to make it so.
+
+4.1  About Cost-Year Indices
+The cost-year of 2007 was chosen for this analysis to align with DOE’s 2012 cellulosic ethanol
+performance cost goals [27]. It is expected that these performance goals will remain in 2007
+dollars (2007$) through 2017 to permit comparison of future feedstocks, conversion
+technologies, and cellulosic biofuels. However, the present equipment costs were obtained in
+2009$ or 2010$ and cost-years for chemicals range from 1999 to 2010. The following is a brief
+discussion of the methods used for determining MESP in another year’s dollar value.
+
+Each piece of equipment has a purchased cost that reflects a quote made in a certain year. Capital
+costs provided by Harris Group in 2009$ or 2010$ were adjusted using the Plant Cost Index from
+Chemical Engineering Magazine [69] to a common basis year of 2007. The final cost index for a
+given year is generally not made available until the spring of the following year. Therefore, for
+the small number of equipment items that were quoted in 2010$, we used the Plant Cost Index
+value from August of 2010. Similarly, for chemical costs we used the Industrial Inorganic
+Chemical Index from SRI Consulting [70]. Employee salaries were obtained in 2009$ and were
+scaled using the labor indices provided by the United States Department of Labor Bureau of
+Labor Statistics [71]. The general formula for year-dollar back-casting is:
+
+                                                   Cost Index                     2007 Cost = (Base Cost) ൬2007                                            Base Year Index൰
+
+The cost indices for capital and chemicals are not duplicated here; however, the reader is
+probably aware of the significant run-up in the price of raw materials such as steel and petroleum
+in the second half of the 2000s, beginning in 2003–2004. This inflation had dramatic effects on
+the prices of equipment and chemicals used in our design. Following a market correction, the
+Plant Cost Index crested in 2008, with the 2009 index actually being lower than the 2007 index.
+The Industrial Inorganic Chemical Index also crested in 2008 but the correction in 2009 was
+much smaller. In the year 2007 in particular, chemical prices varied wildly month-to-month and
+
+                                      57

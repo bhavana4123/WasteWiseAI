@@ -1,0 +1,51 @@
+3.6    Total Solids and Volatile Solids
+
+Total solids (TS) and volatile solids (VS) are both used to monitor the solids content (as a mass
+percent) of the digester feed, and the digester contents. Percent VS represents the organic, or
+biodegradable fraction of the feed. VS, combined with the MCRT and digester volume, can be
+used to determine the digester VS loading rate. The difference between TS and VS is referred to
+as inert solids that pass through the digestion process. The VS in the digester effluent is used to
+calculate the VS removed or destroyed. TS and VS, along with MCRT and digester volume, can
+also be used to determine the residual biomass remaining after digestion. TS and VS were
+sampled twice weekly for each digester. VS is presented as VS as a percent of TS (VS/TS).
+Table 3.5 summarizes the feed and digester TS and VS/TS data.
+
+Table 3.5. Bench-scale Anaerobic Food Waste Digester Solids (TS and VS/TS) Summary.
+ Sample       Parameter     Unit          Food Waste           Municipal
+ Location                                                      Wastewater
+                                                                                        Solids(4)
+                                           Target MCRT
+                                      15-day   10-day    5-day   15-day MCRT
+ Feed        TS      % AVG     9.3        9.8        8.2           4.0
+               (Thermo)      (SD)       (2.6)       (1.9)     (NA)          (0.7)
+             VS/TS    % AVG     87       90.6      90.2         77.0
+               (Thermo)      (SD)       (3.1)       (2.9)     (NA)
+            TS      % AVG     6.4        9.6        8.2
+               (Meso)        (SD)      (1.47)      (1.6)     (NA)
+             VS/TS    % AVG     86.3      89.9      90.2
+               (Meso)        (SD)       (2.7)       (2.3)     (NA)
+ Thermophilic  TS      % AVG     2.2        2.4        2.0           2.5
+ Digester                     (SD)       (0.3)      (0.3)     (NA)          (0.2)
+             VS/TS    % AVG     64.7      65.5      70.0         66
+                             (SD)       (4.4)       (4.5)    (NA)          (2.4)
+ Mesophilic    TS      % AVG     2.2        2.9        2.0           2.5
+ Digester                     (SD)       (0.1)      (0.6)     (NA)          (0.4)
+             VS/TS    % AVG     64.1      70.8      70.0         67
+                             (SD)       (2.7)       (3.2)    (NA)          (1.9)
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+  4. Anaerobic municipal wastewater solids digester data from previous EBMUD bench-scale digester study provided for
+ comparison. Digesters were fed thickened waste activated sludge and primary sludge.
+  5. NA=Not Applicable because only one data point was observed during stable period.
+
+Figure 3.8 shows the TS (%) data, while Figure 3.9 presents VS/TS (%) data for the feed and
+each digester.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               19
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,59 @@
+         Table 3-4. Approximate Moisture              3.2.2 Physical Tests
+        Contents of Typical Biomass Fuels
+                                             One of the most important physical characteristics of
+                        Moisture Content                biomass fuel is the bulk density. The bulk density is
+                       (wt % Wet   (wt % Dry                the weight of biomass packed loosely in a container
+ Biomass Fuel           Basis)      Basis)   Reference     divided by the volume occupied. Clearly, it is not an
+Woody biomass, green    40·60      67·150           (1 )        exact number, depending on the exact packing of the
+Woody biomass, dried         1 5              1 7              (1 )         particles.
+ Straws                            1 5              1 7              (1 )                                             The fuel shape and feeding characteristics determine
+ Stalks, cobs, hulls             1 5              1 7              (1 )                                                  whether it will be feasible to simply use gravity feed­ Bagasse                70        230              (1 )
+                                                        ing techniques, or whether assistance, such as stirring Municipal refuse          35         55            (2)
+                                               and shaking, will be required. The angle of repose for Peat                   90        900              (1 )
+Air dry feedlot waste           1 1              1 2            (2)       a particular fuel type is generally measured by filling a
+                                                             large tube with the fuel, and then lifting the tube and
+ (1) Miles 1982                                                      allowing the fuel to form a pile. The angle of repose is
+ (2) Reed 1981                                                        the angle from the horizontal to the sides of the pile.
+                                              The basic feed characteristic is more easily judged from
+                                                      the dugout angle of repose, the steepest angle
+      Table 3-5. Effect of Moisture Content on                                                   (measured from the horizontal) formed by the sides of
+    Heat Recovery and Combustion Efficiency'                                                    a pile of fuel when material is removed from the bot­
+        Moisture           Recoverable    Combustion    tom of the pile. Angles approaching or exceeding 90'
+          (wt %)              Heatb         Efficiency      are a good indication of the tendency of the fuel to
+Dry Basis   Wet Basis       (Btu/lb)           (%)        bridge or tunnel in the gasifier.
+   0.00          0.00          7097            82.5
+   4.76          4.54          7036            81 .8       3.3 Other Fuel Parameters
+   9.09          8.33         6975             81.1                                          The tests and analyses just mentioned are in
+  13.04            1 1 .54         6912            80.4                                                   widespread use because they were developed for use  16.67         14.29          6853            79.7
+                                                       in other industries. However, many more tests need to  20.00         16.67          6791            78.9
+                                                  be developed specifically for gasification processes.  23.08         18.75          6730            78.3
+                                                    This section addresses the effects of other fuel  28.57         22.22         6604            76.8
+  33.33         25.00          6482            75.4        parameters on biomass gasification, illustrating the
+  42.86         30.00          6178            71 .8       need for more specific testing procedures. The basic
+  50.00         33.33         5868            68.2         fuel parameters important in gasifier design are
+  60.00         37.50         5252             61.1         • particle size and shape
+  66.67         40.00         4639            53.9         • particle size distribution  71 .43         41.67          401 9            46.7
+                                                          • char durability and fixed-carbon contentaFrom Bliss, C. and Black, D. O. 1977. Silvicultural Biomass Farms,  Vol. 5, Conversion Processes and Costs. McLean, VA: Mitre CorporaǤ     • ash fusion temperature
+  tion; ERDA Contract No. EX·76·C·01·2081.                        • ash content
+bTheoretical values based on a maximum heating value of 8600 Btu/lb,     • moisture content an initial wood temperature of 62°F, a flue gas temperature of 450°F,
+ an initial air temperature of 62°F and 50% excess air.                 • heating value.
+Source: Reed 1981
+                                                           3.3.1  Particle Size and Shape
+
+                                           The size and shape of the fuel particles are important
+  HHV = [34.1 C + 132.2 H + 6.8 S                                                              for determining the difficulty of moving and delivering
+               - 1.53 A - 12.0 (O+N)] kJ/g              (3-5)     the fuel, as well as the behavior of the fuel once it is in
+                                                        the gasifier. Good fuel hopper design calls for a cone
+  HHV = [146.6 C + 568.8 H + 29.4 S - 6.6 A                                                        angle that is double the dugout angle of repose. With
+               - 51.5 (O+N)] X 102 Btu/lb               (3-6)    an angle of repose over 45', the fuel may not flow even
+                                                       in a straight cylinder and will require either an inverted
+where C, H, S, A, 0, and N are the wt % of carbon,                                                   cone or some agitation (Perry 1973). Smooth hopper
+hydrogen, sulfur, ash, oxygen, and nitrogen in the fuel.                                                      walls are always desirable.
+The calculated value agrees with the measured value
+with an absolute error of 2.1% for a large number of     Gasifiers frequently suffer from bridging and channel­
+biomass materials (Reed 1981).                           ing of the fuel. The size and size distribution of the fuel
+
+
+
+
+1 2    Handbook of Biomass Downdraft Gasifier Engine Systems

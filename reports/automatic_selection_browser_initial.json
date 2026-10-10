@@ -1,0 +1,1086 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\node_modules\\@playwright\\test\\cli.js",
+      "test"
+    ],
+    "configFile": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\playwright.config.ts",
+    "rootDir": "C:/Users/bhava/OneDrive/Documents/WasteWise/frontend/tests",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "C:/Users/bhava/OneDrive/Documents/WasteWise/frontend/test-artifacts/run-1791546063740",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "",
+        "name": "",
+        "testDir": "C:/Users/bhava/OneDrive/Documents/WasteWise/frontend/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 90000
+      }
+    ],
+    "filteredProjects": [
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546063740",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "",
+        "testDir": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests",
+        "snapshotDir": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 90000,
+        "use": {
+          "baseURL": "http://127.0.0.1:28173",
+          "viewport": {
+            "width": 1536,
+            "height": 1100
+          },
+          "trace": "retain-on-failure",
+          "screenshot": "only-on-failure",
+          "launchOptions": {
+            "channel": "chrome",
+            "args": [
+              "--use-angle=swiftshader",
+              "--enable-unsafe-swiftshader"
+            ]
+          }
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": ""
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "../reports/automatic_selection_browser_tests.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "default",
+    "updateSourceMethod": "patch",
+    "version": "1.64.0",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "dashboard.spec.ts",
+      "file": "dashboard.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "renders a genuine 3D city without JavaScript errors and captures desktop",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 21928,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:41:50.460Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-7f1960391aa802fad148",
+          "file": "dashboard.spec.ts",
+          "line": 20,
+          "column": 1
+        },
+        {
+          "title": "all source cards update exact waste names and illustrative weights",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 29348,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: getByTestId('pathway-summary')\nExpected: visible\nTimeout: 15000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" getByTestId('pathway-summary') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('pathway-summary')\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: getByTestId('pathway-summary')\nExpected: visible\nTimeout: 15000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" getByTestId('pathway-summary') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('pathway-summary')\u001b[22m\n\n    at ready (C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts:8:53)\n    at C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts:32:3",
+                    "location": {
+                      "file": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts",
+                      "column": 53,
+                      "line": 8
+                    },
+                    "snippet": "   6 |   await expect(page.getByText('Engine connected', { exact: true })).toBeVisible({ timeout: 45000 })\n   7 |   await expect(page.getByRole('button', { name: 'Choose Paddy fields', exact: true })).toBeEnabled()\n>  8 |   await expect(page.getByTestId('pathway-summary')).toBeVisible()\n     |                                                     ^\n   9 |   await page.getByTestId('advanced-controls').evaluate((node: HTMLDetailsElement) => { node.open = true })\n  10 | }\n  11 | async function wood(page: Page) {"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts",
+                        "column": 53,
+                        "line": 8
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: getByTestId('pathway-summary')\nExpected: visible\nTimeout: 15000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" getByTestId('pathway-summary') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('pathway-summary')\u001b[22m\n\n\n   6 |   await expect(page.getByText('Engine connected', { exact: true })).toBeVisible({ timeout: 45000 })\n   7 |   await expect(page.getByRole('button', { name: 'Choose Paddy fields', exact: true })).toBeEnabled()\n>  8 |   await expect(page.getByTestId('pathway-summary')).toBeVisible()\n     |                                                     ^\n   9 |   await page.getByTestId('advanced-controls').evaluate((node: HTMLDetailsElement) => { node.open = true })\n  10 | }\n  11 | async function wood(page: Page) {\n    at ready (C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts:8:53)\n    at C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts:32:3"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:42:13.404Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546110375\\dashboard-all-source-cards-e43ff-es-and-illustrative-weights\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546110375\\dashboard-all-source-cards-e43ff-es-and-illustrative-weights\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546110375\\dashboard-all-source-cards-e43ff-es-and-illustrative-weights\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts",
+                    "column": 53,
+                    "line": 8
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-76709579c02a8db1cb87",
+          "file": "dashboard.spec.ts",
+          "line": 30,
+          "column": 1
+        },
+        {
+          "title": "clickable 3D map pins select their source",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 26234,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:42:53.100Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-c86aedf211afcc1b34d8",
+          "file": "dashboard.spec.ts",
+          "line": 49,
+          "column": 1
+        },
+        {
+          "title": "real reference request displays only its backend quantity, basis and sources",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 44462,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:43:20.647Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-d28eebadcc5c9762c535",
+          "file": "dashboard.spec.ts",
+          "line": 56,
+          "column": 1
+        },
+        {
+          "title": "default mode preserves missing data with no primary quantity",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 24019,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:44:05.280Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-ddaa9424d3d36a89bc1b",
+          "file": "dashboard.spec.ts",
+          "line": 74,
+          "column": 1
+        },
+        {
+          "title": "electricity forecast stays blocked",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 41966,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:44:29.668Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-d8239de72dbf1bd0c6ad",
+          "file": "dashboard.spec.ts",
+          "line": 84,
+          "column": 54
+        },
+        {
+          "title": "useful heat forecast stays blocked",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 37733,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:45:11.950Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-745bf7b3a7b1810c90f4",
+          "file": "dashboard.spec.ts",
+          "line": 84,
+          "column": 54
+        },
+        {
+          "title": "gas scenario preserves source volume units and UNKNOWN equipment moisture feasibility",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 44403,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveValue\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('#technology')\nExpected: \u001b[32m\"Gasification\"\u001b[39m\nReceived: \u001b[31m\"\"\u001b[39m\nTimeout:  15000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveValue\" locator('#technology') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for locator('#technology')\u001b[22m\n\u001b[2m    7 × locator resolved to <select disabled id=\"technology\">…</select>\u001b[22m\n\u001b[2m      - unexpected value \"\"\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveValue\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('#technology')\nExpected: \u001b[32m\"Gasification\"\u001b[39m\nReceived: \u001b[31m\"\"\u001b[39m\nTimeout:  15000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveValue\" locator('#technology') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for locator('#technology')\u001b[22m\n\u001b[2m    7 × locator resolved to <select disabled id=\"technology\">…</select>\u001b[22m\n\u001b[2m      - unexpected value \"\"\u001b[22m\n\n    at C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts:96:45",
+                    "location": {
+                      "file": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts",
+                      "column": 45,
+                      "line": 96
+                    },
+                    "snippet": "  94 |   await page.getByRole('button', { name: 'Choose Timber yard', exact: true }).click()\n  95 |   await page.locator('#subtype').selectOption('Wood chips, Walawender 1985 run 98')\n> 96 |   await expect(page.locator('#technology')).toHaveValue('Gasification')\n     |                                             ^\n  97 |   await page.locator('#moisture').fill('16.52'); await page.locator('#study').selectOption('P0056')\n  98 |   await page.locator('#reference-mode').check()\n  99 |   await page.getByRole('button', { name: 'Run simulation', exact: true }).click()"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts",
+                        "column": 45,
+                        "line": 96
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveValue\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('#technology')\nExpected: \u001b[32m\"Gasification\"\u001b[39m\nReceived: \u001b[31m\"\"\u001b[39m\nTimeout:  15000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveValue\" locator('#technology') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for locator('#technology')\u001b[22m\n\u001b[2m    7 × locator resolved to <select disabled id=\"technology\">…</select>\u001b[22m\n\u001b[2m      - unexpected value \"\"\u001b[22m\n\n\n  94 |   await page.getByRole('button', { name: 'Choose Timber yard', exact: true }).click()\n  95 |   await page.locator('#subtype').selectOption('Wood chips, Walawender 1985 run 98')\n> 96 |   await expect(page.locator('#technology')).toHaveValue('Gasification')\n     |                                             ^\n  97 |   await page.locator('#moisture').fill('16.52'); await page.locator('#study').selectOption('P0056')\n  98 |   await page.locator('#reference-mode').check()\n  99 |   await page.getByRole('button', { name: 'Run simulation', exact: true }).click()\n    at C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts:96:45"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:45:50.138Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546172886\\dashboard-gas-scenario-pre-81827-ipment-moisture-feasibility\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546172886\\dashboard-gas-scenario-pre-81827-ipment-moisture-feasibility\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\test-artifacts\\run-1791546172886\\dashboard-gas-scenario-pre-81827-ipment-moisture-feasibility\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "C:\\Users\\bhava\\OneDrive\\Documents\\WasteWise\\frontend\\tests\\dashboard.spec.ts",
+                    "column": 45,
+                    "line": 96
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-c4e5f304dd4afe40202b",
+          "file": "dashboard.spec.ts",
+          "line": 92,
+          "column": 1
+        },
+        {
+          "title": "invalid input values are rejected before API requests",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 30535,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:47:16.207Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-8a0a2aef5b2c3ff45a93",
+          "file": "dashboard.spec.ts",
+          "line": 105,
+          "column": 1
+        },
+        {
+          "title": "navigation and About dialog work with keyboard controls",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 26999,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:47:49.212Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-63df80937614cd53e8ac",
+          "file": "dashboard.spec.ts",
+          "line": 115,
+          "column": 1
+        },
+        {
+          "title": "API connection failure shows a recoverable error",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 12209,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:48:16.289Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-c97940f3baed72788bbd",
+          "file": "dashboard.spec.ts",
+          "line": 127,
+          "column": 1
+        },
+        {
+          "title": "malformed calculation response is rejected rather than displaying invented values",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 16505,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:48:28.678Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-26cb344ca16cb6b7596e",
+          "file": "dashboard.spec.ts",
+          "line": 136,
+          "column": 1
+        },
+        {
+          "title": "WebGL unavailable fallback still permits real API calculation",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 21917,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:48:45.242Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-a92aebb44a5815a3953a",
+          "file": "dashboard.spec.ts",
+          "line": 143,
+          "column": 1
+        },
+        {
+          "title": "mobile layout has no horizontal overflow and controls remain usable",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 9234,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:49:07.252Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-cc3e1c180e268ba2c36b",
+          "file": "dashboard.spec.ts",
+          "line": 151,
+          "column": 1
+        },
+        {
+          "title": "unmapped rice paper and polymer feeds never silently select a general technology",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 17502,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:49:16.605Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-d41a6e1816af314223ea",
+          "file": "dashboard.spec.ts",
+          "line": 162,
+          "column": 1
+        },
+        {
+          "title": "exact-feed mappings change with waste selection and documented aliases work",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 22774,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:49:34.159Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-923f8a02a7415a57bf07",
+          "file": "dashboard.spec.ts",
+          "line": 172,
+          "column": 1
+        },
+        {
+          "title": "explicit unsupported diagnostic returns actual NOT_APPLICABLE with no fabricated output",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 15042,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:49:56.993Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-696bc9c6cec1d13bdd83",
+          "file": "dashboard.spec.ts",
+          "line": 189,
+          "column": 1
+        },
+        {
+          "title": "restricted feed remains restricted and never auto-selected",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 16873,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:50:12.113Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-23cdb3924c43def85c90",
+          "file": "dashboard.spec.ts",
+          "line": 208,
+          "column": 1
+        },
+        {
+          "title": "compact pins reveal details on hover and camera smoothly focuses on selection",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 14361,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:50:29.042Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-3f710b5c94142b3fa37c",
+          "file": "dashboard.spec.ts",
+          "line": 220,
+          "column": 1
+        },
+        {
+          "title": "3D truck and conversion journey advance with animation and complete independently of API status",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 33955,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:50:43.461Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-83bfd0324db9bafad242",
+          "file": "dashboard.spec.ts",
+          "line": 234,
+          "column": 1
+        },
+        {
+          "title": "desktop city controls and result panel fit without excessive page scrolling",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 11473,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:51:17.474Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-2a473bdc1d0218c3dd4f",
+          "file": "dashboard.spec.ts",
+          "line": 246,
+          "column": 1
+        },
+        {
+          "title": "changing feed discards delayed previous pathway responses",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 18313,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:51:29.002Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-272df391fd7043bd685e",
+          "file": "dashboard.spec.ts",
+          "line": 253,
+          "column": 1
+        },
+        {
+          "title": "small supported quantities retain the actual backend value instead of rounding to a fictional zero",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 15302,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:51:47.375Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-cccede175e65e9ed2190",
+          "file": "dashboard.spec.ts",
+          "line": 271,
+          "column": 1
+        },
+        {
+          "title": "source selection automatically recommends technology and output with advanced options collapsed",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 14248,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:52:02.719Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-53f2f568ab95c03f639a",
+          "file": "dashboard.spec.ts",
+          "line": 283,
+          "column": 1
+        },
+        {
+          "title": "verified alternatives remain switchable without automatically choosing blocked electricity",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 11190,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:52:17.024Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-5991a291d1b048bdbe9a",
+          "file": "dashboard.spec.ts",
+          "line": 298,
+          "column": 1
+        },
+        {
+          "title": "quantity edits scale the actual supported backend reference result",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 90000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 17217,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-09T11:52:28.266Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "90cda532ab82d274b30b-17eba27d8099d97e0929",
+          "file": "dashboard.spec.ts",
+          "line": 311,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-10-09T11:41:03.770Z",
+    "duration": 704759.415,
+    "expected": 24,
+    "skipped": 0,
+    "unexpected": 2,
+    "flaky": 0
+  }
+}

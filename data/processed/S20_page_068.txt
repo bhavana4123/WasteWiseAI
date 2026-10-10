@@ -1,0 +1,51 @@
+                330                           Makeup Compressor              308
+    Hydrogen                       K-311
+  From A400
+                                                                                      326                                                                       327
+
+
+                  328                                                          Recycle Compressor
+                                                                                        K-310
+                         303     H-311      304
+                                                                                 318
+                                                          311                                       PSA
+                                                                                                         V-300
+                         307            301                   306
+                                                                   HP Flash
+    HTL Oil                                                                    V-311                                                                                                 325
+From Tanks
+                P-310      312                                                    323                                  339                                                               317
+                                                                                                                                                          Offgas to                                            Hydrotreater                        321
+                                                                                                                                 A350                               HX-320             R-310                         E-310
+                                                                                       LP Flash             332                                                                                                                      320
+                                                                                      V-315                          316
+                                                                                                                                            To WWT
+                                         315          319
+                                                                     322
+
+                             Feed/Product                                                                    Air Fin Condenser                           324
+                             HX-318A              H-316
+                                                                                                                                                        Lights Column
+                                                                                                                           T -310
+                                                                                                                     335
+
+                                                                                                                                           To Gasoline
+                                                                                                                                                         Pool
+                                                                                                334
+
+                                                                                                                                          Naphtha Column
+                                                                                                                                              T -320        337
+
+                                                                                                                                            To Diesel
+                                                                                                                                                         Pool
+                                                                                                             336
+                                                                                                                                                                                       Diesel Column
+                                                                                                                                                                      T-330
+
+                                                                                                                              338
+  A310 HYDROTREATING
+                                                                                                                                              To A350
+       Upgrading Plant                                                                                                                           Hydrocracker
+
+
+                                                               A.8

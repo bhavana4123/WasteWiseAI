@@ -1,0 +1,59 @@
+4.2.3 Combustion of Biomass                         efficiency of stoves; in Europe the LHV is used. As a
+                                                                  result. European wood stoves are typically quoted as
+Biomass combustion is more complex than either                                          10% more efficient than comparable U.S. wood stoves.)
+pyrolysis or gasification since the biomass must first
+pyrolyze. then be partially combusted (gasified) before                                                        4.2.4 Chemistry of Biomass Gasification
+ it is fully combusted.
+                                             The change in composition produced by air or oxygen
+However. the overall global reaction of biomass com·                                                             gasification is shown in Fig. 4-1(b). Ideally one would
+bustion can be represented by                                                           like to add the smallest amount of oxygen possible to
+                                                                                                    in   CH,.400.6 + 1.05 02 + (3.95 N2)                        carry the solid composition to the composition °
+                                                               Fig. 4-1(b). a mixture of CO and H2• according to the  -7 CO2 + 0.7 H20 + (3.95 N2)                    (4-1)                                                    formula
+where CH1.400 .6 is an average formula for typical            CH1.400.6 + 0.2 02 -> CO + 0.7 H2        (4-2)
+biomass. (Actual composition for specific biomass is
+shown in Tables 3-3. 3-4. 3·6. and 3-7). The nitrogen is     Unfortunately. there is more energy contained in the
+shown in parentheses because it is an inert portion of   CO and H2 than is contained in the biomass. so that this
+air and does not take part in the reaction. For oxygen     reaction would require the transfer of energy from some
+combustion of biomass it would be omitted.               external source, which would greatly complicate the
+                                                           process.This combustion produces 20.9 kJ/g (8990 Btu/lb)
+when the temperature of the combustion products is     In practice. some excess oxygen must then be added for
+low enough for all the liquid to be water. and this is the     gasification (carrying the reaction to point ° in
+value that would be measured in a bomb calorimeter     Fig. 4-1(bll. producing some CO2 and H20 according to
+and reported as the high heat of combustion or HHV as
+shown in Tables 3-6 and 4-1. In most practical combus­        CH1.400.6 + 0.4 02
+                                                        + 0.3 CO2 + 0.6 H2 + 0.1 H20         (4-3)tion devices. the water escapes to the atmosphere as a       -> 0.7 CO
+gas. and the heat of vaporization of the water is not
+                                                        Typically a few percent of methane are formed as well.recovered. In this case. the low heating value. LHV.
+                                                       Typical properties of producer gas from biomass are20.4 kJ/g (8770 Btu/lb). would be the maximum heat
+                                            shown in Table 4-2.that could be generated. The difference between LHV
+and HHV is small for dry wood but increases rapidly
+with moisture content of the wood. (In the United              Table 4-2. Typical Properties of
+States the HHV is normally used for rating the              Producer Gas from Biomassa
+                                                                            Gas       Dry Gas
+ Table 4-1. Thermal Properties of Typical Biomass     Compound        Symbol       (vol.%)       (vol.%)
+Typical dry biomass formula:                                Carbon monoxide    CO           21.0          22.1
+(moisture- and ash-free [MAFJ basis) CH1 .400.6                Carbon dioxide      CO2           9.7          10.2
+                   C         H      0      Hydrogen           H2            14.5               1 5.2
+Composition (weight %)      52.2            4.3       41 .7     Water (v)           H2O           4.8
+Composition (mole %)        33.3          46.7       20.0     Methane           CH4                1 .6                1 .7
+                                                                Nitrogen            N2           48.4          50.8
+High Heating Valuea            20.9 kJ/g  (8990 Btu/lb)                                                Gas High Heating Value:
+Low Heating Value              20.4 kJ/g  (8770 Btu/lb)                                                           Generator gas (wet basis)b   5506 kJ/Nm3 (135.4 Btu/scf)
+aThe high heating value (HHV) is the value that is usually measured in     Generator gas (dry basis)b    5800 kJ/Nm3 (142.5 Btu/scf)
+ the laboratory and would be obtained during combustion if liquid water                                                              Air Ratio Required for
+ was allowed to condense out as a liquid. The low heating value (LHV)                                                                    Gasification:        2.38 kg wood/kg air (Ib/lb)  is obtained when water is produced as a vapor. The high heating value
+ of typical biomass fuels will be decreased in proportion to the water     Air Ratio Required for
+ and ash content, according to the relation:                      Gas Combustion:     1 .1 5 kg wood/kg air (Ib/lb)
+               LHV(Net) = HHV(MAF)/(1 + M + A)                                                            8These values are based on ash- and moisture-free bir:-mass with the
+ where M is the fraction of moisture (wet basis), A is the fraction of ash,       composition given in Table 4-1. The wet-gas composition is the most
+ and MAF designates the moisture- and ash-free basis. The        important property of the gas for mass and energy balances, but the
+ air/biomass ratio required for total combustion is 6.27 kg/kg (Ib/lb).         dry-gas composition is usually reported because of the difficulty in
+                                                                   measuring moisture. The heating value of the gas is usually calculated The LHV can be related to the HHV and an analysis of the combus­                                                                   from the gas composition, using a value of 13,400 kJ/Nm3 (330 tion products as:
+                                                                         Btu/scǣ for H2 and CO. and 41.900 kJ/Nm3(1030 Btu/sci) for methane.                HHV = LHV + Fm hw                                                             bThese are typical values for downdraft air gasifiers, but they can vary
+ where Fm is the weight fraction of moisture produced in the combus­       between 4880 and 7320 kJ/Nm3 (120-180 Btu/scf). depending on vari­
+ tion gases, and hw is the heat of vaporization of water, 2283 Jig        ables such as gasifier heat loss, biomass moisture content, and char
+ (980 Btuilb).                                                       removal at the grate.
+Source: Modified from data in Reed 1981.                               Source: Modified from data in Reed 1981.
+
+
+24    Handbook of Biomass Downdraft Gasifier Engine Systems

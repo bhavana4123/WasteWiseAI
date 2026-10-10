@@ -1,0 +1,40 @@
+                                                 Woody and Tree Materials
+
+
+HEVEA (RUBBER TREE), CLONE RRIM 707; solid; Material came from mature trees
+   growing on Rengam series soils in Kuala Lumpur, Malaysia. Samples were oven-dried
+   at 80°C (176°F) to constant weight, milled to a powder, and pelleted in units of about
+   1 g each.
+
+   gross heat of combustion: dry weight basis; used 30 atm oxygen; assume values refer
+   to room temperature.
+
+   trunk and main-stem plant parts           branches
+                                                      q,(gross)  = 7906 Btu lbi 1   qv(gross)  7987 Btu Ib;'
+    q,(gross) = 4437 cal g-                      qJgross)  = 4392 cal g;
+    q,(gross)  = 18564 J g-l                         q,(gross)  = 18376 J g-
+
+   leaves plus petioles plant parts
+
+    q,(gross) = 9094 Btu lb-'
+    qv(gross) = 5052 cal g-l
+   qv(gross)  21138 J g-'
+
+                                                            83LEO
+
+HICKORY; genus Carya; solid.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received: 10.30% moisture                air-dried one hour at 105°C (221°F)
+                                                     q,(gross)  = 8455 Btu lbi 1    q,(gross)  = 7583 Btu lb-'
+    q,(gross)  = 4213 cal g-l                       q,(gross) = 4697 cal g-
+    q,(gross)  = 17626 J g-l                         q,(gross)  = 19652 J g-l
+
+                                                         22PAR/DAV
+
+
+
+
+
+                                        259

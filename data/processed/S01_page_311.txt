@@ -1,0 +1,30 @@
+Temperature Conversion Factors:
+
+1.8("C) + 32           "F
+273.15 + "C         = K
+r(459.67) + 'F]/1.8     = K
+(1.8)K                 = "R
+( 1.8)K                     459.67 + O F
+O R                    = 459.67 + O  F
+
+
+
+Phvsical Constants*
+
+Gas Constant, R         82.0568 (26) cm3 atm rno1-l  K'I
+                        8.31441 (26)J mol-I K-'
+                         1.987 19 (6) calth rnol-'  K-l
+Molar Gas Volume, V,    0.02241383 (70) m3 rnol-I
+(at To = 273.15 K and po = 1 atm)
+V,   = R To/po
+
+
+*Physical Constants were taken from the International Council of Scientific Unions,
+ CODATA Bulletin No. 11, Dec. 1973. The digits in parentheses following a numerical
+ value represent the standard deviation of that value in terms of the final listed digits.
+
+
+
+
+
+                                       337

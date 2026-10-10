@@ -1,0 +1,46 @@
+4 Conclusions
+Pilot-scale cellulosic ethanol production data from corn stover were generated in the Integrated
+Biorefinery Research Facility at performance levels that demonstrated achievement of the FY
+2012 State of Technology MESP target of $2.15/gal (2007$, $58.50/ton feedstock cost).
+Improved processing technologies, including feedstock deacetylation, reduced severity
+pretreatment conditions, high solids enzymatic hydrolysis at targeted enzyme loadings, improved
+fermentation yields at high ethanol titers, and reduced wastewater treatment costs brought about
+by upstream deacetylation were all features of the integrated pilot-scale process. Five integrated
+runs were completed, including two runs at enzyme loadings of 19 mg protein/g cellulose that
+resulted in a calculated MESP that was equal to or slightly below the FY 2012 cost target. An
+additional run was able to achieve higher overall ethanol yields using a higher enzyme loading
+(26 mg/g) that resulted in an MESP lower than the cost data when using data from a parallel
+bench-scale fermentation control, as the pilot fermentation vessel in that run became slightly
+contaminated.
+
+For the FY 2012 SOT base case (using Run 4 data), the overall ethanol yield is roughly 10%
+lower than the target. The lower yield is offset by a similar 10% cost reduction in combined
+capital and operating costs, due to modifications made to the model directly tied to process
+improvements demonstrated in the pilot plant, including use of a feedstock deacetylation
+operation that enables several downstream process improvements that reduce costs. While the
+NREL ethanol program did not formally have official sustainability metric “targets” similar to
+MESP cost targets, the key sustainability metrics for GHG emissions and fossil energy demand
+associated with the NREL 2011 design case were improved upon for the 2012 SOT process
+model; namely, GHG emissions for the 2012 SOT case were estimated at –1.2 kg CO2e/gal
+ethanol produced, while fossil energy consumption was estimated at -13.7 MG/gal (compared to
+the original design case metrics at –0.03 kg CO2e/gal and 0.85 MJ/gal respectively); both metrics
+improved primarily due to increased coproduction of excess electricity that was assumed to
+displace standard grid electricity (driven by more residual unconverted carbon reaching the
+boiler). These metrics were evaluated for the conversion stage only (biorefinery model), and thus
+do not represent a full well-to-wheel (WTW) LCA analysis.
+
+Several cost sensitivity cases were developed to show the relative significance of key conversion
+parameters and costing assumptions on MESP. A number of potentially achievable scenarios
+were shown that could result in additional significant MESP reductions. These include lower
+pretreatment capital costs resulting from less corrosive pretreatment conditions at lower
+operating pressures and the validation of more effective pre-commercial enzyme preparations
+that could significantly lower enzyme loading requirements in the future. Such improvements
+would not only benefit cellulosic ethanol processes, but also infrastructure-compatible biofuel
+processes that utilize sugar or sugar-derived intermediates pathways. Such improvements will be
+considered in further detail going forward.
+
+
+
+
+
+                                      32

@@ -1,0 +1,51 @@
+Table ES-3. Comparison of Residuals Production for Food Waste and Municipal
+Wastewater Solids Digestion at a 15-day MCRT.
+ Total Solids Applied,                     Total Solids Residual,
+      dry tons                               dry tons
+     Digester Feed      Mesophilic Food    Thermophilic Food       Municipal
+                    Waste Digestion     Waste Digestion    Wastewater Solids
+                                                                        Digestion1
+        100                36                 30                 56-70
+ Notes:
+  1. Residuals production assumes a VSD range for municipal wastewater solids between 38-57%.
+
+Post-digestion food waste residuals are approximately half the weight of municipal wastewater
+solids residuals for the same weight of digester feed applied, reflecting the greater concentration
+of volatile material in the food waste and the higher VSD. This study suggests that at a 15-day
+MCRT, the percent solids remaining after food waste is anaerobically digested is slightly higher
+for a digester operated at mesophilic temperatures compared to thermophilic temperatures.
+
+MCRT
+Table ES-4 summarizes the average operating MCRTs for both the mesophilic and thermophilic
+digesters. Both the thermophilic and mesophilic digesters were operated within the target MCRT
+for each operational period. During the 15-day MCRT period, the thermophilic digester operated
+at an MCRT that was approximately 1 day less than the mesophilic digester. This did not appear
+to impact the study results; however, thermophilic digester performance might have been slightly
+better than observed in this study (especially when compared to mesophilic digester
+performance), if both mesophilic and thermophilic digesters were operated at precisely the same
+target MCRT.
+
+Table ES-4 Bench-scale Anaerobic Food Waste Digester MCRT Summary.
+ Target MCRT,    Mesophilic Digester MCRT,    Thermophilic Digester MCRT,
+      days                   days                          days
+             AVG         SD        AVG         SD
+      15              15.6              1.2             14.7              1.2
+      10              10.1              0.6               9.9               0.7
+       5                5.3               0.2               5.3               0.3
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+
+Volatile Solids Loading Rate
+Summary data for the VS loading rate during the study is shown in Table ES-5. Compared to
+municipal wastewater solids VS loading rates (typically 0.1-0.2 lb/ft3-day), food waste can be
+applied up to 3 times the loading rate of municipal wastewater solids. There is also potential for
+higher loading rates than those observed at 15-day and 10-day MCRTs, but would require a
+higher feed TS content. During the 5-day MCRT operational period, both digesters became
+unstable. This was likely not due to the higher VS loading rate, but instead was probably
+because the methanogens, with their low growth rate, were washed out of the digester sludge at
+the higher wasting rates required at a 5-day MCRT.
+
+
+Anaerobic Digestion of Food Waste                                                            ES-5
+Funding Opportunity No. EPA-R9-WST-06-004

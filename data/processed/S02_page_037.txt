@@ -1,0 +1,45 @@
+The charcoal yield from a biomass feedstock is highly     their cooling effect helps to keep the gas temperature
+dependent on the rate of heating and the size of the    from rising 'above this temperature. Below 800"C, the
+biomass particles. Industrial charcoal manufacture     reactions become sluggish and very  little product
+uses very slow heating rates to achieve charcoal yields     forms. We have modeled the reactions of downdraft
+of more than 30% of the initial dry weight of the     char gasification using known kinetic values and find
+biomass. The intermediate heating rates used in     that the temperatures measured in char gasification
+proximate analysis usually produce charcoal yields of     correspond to those observed in the gasifier (Reed
+15% to 20%. The very rapid heating rates encountered     1983a; Reed 1984). We refer to the process observed in
+when small biomass particles are gasified and com­    an actual bed of char as adiabatic (no heat input) char
+busted realize charcoal yields of less than 15% of the      gasification.
+initial dry weight of the biomass; larger size feedstocks
+                                            The CO and H2 formed in the hot char zone can reactproduce 15% to 25% charcoal.
+                                                 below 900"C to form methane according to the reaction:
+During updraft or downdraft gasification, 10% to 20%
+                                              CO + 3 H2 -> CH4 + H20              (4-9)of the biomass will remain as charcoal after pyrolysis
+is complete. In an updraft gasifier, air entering at the                                                   This reaction proceeds slowly unless there is a catalyst
+grate initially burns this char to liberate heat and CO2                                                            present; however, it is quite exothermic and can supply
+according to the reaction:                                                       heat if suitably catalyzed.
+                                                          (4-6)                                                    Concurrent with the emergence of biomass as an im­
+                                                        portant energy source, it was natural that coal gasifica­Almost immediately, or even simultaneously, the CO2
+                                                           tion interpretations would be carried over to explainand any H20 present in the gasifier react with the char
+                                                 biomass gasification. Even today, most articles onto produce the fuel gases CO and H2 according to the
+                                                  biomass gasification use only Eqs. (4-7) and (4-8) to ex­following reactions:
+                                                       plain biomass gasification and ignore Eq. (4-4), even
+           C + CO2 -> 2 CO                  (4-7)    though Eq. (4-4) applies to the 80% biomass volatiles.
+                                                Biomass pyrolysis produces only 10% to 20% char­
+          C + H20 -> CO+ H2                (4-8)                                                                coal, and the charcoal is very reactive. Therefore, this
+                                                    cannot be the primary explanation for the conversionThe first reaction is called the Boudouard reaction, and
+                                                      of biomass to gas.the second is called the water-gas reaction. They have
+been studied extensively for the last 100 years in con­
+nection with coal and biomass gasification, since the    4.6 Summary
+principal product of coal pyrolysis is coke (carbon).                                                     In summary, the task of a gasifier is threefold:
+The rate of the reaction has been studied by measuring     • to pyrolyze biomass to produce volatile matter, gas,the rate of disappearance of carbon, coal, or charcoal
+                                               and carbonwhile passing H20 or CO2 over the solid (Nandi 1985;
+Edrich 1985).                                             • to convert the volatile matter to the permanent gases,
+                                                  CO, H2, and CH4
+Both of these reactions require heat (Le., they are en­     • to convert the carbon to CO and H2.dothermic reactions) and therefore cool the gas about
+25"C for every 1 % of CO2 that reacts. These reactions    These tasks are accomplished by partial oxidation or
+occur very rapidly at temperatures over 900"C, and     pyrolysis in various types of gasifiers.
+
+
+
+
+
+                                                                                        Principles of Gasification    29

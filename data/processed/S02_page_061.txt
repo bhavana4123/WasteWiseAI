@@ -1,0 +1,43 @@
+ removed from both the surface and interior of the char      If the fine char-ash from downdraft gasifiers is about
+ particle by motion of the hot gases. The char particle    20% ash, then this represents a 95% mass conversion
+ cracks and crurables as carbon is converted to ash.        of the fuel since we started with 0.5% ash biomass. We
+                                                  can also see from Fig. 3-3 that it is desirable to keep the The term char-ash refers to the black dust that falls                                                      char larger than 500 iJ1ll (0.5mm) in the gasifier to boost naturally through the grate in a downdraft gasifier                                                          efficiency. Also, particles under 500 11m havewhen gasification is as complete as it will go. Char-ash                                                 completed their task and should be removed as is produced during the final breakdown of the charcoal                                                      thoroughly as possible. mechanical structure as the charcoal reacts with
+ pyrolysis gases. Char-ash from downdraft gasifiers still
+ contains 50% to 80% carbon  (Fig.  3-3], which is
+ enough carbon to give char-ash a black color. Char-ash
+ usually is collected below the grate or in the cyclone
+ separators.                                                                        65.5%
+                                                               57%
+                                                                  50%    1 0,OOO͟-                                                                                              ,;                                                                                                   26.4%                                            8"
+                                               m         20
+                                 0ƴ20Ƶ60ƶ100Ʒ150-200--250                                                                                            Particle size (pm)
+  E
+   "-                                                                              Fig. 7-5. Residue CUNe for the screening of Imben generator gas
+ ęCo                                                                (Source: Gengas 1950, Fig. 88)  :s 200
+ *Ę  100                                          Althoughrepresents thean energyunconvertedloss, itcarbonalso hasfoundseveralin benefits.char-ash
+  E    '"                                          The final ash from combustion is less than 1 iJ1ll in size
+   -0                                            and can be captured only in expensive bag house
+    Q)                                                                       filters. The char-ash holds the ash in a 10 iJ1ll matrix u                                            which is captured by cyclones. The char-ash may have t'"                                              considerable value as a charcoal or as a soil
+   Q.                                                       conditioner.          1 0
+       5                                             Char-ash particles smaller than the cyclone separator's
+                                                          cut-point pass through the cyclone separator. Smaller
+                                                               particles normally are higher in ash content, as shown        2                                      by Fig. 3-3. Higher ash content is more abrasive;
+                                                    however, solids smaller than the oil film thickness do           1                    1                 95      99.99      not cause major engine wear. Ash that has been sub­        0.01 0. 1      10    50                                                          jected to slagging is much harder and more abrasive       Cumulative mass % less than diameter (dp)
+                                                    than nons lagging ash, which crurables easily.      oSERI wood chips     olmbert Gengas
+Fig.  7-4. Imbert and SERI downdraft particle size distribution of     All biomass contains some ash (typically a few per­
+producer gas char dusts                                           cent), but some fuels, such as rice hulls or MSW, can
+
+                                Table 7-2. High Heating Value and Low
+                                  Heating Value of Gas Componentsa
+
+Component        Symbol                                     (MJ/Nm3)                                                                            (MJ/Nm3)                                                                      (Btu/sci)                                                                                                                     (Btu/sci)                           HHVb                                                               LHVb                                            HHVc                                                                                 LHVC
+Hydrogen                                  13.2                325                        1 1 .2                275
+Carbon monoxide                             13.1                322                   13.1                322
+Methane                                  41.2                1013                  37.1                913
+a1 Btulscf = 8.26 kcallNm3 = 40.672 kJ/Nm3
+bStandard conditions, O°C and 760 mm Hg Dry
+CStandard conditions, 60°F and 30 in. Hg Dry
+Source: Adapted from Perry 1973, Table 9-18.
+
+
+                                                                   Gas Testing                                                                                             53

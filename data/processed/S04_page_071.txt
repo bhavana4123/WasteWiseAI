@@ -1,0 +1,49 @@
+3.5.2.1   Diluent Injection
+The first technique used to reduce NOx emissions was injection of water or steam into the high
+temperature flame zone. Water and steam are strong diluents and can quench hot spots in the flame
+reducing NOx. However, because positioning of the injection is not precise some NOx is still created.
+Depending on uncontrolled NOx levels, water or steam injection reduces NOx by 60 percent or more.
+Water or steam injection enables gas turbines to operate with NOx levels as low as 25 ppm (@ 15
+percent O2) on natural gas. NOx is reduced only to 42 to 75 ppm when firing with liquid distillate fuel.
+Both water and steam increase the mass flow through the turbine and create a small amount of
+additional power. Use of exhaust heat to raise the steam temperature also increases overall efficiency
+slightly. The water used needs to be demineralized thoroughly in order to avoid forming deposits and
+corrosion in the turbine expansion section. This adds cost and complexity to the operation of the
+turbine. Diluent injection increases CO emissions appreciably as it lowers the temperature in the
+burnout zone, as well as in the NOx formation zone.
+
+3.5.2.2   Lean Premixed Combustion
+Lean premixed combustion (DLN/DLE54) pre-mixes the gaseous fuel and compressed air so that there are
+no local zones of high temperatures, or "hot spots," where high levels of NOx would form. Lean
+premixed combustion requires specially designed mixing chambers and mixture inlet zones to avoid
+flashback of the flame. Optimized application of DLN combustion requires an integrated approach for
+combustor and turbine design. The DLN combustor becomes an intrinsic part of the turbine design, and
+specific combustor designs must be developed for each turbine application. While NOx levels as low as 9
+ppm have been achieved, most manufacturers typically offer a range of 15-25 ppm DLN/DLE combustion
+systems when operating on natural gas.
+
+3.5.2.3   Selective Catalytic Reduction (SCR)
+The primary post-combustion NOx control method in use today is SCR. Ammonia is injected into the flue
+gas and reacts with NOx in the presence of a catalyst to produce N2 and H2O. The SCR system is located
+in the exhaust path, typically within the HRSG where the temperature of the exhaust gas matches the
+operating temperature of the catalyst. The operating temperature of conventional SCR systems ranges
+from 400 to 800°F. The cost of conventional SCR has dropped significantly over time—catalyst
+innovations have been a principal driver, resulting in a 20 percent reduction in catalyst volume and cost
+with no change in performance. SCR reduces between 80 to 90 percent of the NOx in the gas turbine
+exhaust, depending on the degree to which the chemical conditions in the exhaust are uniform. When
+used in series with water/steam injection or DLN combustion, SCR can result in low single digit NOx
+levels (1.5 to 5 ppm). SCR requires on-site storage of ammonia, a hazardous chemical. In addition,
+ammonia can “slip” through the process unreacted, contributing to environmental and health
+concerns.55
+
+
+
+54 Dry low NOx/Dry low emissions
+55 The SCR reaction, with stoichiometric ammonia (for NOx reduction) or other reagent should eliminate all NOx. However,
+because of imperfect mixing in the combustor the NOx is not uniformly distributed across the turbine exhaust. Additionally, the
+ammonia, or other reagent, also is not injected in a precisely uniform manner. These two non-uniformities in chemical
+composition cause either excess ammonia to be used, and to consequently "slip" out of the exhaust, or for incomplete reaction
+of the NOx in the turbine exhaust.
+
+
+Catalog of CHP Technologies                         3–18                         Combustion Tubines

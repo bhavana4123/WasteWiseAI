@@ -1,0 +1,33 @@
+separated by water washing. The alkali solution also neutralizes any acid remaining from the
+degumming stage.
+
+The alkali will react with the triglycerides in the oil also, so the neutralization parameters (type
+or alkali, solution strength, temperature, agitation, and time) must be optimized to minimize the
+yield loss. There can be additional losses from emulsification and suspension of oil droplets in
+the soap solution. A byproduct of caustic refining is a mixture of soap, water and oil known as
+soapstock. This has been considered as a feedstock for biodiesel as its cost is low, but its high
+water content and converting the soaps to methyl esters are significant obstacles to cost-effective
+utilization. Figure 30 shows a diagram of the caustic refining process.
+
+
+
+
+
+            Figure 30. Flow Diagram for Caustic Refining of Soybean Oil [7].
+
+Bleaching
+
+The primary purpose of bleaching is to remove the color pigments from the oil. It also helps to
+remove remaining soap, trace metals, phosphatides, and sulfur compounds. Hydroperoxides, the
+initial products of oxidation are broken down during the bleaching process and some of the final
+oxidation products, the carbonyl compounds, are removed.
+
+Bleaching involves mixing bleaching clays, consisting of natually occurring bentonite and
+montmorillonite clays, with the oil and agitating for 10-30 minutes. The oil is usually heated to
+90º - 120º C and the process occurs under a slight vacuum to exclude oxygen. A consequence of
+the vacuum and high temperature is that residual water from the neutralization and water
+washing is removed. This is not always desirable because the effectiveness of the clays is usually
+enhanced by the presence of a small amount of water. The clays are usually activated before use
+
+
+                                      84

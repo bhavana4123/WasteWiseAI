@@ -1,0 +1,250 @@
+[
+  {
+    "status": "INVALID_INPUT_OR_DATA",
+    "error": "Mass conversion to kg: NON_FINITE_RESULT; a finite representable number is required"
+  },
+  {
+    "input": {
+      "waste_category": "Municipal solid waste",
+      "waste_subtype": "Dry shredded garbage sample A",
+      "quantity": 1e+307,
+      "unit": "kg",
+      "moisture_pct": 0.0,
+      "desired_output": "solid fuel energy",
+      "technology_preference": null,
+      "parameter_id": null,
+      "property_id": null,
+      "reference_mode": true,
+      "mass_kg": 1e+307
+    },
+    "status": "INSUFFICIENT_DATA",
+    "recommendations": [],
+    "alternatives": [
+      {
+        "input_waste_details": {
+          "waste_category": "Municipal solid waste",
+          "waste_subtype": "Dry shredded garbage sample A",
+          "quantity": 1e+307,
+          "unit": "kg",
+          "moisture_pct": 0.0,
+          "desired_output": "solid fuel energy",
+          "technology_preference": null,
+          "parameter_id": null,
+          "property_id": null,
+          "reference_mode": true,
+          "mass_kg": 1e+307
+        },
+        "technology": "Combustion",
+        "feasibility_status": "conditional",
+        "calculation_status": "INSUFFICIENT_DATA",
+        "energy_output_type": "solid fuel energy",
+        "calculated_value": null,
+        "unit": null,
+        "gross_vs_net_classification": "not_calculated",
+        "formula": null,
+        "parameters": [
+          {
+            "name": "moisture_pct",
+            "value": 0.0,
+            "unit": "% wet mass",
+            "origin": "user"
+          },
+          {
+            "record_id": "W0046",
+            "name": "hhv_mj_kg",
+            "field": "hhv_mj_kg",
+            "value": 18.5,
+            "unit": "MJ/kg dry feed",
+            "measurement_basis": "dry sample; gross q_v",
+            "operating_conditions": "",
+            "source_id": "S01"
+          }
+        ],
+        "source_ids": [
+          "S10",
+          "S01"
+        ],
+        "assumptions": [
+          "User moisture is wet-basis mass percent; user feed characterization is not source-verified.",
+          "Published reference scenario only; linear mass accounting under the stated study conditions, not equipment sizing or a plant forecast.",
+          "The exact published sample is used; non-hazardous/non-recyclable feed suitability still requires confirmation."
+        ],
+        "missing_parameters": [
+          "Finite representable numerical result for Theoretical solid-fuel chemical energy"
+        ],
+        "uncertainty": {
+          "moisture_sensitivity": "Holding reference yield constant, dry-mass accounting changes by -1/(100-moisture_pct) of its value per percentage-point moisture increase, away from 100%. This is not a process moisture-response model."
+        },
+        "warnings": [
+          "Feed equivalence, preprocessing, reactor conditions and scale have not been established for an operating installation.",
+          "Chemical feed energy only; no combustion recovery, electricity, RDF processing yield or evaporation duty has been credited.",
+          "Numerical failure blocks this calculation and recommendation; no infinity, NaN or invented zero is returned."
+        ],
+        "limitations": [
+          "Confined controlled waste combustor and energy recovery",
+          "Sorting; recover recyclable metals; control feed quality",
+          "Ash characterization and safe disposal; source reduction and recycling rank ahead of energy recovery.",
+          "Applicable air emissions standards; ash hazardous-waste determination",
+          "Reference material properties are not measurements of a mixed or contaminated waste stream."
+        ],
+        "intermediate_products": [],
+        "evidence": [
+          {
+            "dataset": "technology_mapping",
+            "record_id": "M0019",
+            "field": "mapping_evidence",
+            "evidence_location": "non-recyclable"
+          },
+          {
+            "record_id": "W0046",
+            "field_name": "hhv_mj_kg",
+            "source_id": "S01",
+            "evidence_location": "data/processed/S01_page_182.txt; PDF page 182; Dry shredded garbage sample A",
+            "evidence_file": "data/processed/S01_page_182.txt",
+            "conversion_formula": "x / 1000",
+            "original_value": "18500",
+            "original_unit": "J/g",
+            "converted_value": "18.5",
+            "converted_unit": "MJ/kg"
+          }
+        ],
+        "scenario_id": null,
+        "errors": [
+          {
+            "code": "NON_FINITE_RESULT",
+            "operation": "Theoretical solid-fuel chemical energy",
+            "message": "Theoretical solid-fuel chemical energy: NON_FINITE_RESULT; a finite representable number is required"
+          }
+        ],
+        "feasibility_checks": {}
+      }
+    ],
+    "allocation": {
+      "mode": "mutually_exclusive_alternatives",
+      "mass_per_alternative_kg": 1e+307,
+      "combined_output": null,
+      "note": "Each alternative uses the same input once; outputs across alternatives must not be added. No allocation/combined-system solver is implemented."
+    },
+    "dataset_issues": [
+      "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+      "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+    ],
+    "warnings": [
+      "Reference-mode results are not equipment performance predictions."
+    ]
+  },
+  {
+    "input": {
+      "waste_category": "Wood and forestry waste",
+      "waste_subtype": "Wood chips, Walawender 1985 run 98",
+      "quantity": 100.0,
+      "unit": "kg",
+      "moisture_pct": 16.56,
+      "desired_output": "syngas",
+      "technology_preference": null,
+      "parameter_id": "P0056",
+      "property_id": null,
+      "reference_mode": true,
+      "mass_kg": 100.0
+    },
+    "status": "INSUFFICIENT_DATA",
+    "recommendations": [],
+    "alternatives": [
+      {
+        "input_waste_details": {
+          "waste_category": "Wood and forestry waste",
+          "waste_subtype": "Wood chips, Walawender 1985 run 98",
+          "quantity": 100.0,
+          "unit": "kg",
+          "moisture_pct": 16.56,
+          "desired_output": "syngas",
+          "technology_preference": null,
+          "parameter_id": "P0056",
+          "property_id": null,
+          "reference_mode": true,
+          "mass_kg": 100.0
+        },
+        "technology": "Gasification",
+        "feasibility_status": "conditional",
+        "calculation_status": "INSUFFICIENT_DATA",
+        "energy_output_type": "syngas",
+        "calculated_value": null,
+        "unit": null,
+        "gross_vs_net_classification": "not_calculated",
+        "formula": null,
+        "parameters": [
+          {
+            "name": "moisture_pct",
+            "value": 16.56,
+            "unit": "% wet mass",
+            "origin": "user"
+          }
+        ],
+        "source_ids": [
+          "S02"
+        ],
+        "assumptions": [
+          "User moisture is wet-basis mass percent; user feed characterization is not source-verified.",
+          "Published reference scenario only; linear mass accounting under the stated study conditions, not equipment sizing or a plant forecast."
+        ],
+        "missing_parameters": [
+          "Feed moisture matching the selected gasification run or verified moisture-response model"
+        ],
+        "uncertainty": {
+          "moisture_sensitivity": "Holding reference yield constant, dry-mass accounting changes by -1/(100-moisture_pct) of its value per percentage-point moisture increase, away from 100%. This is not a process moisture-response model."
+        },
+        "warnings": [
+          "Gasifier moisture feasibility is unknown; no default moisture threshold or equipment operating range is applied.",
+          "Feed equivalence, preprocessing, reactor conditions and scale have not been established for an operating installation.",
+          "A dry-mass conversion does not correct moisture-dependent gasifier performance."
+        ],
+        "limitations": [
+          "Fuel-specific gasifier trials; controlled particle size and ash behaviour",
+          "Chipping/chopping or densification; remove fines and dirt",
+          "Ash slagging, tar, CO toxicity and combustible gas hazards; not a universal feedstock route.",
+          "Permitted industrial equipment and emissions controls"
+        ],
+        "intermediate_products": [],
+        "evidence": [
+          {
+            "dataset": "technology_mapping",
+            "record_id": "M0012",
+            "field": "mapping_evidence",
+            "evidence_location": "PDF page 24; mill ends"
+          }
+        ],
+        "scenario_id": "P0056",
+        "errors": [],
+        "feasibility_checks": {
+          "moisture_feasibility": {
+            "status": "UNKNOWN",
+            "equipment_specific_limits": null,
+            "source_ids": [],
+            "reason": "No verified equipment-specific moisture operating limits are available. A published run moisture is a reference observation, not a permitted operating range."
+          },
+          "reference_run_moisture": {
+            "value": 16.52,
+            "unit": "% wet mass",
+            "kind": "published_point_observation_not_equipment_limit",
+            "source_id": "S02",
+            "record_id": "P0056",
+            "evidence_location": "PDF page 76; Table 7"
+          }
+        }
+      }
+    ],
+    "allocation": {
+      "mode": "mutually_exclusive_alternatives",
+      "mass_per_alternative_kg": 100.0,
+      "combined_output": null,
+      "note": "Each alternative uses the same input once; outputs across alternatives must not be added. No allocation/combined-system solver is implemented."
+    },
+    "dataset_issues": [
+      "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+      "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+    ],
+    "warnings": [
+      "Reference-mode results are not equipment performance predictions."
+    ]
+  }
+]

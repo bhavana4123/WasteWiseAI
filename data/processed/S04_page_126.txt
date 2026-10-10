@@ -1,0 +1,48 @@
+applications but use the heat to boost the internal process and to improve electrical generation
+efficiencies.
+
+As an example, there are four primary potential sources of usable waste heat from a fuel cell system:
+exhaust gas including water condensation, stack cooling, anode-off gas combustion, and reformer heat.
+A sample PAFC system achieves 36 percent electric efficiency and 72 percent overall CHP efficiency,
+which means that it has a 36 percent thermal efficiency or power to heat ratio of one. Of the available
+heat, 25 to 45 percent is recovered from the stack-cooling loop that operates at approximately 400° F
+and can deliver low- to medium-pressure steam. The balance of heat is derived from the exhaust gas-
+cooling loop that serves two functions. The first is condensation of product water, thus rendering the
+system water self-sufficient, and the second is the recovery of by-product heat. Since its primary
+function is water recovery, the balance of the heat available from the PAFC fuel cell is recoverable with
+120° F return and 300° F supply temperatures. This tends to limit the application of this heat to domestic
+hot water applications. The other aspect to note is that all of the available anode-off gas heat and
+internal reformer heat is used internally to maximize system efficiency.
+
+In the case of SOFC and MCFC fuel cells, medium-pressure steam (up to about 150 psig) can be
+generated from the fuel cell’s high temperature exhaust gas, but the primary use of these hot exhaust
+gases is in recuperative heat exchange with the inlet process gases. Like engine and turbine systems,
+fuel cell exhaust gas can be used directly for process drying.
+
+6.4.5 Performance and Efficiency Enhancements
+Air is fed to the cathode side of the fuel cell stack to provide the oxygen needed for the power
+generation process. Typically, 50 to 100 percent more air is passed through the cathode than is required
+for the fuel cell reactions. The fuel cell can be operated at near-ambient pressure, or at elevated
+pressures to enhance stack performance. Increasing the pressure, and therefore the partial pressure of
+the reactants, increases stack performance by reducing the electrode over potentials associated with
+moving the reactants into the electrodes where the catalytic reaction occurs. It also improves the
+performance of the catalyst. These improvements appear to optimize at approximately three
+atmospheres pressure if optimistic compressor characteristics are assumed.98 More realistic
+assumptions often result in optimizations at ambient pressure where the least energy is expended on air
+movement. Because of these characteristics, developers appear to be focused on both pressurized and
+ambient pressure systems.
+
+6.4.6  Capital Cost
+This section provides estimates for the installed cost of fuel cell systems designed for CHP applications.
+Capital costs (equipment and installation) are estimated in Table 6-4 for five representative CHP fuel cell
+systems. Estimates are “typical” budgetary price levels. Installed costs can vary significantly depending
+on the scope of the plant equipment, geographical area, competitive market conditions, special site
+requirements, prevailing labor rates, and whether the system is a new or retrofit application.
+
+
+
+
+98 Larminie, James and Andrew Dicks, Fuel Cell Systems Explained. John Wiley & Sons, Ltd., West Sussex, England, 2000. , p. 90.
+
+
+Catalog of CHP Technologies                         6–16                                       Fuel Cells

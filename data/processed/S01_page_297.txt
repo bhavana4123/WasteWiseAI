@@ -1,0 +1,55 @@
+                                  Appendix A
+
+       A FORMULA FOR THE EMPIRICAL ESTIMATION OF THE HEATS
+           OF COMBUSTION OF CARBONACEOUS MATERIALS
+                (Thomas B. Reed, Solar Energy Research Institute)
+
+In modeling biomass reactions and reactors it is necessary to have values for the heats of
+formation and combustion of the various materials considered. A collection of represen-
+tative data for biomass and wastes appears in the main body of this publication.  In some
+cases, the composition of carbonaceous materials is known or can be estimated, while the
+heats have not been measured.
+
+In 1978, the Institute of Gas Technology developed a formula for predicting the higher
+heating values (heat of combustion) (HHV, dry basis) of coal (IGT,1978)
+     HHV = AHc = 146.58 C + 568.78 H - 51.53 (0 + N) - 6.58 A + 29.45 S Btu/lb
+
+(where C, H, 0, N, S, and A are the weight' percents of carbon, hydrogen, oxygen, nitro-
+gen, sulfur, and ash respectively).  This equation was derived by correlating the thermal
+data with the composition on more than 700 samples of coal.  In the Survey of Biomass
+Gasification (Reed, 1979) Graboski and Bain used this formula, as well as two others, on
+15 samples of biomass and 5 samples of char and found average etrors from the measured
+values of 1.7% and 2.1% respectively.  The error of actual measurements of composition
+and heats of combustion probably exceeds this, so that this suggests that the method can
+be used for all biomass solids.
+
+Reed (1985) has extended the IGT equation to a wide variety of carbonaceous materials.
+The equation in the modified SI form is:
+
+        HHV   0.341 C + 1.322 H - 0.12 (0 + N) - 0.0153 A + 0.0686 S kJ/g
+
+Note that in general the last two terms will be very small compared to the first three.
+The equation is also useful in the molecular form:
+                                   + o) kJ/mole on a dry, ash-free, sulfur-free basis, AH^   4.092 nc + 1.322 nH - 1.916 yN
+
+(where ni is the number of moles of each element in the formula) to estimate the heat of
+combustion for biomass in which the formulas are given. The heat of formation can be
+calculated from the heat of combustion from using the equation:
+
+
+
+where AH$)   and AH,(H2)  are the heats of combustion of carbon and hydrogen.
+
+The above equations were used to calculate thermal data for the biomass-related materi-
+als shown in Table A-1.  This table includes representative samples of biomass, charcoals,
+pyrolysis oils, and tars taken from the literature but not included in this handbook.  The
+average absolute error for each of these materials was 1.696, 1.6%, 2.5%, and 2.5%
+respectively,  Thus, it seems that the above equations form a reliable basis for predicting
+biomass thermochemical data where measured heats are not available, and can form a
+supplement to the representative heats of combustion shown in this publication.
+
+
+
+
+
+                                       323

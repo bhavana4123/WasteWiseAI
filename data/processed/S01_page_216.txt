@@ -1,0 +1,58 @@
+                             W d y and Tree Materials
+
+
+BIRCH; Betula a h ; solid; ultimate analysis: carbon, 48.88%; hydrogen, 6.06%; nitrogen,
+    0.10%; ash, 0.29%; oxygen, 44.67%.
+
+   gross heat of combustion: 20°C (68"F), air-dried at 110"-115°C (230°-2400F), ash
+    free.
+
+    q,(gtoss)  = 8588 Btu lbll
+    q,(gross)   4771 cal g-
+    q,(gross) = 19962 J g-l
+
+                                                             1883GOT
+
+    air dried one hour at 105°C (221°F)
+
+    qv(gross) = 8458 Btu lbi'
+    q,(gross)  = 4699 cal 6;
+    q,(gross)  = 19661 J g
+
+                                                          22PAR/DAV
+
+BIRCH, PAPER; BetuZa papyrifera; solid; Material came from various locations in New
+   Hampshire.  Bole samples were composed of cross sections taken from four positions
+   along length of each tree (at the base, one-third, two-thirds, and at top of the stem).
+   Branch samples were composed of cross sections taken from four positions along
+    length of each of four branches (one branch from four positions in the live crown of
+   the tree).  Bark was removed from half of each bole and branch sample and all
+   samples were oven-dried at 85OC (185°F)t o a constant weight,
+
+    gross heat of combustion: Assume values refer to room temperature, thermochemical
+    calorie used and values wete expressed on a dry matter basis and adjusted for heat of
+   formation of nitric acid.  All tests were made at 99% confidence level and numbers in
+   parentheses are standard errors.
+
+    bole with bark                           branch with bark
+                                                        q,(gross)  = 9245 (70) Btu IbT I    qv(gross) = 9207 (56) Btu  lb;'
+    qv(gross) = 5115 (31) cal g-                    q,(gross)  = 5136 (39) cal g-
+    qv(gross) = 21401 (130) J g-l                   q,(gross)  = 21489 (163)J g-l
+
+    bole without bark                        branch without bark
+    q,(gross) = 8948 (86)Btu lbi I                                                        q,(gross)  = 9074 (54) Btu lbi'
+    q,(gross)  = 4971 (48)cal g-                    q,(gross)  = 5041 (30) cal g-
+    q,(gross)  = 20799 (201) J g-l                   q,(gross)  = 2 1092 (I 26) J.g-l
+
+    foliage
+
+    qv(gross) = 9428 Btu lb-'
+    q,(gross) = 5238 cal g;'
+    q,(gross)  = 21916 J g
+
+                                                        81MUS/HOC
+
+
+
+
+                                      239

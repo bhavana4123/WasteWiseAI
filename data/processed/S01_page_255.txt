@@ -1,0 +1,54 @@
+Woody and Tree Materials
+
+OAK, TURKEY - Continued
+
+                      dry weight      ash-free dry         std dev.
+                          basis         weight basis         of mean
+
+    shade-adapted leaf (5 measurements)
+
+    qv(gross)           8653             9227            48.6   Btu Ib-I
+    q,(gross)  =          4807             5126             27.0    cal
+    qJgross)  =         201 12           2 1447         113     J g-
+   acorns (3 measurements)
+
+    qJgross)  =          81 18             8289          15    Btu lb-I
+    q,(gross)            4510             4605               8.1    cal f-I
+    qv(gross)           18870            19267          34     J g-
+
+    root (3 measurements)
+
+    q,(gross)  =          8233             8627             34.7   Btu 1b-l
+    q,(gross)  =          4574             4793             19.3   cal
+    qJgross)  =         19138            20054             80.7    J g-
+
+                                                               75PAP
+OAK, WATER; Quercus nigra; solid; mean age = 11.3 years, mean basal stem diameter =
+    9.8 cm, mean stem bark (proportion of dry weight) = 14.8%, ash content 1.7%, twigs =
+    2.6%,  bark = 6.1%, and leaves  3.3%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                         twigs:
+
+    q,(gross)  = 8599 Btu Ib-I                     q,(gross) = 8672 Btu Ib-I
+   qv(gross) = 4777 cal g-l                        q,(gross)  = 4818 cal g-l
+    q,(gross)  = 19987 f g-l                     qv(gross) = 20159 J g-l
+
+    bark:                                         leaves:
+                       1                                               1    q,(gross) = 8320 Btu Ib-                        q,(gross)  = 9151 Btu Ib-
+    q,(gross)  = 4622 cal g-l'                      q,(gtoss)   5084 cal g-'
+    q,(gross)  = 19338 J g-l                        q,(gross)   21271 J g-l
+
+   branches:
+
+    q,(gross) = 8561 Btu Ib-l
+    q,(gross)  = 4756 cal g-l
+                         1    q,(gross)  = 19899 J g-
+
+                                                                     7 9NEE/ STE
+
+
+
+                                       278

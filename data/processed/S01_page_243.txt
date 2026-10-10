@@ -1,0 +1,59 @@
+                                                                                                                                                   IWoody and Tree Materials
+
+
+MAPLE; genus, Acer; solid; ultimate analysis: carbon, 50.40%; hydrogen, 5.90%; oxygen,
+   39.10%; nitrogen, 0.50%; sulfur, 0.0%; ash, 4.10%; proximate analysis as received in
+   percent by weight: moisture, 0.0%; volatile matter, 76.1%; fixed carbon, 19.6%; ash,
+    4.3%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 8195 Btu lb;'
+    q,(gross)  = 4553 cal g-
+    q,(gross)  = 19050 J g-'
+
+                                                               68KAI/FRI; 66FRY
+
+MAPLE, HEDGE; Acer campestre; solid; Material is a tree, one of the dominant species
+   of a 65-year-old climazonal oak forest (Querceturn petraeae-cerris) on brown forest
+    soil, at 300 m above sea level located in the southern part of the Bukk Mountains of
+   north Hungary. Samples were dried at 85°C (ISS'F),  then ground and pelleted. The
+   ash content was determined at 500°C (932°F) while the temperature was increased
+   stepwise. Ash content of stem and branch wood = 1.2%; stem and branch bark = 9.7%;
+    leaf = 10.3%; root = 10.0%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature.
+
+                      dry weight       ash-free dry        std dev.
+                          basis          weight basis         of mean
+
+   stem and branch wood (4 measurements)
+
+    q,(gross)            8343            8440             30.1    Btu lb-I
+    q,(gross)            4635             4689             16.7    cal q1
+    qv(gross) =         19393            19619            69.9    J g-
+
+   stem and branch bark (5 measurements)
+
+    qv(gross) =          7607             8429            49.9   Btu lb'l
+    q,(gross)  =          4226             4683            27.7    cal q-'
+    qv(gross) =         17682            19594          116     J g -
+
+    leaf (6 measurements)
+
+    q,(gross)            7837            8732              5.4   Btu lb-l
+    q,(gross)  =         4354            485 1              3.0    cal
+    q,(gross)           18217            20297          13     J g -
+
+    root (4 measurements)
+
+    q,(gross)            7879            8750            77.8   Btu lb-I
+    q,(gross)            4377            486 1            43.2   cal9-1
+    q,(gross) =         18313            20338          181     J g-
+
+                                                              75PAP
+
+
+
+                                       266

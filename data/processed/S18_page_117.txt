@@ -1,0 +1,19 @@
+Appendix D. Aspen Properties
+
+The first table in this appendix is a list of the components used in the Aspen model. Previous
+versions of the model used custom property databanks created at NREL. Where possible in the
+new model, these components have been replaced with components from Aspen’s native
+databanks. Property definitions for the few remaining custom components were moved into the
+model itself (i.e., inside the simulation file) and are discussed here.
+
+The second table is a list of combustion energies (LHV and HHV) computed using heats of
+formation from Aspen.
+
+The component CSL (corn steep liquor) used in previous models was removed. CSL streams are
+now modeled as 50% water, 25% protein, and 25% lactic acid [89].
+
+
+
+
+
+                                      107

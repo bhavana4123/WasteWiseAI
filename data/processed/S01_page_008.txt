@@ -1,0 +1,47 @@
+In accurate studies, the observed heat is corrected for side reactions and  t o a standard
+state in which all gases are at unit fugacity.  For most of the data reported here, the
+precision of the measurements does not warrant such refinement.
+
+Gross Heat of Reaction.  The specific isothermal gross heat of reaction at the specified
+temperature and at constant volume, qv(gross), is equal t o -AU/M, where AU is the molar
+change in internal energy of the process, and M is the molecular weight.  Usually, the
+values of qv (or AU) have not been converted  t o the standard state (-AU"/M) [74ASM].
+Some  of  the  data  are  of  such  low  precision,  because  of  sample  variability  or
+measurement method, that this correction is impractical.
+
+The numerical values for qv(gross) are given in J g-',  cal g-l, and Btu lb-'.  The joule (J)
+is the primary SI energy unit. The calorie used is the thermochemical calorie, defined as
+4.184 J.  The British thermal unit used is the thermochemical Btu.  Conversion factors
+are given in Appendix C.
+
+Heat Content. The difference in enthalpy, for one unit mass of substance, between two
+temperatures, (Hr-HT(ref))/M  = (qT-qT(ref)).  T(ref) is the reference temperature, usu-
+ally 0 K, 273.15 K, or 298.15 K.  It is specified as qo, 9273 or 9273.15, and 9298.15'    If
+other than the kelvin scale is used, this is indicated as "C,OF, or O R (Rankine, TOR =
+1.8 T K).
+
+Heat of Fusion, Lf.  The specific latent heat  of  fusion (AHfus/M) at a pressure  of
+101325 Pa (I atm). The value is the heat absorbed (in J, cal, or Btu) when one unit mass
+of the substance goes from the solid state to the liquid state.  For a pure compound, the
+melting occurs at a single temperature; for the complex materials considered here, the
+melting process may take place over a temperature range.
+
+Heat of Sublimation, L,.  The specific latent heat of sublimation (AHsub/M). The value is
+the heat absorbed when one unit mass of the substance goes from the solid state to the
+gaseous state. The same considerations apply as for L,.
+
+Heat of Transition,  L,.  The specific latent heat of transition (c'Htrs/M) at a pressure of
+101325 Pa (1 atm).  The value is the heat absorbed when one unit mass of the substance
+goes from one solid phase  t o another solid phase.  For a pure compound, the transition
+occurs at a single temperature; for the complex materials considered here, the transition
+process may take place over a temperature range.
+
+Heat of Vaporization, I-,.   The specific latent heat of vaporization (AHvap/M). The value
+ is the heat absorbed when one unit mass of the substance goes from the liquid state t o
+the gaseous state.   If measured calorimetrically, the value will be for a definite tem-
+petature and pressure,   If derived from the vapor pressure equation through the relation
+d(lnP)/d(l/T) = -AHVap/R,  the value may be referred to a definite temperature and
+pressure, depending upon the form of the equation.  With the simple form 1nP = A-B/T,
+the value refers  t o the midpoint  of the temperature range over which the equation is
+
+                                              3

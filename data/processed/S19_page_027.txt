@@ -1,0 +1,49 @@
+                      Table 11. Fermentation Performance of Fermentation Organism
+                                Ethanol      Ethanol       Ethanol      Ethanol       Final Ethanol           Process                              Process      Yield From    Yield From   Yield From    Titer             Description                                     Yielda       Glucoseb      Xylosec      Arabinose    (g/L)
+         20% TS, 1.5 days   92%d      95%          93%       54%         74
+                   a Ethanol produced from initial monomeric glucose, xylose, arabinose, and fructose and glucose derived
+           from sucrose.
+                 b Glucose-to-ethanol metabolic yield is assumed to be 95%.
+                   c Measured ethanol yield from xylose assuming 95% conversion of glucose to ethanol.
+                 d Ethanol yield is based on demonstration run 4 data for FY 2012 SOT base case modeling. However, it
+             ranges from 80%–92% in the pilot-scale demonstrations.
+
+      3.2.6 Improved Wastewater Treatment Model
+     As noted in the 2011 design report, a significant effort was made in FY 2011 to improve the
+      wastewater treatment (WWT) section of the Aspen model, because the concentration of
+      inorganic compounds in the stillage water was potentially too high for standard treatment by
+      anaerobic and aerobic digestion. One of the findings was that nitrification was required in
+      aerobic digestion to remove the high loading of ammonia. When deacetylation was introduced,
+      both acid loading and resultant ammonia loading for conditioning were reduced dramatically (see
+      Table 9 and Table 14). However, the WWT section in the 2011 design report was designed
+       specifically for one level of pretreatment chemical usage and its costs do not accurately scale as
+      acid and ammonia usage are reduced, or as chemical oxygen demand (COD) varies from the base
+       case. Therefore, a subcontract with Brown and Caldwell (a WWT technology) was established
+       early in FY 2012 to quantify the cost implications for the WWT section associated with the
+       revisions made to the pretreatment operations (namely the new black liquor stream from
+       deacetylation and significantly lower amount of ammonia salts associated with the reduced
+     ammonia conditioning demand).
+
+     The study with Brown and Caldwell demonstrated WWT capital reduction in a process concept
+       similar to the previous design described in the 2011 design report. Updated capital costs are
+     shown in Table 12. In addition to updated capital quotations for WWT, the scaling method is
+      improved, allowing the new design to more accurately scale as front-end chemical loading
+      changes (rather than merely the total flow rate to WWT, as in the 2011 case). In the previous
+     2011 WWT design, all equipment costs were scaled on hydraulic flow rate. In the new design,
+       the evaporator system, membrane reactor, and reverse osmosis system are scaled on hydraulic
+      flow rate, while the anaerobic digester, aeration basin, and the other equipment are scaled on
+        total chemical oxygen demand (COD) loading to the WWT system. The newer design is believed
+       to better account for upstream process variations, such as acid and ammonia usage changes. In
+       addition, the operating cost is reduced equivalent to an ethanol cost savings of roughly $0.03/gal,
+      due primarily to lower ammonia going into the WWT system. The power usage matches well
+      with the prediction using the 2011 design model, so does not currently provide additional
+      operating cost savings from the energy demand aspect. The lessons learned from this Brown and
+      Caldwell study have been incorporated into the design report model and this updated model was
+      used for all of our economic calculations in the FY 2012 SOT analysis.
+
+
+
+
+                                           20
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.

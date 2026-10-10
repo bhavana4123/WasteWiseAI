@@ -1,0 +1,21 @@
+bin on the pretreatment reactor (MYPP Table B-2). It should be stressed that these costs are 2012
+DOE research targets, like the conversion performance targets used in the Aspen model.
+
+Harris Group did obtain vendor quotes or other estimates for the truck unloading equipment,
+storage domes, conveyors, and dust collectors. Although the final equipment list assembled by
+Harris Group does not completely match the INL design report, the capital and operating costs
+for Area 100 are assumed to be included in the MYPP feedstock cost and are not included in the
+total capital investment (TCI) calculation; therefore they do not affect the MESP.
+
+The truck scales were quoted by St. Louis Scale, and the truck dumpers and hoppers were quoted
+by Jeffrey Rader. The storage domes, each with a 4,400 ton capacity, were quoted by Domtec.
+The internal reclaim system was quoted by Cambelt. All other connecting conveyors were
+quoted by Dearborn Midwest Conveyor Co. Sly, Inc. provided a quote for all components in the
+dust collection system. The belt scales for biomass leaving the storage domes were quoted by
+Tecweigh.
+
+
+
+
+
+                                      18

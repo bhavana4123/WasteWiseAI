@@ -1,0 +1,50 @@
+       •  Anaerobic digestion of food waste provides a higher normalized energy benefit at a
+          15-day MCRT than at a 10-day MCRT:
+          o  190 to 320 kWh per wet ton of food waste at a 15-day MCRT, or the
+                  equivalent of satisfying the power demand of 800 to 1,400 homes per year at
+               100 tons of food waste per day.
+          o  130 to 270 kWh per wet ton of food waste at a 10-day MCRT, or the
+                  equivalent of satisfying the power demand of 550 to 1,200 homes per year at
+               100 tons of food waste per day.
+       •  Food waste contains more biodegradable solids, with a higher VS/TS percentage
+        (86% to 90%) than municipal wastewater solids (70% to 80%).
+       •   Volatile solids destroyed (VSD) is higher for food waste when anaerobically digested
+          (74 to 81%) than for municipal wastewater solids when anaerobically digested (57%),
+         and much higher than the 38% VSD required by the EPA’s 503 Regulations for land
+           application.
+       •  Since food waste is more readily biodegradable (i.e., with higher VS/TS and VSD)
+          than municipal wastewater solids, a 10-day MCRT could be used rather than the
+        minimum of 15-days for municipal wastewater solids anaerobic digestion.
+       •  With a shorter MCRT possible for food waste, smaller digester volumes would be
+          needed, possibly reducing capital costs.
+       •  The higher VS/TS percentage and VSD of food waste digestion also results in half the
+           biosolids produced (residual solids) compared to anaerobically digesting municipal
+          wastewater solids.
+       •  Stable anaerobic digestion of food waste at both mesophilic and thermophilic
+          temperatures provides more gas production (6 to 8.5 ft3 CH4/lb TS applied) than
+           digestion of municipal wastewater solids (5 ft3 CH4/lb TS applied).
+       •  Anaerobic digestion of food waste can occur at significantly higher VS loading
+           (0.53 lb/ ft3-day) and COD loading (1.1 lb/ ft3-day) rates than typically seen for
+          municipal wastewater solids (0.1 to 0.2 lb VS/ ft3-day and 0.06 to 0.3 lb COD/ ft3­
+           day).
+       •  Thermophilic anaerobic digestion may provide for a slightly higher methane content
+            in digester gas than mesophilic anaerobic digestion when only food waste is fed (67%
+           versus 64% at 15-day MCRT, and 60% versus 59% at 10-day MCRT, respectively).
+           Especially since the actual MCRT was consistently lower for the thermophilic
+           digester compared to the mesophilic digester. More work, however, is needed in this
+            area.
+       •  Although the specific methane gas production rate for food waste anaerobically
+           digested at a 10-day MCRT is less than the rate at a 15-day MCRT, the increased
+          food waste loading rate (tonnage delivered) at a 10-day MCRT can result in a slight
+           increase in gas production per digester volume compared to a digester fed only food
+          waste and operated at a 15-day MCRT.
+       •  Food waste digestion results in a nearly 3 times higher methane gas yield per digester
+         volume at both 15-day (2,300 ft3 CH4/1000 ft3 digester volume) and 10-day MCRT
+          (2,600 ft3 CH4/1,000 ft3 digester volume) operation compared to that of municipal
+          wastewater solids digestion (750 ft3 CH4/1,000 ft3 digester volume ) at a 15-day
+       MCRT.
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-10
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,44 @@
+                                                 Woody and Tree Materials
+
+
+POPULUS HYBRIDS; solid; Sample specimens were composite wood/bark from 4-year-old
+   trees of seven hybrids. Average ash content is 0.80% of oven-dry weight.  Selected
+    nutrients given in percent of oven-dry weight are phosphorus, 0.08; potassium, 0.35;
+   calcium, 0.59; magnesium, 0.06; and total extractives, 12.2.  Holocellulose and
+   pentosan are 67.1% and 16.2% extractive free oven-dry weight, respectively.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross)  = 8386 Btu Ibl 1
+     q,(gross)    4659 cal g-
+    q,(gross)  = 19493 J g-'
+
+                                                        79BOW/BLA
+REDBUD; Cercis canadensis; solid; mean age = 10.3 years, mean basal stem diameter =
+    6.5 cm, mean stem bark (proportion of dry weight)   9.2%,  ash content (proportion of
+   oven dry weight) of components of sample: wood = 0.9696, branches = 1.596, twigs =
+   2.2%, bark = 5.5%, and leaves   5.6%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                        twigs:
+    q,(gross)  = 8755 Btu lb- 1                                                   q,(gross) = 8525 Btu                                $'
+    q,(gross) = 4864 cal g-l                        q,(gross) = 4736 cal g-
+    q,(gross)  = 20351 J g-'                       qv(gross) = 19815 3 g-l
+
+   bark:                                          leaves:
+
+   qv(gross) = 8336 Btu lb-l                    qv(gross) = 9158 Btu lb-I   qv(gross) = 4631 cal g- 1                                               qv(gross) = 5088 cal g-l   qv(gross) = 19376 J g- 1                                               qv(gross)  21288 J g-l
+
+   branches:
+   q,(gross) = 8528 Btu lbl I
+    q,(gross)  = 4738 cal g-
+    q,(gross) = 19824 J g- 1
+
+                                                             79NEE/STE
+
+
+
+
+
+                                       29 1

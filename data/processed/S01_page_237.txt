@@ -1,0 +1,51 @@
+Woody and Tree Materials
+
+
+HICKORY;Carya spp.; solid; Material was collected from the southern Atlantic and Gulf
+   coastal plains in bottom-, swamp- and wet flat-land natural stand sites. Samples
+   were dried at 70°C (158'F)  to a constant weight; reported values were averaged over
+    all positions of similar plant tissue for each tree and six trees per species were used.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   dry weight basis.
+
+   bole wood                               branch wood
+    q,(gross) = 8309 Btu lb- 1                                                     q,(gross) = 8122 Btu lb;'
+    q,(gross) = 4616 cal g-l                        q,(gross)  = 4512 cal g-
+    q,(gross)  = 19313 J g-'                         q,(gross)  = 18878 J g-'
+
+   bole bark                                branch bark
+    q,(gross)   7538 Btu lbi 1                                                     q,(gross) = 7565 Btu  lb;'
+   q  ( ross)  4188 cal g-                         q,(gross) = 4203 cal g-
+    q$ross)   = 17523 J g-'                         q,(gross) = 17595 J g-'
+
+   foliage
+    q,(gross)  = 8237 Btu Ibi 1
+    q,(gross) = 4576 cal g-
+    q,(gross) = 19146 J g-'
+
+                                                       82GOW/FRE
+
+HORNBEAM; Carpinus betulus; solid; ultimate analysis: carbon, 48.99%; hydrogen,
+   6.20%; nitrogen, 0.06%; ash, 0.50%.
+
+   gross heat of combustion: 20°C (68"F), air-dried 110°-1150C (230"-240°F'),ash free.
+                        1    q,(gross)   8536 Btu lb-
+    q,(gross)  = 4742 cal g-'
+    q,(gross)  = 19841 3 g-l
+
+                                                             1883GOT
+
+JUNIPER, UTAH; BARK; Juniperus osteosperma; solid; Bark was air-dried at room
+   temperature.  Composition is ash = 17.74% and char yield = 27.9%.  Char was
+   obtained from heating the sample to 500°C (932'F)  in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                        1    q,(gross)  = 9260 Btu lb-                       q,(gross)   13720 Btu 1
+    qv(gross)  5150 cal g-'                        q,(gross) = 7620 cal g-
+    q,(gross)   21530 J g-l                         q,(gross)   31880 J g-'
+
+                                                                  82SUS

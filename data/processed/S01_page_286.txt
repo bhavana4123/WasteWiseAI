@@ -1,0 +1,55 @@
+                                                                      Miscellaneous
+
+
+
+POLYVINYL NITRATE; solid; repeating unit: C2H3N03; used in explosive applications.
+
+   gross heat of combustion: assume values refer to room temperature.
+    qv(gross)  5328 Btu lb- 1
+    qv(gross)  2960 cal g-l
+    q,(gross)  = 12385 J g"'
+
+                                                               71USA
+
+PROPELLANT, BAKELITE RESIN BINDER FUEL; solid; Material is a phenol-
+   formaldehyde casting resin used as a binder fuel.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross) = 12506 Btu 1    q,(gross)  = 6948 cal g- P-'
+    qv(gross) = 29070 J g-l
+
+                                                           76GIR/ARO
+
+PROPELLANT, OS/AP; solid; Oxygen-styrene copolymer was prepared by passing oxygen
+   at 1 atm through styrene for 24 hours in the presence of azobisisobutyronitrile; the
+   reaction was completed by adding benzoyl peroxide and maintaining the solution at
+   50°C (122°F) for another 24 hours until it became sufficiently viscous; (OS/AP) =
+   (oxygen-styrene copolymer) - ammonium perchlorate composite propellant.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+                                                     q,(gross)
+   copolymer (wt. %)           Btu lb-I        cal g-l          J g-'
+
+        30                   1996 ? 18     1109 ? 10      4640 2 42
+        25                   2102 ? 41     1168 +_ 23      4887 2 96
+         20                   2342 2 14     1301 f 8      5443 2 33
+
+                                                                 74RAS/KIS
+
+SANTOWAX R; liquid; (trade mark, Monsanto Co.); mixture of terphenyl hydrocarbons.
+
+   specific heat: 453-593 K (356'-608'F)
+
+   Cp(Btu lb-I  OF-')    = 0.372 + 3.256 x  lo-'  T
+   Cp(cal 5-1 +)       = 0.222 + 5.86   10-4 T
+   Cp(J g-   K-')        = 0.929 + 2.452 x    T
+
+                                                     60BOW/GAR
+
+
+
+
+
+                                     31 1

@@ -1,0 +1,59 @@
+ 9.2.3 Feeding Solids
+ During testing. fuel can be fed manually to small
+ gasifiers. However, there is the danger of running out
+ of fuel, which in turn overheats the gasifier as the
+ remaining charcoal burns. Level alarms or other con­
+ trols are strongly recommended for gasifier systems
+ intended for continuous operation (see Chapter 10).
+ Biomass fuels are only partially free flowing from a
+ hopper by gravity alone so bin stirrers, vibrators, or
+ shakers may be required for even fuel delivery. Biomass
+ can be moved laterally and vertically by conveyor belts,
+ chain drags, bucket elevators, augers, pneumatic
+ blowers, and vibratory feeders  (e.g., Syntron type),
+ widely available in agricultural handling equipment.
+ Again, those with experience with the particular
+ biomass form should be contacted for feeding and
+ equipment suggestions .
+. The flow of solids in the gasifier is also subject to ir­
+ regularity and interruption and can cause great dif­
+ ficulty during gasification, resulting in such problems
+ as bridging, caking, :channelling, and rat-holing. The
+ importance of uniform feeding cannot be overem­
+ phasized and experts in the field should be consulted
+ (Guzdar 1982, Miles 1982).
+
+ Char-ash must be removed from the gasifier and stored        Fig. 9-2. Batch fed gasifier with lid  (Source: NAS 1983, p. 68)
+ as it is produced. An air-tight char-ash receiver should
+ be provided, since this char material is combustible
+ and may reignite spontaneously. In addition, it may be    There are two basic types of solids feeding and sealing
+ necessary to cool the receiver. Although the weight of    devices-mechanical seal type where the seal
+ the char-ash may be only 2% to 5% ofthe weight ofthe    mechanically prevents gas passage, and plug seal
+ biomass fed to the gasifier, its volume may represent a    where the fuel acts as its own plug and seal such that
+ larger fraction of the volume of the original biomass be­     fuel velocity into the gasifier is greater than gas velocity
+ cause of its lower density. The required receiver     out through the fuel plug. It should be noted that rotary
+ volume must therefore be calculated from measured     valves and gate valves are also good firestops for flash­
+ char-ash bulk densities, which may range from 0.064    back or explosion prevention. Inert or air purge gas
+ to 0.4 g/cm3 (4-26 Ib/ft3).                              should be used in pressurized gasifiers to offset leakage
+                                                  through rotary valves. Additionally, there  is the
+ It should be mentioned here that ash receivers can con­                                                                   stratified charge gasifier where air enters through the
+ tain explosive gas even when cold. They have been                                                        top at atmospheric pressure such that for operation
+koown to ignite on startup, and precautions should be                                                  above a minimum gasification rate, all smoke is drawn
+ taken against this.                                          down into the fuel bed, and a lid is unnecessary. In
+                                         many cases, the biomass feed can help to act as a seal
+ 9.2.4 Sealing Solid Flows                            in a long auger or vertical pipe. However, the pressure
+                                                    drop through the fuel is small, and the technique will Gasifiers may operate at pressures up to 20 in. water
+                                                      not work if the gasifier fuel inlet is under a positive gauge above or below atmospheric pressure, which                                                       pressure of more than 2.5 cm (1 in.) water gauge. makes it necessary to provide a seal through which the
+biomass can pass without leaking air or gas. Proper     Various solids feeding devices are shown in Fig. 9-3.
+ seals are very important, to ensure both gas quality and     Star valves, which rotate to feed the fuel, are available
+ safe operation (see Chapter 12).                          commercially.
+ Gasifiers from the World War II era were batch-fed     Ifa gasifier is to be operated at high pressure, it becomes
+through a lid that could be sealed tightly, as shown in     exceedingly difficult to feed biomass through a single
+ Fig. 9-2. The spring-loaded lid would pop open in the      seal. Lock hoppers that use two slide or bell valves
+ event of an internal gas explosion. As long as the     supplying a metering feeder as shown in Fig. 9-4 have
+ gasifier was filled quickly, the expelled smoke could    been used with biomass at pressures up to 30
+be tolerated as a nuisance.                           atmospheres for making medium-energy gas for
+
+
+
+94    Handbook of Biomass Downdraft Gasifier Engine Systems

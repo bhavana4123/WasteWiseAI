@@ -1,0 +1,56 @@
+                                                 Woody and Tree Materials
+
+
+LEAVES, TREE; RIPE HARDWOOD MIXTURE; solid; ultimate analysis: carbon, 52.15%;
+   hydrogen, 6.1 1%; oxygen, 30.34%; nitrogen, 6.99%; sulfur, 0.16%; ash, 4.25%;
+   proximate analysis as received: moisture, 9.97%; volatile matter, 66.92%; fixed
+   carbon, 19.29%; ash, 3.82%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                                dry basis
+                       1    q,(gross) = 7990 Btu lb-                        q,(gross)  = 8874 Btu lbll
+   qv(gross)  4439 cal g-'                        q,(gross) = 4930 cal g-
+   qv(gross)  18571 J g-l                         q,(gross) = 20629 f g-l
+
+                                                                66KA1
+
+LITTER FALL; solid; Material was collected for one year in a 79-year-old,  low-altitude,
+  New Zealand Nothofagus solandri variety forest. An even-aged stand of Nothofagus
+   with a sparse subcanopy vegetation was chosen having the following percentage of
+   ground covers (rejecting tree base points); litter or soil, 95.2%; bryophytes, 4.0%;
+   exposed roots, 0.4%; and vascular plants, 0.4%.  Throughfall was taken as suspended
+   and dissolved material tainwashed from the plants, including material from rainfall,
+   surface-washings from plants, and recretions from leaves.
+
+   gross heat of combustion: dry weight and assume values refer to room temperature.
+
+   branch material
+
+   qv(gross) = 8300 Btu Ib-l
+    q,(gtoss)  = 4700 cal g-l
+    q,(gross)  = 19700 J g-l
+
+    floral material
+    qv(gross) = 8600 Btu lb- 1
+    q,(gross) = 4800 cal gel
+    q,(gross)  = 20100 J g-1
+
+   samples with negligible amounts of throughfall
+    q,(gross)  8600 Btu lb- 1
+    q,(gross) = 4800 cal g-'
+    q,(gross)  = 20100 J g-l
+
+   samples with intermediate amounts of throughfall
+
+    q,(gross)  = 8300 Btu lb-I
+    q,(gtoss)   4600 cal g-l
+    q,(gross)  = 19200 J g-l
+
+                                                                            (more)
+
+
+
+
+
+                                      263

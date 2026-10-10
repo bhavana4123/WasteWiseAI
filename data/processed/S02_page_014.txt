@@ -1,0 +1,60 @@
+                        Chapter 2
+                History, Current
+    Developments, and Future Directions
+
+
+2.1  Historical Development                      trucks, cars, and buses in Europe and probably more
+                                                     than a million worldwide (Egloff1943). However, these
+2.1.1  Early Development of Gasification            impressive numbers included only six wood-fuele.d   .
+                                                         vehicles in the United States and two in Canada, where
+Gasification was discovered independently in both                                                        low-cost gasoline continued to be available throughout
+France and England in 1798, and by 1850 the technol­                                                         the war. Many articles were written on gasification
+ogy had been developed to the point that it was pos­                                                      during that time (see Chapter 1). Some photographs of
+sible to light much of London with manufactured gas                                                                 gasifiers fitted to vehicles of that era are shown in
+or "town gas" from coal (Singer 1958; Kaupp 1984a).                                                                Fig. 2-1. Most gasifiers were simply "belted on" and
+Manufactured gas soon crossed the Atlantic to the
+United States and, by 1920, most American towns and
+cities supplied gas to the residents for cooking and
+lighting through the local "gasworks."
+
+In 1930, the first natural gas pipeline was built to
+transport natural gas to Denver from the oil fields of
+Texas. As pipelines crisscrossed the country, very low­
+cost natural gas displaced manufactured gas, and the
+once-widespread industry soon was forgotten. "Town
+gas" continued to be used in England until the 1970s,
+but the plants were dismantled following the discovery
+of North Sea oil. Today, a few plants are still operating
+in the third world.
+
+
+
+2.1 .2 Vehicle Gasifiers
+
+Starting about the time of World War I, small gasifiers
+were developed around charcoal and biomass
+feedstocks to operate vehicles, boats, trains, and small
+electric generators (Rambush 1923). Between the two
+world wars, development was pursued mostly by
+amateur enthusiasts because.gasoline was relatively in­
+expensive and simpler to use than biomass. In 1939 the
+German blockade halted all oil transport to Europe.
+Military use of gasoline received top priority, and the
+civilian populations had to fend for themselves for
+transport fuels. Approximately one million gasifiers
+were used to operate vehicles worldwide during the
+war years. The subsequent development of wood
+producer gas units is a testament to human ingenuity
+in the face of adversity. Extended accounts make fas­
+cinating reading and inform the reader of both the
+promise and difficulties of using producer gas. (Egloff
+1941, 1943; Gengas 1950; NAS 1983; Kaupp 1984a).
+
+At the beginning of World War II, there was a great deal
+of interest in all forms of alternative fuels (Egloff 1941,
+1943). By 1943, 90% of the vehicles in Sweden were
+powered by gasifiers. By the end of the war, there were
+more than 700,000 wood-gas generators powering        Fig. 2-1. Vehicle gasifiers before 1950 (Source: NAS 1983)
+
+
+6    Handbook of Biomass Downdraft Gasifier Engine Systems

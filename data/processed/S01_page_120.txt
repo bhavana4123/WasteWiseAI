@@ -1,0 +1,51 @@
+                                                                   Inorganic Materials
+
+
+CLAY, HALLOYSITE (DJEBEL DEBAR); solid; Material is a clay mineral with a kaolinite
+   composition.
+
+   heat of dehydration: approximate dehydration temperature is 544°C (1 0 1 1OF).
+   AH(dehydration1 is derived from endotherms in the differential thermal analysis
+   (DTA) curve, neglecting endotherms around 110°C (230°F) at which adsorbed water is
+   evolved.
+
+   AH(dehydration) = 164 Btu lb-I
+   AH(dehydration) = 91 cal g- 1
+
+   AH(dehydration) = 381 J g-'
+
+                                                               54ALL
+
+CLAY, K. PLASTIC KAOLIN; solid; Material is a clay mineral composed mainly of
+    kaolinite (40% alumina, 55% silica plus impurities and water).
+
+   heat of dehydration: approximate dehydration temperature is 547°C (1017OF).
+   AH(dehydration) is derived from endotherms in the differential thermal analysis
+   (DTA) curve, neglecting endotherms around 110°C (230°F) at which adsorbed water is
+    evolved.
+                          1   AH(dehydration1  187 Btu lb-
+   AH(dehydration1 = 104 cal
+    AH(dehydration1  435 J
+
+                                                               54ALL
+
+CLAY, MOROCCAN NO. 4; solid; Material is a kaolin type mineral composed of a
+   hydrated aluminum silicate with generalized formula AL2O3SiO2 - xH20, where x
+    indicates a variable amount of water.
+
+   heat of dehydration: approximate dehydration temperature is 664°C (1227°F).
+    AH(dehydration) is derived from endotherms in the differential thermal analysis
+   (DTA) curve, neglecting endotherms around 110°C (230°F) at which adsorbed water is
+    evolved.
+
+    AH(dehydration) = 41 Btu lb-I
+    AH(dehydration) = 23 cal
+    AH(dehydration1 = 96 J
+
+                                                               54ALL
+
+
+
+
+
+                                        129

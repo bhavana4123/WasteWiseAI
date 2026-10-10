@@ -1,0 +1,46 @@
+            Figure 1-2. Equivalent Separate Heat and Power Efficiency
+                Site Efficiency as a function of P/H
+                           Ratio
+
+     %
+               95%
+                                                                         SHP
+               85%                                                                      GT                                                       Efficiency,
+               75%                                          MT
+                                        Electric 65%                                                           ST
+               and 55%                                                        FC
+                                                                                    Recip               45%                                   Thermal
+               35%
+
+               25%
+                        0.00      0.50      1.00      1.50      2.00      2.50                                        Combined
+                                Power to Heat Ratio (P/H)
+
+          SHP assumes 35.7 percent efficient electric and 80 percent efficient thermal generation
+
+
+CHP overall thermal and electric efficiencies are higher than corresponding efficiencies for SHP across
+the range of power-to-heat ratios. However, as shown the SHP efficiency varies as a function of how
+much of the lower efficiency electricity is supplied versus the higher efficiency thermal energy. At very
+low power-to-heat ratios, as is typical for steam turbine systems, CHP is above the SHP line, but only by
+a few percentage points. As electric efficiencies of the CHP systems get higher (and corresponding p/h
+ratios increase), the relative improvement of CHP compared to SHP increases dramatically.
+
+1.3   Emissions
+In addition to cost savings, CHP technologies offer significantly lower emissions rates compared to
+separate heat and power systems. The primary pollutants from gas turbines are oxides of nitrogen
+(NOx), carbon monoxide (CO), and volatile organic compounds (VOCs) (unburned, non-methane
+hydrocarbons). Other pollutants such as oxides of sulfur (SOx) and particulate matter (PM) are primarily
+dependent on the fuel used. Similarly, emissions of carbon dioxide are also dependent on the fuel used.
+Many gas turbines burning gaseous fuels (mainly natural gas) feature lean premixed burners (also called
+dry low-NOx burners) that produce NOx emissions ranging between 0.17 to 0.25 lbs/MWh5 with no post-
+combustion emissions control. Typically commercially available gas turbines have CO emissions rates
+ranging between 0.23 lbs/MWh and 0.28 lbs/MWh. Selective catalytic reduction (SCR) or catalytic
+combustion can further help to reduce NOx emissions by 80 percent to 90 percent from the gas turbine
+
+
+5 The NOx emissions reported in this section in lb/MWh are based on the total electric and thermal energy provided by the CHP
+system in MWh.
+
+
+Catalog of CHP Technologies                            1-10                                     Introduction

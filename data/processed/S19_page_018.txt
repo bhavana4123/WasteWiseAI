@@ -1,0 +1,49 @@
+3 Results
+3.1 Demonstration Run Results
+Five demonstration runs were performed in the summer of 2012. Actual operating conditions are
+given in Table 5. The best pretreatment operating conditions were determined in a study
+performed prior to the demonstration runs. Enzymatic hydrolysis was performed at a target 20%
+TS loading with a commercial enzyme package at enzyme loadings varying from 33 to 19 mg
+protein/g cellulose. The first run used a high enzyme loading consistent with previous bench-
+scale work. In subsequent runs, the enzyme loading was reduced to understand the economic
+impact of lower enzyme loadings. pH was controlled at 4.8–5.4 with 15% (w/w) NH4OH. The
+final two runs used an enzyme loading of 19 mg/g as reported below, which is a slight
+improvement beyond the 2012 target. Fermentation was performed with a glucose-xylose-
+arabinose fermenting bacteria. Fermentation operating conditions were fixed at 33°C and pH was
+controlled at 5.8 with 15% NH4OH.
+
+               Table 5. Actual Operating Conditions for Each Demonstration Run
+                                                     Demonstration Run #            Operating Condition                                           1        2        3        4        5
+  Pretreatment
+  Reactor                             LH      VT      LH      LH      LH
+   Solids loadinga (%)                           29.0      28.3      28.1      27.5      30.3
+  Temperature (°C)                         160      190      160      160      160
+  Residence time (min)                       10       1       10       10       10
+   Acid loadings (mg/g) effective acid             9        9        9        9        9
+   Concentrationb (%)                           0.35      0.35      0.33      0.31      0.38
+  Enzymatic hydrolysis
+  TS loading (%)                               20.1      19.6      20.0      20. 0      20.0
+  Enzyme loading (mg/g)c                     33       33       26       19       19
+   a Solids loading was not controlled, but actual value was determined by steam heating requirements
+   b Actual acid concentration in the reactor
+   c Based on protein content of 175 mg protein/g solution
+
+3.1.1  Deacetylation
+During preparation of deacetylated stover, sufficient data were collected to calculate mass and
+carbohydrate loss during the deacetylation process. In addition to acetate removal, the
+deacetylation process removes a portion or all of the ash, sucrose, lignin, xylan, galactan, and
+arabinan. In a previous bench study, approximately 2%–4% of the original xylan content of the
+corn stover was removed (Chen et al. 2012). In the demonstration runs approximately 6% of the
+original xylan was removed during the deacetylation process. The stover was likely treated more
+severely in the demonstration runs than needed; that is, more acetate was removed than is
+necessary to achieve good fermentation performance. Unfortunately, the deacetylation process
+has not been optimized in the short time we have been performing this process. It is possible to
+reduce both NaOH use and decrease xylan losses to further reduce processing cost without
+sacrificing fermentation performance. Because of the unusual nature of the stover used in the
+study, and because the deacetylation process has not been optimized, a xylan loss of 2% as is
+currently used in the techno-economic model is a reasonable assumption. The impact of higher
+xylan losses in the deacetylation step was modeled as a sensitivity case and is presented later in
+this report.
+
+
+                                      11

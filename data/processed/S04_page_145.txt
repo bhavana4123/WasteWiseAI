@@ -1,0 +1,49 @@
+    •   Variables based on the location of the equipment, such as ventilation routing, or rigging or
+       cranes that might be required for installation. Also, installation costs may be higher for retrofits
+        of existing buildings compared to new construction.
+    •   Insurance requirements for contractors and subcontractors.
+    •  Bonding requirements.
+    •   Restrictions on working hours and access to site.
+    •   Metering, permitting, and utility interconnection requirements.
+    •   Local labor rates or minimum rates required by the Davis-Bacon and Related Acts, where
+        applicable.
+    •   Black start/islanding capability, which adds to installation costs depending on factors such as the
+        existing electrical system in the host facility, switchgear required, and the size of the electrical
+        loads to be served when the system is islanding.
+
+Installation costs for packaged systems tend to be less than for conventional systems of similar size. For
+example, for a 1,000 kW packaged system, installation costs can be as low as $150,000 compared to
+$700,000 for conventional systems.
+
+               Table 7-3. Packaged CHP Systems – Equipment Costs
+                                                                        Size Range (kW)
+        Packaged System Costs
+                                           30-99      100-199    200-499    500-1,000      >1,000
+                                          $1,000 ­     $1,400 ­     $1,000 ­      $900 ­       $650 ­        Equipment Cost ($/kW)                                           $2,850      $3,100      $2,000      $1,850        $1,100
+
+Source: Compiled from data supplied by the seven EPA CHP Partner companies that manufacture packaged systems
+and that responded to a data request.
+
+7.6.3 Maintenance Costs
+Unlike for conventional systems, maintenance for packaged systems is typically performed by the
+system vendor or a third party. Maintenance costs vary depending on factors such as type of CHP
+technology, remote monitoring, and performance guarantees. The ranges of maintenance costs for
+different sizes of packaged system reciprocating engines and microturbines are shown in Table 7-4
+(while costs here are presented in $/kWh, note that some vendors price maintenance in $/run hour, not
+$/kWh). For more information on maintenance requirements for reciprocating engines and
+microturbines, refer to their respective sections of the Catalog.
+
+            Table 7-4. Packaged CHP Systems – Maintenance Costs
+                                                         Size Range (kW)
+                               30-99     100-199     200-499     500-1,000    >1,000
+         Maintenance         $0.013 ­    $0.018 ­     $0.017 ­       $0.010­     $0.002­
+          Costs ($/kWh)        $0.025     $0.025      $0.021       $0.016      $0.016
+
+           Source: Compiled from data supplied by the seven EPA CHP Partner companies that
+         manufacture packaged systems and that responded to a data request. vendors.
+
+
+
+
+
+Catalog of CHP Technologies                         7–14                       Packaged CHP Systems

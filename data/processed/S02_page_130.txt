@@ -1,0 +1,64 @@
+     Table 12-2. Maximum Carbon Monoxide Concentrations in Work Places - Internatiomil Standards
+
+                                                                                                       Fraction of
+Country              mg/m3              ppm                    Year              Hemoglobin (%)
+ Australia                  55                   50                     1973                    8
+ Belgium                   55                   50                     1974                    8
+ Bulgaria                  20                    17                       1971                     3
+BRD                    55                  50                     1978                    8
+Czechoslovakia            30                   26                     1976                         4.5
+Denmark                  40                    35                      1978                         5.5
+DDR                    55                  50                     1978                    8
+ Finland                   55                   50                     1972                    8
+Hungary                 30                   26                                  1 974                        4.5
+ Italy                      55                   50                                1 975                    8
+Japan                    55                   50                                1 975                    8
+Netherlands               55                   50                     1973                    8
+Norway                  40                   35                     1978                         5.5
+Poland                   30                   26                     1976                         4.5
+Romania                 30                   26                     1976                        4.5
+Soviet Union              20                    17                     1977                     3
+Sweden                  40                   35                     1978                         5.5
+USA                     55                   50                     1979                    8
+Yugoslavia                58                       51                                  1 971                    8
+
+Source: Kjelistrom 1981
+
+
+(See Section 5.9.) Some gasifiers now incorporate    Flammable and explosive gas mixtures are usually
+catalysts that claim to eliminate the problem entirely     present inside a cold gasifier. When a flame is intro­
+(Ekstrom 1985). Others employ a high degree of tar    duced to start the gasifier, care should be exercised to
+recycle to eventually crack the tar thermally (Susanto     prevent explosions. Proper precautions include the
+1983; Groeneveld 1980b; Kaupp 1984a).                   following:
+Other methods for disposing of these materials depend     • Always fan a cold gasifier before igniting  it, to
+on the method of gas cleanup. In some cases, wood      remove residual producer gas; in this way, one
+chips or burnable filter materials are used to filter the       ensures that the gasifier contains only fresh air.
+tars. The chips used in this type of process can be dried     • Always stand to one side when igniting the gasifier;
+and used as a fuel; ifthe tar is collected on solid filters,      never look into the ignition opening while applying
+the filters can be incinerated. If the tars are collected in      a flame.
+water, waste heat can be used to concentrate the tars     • If the gasifier has a tight-fitting lid,  it should be
+and they can then be gasified with the gasifier fuel.                                                   equipped with a safety release valve that will harm­
+Well-dried biomass fuel minimizes condensate                                                            lessly lower the pressure resulting from a gas
+production and eliminates the need for condensate                                                           explosion.
+removal for the purpose of improving gas quality. In     • A flame arrestor, as shown in Fig. 8-12, should bethis case, the gas can be used above its dew point, thus
+                                                      placed at the gas mixer to prevent explosions. Thelargely eliminating condensate collection.
+                                                       flame arrestor can also serve as a safety filter, since it
+Finally, it should be noted that there are neither ac­       will plug rapidly when the cleanup system fails.
+counts nor any evidence of damage occurring from
+draining the nearly one million vehicle gasifiers that    Openings through which fuel is loaded should be
+were in operation worldwide between 1939 and 1945     designed to provide spill shields that will prevent
+(Kjellstrom 1983).                                           spilled fuel from falling onto hot surfaces and possibly
+                                                     causing a fire. During installation, one should install
+1 2.3 Fire Hazards                                    insulation, heat shields, or warning signals for workers
+                                                  around the hot surfaces of a gasifier. Hot metal surfacesIn the early days of gas generators, there were a large
+                                                  can cause nasty skin burns at temperatures well below
+number of garage fires. These hazards were reduced
+                                                       those that will cause the metal to glow.
+through education and regulation to discourage indoor
+gasifier filling. Gases inside the hopper can flash when    Widespread gasifier use would require insurance and
+the lid is opened during filling, which in turn can ignite      local fire inspectors to advise users on proper precau­
+nearby flammable materials.                               tions that might not be evident to the inexperienced.
+
+
+
+1 22    Handbook of Biomass Downdraft Gasifier Engine Systems

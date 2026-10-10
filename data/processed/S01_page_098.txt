@@ -1,0 +1,58 @@
+                                                                             Fossil Materials
+
+
+COAL, BITUMINOUS (MEDIUM GRADE); solid; (sample 1) ultimate analysis of
+   combustible, ash free and moisture free: carbon, 82.08%; hydrogen, 5.40%; oxygen,
+   5.98%; nitrogen, 1.32%; sulfur, 5.22%; proximate analysis: ash, 12.97%; moisture,
+   4.99%; volatile matter, 39.8%; loss on air drying, 1.3%; (sample 2) ultimate analysis
+    of combustible, ash free and moisture free: carbon, 76.55%; hydrogen, 5.26%; oxygen,
+    11.83%; nitrogen, 1.40%; sulfur, 4.96%; proximate analysis: ash, 23.38%; moisture,
+   17.30%; volatile matter, 44.6%; loss on air drying, 15.2%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   sample I, ash free and moisture free      sample 2, ash free and moisture free
+
+                                                                 1                                                   13900                                                           Btu            =             14930    q,(gross)                   Btu                                     I                        q,(gross)                                                                                                   P-'                                                                      g-                                               qv(gross)  7723                                                              cal                            g-    q,(gross)                    cal            = 8296
+    q,(gross) = 34709 J g-l                        q,(gross)   32313 J g-l
+
+   sample I, as received                   sample 2, as received
+                      1                                 1    q,(gross)  = 12250 Btu lb-                      q,(gross)  = 8246 Btu Ib-
+    q,(gross)  = 6806 cal g-'                        q,(gross) = 4581 cal g-l
+    q,(gross)  = 28475 J g-l                        q,(gross)  = 19166 J g-l
+
+                                                           18POO; 15LOR
+
+COAL, CANNEL; solid; ultimate analysis of combustible, ash free and moisture free:
+   carbon, 82.59%; hydrogen, 7.13%; oxygen, 7.57%; nitrogen, 1.33%; sulfur, 1.38%;
+   proximate analysis: ash, 10.49%; moisture, 2.36%; volatile matter, 55.5%;  loss on air
+    drying, 1.5%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+
+    q,(gross)  = 15810 Btu 1                     qv(gross) = 13780 Btu 1
+    q,(gross)  = 8784 cal g-                        q,(gross)   7655 cal g-
+    q,(gross)  = 36751 J g-'                         q,(gross) = 32029 J g-l
+
+                                                            18POO; 15LOR
+
+COAL, SEMI-ANTHRACITE;solid; ultimate analysis of combustible, ash free and
+   moisture free: carbon, 92.15%; hydrogen, 3.76%; oxygen, 2.17%; nitrogen, 1.18%;
+    sulfur, 0.74%; proximate analysis: ash, 11.50%; moisture, 3.38%; volatile matter,
+    10.0%;  loss on air drying, 2.6%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+
+    q,(gross) = 15470 Btu 1                        q,(gross)  = 13170 Btu 1
+    q,(gross)  = 8593 cal g-                      qv(gross) = 7314 cal g-
+    q,(gross)  = 35953 J g-l                         q,(gross)   30601 J g-l
+
+                                                           18POO; 15LOR
+
+
+
+                                       105

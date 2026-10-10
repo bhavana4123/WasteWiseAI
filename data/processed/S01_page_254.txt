@@ -1,0 +1,58 @@
+                             W d y and Tree Materials
+
+
+OAK, TURKEY; Quercus cerris; solid; Material is a tree, one of the dominant species of
+   a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown forest soil,
+   at 300 m above sea level located in the southern part of the Bukk Mountains of north
+   Hungary. Samples were dried at 85°C (185'F),  then ground and pelleted.  The ash
+   content was determined at 500°C (932'F) while the temperature was increased
+    stepwise. Ash content of trunk wood = 1.1%; trunk bark = 8.4%; branch wood = 1.3%;
+   branch bark = 8.3%; twig = 5.3%; light-adapted leaf = 5.4%; shade-adapted leaf =
+   6.2%; acorns = 2.1%; root = 4.6%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature.
+
+                     dry weight      ash-free dry         std dev.
+                          basis         weight basis          of mean
+
+   trunk wood (3 measurements)
+
+    q,(gross)  =          8523             8617            30.4   Btu Ib-I
+    q,(gross)  =          4735             4787            16.9   cal                      r1
+    qv(gross) =         1981 1            20029              70.7    J g-
+
+   trunk bark (7 measurements)
+
+    q,(gross)  =          8386             9146             43.2   Btu lb-I
+   qv(gross) =          4659             508 1            24.0    cal q-1
+    q,(gross)  =         19493            2 1259          100     J g-
+
+   branch wood (3 measurements)
+
+    q,(gross)            8395             8510            57.1   Btu lb-l
+    q,(gross)  =          4664             4728             31.7    cal
+   qv(gross)           19514            19782         133     J g -
+
+   branch bark (4 measurements)
+
+   qJgross)            7708             8404             43.2   Btu lb-I
+   qv(gross) =          4282             4669             24.0    cal
+    q,(gross)           17916            19535         100     J g-
+
+   twig (4 measurements)
+
+   qv(gross) =          8332             8807             99.2   Btu lb-I
+    q,(gross)  =          4629             4893            55.1    cal q1
+    q,(gross)  =         19368            20472         23 1     J a-
+
+    light-adapted  leaf (5 measurements)
+
+    q,(gross)            890 1             9412             41.2    Btu Ib-l
+    qv(gross)            4945             5229             22.9   ca1q-l
+    q,(gross)            20690            22878             95.8    J g-
+
+                                                                          (more)
+
+
+                                       277

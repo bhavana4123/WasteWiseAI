@@ -1,0 +1,42 @@
+Key gas turbine design characteristics are shown in Table 3-1.
+
+                Table 3-1. Gas Turbine Design Characteristics
+                     Gas turbines produce a high quality (high temperature) thermal output suitable for
+                     most combined heat and power applications. High-pressure steam can be generatedThermal output                         or the exhaust can be used directly for process drying and heating. The exhaust can
+                           also be used to produce chilled water using an absorption chiller.
+                     Gas turbines operate on natural gas, synthetic gas, landfill gas, and fuel oils. Plants
+Fuel flexibility             typically operate on gaseous fuel with a stored liquid fuel for backup to obtain the
+                             less expensive, interruptible rate for natural gas.
+                    Modern gas turbines have proven to be reliable power generators given properReliability and life                       maintenance. Time to overhaul is typically 25,000 to 50,000 hours.
+Size range             Gas turbines are available in sizes from 500 kW to over 300 MW.
+                   Many gas turbines burning gaseous fuels (mainly natural gas) feature lean premixed
+                        burners (also called dry low-NOx combustors) that produce NOx emissions below 25
+                     ppm, with laboratory data showing emissions down to 9 ppm, and simultaneous low
+Emissions           CO emissions in the 10 to 50 ppm range.40 Selective catalytic reduction (SCR) or
+                             catalytic combustion can further reduce NOx emissions. Many gas turbines sited in
+                           locales with stringent emission regulations use SCR after-treatment to achieve single-
+                              digit (below 9 ppm) NOx emissions.
+                       Because gas turbines reduce power output by reducing combustion temperature,Part-load operation                            efficiency at part load can be substantially below that of full-power efficiency.
+
+
+3.3.2 Components
+Figure 3-2 shows the primary components of a simple cycle gas turbine.
+
+               Figure 3-2. Components of Simple Cycle Gas Turbine
+
+
+
+
+
+Higher temperature and pressure ratios result in higher efficiency and specific power, or power-to-
+weight ratio. Thus, the general trend in gas turbine advancement has been towards a combination of
+
+40 Gas turbines have high oxygen content in their exhaust because they burn fuel with high excess air to limit combustion
+temperatures to levels that the turbine blades, combustion chamber and transition section can handle without compromising
+system life. Consequently, emissions from gas turbines are evaluated at a reference condition of 15 percent oxygen. For
+comparison, boilers use 3 percent oxygen as the reference condition for emissions, because they can minimize excess air and
+thus waste less heat in their stack exhaust. Note that due to the different amount of diluent gases in the combustion products,
+the NOx measurement of 9 ppm @ 15 percent oxygen is approximately equivalent to 27 ppm @ 3 percent oxygen.
+
+
+Catalog of CHP Technologies                          3–4                          Combustion Tubines

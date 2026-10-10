@@ -1,0 +1,47 @@
+                                Units and Definitions
+
+The notation  in the tables for thermodynamic quantities follows,  in general, that  in
+Combustion Fundamentah for Waste Incineration [74ASM].  In those tables values were
+reported on a molar basis.  Here, because of the lack of definite stoichiometric composi-
+tions for most of the materials included, values of the thermodynamic quantities are
+given on a specific basis, for one gram or one pound (unit mass) of substance.  Exceptions
+are noted.  The symbols used are briefly defined below; more extensive discussions are
+given in [74ASM].
+
+Air-Drying. A process of partial drying of a sample to bring its moisture content near to
+equilibrium with the atmosphere in which further reduction, division, and characteriza-
+tion of the sample are to take place.
+
+Air-Dry Loss. The decrease in sample mass due to air-drying.  This decrease is presumed
+to be moisture.
+
+Ash.  The residue remaining after ignition of a sample determined by a definite pre-
+scribed procedure.
+
+As-Received Basis. The test data calculated to the moisture condition of the sample as
+it arrived in the laboratory and before any laboratory processing or conditioning.
+
+Dry h i s .  The test data calculated to theoretical base of no moisture associated with
+the sample.
+
+Dry, Ash-Free Basis. The test data calculated to a theoretical base of no moisture or ash
+associated with the sample.
+
+Enthalpy.  The enthalpy, H,  is defined by the equation:  H = U + PV, where U  is the
+internal energy of the system, P is the pressure, and V is the volume.
+
+hthalpy Difference. See Heat Content.
+
+Gross Calorific Value. See Gross Heat of Combustion.
+
+Gross Heat of Combustion. The heat produced by combustion of one unit of substance at
+constant volume in an oxygen bomb calorimeter under specified conditions.  The condi-
+tions  are:    initial oxygen pressure of  2.0-4.0 MPa (20-40atm),  final temperature  of
+2Oo-35"C (6X0-95"F),products in the form of ash, liquid water, gaseous CO2 and N2, and
+dilute aqueous HC1 and H2S04.   I t is assumed that  if significant quantities of metallic
+elements are combusted, they are converted to their oxides.   In the case of materials
+such as coal, wood, or refuse, if small or trace amounts of metallic elements are present,
+they are unchanged during combustion and are part of the ash.
+
+
+                                           2

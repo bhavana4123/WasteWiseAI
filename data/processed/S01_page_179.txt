@@ -1,0 +1,52 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ,        I Polypeptides and Proteins
+
+
+WOOL ACETATE; solid; salt formed from reaction of wool with acetic acid; 0.30%
+    acetate.
+
+    gross heat of combustion: assume values refer to room temperature; sulfur product
+    aqueous H2S04.
+    q,(gross) = 9882 Btu Ib- 1
+    qv(gross) = 5490 cal g-'
+    q,(gross)   22970 J g-l
+
+                                                                     31 PAS/KON
+WOOL 6-NAPHTHALENE SULFONATE; solid; salt formed from reaction of wool with
+    6-naphthalenesulf onic acid; 19.9% 6-naphthalenesulf onate.
+
+   gross heat of combustion: assume values refer to room temperature; sulfur product
+   aqueous H2S04.
+
+    q,(gross)  = 9868 Btu lbil
+    qv(gross) = 5482 cal g-
+    qv(gross)  22937 J g-l
+
+                                                                    3 I PAS/KON
+
+WOOL OXALATE; solid; salt formed from reaction of wool with oxalic acid; 2.22%
+    oxalate.
+
+   gross heat of combustion: assume values refer to room temperature; sulfur product
+   aqueous H2S04.
+    q,(gross)  = 9648 Btu Ib; I
+    q,(gtoss)  = 5360 cal g-
+    q,(gtoss)  = 22426 J g-'
+
+                                                                   3 I PAS/KON
+
+WOOL PICRATE; solid; salt formed from reaction of wool with picric acid; 18.4%
+   p icr a te.
+
+   gross heat of combustion: assume values refer to room temperature; sulfur product
+   aqueous H2S04.
+    q,(gross) = 9077 Btu Ib- I
+    q,(gross) = 5043 cal g-l
+   qv(gross)  21 LOO J g-l
+
+                                                                     3 1PAS/KON
+
+
+
+
+
+                                       I96

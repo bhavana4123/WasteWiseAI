@@ -1,0 +1,50 @@
+Table 7 presents both monomeric glucose yield following enzymatic hydrolysis and the higher
+yields achieved with subsequent conversion of gluco-oligomers-to-glucose during fermentation.
+The rapid decrease in glucose concentration during fermentation relieves glucose inhibition of
+the enzyme promoting conversion of gluco-oligomers to glucose. The adjusted yield value was
+used for techno-economic modeling. As expected, cellulose-to-glucose yield decreases at lower
+enzyme loadings, so economic modeling is necessary to understand the cost tradeoffs. Good
+cellulose conversion was achieved in Run 5 and the staged enzyme addition policy may have
+produced a higher yield at the same enzyme loading used in Run 4.
+
+3.1.4 Fermentation
+A typical component concentration profile during enzymatic hydrolysis and fermentation for a
+successful run (Run 4) is shown in Figure 4. The plot shows 4 days of enzymatic hydrolysis prior
+to inoculation of the slurry at time zero. The instantaneous drop in component concentration is
+from dilution of the hydrolyzed slurry by the 10% (v/v) seed culture. Glucose is utilized very
+quickly (as expected) while xylose and arabinose are converted at slightly slower—but still
+acceptable rates—producing an ethanol titer of >70 g/L in as little as 24 h.
+
+
+                                                                      100
+
+                                              (g/L)                                     80
+
+                                                                      60
+                                                                                                              Glucose
+                                                                                                                     Xylose
+                                                                      40                              Arabinose                                                                                                                      Concentration
+                                                                                                                   Ethanol
+
+                                                                      20                                                                                  Component
+                                                                       0
+                                        -96        -72        -48        -24        0        24        48
+                                         Run Time (h)
+
+     Figure 4. Typical (Run 4 illustrated) component concentration profiles during enzymatic
+              hydrolysis and fermentation (time zero is at the start of fermentation)
+
+Figure 5 plots ethanol and lactic acid concentration profiles for each demonstration run. Runs 2,
+4, and 5 all performed well, achieving final ethanol titers of 71–76 g/L in less than 2 days. But
+lactic acid-producing bacteria were clearly present in Runs 1 and 3. Run 1 was most impacted by
+the contamination as the ethanol concentration reached only 45 g/L with over 30 g/L of lactic
+acid being produced by the contaminating bacteria. Also, more than 30 g/L of xylose remained in
+solution. Run 3 was slightly affected (7 g/L lactic acid), but 70 g/L of ethanol was still produced.
+Loss of sugars to lactic acid production, usually from a Lactobacillus bacterium (a common
+contaminant in ethanol fermentations), reduced the amount of ethanol produced.
+
+
+
+
+
+                                      14

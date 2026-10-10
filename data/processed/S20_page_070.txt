@@ -1,0 +1,48 @@
+                                                                                                                    366                                       339
+
+  Off-Gas                                                                                                                          To Ammonia
+From A310                                                                                                                                  Scrubber
+                                                                        377        378
+
+
+
+                               380                             Make-up Compressor
+                                                                                     K-355
+
+                                                                                   376        368                 385
+
+
+            351       352      353           355         362
+
+Hydrogen                                                               365
+From A400
+                                          H-351
+             Make-up Compressor                         Trim Heater
+                     K-350                               H-352
+
+
+               350             361                Hydrocracker
+                                                       R-350
+ Heavy Oil                                   370
+From A310
+
+                       P-350                                  374        372
+                                                                                        V-375
+
+                                                                                   381
+                                                               T-350 Reboiler          Air Fin Condenser                       V-380
+                                                              HX-381                H-371                                                                                                                      386
+
+                                                                                              383                             To Gasoline
+                                                                                                                                         Naphtha Splitter            Pool
+                                                                                                                                                       T-350
+A350 HYDROCRACKING                                                                                            389
+                                                                                                                                      To Diesel
+     Upgrading Plant
+                                                                                                                                                  Pool
+
+
+
+
+
+                                                             A.10

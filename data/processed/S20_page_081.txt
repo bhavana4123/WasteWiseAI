@@ -1,0 +1,64 @@
+                                                    - Equipment Cost Details
+
+
+HTL Plant:
+
+
+
+                                                                                                                                                                              Total Original
+                                                                                                                                                          Equip Cost                                                               Scaled
+                                                                                           Original                                           COST BASIS:    (Req'd &                                                                       Uninstalled
+ Equipment  Number  Number                                        Scaling    Equipment  New    stream    Size   Original Equip    Base   installed (i) or   Spare) in    Scaling    Scaled Cost Installation  Installed Cost Installed Cost   Cost in
+  Number   Required  Spares         Equipment Name             Stream   Stream Flow  Flows   flow units  Ratio   Cost (per unit)    Year      bare (b)     Base Year   Exponent   in Base Year   Factor    in Base Year     in 2014$      2014$     Ref
+
+   A 10    Feed Prep - Sludge Dewatering and Grinding
+                                                                       raw sludge
+                1
+C-10                      0     Bowl Centrifuge - GEA                          rate         26,417     29,296      gal/hr     1.11      $700,000       2016        b            $700,000         0.6       744,817          1.8      1,340,670     1,425,808     $792,115   2
+            A10 Total                                                                                                                                                                                                                              1,425,808      792,115
+
+    A100    HTL Oil Production
+P-101           1         0     Twin Screw Feeder and Feed Pump         S101             575      69   gal/min     0.12         $1,094,100   2011        b          $1,094,100        0.8        200,098          2.3       460,226       452,683     $196,819   1
+HX-100          1         0     Feed/Product Exchangers                  Area            35,540    1,284       ft2       0.04        $31,860,000   2012         b         $31,860,000        0.7       3,117,016           2.2      6,857,436     6,757,730   $3,071,695   1
+H-105           1         0     Feed Trim Heater                            duty               32.1      5.2  mmBtu/hr   0.16           $998,850   2012         b            $998,850        0.7        279,350          2.2       614,571       605,635     $275,289   1
+R-101           1         0    HTL Reactor                          S101           33,333  36,667      lb/h      1.10           $770,992 1Q 2014       b            $770,992         1        848,109          1.2       975,326       980,431     $852,549   3
+K-110           1         0     Reactor K/O Drum                      S101          304,939  36,667      lb/h      0.12         $5,700,243   2011         b          $5,700,243        0.7       1,294,010           2.0      2,588,021     2,545,601   $1,272,801   1
+                1         0     Hot Oil System                              duty              64      8.6  mmBtu/hr   0.14         $1,265,600   2011         b          $1,265,600        0.6        380,997          1.4       545,968       537,020     $374,752   1
+                                                                               capacity of
+                1         0     Dowtherm                             system          23,200    3,137      gal       0.14           $782,847   2011         b            $782,847         1        105,857          1.0       105,857       104,122     $104,122   1
+HX-102          1         0     Reactor Product Air Cooler                   duty               5.12     5.26  mmBtu/hr   1.03            $63,200 1Q 2014       b             $63,200        0.7         64,405          2.0       127,521       128,189      $64,742   3
+F-105           1         0      Solids Filter                           S101             2,420      69   gal/min     0.03         $1,017,998   2011         b          $1,017,998        0.6        120,198          1.7       204,337       200,988     $118,228   1
+V-110           1         0      Oil/Water Separator                     S101             2,420      69   gal/min     0.03         $2,653,959   2011         b          $2,653,959        0.7        219,485          2.0       438,969       431,774     $215,887   1
+H-110           1         0     Biocrude Cooler                              duty             0.170    0.181  mmBtu/hr   1.06            $63,200 1Q 2014       b             $63,200        0.7         66,008          5.4       356,442       358,308      $66,353   3
+            A100 Total                                                                                                                                                                                                                          13,102,481    6,613,237
+
+    A200    HTL Water Treatment
+CL-215          1         0     Lime Softening                        S101           34,000  36,667      lb/hr      1.08           $410,100 1Q2014       b            $410,100      0.65        430,730          2.4      1,033,752     1,039,163     $432,985   5
+T-220           1         0    Ammonia Stripping                     S101           34,000  36,667      lb/hr      1.08           $596,800 1Q2014       b            $596,800      0.65        626,822          2.4      1,504,373     1,512,248     $630,103   5
+TX-230          1         0    THROX Unit                           S101           34,000  36,667      lb/hr      1.08           $210,900 1Q2014       b            $210,900      0.65        221,509          2.4        531,622       534,405     $222,669   5
+              A200                                                                                                        $542,000                                                                                                         $3,085,816   $1,285,757
+
+    A700   OSBL - including cooling water system
+
+                1         0     Cooling Tower System (packaged)            circ rate            150      18   gal/min    0.12             $5,900 1Q 2014       b               $5,900        0.6          1,659        10.1         16,756        16,844       $1,668   3
+                1         1     Cooling Water Pump                            circ rate             16      18   gal/min    1.13             $4,400 1Q 2014       b               $8,800        0.6          9,477          4         37,907        38,105       $9,526   3
+                1         0      Plant Air Compressor                 S101 - dry          2,205     110   ton/day     0.05            $87,922   2007         b             $87,922        0.3         35,770        1.57         56,158        61,577      $39,221   4
+                1         0      Firewater Pump                      S101 - dry          2,205     110   ton/day     0.05            $23,043   2007         b             $23,043        0.3          9,375          3.7         34,686        38,033      $10,279   4
+                1         0      Instrument Air Dryer                   S101 - dry          2,205     110   ton/day     0.05             $8,349   2002         b               $8,349        0.6          1,382        2.47          3,413         4,971       $2,012   4
+                1         0      Plant Air Receiver                    S101 - dry          2,205     110   ton/day     0.05            $21,005   2007         b             $21,005       0.65          2,993        5.44         16,280        17,851       $3,281   4
+                1         0      Firewater Storage Tank                S101 - dry          2,205     110   ton/day     0.05           $229,900   2007         b            $229,900       0.65         32,755        1.46         47,822        52,437      $35,916   4
+                1                Biocrude Storage - 3 day                 S136           31,719  34,419      gal       1.09           $280,900 1Q 2014       b            $280,900      0.65        296,216          1.3        385,081       387,097     $297,767   3
+            A700 Total                                                                                                                        Subtotal                                                                                     $616,915     $399,671
+
+                               References                                                                                                                                                              Total Equipment Cost                 $18,231,020   $9,090,780
+                              1 Knorr et al. 2013
+                              2 Vendor Budget Estimate
+                              3 Aspen Capital Cost Estimator, 8.8
+                              4 Dutta et al. 2011
+                              5 Aspen Process Economic Analyzer, V.8.8
+
+
+
+
+
+                                                             B.1

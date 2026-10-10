@@ -1,0 +1,39 @@
+FGD systems are of two types: non-regenerable and regenerable. The most common non-regenerable
+results in a waste product that requires proper disposal. Regenerable FGD converts the waste product
+into a product that is saleable, such as sulfur or sulfuric acid. SOx emissions reductions of up to 95
+percent can be obtained with FGD.
+
+4.6   Future Developments
+While steam turbines are a mature technology, their importance in worldwide power generation makes
+incremental improvements in cost and performance very beneficial. Higher efficiencies reduce fuel
+consumption, emissions of air pollutants and greenhouse gases, and cooling water requirements. Since
+commercial introduction, efficiencies for large condensing steam turbines have increased from the mid-
+teens to up to 48 percent. The U.S. Department of Energy funds collaborative research and development
+toward the development of improved ultra-supercritical (USC) steam turbines capable of efficiencies of
+55-60 percent that are based on boiler tube materials that can withstand pressures of up to 5,000 psi
+and temperatures of 1,400o F. To achieve these goals, work is ongoing in materials, internal design and
+construction, steam valve development, and design of high pressure casings. A prototype is targeted for
+commercial testing by 2025.82
+
+Research is also underway to restore and improve the performance of existing steam turbines in the
+field through such measures as improved combustion systems for boilers, heat transfer and
+aerodynamics to improve turbine blade life and performance, and improved materials to permit longer
+life and higher operating temperatures for more efficient systems.83
+
+The focus on renewable markets, such as waste heat recovery, biomass fueled power, and CHP plants, is
+stimulating the demand for small and medium steam turbines. Technology and product development for
+these markets should bring about future improvements in steam turbine efficiency, longevity, and cost.
+This could be particularly true for systems below 500 kW that are used in developmental small biomass
+systems, and in waste-heat-to-power systems, as the latter is designed to operate in place of pressure
+reduction valves in commercial and industrial steam systems operating at multiple pressures.
+
+
+
+
+
+82 Advanced Turbines Technology Program Plan, National Energy Technology Laboratory, Clean Coal Research Program, U.S.
+Department of Energy, January 2013.
+83 Energy Tech, http://www.energy-tech.com/article.cfm?id=17566
+
+
+Catalog of CHP Technologies                         4–19                           Steam Turbines

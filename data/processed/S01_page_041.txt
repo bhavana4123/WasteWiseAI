@@ -1,0 +1,56 @@
+Alloys and Metals
+
+
+CONSTANTAN, solid; composition range centering on 55 wt. % copper and 45 wt. %
+    nickel.
+
+   specific heat: values refer to specific alloy; 60 wt. % Cu and 40 wt. % Ni; the other
+   constantans should have specific heat within 5% of the following values.
+
+    tern erature
+    (KP  (OF)        Cp(Btu lb-I  OF-')        Cp(cal g-l K - ~ )    Cp(J g-1 K -1 )
+
+     1   -457.6               0.000026               0.000026            0.0001 1
+    50   -369.4                 0.020                    0.020               0.023
+   100   -279.4                 0.057                   0.057               0.283
+   200   - 99.4                0.87                     0.87                 0.362
+
+                                                        40KEE/KUR
+
+COPPER; solid; atomic number, 29; atomic wt., 63.546; density, 9.92 g cmd3
+   (556.9 lb ft-').
+   gross heat of cornbustion: q (gross) is equal to the enthalpy of combustion, AH^0 at
+                           P
+   25°C (77°F); product of combustion is cuprous oxide, Cu20.
+
+   q (gross) = 570.7 Btu lb;'
+  qP(gross) = 317.1 cal g-
+   qp(gross) = 1326.6 J g-l    P
+                                                       82WAGlEVA
+
+   specific heat:
+
+
+
+    298    77                0.0922                 0.0922              0.386
+    500   441                 0.097 1                 0.0971              0.406
+    700   801               0.1018                 0.1018              0.426
+
+   heat of fusion: at the melting point 1084°C (1983°F).
+                1  Lf = 88.4 Btu Ib;
+   Lf   49.1 cal g-
+  If= 205.4 J g-l
+
+   heat of vaporization: at the boiling point 2573°C (4663°F).
+
+    L, = 2057 Btu Ib-'
+   I,   1143 cal
+    L, = 4780 J
+
+                                                                            (more)
+
+
+
+
+
+                                        38

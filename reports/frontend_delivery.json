@@ -1,0 +1,57 @@
+{
+  "executed_at": "2026-10-09T09:39:14.866658+00:00",
+  "reference_image_present_and_inspected": true,
+  "frontend_files_created": [
+    "frontend/.env.example",
+    "frontend/.gitignore",
+    "frontend/README.md",
+    "frontend/index.html",
+    "frontend/package-lock.json",
+    "frontend/package.json",
+    "frontend/playwright.config.ts",
+    "frontend/public/favicon.svg",
+    "frontend/src/App.tsx",
+    "frontend/src/api.ts",
+    "frontend/src/catalog.ts",
+    "frontend/src/components/CityScene.tsx",
+    "frontend/src/components/Results.tsx",
+    "frontend/src/components/Timeline.tsx",
+    "frontend/src/main.tsx",
+    "frontend/src/styles.css",
+    "frontend/tests/dashboard.spec.ts",
+    "frontend/tsconfig.json",
+    "frontend/vite.config.ts"
+  ],
+  "versions": {
+    "react": "19.3.0",
+    "vite": "6.4.4",
+    "typescript": "5.7.3",
+    "three": "0.175.0",
+    "@react-three/fiber": "9.8.1",
+    "@react-three/drei": "10.7.9",
+    "tailwindcss": "4.3.3",
+    "lucide-react": "0.468.0",
+    "@playwright/test": "1.64.0"
+  },
+  "typescript_check": "PASSED",
+  "production_build": "PASSED",
+  "build_warnings": [
+    "3D vendor chunk 1132.27 kB minified / 315.10 kB gzip exceeds Vite chunk warning threshold."
+  ],
+  "browser_tests": {
+    "passed": 14,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 204.61
+  },
+  "python_tests": {
+    "passed": 236,
+    "failed": 0
+  },
+  "scientific_csv_hashes_unchanged": true,
+  "engine_python_hashes_unchanged": true,
+  "protected_files": 25,
+  "aws_deployment_performed": false,
+  "external_predictive_validation": "NOT_VALIDATED",
+  "electricity_heat_forecasts": "BLOCKED"
+}

@@ -1,0 +1,51 @@
+                                                                     Alloys and Metals
+
+
+
+CHROMIUM; solid; atomic number, 24; atomic wt., 51.9961; density, 7.2 g CIII- ~
+    (449.5 lb ft-3).
+   gross heat of combustion: q (gross) is equal t o the enthalpy of combustion, -AHc0 at
+                            P
+   25°C (77°F); product of combustion is Cr203.
+   qp(gross) = 4715 Btu lb; 1
+   q (gross) = 2619 cal    P                  sfi   q (gross) = 10959 J g    P
+                                                        82WAG/EVA
+
+   specific heat:
+
+   tern erature
+                                                       -1 K-l)
+    (KP     ( O F )         Cp(Btu lb-l "FA')       Cp(cal g           Cp(3 g-l K-l)
+
+    298    77                 0.107                   0.107                0.449
+    500   441                 0.123                   0.123                   0.5 15
+    700   801                 0.128                   0.128                0.538
+
+   heat of fusion: at the melting point 1903°C (3457°F).
+
+   Lf = 170 Btu 1P-l
+   Lf = 96 cal g-
+   Lf = 400 J g-l
+
+   heat of vaporization: at the boiling point 2665°C (4829OF).
+                  1    L,  = 2814 Btu lb-
+    L, = 1563 cal
+    L, = 6542 J
+
+   vapor pressure:
+
+    tern erature
+   C0CP  (OF)         P(atrn)         P(Pd           Npsi)
+   1252  2286       1o-36                                                  0.1           1.470 x
+   1711  3112       1o-2              101.3           1.470 x  lo-:
+   1937  3519                        1013.3           1.470 x 10-
+   2250  4082         10-           10132.5           1.470
+   2665  4829              I .o         101325.           14.696
+
+                                                        63HUL/ORR
+
+
+
+
+
+                                        37

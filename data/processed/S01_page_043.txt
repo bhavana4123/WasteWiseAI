@@ -1,0 +1,53 @@
+Alloys and Metals
+
+
+INCONEL, ANNEALED; solid; composition: carbon, 0.04 wt. 96; manganese, 0.35 wt. %;
+    silicon, 0.20 wt. %; chromium, 15 wt. %; nickel, 78 wt. %; iron, 7.00 wt. %.
+
+   specific heat: -120O to 982'C (-184'  to 1800OF)
+
+  C (Btu Lb-I O F - ' )     = 0.0967 + 7.366 x    T - 6.724 x     T2 + 2.846  x 10- I 1 T3     P
+                OC-')     = 0.099 + 1.25 x lod4 T - 2.09 x    T2 + 1.66 x 10- 10 T3   Cp(cal 5
+   Cp(3 g-  "C-')     = 0.414 + 523 x     T - 8.74  x     T2 +- 6.95 x 10- 10 T3
+
+                                                       58LUC/DEE
+INCONEL "X";solid; composition:  carbon, 0.04 wt. %; manganese, 0.70 wt. %; silicon,
+    0.30 wt. 96; chromium, 15.00 wt. 94; nickel, 73.00 wt. %; iron, 7.00 wt. %; niobium,
+    1.00 wt. %; titanium, 2.50 wt. 96; aluminum, 0.9 wt. %.
+
+   specific heat: -120" to 982°C (-184O to 1800'F)
+   Cp(Btu lb-I  OF-')      0.09775 + 7.284 x    T - 8.098 x 10" T2 + 3.978 x 10- 1 1 T 3
+                                                                   10 T3   Cp(cal 5 -I 0c-l)   = 0.100 + 1.22     T - 2.50      T~ + 2.32    10-
+   Cp(J g-  "C-I)      = 0.418 + 5.10 x    T - 10.5  x    T2 + 9.71 x 10- 10 *3
+
+                                                       58LUC/DEE
+IRON; solid; atomic number, 26; atomic wt., 55.847; density, 7.86 g cm-3 (490.7 lb ft-3).
+
+   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, -AHc0 at
+                           P   25OC (77°F); product of combustion is hematite, Fe203.
+
+    qp(gross) = 3175 Btu Ib-'
+   q (gross) = 1764 cal    P
+   q (gross) = 7379 J    P
+                                                       82WAG/EVA
+
+    specific heat:
+
+
+
+    298    77                 0.107                   0.107               0.450
+    500   441                0.126                   0. I26               0.526
+    700   801                 0.148                   0.148                0.617
+
+   heat of fusion: at the melting point 1536°C (2797OF).
+
+    Lf = 117.0 Btu 1 -I   Lf = 65.0 cal g- P
+    Lf = 272.0 J g-'
+
+                                                                          (more)
+
+
+
+
+
+                                         40

@@ -1,0 +1,51 @@
+                                                                      Alloys and Metals
+
+
+
+MERCURY; liquid. atomic number, 80; atomic wt., 200.59; density, 13.5939 g C K I - ~
+   (848.667 lb ft-').
+                                                                        0   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, -AHc at
+                          P  .  .   25°C (77'F);  product of combustion IS red, orthorhombic mercuric oxide, HgO.
+                            1   q (gross) = 194.8 Btu lb-    P
+   q (gross) = 108.2 cal    P
+   q (gross) = 452.8 J    P
+
+
+   specific heat:
+
+
+
+    298    77                0.0333                  0.0333               0.140
+    500   441                 0.0323                  0.0323                0.135
+    600   621                0.0323                 0.0323                0.135
+
+   heat of fusion: at the melting point -38.86"C  (-37.95"F).
+
+   Lf = 4.922 Btu lb-I
+   Lf = 2.735 cal
+                    5-l   Lf = 11.44 J g-
+
+   heat of vaporization: at the boiling point 35638°C (673.84'F).
+
+    L,  = 127.16 Btu lb-'
+     L,  = 70.644 cal
+    L, = 295.57 J
+
+   vapor pressure:
+
+    tern  rature
+   (OCY  (OF)     P(atm)         Npa)           Npsi)
+
+    14.17   57.51                         0.I            1.470 x 10-z
+   120.21  248.38                         101.3            1.470 x
+   175.98  348.76                       1013.3            1.470 x 10-
+   250.78  483.40      10-           10 132.5            1.470
+   356.58  673.84       1.o         101325.           14.696
+
+                                                        63HUL/ORR
+
+
+
+
+
+                                     43

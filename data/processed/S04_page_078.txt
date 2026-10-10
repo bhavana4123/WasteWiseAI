@@ -1,0 +1,31 @@
+same time its pressure decreases, just as in the nozzles formed by the fixed blades. The competitive
+merits of these designs are the subject of business competition, as both designs have been sold
+successfully for well over 75 years.
+
+          Figure 4-2. Comparison of Impulse and Reaction Turbine Design
+
+
+
+
+
+                 Source: Electropaedia, http://www.mpoweruk.com/steam_turbines.htm
+
+The stationary nozzles accelerate the steam to high velocity by expanding it to lower pressure. A
+rotating bladed disc changes the direction of the steam flow, thereby creating a force on the blades that,
+because of the wheeled geometry, manifests itself as torque on the shaft on which the bladed wheel is
+mounted. The combination of torque and speed is the output power of the turbine. A reduction gear
+may be utilized to reduce the speed of the turbine to the required output speed for the generator.
+
+The internal flow passages of a steam turbine are very similar to those of the expansion section of a gas
+turbine (indeed, gas turbine engineering came directly from steam turbine design around 100 years
+ago). The main differences are gas density, molecular weight, isentropic expansion coefficient, and to a
+lesser extent, the viscosity of the two fluids.
+
+Compared to reciprocating steam engines of comparable size, steam turbines rotate at much higher
+rotational speeds, which contribute to their lower cost per unit of power developed. In addition, the
+inlet and exhaust valves in reciprocating steam engines cause steam pressure losses that don’t
+contribute to power output. Such losses do not occur in steam turbines. As a result of these design
+
+
+
+Catalog of CHP Technologies                          4–5                            Steam Turbines

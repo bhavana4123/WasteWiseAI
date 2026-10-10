@@ -1,0 +1,39 @@
+Woody and Tree Materials                                                               I
+
+
+OAK; Quercus peduncutata; solid; ultimate analysis: carbon, 50.16%; hydrogen, 6.02%;
+    nitrogen, 0.09%; ash, 0.37%.
+
+   gross heat of combustion: 2OoC (68°F); air-dried at 110"-115°C (230"-240"F); ash
+    free.
+
+   qv(gross) = 8296 Btu lbll
+   qv(gross) = 4609 cal g-
+    q,(gross) = 19284 J g-l
+
+   species not identified; room temperature; air-dried one hour at 105°C (222 OF).
+                     1    q,(gross)   8562 Btu lb-
+    q,(gross) = 4756 cal g-l
+    q,(gross) = 19899 J g-'
+
+                                                         22PAR/DAV
+
+OAK, BLACK; DEAD FOLIAGE; Quercus velutina; The litter was air dried at room
+   temperature. Composition is ash = 3.46% and char yield  28.9%. Char was obtained
+   from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                                1                                   1    q,(gross) = 9150 Btu lb-                      q,(gross) = 13290 Btu lb-
+    q,(gross) = 5080 cal g-'                       q,(gross) = 7380 cal g-l
+    q,(gross) = 2 1270 J g-l                       q,(gross) = 30880 J g-l
+
+                                                                  82SUS
+
+
+
+
+
+                                        27 2

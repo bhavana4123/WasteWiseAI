@@ -1,0 +1,526 @@
+[
+  {
+    "request": {
+      "waste_category": "Wood and forestry waste",
+      "waste_subtype": "Dry wood reference",
+      "quantity_kg": 100,
+      "moisture_pct": 10,
+      "technology": "Pyrolysis",
+      "desired_output": "bio-oil",
+      "parameter_id": "P0022",
+      "reference_mode": true
+    },
+    "http_status": 200,
+    "response": {
+      "input_waste_details": {
+        "waste_category": "Wood and forestry waste",
+        "waste_subtype": "Dry wood reference",
+        "quantity": 100.0,
+        "unit": "kg",
+        "moisture_pct": 10.0,
+        "desired_output": "bio-oil",
+        "technology_preference": "Pyrolysis",
+        "parameter_id": "P0022",
+        "property_id": null,
+        "reference_mode": true,
+        "mass_kg": 100.0
+      },
+      "technology": "Pyrolysis",
+      "feasibility_status": "conditional",
+      "calculation_status": "CALCULATED_REFERENCE",
+      "energy_output_type": "bio-oil",
+      "calculated_value": 67.5,
+      "unit": "kg liquid pyrolysis product including water",
+      "gross_vs_net_classification": "intermediate_product_quantity",
+      "formula": "wet_mass_kg*(1-moisture_pct/100)*product_mass_yield_pct/100",
+      "parameters": [
+        {
+          "name": "moisture_pct",
+          "value": 10.0,
+          "unit": "% wet mass",
+          "origin": "user"
+        },
+        {
+          "record_id": "P0022",
+          "name": "Liquid product yield",
+          "field": "value_typical",
+          "value": 75.0,
+          "unit": "% dry feed mass",
+          "measurement_basis": "dry wood mass",
+          "operating_conditions": "fast; around 500 degC; hot vapour residence approximately 1 s",
+          "source_id": "S07"
+        }
+      ],
+      "source_ids": [
+        "S07"
+      ],
+      "assumptions": [
+        "User moisture is wet-basis mass percent; user feed characterization is not source-verified.",
+        "Published reference scenario only; linear mass accounting under the stated study conditions, not equipment sizing or a plant forecast."
+      ],
+      "missing_parameters": [],
+      "uncertainty": {
+        "moisture_sensitivity": "Holding reference yield constant, dry-mass accounting changes by -1/(100-moisture_pct) of its value per percentage-point moisture increase, away from 100%. This is not a process moisture-response model.",
+        "statistical": "No confidence interval provided; reference yields are not uncertainty bounds."
+      },
+      "warnings": [
+        "Feed equivalence, preprocessing, reactor conditions and scale have not been established for an operating installation.",
+        "Calculated liquid includes water; not pure organic oil, upgraded transport fuel or an energy value."
+      ],
+      "limitations": [
+        "Controlled oxygen-free industrial reactor; confirm contamination and product suitability",
+        "Drying and size reduction as specified by reactor",
+        "Qualitative tested-feedstock evidence; generic wood yields cannot be transferred to these waste types.",
+        "Emissions control; contaminated sludge/leather requires contaminant assessment",
+        "Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+        "Published-reference accounting only; no equipment-qualified operating forecast.",
+        "External predictive validation has not been achieved.",
+        "Three historical gas-table energy discrepancies remain unresolved: runs 920, 924, 1110.",
+        "Electricity and useful heat forecasts remain blocked.",
+        "Equipment moisture feasibility is UNKNOWN where documented limits are missing."
+      ],
+      "intermediate_products": [],
+      "evidence": [
+        {
+          "dataset": "technology_mapping",
+          "record_id": "M0013",
+          "field": "mapping_evidence",
+          "evidence_location": "PDF page 6; bark"
+        },
+        {
+          "record_id": "P0022",
+          "field_name": "value_typical",
+          "source_id": "S07",
+          "evidence_location": "data/processed/S07_page_005.txt; PDF page 5; Table 1: Typical",
+          "evidence_file": "data/processed/S07_page_005.txt",
+          "conversion_formula": "identity",
+          "original_value": "75",
+          "original_unit": "% dry feed mass",
+          "converted_value": "75",
+          "converted_unit": "% dry feed mass"
+        }
+      ],
+      "scenario_id": "P0022",
+      "errors": [],
+      "feasibility_checks": {},
+      "source_references": [
+        {
+          "source_id": "S07",
+          "organization": "IEA Bioenergy",
+          "publication_title": "IEA Bioenergy Annual Report 2006",
+          "publication_year": "2007",
+          "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/iea_annual_2006.pdf",
+          "license": "Publicly accessible; no explicit open-data redistribution license identified",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+          "verification_status": "verified"
+        }
+      ],
+      "dataset_issues": [
+        "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+        "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+      ],
+      "explanation": "Published reference accounting under stated conditions; not a plant forecast."
+    }
+  },
+  {
+    "request": {
+      "waste_category": "Wood and forestry waste",
+      "waste_subtype": "Dry wood reference",
+      "quantity_kg": 100,
+      "moisture_pct": 10,
+      "technology": "Pyrolysis",
+      "desired_output": "bio-oil",
+      "parameter_id": "P0022",
+      "reference_mode": false
+    },
+    "http_status": 200,
+    "response": {
+      "input_waste_details": {
+        "waste_category": "Wood and forestry waste",
+        "waste_subtype": "Dry wood reference",
+        "quantity": 100.0,
+        "unit": "kg",
+        "moisture_pct": 10.0,
+        "desired_output": "bio-oil",
+        "technology_preference": "Pyrolysis",
+        "parameter_id": "P0022",
+        "property_id": null,
+        "reference_mode": false,
+        "mass_kg": 100.0
+      },
+      "technology": "Pyrolysis",
+      "feasibility_status": "conditional",
+      "calculation_status": "INSUFFICIENT_DATA",
+      "energy_output_type": "bio-oil",
+      "calculated_value": null,
+      "unit": null,
+      "gross_vs_net_classification": "not_calculated",
+      "formula": null,
+      "parameters": [
+        {
+          "name": "moisture_pct",
+          "value": 10.0,
+          "unit": "% wet mass",
+          "origin": "user"
+        },
+        {
+          "record_id": "P0022",
+          "name": "Liquid product yield",
+          "field": "value_typical",
+          "value": 75.0,
+          "unit": "% dry feed mass",
+          "measurement_basis": "dry wood mass",
+          "operating_conditions": "fast; around 500 degC; hot vapour residence approximately 1 s",
+          "source_id": "S07"
+        }
+      ],
+      "source_ids": [
+        "S07"
+      ],
+      "assumptions": [
+        "User moisture is wet-basis mass percent; user feed characterization is not source-verified."
+      ],
+      "missing_parameters": [
+        "Equipment-specific feedstock validation, capacity, operating duration and scale applicability; use reference_mode only for published reference scenarios"
+      ],
+      "uncertainty": {
+        "moisture_sensitivity": "Holding reference yield constant, dry-mass accounting changes by -1/(100-moisture_pct) of its value per percentage-point moisture increase, away from 100%. This is not a process moisture-response model."
+      },
+      "warnings": [],
+      "limitations": [
+        "Controlled oxygen-free industrial reactor; confirm contamination and product suitability",
+        "Drying and size reduction as specified by reactor",
+        "Qualitative tested-feedstock evidence; generic wood yields cannot be transferred to these waste types.",
+        "Emissions control; contaminated sludge/leather requires contaminant assessment",
+        "Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+        "Published-reference accounting only; no equipment-qualified operating forecast.",
+        "External predictive validation has not been achieved.",
+        "Three historical gas-table energy discrepancies remain unresolved: runs 920, 924, 1110.",
+        "Electricity and useful heat forecasts remain blocked.",
+        "Equipment moisture feasibility is UNKNOWN where documented limits are missing."
+      ],
+      "intermediate_products": [],
+      "evidence": [
+        {
+          "dataset": "technology_mapping",
+          "record_id": "M0013",
+          "field": "mapping_evidence",
+          "evidence_location": "PDF page 6; bark"
+        },
+        {
+          "record_id": "P0022",
+          "field_name": "value_typical",
+          "source_id": "S07",
+          "evidence_location": "data/processed/S07_page_005.txt; PDF page 5; Table 1: Typical",
+          "evidence_file": "data/processed/S07_page_005.txt",
+          "conversion_formula": "identity",
+          "original_value": "75",
+          "original_unit": "% dry feed mass",
+          "converted_value": "75",
+          "converted_unit": "% dry feed mass"
+        }
+      ],
+      "scenario_id": "P0022",
+      "errors": [],
+      "feasibility_checks": {},
+      "source_references": [
+        {
+          "source_id": "S07",
+          "organization": "IEA Bioenergy",
+          "publication_title": "IEA Bioenergy Annual Report 2006",
+          "publication_year": "2007",
+          "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/iea_annual_2006.pdf",
+          "license": "Publicly accessible; no explicit open-data redistribution license identified",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+          "verification_status": "verified"
+        }
+      ],
+      "dataset_issues": [
+        "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+        "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+      ],
+      "explanation": "Equipment-specific feedstock validation, capacity, operating duration and scale applicability; use reference_mode only for published reference scenarios"
+    }
+  },
+  {
+    "request": {
+      "waste_category": "Wood and forestry waste",
+      "waste_subtype": "Dry wood reference",
+      "quantity_kg": 100,
+      "moisture_pct": 10,
+      "technology": "Pyrolysis",
+      "desired_output": "electricity",
+      "parameter_id": "P0022",
+      "reference_mode": true
+    },
+    "http_status": 200,
+    "response": {
+      "input_waste_details": {
+        "waste_category": "Wood and forestry waste",
+        "waste_subtype": "Dry wood reference",
+        "quantity": 100.0,
+        "unit": "kg",
+        "moisture_pct": 10.0,
+        "desired_output": "electricity",
+        "technology_preference": "Pyrolysis",
+        "parameter_id": "P0022",
+        "property_id": null,
+        "reference_mode": true,
+        "mass_kg": 100.0
+      },
+      "technology": "Pyrolysis",
+      "feasibility_status": "conditional",
+      "calculation_status": "INSUFFICIENT_DATA",
+      "energy_output_type": "electricity",
+      "calculated_value": null,
+      "unit": null,
+      "gross_vs_net_classification": "not_calculated",
+      "formula": null,
+      "parameters": [],
+      "source_ids": [
+        "S07"
+      ],
+      "assumptions": [],
+      "missing_parameters": [
+        "Product heating values / qualified utilization equipment",
+        "Energy and auxiliary consumption boundary"
+      ],
+      "uncertainty": {},
+      "warnings": [],
+      "limitations": [
+        "Controlled oxygen-free industrial reactor; confirm contamination and product suitability",
+        "Drying and size reduction as specified by reactor",
+        "Qualitative tested-feedstock evidence; generic wood yields cannot be transferred to these waste types.",
+        "Emissions control; contaminated sludge/leather requires contaminant assessment",
+        "Published-reference accounting only; no equipment-qualified operating forecast.",
+        "External predictive validation has not been achieved.",
+        "Three historical gas-table energy discrepancies remain unresolved: runs 920, 924, 1110.",
+        "Electricity and useful heat forecasts remain blocked.",
+        "Equipment moisture feasibility is UNKNOWN where documented limits are missing."
+      ],
+      "intermediate_products": [],
+      "evidence": [
+        {
+          "dataset": "technology_mapping",
+          "record_id": "M0013",
+          "field": "mapping_evidence",
+          "evidence_location": "PDF page 6; bark"
+        }
+      ],
+      "scenario_id": null,
+      "errors": [],
+      "feasibility_checks": {},
+      "source_references": [
+        {
+          "source_id": "S07",
+          "organization": "IEA Bioenergy",
+          "publication_title": "IEA Bioenergy Annual Report 2006",
+          "publication_year": "2007",
+          "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/iea_annual_2006.pdf",
+          "license": "Publicly accessible; no explicit open-data redistribution license identified",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+          "verification_status": "verified"
+        }
+      ],
+      "dataset_issues": [
+        "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+        "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+      ],
+      "explanation": "Product heating values / qualified utilization equipment; Energy and auxiliary consumption boundary"
+    }
+  },
+  {
+    "request": {
+      "waste_category": "Wood and forestry waste",
+      "waste_subtype": "Wood chips, Walawender 1985 run 98",
+      "quantity_kg": 100,
+      "moisture_pct": 16.52,
+      "technology": "Gasification",
+      "desired_output": "syngas",
+      "parameter_id": "P0056",
+      "reference_mode": true
+    },
+    "http_status": 200,
+    "response": {
+      "input_waste_details": {
+        "waste_category": "Wood and forestry waste",
+        "waste_subtype": "Wood chips, Walawender 1985 run 98",
+        "quantity": 100.0,
+        "unit": "kg",
+        "moisture_pct": 16.52,
+        "desired_output": "syngas",
+        "technology_preference": "Gasification",
+        "parameter_id": "P0056",
+        "property_id": null,
+        "reference_mode": true,
+        "mass_kg": 100.0
+      },
+      "technology": "Gasification",
+      "feasibility_status": "conditional",
+      "calculation_status": "CALCULATED_REFERENCE",
+      "energy_output_type": "syngas",
+      "calculated_value": 185.32560000000004,
+      "unit": "m3 dry producer gas (source T/P unspecified)",
+      "gross_vs_net_classification": "intermediate_product_quantity",
+      "formula": "wet_mass_kg*(1-moisture_pct/100)*gas_yield_m3_per_kg_dry",
+      "parameters": [
+        {
+          "name": "moisture_pct",
+          "value": 16.52,
+          "unit": "% wet mass",
+          "origin": "user"
+        },
+        {
+          "record_id": "P0056",
+          "name": "Dry producer gas volume yield",
+          "field": "value_typical",
+          "value": 2.22,
+          "unit": "m3 gas/kg dry chips",
+          "measurement_basis": "dry chips denominator; dry gas volume; reference temperature/pressure not stated in table",
+          "operating_conditions": "Table 7-8 run 98; dry chip rate 26.7 kg/h; chip moisture 16.52% wet basis; temperature not given in table",
+          "source_id": "S02"
+        },
+        {
+          "record_id": "P0055",
+          "name": "Dry producer gas HHV",
+          "field": "value_typical",
+          "value": 5.33,
+          "unit": "MJ/m3 dry gas (source reference conditions)",
+          "measurement_basis": "dry gas; gas reference temperature/pressure not stated in table",
+          "operating_conditions": "Table 7-8 run 98; dry chip rate 26.7 kg/h; chip moisture 16.52% wet basis; temperature not given in table",
+          "source_id": "S02"
+        }
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "assumptions": [
+        "User moisture is wet-basis mass percent; user feed characterization is not source-verified.",
+        "Published reference scenario only; linear mass accounting under the stated study conditions, not equipment sizing or a plant forecast."
+      ],
+      "missing_parameters": [],
+      "uncertainty": {
+        "moisture_sensitivity": "Holding reference yield constant, dry-mass accounting changes by -1/(100-moisture_pct) of its value per percentage-point moisture increase, away from 100%. This is not a process moisture-response model.",
+        "statistical": "No confidence interval provided; reference yields are not uncertainty bounds."
+      },
+      "warnings": [
+        "Gasifier moisture feasibility is unknown; no default moisture threshold or equipment operating range is applied.",
+        "Feed equivalence, preprocessing, reactor conditions and scale have not been established for an operating installation.",
+        "Output is dry producer gas at the publication\u2019s unspecified temperature/pressure; it is not Nm3, biomethane or electricity."
+      ],
+      "limitations": [
+        "Fuel-specific gasifier trials; controlled particle size and ash behaviour",
+        "Chipping/chopping or densification; remove fines and dirt",
+        "Ash slagging, tar, CO toxicity and combustible gas hazards; not a universal feedstock route.",
+        "Permitted industrial equipment and emissions controls",
+        "Run/column assignment visually inspected in rendered original; cited experiment reproduced by NREL handbook. Temperature and gas normalization require primary-paper follow-up.",
+        "Published-reference accounting only; no equipment-qualified operating forecast.",
+        "External predictive validation has not been achieved.",
+        "Three historical gas-table energy discrepancies remain unresolved: runs 920, 924, 1110.",
+        "Electricity and useful heat forecasts remain blocked.",
+        "Equipment moisture feasibility is UNKNOWN where documented limits are missing."
+      ],
+      "intermediate_products": [
+        {
+          "name": "recoverable_producer_gas_chemical_energy_reference",
+          "value": 987.7854480000002,
+          "unit": "MJ HHV",
+          "formula": "wet_mass_kg*(1-moisture_pct/100)*same_run_gas_yield*same_run_gas_HHV",
+          "classification": "recoverable_fuel_energy",
+          "boundary": "Gas energy before downstream utilization; no electricity or drying-energy deduction."
+        }
+      ],
+      "evidence": [
+        {
+          "dataset": "technology_mapping",
+          "record_id": "M0012",
+          "field": "mapping_evidence",
+          "evidence_location": "PDF page 24; mill ends"
+        },
+        {
+          "record_id": "P0056",
+          "field_name": "value_typical",
+          "source_id": "S02",
+          "evidence_location": "data/processed/S02_page_076.txt; PDF page 76; Table 7",
+          "evidence_file": "data/processed/S02_page_076.txt",
+          "conversion_formula": "identity",
+          "original_value": "2.22",
+          "original_unit": "m3 gas/kg dry chips",
+          "converted_value": "2.22",
+          "converted_unit": "m3 gas/kg dry chips"
+        },
+        {
+          "record_id": "P0055",
+          "field_name": "value_typical",
+          "source_id": "S02",
+          "evidence_location": "data/processed/S02_page_076.txt; PDF page 76; Table 7",
+          "evidence_file": "data/processed/S02_page_076.txt",
+          "conversion_formula": "identity",
+          "original_value": "5.33",
+          "original_unit": "MJ/m3",
+          "converted_value": "5.33",
+          "converted_unit": "MJ/m3"
+        }
+      ],
+      "scenario_id": "P0056",
+      "errors": [],
+      "feasibility_checks": {
+        "moisture_feasibility": {
+          "status": "UNKNOWN",
+          "equipment_specific_limits": null,
+          "source_ids": [],
+          "reason": "No verified equipment-specific moisture operating limits are available. A published run moisture is a reference observation, not a permitted operating range."
+        },
+        "reference_run_moisture": {
+          "value": 16.52,
+          "unit": "% wet mass",
+          "kind": "published_point_observation_not_equipment_limit",
+          "source_id": "S02",
+          "record_id": "P0056",
+          "evidence_location": "PDF page 76; Table 7"
+        }
+      },
+      "source_references": [
+        {
+          "source_id": "S02",
+          "organization": "SERI / NREL (now NLR)",
+          "publication_title": "Handbook of Biomass Downdraft Gasifier Engine Systems",
+          "publication_year": "1988",
+          "source_url": "https://www.nlr.gov/docs/legosti/old/3022.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/gasifier_handbook_3022.pdf",
+          "license": "Publicly accessible US government laboratory report; underlying cited data may retain third-party rights",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.nlr.gov/docs/legosti/old/3022.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "1b7ade7b865b1fccaab471a3e985c9bdb96a5a4690fe14783473a44d5f21db46",
+          "verification_status": "verified"
+        }
+      ],
+      "dataset_issues": [
+        "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+        "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+      ],
+      "explanation": "Published reference accounting under stated conditions; not a plant forecast."
+    }
+  }
+]

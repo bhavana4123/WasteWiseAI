@@ -1,0 +1,51 @@
+Table ES-6. Bench-Scale Anaerobic Food Waste Digester Methane Gas Composition
+Summary.
+ Target MCRT,        Mesophilic Digester            Thermophilic Digester
+      days           Methane (CH4), %            Methane (CH4), %
+             AVG         SD        AVG         SD
+      15             64               0.6             67               6.1
+      10             59               3.5             60               4.4
+       5         NA        NA        NA        NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+Specific Methane Gas Production Rate
+During the 15-day MCRT operating period, both the mesophilic and thermophilic digesters fed
+food waste had specific methane gas production rates (during stable operation periods) that
+exceeded the average of 5 ft3 CH4/lb TS fed for a municipal wastewater solids fed digester at a
+15-day MCRT. Both the mesophilic and thermophilic digesters fed food waste appeared to have
+similar methane production rates, with peak values near 8.5 ft3 CH4/ lb (as TS) food waste fed
+(Figure 3.14). This data shows that food waste has a higher specific energy content than
+municipal wastewater solids, which results in a higher energy value. When both digesters were
+not stable, the specific methane gas production rates for anaerobically digested food waste
+dropped below the average for that of municipal wastewater solids fed digesters.
+
+During the 10-day MCRT period, the specific methane production rate dropped off, which most
+likely resulted from the higher wasting rates at the shorter MCRT washing out some of the
+slower growing methanogens from the anaerobic digester sludge. Even though methane
+production at a 10-day MCRT is not as high as at a 15-day MCRT, the specific methane
+production range for food waste digestion at a 10-day MCRT is near that of municipal
+wastewater solids digested at a 15-day MCRT.
+
+During the 5-day MCRT operating period, the specific methane production dropped off
+considerably for both mesophilic and thermophilic digesters, which was likely due to
+methanogen washout at the 5-day MCRT.
+
+COD Loading Rate
+Table ES-7 summarizes the average COD loading rate for each MCRT operating period. The
+COD loading rate increased as the MCRT decreased because more food waste at approximately
+the same percent solids was applied to the digesters. Comparing the COD loading rate to the
+range of COD loading in a typical anaerobic digester (between 0.06 to 0.3 lb/ft3-day), it is
+evident that the high COD loading rate of food waste can exceed that of municipal wastewater
+solids, and not impact digester stability. This further suggests that food waste is more readily
+biodegradable than municipal wastewater solids. The COD loading rate observed at the 5-day
+MCRT most likely is not a limiting factor for food waste digestion, since digester instability
+likely resulted from the higher wasting rates at the 5-day MCRT, which washed out the slow
+growing methanogens.
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-7
+Funding Opportunity No. EPA-R9-WST-06-004

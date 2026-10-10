@@ -1,0 +1,43 @@
+also established that these key yield targets must be demonstrated in a whole-slurry mode,
+because the cost associated with separating and washing the solids was too high to overcome and
+still hit the $2.15/gal target. In 2012 we used a strategy to improve these yields that incorporated
+a deacetylation step upstream of pretreatment. The rationale was that removing a significant
+amount of acetic acid from the process upfront would lead to reduced inhibition of both the
+enzyme package (improving cellulose to glucose and xylan to xylose yields) and the
+fermentation organism (improving total sugar to ethanol yields and raising the final ethanol titer).
+This was first tested at bench scale and the resulting yield improvements demonstrated at that
+point with the deacetylation strategy (even while accounting for the extra capital and operating
+costs associated with this new step) gave us enough confidence to use this approach in our end-
+of-year pilot-scale demonstration as well.
+
+                     Table 1. Biochemical Platform Performance Targets
+                                                      2011      2011                                            2011                           2012                                              Washed    Whole                                             Targets                           Target                                                           Solids      Slurry
+    Minimum Ethanol Selling Price (2007$)      $2.62       $2.56       $2.37       $2.15
+     Feedstock contribution ($/gal)                $0.76       $0.76       $0.82       $0.74
+     Conversion contribution ($/gal)                $1.86       $1.80       $1.55       $1.41
+      Yield (gallon/dry ton)                       78        78        71        79
+     Feedstock
+     Feedstock cost ($/dry ton)                   $59.60     $59.60     $59.60     $58.50
+     Pretreatment
+      Solids loading (wt%)                   30%      30%      30%      30%
+     Xylan to xylose (including enzymatic)        88%      88%      78%      90%
+     Xylan to degradation products            5%      5%      6%      5%
+     Conditioning
+    Ammonia loading (g/L of hydrolysate)            4.8          3.8          4.2          4.8
+     Hydrolysate solid-liquid separation           Yes       Yes       No       No
+      Solids loading (wt%)                   30%      30%      30%      30%
+     Xylose sugar loss                    1%      1%      1%      1%
+     Glucose sugar loss                   1%      1%      1%      0%
+    Enzymes
+    Enzyme contribution ($/gal)                  $0.36       $0.34       $0.38       $0.34
+     Enzymatic hydrolysis and fermentation
+     Pretreatment solids loading (wt%)          20%      17.5%     20%      20%
+    Combined saccharification and                                             5         5         5         5      fermentation time (d)
+    CSL* loading (wt%)                       0.6%      0.25%     0.25%     0.25%
+      Overall cellulose to ethanol              86%      89%      80%      86%
+     Xylose to ethanol                     85%      85%      85%      85%
+     Arabinose to ethanol                   80%      47%      47%      85%
+      * CSL – Corn steep liquor
+
+
+                                      2

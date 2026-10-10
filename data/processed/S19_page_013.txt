@@ -1,0 +1,47 @@
+                  Table 2. Plant Operating Conditions for Each Unit Operation
+                                                         Solids           Agitation  Working         Unit       Temp    Catalyst/   Residence                                                   Loading   pH    Speed    Volume  Operation/Vessel     (°C)    Loading      Time                                                      (%,w/w)           (rpm)        (L)
+                            NaOH/0.4
+ Deacetylation/DIa       80   % (w/w) in      2 h         ~8       n/a      15         n/a
+                                          liquid
+                            H2SO4/0.8
+ Acid impregnation/DI   Amb.  % (w/w) in      2 h         ~8       n/a      15         n/a
+                                          liquid
+                     160– Pretreatment/VT,LHb                n/a        1–10       ~30      n/a       n/a         n/a                     190
+ Enzymatic hydrolysis/                                                                                d                      50      Variable      1–4 d        20       5.0               1200HSEHRc
+ Enyzmatic hydrolysis/                                                                                d                      50        n/a        1–3 d        20       5.0               900 V-450A
+                                       Cells/                                                       d Fermentation/V-450A    33                 2–4 df         n/a       5.8               1000                                  1.0 ODe
+ Inoculum/V-445A       33        n/a       18–22 hg       n/a       5.8      50       110
+ Inoculum/shake flask    33        n/a        ~11 h         n/a       5.8       n/a       0.750
+ Inoculum/tube          33        n/a        ~9 h          n/a       5.8       n/a       0.010
+a Dynamic impregnator. DI tank loaded with 100–120 dry kg corn stover per batch
+b VT vertical reactor, LH-large horizontal reactor
+c High-solids enzymatic hydrolysis reactor
+d As needed to achieve sufficient mixing and temperature control, may have been reduced as run proceeded
+e Optical density
+f Until fermentation is complete
+g Until culture glucose concentration drops to ~50 g/L
+
+
+2.1.2.1 Deacetylation and Acid Impregnation
+Corn stover deacetylation and sulfuric acid impregnation were performed in the 1900-L dynamic
+impregnator (DI) tank (American Process Systems, Gurnee, Illinois). Dry corn stover was added
+to the tank along with a dilute sodium hydroxide solution. The slurry was heated to 80°C and
+held for 2 h, then the liquor was allowed to drain overnight. Water was added to the tank to rinse
+the solids and the rinse water was then discharged. A dilute sulfuric acid solution was added to
+achieve the desired feedstock acid concentration (see Table 2). After thoroughly mixing the acid-
+impregnated solids at room temperature for 2 h, the solids were pumped to a continuous screw
+press (Vincent Corporation Model CP10, Tampa, Florida) for dewatering (see Section 2.1.2.2).
+Approximately 250–300 kg (dry basis) of impregnated corn stover was required per run. The
+largest batch size that can be processed in the DI tank is 100–120 dry kg of corn stover, so at
+least three batches of material were prepared for each run. For some batches, data were collected
+for mass balance and yield calculations for the deacetylation process.
+
+2.1.2.2 Solid Separation
+The acid-impregnated solids were pumped to a large screw press and dewatered to
+approximately 45%–50% TS. The dewatered solids (feed for pretreatment) were collected into
+drums and stored for later use.
+
+
+
+
+                                      6

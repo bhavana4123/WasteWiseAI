@@ -1,0 +1,47 @@
+  A membrane system and biological based methods were also examined as possible options for
+ammonia removal from the HTL aqueous stream.  It is possible a membrane system could be used to
+recover saleable ammonia byproduct, but the efficacy of a membrane is highly uncertain as fouling from
+precipitated salts (following pH adjustment) is a significant risk. Biological treatment systems for the
+anaerobic oxidation of ammonium (anammox) in WWTP sidestreams have been installed at several
+facilities in the U.S. and Europe WWTP (Pugh 2015). Preliminary discussions with vendors indicate that
+a hybrid system consisting of an anaerobic blanket and anammox (Lu et al. 2016) is a plausible option.
+However, this option does not allow for nutrient product recovery as ammonia is oxidized to nitrogen gas
+in the biological process. Recovery of a nitrogen product pure enough to be saleable will likely require
+removal of the organics prior to the ammonia recovery step. For example, catalytic hydrothermal
+gasification (CHG), which can be used to convert organics in wastewater to methane (Jones et al. 2014),
+could be coupled with air stripping or a membrane system to recover a pure ammonia byproduct.
+
+
+                                                                                         Thermal
+                                                                                                      Oxidizer
+                                                                                 Natural gas
+
+                                          Quicklime
+                                                                                    Air                            N2, H2O                                           (CaO)
+                                                                             Stripper
+
+                                             Lime
+                  HTL Aqueous              softening &
+                                                              clarifier
+
+                                                                              Air
+
+                                         CaPO4, CaCO3                                   Treated Water
+                                                                                 To Headworks
+
+                    Figure 5. Process flow for HTL aqueous phase treatment.
+
+    Table 10 summarizes some advantages and disadvantages of each treatment method considered for
+this initial technology screening. Note that this list is not intended to be comprehensive, as there are
+likely other possible treatment options that could not be included in this initial screening. The treatment
+scheme using ammonia stripping is preliminary and as such, further experimental testing and analysis is
+needed to test its feasibility and to determine the most appropriate and economical treatment option for
+the HTL aqueous phase. Additional work is also needed to determine the overall impact of recycling the
+HTL water on the WWTP. For example, there may be components other than ammonia that could build
+up in the HTL water and at the least, require a purge.
+
+
+
+
+
+                                         18

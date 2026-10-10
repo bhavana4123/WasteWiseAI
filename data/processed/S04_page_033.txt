@@ -1,0 +1,48 @@
+engines (60 to 275 rpm) are available as large as 80 MW. Medium speed diesel engines (400 – 1000 rpm)
+are available for up to approximately 17 MW.
+
+Diesel engines typically require compression ratios of 12:1 to 17:1 to heat the cylinder air to a
+temperature at which the injected fuel will ignite. The quality of fuel injection significantly affects diesel
+engine operating characteristics, fuel efficiency, and emissions. Fine atomization and good fuel
+dispersion by the injectors are essential for rapid ignition, ideal combustion and emissions control.
+Manufacturers are increasingly moving toward electronically controlled, high pressure injection systems
+that provide more precise calibration of fuel delivery and accurate injection timing.
+
+Depending on the engine and fuel quality, diesel engines produce 5 to 20 times the NOx (on a ppmv
+basis) of a lean burn natural gas engine. Diesel engines on marine engines often emit over 20 lbs
+NOx/MWh and present on road engines emit less than 13 lbs NOx/MWh. New diesel engines will achieve
+rates of approximately 0.65 lb NOx/MWh. Diesel engines also produce assorted heavy hydrocarbons and
+particulate emissions. However, diesel engines produce significantly less CO than lean burn gas engines.
+The NOx emissions from diesels burning heavy oil are typically 25 to 30 percent higher than diesels using
+distillate oil. Common NOx control techniques include delayed fuel injection, exhaust gas recirculation,
+water injection, fuel-water emulsification, inlet air cooling, intake air humidification, and compression
+ratio and/or turbocharger modifications. In addition, an increasing number of larger diesel engines are
+equipped with selective catalytic reduction and oxidation catalyst systems for post-combustion
+emissions reduction.
+
+High speed diesel engines generally require high quality fuel oil with good combustion properties. No. 1
+and No. 2 distillate oil comprise the standard diesel fuels. Ultra-low sulfur diesel with sulfur contents of
+less than 0.15 ppm is now required for the new Tier 4 diesel engines to reduce sulfur emissions. High
+speed diesel engines are not suited to burning oil heavier than distillate. Heavy fuel oil requires more
+time for combustion and the combination of high speed and contaminants in lower quality heavy oils
+cause excessive wear in high speed diesel engines. Many medium and low speed diesel designs burn
+heavier oils including low grade residual oils or Bunker C oils.
+
+2.3.2.3   Dual Fuel Engines
+Dual fuel engines are predominantly fueled by natural gas with a small percentage of diesel oil added.
+There are two main configurations for introducing the gaseous fuel in a dual fuel engine. These engines
+can be purpose built or conversions of diesel engines. Such engines can be switched to 100 percent
+diesel operation. Dual fuel engines provide a multi-use functionality. Operation on predominantly
+cheaper and cleaner burning natural gas allows the engine to be used in CHP and peak shaving
+applications, while operation on 100 percent diesel allows the engine to also meet the onsite fuel
+requirements of emergency generators. The dual function adds benefit in applications that have specific
+emergency generator requirements such as in hospitals or in public buildings.
+
+There are three main configurations for introducing the gaseous and pilot diesel fuel: 1) low pressure
+injection with the intake air, 2) high pressure injection after the intake air has been compressed by the
+piston, and 3) micropilot prechamber introduction of the diesel fuel. New dual-fuel engines are offered
+in oil and gas production markets to reduce operating costs. Dual-fuel retrofits of existing diesel engines
+are also offered as a means to reduce both operating costs and emissions for extending the hours of use
+
+
+Catalog of CHP Technologies                          2–7                         Reciprocating IC Engines

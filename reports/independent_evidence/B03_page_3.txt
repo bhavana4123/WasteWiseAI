@@ -1,0 +1,55 @@
+Environments 2018, 5, 84                                                                                    3 of 13
+
+
+
+type, operating conditions, and fuel properties/quality [17]. Although it is the updraft gasiﬁer which is
+known to produce syngas with the most tar, it has advantages over other types of gasiﬁers. Fixed bed
+gasiﬁers (updraft or downdraft) are simpler than the ﬂuidized bed; besides, the thermal output of
+ﬂuidized bed gasiﬁers is limited to 10 MWth or less. Updraft gasiﬁers can operate with wetter biomass
+with up to 60% MC (moisture content) (wb) whereas the downdraft gasiﬁers must operate with
+biomass with less than 25% MC (wb) [18].
+    With air as the gasifying agent, Li et al. [19] studied the gasiﬁcation of western hemlock sawdust
+in a pilot-scale circulating ﬂuidized bed at two temperatures (700 and 850 ◦C) and with moisture
+content ranging from 6.6% to 22% wb. For the reducing species, they observed a decrease in (CO,
+H2, CH4) concentrations from (16.6%, 5.5%, 3.4%) to (9.6%, 3.0%, 1.9%) as ER increased from 0.20
+to 0.54. According to Huang et al. [8], CO2 content in the gas increases while H2 and CO contents
+decrease. Van Paasen and Kiel [20] conducted a lab-scale experiment with constant ER (0.25), gasiﬁer
+bed temperature (around 815 ◦C), and three levels of moisture content (10%, 26% and 43% wb).
+The effect of moisture content on temperature and ER was eliminated by using a supplemental heater.
+They reported a modest increase in H2 and a similar decrease in CO, along with a decrease in tar
+concentration from 14.2 g/m3 to 11.4 g/m3 and 8.5 g/m3 as fuel moisture content increased from 10%
+to 43% wb. Atnaw et al. [21] investigated the effect of gasiﬁer temperature and moisture content of
+biomass fuel (oil palm fronds) on syngas composition and caloriﬁc value. Lower CO concentration
+was observed at higher fuel moisture content, but the changes in H2 and CH4 concentrations were
+only marginal; syngas caloriﬁc value almost doubled within the range of 2.5–6.0 MJ/Nm3 as biomass
+moisture content was reduced from 29% to 22% wb. James et al. [22] assessed the effect of biomass
+physical properties on updraft gasiﬁcation of woodchips. The H2 content was found to have no
+signiﬁcant changes while the CO content was somewhat reduced as the moisture content increased
+from 10% to 22% wb, resulting in a decrease in the higher heating value of the syngas from 3.67
+to 2.84 MJ/m3. In a related study, James et al. [23] found that as ER increased from 0.21 to 0.29,
+tar formation was raised from 1.6 to 3.1 g/m3 for all types of biomass in their experiment, but there
+was no inﬂuence on syngas composition.
+    Chianese et al. [24] investigated H2 production from catalytic conversion of syngas generated
+in a ﬁxed-bed biomass gasiﬁcation pilot plant, using steam as gasifying agent. They showed that tar
+concentration decreased as operating temperature increased. Bronson et al. [25] evaluated the effect
+of moisture content and particle size of forest residues (hog fuel) on tar formation at three gasiﬁer
+temperatures (725, 800 and 875 ◦C) in a small (0.16 m diameter) pilot-scale bubbling ﬂuidized bed
+gasiﬁer. At each temperature, ER was adjusted to compensate for the effect of moisture content in
+order to maintain a constant temperature. They found that moisture content ranging from 25–31% (wb)
+had a negligible effect on tar concentration—rather, the smallest particles (with sizes less than 3.15 mm)
+resulted in the highest tar concentration, as compared to the larger particles with sizes ranging from
+(3.18–6.35 mm) and (6.35–19 mm).
+     Published data from highly-controlled laboratory experiments on gasiﬁcation of biomass indicates
+that there exists a direct relation between biomass fuel properties (such as moisture, ash, and particle
+size) and syngas yield and tar formation [5,26–28]. However, similar data on industrial gasiﬁers is
+lacking in published literature. The main objective of this research is to investigate the effects of fuel
+quality on syngas quality and tar formation in an industrial gasiﬁer that is operating routinely under
+commercial obligations. No attempt is made to inﬂuence the fuel properties or operating conditions of
+the gasiﬁer for the sake of this research.
+
+2. Materials and Methods
+
+2.1. Gasiﬁers
+
+   Two commercial ﬁxed-bed updraft gasiﬁers were used in the study. As previously mentioned,
+these gasiﬁers were identical models made by the same manufacturer, and the only difference between

@@ -1,0 +1,56 @@
+                                                             Polypeptides and Proteins
+
+
+GLIADIN, solid; also called prolomin; simple vegetable protein found in gluten; typical
+   composition: carbon, 52.7%; hydrogen, 6.9%; oxygen, 21.7%; nitrogen, 17.7%; sulfur,
+    1.0%.
+
+   gross heat of combustion:
+
+   variation with thermal denaturation temperature.
+
+   denaturation
+
+
+
+   30    86             10775          5986.3      25046.7
+   35    95              I0640         591 1.3      24732.9
+   50   122             10399          5777.2      24171.8
+   70   158              I0457          5809.3      24306.1
+  110   230             10535          5852.8      24488.1
+
+   variation with concentration of aqueous alcohol used in extraction.
+
+                                              q,(gross)
+   alcohol %             Btu lb-I         cal g-l      J g-l
+
+     40                 10600         5891       24648
+     50                 10560         5869       24556
+     60                 10700         5942       24861
+     70                 10850         6028       24221
+
+                                                            66PON
+
+GLUTEN; solid; mixture of proteins found in the seeds of cereal grains [wheat, corn
+   (maize), etc.] which remains after washing the starch out of flour with water; amino
+   acids of glutens are glutamic acid, leucine, proline, and arginine.
+
+   gross heat of combustion: variation with thermal denaturation temperature.
+
+   denaturation
+   temperature                              q,(gross)
+  ("C)   ( O F )              Btu lb-'        cal g-l      J g-l
+
+    30    86             10436         5797.9      24258.4
+    35    95             10572         5873.2      24573.5
+    50   122             10168         5648.8       23634.6
+    70   158             10298         5721.1      23937.1
+   110   230             10403         5779.6      24181.8
+
+                                                             66PON
+
+
+
+
+
+                                     193

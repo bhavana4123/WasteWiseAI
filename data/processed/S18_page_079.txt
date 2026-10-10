@@ -1,0 +1,51 @@
+                  Table 34. Summary of Yields, Rates, and Conversion Costs
+    Feedstock rate                          2,205 dry U.S. ton/day
+    On-line time                            8,410 h/yr
+    Ethanol yield                            79.0 gal/dry U.S. ton feedstock
+                                    (76% theoretical based on feedstock carbohydrates)
+    Ethanol production rate                   61.0 MMgal/yr
+    Total equipment cost                $232MM
+    Total capital investment (TCI)          $423MM
+   TCI per annual gallon                      $6.92/gal
+   Minimum Ethanol Selling Price          $2.15/gal
+     Feedstock contribution                   $0.74/gal
+    Enzyme contribution                     $0.34/gal
+     Non-enzyme conversion contribution     $1.07/gal
+
+
+
+ DW1102ADW1102A       Capital Recovery Charge    Raw Materials & Waste      Process Electricity
+                 Grid Electricity               Total Plant Electricity        Fixed Costs
+                  Feedstock + Handling: 74.1¢
+
+            Pretreatment / Conditioning: 28.8¢
+
+  Enzymatic Hydrolysis and Fermentation: 20.2¢
+
+                         Cellulase Enzyme: 33.8¢
+
+           Distillation and Solids Recovery: 12.1¢
+
+               Wastewater Treatment: 33.5¢
+
+                                  Storage: 2.3¢
+
+              Boiler/Turbogenerator: (Net) 4.3¢
+
+                                          Utilities: 6.3¢
+
+                                             -$0.40  -$0.20  $0.00  $0.20  $0.40  $0.60  $0.80
+
+          Figure 17. Cost contribution details from each process area (per gallon EtOH)
+
+At the time of the 2002 design report, it was thought that the costs predicted then were probably
+too high for a company to start constructing a cellulosic ethanol plant based on undemonstrated
+technology. Today we are seeing several such biorefineries being planned or built at the pilot and
+commercial scale. The technoeconomic results reported here fall within the range claimed by
+these companies with respect to ethanol yield and TCI/gallon. The principal barrier to
+commercialization today is the current lack of access to capital for large, first-of-a-kind projects.
+
+
+
+
+                                      69

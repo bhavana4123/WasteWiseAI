@@ -1,0 +1,49 @@
+turbocharged to force more air into the cylinders. Natural gas spark ignition engines operate at modest
+compression ratios (compared with diesel engines) in the range of 9:1 to 12:1 depending on engine
+design and turbocharging.
+
+Using high energy ignition technology, very lean fuel-air mixtures can be burned in natural gas engines,
+lowering peak temperatures within the cylinders, and resulting in reduced NOx emissions. The lean burn
+approach in reciprocating engines is analogous to dry low-NOx combustors in gas turbines. All major
+natural gas engine manufacturers offer lean burn, low emission models and are engaged in R&D to
+further improve their performance.
+
+Natural gas spark ignition engine efficiencies are typically lower than diesel engines because of their
+lower compression ratios. However, large, high performance lean burn engine efficiencies can exceed
+those of diesel engines of the same size. Natural gas engine efficiencies range from about 28 percent
+(LHV) for small engines (<50 kW) to 46 percent (LHV) for the largest high performance, lean burn
+engines. Lean burn engines tuned for maximum efficiency may produce twice the NOx emissions as the
+same engine tuned for minimum NOx. Tuning for low NOx typically results in a sacrifice of 1 to 1.5
+percentage points in electric generating efficiency from the highest level achievable.
+
+Many natural gas spark ignition engines are derived from diesel engines (i.e., they use the same block,
+crankshaft, main bearings, camshaft, and connecting rods as the diesel engine). However, natural gas
+spark ignition engines operate at lower brake mean effective pressure (BMEP) and peak pressure levels
+to prevent knock.13 Due to the derating effects from lower BMEP, the spark ignition versions of smaller
+diesel engines may produce only 60 to 80 percent of the power output of the parent diesel.
+Manufacturers often enlarge cylinder bore by about 5 to 10 percent to increase the power to levels
+which meet or exceed their diesel counterparts. The $/kW capital costs of large, high performance
+natural gas spark ignition engines are typically on a similar level to the diesel engines from which they
+were derived. However, by operating at lower cylinder pressure and bearing loads as well as in the
+cleaner combustion environment of natural gas, spark ignition engines generally offer the benefits of
+extended component life compared to their diesel parents.
+
+2.3.2.2   Diesel Engines
+Diesel engines have historically been the most common type of reciprocating engine for both small and
+large power generation applications. However, in the United States and other industrialized nations,
+diesel engines are increasingly restricted to emergency standby or limited duty-cycle service because of
+air emission concerns and also because of the high cost of fuel. Consequently, the natural gas-fueled SI
+engine is now the engine of choice for the higher duty cycle stationary power market (over 500 hr/yr)
+and is the primary focus of this report.
+
+Compression ignition diesel engines are among the most efficient simple-cycle power generation
+options on the market. Efficiency levels increase with engine size and range from about 30 percent
+(HHV) for small high-speed diesels up to 42 to 48 percent (HHV) for the large bore, slow speed engines.
+High speed diesel engines (>=1,000 rpm) are available for up to about 4 MW in size. Low speed diesel
+
+
+13 Brake mean effective pressure (BMEP) can be regarded as the “average” cylinder pressure on the piston during the power
+stroke and is a measure of the effectiveness of engine power output or mechanical efficiency.
+
+
+Catalog of CHP Technologies                          2–6                         Reciprocating IC Engines

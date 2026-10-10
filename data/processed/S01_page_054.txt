@@ -1,0 +1,42 @@
+                                                                     Alloys and Metals
+
+
+
+ZIRCALOY-2; solid; composition: tin, 1.46%; iron, 0.130%; chromium, 0.080%; nickel,
+   0.056%; carbon, 65 ppm; oxygen, 1489 ppm; nitrogen, 40 ppm; hydrogen, 1 1 ppm;
+   copper, 20 ppm; tungsten, < 20 ppm; aluminum, 40 ppm; silicon, 47 ppm; hafnium,
+   < 125 pprn; remainder is zirconium.
+
+   specific heat:
+
+   273-908 K (32"-1175"F)
+
+   Cp(Btu lb-'  OF-')    = 0.06763  -+ 1.3262 x     T
+   Cp(cal 5-1 K -1 )     = 0.04153 + 2.3872  x     T
+   Cp(J g-   K-')        = 0.25744 + 9.9880  x     T
+
+   908-1083 K (1 175"-1490"F)
+
+   Cp(Btu lb-I  OF-')    = 0.08589
+   Cp(cal     K-')      = 0.08589
+   Cp(J  g-'  K-l)       = 0.35936
+
+   1248-1323 K (1787"-1922"F)
+
+  C (Btu lb-l  OF-')    = 0.08548   Cp(calP  f15-l)                      = 0.08548
+   Cp(J g-  K   )       = 0.35765
+
+   heat of transition: temperature range: 81Oo-97S0C (1490"-1787"F), for the a - 6
+   transition
+
+  Lt = 19.1 Btu lb-I
+  Lt = 10.6 cal 9-l
+   L, = 44.4 J g-
+
+                                                           67ELD/DEE
+
+
+
+
+
+                                        51

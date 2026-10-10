@@ -1,0 +1,60 @@
+Processes 2020, 8, 1407                                                                                      3 of 14
+
+
+
+wood species in Korea. Characteristics of the pine sawdust feed are listed in Table 1. The volatile
+matter of the feed was 73.7 wt%, which provided an expectation for the maximum yield of bio-oil
+formed by fast pyrolysis reaction. Sand obtained from a local area was used as a ﬂuidizing medium.
+The sand was washed with deionized water several times followed by drying at 105 ◦C, in an oven and
+screening, to obtain particle sizes between 0.4–0.8 mm before use in the reactor. Nitrogen gas (purity
+>99.5%) was used as a carrier gas in the pyrolysis reaction.
+
+
+                             Table 1. Characteristics of wood sawdust feed.
+
+         Proximate Analysis a                    Ultimate Analysis b              Heating Value c
+               (wt%)                               (wt%)                        (MJ/kg)
+
+  M   VM     FC     Ash    C    H    N      S    O d   HHV   LHV
+
+     9.7      73.7      16.0       0.5       45.5       7.0        0.6      0.002     46.9     17.9      16.1
+
+       a M, moisture; VM, volatile matter; FC, ﬁxed carbon. b Ultimate analysis was on a dry basis. c Heating value was on
+      a dry basis. d Calculated by the diﬀerence, 100—(C + H + N + S).
+
+
+2.2. Methods
+
+   A schematic diagram of the reaction system used for the fast pyrolysis of wood sawdust is
+illustrated in Figure 1. The reactor consisted of two tubes in annulus form (inner and outer tubes). The
+diameters of the inner and outer tubes were 50 and 75 mm, respectively, and the annulus between two
+tubes was about 10 mm. Fast pyrolysis of wood sawdust occurred in the bubble-ﬂuidized bed of the
+inner tube. An amount of sand medium was placed on the distributor and preheated nitrogen gas was
+delivered through a combination of gas chamber and distributor to heat and ﬂuidize the sand medium
+in the reactor. A measured amount of wood sawdust was put in the hopper and delivered into the
+inner tube reactor with a screw feeder to begin the fast pyrolysis reaction. Electrical furnaces were
+used to provide process heat to the nitrogen preheater, gas chamber, reactor, free board, and cyclone.
+In particular, a three split-zone furnace was installed outside the outer tube of the reactor to achieve an
+independent control of the reaction temperatures of T3, T4, and T5, as shown in Figure 1. The fast
+pyrolysis reaction resulted in the formation of vapor and char products which had diﬀerent properties.
+The vapor product quickly ﬂowed up in the inner tube to the free board along with the carrier gas
+and was separated from the sand medium. The char product underwent the same procedure as the
+vapor product but its residence time in the reactor was expected to be much longer than the vapor
+product. Consequently, a signiﬁcant amount of char product was expected to remain in the reactor
+and caused an increase in the ﬂuidizing bed. Since the increase in the ﬂuidizing bed could change
+reaction conditions such as temperature, pressure, and thereby product yields, it was very important
+to maintain the ﬂuidized bed at a constant level. The reaction system, shown in Figure 1, was designed
+to control the maximum ﬂuidizing bed level by the height of the inner reactor tube. The char product
+of big particle sizes which passed over the end of the inner tube reactor was dropped down through
+the annulus between the inner and the outer tubes and the char product of small particle sizes and
+coke formed continued to pass through the free board into the cyclone where it was separated from the
+vapor product. The char product which was dropped down through the annulus was accumulated in
+the bottom-char collector, and then regularly removed from the reactor during the pyrolysis reaction.
+The char product and coke collected in the cyclone were also removed by opening the valve below
+the cyclone. The vapor product that passed through the cyclone entered a shell and multi-tube type
+condenser in which the vapor was quickly quenched and divided into permanent gas and liquid
+product (bio-oil). A chiller (JEIO TECH, RW-3040G) at −10 ◦C was used to operate the condenser. The
+bio-oil product was collected in the bottom of the condenser and gaseous product underwent further
+puriﬁcation steps (second and third bio-oil collectors) to separate any remaining fraction of bio-oil
+product. A gas sample was obtained at the gas sample outlet and collected in a 0.5 L gas tight bag for
+compositional analysis.

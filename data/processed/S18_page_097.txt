@@ -1,0 +1,50 @@
+References
+
+NREL milestone reports cited below cannot be accessed outside of NREL and DOE. Readers
+may contact the authors of the specific reference to determine if this information has been made
+public since publication of this design report.
+
+1.     Wooley, R.; Ruth, M.; Sheehan, J.; Ibsen, K. Lignocellulosic Biomass to Ethanol Process
+      Design and Economics Utilizing Co-Current Dilute Acid Prehydrolysis and Enzymatic
+       Hydrolysis: Current and Future Scenarios. Report No. NREL/TP-580-26157. Golden,
+     CO: National Renewable Energy Laboratory, July 1999.
+       http://www.nrel.gov/docs/fy99osti/26157.pdf.
+
+2.     Aden, A.; Ruth, M.; Ibsen, K.; Jechura, J.; Neeves, K.; Sheehan, J.; Wallace, B.;
+      Montague, L.; Slayton, A.; Lukas, J. Lignocellulosic Biomass to Ethanol Process Design
+      and Economics Utilizing Co-Current Dilute Acid Prehydrolysis and Enzymatic
+       Hydrolysis for Corn Stover. Report No. NREL/TP-510-32438. Golden, CO: National
+      Renewable Energy Laboratory, June 2002. http://www.nrel.gov/docs/fy02osti/32438.pdf.
+
+3.    “Aspen Plus.” Burlington, MA: Aspen Technology.
+       http://www.aspentech.com/products/aspen-plus.cfm.
+
+4.     Tao, L.; Aden, A. “The Economics of Current and Future Biofuels.” In Vitro Cell Dev.
+        Biol.; Vol. 45, 2009; pp. 199-217.
+
+5.     F.O. Lichts. Ethanol Production Costs: A Worldwide Survey. Turnbridge Wells, Kent,
+     UK: Agra Informa, 2007.
+
+6.     Kwiatkowski, J.R.; McAloon, A.J.; Taylor, F. “Modeling the Process and Costs of Fuel
+       Ethanol Production by the Corn Dry-Grind Process.” Ind. Crops Prod.; Vol. 233, 2006;
+       pp. 288-296.
+
+7.     Rodrigues, A.P. Participação dos fornecedores de cana na cadeia do açúcar e álcool.
+      Congresso Internacional de Tecnologias na Cadeia Produtiva, Concana Uberaba, MG,
+      março de, 2007 (in Portuguese).
+
+8.     Seabra, J.E.A. Technical-Economic Evaluation of Options for Whole Use of Sugar Cane
+      Biomass in Brazil. Ph.D. Thesis. Campinas Faculdade de Engenharia Mecânica
+       Universidade Estadual de Campinas, 2007 (in Portuguese).
+
+9.     Graboski, M.S.; McCormick, R.L. “Combustion of Fat and Vegetable Oil Derived Fuels
+        in Diesel Engines.” Prog. Energy Combust. Sci.; Vol. 24, 1998; pp. 125–164.
+
+10.    Haas, M.J.; McAloon, A.J.; Yee, W.C.; Foglia, A.T. “A Process Model to Estimate
+       Biodiesel Production Cost.” Biores. Technol.; Vol. 97, 2006; pp. 671–678.
+
+11.    Laser, M.; Larson, E.; Dale, B.; Wang, M.; Greene, N.; Lynd, L.R. “Comparative
+       Analysis of Efficiency, Environmental Impact, and Process Economics for Mature
+
+
+                                      87

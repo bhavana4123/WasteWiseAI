@@ -1,0 +1,54 @@
+                                                                    Vegetable Oils
+
+
+CORN OIL; liquid; The vegetable oil has a chemical composition of up to 3 fatty acids
+    linked to a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic   11.67, stearic = 1.85, oleic = 25.16, linoleic = 60.60,
+    linolenic = 0.48, and arachidic = 0.24.  The acid value (number of mg of KOH needed
+      t o neutralize free fatty acids in 1 g sample) = 0.11, the phosphorus = 7.0 ppm,
+   peroxide value (milliequivalents of peroxide per 1000 g sample that oxidize KI during
+    test conditions) = 18.4, water and sediment (% by volume) = trace, carbon residue (%
+   by weight) = 0.24, ash (% by weight)   0.01, and sulfur (% by weight) = 0.01.  Density =
+   0.9095 kg/L.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 16993 Btu 1
+    qv(gross) = 9441 cal g-
+    qv(gross) = 39500 J g-l
+
+                                                        82COE/SCH
+
+CORN OIL (MAIZE); liquid; extracted from corn (maize), Zea mays; typical analysis:
+    triglycerides, 98.6%; unsaponifiable,  I .4%;  sitosteral, 1%; fatty acid composition:
+    palmitic, 2%; stearic, 3.5%; oleic, 46.3%; linoleic, 42.0%; Iodine number 117-130.
+
+   gross heat of combustion: assume values refer t o room temperature.
+                                1    qv(gross) = 16700 Btu lb-
+    qv(gross) = 9280 cal g-l
+     q,(gtoss)   = 38830 J g-l
+
+                                                       55MER/WAT
+
+COTTONSEED OIL; liquid; The vegetable oil has a chemical composition of up t o 3 fatty
+   acids linked t o a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic = 28.33, stearic   0.89, oleic = 13.27, and linoleic =
+    57.51.  The acid value (number of mg of KOH needed to neutralize free fatty acids in
+   1 g sample) = 0.07, the phosphorus = 8.0 ppm, peroxide value (milliequivalents of
+   peroxide per 1000 g sample that oxidize KI during test conditions) = 64.8, water and
+   sediment (% by volume)   0.04, carbon residue (% by weight) = 0.24, ash (% by
+    weight) = 0.01, and sulfur (% by weight) = 0.01.  Density = 0.9148 kg/L.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross) = 16980 Btu 1
+    qv(gross) = 9433 cal g-
+    q,(gross) = 39468 J g-'
+
+                                                         82GOE/SCH
+
+
+
+
+
+                                       215

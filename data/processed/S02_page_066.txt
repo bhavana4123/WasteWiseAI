@@ -1,0 +1,49 @@
+ • The gas, being noxious, should be either burned off     Figure 7 -12(a) shows a setup for measuring particulates
+  or returned to the pipe downstream from the sam­    and tar, or moisture, or gas composition, or gas
+  pling point.                                         production rate.
+ • The gas should be cleaned.                                                       Figure 7-12(b) is a setup for continuously measuring
+ • The gas should be dried.                            change in water content and change in heat content. It    .
+
+
+
+
+
+                              Particles             • r-                                                      •                                                         •           •   •                                     •                       •                                        Extra  Ė                                            particle I           •                                        collected    ..,I                  T\
+                                                                                   Particle                                                      JrH-t+lH--n                                                                                        lost
+
+
+
+
+
+           (a) Isokinetic sampling              (b) Sampling velocity too low        (c) Sampling velocity too high
+
+
+
+Fig. 7-10. Gas stream lines at the entrance to sampling probes  (Source: Adapted from Strauss 1975, Fig. 2.12. © 1975. Used with permission of
+Pergamon Press)
+
+                      Table 7-4. Components for Raw Gas Contaminant Test Train
+
+Item                  Requirements                                                          Price Rank (1 =Lowest)
+Sample Probe            Tar·only measurements permit any suitable fitting with pipe thread access                    1
+                       Tar and particulates require tubing with 900 bend facing the gas stream               2
+Shut Off Valve               Ball Valve 1/4 in.
+
+Filter Holder          47 mm reusable holder
+                             Polycarbonate                                                                                      1
+                         Aluminum                                                           2
+                               Stainless                                                              3
+Filter Discs              Glass fibers 99.9% efficiency at 0.3 flm
+Gas Sample Pump      Hand operated rubber bulb                                                                             1
+                             Plastic piston pumps (36 cm/stroke)                                            3
+                       Water-powered aspirator pump                                              2
+                       Motor driven vacuum pump                                              4
+Gas Sample Flow       Flow meter, 2 in. scale, 4% full scale                                          2
+                    Gas flow indicator                                                                                             1
+
+Gas Test Meter            Positive displacement meter to indicate accumulated sample volume
+
+
+
+
+58    Handbook of Biomass Downdraft Gasifier Engine Systems

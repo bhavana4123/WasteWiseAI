@@ -1,0 +1,61 @@
+                                                              tions. Usually, wood contains less than 1% ash.
+                                                   However, as the charcoal is consumed, it eventually
+                                                          collapses to form a powdered char-ash that may repre­
+                                                          sent 2% to 10% of the total biomass, in turn contain­
+                                                        ing 10% to 50% ash. Ash contents depend on the char
+                                                       content of the wood and the degree of agitation. The                                      Cast-iron
+                                      constriction              greater the degree of char reduction, the smaller the
+                                           (ing                 resulting particles and the higher the ash, as shown in
+                                                               Fig. 3-3. The downdraft gasifier startup and response
+                                                     time is intermediate between the fast cross draft gasifier
+                                                and the slow updraft gasifier.
+                                              The Imbert gasifier requires a low-moisture  « 20%
+                                                         moisture) and uniformly blocky fuel in order to allow
+                                                       easy gravity feeding through the constricted hearth.
+                                                        Twigs, sticks, and bark shreds must be completely
+                                        Iron-plate             removed. The reduction in area at the hearth and the
+                                   hearth mantle            protruding nozzles present hazards at which the pas­
+                                                         sage of the fuel can be restricted, thus causing bridging
+                                                and channeling followed by high tar output, as un­
+                                    Inside insulation            pyrolyzed biomass falls into the reaction zone. The
+                                 by ashes
+                                 Cast-iron v-hearth,
+                                    easily removable
+
+
+
+
+
+ Fig. 5-6. V-hearth Imbertgasifier  (Source: Gengas 1950, Fig. 74)
+
+results in a marked cooling of the gas, as sensible-gas
+heat is converted into chemical energy. This removes
+most of the charcoal and improves the quality of the
+gas. Eventually, the charcoal is "dissolved" by these
+gases and disintegrates to smaller chunks and a fine
+powder that either is swept out with the gases to the
+cyclone separator or falls through the grate. Tars that
+have escaped combustion at the nozzle may crack fur­
+ther in the hot char although tar cracking is now
+thought to occur only above about 850·C (Kaupp 1984b;
+Diebold 1985).
+The spaces between the nozzles (shown in Fig. 5-8)
+allow some unpyrolyzed biomass to pass through. The
+hearth constriction then causes all gases to pass
+through the hot zone at the constriction, thus giving
+maximum mixing and minimum heat loss. The highest
+temperatures are reached in this section so the hearth
+constriction should be replaceable. If tarry gas  is
+produced from this type of gasifier, common practice
+is to reduce the hearth constriction area until a low-tar
+gas is produced. However, one should remember that
+hearth dimensions also play a role in the gas
+production rate (see below).
+The fine char-ash dust can eventually clog the charcoal
+bed and will reduce the gas flow unless the dust is
+removed. The charcoal is supported by a movable grate
+that can be shaken at intervals. Ash builds up below'       Fig. 5-7.  Flat-plate hearth constriction  (Source: Gengas 1950,
+the grate and can be removed during cleaning opera­        Fig. 76)
+
+
+34    Handbook of Biomass Downdraft Gasifier Engine Systems

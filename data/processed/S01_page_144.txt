@@ -1,0 +1,57 @@
+                                                           Plant Materials (Non-Woody)
+
+
+
+SEDGE GRASS; Carex micheZii; solid; Material is a herb, one of the dominant species of
+   a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown forest soil,
+   at 300 m above sea level located in the southern part of the Bukk Mountains of north
+   Hungary. Samples were dried at 83°C (183"F), then ground and pelleted. The ash
+   content was determined at 500°C (932°F) while the temperature was increased
+   stepwise. Ash content of aboveground living material = 9.0%; aboveground dead
+   material = 10.6%; roots = 8.3%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature, the number of measurements is 3.
+
+                      dry weight       ash-free dry        std dev.
+                         basis          weight basis        of mean
+
+   aboveground living material
+
+   qv(gross) =          7817             8492              6.3   Btu lb-I
+    qv(gross) =          4343             4718              3.5    cal y1
+   qv(gross) =         18171            19740           15     J g-
+
+   aboveground dead material
+
+   qJgross) =          7893             8827              38.7.   Btu lb-l
+   qJgross) =          4385             4904             21.5    cal q1
+    qv(gross) =         18347            205 18             90.0    J g-
+
+   roots
+
+    qv(gross)           7983             8707             67.1   Btu lb-I
+    qv(gross) =         4435             4837             37.3    cal f-'
+    q,(gross)  =         18556            20238          156     J g-
+
+                                                               75PAP
+
+SHRUBS, DECIDUOUS; ALPINE TUNDRA; solid; Samples of 9 species of shrubs were
+   collected in the alpine tundra of Mt. Washington, N.H.  Mean lipid content was 1.97 2
+   0.3% of the volatile-free dry weight.  Samples were ground and oven-dried at 80°C
+    (1 76°F).
+
+   gross heat of combustion: assume values refer t o room temperature and are corrected
+    for moisture and ash content.
+
+                              1    q,(gross)  = 8878 2 89 Btu lbl
+    q,(gross) = 4932 k 33 cal g-
+   qv(gross) = 20635 2 138 J g-'
+
+                                                                           62BLI
+
+
+
+
+
+                                       157

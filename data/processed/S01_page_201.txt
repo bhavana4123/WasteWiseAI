@@ -1,0 +1,48 @@
+                                                                   Vegetable Oils
+
+
+
+PERILLA OIL; liquid; obtainet from seeds o  PeriZZa ocimoides; chief constituents are
+   glycerides of linoleic (-39%) and linolenic (-46%) acids, with small amounts of
+   palmitic (-8%) and oleic (8%) acids; density, 0.93-0.94 g ~ m  - before~  ;   measurement,
+    oil was heated at 100°C (212'F)  for 3 to 6 hours at 2-3 mm of Hg t o remove
+   moisture.  Iodine number 186.2.
+
+   specific heat: 279-543 K (43"-518"F)
+
+   Cp(Btu lb-'   OF-')     = 0.5350 + 1.499 x     T + 3.086 x     T2
+              -1 K-1)                     = 0.4082 - 2.410  x    T + 1.000 x 10-6 T 2   Cp(cal q
+   Cp(J g-  K-l)       = 1.7081 - 1.008 x     T + 4.184  x 10-6 T2
+
+                                                       46CLA/WAL
+
+POPPY SEED OIL, BLEACHED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 193. The amount of
+   iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 146.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58"  t o 131 OF).
+
+   temperature                         H"(t)-H"(-SO"C)
+  ("C)  (OF)      Btu Ib-'                 cal g-l                J g-1
+
+    -50    -58             0.00                    0.00                   0.00
+    -25    -13           20.09                   11.16                 46.69
+     0    32           68.58                  38.10               159.41
+    25    77           89.39                  49.66                207.78
+    50   122          110.1 1                  61.17               255.94
+    55   131         114.30                  63.50                265.68
+
+   heat of fusion: result is a mean value for temperature range -50"  t o 55°C (-58" to
+    131°F).
+                  1   Lf = 33.3 Btu lb-
+   Lf = 18.5 cal
+
+
+                                                                       55RIE
+
+
+
+
+
+                                       223

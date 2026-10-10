@@ -1,0 +1,46 @@
+Procedure for High FFA Feedstocks
+
+    1.  Measure FFA level
+    2. Add 2.25 g methanol and 0.05 g sulfuric acid for each gram of free fatty acid in the oil or
+         fat. Sulfuric acid and methanol should be mixed first and then added slowly to the oil.
+    3.  Agitate for one hour at 60-65ºC.
+    4.  Let mixture settle. Methanol-water mixture will rise to the top. Decant the methanol,
+       water, and sulfuric acid layer.
+    5.  Take bottom fraction and measure new FFA level.
+    6.  If FFA is > 0.5%, return to step 2 with new FFA level. If FFA is < 0.5%, proceed to step
+        7.
+    7. Add an amount of methanol equal to 0.217 x [grams of unreacted triglycerides] and an
+      amount of sodium methoxide equal to [0.25 + (%FFA)0.190]/100 x [grams of unreacted
+        triglycerides]. Mix the sodium methoxide with the methanol and then add to the oil. This
+       corresponds to a 6:1 molar ratio of methanol to oil for the unreacted triglycerides. It
+       ignores any methanol that may have carried over from the pretreatment.
+    8.  Agitate for 1 hour at 60ºC.
+
+
+Example: 100 g of 12% FFA animal fat
+
+Pretreatment: 2.25 x 12 g = 27.0 g methanol
+              0.05 x 12 g = 0.6 g H2SO4 (sulfuric acid)
+
+Mix acid with methanol. Then add mixture to fat. Agitate for one hour at 60ºC. Let settle and
+separate bottom phase. Acid value should decrease substantially, to at least 5-6 mg KOH/g.
+There fore, FFA = 2.5%
+
+Second step of pretreatment:
+              2.25 x 2.5 g = 5.6 g of methanol
+              0.05 x 2.5 g = 0.13 g H2SO4
+
+Mix with oil, agitate at 60ºC for 1 hour. FFA should be < 0.5%. Removal of upper phase is
+usually optional at this point.
+
+Then add     0.217 x (88) = 19.1 g methanol
+              [0.25 + (0.5)(0.190)]/100 x 88 = 0.30 g sodium methoxide
+
+Agitate at 60ºC for one hour. If glycerol and ester do not separate, add 50 g of warm distilled
+water to encourage separation. Wash 3-4 times.
+
+
+
+
+
+                                      55

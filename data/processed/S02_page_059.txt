@@ -1,0 +1,56 @@
+                         Chapter 7
+             Gas Testing
+
+
+7.1  Introduction                            7.3 Description of Producer Gas and
+                                                      Its ContaminantsIt is relatively simple to build a gasifier and operate an
+engine for a short time. However, the commercial suc­
+                                                           7.3.1 The Gas Analysiscess of gasification ultimately depends on long-term,
+reliable operation of gasifier systems. Many gasifier   A typical raw gas analYSis from a recent SERI test of
+systems have failed after less than 100 h of operation     corncob gasification is given in Table 7-1. This analysis
+because of tar buildup in either the system or the en­     includes volume concentrations of each major chemi­
+gine. Destroying an engine is a costly method for deter­     cal constituent, as well as the physical contaminants of
+mining whether a gas is sufficiently clean for engine     the gas. The energy content of the gas can be calculated
+operation. A quantitative knowledge of gas quality and    from the energy content of the components using the
+cleanliness is necessary for the designer, developer,     high or low heating values (HHV or LHV) for each gas,
+buyer, and user of gasifier equipment.                     as shown in Tables 7-1 and 7-2. The LHV also can be
+                                                    determined graphically from Fig. 7-1.This chapter will describe simple and inexpensive
+tests of the physical and chemical properties of                                                        7.3.2 Particulates
+producer gas. Using these tests will allow one to
+determine whether the gas is suitable for its intended    Some particulate levels reported for wood and charcoal
+purpose.                                                       gasifiers are listed in Figs. 7-2 and 7-3.
+                                                   In order to remove particles with the appropriate equip­
+                                                    ment, it is necessary to know their nature and size dis­
+7.2 Gas-Quality Measurements and            tribution. Particle size distributions shown in Fig. 7-4,
+Requirements                                     Table 7-3, and Fig. 7-5 were obtained by mechanical
+                                                       screen separation of the cyclone contents for SERI and
+During gasifier system development, one may need to     Imbert tests. The results of both tests are plotted in
+be able to measure:                                          Fig. 7-4 on log probability paper for ease of analysis,
+• Gas composition: The volume percent of CO, CO2,     displaying the distinctive slope common to most fine
+  H2, H20, CH4, C2 and higher hydrocarbons, and N2    powders produced by fragmentation.
+  to calculate the gas energy content or to analyze                                             The potential particle-size range of a wide variety of  gasifier operation.                                                              particles and their characteristics are shown in Fig. 7-6,
+• Gas energy content: Can be calculated from gas com­
+  position, or it can also be measured calorimetrically
+  without the need to know composition. The gas must       Table 7-1. Composition of Producer Gas from
+  have an energy content greater than 4 MJ/Nm3           Corn Cobs after Cyclone Separation
+  (100 Btu/scf) for most applications. (See Appendix
+                                                            Physical Composition  for definition of scf and Nm3.)                                                        Tar content                1300 mg/m3          1 300 ppma
+• Quantity of tars: The quantity of condensible or­      Particulate               330 mg/m3        330 ppm
+  ganics in raw gas is a measure of gasifier performance     Ash content a! particulate    30 mg/m3        30ppm
+  and determines whether the gas can be cleaned.    H20                            7.1 wt %         71 ,000 ppm
+ Above 5000 mg/Nm3 tars, the gas is difficult to clean     Chemical Composition
+ up and is suitable only for close coupled direct com­    CO       1 9 Vol % x 322 Btulsel = 61
+  bustion. Gas cleanup equipment should reduce the    C02    14 Vol % x  0
+  tar level to below 10 mg/Nm3.                       H2     17 Vol % x 325 Btu/sc! = 55
+• Quantity and size of particulates: The nature and    CH4    2 Vol % x 1031 Btu/sc! = 20
+  quantity of char-ash and soot entrained in the gas    N2     48 Vol % x 0
+  stream can help to design filters. Particles larger than                                                    1 36
+                                        10 mg/Nm3     Dry Gas (HHV)b 1 36 Btu/sc! (60'F, 30 in. Hg Dry)  10 /11Il must be removed to a level below
+  for engine applications.                                                                       a1 Nm3 of gas weighs about 1 kg, so that 1 mg/Nm3 = 1 ppm
+• Water content of gas: The water content of the gas     bThe gas heating value may be calculated from the gas analysis using
+  helps to calculate cooling requirements.                     Table 7-2.
+
+
+
+
+                                                                       Gas Testing                                                                                                           51

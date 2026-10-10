@@ -1,0 +1,58 @@
+                       Figure 3.1 Anaerobic Food Waste Digester Mean Cell Residence Time
+
+       20      Thermo Reseed 12/14/06   Meso Reseed 1/3/07,1/8/07,1/29/07    Thermo Reseed 2/9/07
+
+
+
+
+
+       15
+
+
+
+
+                                                                      10 days
+                        15 days                                                                            Thermo Test         (days)
+       10                                                                                            Meso Test
+                                                                                                                               Target      MCRT
+
+                                                                                            5 days
+
+
+        5
+
+
+
+
+
+        0
+        11/25/06      12/9/06      12/23/06       1/6/07       1/20/07       2/3/07       2/17/07       3/3/07       3/17/07
+
+                                              Date
+
+
+15- day MCRT
+Initially, there was some difficulty in maintaining the MCRT at 15 days since the flow rate of the
+waste and feed pumps required frequent adjustments due to the varying thickness of the feed.
+Once the target MCRT was reached, however, the MCRT was relatively stable. The target 15­
+day MCRT was operated for a total of three MCRTs from 11/27/06 to 1/8/07. Both the
+thermophilic and mesophilic digesters were restarted due to instability based on the volatile acids
+and alkalinity data. The instability coincided with substantial temperature variations which are
+discussed in the next section (Section 3.2). The thermophilic digester was restarted on 12/14/06
+after 16 days of operation, and operated for 25 days before the MCRT was reduced to 10 days.
+The mesophilic digester was restarted after 36 days of continuous operation on 1/3/07, and ran
+for 4 days before another restart on 1/8/07, one day prior to the switch to a 10-day MCRT.
+
+10- day MCRT
+The digesters were operated at a 10-day MCRT from 1/9/07 to 3/2/07. The mesophilic digester
+was restarted on 1/29/07, after 20 days of operation.  It was operated for an additional 32 days
+before the switch to a 5-day MCRT. The thermophilic digester was restarted on 2/9/07 after 31
+days of operation at a 10-day MCRT, and operated for another 21 days before the switch to a 5­
+day MCRT.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                              8
+Funding Opportunity No. EPA-R9-WST-06-004

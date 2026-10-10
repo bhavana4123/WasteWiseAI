@@ -1,0 +1,66 @@
+TA 6M: Waste Heat Recovery
+
+
+
+
+             Cleaning high-temperature contaminated gases without cooling them to significantly lower (<570°F)
+          temperatures.
+
+              Thermoelectric system infrastructure to prepare for higher ZT value materials and for their use in
+          recovering low- to medium-temperature heat, particularly for surface heat losses such as in electrolysis
+           pots. Efficiencies of these systems are low, between 2 and 5%.16 Durability, cost, and scalability are a
+         few examples of the limitations on TEG implementation in industry.41,42,43 Current research has been
+          focused on producing more efficient devices.16 WHR from exhaust gases requires the use of a heat
+          exchanger, further reducing efficiency, increasing complexity, and adding to maintenance requirements.
+
+             Improved efficiency or lower initial costs for lower temperature power generation systems, such as the
+          Kalina cycle. The developments can include reducing the number of components (such as gas-liquid
+          heat exchangers) or using alternate fluids for the cycle.
+
+            Removal of tars and organic vapors from the exhaust gases without dropping their temperature to allow
+          heat recovery from the “cleaner” gases.
+
+              Materials and components that offer improved reliability and longer life for submerged heating devices
+           for corrosive surroundings, such as molten aluminum or molten glass.
+
+  Considerations for Aluminum Recycling Operations
+
+ WHR related R&D consideration for the Aluminum recycling operations include:
+
+             Cleaning of hot gases from rotary furnaces to allow heat recovery from exhaust gases.
+
+          A heat recovery system for hot (>1,800°F) exhaust gases containing materials such as flux material and
+        aluminum oxide particles.
+
+             Secondary heat recovery from gases discharged from recuperators used for combustion air preheating.
+         The gases could be in the temperature range of 400°F–800°F.
+
+  Considerations for the Cement Industry
+
+  The cement industry was the eleventh largest energy-consuming U.S. manufacturing sector in 2010 (following
+   chemicals; petroleum refining; forest products; food and beverage; iron and steel; plastics; fabricated metals;
+   transportation equipment; computer, electronics, and electrical equipment; and aluminum), consuming 307 TBtu
+   of the 19,237 TBtu of manufacturing total primary energy use.44,45 R&D issues in the Cement industry include:
+
+             Heat recovery from hot surfaces or kiln shell surfaces.
+
+             Cleaning (particulate removal) of air used to cool heated clinker prior to use of the now heated air in
+           boilers or other heat recovery systems.
+
+             Moisture control or reduction for the raw materials using exhaust gases from heat recovery systems.
+
+             Use of an alternate (conventional steam boiler or generator) CHP system for generating power using
+          hot air from cooling beds as well as exhaust gases from the system.
+
+  Considerations for the Glass Industry (including fiberglass and other glass products)
+
+  The glass industry was the twelfth largest energy-consuming U.S. manufacturing sector in 2010 (following
+   chemicals; petroleum refining; forest products; food and beverage; iron and steel; plastics; fabricated metals;
+   transportation equipment; computer, electronics, and electrical equipment; aluminum; and cement),
+  consuming 294 TBtu of the 19,237 TBtu of manufacturing total primary energy use.46,47 WHR related R&D
+   issues in the glass industry include:
+
+
+
+
+ 32  Quadrennial Technology Review 2015

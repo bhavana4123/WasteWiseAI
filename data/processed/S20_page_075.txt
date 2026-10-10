@@ -1,0 +1,48 @@
+                          366        WATER         367         To WWT
+Total Flow lb/hr              5557        15313         4905        15965
+Temperature F               135         90            114         116
+Pressure psia                20          30            20          20
+Vapor Frac                  1           0             1           0
+Mass Flow lb/hr
+H2                        428         0             428         0
+CO2                       168         0             167         0
+H2O                       216         15313         472         15057
+NH3                       711         0             36          674
+CH4                       850         0             850         0
+C2H6                      1027        0             1027        0
+C3H8                      555         0             555         0
+N-C4H10                   215         0             215         0
+N-PENTAN                  655         0             654         1
+HEXANE                    80          0             80          0
+TOLUENE                   39          0             38          0
+C16:0FA                    0           0             0           0
+2MPENTA                  126         0             125         0
+CC5-METH                  47          0             47          0
+2MHEXAN                  61          0             61          0
+HEPTANE                   5           0             5           0
+CC6-METH                  17          0             17          0
+PIPERDIN                   2           0             1           1
+3MHEPTA                   35          0             35          0
+OCTANE                    15          0             15          0
+ETHCYC6                   10          0             10          0
+ETHBENZ                   9           0             9           0
+O-XYLENE                   11          0             11          0
+C9H20                     14          0             14          0
+CC6-PRO                   8           0             8           0
+C3BENZ                    5           0             5           0
+4MNONAN                  4           0             4           0
+C10H22                    4           0             4           0
+C4BENZ                    4           0             4           0
+C11H24                    0           0             0           0
+C10H12                    3           0             3           0
+C12H26                    1           0             1           0
+1234NA                    2           0             2           0
+CC6-HEX                    1           0             1           0
+14DMNAPH                 1           0             1           0
+C7BENZ                    1           0             1           0
+NH4HS                     229         0             0           229
+Enthalpy, mmBtu/hr            -7.49         -104.21          -7.88         -103.82
+
+
+
+                           A.15

@@ -1,0 +1,53 @@
+Biomass-Derived Materials
+
+
+GLYCOGEN; solid; general formula: C H 0 ; polysaccharide found in the liver and
+   muscles of man and animals; can be hydrolo Iyzed to glucose.
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)   7538 Btu  lb;'
+    q,(gross) = 4188 cal g-
+    q,(gross)  = 17523 J g-l
+
+                                                             24MEI/MEY
+
+HEMICELLULOSE;solid; Extracted wood a& northern red oak (Quercus rubra) was divided
+    into three major chemical components of which hemicellulose comprised 33.33%. The
+    relationship between gross heat of combustion and moisture content (MC) is given by
+   the regression equation: anqv(5tu lb-l) = 8.8545-(0,0 103)MC(%),
+
+   gross heat of combustion: oven dry basis, assume values refer to room temperature;
+   values are reported in international British thermal units per pound and converted
+   below into thermochemical units.
+    q,(gross)  = 7170 Btu Ib; 1
+    q,(gross) = 3983 cal g-
+    q,(gross)  = 16666 J g-'
+
+                                                      78MUR/MAS
+
+INULIN; solid; repeating unit: C6H 1o05;similar in physical appearance to starch except
+   upon complete hydrolysis yields fructose instead of glucose; inulin is the chief source
+    of fructose.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross) = 7542 Btu  Ib;'
+    q,(gross) = 4190 cal g-
+    qv(gross) = 17531 J g-'
+
+                                                                 1887BER/VIE
+
+INULIN TRIACETATE; solid; repeating unit: C12HlGOa; dried at 120°C (248OF)in
+   vacuum over P205.
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross)  = 8140 Btu Ib; I
+    qv(gross) = 4522 cal g-    q,(gross) = 18920 J g- 1
+
+                                                             22KAR/FIO
+
+
+
+
+
+                                      70

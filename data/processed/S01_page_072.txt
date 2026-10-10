@@ -1,0 +1,46 @@
+                                                                       Foods
+
+
+ALMOIVDS; Prunus amygdalus; solid; 4.4%  moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+                                   1    q,(gross) = 5632 Btu lb;
+    q,(gross) = 3129 cal g-
+    q,(gross) = 13092 J g-l
+
+                                                      55MER/WAT
+
+BEANS, GREEN; solid; chemical analysis: 87.8% water, 0.26% fat, and 4.98% water
+    soluble solids.
+
+   specific heat:  4' to -40°C (40" to -40°F); the initial freezing point   -0.9OC (30.3"F).
+
+    tern erature
+    ('C!   (OF)
+
+    4.44   40                 0.92                    0.92                  3.85
+  - 0.94    30.3                0.92                    0.92                 3.85
+  - 6.67   20                 1.43                    1.43                 5.98
+  -12.2     10                 0.82                    0.82                 3.43
+  -17.0      0                 0.68                    0.68                  2.85
+  -23.3    -10                 0.60                    0.60                  2.5 1
+  -28.9    -20                   0.56                    0.56                 2.34
+  -34.4    -30                   0.50                    0.50                 2.09
+  -4 0     -40                  0.45                    0.45                  1.88
+
+                                                                 49STA
+
+BEANS, NAVY, WHITE, DRY; Phaseolus vuZgaris; solid; 11.2% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+                                1    qv(gross) = 7020 Btu lb-
+    q,(gross) = 3900 cal g-l
+    q,(gross) = 16320 J g-l
+
+                                                       55MER/WAT
+
+
+
+
+
+                                       77

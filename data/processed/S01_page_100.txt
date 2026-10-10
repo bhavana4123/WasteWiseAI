@@ -1,0 +1,47 @@
+                                                                            Fossil Materials
+
+
+
+COKE; solid; produced from the destructive distillation of bituminous coal in beehive
+   ovens; (sample I): fixed carbon, 91.43%; volatile carbon, 1.27%; sulfur, 0.51%;  ash,
+   6.09%; (sample 2): fixed carbon, 79.83%; volatile carbon, 1.05%;  sulfur, 2.13%; ash,
+   15.75%; water, 1.22%.
+
+   gross heat of combustion: assume values refer to room temperatures; corrected for
+   moisture and ash content.
+
+   sample 1                              sample 2
+
+                                                                 1                                                   13890                                                           Btu                                                  =    q,(gross)             14420                   Btu            =                        1P-'                      q,(gross)                                                              cal                                                                        g-                                                       q,(gross)                                                     = 7718                         g-    qv(gross)            = 801                1 cal
+    q,(gross) = 33520 J g-'                      qv(gross) = 32292 J g-l
+
+                                                           18POO
+
+COKE; solid; produced from the destructive distillation to red heat of petroleum; fixed
+   carbon, 98.05%; volatile carbon, 0.50%.
+
+   gross heat of combustion: assume values refer to room temperature.
+                         1    q,(gross) = 14510 Btu lb-
+    q,(gross)  = 8063 cal g-l
+    q,(gross)  = 33734 J g-l
+
+                                                           18POO
+
+COKE BREEZE; solid; ultimate analysis: carbon, 94.79%; hydrogen, 1.5 1%; oxygen,
+    1.48%; nitrogen,  I. 19%; sulfur, 1.03%; proximate analysis: ash, 12.05%; moisture,
+    10.77%; volatile matter, 4.92%; loss on air drying, 10.1%.
+
+    gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+
+            =                                                                 1    qv(gross)             14470                                                   11170                    Btu                                                           Btu                                                  =                                         1P-'                   qv(gross)                                                                                                     P-'                         g-                                                                        g-    q,(gross)            = 8038                                                       q,(gross)                                                              cal                    cal                                                     = 6204
+    q,(gross) = 33632 J g-l                        q,(gross) = 25958 J g-l
+
+                                                            18POO; l5FER
+
+
+
+
+
+                                        107

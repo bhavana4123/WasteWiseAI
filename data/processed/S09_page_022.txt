@@ -1,0 +1,50 @@
+After the above discussion, it is not too surprising that water can act as an acid and/or a base as
+water can be seen as H+ and OH- giving H2O. Actually, however, water reacts with itself as acid
+and base in the following fashion:
+
+                        H2O + H2O → H3O+ + OH-
+
+The double arrow indicates that a reaction can go in both directions. The concentrations of both
+H3O+ and OH- in neutral water are very low. In chemical terminology it is then said that the
+equilibrium of the reaction is on the left side of the equation. (Also H2O + H2O would usually
+be written as 2 H2O.)
+
+The above reaction forms the basis of the important concept of the pH value. The pH value is
+defined as the concentration of H3O+ (hydronium ion) in an aqueous solution.
+
+It is very important to know that the pH of neutral water is 7 (this results from the concentration
+of H3O+ in neutral water. (Question: How does the concentration of OH- in neutral water
+compare to that of H3O+?). An acidic solution has a pH below 7 while a basic solution has a pH
+above 7.
+
+The pH value of an aqueous solution can be conveniently measured directly in a matter of
+seconds using a pH meter. There are also strips of paper (indicator paper; a simpler version is
+litmus paper) that when held into a solution change color due to an acid-base reaction with the
+indicator on the paper. Comparison of the obtained color with a chart on the box in which the
+indicator paper is stored then gives the pH.
+
+Thus, an acid can be seen as a compound that produces H3O+ when dissolved in water beyond
+the H3O+ present in neutral water anyway. Conversely, a base produces OH- when dissolved in
+water beyond the OH- present in neutral water. (Exercise: Try writing the above equation for
+dissolving an acid or base in water. For an acid use the generic formula HA and for a base A-.)
+
+Another important part of the acid-base chemistry is that of neutralization. Many chemical
+reactions, including the transesterification reaction that yields biodiesel, require the use of
+catalysts. Catalysts are compounds that are often present in small amounts that cause a reaction
+to proceed at a faster rate. Often such catalysts can be acids or bases. That means that even when
+the reaction is over, the reaction solution will still be acidic or basic, depending on the kind of
+catalyst used (and the other materials present). Then it is usually necessary to neutralize the
+solution, i.e., the solution needs to attain the neutral pH. Not surprisingly, a basic solution can be
+neutralized with an acid and, vice versa, an acidic solution can be neutralized with a base. In
+many cases, a reaction of an acid and a base forms a salt, i.e., a product of part of the acid and
+base (the anion and cation). Actually, common table salt (NaCl) is an example as it can be seen
+as arising from sodium hydroxide and hydrochloric acid: NaOH + HCl → NaCl + H2O.
+
+Many other salts are possible. When producing biodiesel under basic (more common) or acidic
+(less common) conditions, neutralization is required. That neutralization may lead to a salt, that,
+although a side product of the process, may even be sold. It may be worthy of consideration to
+choose the neutralizing acid (or base) based not only on its cost but also on the market potential
+
+
+
+                                      18

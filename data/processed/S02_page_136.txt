@@ -1,0 +1,56 @@
+Furthermore, the supply of parts and service is more     13.4.1 Value of Power Produced
+limited, usually only through dealers.
+                                        PURPA requires utilities to buy back power generated
+                                                  from biomass at a price equal to the utility's  full,
+                                                    avoided Cu3t for generating power. Plants with excess1 3.4 Cost Benefits
+                                                       capacity may be worth considering if the extra capacity
+Using a gasifier may be justified on the basis of a single­    can be sold at a profit. Unfortunately, the electric utility
+purpose, in-house need.  If, additional uses can be     climate for PURPA buyback is one of confusion, misin­
+found, the gasifier may be more attractive. Some fac­     formation, and frequent changes, The PURPA law does
+tors to consider are sale of excess electricity and     not clearly define avoided costs and leaves interpreta­
+cogeneration.                                        tion to the individual states, with consequent
+
+
+                                                                                            Ă            1 0                                                                                  1 0                                                                   ;:ă
+                                                                        5                                                                                                                                                         <N
+                                                                                                                                                         '0                                                                                                   c
+                                                                                                   D    Gint  5                                              Gluel                                             m
+   <l:/kWh                                                <l:/kWh  5
+
+
+                                /kW
+         o   5    1 0   15   20   ijkl=$30           Annual interest yield %                                    Fuel cost $ilon
+
+
+        25
+        20                                          10
+  Gwear  1 5                                           Clabor  ¢/kWh                                    ¢/kWh
+             1 0                                               5
+         5
+
+
+
+
+                                                                           15                                                                                                                  :ao                                                              5      10    (thousands) 1   2   3   4   5                      o
+                 Engine life.h                               Wage rate $/h
+
+
+
+
+                                             1 0
+                          Cmainf
+                     ¢/kWh
+                                        Maintenance cost per service                              5   50--
+
+
+
+                                                               1 00     200     300    400
+                                          Maintenance interval h
+
+
+
+Fig. 13·1.  Electricity generation costs: graphic calculators for interest, wear, maintenance, fuel, and labor
+
+
+
+1 28    Handbook of Biomass Downdraft Gasifier Engine Systems

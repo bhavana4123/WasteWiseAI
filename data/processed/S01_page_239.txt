@@ -1,0 +1,49 @@
+Woody and Tree Materials
+
+
+
+LARCH, BARK; Larix occidentalis; solid; Bark samples were freeze-dried at room
+   temperature.  Composition is ash = 1.20% and char yield   37.3%.  Char was obtained
+   from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+   fuel                                      char (from 500°C heating)
+
+                                                     q,(gross)                                                   13140                                                            Btu    q,(gross)             10250                   Btu            =                                                                       1P-'                                              I P-'                        g-   qv(gross)            = 5690                   cal                                                                       g-                                                     q,(gross) = 7300                                                                 cal
+    q,(gross) = 23820 J g-'                        q,(gross) = 30540 J g-'
+
+                                                                 82SUS
+
+LARCH, LUMBER; Larix accidentatis; solid; Wood was air-dried at room temperature.
+   Composition is ash = 0.17% and char yield = 23.7%.  Char was obtained from heating
+   the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+   fuel                                      char (from 500°C heating)
+                                                                1    q,(gross)  = 8700 Btu lb-I                       q,(gross)  = 13830 Btu lb-
+    q,(gross)  = 4830 cal g-'                         q,(gross)   7680 cal g-'
+                      1   qv(gtoss) = 20220 J g-                          q,(gross)   32150 J g-l
+
+                                                                 82SUS
+
+LARCH, WESTERN; BARK; Larix occidentdis; solid; gross heat of combustion
+   determined on 1 g samples of air-dried bark; ash content   1.6%; moisture content =
+   6.7%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+                        1    q,(gross)   8204 Btu lb;
+    q,(gross)  = 4558 cal g"
+    q,(gross)  = 19071 J g-'
+
+                                                          55CHA/MIT
+
+
+
+
+
+                                       262

@@ -1,0 +1,57 @@
+     5.    Ince, Peter 3.  (1979). How to Estimate Recoverable Heat Energy in Wood or
+         Bark FueZs. USDA, Forest Service, Forest Products Laboratory, GTR FPL 29.
+
+       A reference source is provided for estimating the amount of heat energy that
+        may be recovered using wood or bark fuel in a typical furnace, boiler, or hot
+            air combustion heat recovery system. A survey of reported data on higher
+          heating values for various species of wood and bark fuels is provided. A set of
+         formulas of a type commonly used by combustion technologists is also provided
+           for estimating combustion system heat losses and net recoverable heat energy
+          per pound of fuel as-fired, based on fuel higher heating value, moisture con-
+           tent, and excess air, stack gas temperature, and ambient temperature
+          assumptions.
+
+    6 .    Baker, A. (February 1983.). "New Findings on Wood Fuel Values."  American
+          Forest, pp. 45-47, 51-52.
+
+       A general discussion of the heating value and burning characteristics of cord
+        wood for home heating.
+
+B.  References t o Extensive Collections of Heats of Combustion of Biomass Materials
+
+      1.    Kryla, J.M. (February 1984). Determination of Available Heat of Combustion
+         Data for Canadian Woody Species. ENFOR Project P-256.  Forintek Canada
+           Corp., Ottawa, Ontario, Canada.
+
+       A literature review was conducted to obtain reliable, experimentally deter-
+         mined calorific data for the various components of Canadian tree species.
+          Information was obtained for 48 tree species native to Canada and is presented
+            in tabular form. For indigenous species, the overall mean calorific value was
+         found to be 21.18 MJ/kg for softwood materials (i.e. stem wood, stem bark,
+           foliage, etc.) compared t o 19.35 MJ/kg for hardwoods.  Variation between
+          reported values for a component of a particular species was found t o be gener-
+           ally less than 5% but, in some instances, exceeded 10%. Calorific data are
+          also presented for hybrid poplar and for several foreign species commonly
+          planted in Canada.
+
+       2.    Kuester, J.L.  (1985). Arizona State University, Tempe, Arizona.
+
+            In a multi-year program for DOE, Kuester's laboratory has measured the heats
+            of combustion and composition of more than 100 highly diverse forms of bio-
+         mass (from almond shells to skunkbrush).  Heating values (dry basis) vary from
+         7400 t o 12,700 Btu lb'l  for materials with ash ranging from 0.1% to 35.9%;
+          protein from 0.1% to 25.3%;  lignin from 7.8%  t o 28.8%; cellulose from 17.7%
+          to 46.7%, and lipids from 5.1% to 14.9%.  Results have been reported in Con-
+          version of Cellulosic Wastes to Liquid FueZs. DOE Interim Report No.
+         COD-2982-83.  Contract No. DE-AC02-76CS40202,August 1982, and in a
+         forthcoming Summary Report.
+
+      3.    Fisher, J.A.  (October 1984). Fiber Fuels Institute. Standards Specifications
+         Development. Phase I Activities, Final Report. (Fiber Fuels Institute, 310
+         Cedar St., St. Paul, MN 55101)
+
+
+
+
+
+                                       327

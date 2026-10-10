@@ -1,0 +1,16 @@
+Appendix A. Individual Equipment Costs Summary
+
+The left side of the following table shows abbreviated specifications and the purchased cost for
+each piece of equipment in the PFDs. The right side of the table shows the calculations used to
+scale the purchased cost for size and installation. Although each piece of equipment has its own
+line, many were quoted as part of a package so their scaling calculations are grayed out. Note
+that the package prices are generally listed on the first associated line-item.
+
+NREL and Harris Group would like to acknowledge the equipment vendors who assisted us with
+the cost estimation effort for this design report.
+
+
+
+
+
+                                      96

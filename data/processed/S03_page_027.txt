@@ -1,0 +1,64 @@
+                                  Figure 3.3 Anaerobic Food Waste Digester pH
+
+      9.0
+
+
+
+      8.5
+
+             Start 15d MCRT                               Start 10d MCRT                                        Start 5d MCRT
+           11/27/2006                               1/9/2007                                         3/3/2007
+      8.0
+
+
+      7.5                                                                                                          Avg: 7.44 (1)
+
+
+                                                                                                        Thermo Test
+ pH 7.0
+                                                                                                   Meso Test
+
+
+      6.5                                                                                           NOTES:
+                                                                                                                                          1. Average values of
+                                                                                                                               digesters fed
+      6.0                                                                                                                 municipal sludge per
+                                                                                                                          previous EBMUD
+                                                                                                                                   study.
+
+      5.5
+
+
+
+      5.0
+      11/25/06      12/9/06      12/23/06       1/6/07       1/20/07       2/3/07       2/17/07       3/3/07       3/17/07
+
+                                             Date
+
+
+15-day MCRT
+The lowest pH observed in the digesters during the 15-day MCRT operational period was 5.84
+(12/13/06) for the thermophilic digester and 6.19 (1/5/07) for the mesophilic digester. These low
+pH values (in addition to high volatile acids and low gas production) indicated that the digester
+was no longer stable, and conditions were not favorable for growth of methanogens. The
+thermophilic digester was reseeded on 12/14/06 and the mesophilic digester was reseeded on
+1/8/07.
+
+10-day MCRT
+The lowest pH reached during the 10-day MCRT operational period was 5.71 (2/9/07) for the
+thermophilic digester and 6.14 (1/29/07) for the mesophilic digester. As noted above during the
+15-day MCRT operational period, these low pH values (in addition to high volatile acids and low
+gas production) indicated that the digester was no longer stable, and conditions were not
+favorable for growth of methanogens. Consequently, the digesters were reseeded immediately.
+
+5-day MCRT
+As soon as the MCRT was reduced to 5 days, a steady decline in the pH was observed for both
+digesters. The pH began to stabilize in both digesters at a value of approximately 5.6 during the
+last week at 5-day MCRT operation. Again, the low pH values indicated that the digester was no
+longer stable, and the pH was not favorable for growth of methanogens. The digesters were not
+reseeded during the 5-day MCRT operational period.
+
+
+
+Anaerobic Digestion of Food Waste                                                               12
+Funding Opportunity No. EPA-R9-WST-06-004

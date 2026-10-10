@@ -1,0 +1,50 @@
+                                                  Approximate results can be obtained by comparing the
+                                                volume of sample required for a particular depth of
+                    B                                  color deposit such as 50% grey measured on a standard                                  I
+                                                     grey scale such as that used for smoke testing (Dwyer
+                                                           1960). Tests at SERI found that a color of 50% grey on
+                                                      a 47-mm filter disc, taken from a standard grey scale,
+                                                       represented approximately 0.12 to 0.5 mg of collected
+                                                     contaminants (Das 1985). A quantity of gas for chemi­
+                                                             cal analysis can be collected at the same time as the
+                                                  sample to be used for physical analysis.
+
+
+                                                        7.4.2 Iso kinetic Sampling
+                                                            Isokinetic (equal gas-velocity) conditions in the flow
+                                                chamber and the sampling tube should be ensured
+                                              where particle sizes exceed 10 J.1m. Otherwise particle­
+                                                             size distribution will not be the same in the chamber
+                                               and sampling tube. The design of sampling-tube parts
+                                               and their placement within the gas stream are shown
+                                                       in Figs. 7-8 and 7-9, respectively. Figure 7-10 shows
+                                                          velocity streamlines for a sampling tube in a flow
+                                                     chamber. Part "a" illustrates isokinetic conditions; that
+                                                                                  is, the streamlines are equally spaced within the ductFig. 7-7. Static tap sampling port  (Source: ASME 1969, Fig. 1)
+                                               and tube. In "b," sampling-tube velocity is less than in
+                                                     the duct (indicated by the wider streamline spacing inThe temperature, pressure, and moisture content of gas
+                                                     the tube), and proportionately more gas must flowat the nozzle must be accounted for when designing a                                                  around the tube than through it. However, the inertiasampling train, and measurements should be reduced                                                     of large particles impedes their being carried by the gasto standard conditions. For average samples, the test
+                                                           that deflects around the tube. Large particles in lineduration should be long enough to average the reading                                                 with and immediately upstream of the sampling tubeover at least one cycle of the equipment being tested­                                                     continue their flight into the tube. Hence, propor­for instance, the fuel-feed cycle, the scrubber service                                                            tionately more large particles exist in the tube than flowcycle, or the shaking cycle. For snap samples or where
+                                                       in the chamber. The opposite holds true where tubea transient phenomenon is being observed, then the                                                            velocity is greater than the velocity in the chambermost rapid sampling method and small samples should                                                                     (Fig. 7-1O(c)); i.e., large particles are underrepresentedbe used.                                                     in the tube.
+Hot, raw gas emerging from any gasifier will contain
+                                                       Nonisokinetic sampling erroris plotted in Fig. 7-11. Wetar, char-ash, soot, and water vapor, and it is relatively
+                                                    can see that for under 10 !lID-particles, the concentra­simple to measure these quantities in a small sample
+                                                         tion error is within ±10% over a wide range of samplingof raw gas. After the gas has been cleaned and condi­                                                           velocity from half to double the gas 'velocity for ationed, the measurements become more difficult. Im­
+                                                           velocity ratio u,lu between 1/2 and 2.purity levels are much lower, so  it is necessary to                      g
+handle much larger gas samples in order to accumulate     In practice, the high efficiency cyclone separator of a
+a measurable-sized sample. The principles of measure­     gasifier system will remove most particles larger than
+ment remain the same, but the measurements require     10 J.1m, so for the smaller particles remaining in the gas
+more time to accomplish,                                stream, the error due to nonisokinetic sampling can be
+                                                           ignored.The physical analysis of producer gas is based on the
+weight of tar, particulates, and water in a measured    The sampling error for nonisokinetic sampling condi­
+quantity of gas. Therefore, a positive-displacement gas­     tions also can be neglected for tar mists and other very
+testing meter (such as those made by Singer, Rockwell,     fine aerosols. In fact, the sampling port of Fig. 7-7 can
+and the American Gas Association) should be available     serve as a convenient 10-J.1m coarse inertial prefilter.
+for calibrating flowmeters, pumps, and similar com­    The particle-sample probe of Fig. 7-9 tends to accumu­
+ponents. An analytical balance capable of weighing to     late impacted large-particle deposits and eventually
+0.1 mg is also required for accurate measurement oftars      clogs, so it should be adjusted to face downstream
+and particulates.                                      during periods that it is not in use.
+
+
+
+56    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,44 @@
+                                                            Polypeptides and Proteins
+
+
+
+WOOL PROTEIN; solid; material is a keratin containing 14.3% cystine, 3.9% sulfur, and
+   16.85% nitrogen.
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    q,(gross)  = 10100 2 4.1 Btu 1
+    q,(gross) = 5609 ? 2.3 cal g-
+    q,(gross) = 23468 ? 9.6 J g-l
+
+                                                               64PAL/REI
+
+WOOL SULFATE; solid; salt formed from reaction of wool with sulfuric acid, 2.21%
+    sulfate.
+
+   gross heat of combustion: assume values refer to room temperature, sulfur product
+   aqueous H ~ S O ~ .
+
+    q,(gross)  = 9625 Btu 1bT
+   qJgross)  = 5347 cal g-
+   qv(gross) = 22372 J g- 1
+
+                                                                    3 1 PAS/KON
+
+WOOL pTOLUENESULFONATE;solid; salt formed from reaction of wool with
+   p-toluene-sulfonic  acid; 6.6% p-toluenesulfonate.
+
+   gross heat of combustion: assume values refer to room temperature; sulfur product
+   aqueous H2S04.
+    q,(gross)  = 9824 Btu lbi I
+   qv(gross) = 5458 cal g-
+    q,(gross)  = 22836 3 g-l
+
+                                                           31PAS/KON
+
+
+
+
+
+                                        197

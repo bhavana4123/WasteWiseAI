@@ -1,0 +1,64 @@
+                                                              PNNL-27186
+
+
+be competitive with fossil fuels. This analysis illustrates the feasibility of HTL for point-of-generation
+conversion of waste feedstock at a scale 1/20th that of the standard lignocellulosic biorefinery scale
+typically used in BETO design cases. The relevance of this work reaches beyond wastewater treatment
+sludge to lay the groundwork for application to other distributed wet wastes and blends that together
+represent a significant resource of underutilized biomass.
+
+
+
+
+                          Biocrude from Sludge Hydrothermal Liquefaction
+
+                          Primary/Secondary Wastewater Treatment Sludge (25 wt% solids; 15% ash)
+
+                            Minimum Selling Price     $2.35 $/gge biocrude
+                            Minimum Selling Price     $2.53 $/gal biocrude
+
+
+                                                Biocrude        4.1 million gge/yr
+                                                                0.47  trillion Btu/yr
+
+                                                         132 gge/US ton AFDW sludge
+                                                          15 million Btu/US ton AFDW sludge
+
+                                 Internal Rate of Return (After-Tax)     10%
+                            Equity Percent of Total Investment     40%
+                                            Cost Year     2014
+
+                      CAPITAL COSTS                                  MANUFACTURING COSTS
+   Sludge Dewatering                           $1,400,000     8%   Plant Hours per year                      7920
+  HTL Oil Production                          $13,100,000     72%   Feed rate, dry sludge                       110 ton/day
+  HTL Water Recycle Treatment                $3,100,000     17%   Feed rate, dry ash-free sludge                  93.5 ton/day
+   Balance of Plant                              $600,000     3%   Feed rate, slurry                            69 gal/min
+   Total Installed Capital Cost                   $18,200,000    100%
+                                                                                                       $/gge biocrude          $/year
+                                                                      Avoided sludge disposal cost                   0.00              $0
+      Building, site development, add'l piping       $3,300,000               Natural Gas                                  0.14          $600,000
+       Indirect Costs                            $12,900,000             Chemicals                                   0.18          $800,000
+     Working Capital                           $1,700,000                 Electricity                                    0.11          $500,000
+     Land (plant located at WWTP)               $100,000              Fixed Costs                                  0.68        $2,800,000
+                                                                               Capital Depreciation                           0.27        $1,100,000
+   Total Capital Investment (TCI)                $36,200,000             Average Income Tax                          0.16          $700,000
+                                                                   Average Return on Investment                  0.81        $3,300,000
+    Installed Capital per Annual GGE Biocrude             $4.5                                                           2.35
+   TCI per Annual GGE Biocrude                        $8.9
+                                                                 PERFORMANCE
+                                                                     Net Electricity Purchased (KW)                               818
+   Loan Rate                                   8.0%             Net Electricity Purchased (KWh/gge product)                         1.6
+  Term (years)                                   10
+   Capital Charge Factor (computed)                  0.141             (Energy in Biocrude) / (Electricity+Natural Gas Input)                  4.1
+
+                                                                             Overall Carbon Yield to Biocrude
+                                                   On sludge + natural gas                             66%
+                                                   On sludge                                      72%
+
+                    Figure ES.1. Summary economics for sludge HTL plant.
+
+
+
+
+
+                                                     iv

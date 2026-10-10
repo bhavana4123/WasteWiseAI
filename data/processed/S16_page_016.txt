@@ -1,0 +1,45 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+
+        Licence.
+        Unported
+   3.0
+PM.
+
+             Fig. 9  Changes in percent crystallinity between the ﬁrst and second heat of a DSC experiment for (A) all PE and PP samples (B) all PBT, PHB, EVOH,6:34:53        PVAc, and PVOH samples. Increasing values indicate an increased cystallinity in the second heat, and decreasing values indicate decreasing crystalli-
+             nity in the second heat. These results can be used to assess how much thermal history was applied to the polymer, and reversability of crystallization
+           behavior. Samples were run from at a rate of 10 °C min−1 with 5-minute isothermal holds between each heating and cooling ramp. Upper and lower
+          temperature bounds can be found in Table S12 in the ESI.†6/21/2024on Attribution-NonCommercial
+
+
+         as powders (see Text S1† for details). In the following section  number and weight-average molecular mass which resulted in
+        we will discuss polymer changes observed after cryomilling   a narrower distribution of molecular masses. Alternatively,Downloaded Commons
+                                                                        ABS-1,                                                                PMMA-1,                                                                       PMMA-5,                                                                                and                                                                                                  PVAc-1                                                                                                               exhibited                                                                                                   an                                                                                                                            increase                                                                                                                                     in             GPC,                  DSC,                          as                              well                                 as SAXS,                                  and WAXS.
+2024.                                                  Đ indicating                                                                                          that                                                                                       the decrease                                                                                                        in         GPC               was                   used                            to                           determine                                    changes                                                 in molecular mass dis-                                                                                                                       in                                                                                                              a broader                                                                                                                                                     dis-                                                                          Mn resulted        Creative    using
+ a     tributions                and                          dispersity                                   following                                              cryomilling,                                                    by correlating                                                                            tribution                                                                                       of masses.                                                                                           PS-1                                                                                 had decreases                                                                                                                          with                                                                                                                   in Mw and                                                                                         MnMarch         changes in                   molecular                         mass                                       distributions                                                    to the length                                                                  of time  minimal                                                                       change                                                                                           in Đ,                                                                                                 indicating                                                                                                              that the reduction                                                                                                                             in                                                                                                                             average26 under         a sample was cryomilled.89 Changes in Mw, Mn, and Đ post   molecular mass did not impact the overall distribution of
+on
+          cryomilling was observed in 15 polymers (Fig. 10). Decreases   masses. PVC-2 and PHB-1 displayed an increase in Mn, with a        licensed    in Mw, Mn, and Đ occurred in three polymers (PE-6, PP-5, and   decrease in both Mw and Đ, which likely indicates that the
+  is
+          PS-3) indicating that these polymers exhibited a decrease in   higher molecular mass portion of the polymer were reduced toPublished
+       article
+Article. This
+Access
+Open
+
+
+
+
+
+             Fig. 10  Percent diﬀerence of number-average molecular mass (Mn), weight-average molecular mass (Mw), and dispersity (Đ) after cryomilling.
+           Increasing % diﬀerence indicates an increase following cryomilling, and polymers shown exhibit diﬀerences of >15% in at least one category. (A) Mn,
+         Mw, and Đ all decrease for PE-6, PP-5, and PS-3. (B) Mn and Mw decrease, and Đ increases for PS-1, ABS-1, PMMA-1, PMMA-5, and PVAc-1. (C) Mw
+         and Đ decrease, and Mn increases for PVC-2, nylon-6, nylon-66, ABS-3, and PHB-1. (D) Đ decrease, Mn and Mw increases for PET-2, and PC-1. (E)
+          Mn, Mw, and Đ all increase for PVOH-2. Mn represents the most abundant, often lower, molecular masses, whereas Mw represents the higher molar
+         mass portion of the bulk polymer. A decrease in Mn, Mw, and Đ indicates both a decrease in low and high molecular mass components and distri-
+           bution of masses.
+
+
+
+        7082  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

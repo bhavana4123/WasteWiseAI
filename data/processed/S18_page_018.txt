@@ -1,0 +1,17 @@
+assumptions) as well as improved economies of scale (if such a high feed rate can be sustained),
+while also receiving positive revenue from higher-value co-products such as protein and
+hydrogen. Furthermore, this study assumes a consolidated bioprocessing (CBP) approach,
+which—although less developed than separate saccharification and co-fermentation—could
+further improve economics by reducing enzyme costs. Conversely, studies on the high end of the
+MESP range such as Kazi et al. [12] and Klein-Marcuschamer et al. [13] assumed higher
+feedstock costs while achieving much lower ethanol yields. Compared to NREL’s 2002 design
+report (upon which many of its cost inputs were based), the Klein-Marcuschamer study’s base
+case assumes much longer batch times for saccharification and fermentation (thus higher
+associated capital costs), higher enzyme costs, and a lower carbohydrate fraction in the feedstock
+(contributing to lower yields) [14].
+
+
+
+
+
+                                       8

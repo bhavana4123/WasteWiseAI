@@ -1,0 +1,51 @@
+   1 Introduction
+       In 2007, the U.S. Department of Energy’s Office of the Biomass Program (now titled Bioenergy
+      Technologies Office), in collaboration with the National Renewable Energy Laboratory (NREL),
+       established the goal of achieving cost-competitive cellulosic ethanol production from corn stover
+     by 2012. The conversion process consists of dilute-sulfuric-acid pretreatment followed by
+      enzymatic hydrolysis and cofermentation of the resultant biomass sugars to ethanol using a
+      metabolically engineered fermentative strain. The technology improvement strategy was to
+      achieve yearly increases in process conversion yields, along with associated reductions in
+     modeled ethanol production costs. Progress toward this goal was measured using nth-plant
+      techno-economic models to estimate ethanol production cost based on conversion yields
+      obtained during integrated bench- and pilot-scale experiments. The final objective is to
+      demonstrate integrated pilot-scale performance that achieves the 2012 minimum ethanol selling
+       price (MESP) cost target (Humbird et al. 2011) of $2.15/gal.
+
+     To assess production costs, NREL maintains a techno-economic model that describes the process
+      and production economics of one conceptual biochemical ethanol conversion process. This is
+      described in detail in the 2011 biochemical design report (Humbird et al. 2011). The overarching
+      process design in this model is dilute-acid pretreatment of corn stover, followed by enzymatic
+       saccharification and pentose/hexose cofermentation using a recombinant fermentative organism.
+      Ethanol is separated from the fermentation broth, water is recycled back to the process, and
+       lignin and other residues are burned to produce steam and electricity. For a given set of
+      biochemical conversion parameters, Aspen Plus process simulation software is used to generate
+       material and energy balance and flow rate information (Aspen Technology, Inc. 2007). These
+      data are used to size and cost process equipment and compute raw material and other operating
+       costs, assuming a feed rate to the biorefinery of 2,205 dry U.S. tons of corn stover per day. Using
+      a discounted cash flow rate of return analysis, the MESP ($/gal) required to obtain a net present
+      value of zero for a 10% internal rate of return (IRR) is determined. The result is a so-called
+      techno-economic model that reasonably estimates an “nth-plant” production cost for this pre-
+      commercial process from the pilot-scale conversion data generated in the Integrated Biorefinery
+      Research Facility (IBRF) at NREL.
+
+      This design report incorporates recent progress in the conversion areas (pretreatment,
+       conditioning, saccharification, and fermentation), optimizations in product recovery, and an
+      improved understanding of the ethanol plant’s supporting processes (wastewater and utilities)
+       relative to earlier versions. Using 2012 conversion targets and “nth-plant” project costs and
+       financing, and a feedstock cost of $58.50/dry ton, the target MESP is $2.15/gal (in 2007$). The
+       specific FY 2012 MESP target of $2.15/gal can be found in the April 2012 Biomass Program
+      Multi-Year Program Plan (MYPP) Table C-3 (DOE 2012). This report will discuss the state of
+      technology (SOT) analysis using this most recent 2011 design report model exclusively.
+
+      Table 1 shows the yield and cost performance objectives for the Biochemical Platform. The
+       technical targets for 2012 are listed in the far right column. While clearly significant progress
+     was made toward the final cost and technical targets through 2011, further improvements were
+      needed if we were to capture the final required incremental cost savings. The key yield targets
+       that determine ethanol production and would be instrumental in capturing such cost savings are
+       xylan-to-xylose, cellulose-to-ethanol, xylose-to-ethanol and arabinose-to-ethanol. The 2011 SOT
+
+
+                                            1
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.

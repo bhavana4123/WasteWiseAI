@@ -1,0 +1,49 @@
+    1.  Reciprocating internal combustion engines
+    2.  Combustion turbines
+    3.  Steam turbines
+    4.  Microturbines
+    5.  Fuel cells
+
+In 2008, the EPA CHP Partnership Program published its first catalog of CHP technologies as an online
+educational resource for regulatory, policy, permitting, and other interested CHP stakeholders. This CHP
+Technology Guide is an update to the 2008 report1. The Guide includes separate, detailed chapters on
+each of the five prime movers listed above. These technology chapters include the following
+information:
+
+    •   Description of common applications
+    •   Basic technology description
+    •   Cost and performance characteristics
+    •   Emissions and emissions control options
+    •   Future developments
+
+Packaged CHP Systems
+
+In September 2017, the EPA CHP Partnership added a new section (Section 7) to the Catalog that
+provides information on packaged CHP systems. Specifically, the section discusses:
+
+    •  The evolution of packaged CHP systems
+    •   Significant attributes
+    •   Applications
+    •   Technology description
+    •   Cost and Performance characteristics
+    •   Emissions and emission control options
+
+
+This introduction and overview section provides a discussion of the benefits of CHP technologies, a
+summary comparison of the five main prime-mover technology systems, and a discussion of key CHP
+benefits. There is also an appendix that provides the formulas for the various performance
+measurements used in the Guide.
+
+1.1  Overview of CHP Technologies
+The five technologies described in the Guide make up 97 percent of the CHP projects in place today and
+99 percent of the total installed CHP electric capacity. Table 1-1 shows the breakdown by each prime
+mover technology.
+
+
+
+
+1 Catalog of CHP Technologies, U.S. Environmental Protection Agency Combined Heat and Power Partnership Program,
+December 2008.
+
+
+Catalog of CHP Technologies                      1–2                                          Introduction

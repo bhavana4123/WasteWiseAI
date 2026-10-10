@@ -1,0 +1,25 @@
+                Figure 6: PyTec 50 t/d ablative pyrolysis demonstration plant
+
+
+
+
+
+                 Figure 7: Aston University ablative plate fast pyrolysis reactor (above) and unit (right)
+
+
+               Entrained flow
+                Entrained flow fast pyrolysis is in principle a simple technology, but most
+                developments have not been as successful as had been hoped, mostly because of the
+               poor heat transfer between a hot gas and a solid particle. High relative gas velocities
+               and high turbulence are required to effect sufficient heat transfer.This requires large
+                 plant sizes and high gas flow rates, which results in more difficult liquid collection
+               from the low vapour partial pressure. Liquid yields have usually been lower than fluid
+               bed and CFB systems.
+
+           By-products
+
+
+                Charcoal and gas are by-products, typically containing about 25% and 5% of the
+                energy in the feed material respectively.The pyrolysis process itself requires about
+          15% of the energy in the feed; and of the by-products, only the char has sufficient
+10

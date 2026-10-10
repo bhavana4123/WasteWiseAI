@@ -1,0 +1,52 @@
+                                                                    Agricultural Residues
+
+
+ALFALFA, SEED, STRAW;solid; Material is considered biomass fuel and has  roximate
+    analysis values (in percent by weight dry basis) for volatile concentration VCM) =                                                                  P
+    72.60, ash content = 7.25, and fixed carbon = 20.15.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    46.76, hydro en = 5.40, oxygen = 40.72, nitrogen = 1.00, sulfur = 0.02, chlorine = 0.03,
+   and residue ash)   6.07.            P
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 7937 Btu lb- 1
+    qv(gross) = 4410 cal g-'
+    qv(gross)  18450 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+    q,(net)   7468 Btu lb- 1
+    qv(net) = 4149 cal g-'
+    q,(net)  = 17360 J g-l
+
+                                                                       85 JEN/EBE
+
+ALMOND HULLS; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 71.33, ash
+   content = 5.78, and fixed carbon = 22.89.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 45.79,
+   hydrogen = 5.36, oxygen = 40.60, nitrogen = 0.96, sulfur = 0.01, chlorine = 0.08, and
+   residue (ash) = 7.20.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 7838 Btu lb-'
+    q,(gross) = 4355 cal g-1
+    q,(gross) = 18220 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net)  = 7370 Btu lbll
+    q,(net)   4094 cal g-
+    q,(net)   17130 J g-l
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                          9

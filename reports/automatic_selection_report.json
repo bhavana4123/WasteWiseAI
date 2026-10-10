@@ -1,0 +1,33 @@
+{
+  "published_feed_scopes": 127,
+  "verified_unrestricted_mapping_scopes": 54,
+  "reexecuted_demo_scenarios": 17,
+  "python_tests_passed": 254,
+  "python_tests_failed": 0,
+  "original_engineering_tests_passed": 205,
+  "backend_api_tests_passed": 49,
+  "browser_tests_passed": 26,
+  "browser_tests_failed": 0,
+  "browser_tests_flaky": 0,
+  "typescript": "PASSED",
+  "production_build": "PASSED",
+  "protected_files_unchanged": 25,
+  "scientific_csvs_unchanged": 6,
+  "engine_python_files_unchanged": 19,
+  "electricity_heat_forecasts": "BLOCKED",
+  "external_predictive_validation": "NOT_VALIDATED",
+  "files_changed": [
+    "backend/recommendation.py (new)",
+    "backend/main.py",
+    "backend/schemas.py",
+    "backend/README.md",
+    "frontend/src/api.ts",
+    "frontend/src/catalog.ts",
+    "frontend/src/App.tsx",
+    "frontend/src/styles.css",
+    "frontend/README.md",
+    "frontend/playwright.config.ts",
+    "frontend/tests/dashboard.spec.ts",
+    "tests/test_backend.py"
+  ]
+}

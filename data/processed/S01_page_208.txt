@@ -1,0 +1,23 @@
+Vegetable Oils
+
+
+WHEAT OIL; liquid; from wheat grain, Triticum aestivurn,
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross) = 16850 Btu 1
+    q,(gross) = 9360 cal g-
+    q,(gross) = 39162 J g-l
+
+    oil obtained by ether extraction
+   qv(gross) = 16330 Btu Ib- 1
+   q,(gross) = 9070 cal g-l
+   q,(gross) = 37950 J g-l
+
+                                                      55MER/WAT
+
+
+
+
+
+                                      230

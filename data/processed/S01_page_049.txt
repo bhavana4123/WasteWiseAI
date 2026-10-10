@@ -1,0 +1,59 @@
+Alloys and Metals
+
+
+
+STEEL, NPL NO. 19; solid; composition: carbon, 0.315%; silicon, 0.20%; manganese,
+   0.69%; sulfur, 0.036%; phosphorus, 0.039%; chromium, 1.09%; nickel, 0.073%;
+   molybdenum, 0.0 12%; copper, 0.066%; aluminum, 0.005%. arsenic, 0.028%; remainder
+     is iron; annealed at 860°C (1580OF); density, 7.842 g cm-j at 15°C (59°F).
+
+   specific heat:
+
+    tern erature
+    (KP  (OF)
+
+    323   122                  0.1 153                    0.1 153              0.4824
+    400   261                0.1232                  0.1232                 0.5 155
+    490   423                0.1277                  0.1277              0.5343
+    589   601                0.1354                  0.1354              0.5665
+    682   768                0.1471                  0.1471               0.6 145
+
+                                                           59MAR/RIX
+
+STEEL, STAINLESS; solid; En-58C (sample I): chromium, 17.7%; nickel, 10.9%; manga-
+   nese, 1.73%; En-58B (sample 2): chromium, 17.8%; nickel, 8.05%; manganese, 1.21%.
+
+   specific heat:
+
+   Sample 1 (En-58C)
+
+   60-190 K (-352" to -118°F)
+
+   Cp(Btu lb-I  OF-')    = 0.11077 + 1.1471 x    T + 3.1191 x     T2 + 1.7884 x  lo-'  T3
+   Cp(cal Q-1 K-l)     = -0.04976 + 1.7309 x lod3 T - 6.980 x     T2 + 1.043 x 10-8 ~3
+   Cp(3 g-  K-l)       = -0.20819 + 7.2421  x     T - 2.9206  x     T2 + 4.364  x 10-8 T3
+
+   190-320 K (-1 18" to 116°F)
+
+   Cp(Btu lb-'  OF-')    = 0.10922 + 6.6460 x    T - 1.5492 x 10-7 T2 + 4.0758  x 10- 10 T3
+   Cp(cal9-1 K-l)     = 0.00635 + 8.4104  x lod4 T - 2.323 x 10-I5 T2 + 2.377  x 10-9 T3
+   Cp(J g-  K-l)       = 0.02658 + 3.5189  x lok3 T - 9.721  x     T2 + 9.946  x 10-9 7'3
+
+   Sample 2 (En-588)
+
+   60-190 K (-352" to -118°F)
+
+   Cp(Btu Ib-I  OF-')     = 0.10911 + 9.3932 x    T + 1.9847 x     T2 + 1.6202 x 10-9 T3
+   Cp(cal-ql K-l)     = -0.04950 + 1.6893 x    T - 6.596 x loq6 T2 + 9.449 x 10-9 T3
+                                                       x lod3 T - 2.7598 x    T2 + 3.9535 x 10-8 T3   Cp(J g  K-l)      = -0.20711 + 7.0680
+
+    190-320 K (-118" to 116°F)
+
+                                                                                  x     T2 + 5.1989  x 10- 10 T3   Cp(Btu lb-I  OF-')    = 0.10885 + 6.6472 x    T - 1.4788
+   Cbcal    5-l)     = -0.00345 + 9.5756 x     T - 2.802 x 10  T2 + 3.032  x 10-9 T3     q1
+   Cp(J g- K   )       -- -0.01443 + 4.0064  x     T - 1.1725 x    T2 + 1.2686 x  lo-'  T3
+
+                                                         66MAR
+
+
+                                        46

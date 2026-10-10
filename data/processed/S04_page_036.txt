@@ -1,0 +1,51 @@
+temperatures and engine jacket and lube system coolant flows. CHP thermal recovery estimates are
+based on producing hot water for process or space heating needs.
+
+Most reciprocating engine manufacturers typically assign three power ratings to engines depending on
+the intended load service:
+
+    •  Standby – continuous full or cycling load for a relatively short duration (usually less than 100
+        hours) – maximum power output rating
+
+    •  Prime – continuous operation for an unlimited time (except for normal maintenance
+       shutdowns), but with regular variations in load – 80 to 85 percent of the standby rating
+
+    •  Baseload – continuous full-load operation for an unlimited time (except for normal maintenance
+       shutdowns) – 70 to 75 percent of the standby rating.
+
+The ratings shown are for baseload operation.
+
+    Table 2-2. Gas Spark Ignition Engine CHP - Typical Performance Parameters
+                                                                 System
+       Cost & Performance Characteristics14
+                                                1         2        3        4          5
+ Baseload Electric Capacity (kW)                     100       633      1,121     3,326       9,341
+ Total Installed Cost in 2013 ($/kW) 15                 $2,900     $2,837    $2,366    $1,801      $1,433
+  Electrical Heat Rate (Btu/kWh), HHV16                12,637     9,896     9,264     8,454       8,207
+  Electrical Efficiency (%), HHV                      27.0%     34.5%    36.8%    40.4%      41.6%
+ Engine Speed (rpm)                                  2,50017     1,800     1,800    1,50018      720
+ Fuel Input (MMBtu/hr), HHV                          1.26       6.26     10.38     28.12       76.66
+ Required Fuel Gas Pressure (psig)                      0.4-1.0    > 1.16    > 1.74    > 1.74       75
+ CHP Characteristics
+ Exhaust Flow (1000 lb/hr)                              1.2        7.89     13.68     40.17       120
+ Exhaust Temperature (Fahrenheit)                    1,200      941      797      721        663
+ Heat Recovered from Exhaust (MMBtu/hr)             0.21       1.48       2       5.03        10
+ Heat Recovered from Cooling Jacket (MMBtu/hr)       0.46       0.72      1.29      1.63        4.27
+ Heat Recovered from Lube System (MMBtu/hr)           Incl.       0.27      0.44      1.12         5.0
+ Heat Recovered from Intercooler (MMBtu/hr)          n/a       0.31      0.59      2.89        7.54
+ Total Heat Recovered (MMBtu/hr)                    0.67       2.78      4.32     10.67       26.81
+ Total Heat Recovered (kW)                        196       815      1,266     3,126      7857
+
+
+14 Characteristics are for representative natural gas engine gensets commercially available in 2013. Data based on (1) Tecogen
+Inverde Ultra 100, (2) GE Jenbacher (GEJ) JMS-312C65; (3) GEJ JMS-416B85, (4) GEJ JMS-620F01, and (5) Wartsila 20V34SG
+15 Details on installed costs are provided later in Table 2-4.
+16 All engine manufacturers quote heat rates in terms of the lower heating value (LHV) of the fuel. However the purchase price
+of fuels on an energy basis is measured on a higher heating value basis (HHV). For natural gas, the average heat content is 1030
+Btu/scf on an HHV basis and 930 Btu/scf on an LHV basis – a ratio of approximately 0.9 (LHV / HHV).
+17 At rated load. The unit operates at variable speeds from 1,000 to 3,000 rpm, with a peak output of 125 kW while producing
+60 Hz power through the inverter.
+18 The unit operates through a gearbox to produce 60 Hz power.
+
+
+Catalog of CHP Technologies                         2–10                         Reciprocating IC Engines

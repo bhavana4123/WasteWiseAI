@@ -1,0 +1,49 @@
+enzyme amount was added initially, at 3.5 h the pH was readjusted to about 5.4, and then the
+remaining enzyme was added.
+
+Figure 3 shows monomeric glucose production profiles for each runs. As expected, both final
+glucose titers and yields are higher at higher enzyme loadings. For all loadings, maximum
+glucose production is achieved in 3–4 days. There is insufficient information to know if the
+alternative enzyme addition policy employed in Run 5 was beneficial.
+
+                                  120
+                                                         (g/L)
+                                  100
+
+
+                                   80                                                                                                                                                    Concentration
+                                   60
+                                                              Run 1-33 mg/g                                                                                Glucose                      Run 2-33 mg/g
+                                   40                                                              Run 3-26 mg/g
+                                                              Run 4-19 mg/g
+                                   20                   Run 5-19 mg/g                                                                                                      Monomeric
+
+                                    0
+                                       0         24        48        72        96
+                                                  Time (h)
+
+            Figure 3. Monomeric glucose production during enzymatic hydrolysis of
+                                pretreated slurries from Runs 1–5
+
+Table 7 shows enzymatic hydrolysis performance results for each run. The NH4OH usage is
+provided to check the prediction of NH4OH requirements from the techno-economic model
+(calculated based on stoichiometric neutralization demand). Note that NH4OH use for Run 1 was
+higher than the other runs because the target pH value was overshot during base addition.
+Because of the difficulties in adequately mixing high solids slurries, there was a significant lag
+between NH4OH addition and a response from the pH probe. More careful addition of NH4OH
+avoided this problem during ensuing runs.
+
+                     Table 7. Enzymatic Hydrolysis Performance Results
+                                                            Cellulose-to-     Adjusted Cellulose-  Demonstration  Enzyme Loading   NH4OH Usea                                                 Glucose Yield      to-Glucose Yieldb     Run #            (mg/g)             (g/kg)                                                          (%)                 (%)
+       1               33               11.4              86.5                 91.8
+       2               33                7.1               85.8                 88.4
+       3               26                7.6               83.7                 88.9
+       4               19                6.4               77.4                 78.3
+       5                 19c                7.7               80.3                 82.5
+a 15% (w/w) NH4OH solution per kg of hydrolysate slurry on a 20% TS basis
+b Adjusted for additional glucose produced during fermentation (from conversion of gluco-oligomers)
+c Value calculated assuming a protein content of 175 mg protein/g solution.
+
+
+
+                                      13

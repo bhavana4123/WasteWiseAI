@@ -1,0 +1,43 @@
+Section 2. Technology Characterization – Reciprocating Internal
+         Combustion Engines
+
+2.1   Introduction
+Reciprocating internal combustion engines are a well-established and widely used technology.
+Worldwide production for reciprocating internal combustion engines is over 200 million units per year.7
+Reciprocating engines include both diesel and spark-ignition configurations. They are important for both
+transportation and for stationary uses. Their sizes range from fractional horsepower engines to 5-story
+tall marine propulsion systems weighing over 5 million pounds and producing over 80 megawatts (MW)
+of power. The long history of technical development and high production levels have contributed to
+making reciprocating engines a rugged, reliable, and economic choice as a prime mover for CHP
+applications.
+
+Reciprocating engine technology has improved dramatically over the past three decades, driven by
+economic and environmental pressures for power density improvements (more output per unit of
+engine displacement), increased fuel efficiency, and reduced emissions. Electronic Power Control
+Modules (PCMs) have made possible more precise control and diagnostic monitoring of the engine
+process. Stationary engine manufacturers and worldwide engine R&D firms continue to drive advanced
+engine technology, including accelerating the diffusion of innovative technology and concepts from the
+automotive market to the stationary market.
+
+The features that have made reciprocating engines a leading prime mover for CHP and other distributed
+generation applications are summarized in Table 2-1.
+
+                 Table 2-1. Reciprocating Engine Characteristics
+Size range               Reciprocating engines are available in sizes from 10 kW to over 18 MW.
+                        Reciprocating engines can produce hot water, low pressure steam, and chilled waterThermal output                         (using an absorption chiller).
+                     The fast start-up capability of reciprocating engines allows timely resumption of the
+Fast start-up           system following a maintenance procedure. In peaking or emergency power applications,
+                         reciprocating engines can quickly supply electricity on demand.
+                          In the event of an electric utility outage, reciprocating engines require minimal auxiliaryBlack-start capability                    power requirements. Generally only batteries or compressed air are required.
+                        Reciprocating engines have typically demonstrated availability in excess of 95 percent inAvailability                         stationary power generation applications.
+                     The high part-load efficiency of reciprocating engines ensures economical operation inPart-load operation                            electric load following applications.
+                        Reciprocating engines have proven to be reliable power generators given properReliability and life                      maintenance.
+                         Diesel engines have relatively high emissions levels of NOx and particulates. However,Emissions                         natural gas spark ignition engines have improved emissions profiles.
+
+
+
+
+7 Power Systems Research, EnginLinkTM 2013
+
+
+Catalog of CHP Technologies                          2–1                         Reciprocating IC Engines

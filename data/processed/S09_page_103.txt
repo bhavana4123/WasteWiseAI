@@ -1,0 +1,50 @@
+                        Table 18: Biodiesel material compatibility.
+
+            Polymer                   Relative to Standard Diesel
+               Fluorosilicon              Hardness little change, swell +7%
+                Nitrile                    Hardness –20%, swell +18%
+            Nylon 6/6                      Little Change
+             Polypropylene             Hardness –10%, swell +8-15%
+              Polyurethane              Hardness little change, swell +6%
+              Polyvinyl              Much worse
+              Teflon                          Little change
+           Tygon                  Worse
+             Viton A401-C                 Little change
+             Viton GFLT                   Little change
+
+When storing biodiesel, the temperature that is experienced by the biodiesel must be closely
+monitored so as to avoid the formation of crystals. These crystals are formed by the solidification
+(freezing) of the biodiesel. Crystal formation is undesirable since the crystals can plug fuel lines
+and fuel filters. To avoid the formation of crystals, biodiesel should be stored at a temperature at
+least 15˚F higher than the pour point of the fuel. For most pure biodiesel storage temperatures of
+45-50˚F are generally adequate. Even in most cold climates, underground storage of pure
+biodiesel commonly provides the necessary storage temperature to prevent crystal formation. If
+pure biodiesel is stored above ground in cold climates, the storage system needs to include
+additional features such as insulation, agitation capability, and/or heating capability. Blends of
+biodiesel with standard diesel can frequently be stored at lower temperatures. These blends still
+need to be stored at least 15˚F above pour point temperature for the blend. The formation of
+crystals is reversible as heating of the biodiesel can be used to melt the crystals. Alternatively,
+the crystals can be filtered from the biodiesel.
+
+Stability of the biodiesel is an important attribute if the biodiesel is to be stored for a prolonged
+period. Poor stability can lead to increasing acid numbers, increasing fuel viscosity, and the
+formation of gums and sediments. Information about the stability of the stored biodiesel can be
+achieved by monitoring the acid number and viscosity. Storage stability of biodiesel has not been
+extensively examined relative to its composition. Therefore, the current best practice involves
+not storing biodiesel or biodiesel blends for more than six months. The stability of stored diesel
+fuels can be enhanced by using antioxidants. Examples of acceptable antioxidants include t-butyl
+hydroquinone (TBHQ), Tenox 21, and tocopherol. Water contamination must be minimized in
+the stored fuel as it can lead to biological growth in the fuel. If water contamination occurs,
+biological growth can be mitigated by using biocides.
+
+When selecting tanks for the storage of biodiesel several factors should be considered.
+Acceptable materials of construction for biodiesel storage tanks include aluminum, steel, Teflon
+and fluorinated polyethylene or polypropylene. If the tanks to be used have been previously used
+for the storage of standard diesel fuels, the tanks should be cleaned prior to use for biodiesel
+storage. Tanks should be selected to minimize the possibility of water contamination.
+
+
+
+
+
+                                      99

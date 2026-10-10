@@ -1,0 +1,53 @@
+ Woody and Tree Materials                                                                                                                                                                                       I
+
+
+HEVEA (RUBBER TREE); solid; Material came from mature trees growing on Rengam
+    series soils in Kuala Lumpur, Malaysia. Samples were oven-dried at 80°C (176'F)  to
+    constant weight, milled to a powder and pelleted in units of about 1 g each.
+
+    gross heat of combustion: dry weight basis, used 30 atm oxygen; assume values refer
+    to toom temperature.
+
+   branch bark                             main-stem wood
+    q,(gross) = 7765 Btu lb- I                                                       q,(gross)  = 7974 f 30.2 Btu Ib-I
+    q,(gross)  = 4314 cal g-l                        q,(gross)  = 4430 f 16.8 cal    q,(gross) = 18050 J g-l                        q,(gross) = 18535k 70.3 J g-s'
+
+   branch wood                                 petioles
+                              1                                  1    q,(gross) = 8037 ? 30.2 Btu lb-                q,(gross)  = 8377 Btu lb-
+                                                              1    q,(gross) = 4465 f 16.8 cal g-'                 q,(gross)  = 4654 cal g-
+    q,(gross) = 18682 f 70.3 J g-'                  q,(gross)  = 19472 J g-l
+
+    leaves                                               t tunk bark
+
+                                                                              1    q,(gross)  = 9000 Btu lb-I                      q,(gross) = 7875 Btu lb-
+    q,(gross)  = 5000 cal g-l                       q,(gross)   4375 cal g-l
+    q,(gross)  = 20920 J g-'                         q,(gross) = 18305 J g-'
+
+   main-stem bark                            trunk wood
+    qv(gross) = 7675 Btu Ib- 1                                                      q,(gross)  = 8062 f 30.2  Btu 1
+    q,(gross)  = 4264 cal g-'                         q,(gross)  = 4479 k 16.8 cal
+    q,(gross)  = 17841 J g-l                        q,(gross) = 18740 ? 70.3 J g-l
+
+                                                             83LEO
+HEVEA (RUBBER TREE), CLONE RRIM 527; solid; Material came from mature trees
+   growing on Rengam series soils in Kuala Lumpur, Malaysia. Samples were oven-dried
+   at 80°C (176OF) to constant weight, milled to a powder, and pelleted in units of about
+   1 g each,
+
+   gross heat of combustion:  dry weight basis; used 30 atm oxygen; assume values refer
+   to room temperature.
+
+   trunk and main-stem plant parts           branches
+                           1    q,(gross)  = 7897 Btu lb;                     qv(gross) = 7870 Btu lb;'
+    q,(gross)  = 4387 cal g,                          q,(gross)  = 4372 cal 5;
+    q,(gross)  = 18355 J g-                       qv(gross) = 18292 3 g
+
+   leaves plus petioles plant parts
+    q,(gross) = 8689 Btu Ibi 1
+    q,(gross)  = 4827 cal g-
+    q,(gross)   20196 J g-l
+
+                                                             83LEO
+
+
+                                       258

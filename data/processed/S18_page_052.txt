@@ -1,0 +1,45 @@
+                       $0.70
+
+                       $0.60
+                                    $/gal  $0.50
+
+                       $0.40
+                                                                                      Contribution  $0.30
+
+                       $0.20                                           Enzyme
+                       $0.10
+
+                            $-
+                           0        10        20        30        40        50
+
+                                    Enzyme Loading mg/g cellulose
+
+                Figure 11. Enzyme contribution to MESP as a function of loading
+
+The lower limit of enzyme loading is not well understood. In theory, enzyme molecules are not
+consumed during the hydrolysis reaction but, over time, they may become inactivated by
+denaturation or irreversible binding to solid particles, especially when lignin is present. Bench-
+and pilot-scale experiments at NREL are therefore typically overloaded (i.e., an excess of
+enzyme is used) to ensure complete hydrolysis, because we may only have the resources to run a
+limited number of experiments. However, we have observed that advanced enzymes demonstrate
+diminishing increases in conversion at loadings as low as 20 mg/g. Ultimately, the lower limit of
+enzyme loading will be determined by industry and enzyme manufacturers, and will likely
+decrease as pretreatment technologies and enzyme preparations continue to improve. For the
+present design, however, NREL was not comfortable modeling an enzyme loading less than 20
+mg/g.
+
+The enzyme cost contribution modeled here is lower than one would expect for an enzyme
+preparation purchased from a separate, non-adjacent production facility. Transportation of the
+enzyme to the ethanol plant could alone add $0.09–$0.18/kg of product, even if formulation
+costs could be avoided. Furthermore, by lumping the enzyme production equipment in with the
+ethanol plant, some key items are inherently shared, e.g., the land and buildings, cooling tower,
+and utilities infrastructure. Overhead and fixed costs, especially labor and management, would
+also be higher for a standalone facility. Eliminating the shared aspects between the enzyme unit
+and the ethanol plant could easily add another 5 cents per gallon of ethanol to the enzyme
+contribution. Additionally, an external enzyme production facility would probably demand a
+higher rate of return than the 10% IRR assumed for the ethanol plant because it is a higher-risk
+and lower-volume business. Including all these extra costs would bring the total enzyme cost
+contribution in line with the $0.50/gal level cited in the press.
+
+
+                                      42

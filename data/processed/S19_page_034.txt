@@ -1,0 +1,63 @@
+demonstrated here) to 80%, the MESP would increase by $0.09/gal. Baseline xylan-to-xylose
+yield is 81% in the FY 2012 model. Assuming 90% xylose yield in pretreatment would reduce
+cost by $0.07/gal, while assuming 70% would result in an increase of more than $0.09/gal. If
+arabinose-to-ethanol yield can be improved from the baseline of 54% to 85%, the cost could be
+reduced by $0.03/gal.
+
+
+
+           Enzyme loading (10:19:30 mg protein/g cellulose)
+
+
+                      Cellulose-to-glucose yield (90%:78%:70%)
+
+
+                           Contamination loss (0%:3%:10%)
+
+
+                               Glucose-to-ethanol (95%:85%)
+
+
+                                 Xylose-to-ethanol (93%:80%)
+
+
+                          Xylan-to-xylose yield (90%:81%:70%)
+
+
+                Pretreatment reactor capital (-25%:0%:+25%)
+
+
+                             Arabinose-to-ethanol (54%:85%)
+
+
+                 Protein conc mg/g by protein assay (165:175)
+
+
+                      Xylan loss in deacetylation (0%:2%:6%)
+
+
+Enzymatic hydrolysis & fermentation residence time (4d:5d:7d)
+
+                                                                                                   -0.35      -0.3       -0.25      -0.2       -0.15      -0.1       -0.05 0      0.05    0.1      0.15    0.2      0.25
+
+
+                                                                   Change to $2.15/gal MESP ($/gal)
+
+      Figure 10. Tornado chart to quantify cost sensitivity relative to FY 2012 SOT baseline
+
+3.3 Sustainability Metrics for Demonstration Case
+Life-cycle inventory (LCI) estimates of the biorefinery for the 2011 design case and the current
+2012 SOT case models (specifically, pilot-scale demonstration Run 4 associated with the TEA
+results discussed above) are compiled and summarized in Appendix B. The LCI data consider
+input and output flows to and from the modeled biorefinery; these data quantify the consumption
+of natural resources (including water, energy, and raw materials) as well as releases to air, land,
+and water associated with cellulosic ethanol production. As such, LCI data are important inputs
+for performing sustainability metrics evaluation and life-cycle assessment (LCA). The LCIs in
+Appendix B are established by the corresponding Aspen Plus process models discussed above,
+fixed at a 2,000 dry metric ton/day corn stover feed rate.
+
+The biorefinery also produces excess electricity as a coproduct. Electricity produced exceeds the
+on-site power demand for the biorefinery; this excess power is assumed to be sold back to the
+
+
+                                      27

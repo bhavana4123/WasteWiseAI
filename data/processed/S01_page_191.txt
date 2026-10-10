@@ -1,0 +1,47 @@
+                                                                    Vegetable Oils
+
+
+
+BARLEY OIL; liquid; oil from barley, Hordeum vulgare; obtained by ether extraction.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+                        1           =    q,(gross)                   Btu             16330                                      P-'                         g-            = 9070                    cal    q,(gross)
+    qv(gross) = 37950 J g-'
+
+                                                      55MER/WAT
+
+CASTOR OIL; liquid; The vegetable oil has a chemica composition of up t o 3 fatty acids
+    linked to a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic = 1.09, stearic   3.10, oleic = 4.85, linoleic = 1.27, and
+    ricinoleic = 89.60.  The acid value (number of mg of KOH needed to neutralize free
+    fatty acids in 1 g sample) = 0.21, the phosphorus = 3.0 ppm, peroxide value (milli-
+   equivalents of peroxide pet 1000 g sample that oxidize KI during test conditions)
+    9.6, water and sediment (% by volume) = trace, carbon residue (% by weight) = 0.22,
+   ash (% by weight)   0.01, and sulfur (% by weight) = 0.01.  Density = 0.9537 kg/L.
+
+   gross heat of combustion: assume values refer to room temperature.
+                            1    q,(gross)  = 16036 Btu lb-
+    q,(gross)  = 8909 cal g-l
+                               1    q,(gross) = 37274 J g-
+
+                                                          82GOE/SCH
+
+CASTOR OIL; liquid; oil from seeds of the castor bean, Ricinus communis; chief
+   constituent: glyceride of ricinoleic acid ( 12-hydroxyoleic acid).  Saponification
+   number 175-183.  Iodine number 83 after heating at 100°C (212°F) for 3 t o 6 hours at
+    2-3 mm pressure; density is 0.945-0.965 g ~  r n at- ~25°C (77°F).
+
+   specific heat: 298-548 K (77"-527"F)
+
+   Cp(Btu lb-I  OF-')    = 0.41281 + 1.2259 x    T - 3.4892  x  lo-'  T2 + 3.8820 x 10-9 T3
+                      = -1.265 + 0.01241 T - 2.8650  x     T2 + 2.264  x 10-8 7-3   Cp(cal q-'
+   Cp(J g- K-        = -5.292 + 0.05192 T - 1.1987  x    T2 + 9.474  x  lo-'  T3
+
+                                                            46CLA/ WAL
+
+
+
+
+
+                                       213

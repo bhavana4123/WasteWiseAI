@@ -1,0 +1,47 @@
+of 72.8 percent (LHV basis.) The low pressure steam can extract the exhaust energy down to a HRSG
+stack temperature of 275 °F; for the high (900 psig) steam requirement, energy can only be extracted
+down to a HRSG stack temperature of 380 °F.49
+
+Overall CHP efficiency generally remains high under part load conditions because the lower efficiencies
+of electric generation at part load create more heat available for recovery steam making. The same low
+pressure steam system described above has an overall efficiency at 50 percent output that is virtually
+unchanged from full load operation even though the generation efficiency has dropped from 32.8
+percent to 24.8 percent (LHV basis.) However, at 50 percent load the power to heat ratio has dropped
+from the full load value of 0.70 to 0.46 indicating that a much higher share of the total energy recovered
+is in the form of heat.
+
+Gas turbines operate with a high degree of excess air compared to the stoichiometric ratio50 required
+for combustion of the input fuel. Turbine exhaust is typically about 15 percent oxygen. Since very little
+of the available oxygen in the turbine air flow is used in the combustion process, the oxygen content in
+the gas turbine exhaust permits supplementary fuel firing ahead of the HRSG to increase steam
+production relative to an unfired unit. Supplementary firing can raise the exhaust gas temperature
+entering the HRSG up to a maximum of 2,800°F and increase the amount of steam produced by the unit
+by more than a factor of four. Moreover, since the turbine exhaust gas is essentially preheated
+combustion air, the fuel consumed in supplementary firing is less than that required for a stand-alone
+boiler providing the same increment in steam generation. The HHV efficiency of incremental steam
+production from supplementary firing above that of an unfired HRSG is often 85 percent or more when
+firing natural gas.
+
+Supplementary firing also increases system flexibility. Unfired HRSGs are typically convective heat
+exchangers that respond solely to exhaust conditions of the gas turbine and do not easily allow for
+steam flow control. Supplementary firing capability provides the ability to control steam production,
+within the capability of the burner system, independent of the normal gas turbine operating mode. Low
+NOx duct burners with guaranteed emissions levels as low as 0.08 lb NOx/MMBtu can be specified to
+minimize the NOx contribution of supplemental firing.
+
+3.4.3 Part-Load Performance
+When less than full power is required from a gas turbine, the output is reduced by lowering the turbine
+inlet temperature. In addition to reducing power, this change in operating conditions also reduces
+efficiency. Figure 3-4 shows a typical part-load derate curve. Emissions are generally increased at part
+load conditions, especially at half load and below.
+
+
+
+
+
+49 Vendor supplied performance data.
+50 The stoichiometric ratio refers to the amount of one reactant necessary to completely react with other reactant, without
+having any input leftover once the reaction has completed.
+
+
+Catalog of CHP Technologies                          3–9                          Combustion Tubines

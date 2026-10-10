@@ -1,0 +1,45 @@
+ 3.2.9 Cost Analysis of All Pilot-Scale Demonstration Runs
+ Techno-economic modeling was performed for all five pilot-scale demonstration runs (see
+ Table 15). The FY 2012 SOT case used Run 4 as the basis for techno-economic modeling. The
+ achieved overall ethanol yields for Run 5 (conducted at the same general processing conditions
+ and enzyme loadings) were slightly higher than for Run 4. This leads to a slight reduction in
+ MESP for Run 5 ($2.13/gal ethanol). Thus, the two pilot-scale demonstration runs that utilized
+ an enzyme loading of 19 mg protein/g cellulose either met or slightly improved upon the
+ overall cost target.
+
+   Table 15. Performance and MESP Summary for All FY 2012 Pilot-Scale Demonstration Runs
+                          Enzyme           Xylan-  Arabinan-                                      EtOH   Demo                     Loading    Cellulose-  Xylose- Arabinose       MESP               to-         to-                                                     Yield   Run #                  (mg protein/  to-Glucose to-EtOHa -to-EtOH            ($/gal)          Xylose  Arabinose                                                    (gal/ton)                          g cellulose)
+    Target  90%    90%         20       90%     85%    85%     79.0    $2.15
+      1b   93%    96%         33       92%       –        –       –      –
+      2    81%    86%         33       85%     86%    62%     73.0    $2.36
+       3c    88%    92%         26       89%     58%    56%     70.4    $2.32
+      4    81%    95%         19       78%     93%    54%     70.9    $2.15
+      5    82%    91%         19       82%     91%    51%     72.5    $2.13
+      a Glucose-to-ethanol yields are fixed at 95%
+      b Fermentation terminated due to contamination
+      c Minor contamination was detected
+
+3.2.10 Cost Sensitivity Analysis
+Optimization of deacetylation with downstream processing. A range of 2%–6% xylan loss
+has been observed in the black liquor after the deacetylation step as soluble xylan. Although
+black liquor is sent to WWT where most of the heating value of the extracted xylan is reclaimed
+with the integrated energy system in the design, the overall ethanol production is reduced with
+the amount of xylan lost. The percentage of xylan loss to black liquor is believed to depend on
+feedstock varieties, as well as the strength of alkaline treatment (combination of alkaline loading,
+temperature, and duration). Optimization of deacetylation process conditions will be required to
+maximize overall sugar and ethanol yields. Additionally, process scenarios to recover solubilized
+xylan, acetic acid, and/or lignin in the black liquor represent an opportunity to reclaim additional
+value from this stream and to further reduce WWT costs. To quantify the cost implications of
+xylan loss in the deacetylation step, a sensitivity analysis is performed with 0%–6% loss of xylan
+during deacetylation to black liquor (see Figure 10), keeping in mind that we assumed 2% loss in
+our base case model.
+
+Enzyme loading. Enzyme loading is a well-documented key cost driver in overall MESP
+results, relative to a baseline of 20 mg/g (Humbird et al. 2011). Given continuously evolving and
+improving enzyme preparations available from commercial companies, the cost sensitivity to
+enzyme loading is evaluated relative to the base case utilized here at 19 mg/g. The loading is
+varied between 10 mg/g as a reasonable improvement in the near-term for developing
+commercial enzyme cocktails, up to 30 mg/g as an approximation for the upper end of enzyme
+
+
+                                      25

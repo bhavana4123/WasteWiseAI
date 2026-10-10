@@ -1,0 +1,48 @@
+Table 1. Composition of Various Oils and Fats.
+Oil or fat             14:0   16:0     18:0    18:1    18:2    18:3     20:0   22:1
+Soybean                     6-10     2-5     20-30   50-60   5-11
+Corn                 1-2    8-12     2-5     19-49   34-62   trace
+Peanut                       8-9      2-3     50-65   20-30
+Olive                       9-10     2-3     73-84   10-12   trace
+Cottonseed            0-2    20-25    1-2     23-35   40-50   trace
+Hi linoleic Safflower           5.9       1.5      8.8     83.8
+Hi Oleic Safflower             4.8       1.4     74.1    19.7
+Hi Oleic Rapeseed             4.3       1.3     59.9    21.1    13.2
+Hi Erucic Rapeseed            3.0       0.8     13.1    14.1    9.7      7.4    50.7
+Butter                7-10   24-26    10-13   28-31   1-2.5    .2-.5
+Lard                 1-2    28-30    12-18   40-50   7-13    0-1
+Tallow               3-6    24-32    20-25   37-43   2-3
+Linseed Oil                  4-7      2-4     25-40   35-40   25-60
+Yellow grease         2.43   23.24    12.96   44.32   6.97    0.67
+(Typical)                              16:1=3.79
+Data derived from Organic Chemistry, W.W. Linstromberg, D.C. Heath and Co., Lexington, MA, 1970.
+
+
+Linoleic:    R =  - (CH2)7 CH=CH-CH2-CH=CH(CH2)4CH3
+                                          18 carbons, 2 double bonds (18:2)
+
+Linolenic:   R =  - (CH2)7 CH=CH-CH2-CH=CH-CH2-CH=CH-CH2-CH3
+                                          18 carbons, 3 double bonds (18:3)
+
+These chains are designated by two numbers separated by a colon. The first number designates
+the number of carbon atoms in the chain and the second number designates the number of double
+bonds. Note that the number of carbon atoms includes the carbon that is double bonded to the
+oxygen atom at one end of the fatty acid (called the carboxylic carbon). This is the end that the
+methanol attaches to when methyl esters are produced. Table 1 shows the percentages of each
+fatty acid chain present in common oils and fats.
+
+For simplicity, consider an oil such as soybean oil to consist of pure triolein. Triolein is a
+triglyceride in which all three fatty acid chains are oleic acid. This is near the actual number of
+carbons and hydrogens and gives a molecular weight that is near the value for soybean oil. If
+triolein is reacted with methanol, the reaction will be that shown in Figure 2. Note that weights
+for each of the compounds in the reaction are given. These are based on the fact that one
+molecule of triolein reacts with 3 molecules of methanol to produce 3 molecules of methyl
+oleate, the biodiesel product, and one mole of glycerol. Chemists typically multiply all the terms
+of this equation by a large number that corresponds to the number of molecules in a quantity
+equal to the molecular weight of the substance. This quantity is called a mole of the substance.
+To calculate the molecular weight of triolein, we count the number of carbons in the molecule
+(57) and multiply
+
+
+
+                                       2

@@ -1,0 +1,56 @@
+      Ethanol Production Process Engineering Analysis
+                              Corn Stover Design Report Case: 2012 model DW1102A
+                           Dilute Acid Pretreatment with Enzymatic Hydrolysis and Co-Fermentation
+                                                              All Values in 2007$
+        Minimum Ethanol Selling Price (MESP): $2.15 /gal
+                                   Gasoline-Equivalent MESP:    $3.27 /gal gasoline equivalent
+                                            Contributions:   Feedstock      $0.74 /gal
+                                              Enzymes      $0.34 /gal
+                                    Non-Enzyme Conversion     $1.08 /gal
+                                                 Ethanol Production       61.0 MMgal/yr (Ethanol at 68 °F)
+                                                      Ethanol Yield       79.0 gal / dry U.S. ton feedstock
+                                      Feedstock + Handling Cost    $58.50 /dry U.S. ton
+                                           Internal Rate of Return (After-Tax)     10%
+                                    Equity Percent of Total Investment     40%
+                       Capital Costs                                        Manufacturing Costs (cents/gal ethanol)
+Pretreatment                               $29,900,000           Feedstock + Handling                        74.1
+Neutralization/Conditioning                    $3,000,000              Sulfuric Acid                                   2.4
+Saccharification & Fermentation              $31,200,000          Ammonia                                      6.5
+On-site Enzyme Production                 $18,300,000           Glucose (enzyme production)                 19.3
+Distillation and Solids Recovery              $22,300,000            Other Raw Materials                          12.9
+Wastewater Treatment                      $49,400,000          Waste Disposal                                2.5
+Storage                                     $5,000,000            Net Electricity                                 -10.8
+Boiler/Turbogenerator                       $66,000,000            Fixed Costs                                 17.5
+Utilities                                     $6,900,000             Capital Depreciation                          22.0
+Total Installed Equipment Cost              $232,000,000            Average Income Tax                          12.3
+                                                                Average Return on Investment                 56.6
+Added Direct + Indirect Costs               $190,500,000
+    (% of TCI)                       45%                              Manufacturing Costs ($/yr)
+                                                               Feedstock + Handling                 $45,200,000
+Total Capital Investment (TCI)               $422,500,000              Sulfuric Acid                          $1,500,000
+                                                     Ammonia                             $4,000,000
+Installed Equipment Cost/Annual Gallon             $3.80           Glucose (enzyme production)          $11,800,000
+Total Capital Investment/Annual Gallon              $6.92            Other Raw Materials                   $7,900,000
+                                                       Waste Disposal                       $1,500,000
+Loan Rate                                  8.0%            Net Electricity                         -$6,600,000
+Term (years)                                    10            Fixed Costs                         $10,700,000
+Capital Charge Factor (Computed)                  0.131             Capital Depreciation                  $13,400,000
+                                                                Average Income Tax                   $7,500,000
+Denatured Fuel Production (MMgal/yr)                61.7            Average Return on Investment          $34,600,000
+Denatured Fuel Min. Sales Price                   $2.18
+Denaturant Cost ($/gal denaturant)                 $2.10                         Specific Operating Conditions
+                                                    Enzyme Loading (mg/g cellulose)              20
+Maximum Yields (100% of Theoretical)                                  Saccharification Time (days)                    3.5
+   Ethanol Production (MMgal/yr)                   80.3            Fermentation Time (days)                       1.5
+    Theoretical Yield (gal/U.S. ton)                  103.9            Ethanol titer (wt%)                       5.4%
+Current Yield (Actual/Theoretical)                76.0%           Excess Electricity (kWh/gal)                    1.8
+                                                                       Plant Electricity Use (kWh/gal)                  3.9
+                                                                       Plant Water Usage (gal/gal)                     5.4
+
+                   Figure ES-1. Economic summary for ethanol production
+
+
+
+
+
+                                                iv

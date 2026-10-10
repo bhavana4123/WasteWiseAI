@@ -1,0 +1,48 @@
+List of Tables
+
+Table 1. Comparison of Technoeconomic Analyses and Market Studies for Existing Biofuels .... 7
+Table 2. Survey of Recent Technoeconomic Studies on Biochemical Cellulosic Ethanol ............ 9
+Table 3. Summary of Whole Stover Composition Data ............................................................... 13
+Table 4. Corn Stover Composition from the 2002 Design [2] and the Present Design ................ 14
+Table 5. Pretreatment Reactor Conditions .................................................................................... 21
+Table 6. Pretreatment Hydrolysis Reactions and Assumed Conversions ..................................... 22
+Table 7. Research Status and 2012 Targets in the Pretreatment Area .......................................... 24
+Table 8. Enzymatic Hydrolysis Conditions .................................................................................. 28
+Table 9. Enzymatic Hydrolysis Reactions and Assumed Conversions ........................................ 28
+Table 10. Seed Train Specifications ............................................................................................. 29
+Table 11. Seed Train Reactions and Assumed Conversions ......................................................... 29
+Table 12. Co-Fermentation Contamination Loss Reactions ......................................................... 30
+Table 13. Co-Fermentation Conditions ......................................................................................... 31
+Table 14. Co-Fermentation Reactions and Assumed Conversions ............................................... 31
+Table 15. Research Status and 2012 Targets in Enzymatic Hydrolysis and Fermentation .......... 32
+Table 16. Summary of Integrated Whole-Slurry Enzymatic Hydrolysis Performance Using an
+Advanced Enzyme Preparation ..................................................................................................... 33
+Table 17. Ethanol Yields from Xylose ......................................................................................... 34
+Table 18. Area 400 Guiding Design Basis Assumptions .............................................................. 37
+Table 19. Specifications of the Enzyme Production Bioreactors ................................................. 39
+Table 20. Cellulase Production Nutrient Requirements ............................................................... 39
+Table 21. Cellulase Production Electricity Requirements ............................................................ 40
+Table 22. Wastewater Treatment System Design Basis ............................................................... 48
+Table 23. Storage Requirements ................................................................................................... 51
+Table 24. Cooling Water Users ..................................................................................................... 54
+Table 25. Installation Factors ........................................................................................................ 59
+Table 26. Scaling Exponents ......................................................................................................... 60
+Table 27. Additional Costs for Determining Total Capital Investment (TCI) .............................. 61
+Table 28. Project Cost Worksheet Including Total Direct Costs and Total Capital Investment .. 62
+Table 29. Chemical Costs and Sources ......................................................................................... 63
+Table 30. Variable Operating Costs .............................................................................................. 63
+Table 31. Fixed Operating Costs .................................................................................................. 64
+Table 32. Construction Activities and Cash Flow ........................................................................ 67
+Table 33. Discounted Cash Flow Analysis Parameters ................................................................ 68
+Table 34. Summary of Yields, Rates, and Conversion Costs ....................................................... 69
+Table 35. Ethanol Plant Overall Carbon Balance ......................................................................... 70
+Table 36. Ethanol Plant Overall Energy Balance ......................................................................... 71
+Table 37. Ethanol Plant Water Balance ........................................................................................ 75
+Table 38. Individual Contributors to Cooling Water Evaporation ............................................... 75
+Table 39. Mixed Sugar Stream Composition ................................................................................ 77
+Table 40. Assumptions Varied in the Sensitivity Analysis ........................................................... 79
+Table 41. Back-Casted State of Technology Cases and Future Targets ....................................... 82
+Table 42. Comparison of the Previous Target Case and the Present Design (2007$/gal) ............ 84
+Table 43. Individual Contributors to the Change in MESP .......................................................... 85
+
+                                                        viii

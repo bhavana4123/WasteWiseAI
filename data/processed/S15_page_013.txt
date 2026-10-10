@@ -1,0 +1,53 @@
+TA 6M: Waste Heat Recovery
+
+
+
+              the corrosive gases and metal tubes in a recuperator could result in an extremely short life
+               for the recuperator. The use of advanced materials that would extend the recuperator life is
+               currently uneconomical for most applications.
+             3.  Presence of particulates (e.g., metal oxides, carbon or soot particles, fluxing materials,
+                slag, aluminum oxide, magnesium oxide, manganese): Fine particles entrained in flue gases
+           may react with the heat exchanger materials (metallic or nonmetallic), resulting in reduction
+               of heat transfer and in damaging reactions with heat exchanger materials. The net effect of
+              these reactions is a shorter life for recuperator parts and, often, premature failure of metals at
+                 critical locations. In some cases, such as in boilers, it is possible to remove the material buildup
+             by periodic maintenance to remove soot, but this is not practical for all types of heat recovery
+              systems.
+             4.  Presence of combustibles (e.g., CO, H2, hydrocarbons): As mentioned above, the presence of
+              combustibles in flue gases could result in higher-than-design temperatures for heat exchangers
+            owing to air leaks or the addition of dilution or cooling air to flue gases. In cases where no
+              cooling or dilution air is used, the presence of combustibles can still present severe problems.
+            The combustibles may react with constituents (such as nickel) of high-temperature alloys to
+            form soot that deposits on heat transfer surfaces and reacts with metal, leading to shortened
+                   life of equipment components.
+             5.  Presence of combustible volatiles from charge material such as scrap used for aluminum
+             melting furnaces and EAF: The scrap is obtained from a variety of sources and the plants
+             use separation processing of scrap to remove combustible materials such as oils, paint,
+               paper, plastic, and rubber. However, some of these materials end up in the charge material.
+             Incomplete combustion, or breakdown of these organic materials results in the presence of
+             combustible gases or solids, and they have the same effects on heat recovery equipment as the
+             combustible materials described in item.4
+             6.  Variations in flow, temperature and composition of gases: Large industrial heating
+            equipment that uses a large amount of energy, such as EAFs, BOFs, and many aluminum
+              melting furnaces, operate in a batch or semi-continuous mode. This results in variations in
+              temperature, flow, and the composition of flue gases leaving the furnace. Variations in flue
+              gases could result in cycling of materials (metal, in the case of a recuperator) and thermal
+               fatigue of metals used in the heat recovery equipment. Thermal fatigue reduces the life of
+               materials.
+
+      At this time the industry uses several practices for managing or dealing with exhaust gases classified as
+      harsh environments:
+             1. No heat recovery, but treating (scrubbing, cooling by blending with cold air or mist cooling)
+              exhaust gases to meet regulatory requirements. Examples are EAF and BOF exhaust gases.
+             2.  Partial WHR due to materials limitations, design issues, and space considerations. An example
+                   is preheating of glass melting furnace combustion air using regenerators.
+             3.  Partial WHR due to other limitations such as safety, maintenance, lifetime. Examples are use of
+              scrap preheaters for EAFs and use of steam generation for BOF installations.
+             4.  Partial or no WHR due to high capital cost, limited operating hours, or other operating and
+            economic reasons. Examples are small glass and aluminum melting furnaces and cement and
+              lime kilns.
+
+
+
+
+ 12  Quadrennial Technology Review 2015

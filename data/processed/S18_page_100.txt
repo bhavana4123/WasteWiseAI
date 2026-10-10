@@ -1,0 +1,50 @@
+34.    Humbird, D. FY 2009 State of Technology Update—Biochem. D Milestone, Document
+      #10590. Golden, CO: National Renewable Energy Laboratory, October 2009.
+       http://biodev.nrel.gov/bcfcdoc/10590.pdf.
+
+35.    Humbird, D. FY 2010 Biochemical Platform State of Technology Update. D Milestone,
+      Document #10752. Golden, CO: National Renewable Energy Laboratory, September
+       2010. http://biodev.nrel.gov/bcfcdoc/10752.pdf.
+
+36.    Weiss, N.; Nagle, N.; Elander, R.; Tucker, M. Achieve 75% Xylose Yield in Laboratory
+       Scale High Solids Pretreatment Reactor on Corn Stem Internode. D Milestone Report,
+      Document #9926. Golden, CO: National Renewable Energy Laboratory, 2007.
+       http://biodev.nrel.gov/bcfcdoc/9926.pdf.
+
+37.    Sievers, D.; Kuhn, E.; Nagle, N.; Tucker, M.; Weiss, N. Implement Equipment
+       Modifications to the Existing Horizontal Pretreatment Reactor System to Allow for
+       Operation with a Tighter Residence Time Distribution. D Milestone Report, Document
+      #10404. Golden, CO: National Renewable Energy Laboratory, December 2008.
+       http://biodev.nrel.gov/bcfcdoc/10404.pdf.
+
+38.    Nagle, N.; Kuhn, E.; Sievers, D.; Tucker, M.; Weiss, N.; Elander, R. Parametric Study
+       using the Continuous Horizontal Pretreatment Reactor using Corn Stover to Determine
+       Operating Conditions that Achieve 80% Yield of Monomeric Xylose. D Milestone Report,
+      Document #10575 Golden, CO: National Renewable Energy Laboratory, September
+       2009. http://biodev.nrel.gov/bcfcdoc/10575.pdf.
+
+39.    Nagle, N.; Kuhn, E.; Elander, R. Parametric Study Using the Modified Continuous
+       Horizontal Pretreatment Reactor Using Corn Stover to Determine Operating Conditions
+        that Can Achieve Yields of ≥ 85% of Monomeric Xylose. NREL D Milestone Report,
+      Document #10764 Golden, CO: National Renewable Energy Laboratory, September
+       2010. http://biodev.nrel.gov/bcfcdoc/10764.pdf.
+
+40.     Selig, M; Decker, S. Enzymatic Conversion of Oligosaccharides from Various
+       Pretreatment Hydrolysates. Joule Milestone Report, Document #10114. Golden, CO:
+       National Renewable Energy Laboratory, March 2008.
+       http://biodev.nrel.gov/bcfcdoc/10114.pdf.
+
+41.    Humbird, D.; Elander, R. Develop Process Engineering Scenarios for Potential Leading
+       Pretreatment/Enzymatic Hydrolysis Configurations. E Milestone Report, Document
+      #10582. Golden, CO: National Renewable Energy Laboratory, September 2009.
+       http://biodev.nrel.gov/bcfcdoc/10582.pdf.
+
+42.    Zhang, M.; Eddy, C.; Deanda, K.; Finkelstein, M.; Picataggio, S. “Metabolic Engineering
+       of a Pentose Metabolism Pathway in Zymomonas mobilis.” Science; Vol. 267, 1995; pp.
+       240-243.
+
+43.    Miroslav, S; Ho, N. “Production of ethanol from cellulosic biomass hydrolysates using
+        genetically engineered saccharomyces yeast capable of cofermenting glucose and
+       xylose,” Applied Biochemistry and Biotechnology; Vol. 144, 2004; pp. 403-416.
+
+                                      90

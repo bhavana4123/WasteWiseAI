@@ -1,0 +1,23 @@
+Phyllis2 -  animal fat (#3491) Phyllis2 Home Browse Help animal fat (#3491) Download XLSX Download PDF ID-number #3491 Material animal fat Description co-combustion product Classification CEN/TS 14961 classification ▸ Solid biofuels ▸ Blends and mixtures ECN Phyllis classification ▸ organic residue/product ▸ slaughterhouse residue NTA 8003 classification ▸ [500] biomassa uit de industrie ▸ [560] dierlijke vetten en oliën Sample location Rotterdam Country Netherlands Production date 2009-01-03 Submitter Bakker, F.P. Submitter organisation ECN (Netherlands) Submission date 2009-12-16 Values Property Unit Value Std dev Det lim Lab Date Method Remarks ar dry daf Main biomass properties Proximate analysis Moisture content wt% 1.21 0.59 0.25 ECN 2009-05-06 CEN/TS 14774-1,2,3 B.NKF Ultimate analysis (macroelements) Carbon wt% 75.27 76.19 1.53 0.10 ECN 2009-02-24 CEN/TS 15104 CEN/TS 15104 Hydrogen wt% 12.40 12.55 1.80 0.10 ECN 2009-02-24 CEN/TS 15104 CEN/TS 15104 Nitrogen wt% 0.11 0.12 6.15 0.10 ECN 2009-02-24 CEN/TS 15104 CEN/TS 15104 Total (with halides) wt% 88.98 88.85 Calculated Halides Bromine (Br) mg/kg 2.0 2.0 0.0 1.0 ECN 2009-03-05 B.N203 Fluorine (F) mg/kg
+                    (dry) < 10 0.0 10.0 ECN 2009-03-03 B.N203 Heating value Net calorific value (LHV) MJ/kg 38.30 38.80 0.00 1.00 ECN 2009-02-24 CEN/TS 14918 CEN/TS 14918 Trace elements composition Arsenic (As) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Boron (B) mg/kg
+                    (dry) <10 0.0 10.1 ECN 2009-03-10 B.S211 Barium (Ba) mg/kg
+                    (dry) <1 0.0 10.1 ECN 2009-03-10 CEN/TS 15297 Beryllium (Be) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Cadmium (Cd) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Cobalt (Co) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Chromium (Cr) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Copper (Cu) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Mercury (Hg) mg/kg
+                    (dry) <0.01 0.0 0.0 ECN 2009-03-10 CEN/TS 15297 Manganese (Mn) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Molybdenium (Mo) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Nickel (Ni) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Lead (Pb) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Antimony (Sb) mg/kg
+                    (dry) <5 0.0 5.1 ECN 2009-03-10 B.S211 Selenium (Se) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Tin (Sn) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 B.S211 Strontium (Sr) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 B.S211 Tellurium (Te) mg/kg
+                    (dry) <10 0.0 10.1 ECN 2009-03-10 CEN/TS 15297 Thallium (Tl) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 B.S211 Vanadium (V) mg/kg
+                    (dry) <1 0.0 1.0 ECN 2009-03-10 CEN/TS 15297 Zinc (Zn) mg/kg
+                    (dry) 1.0 0.0 0.5 ECN 2009-03-10 CEN/TS 15297 © 2026 TNO | Colophon Contact: Secretariaat-BCT-STIP@tno.nl

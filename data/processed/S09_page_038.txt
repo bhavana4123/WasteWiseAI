@@ -1,0 +1,50 @@
+water, out of the methanol, rendering it unavailable for the reaction. All acid esterification
+systems need to have a water management strategy. Good water management can minimize the
+amount of methanol required for the reaction. Excess methanol (such as the 20:1 ratio) is
+generally necessary in batch reactors where water accumulates. Another approach is to approach
+the reaction in two stages: fresh methanol and sulfuric acid is reacted, removed, and replaced
+with more fresh reactant. Much of the water is removed in the first round and the fresh reactant
+in the second round drives the reaction closer to completion. Acid-catalyzed esterification is
+discussed in more detail in the chapter on Pretreatment of High FFA Feedstocks.
+
+Lipase catalyzed reactions have the advantage reacting a room temperature without producing
+spent catalysts. The enzymes can be recycled for use again or immobilized onto a substrate. If
+immobilized, the substrate will require replacement when yields begin to decline. The enzyme
+reactions are highly specific. Because the alcohol can be inhibitory to some enzymes, a typical
+strategy is to feed the alcohol into the reactor in three steps of 1:1 mole ratio each. The reactions
+are very slow, with a three step sequence requiring from 4 to 40 hours, or more. The reaction
+conditions are modest, from 35 to 45 °C. Transesterification yields generally do not meet ASTM
+standards, but esterification yields can occur relatively quickly and yields are good. Excess free
+fatty acids can be removed as soaps in a later transesterification or caustic stripping step.
+
+Biodiesel Production Process Options
+
+Batch Processing
+The simplest method for producing alcohol esters is to use a batch, stirred tank reactor. Alcohol
+to triglyceride ratios from 4:1 to 20:1 (mole:mole) have been reported, with a 6:1 ratio most
+common. The reactor may be sealed or equipped with a reflux condenser. The operating
+temperature is usually about 65°C, although temperatures from 25°C to 85°C have been reported.
+
+The most commonly used catalyst is sodium hydroxide, with potassium hydroxide also used.
+Typical catalyst loadings range from 0.3 % to about 1.5%.
+
+Thorough mixing is necessary at the beginning of the reaction to bring the oil, catalyst and
+alcohol into intimate contact. Towards the end of the reaction, less mixing can help increase the
+extent of reaction by allowing the inhibitory product, glycerol, to phase separate from the ester –
+oil phase. Completions of 85% to 94 % are reported.
+
+Some groups use a two-step reaction, with glycerol removal between steps, to increase the final
+reaction extent to 95+ percent. Higher temperatures and higher alcohol:oil ratios also can
+enhance the percent completion. Typical reaction times range from 20 minutes to more than one
+hour.
+
+Figure 14 shows a process flow diagram for a typical batch system. The oil is first charged to the
+system, followed by the catalyst and methanol. The system is agitated during the reaction time.
+Then agitation is stopped. In some processes, the reaction mixture is allowed to settle in the
+reactor to give an initial separation of the esters and glycerol. In other processes the reaction
+mixture is pumped into a settling vessel, or is separated using a centrifuge.
+
+
+
+
+                                      34

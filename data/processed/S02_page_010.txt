@@ -1,0 +1,37 @@
+use in today's process designs, so a continuous     of the seventies. The U.S. Office of Technology Assess­
+development effort and lively open exchange should    ment (OTA) recently has issued a report calling for a
+enable us to incorporate latter-day chemical and     national capability for emergency implementation of
+chemical engineering techniques to build clean, con­      gasifiers (OTA 1984).
+venient, and reliable systems. A recent workshop on
+low-energy gasification tabulates research and     1 .2 Biomass Energy Potential
+development needs (Easterling 1985).
+                                                Biomass is a renewable fuel that supplies 2% to 3% of
+The accelerated use of gasification technologies ul­     U.S. energy needs and an even larger percentage in
+timately depends upon their ability to compete with    some other countries (OTA 1980; DOE 1982). OTA
+fossil fuels, which in turn depends on unknown factors     projects that biomass could supply from 7% to 20% (6­
+about resources, economics, and political conditions.    17 quads*) annually (OTA 1980) from sources such as
+At present (1988), gasification and other alternative     those shown in Table 1-1 (Reed 1981), if it can be made
+energy processes are being developed slowly in the     available in a convenient form and if conversion equip­
+United States because of relatively plentiful supplies    ment is accessible. The potential of biomass for world
+of low-cost gaseous and liquid fossil fuels. However,     use is equally great (Bioenergy 1985).
+political changes could rapidly and dramatically alter
+this situation, as witnessed during the OPEC oil crises      *1 quad = 1015 Btu
+
+                                                                                                                               J
+
+                                                                   Land                    Carbon                                dioxide   /sunlighªWater  X             '\                                                                                                       I
+     AgricultureProduct Silviculturefarming (existing)  Industry      AquacultureEnergy farmingSilviculture(potential)Agriculture
+                        Municipal       Farm and        1-1                                      Residues                  Biomass for energy                           I                        wastes     forest products   I L                              t-                                                           J
+                                                                       I  Maceration r   Drying and densification  I
+
+             Bioconversion processes (wet)                                                                       I   L                I               I                     I                      Thermal conversion processes (dry)                               Fermentation      Extraction   Digestion                            and distillation                                                                                      I                                                                                    I     Chemicals                Methane  1-----1    Gasification      Pyrolysis        Liquefaction   Combustion      (rubber)                                Ethanol                  I                      (cattle fed)                                                             Air               Oil gas                         Heat       (resins)                    (sugars)                                       I                                Oil gas                                                  ---I   f{                charcoal                        systems            L-___                                                          LO';;aȘtu                                                                           I    fJxygent-I
+                                   Med.-Btu gas  methanol  ammonia'                        I Needs   I                              I                                                                                                                                                  I
+              Chemicals      Gaseous fuels       Liquid fuels         Solid fuels         Electricity     Heat                I
+
+
+
+ Fig. 1-1. Biomass energy paths (Source: Reed 1978)
+
+
+
+     Handbook of Biomass Downdraft Gasifier Engine Systems2

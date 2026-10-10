@@ -1,0 +1,50 @@
+boiler makes up 45 percent and the prep yard, electrostatic precipitator, and other equipment each
+adding about 15 percent.77 Engineering and construction add 70 percent to equipment costs.
+
+The cost of complete solid fuel CHP plants varies with many factors—fuels handling, pollution control
+equipment and boiler cost are major cost items. Because of both the size of such plants and the diverse
+sources of the components, solid fuel cogeneration plants invariably involve extensive system
+engineering and field labor during construction. Typical complete plant costs can be over $5,000/kW,
+with little generalization except that for the same fuel and configuration, costs per kW of capacity
+generally increase as size decreases. While the overall cost of plants with a given steam output would be
+similar, the amount of steam extracted for process use, and thus not available for power generation, has
+a significant effect on the costs quoted in $/kW of electricity out.
+
+Steam turbine costs exhibit a modest extent of irregularity, as steam turbines are made in sizes with
+finite steps between the sizes. The cost of the turbine is generally the same for the upper and lower limit
+of the steam flowing through it, so step-like behavior is sometimes seen in steam turbine prices. Since
+they come in specific size increments, a steam turbine that is used at the upper end of its range of
+power capability costs less per kW generated than one that is used at the lower end of its capability.
+Additionally, raw material cost, local labor rates, delivery times, availability of existing major
+components, and similar business conditions can affect steam turbine pricing.
+
+Often steam turbines are sold to fit into an existing plant. In some of these applications, the
+specifications, mass flow, pressure, temperature and backpressure or extraction conditions are
+customized and therefore do not expose themselves to large competition. These somewhat unique
+machines may be more expensive per kilowatt than other machines that are more generalized, and
+therefore face greater competition. This is the case for three reasons: 1) a greater amount of custom
+engineering and manufacturing setup may be required; 2) there is less potential for sales of duplicate or
+similar units; and 3) there are fewer competitive bidders. The truly competitive products are the “off­
+the-rack” type machines, while “custom” machines are naturally more expensive.
+
+Because of the relatively high cost of the system, high annual capacity factors are required to enable a
+reasonable recovery of invested capital.
+
+However, retrofit applications of steam turbines into existing boiler/steam systems can be cost
+competitive options for a wide variety of users depending on the pressure and temperature of the
+steam exiting the boiler, the thermal needs of the site, and the condition of the existing boiler and
+steam system. In such situations, the decision is based only on the added capital cost of the steam
+turbine, its generator, controls and electrical interconnection, with the balance of plant already in place.
+Similarly, many facilities that are faced with replacement or upgrades of existing boilers and steam
+systems often consider the addition of steam turbines, especially if steam requirements are relatively
+large compared to power needs within the facility.
+
+In general, steam turbine applications are driven by balancing lower cost fuel or avoided disposal costs
+for the waste fuel, with the high capital cost and (preferably high) annual capacity factor for the steam
+
+
+77 “Cogeneration and Small Power Production Manual,” Scott Spiewak and Larry Weiss, 1997. Data for a 32.3 MW multi-fuel
+fired, 1,250 psig, 900 °F, 50 psig backpressure steam turbine used in an industrial cogeneration plant.
+
+
+Catalog of CHP Technologies                         4–13                           Steam Turbines

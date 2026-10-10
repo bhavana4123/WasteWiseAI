@@ -1,0 +1,54 @@
+Pyrolysis
+
+
+Pyrolysis is thermal decomposition occurring in the absence of oxygen. It is also always
+the first step in combustion and gasification, but in these processes it is followed by total
+or partial oxidation of the primary products. Lower process temperatures and longer
+vapour residence times favour the production of charcoal. High temperatures and longer
+residence times increase biomass conversion to gas, and moderate temperatures and short
+vapour residence times are optimum for producing liquids.Table 1 indicates the product
+distribution obtained from different modes of pyrolysis. Fast pyrolysis for liquids
+production is currently of particular interest because liquids can be stored and
+transported more easily and at lower cost than solid biomass.3,4,5,6
+
+
+                Table 1: Typical product yields (dry wood basis)
+               obtained by different modes of pyrolysis of wood
+
+
+  Mode                Conditions                               Liquid    Char     Gas
+
+  Fast                 moderate temperature, around 500°C,     75%    12%   13%
+                          short hot vapour residence time ~ 1 second
+
+  Intermediate          moderate temperature, around 500°C,     50%    20%   30%
+                       moderate hot vapour residence time
+                   ~ 10-20 seconds
+
+  Slow (carbonisation)   low temperature, around 400°C,         30%    35%   35%
+                          very long solids residence time
+
+   Gasification            high temperature, around 800°C,       5%     10%   85%
+                         long vapour residence time
+
+
+
+Fast pyrolysis occurs in a few seconds or less.Therefore heat and mass transfer processes
+and phase transition phenomena, as well as chemical reaction kinetics, play important
+roles.The critical issue is to bring the reacting biomass particles to the optimum process
+temperature and minimise their exposure to the intermediate (lower) temperatures that
+favour formation of charcoal. One way this objective can be achieved is by using small
+particles, for example in the fluidised bed processes that are described later. Another
+possibility is to transfer heat very rapidly only to the particle surface that contacts the
+heat source, as applied in ablative pyrolysis. A critical technical challenge in every case is
+heat transfer to the reactor in commercial systems.
+
+Principles of fast pyrolysis
+
+
+In fast pyrolysis, biomass rapidly decomposes to generate vapours, aerosols, gases and
+some charcoal. After cooling and collection, a dark brown mobile liquid is formed that has
+a heating value of about half that of conventional fuel oil. While it is related to the
+traditional pyrolysis processes for making charcoal (see Table 1), fast pyrolysis is an
+
+                                                                               5

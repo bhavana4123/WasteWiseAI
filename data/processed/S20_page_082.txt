@@ -1,0 +1,73 @@
+Upgrading Plant:
+
+
+                                                                                                                   COST      Total Original
+                                                                                              Original                                    Original              BASIS:      Equip Cost                                                               Installed     Scaled
+ Equipment  Number  Number                                                  Equipment   New     stream    Size   Equip Cost    Base    installed (i)  (Req'd & Spare)  Scaling    Scaled Cost Installation  Installed Cost    Cost in     Uninstalled
+  Number   Required  Spares          Equipment Name            Scaling Stream Stream Flow   Flows   flow units  Ratio    (per unit)     Year    or bare (b)    in Base Year   Exponent   in Base Year   Factor    in Base Year     2014$    Cost in 2014$   Ref
+
+
+    A300    HTL Oil Upgrading and Product Separation
+
+    A310    HTL Oil Hydrotreating & Separations
+                1        0     Desalter                                S301              2,732      2,732  bpd feed   1.00      $768,541      2007               i               $768,541      0.75        768,541           2.5       768,541      842,704      $341,176    7
+                1        0     Hydrotreater Fe Bed                       S301             15,472      2,732  bpd feed   0.18    $16,302,021     2014               i            $16,302,021      0.75      4,440,161           1.5      4,440,161     4,440,161    $2,940,504    1
+R-310           1        0     Hydrotreater Reactor, vessels, columns         S301             15,472      2,732  bpd feed   0.18    $77,087,500     2014               i            $77,087,500      0.75     20,996,224           1.5     20,996,224   20,996,224   $13,904,784    1
+K-311           1        0    Hydrogen Compressor                     S304-H2           3,786.0    4,926.0   lb/hr H2    1.30      $1,385,600  1Q 2011      b             $1,385,600        0.8      1,710,365           1.1      1,881,402     1,895,882    $1,723,529    2
+V-300           1        0   PSA for Hydrogen Recycle                  S425-H2              10         9.5 mmscfd H2  0.95      $1,750,000     2004      b             $1,750,000        0.8      1,686,237 A310     2.5      4,165,005     5,401,754    $2,186,945    3
+            A310 Total                                                                                                                         Subtotal                                                HDO/N/S                     $33,576,724   $21,096,937
+
+
+    A350    Hydrocracking and Separations
+R-350           1        0     Hydrocracker Unit + auxiliaries               S338             15,472      1,021  bpd feed   0.07    $50,858,783     2014               i            $50,858,783      0.75      6,619,706           1.5      6,619,706     6,619,706    $4,383,911    1
+
+            A350 Total                                                                                                                         Subtotal                                                 A350 HCK                     $6,619,706    $4,383,911
+
+
+    A400    Hydrogen Plant - OSBL
+                           Stm Reformer system w/ associated
+                1        0   OSBL                                  S425-H2              24.5         9.5 mmscfd H2  0.39    $50,198,438   2014                    i            $50,198,438      0.65     27,204,148           1.9     27,204,148   27,204,148   $14,168,827    4
+              A400                                                                                                                                                                   A400 H2
+                Total                                                                                                                            Subtotal                                                       Plant                        $27,204,148   $14,168,827
+
+
+    A600    Power Generation - OSBL                               Costs accounted for in Hydrogen Plant except for turbine
+
+E-601           1        0    Steam turbine + generator                     work              1,652      1,812   kW      1.10      $1,268,300  1Q 2014      b             $1,268,300      0.85      1,371,980           1.2      1,632,657     1,641,203    $1,379,162    8
+              A600                                                                                                                                                                   A600 STM
+                Total                                                                                                                            Subtotal                                           Gen                          $1,641,203    $1,379,162
+
+
+   A700    OSBL - including cooling water system
+                1        0    Wastewater treatment (NH3 stripping)       S320+SCRB-         34,000     21,135     lb/hr     0.62      $1,217,800 1Q 2014      b             $1,217,800       0.65       894,059           2.4      2,145,741     2,156,974      $898,739    8
+                1        0     Cooling Tower System                      S715          7,506,000  1,036,143     lb/hr     0.14       $260,852   2010        b              $260,852       0.78        55,668           2.5       137,499      143,815       $58,225    6
+                1        0     Cooling Water Pump                       S715          7,001,377  1,036,143     lb/hr     0.15       $239,375   2007        b              $239,375        0.3       134,943           2.1       288,778      316,644      $147,964    6
+                1        0    Makeup water pump                     S618+S710          80,411     33,964     lb/hr     0.42         $6,528   2007        b                 $6,528        0.3          5,041           4.7         23,792       26,088        $5,527    6
+                1        0     Plant Air Compressor                      S101(dry) X 10       262,454     61,113     lb/hr     0.23        $87,922   2007        b                $87,922        0.3        56,784           1.6         89,150       97,753       $62,263    6
+                1        0     Firewater Pump                            S101(dry) X 10       262,454     61,113     lb/hr     0.23        $23,043   2007        b                $23,043        0.3        14,882           3.7         55,064       60,377       $16,318    6
+                1        0     Instrument Air Dryer                        S101(dry) X 10       262,454     61,113     lb/hr     0.23         $8,349   2002        b                 $8,349        0.6          3,482           2.5          8,602       12,526        $5,071    6
+                1        0     Plant Air Receiver                          S101(dry) X 10       262,454     61,113     lb/hr     0.23        $21,005   2007        b                $21,005       0.65          8,146           5.4         44,312       48,588        $8,932    6
+                1        0     Firewater Storage Tank                     S101(dry) X 10       262,454     61,113     lb/hr     0.23      $229,900   2007        b              $229,900       0.65        89,154           1.5       130,165      142,726       $97,758    6
+                1        0    Feed Storage - 3 day                       S301          1,000,000    344,186   gallons    0.34       2,371,900   2010        b             $2,371,900        0.7      1,124,221           1.4      1,573,909     1,582,148    $1,130,106    5
+                1        0     Product Storage - 3 day                     S392          1,000,000     83,952   gallons    0.08       2,371,900   2010        b             $2,371,900        0.7       418,715           1.4       586,200      613,126      $437,947    5
+                1        0     Product Storage - 3 day                     S393          1,000,000    250,848   gallons    0.25       2,371,900   2010        b             $2,371,900        0.7       900,915           1.4      1,261,281     1,319,216      $942,297    5
+
+            A700 Total                                                                                                                         Subtotal                                                 A700 OSBL                   $6,519,982    $3,811,148
+
+                                                                                                                                                                                                               Total Equipment Cost                $75,561,763   $44,839,985
+
+                              References
+                            1 IHS PEP Yearbook 2014a - "Diesel from High Pressure Hydrocracking" (P=2000 psia)
+                            2 Aspen Capital Cost Estimator, 7.3.2
+                            3 Vendor Budget Estimate
+                            4 IHS PEP Yearbook 2014b - "Hydrogen from Natural Gas by Steam Reforming"
+                            5 Aspen Capital Cost Estimator, 7.3.1
+                            6 Dutta et al. 2011
+                            7 Kaiser and Gary 2007
+                            8 Aspen Capital Cost Estimator, 8.8
+
+
+
+
+
+                                                             B.2

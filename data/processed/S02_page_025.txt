@@ -1,0 +1,61 @@
+ 3.4.1  Densifying Biomass Fuels                   such as that shown in Fig. 3-4 (Reed 1978b). They make
+                                                           excellent gasifier ·fuels and allow the fuel to be stored
+Biomass fuels usually have bulk densities from one­                                                               at much higher densities. Densification typically con­
+ half to one-tenth that of coal as shown in Table 3-11,                                               sumes only     to 2% of the energy contained in thepresenting a drawback for shipping, storage, and           1%                                                       biomass; for some residues, drying may also require ad­
+ gasification. Biomass fuels also come in a wide range                                                             ditional energy, but drying simultaneously increases
+ of sizes, many of which are not suitable for fixed-bed                                                        the fuel value of the biomass.
+gasification (such as sawdust, sander dust, shredder
+ fines, straw, and husks).                                           Some biomass forms, with high ash or dirt contents, are
+However, biomass residues can be used in fixed-bed      difficult to densify because they cause excessive wear
+ gasifiers if they are first densified to suitably sized pel­     of the die. Also, densification is an additional expense,
+ lets or cubes using commercially available equipment     so its justification will depend on a comparison of the
+
+                               Table 3-1 1. Bulk Density of Various Fuels
+Fuel                              Grading                              Bulk Density kg/rn3          Reference
+Sawdust                               loose                                   177                                        (1 )
+Sawdust                                 briquets 1 00 rnrn long 75 rnrn diameter       555                                                                                                                                                                (1 )
+Peat                                  dust                                     350-440                            (2)
+                                          briquets 45 x 65 x 60 mm                   350·620                            (2)
+                                  hand cut                                                   1 80-400                             (2)
+Charcoal (10% moisture)              beech                                      21 0-230                            (3)
+                                            birch                                                        1 80-2003
+                                      softwood blocks                            150-170                            (3)
+                                     softwood slabs                             130-150                           (3)
+                                    mixed 60% hard/40% soft                    170-190                           (3)
+Wood                             hardwood                              330                                (3)
+                                      softwood                               250                                (3)
+                                    mixed SO/50                            290                                (3)
+Straw                                  loose                                80
+                                        bales                                 320
+Alfalfa seed straw                   cube 30 x 30 x 50 mm. 7% moisture          298                                (4)
+Barley straw                        cube 30 x 30 x 50 mm. 7% moisture          300                                (4)
+Bean straw                         cube 30 x 30 x 50 mm, 7% moisture          440                                (4)
+Corn cobs                                       1 1 % moisture                          304                                (4)
+Corn stalks                         cube 30 x 30 x 50 mm                       391                                 (4)
+Cotton gin trash                 23% moisture                           343                                (4)
+Peach pits                                         1 1 % moisture                           474                                (4)
+Olive pits                      10% moisture                           567                                (4)
+Prune pits                   8% moisture                            514                                 (4)
+Rice hulls                          cube 30 x 30 x 50 mm                     679                                 (4)
+Safflower straw                      cube 30 x 30 x 50 mm                     203                                 (4)
+Walnut shells                         cracked                                336                                 (4)
+                                8 mm pellets                            559                                 (4)
+Wood, blocks                   17% moisture                           256                                 (4)
+       chips                                    1 0% moisture                                          1 67                                 (4)
+Coal                                      anthracite                                830-900                                  (1 )
+                                       bituminous                               770-930                                 (1 )
+Coke                                 hard                                    380-530                                (1 )
+                                             soft                                      360-470                                    (1 )
+Brown coal                                       air dry lumps                              650-670                                (1 )
+(1) Rambush, N. E., Modern Gas Producers, New York: Van Nostrand, 1923.
+(2) Ekman, E. and Asplund, D" A Review of Research of Peat Gasification in Finland, Technical Research Centre of Finland, Fuel and Lubricant
+   Research Laboratory, Espoo, Finland.
+(3) Generator Gas, The Swedish Experience From t939-1945, Solar Energy Research Institute, Golden, CO, SERI/SP 33-140, 1979.
+(4) Jenkins, B. M., Downdraft Gasification Characteristics of Major California Residue-Derived Fuels, Ph.D. Thesis, Department of Engineering,
+   University of California, Davis, 1980.
+Source: Kaupp 1984a
+
+
+
+
+                                                                                                 Gasifier Fuels      1 7

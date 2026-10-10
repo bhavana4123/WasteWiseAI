@@ -1,0 +1,47 @@
+are about 2,400 psig and 2,600 psig respectively. High BMEP levels increase power output, improve
+efficiency, and result in lower capital costs ($/kW).
+
+BMEP can be increased by raising combustion cylinder air pressure through increased turbocharging,
+improved aftercooling, and reduced pressure losses through improved air passage design. These factors
+all increase air charge density and raise peak combustion pressures, translating into higher BMEP levels.
+However, higher BMEP increases thermal and pneumatic stresses within the engine, and proper design
+and testing is required to ensure continued engine durability and reliability.
+
+2.4.4.2   Turbocharging
+Essentially all modern engines above 300 kW are turbocharged to achieve higher power densities. A
+turbocharger is basically a turbine-driven intake air compressor. The hot, high velocity exhaust gases
+leaving the engine cylinders power the turbine. Very large engines typically are equipped with two
+turbochargers. On a carbureted engine, turbocharging forces more air and fuel into the cylinders, which
+increases the engine output. On a fuel injected engine, the mass of fuel injected must be increased in
+proportion to the increased air input. Cylinder pressure and temperature normally increase as a result of
+turbocharging, increasing the tendency for detonation for both spark ignition and dual fuel engines and
+requiring a careful balance between compression ratio and turbocharger boost level. Turbochargers
+normally boost inlet air pressure on a 3:1 to 4:1 ratio. A wide range of turbocharger designs and models
+are used. Heat exchangers (called aftercoolers or intercoolers) are normally used on the discharge air
+from the turbocharger to keep the temperature of the air to the engine under a specified limit.
+Intercooling on forced induction engines improves volumetric efficiency by increasing the density of
+intake air to the engine (i.e. cold air charge from intercooling provides denser air for combustion thus
+allowing more fuel and air to be combusted per engine stroke increasing the output of the engine).
+
+2.4.5  Capital Costs
+This section provides typical study estimates for the installed cost of natural gas spark-ignited,
+reciprocating engine-driven generators in CHP applications. Capital costs (equipment and installation)
+are estimated for the five typical engine genset systems ranging from 100 kW to 9 MW. These are
+“typical” budgetary price levels; it should also be noted that installed costs can vary significantly
+depending on the scope of the plant equipment, geographical area, competitive market conditions,
+special site requirements, emissions control requirements, prevailing labor rates, and whether the
+system is a new or retrofit application.
+
+The basic generator package consists of the engine connected directly to a generator without a gearbox.
+In countries where 60 Hz power is required, the genset operates at multiples of 60 – typically 1800 rpm
+for smaller engines, and 900 or 720 or 514 rpm for the large engines. In areas where 50 Hz power is used
+such as Europe and Japan, the engines run at speeds that are multiples of 50 – typically 1500 rpm for the
+small engines. In Table 2-4, System 4 is based on a German design, and operates at 1,500 rpm and
+produces 60 Hz power through a gearbox. The smaller engines are skid mounted with a basic control
+system, fuel system, radiator, fan, and starting system. Some smaller packages come with an enclosure,
+integrated heat recovery system, and basic electric paralleling equipment. The cost of the basic engine
+genset package plus the costs for added systems needed for the particular application comprise the
+total equipment cost. The total plant cost consists of total equipment cost plus installation labor and
+
+
+Catalog of CHP Technologies                         2–14                         Reciprocating IC Engines

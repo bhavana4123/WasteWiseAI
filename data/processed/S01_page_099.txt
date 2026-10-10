@@ -1,0 +1,59 @@
+Fossil Materials
+
+
+
+COAL, SEMI-BITUMINOUS; solid; ultimate analysis of combustible, ash free and
+   moisture free: carbon, 89.79%; hydrogen, 4.76%; oxygen, 2.47%; nitrogen, 2.00%;
+    sulfur, 0.98%; proximate analysis: ash, 6.80%; moisture, 2.60%; volatile matter,
+   17.5%; loss on air drying, 2.0%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+
+    q,(gross)  = 15860 Btu 1                     qv(gross) = 14370 Btu 1
+    q,(gross)  = 881 I cal g-                      qv(gross) = 7983 cal g-
+    q,(gross)  = 36867 J g-l                     qv(gross) = 33401 J g-l
+
+                                                           18POO; 15LOR
+
+COAL, SUB-BITUMINOUS; solid; ultimate analysis of combustible, ash free and moisture
+    free: carbon, 69.17%; hydrogen, 4.46%; oxygen, 24.35%; nitrogen, 1.66%; sulfur,
+   0.36%; proximate analysis: ash, 3.7 1%; moisture, 18.41%; volatile matter, 44.3%; loss
+   on air drying, 10.0%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+   qv(gross) = 11729 Btu lb- 1                                 1                                                       q,(gross)  = 9137 Btu lb-
+   qv(gross) = 6516 cal g-l                        q,(gross)   5076 cal g-l
+                                                       q,(gross)  = 21236 J g- 1    qv(gtoss) = 27265 J g-'
+
+                                                       IXPOO; 15LOR
+
+COKE; solid; produced from the destructive distillation of gas-coal in gas retorts;
+   (sample 1, as received): fixed carbon, 59.56%; sulfur, 0.31%; moisture, 22.30%;  ash,
+    17.56%; volatile matter, 0.58%; (sample I, dry): fixed carbon, 76.65%; sulfur, 0.40%;
+   ash, 22.60%; volatile matter, 0.75%; (sample 2, as received): fixed carbon, 67.89%;
+    sulfur, 0.51%; ash, 4.45%; moisture, 26.80%; volatile matter, 0.86%; (sample 2, dry):
+    fixed carbon, 92.75%; sulfur, 0.70%; ash, 6.08%; volatile matter, 1.17%; (dry
+   represents sample as drawn from retort before quenching).
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   sample 1, as received                   sample 2, as received
+
+    q,(gross)  = 8687 Btu lb-I                      q,(gross) = 10100 Btu 1
+    q,(gross)  = 4826 cal g-l                        q,(gross)  = 561 2 cal g-
+    q,(gross)  = 20192 J g-l                        q,(gross) = 23479 J g-'
+
+   sample I, dry                           sample 2, dry
+
+                                                      q,(gtoss)                                                     13800                                                           Btu            =                                                     =    q,(gross)                   Btu              11 180                          1                                                                        1P-'                                P"                                                      q,(gross)                                                               cal                                                                         g-                                                        = 7666                           g-             621    q,(gross)                1 cal
+    q,(gross) = 25988 J g-l                        q,(gross)  = 32076 J g-l
+
+                                                       18POO; 1 1WHI/BAR
+
+
+
+                                       106

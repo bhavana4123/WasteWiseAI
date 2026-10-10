@@ -1,0 +1,36 @@
+                 Figure 3: Laboratory fluid bed fast pyrolysis units: Aston University 1 kg/h (left) and Iowa
+                  State University 5 kg/h (right)
+
+
+                 Circulating fluid beds and transported bed
+                  Circulating fluid beds (CFB) have many of the features of bubbling beds described
+                 above, except that the residence time of the char is almost the same as for vapours
+               and gas, and the char is more attrited due to the higher gas velocities, which can
+                 lead to higher char contents in the collected bio-oil. An added advantage is that
+             CFBs are potentially suitable for very large throughputs even though the
+                hydrodynamics are more complex - this technology is widely used at very high
+                 throughputs in the petroleum and petrochemical industry. However, heat transfer at
+                  higher throughputs has not been demonstrated and offers some challenges.11 Heat
+                 supply is usually from recirculation of heated sand from a secondary char
+                                                     combustor, which can be either a bubbling or
+                                                            circulating fluid bed. In this respect, the
+                                                       process is similar to a twin fluid bed gasifier,
+                                                       except that the reactor (pyrolyser)
+                                                    temperature is much lower and the closely
+                                                         integrated char combustion in a second
+                                                       reactor requires careful control to ensure
+                                                         that the temperature and heat flux match
+                                                        the process and feed requirements. VTT has
+                                                a 20 kg/h process development unit shown
+                                                               in Figure 4.
+
+
+                                    A variation on the transported bed is the
+                                                          rotating cone reactor, invented at the
+                                                         University of Twente 12 and implemented by
+                                     BTG in the Netherlands. In this
+                                                           configuration, the transport is effected by
+                                                           centrifugal forces rather than gas. A 50 t/d
+                                                        plant has been built in Malaysia and was
+8           Figure 4: 20 kg/h fast pyrolysis process
+            development unit at VTT                   commissioned in summer 2005 (Figure 5).

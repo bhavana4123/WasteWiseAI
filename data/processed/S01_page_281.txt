@@ -1,0 +1,52 @@
+Miscellaneous
+
+
+CORAL BRANCH TIPS;EuniceZZa papillma; solid; Material was the mesoskeleton of the
+   gorgonian tropical reef-building coral (Octocorallia) from the Atlantic side of Cape
+    Peninsula, Africa. The 2 cm apex of the branches were oven-dried at 55°C (131°F) t o
+   constant weight. Because of high CaC03 content of the tissue, correction for
+   endothermy was used t o ensure accuracy. Th  relationship of organic protein
+   nitrogen t o tissue weight is 3.68 ? 0.62 mg g-f.  There was a 50% water loss per gram
+   dry weight. Samples were taken from 14 colonies.
+
+   gross heat of combustion: mean values were for dry weight basis; 14 samples were
+    used; assume values refer t o room temperature.
+
+                    2             1777    q,(gross)                        Btu                  379                                                 I P-'                    2                               g-   qv(gross)             987                  210                         cal
+    q,(gross)   4130 2 880 J g-'
+
+                                                               79VEL/KIN
+
+CORAL BRANCHES;EuniceZZa papiZ2osa; solid; Material was the mesoskeleton of the
+   gorgonian tropical reef-building coral (Octocorallia) from the Atlantic side of Cape
+   Peninsula, Africa. The branches (excluding tips), middle sections of branches, and
+   ramification points were oven-dried at 55°C (131'F)   t o constant weight.  Because of
+   high CaC03 content, the tissue correction for endothermy was used to ensure
+   accuracy. The relationship of organic protein nitrogen to tissue weight is 3.63 ?
+    0.80 mg g-'.  There was a 41% water loss per gram dry weight. Samples were taken
+   from 14 colonies.
+
+   gross heat of combustion: mean values were for dry weight basis; 14 samples were
+    used; assume values refer t o room temperature.
+    qv(gross)  1549 k 327 Btu 1P-'    qv(gross)  860 2 182 cal g-
+    qv(gross)  3600 2 760 J g-l
+
+                                                              79VEL/KIN
+DBX; solid; ammonium nitrate (AN), 21%; cyclotrimethylenetrinitr-3mine (RDX),21%;    trinitrotoluene (TNT),40%; aluminum, 18%; density, 1.68 g cm  .
+
+   gross heat of combustion: assume values refer t o room temperature; calculated from
+   the composition of the mixture.
+                         1    q,(gross)   6082 Btu lb-
+    q,(gross)   3379 cal g-l
+    qv(gross)  14138 J g-l
+
+    specific heat: 268 K (23°F)
+
+   Cp(Btu lb-I         = 0.25
+                           0.25   Cp(cal q-' 5-l)   =
+   Cp(7 g- K  1      =  1.05
+
+                             7 1USA; 7OCOX/PIL; 68WAG/EVA; 76WAG/EVA; 73KRI/LIC
+
+
+                                      306

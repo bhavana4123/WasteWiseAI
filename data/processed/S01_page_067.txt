@@ -1,0 +1,58 @@
+                                                         Biomass-Derived Materials
+
+
+
+CHARCOAL, WOOD; solid; ultimate analysis: carbon, 93.0%; hydrogen, 2.5%; nitrogen
+   and sulfur, 1.5%; moisture, 2%; proximate analysis: fixed carbon, 89%; ash, 1%;
+    volatile matter, 10%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received; "good commercial fuel"
+    q,(gross)   14940 Btu 1                        q,(gross) = 14490 Btu 1P-'    q,(gross)  = 8300 cal g-                         q,(gross) = 8050 cal g-
+    q,(gross)  = 34727 J g-'                         q,(gross)  = 33681 f g-',
+
+                                                                            55SPI
+
+COTTON (THREAD); solid; staple fibers surrounding the seeds of various species of
+   Gossypium; absorbent cotton is almost pure a-cellulose; CH1.77400.887  is elemental
+    analysis of thread used in combustion measurements.
+
+   gross heat of combustion: at 25°C (77OF)
+
+    qv(gross) = 7290 Btu lbll                      q,(gross) = 7394 Btu  lb;'
+    qv(gross) = 4050 cal g-                         q,(gross)  = 4108 cal g-
+    q,(gross>   16945 J g-l                       q,(gross) = 17188 J g-'
+
+                                              62GOO/SCO; 70MAN/RAP
+
+DEXTRIN, solid; general formula: CgH1005; partial hydrolysis product of starch
+   containing a variable number of glucose units; dextrin is obtained in several different
+   grades by-heating starch for varying lengths of time over the temperature range from
+   17Oo-24O0C (338O-464"F).
+
+   gross heat of combustion: assume values refer to room temperature.
+    q,(gross)  = 7398 Btu lbl 1
+    q,(gross)  = 41 10 cal g-
+    q,(gross)  = 17196 J g-l
+
+                                                      55MER/WAT
+
+FILTER PAPER, WHATMAN; solid; Material is No. 41. W. and R. Balston, has fast filter
+    speed, and will retain coarse and gelatinous precipitates.  Paper is ashless and
+    consists of almost pure cellulose.
+
+    specific heat: mean value in temperature range 25"-75OC (77'-167"F)  for four
+   measurements.
+
+   Cp(Btu lb-'   OF-')     = 0.217 2 0.003
+                             2 0.003   Cp(cal 9-I  "C-')     = 0.227
+   Cp(J g-  "C-')     = 0.908 2 0.013
+
+                                                             52NEU
+
+
+
+
+
+                                        69

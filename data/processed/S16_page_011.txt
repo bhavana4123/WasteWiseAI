@@ -1,0 +1,59 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+         environmental  regulations on hexavalent chromium.64 Tin
+         oxide (SnO2) and tungsten oxide (WO3) can be used as cata-
+            lysts, or as fillers to improve properties such as barrier resis-
+         tance or hardness.19 Niobium is rarely used in plastic, but
+         could be excess catalyst or from an additive such as niobium        Licence.    oxide (Nb2O5), which increases polymer hardness.65
+           Measurable amounts of fluorine were found in 38 plastics
+          (0.1–0.8 wt%), and likely derives from fluorinated additives.        Unported       Low molecular weight polytetrafluoroethylene (PTFE) powders
+   3.0          are largely consumed by industries outside of fluoropolymers,
+PM.      where fluorinated coatings and additives are generally used to
+         impart specific properties such as lower water permeability.66
+         These types of fluorinated compounds are typically measured6:34:53
+         using LC-MS, which was not conducted for this study. Beyond
+        PVC, which contains chlorine in the polymer backbone, chlor-
+          ine was found in 9 plastics (0.009–0.005 wt%). Several classes6/21/2024
+          of plastic additives contain chlorine, including chlorinatedon Attribution-NonCommercial                                                                                            Fig. 4  FTIR spectra overlay of EVA-1, EVA-2, and EVA-3 with labeled
+         paraﬃns, which are used as plasticizers or flame retardants,   absorbance bands. Most polymer classes have nearly identical FTIR
+        and  chlorinated  isocyanurates,  which  are  used  as  anti-   spectra,  indicating  minimal  structural  diﬀerences  (Fig.  S2–S20†).
+         microbial agents.19,67                                           EVA-3 has clear diﬀerences in the intensity of absorbance bands at the C
+                                                 —H  stretch, CvO  stretch, C—H bend, and C—O  stretch  regionsDownloaded Commons         All elements highlighted in  Fig. S3†  (e.g., lanthanides,
+                                                                                                (labeled). There are also absorbance bands in regions not shared by
+          radionuclides, transition metals) were observed at trace levels2024.                                                                         EVA-1 and EVA-2, including in the C–Cl stretch region of 550–850 cm−1        Creative         (≪0.004 wt%). These are all likely contaminants introduced   (highlighted in yellow). This indicates possible diﬀerences in structure a
+         during plastic processing, or possibly trace amounts of excess   and/or the presence of additives.March26 under     catalyst. These elemental concentrations are likely naturally
+on       occurring and were measured significantly below toxic levels.68
+                                                                         tinguish low concentrations of additives, it is a valuable tool        licensed
+  is                                                                          for rapid, bulk characterization of polymers.Published
+       article   Structural and thermal analysis
+          Fourier-transform infrared (FTIR) spectroscopy                 Thermogravimetric analysis (TGA) and evolved gas analysisArticle. This
+                                                                  (EGA) using TGA-FTIR
+Access      FTIRvides spectroscopyinformation aboutis a characterizationthe bonding topologytechniquein thatthe bulkpro-  TGA measures weight changes in a material as a function of
+Open       polymer. We  overlaid the FTIR  spectra  for each polymer   temperature. For polymers, TGA provides the degradation          class containing more than one studied substrate (Fig. S4–   temperature of the polymer and can indicate the presence of
+          S14†), and in most cases for polymer types with multiple sub-   volatiles, water, small molecules, additives, and/or additional
+           strates, all polymers within a class exhibited similar spectral   polymers. TGA and EGA using TGA-FTIR can be used to ident-
+          patterns.                                                                      ify  additives  either by determining remaining  residue  at
+            Deviations in the FTIR spectra can be used to detect the  800 °C or by monitoring the FTIR spectra of the evolved gas.
+         presence of additives or co-polymers. In the current work,  We first conducted TGA for all polymer substrates under nitro-
+         EVA-3 exhibited signals in the 1700–650 cm−1 range that were   gen. Weight loss events >1 wt% before the onset temperature
+           significantly diﬀerent from the other two commercial EVA poly-   of polymer degradation occurred in 21 of 59 plastic samples
+        mers (Fig. 4). The extra signals possibly indicate the presence   (Tables S3–7†), suggesting the presence of organics that can
+          of additives or other co-polymers. The GC-MS chromatogram   evaporate or desorb from the polymer. In all of the TGA experi-
+           after ASE extraction of EVA-3 presented multiple unknown  ments under air, we attribute any remaining residue above
+          structures that possibly contain CvC bonds, which could  800 °C likely to be inorganic material, such as salts, metal
+          explain the peaks in the 1400–1600 cm−1 region. We also   oxides, or recalcitrant carbonaceous material.69
+        measured 0.4 wt% of sulfur, indicating the presence of either     Polymers with >1 wt% residue under nitrogen TGA experi-
+         elemental sulfur, inorganic, or organosulfur compounds, and  ments included PVC-2 (32 wt%), EVA-3 (18 wt%), PC (20 wt%),
+          there are peaks in the 1070–1030, 1370–1300, 1415–1380, and  PET-1 (9 wt%), PET-2 (10 wt%), PET-3 (11 wt%), PBT (5 wt%),
+         1195–1168 cm−1 regions, which could be attributed to SvO  and PK (19 wt%). We then analyzed these polymers under air
+          stretching.   EVA-3    also   contained   peaks   between  (21% oxygen) to 900 °C, which reduced the residue wt% for all
+         3250–3000 cm−1, which is either from C–H alkene stretching  polymers (except EVA-3 and PVC-2) to <0.3 wt%, indicating
+          or O–H stretching. Notably, there are signals in the C–Cl   that these weight loss events are likely from carbonaceous
+          region (550–850 cm−1), and Cl was measured at 0.445 wt% in   material. PAN also had a high residue (34%), which we attri-
+          EVA-3. While FTIR is not suﬃciently sensitive to detect or dis-   bute to a known cyclization reaction PAN undergoes in the
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                            Green Chem., 2024, 26, 7067–7090  | 7077

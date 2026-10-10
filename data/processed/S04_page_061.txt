@@ -1,0 +1,43 @@
+        Table 3-3. Power Requirements for Natural Gas Fuel Compression48
+                                                             System
+           Turbine Conditions
+                                        1           2           3           4          5
+  Turbine Electric Capacity (kW)              3,304        7,038         9,950       20,336      44,488
+  Turbine Pressure Ratio                     10.1         17.6          17.7         24          31.9
+  Pressure Required, psig                  167         299         362         405        538
+  Required Compression Power (kW)
+  55 psig gas supply pressure                51         162         289         538         1,370
+  150 psig gas supply pressure               21          63          113         211        510
+  250 psig gas supply pressure            NA         39          70         131        310
+ Source: Compiled by ICF from vendor supplied data
+
+3.4.2 Heat Recovery
+The economics of gas turbines as CHP in process applications are highly dependent on effective use of
+the thermal energy contained in the exhaust gas. Figure 3-3 provides a schematic representation of a
+gas turbine generator with exhaust heat recovery transferring energy to a heat recovery steam
+generator (HRSG) that can provide steam for process use or to drive a steam turbine generator. Thermal
+energy generally represents 60 to 70 percent of the inlet fuel energy. The most common use of this
+energy is for steam generation in unfired or supplementary fired heat recovery steam generators.
+However, the gas turbine exhaust gases can also be used as a source of direct process energy, for
+unfired or fired process fluid heaters, or as preheated combustion air for power boilers. An unfired
+HRSG is the simplest steam CHP configuration and can generate steam up to approximately 1,200 psig.
+
+               Figure 3-3. Heat Recovery from a Gas Turbine System
+
+
+
+
+
+As the quality of the steam required satisfying a thermal load increases, the overall system efficiency
+decreases. Even with a counter-flow heat exchanger, the HRSG stack temperature increases when the
+steam quality increases. For the Solar Taurus 70, an overall efficiency of 80.5 percent is possible with a
+HRSG producing 15 psig steam (LHV basis). A system producing 900 psig steam has an overall efficiency
+
+48 Fuel gas supply pressure requirements calculated assuming delivery of natural gas at an absolute pressure 35 percent greater
+than the compressor discharge in order to meet the requirements of the gas turbine flow control system and combustor mixing
+nozzles. Mass flow of fuel based on the fuel flow of reference gas turbines in the size range considered, and assuming an
+electric motor of 95 percent efficiency driving the booster compressor. Gas supply pressures of 50 psig, 150 psig and 250 psig
+form the basis of the calculations.
+
+
+Catalog of CHP Technologies                          3–8                          Combustion Tubines

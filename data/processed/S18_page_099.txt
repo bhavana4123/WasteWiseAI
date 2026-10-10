@@ -1,0 +1,49 @@
+23.    Wooley, R.; Ibsen, K.; Putsche, V. Development of an ASPEN PLUS Physical Property
+      Database for Biofuels Components. NREL Technical Memo, Document #4141. Golden,
+     CO: National Renewable Energy Laboratory, 1999.
+       http://biodev.nrel.gov/bcfcdoc/4141.pdf.
+
+24.    Hess, J.R.; Kenney, K.L.; Ovard, L.P.; Searcy, E.M.; Wright, C.T. Uniform-Format Solid
+       Feedstock Supply System: A Commodity-Scale Design to Produce an Infrastructure-
+      Compatible Bulk Solid from Lignocellulosic Biomass, Section 3: Pioneer Uniform
+       Feedstock Supply System. Report No. INL/EXT-08-14752. Idaho Falls, ID: Idaho
+       National Laboratory, 2009. http://www.inl.gov/bioenergy/uniform-feedstock.
+
+25.    Templeton, D.W.; Sluiter, A.D.; Hayward, T.K.; Hames, B.R.; Thomas, S.R. “Assessing
+      Corn Stover Composition and Sources of Variability via NIRS.” Cellulose; Vol. 16,
+       2009; pp. 621-639.
+
+26.    Corn stover analysis, sample 33A14 from Kramer Farm, Wray Pioneer Lot. Huffman
+       Report #123409. Wray, CO: Kramer Farm.
+
+27.    Office of the Biomass Program, Energy Efficiency and Renewable Energy, U.S.
+      Department of Energy. Multi-Year Program Plan. Washington, DC: U.S. Department of
+       Energy, April 2011. http://www1.eere.energy.gov/biomass/pdfs/mypp_april_2011.pdf.
+
+28.    Chen, S.F.; Mowery, R.A.; Scarlata, C.J.; Chambliss, C.K. “Compositional Analysis of
+       Water-Soluble Materials in Corn Stover.” J. Agric. Food Chem.; Vol. 55, 2007; pp. 5912-
+       5918.
+
+29.    Bower, S.; Wickramasinghe, R.; Nagle, N.J.; Schell, D.J. “Modeling Sucrose Hydrolysis
+        in Dilute Sulfuric Acid Solutions at Pretreatment Conditions for Lignocellulosic
+       Biomass.” Biores. Technol.; Vol. 99, 2008; pp. 7354-7362.
+
+30.    Ethanol (data page). Wikipedia,
+       http://en.wikipedia.org/wiki/Ethanol_%28data_page%29.
+
+31.    Nagle, N.; Weiss, N.; Kuhn, E.; Tucker, M.; Sievers, D.; Elander, R. Validate > 75%
+      Xylan Yield and <8% Degradation from Whole Corn Stover using a High Solids
+       Continuous Pretreatment Reactor. D Milestone Report, Document #10341. Golden, CO:
+       National Renewable Energy Laboratory, 2008. http://biodev.nrel.gov/bcfcdoc/10341.pdf.
+
+32.    Jennings, E.; Mohagheghi, A.; Schell, D.; Dowe, N. Technical and Economic
+      Performance of an Ammonium Hydroxide-Based Conditioning Technology. E Milestone
+       Report, Document #10379. Golden, CO: National Renewable Energy Laboratory,
+      November 2008. http://biodev.nrel.gov/bcfcdoc/10379.pdf.
+
+33.    Jechura, J. Correlation of Metal Corrosion Data. NREL Technical Memo, Document
+       #5194. Golden, CO: National Renewable Energy Laboratory, March 2001.
+       http://biodev.nrel.gov/bcfcdoc/5194.pdf.
+
+
+                                      89

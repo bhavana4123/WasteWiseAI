@@ -1,0 +1,53 @@
+in Figure 4, this composition fits well inside the carbohydrate distribution of the more recent
+study and therefore provides a more representative design basis. The moisture content value
+assumed for corn stover was also updated to 20% based on the feedstock logistics specifications
+table developed by INL and reported in the OBP Multi-Year Program Plan (MYPP) [27].
+
+       Table 4. Corn Stover Composition from the 2002 Design [2] and the Present Design
+
+      Component                            2002 Design        Present Design
+                                                     (dry wt %)            (dry wt %)
+       Glucan                                       37.40                35.05
+        Xylan                                        21.07                19.53
+         Lignin                                        17.99                15.76
+       Ash                                           5.23                  4.93
+        Acetatea                                       2.93                  1.81
+        Protein                                        3.10                  3.10
+         Extractives                                     4.68                 14.65
+        Arabinan                                       2.92                  2.38
+        Galactan                                       1.94                  1.43
+      Mannan                                       1.56                  0.60
+       Sucrose                                                            -                   0.77
+      Unknown soluble solidsb                         1.18                            -
+         Total structural carbohydrate                    64.89                58.99
+         Total structural carbohydrate + sucrose          64.89                59.76
+        Moisture (bulk wt %)                            15.0                  20.0
+             a Represents acetate groups present in the hemicellulose polymer; converted to acetic acid in pretreatment.
+           b In the 2002 design, unknown soluble solids were calculated by difference to close the mass balance. This
+           is now included in the extractives component.
+
+When converting the analytical composition to components used in the Aspen model, the water-
+and ethanol-soluble fractions from the compositional analysis were combined under
+“extractives.” The extractives component is assumed to be organic, with an average composition
+of CH2O, and consists primarily of sugars, sugar alcohols, and organic acids [28]. The presence
+of extractives in corn stover depends on the time of harvest and in part to how much microbial
+degradation of the material occurs after harvest; the amount of extractives in a given sample may
+therefore be indicative of its age. Additionally, where the mass balance did not sum to 100%, the
+extractives component was used to close it by difference. (In the 2002 design, the “unknown
+soluble solids” component performed this function.) Sucrose is another extractive component,
+but it is measured separately in laboratory analysis and has been added as a feedstock component
+in the present design; it is therefore excluded from the extractives component. The amount of
+sucrose present in corn stover is highly dependent on harvesting and handling practices. In
+pretreatment, this sucrose is assumed to be fully hydrolyzed to glucose and fructose. The fructose
+is further converted to degradation products in pretreatment, but the glucose resists degradation
+and thus is available for fermentation [29].
+
+The differences in composition between the 2002 design and the present design have a few
+notable economic implications. Because the glucan (cellulose) content in the feedstock is lower,
+the present design has a lower ethanol yield per ton of feedstock. On the whole, the total
+structural carbohydrate composition (glucan + hemicellulose components) is about 5% lower
+than in the 2002 composition. Conversely, in the present design, a larger portion of the feedstock
+is non-carbohydrate organic compounds. These ultimately become process residues that are
+
+
+                                      14

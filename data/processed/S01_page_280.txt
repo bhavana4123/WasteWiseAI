@@ -1,0 +1,53 @@
+                                                                      Miscellaneous
+
+
+AMATOL; solid; an explosive mixture of ammonium nitrate (AN and trinitrotoluene
+   (TNT). Density of cast material: 80/ZO AN/TNT, 1.46 g crn-';  60/40 AN/TNT,
+    1.60 g ~ m - 50/50~  ;  AN/TNT, 1.59 g ~ r n - ~ .
+
+    gross heat of combustion: 25°C (77°F); calculated from the composition of the
+    mixture.
+
+   80/20AN/TNT   .                         50/30 AN/TNT
+    q,(gross) = 2194 Btu Ib- 1                      q,(gross)  = 3793 Btu lb- 1
+    qv(gross) = 121 9 cal                            q,(gross)  = 2107 cal
+    q,(gross) = 5100 J                              q,(gtoss)  = 8816 3
+
+   60140 AN/TNT
+
+    q,(gross) = 3260 Btu Ib-I
+     q,(gtoss)             =             18 I 1 cal
+            =             7577                    J g- 9-1    q,(gross)
+
+    specific heat: for the temperature range 293-353 K (64'-176"F)  for 50/50 AN/TNT
+    mixture.
+
+      = 0.383 Btu Ib-'  OF-'   =P
+  Cp = 0.383 cal4-l K-I
+   Cp = 1.602 J g-  K- 1
+
+                                               71USA; 7OCOX/PIL; 6SWAG/EVA
+
+CELLULOSE NITRATE; solid; Cellulose does not form nitrate in a stoichiometric
+   manner; the degree of nitration is measured by the percent of nitrogen in the ester.
+
+   mononitrocellulose:   [C6H~N07Ix;6.76% nitrogen
+    dinitrocellulose:        [C6H8N20,$,;    1 1. I 1% nitrogen
+    ttinitrocellulose:         [ C G H ~ N lIx;~ O 14.14%~      nitrogen
+   cellulose nitrate, grade B (guncotton) C6H7.26N2.74010,48
+   cellulose nitrate, grade C (type I) CgH7.36N2.67010.27
+   cellulose nitrate, grade C (type 11) C6~7.33N2.67010,34
+   cellulose nitrate, grade D (pyroxylin) C6H7,68N2.3200.64
+   gross heat of combustion: at 30°C (86'F)  for EO.115 < N < 0.1351; N = wt. fraction                                       -  -   nitrogen.
+
+    q,(gross) = 7316.8 - 25427N Btu lb-I
+    q,(gross)  = 4176.0 - 14126N cal g-'
+    q,(gross)  = 17472.4 - 59103N J g-l
+
+                                                    SOJES/PRO; 74DEC/WAR
+
+
+
+
+
+                                      305

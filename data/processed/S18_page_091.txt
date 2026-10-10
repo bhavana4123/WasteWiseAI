@@ -1,0 +1,32 @@
+5.5  State of Technology Back-Casting
+The annual State of Technology (SOT) assessment is an essential activity for biochemical
+conversion research at NREL. The state of technology process is complementary to the design
+report. Without reconfiguring the unit operations in the Aspen model, the projected conversions
+from the design report are replaced by present conversions that have been experimentally
+verified at the bench and/or pilot scale on process-relevant material. By comparing the SOT
+year-over-year, research advances can be quantified in terms of economic improvements in the
+overall process.
+
+We understand that “State of Technology” is arguably a misnomer because no commercial
+cellulosic ethanol plants exist today. The aim of an SOT case for a given year is not to report a
+current commercial production cost for cellulosic ethanol, but to reflect NREL’s best estimate of
+ethanol production costs in a hypothetical nth plant using the current best slate of demonstrated
+technical capabilities. The SOT uses conversion performances that have been demonstrated
+experimentally, with a preference for data obtained in NREL’s ~1 ton/day pilot facility. Not all
+conversion parameters can be practically measured in the pilot plant, so the SOT cases contain
+both laboratory-scale data and pilot-scale data. There is of course some risk in assuming that
+bench-scale performance data is applicable at large scale.
+
+Since its inception, the SOT analysis has been based on the technoeconomic model from the
+2002 design report [2]. Feedstock costs and year-dollars were updated, and some minor process
+modifications were made, but the basic Aspen model stayed the same. Using the new Aspen
+model described in this report, we performed a back-casting of the 2007–2010 SOTs using their
+conversion results. Table 41 shows these back-cast cases and their related MESP values. Much
+of the research that went into demonstrating these cases was discussed in Sections 3.2 and 3.3.
+Also shown in Table 41 are the 2011 interim conversion targets.
+
+
+
+
+
+                                      81

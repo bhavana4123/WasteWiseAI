@@ -1,0 +1,53 @@
+Woody and Tree Materials
+
+LITTER FALL - Continued
+
+   samples with large amounts of throughfall
+
+    q,(gross) = 7700 Btu lb-I
+    q,(gross)   4300 cal g-'
+    q,(gross)  = 18000 J g-l
+
+                                                             72BAG
+
+LOCUST, BLACK; solid; Material is considered biomass fuel and has  roximate analysis                      b    0
+   values (in percent by weight dry basis) for volatile concentration VCM)   80.94, ash                                                           P
+   content = 0.80, and fixed carbon = 18.26.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon   50.73,
+   hydrogen = 5.71, oxygen   41.93, nitrogen = 0.57, sulfur = O.Ol,  chlorine   0.08, and
+   residue (ash) = 0.97.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 0 2 , and corrections applied for the formation of nitric and
+    sulfuric acids.
+   qv(gross)  8479 Btu lb- 1
+    q,(gross) = 471 I cal g-l
+   qv(gtoss)  19710 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+   qv(net) = 7980 Btu Ib- I
+   qv(net) = 4434 cal g-1
+    q,(net)   18550 J g-'
+
+                                                                         85 JEN/EBE
+
+MADRONE; Arbutus rnenzeisii; solid; Material is considered biomass fuel and has
+   proximate analysis values (in percent by weight dry basis) for volatile concentration
+   (VCM) = 82.99, ash content = 0.57, and fixed carbon = 16.44. Also the ultimate
+    analysis of the elemental composition of the fuel (values in percent by weight dry
+    basis) is carbon = 48.00, hydrogen   5.96, oxygen = 44.95, nitrogen   0.06, sulfur
+    0.02, chlorine   0.0 I, and residue (ash) = 1.OO.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atrn 0 2 , and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 8350 Btu Ib- 1
+    q,(gross)  = 4639 cal g-l
+   qv(gross) = 19410 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+    q,(net)   7830 Btu lbi I
+   qv(net) = 4350 cal gi
+    qv(net) = 18200 J g-
+
+                                                      85JENEBE

@@ -1,0 +1,50 @@
+Inorganic Materials                                                                                                                                                                                          I
+
+
+
+GLASS, VYCOR; solid; Si02, 96.3%; B203, 2.9%; A120gt 0.4%; other metal oxides, 0.4%.
+
+    specific heat: 273-579 K (32"-583"F), mean values
+
+  C (Btu lb-I  OF-')     = 0.16053 + 7.962 x    T   Cp(calP           K-')                      = 0.12393 + 1.4333 x lod4 T
+   Cp(J g-  K-l)         0.51852 + 5.9969 x    T
+
+                                                      68CAMlVAN
+
+PORCELAIN, solid; a mixture of clays, quartz, and feldspar, usually containing at least
+   25% aluminum.  Sample 1: 502,65.14%; A1203, 28.76%; Fe2O3, 1.08%; K20, 3.61%;
+   MgO, 1.21%; sample 2: Si02, 41.1%; A1203, 57.1%; Fe203, 0.3%; MgO, 0.5%; CaO,
+    traces.
+
+    specific heat: 273-1873 K (320-291Z°F)
+
+   sample 1
+
+   Cp(Btu lb-I  OF-')     = 0.1711 + 1.2532 x     T - 2.3804 x 10-8 T2
+   Cp(cal Q-1 K-1)     = 0.10848 + 2.6497  x     T - 7.7124 x  lo-'  T2
+   Cp(J g-  K-l)       = 0.45388 + 1.10863 x     T - 3.2269 x    T2
+
+   sample 2
+
+   Cp(Btu Ib-I  OF-')    = 0.23608 + 6.2509 x lo"  T - 1.7546 x 10-9 T2
+    Cp(ca1q-l ~  - 9 = 0.20698 + 1.1542 x lod4 T - 5.685 x 10-9 T2
+   Cp(J g-   K-')       = 0.86600 + 4.8292 x    T - 3.2319 x 10-a T2
+
+                                                                       28 JAE/ROS
+
+ZEOLITE, SILVER A; solid; synthetic ion-exchange  re$n;  hydrated alu+minum silicates    containing alkali or alkaline earth metals; 90% Ag  relative to Na .
+
+    specific heat: at 310 K (98OF);nearly all water eliminated by heating in N2 at 500°C
+    (932°F).
+
+
+
+
+
+                                                                       7 2 v u c / v u c
+
+
+
+
+
+                                        132

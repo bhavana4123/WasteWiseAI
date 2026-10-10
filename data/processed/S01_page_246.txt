@@ -1,0 +1,38 @@
+                                                  Woody and Tree Materials
+
+
+MAPLE, SILVER; Acer saccharinurn; solid; Each tree was separated into small parts
+    (being less than 0.64 cm (1/4 in.) in diameter and roughly equivalent to tops and
+    branches) and large parts with the weighted proportion of small (25%) and large (75%)
+    material in the whole tree.  Overall mean specific gravity for whole tree = 0.40 (oven
+   dry weight and green volume).  Bark proportion of whole tree = 19%.
+
+   gross heat of combustion: oven-dried, assume values refer to room temperature.
+
+   small parts                             whole tree
+                                                               1    q,(gross) = 8071 Btu Ib-I                       q,(gross) = 8023 Btu Ib-
+    q,(gross)   4484 cal g-l                     qv(gtoss) = 4457 cal g-l
+    qv(gross) = 18761 J g-'                      qv(gross) = 18648 J g-l
+
+    large parts
+    qv(gross) = 8006 Btu lb; 1
+    qv(gross) = 4448 cal g-
+    q,(gross)  = 18610 J g-l
+
+                                                             82GEY
+
+MAPLE, SUG R; Acer saccharurn; solid; air-dried at 105°-1100C(221"-230°F); density,    0.66 g cm-4 .
+
+    specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-I  OF-')    = 0.327
+   Cp(cal q -1 &)       = 0.327
+   Cp(J g-  K-')       = 1.368
+
+                                                           12DUN
+
+
+
+
+
+                                       269

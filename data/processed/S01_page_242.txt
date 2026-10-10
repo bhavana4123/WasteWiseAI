@@ -1,0 +1,57 @@
+                                                  Woody and Tree Materials
+
+
+
+MA1 CHAMPAH; MicheZia; solid; from Thailand; air-dried at 105"-1 10°C (221"-230'F);
+    density, 0.32 g ~ m - ~  .
+
+   specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-I  OF-')    = 0.323   Cp(cal-q -1 K -1 1                        = 0.323
+   Cp(J g   K-l)       = 1.351
+
+                                                         12DUN
+
+MANZANITA; ArctostaphyZos; solid; Material is considered biomass fuel and has
+   proximate analysis values (in percent by weight dry basis) for volatile concentration
+   (VCM) = 81.29, ash content = 0.82, and fixed carbon = 17.89.  Also the ultimate
+   analysis of the elemental composition of the fuel (values in percent by weight dry
+    basis) is carbon = 48.18, hydrogen = 5.94, oxygen = 44.68, nitrogen = 0.17, sulfur =
+    0.02, chlorine   0.01, and residue (ash) = 1.00.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 8303 Btu lb-I
+    q,(gross) = 46 13 cal g-l
+    q,(gross)  = 19300 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 7783 Btu lbll
+   qv(net) = 4324 cal g l
+    q,(net)  = 18090 J g-
+
+                                                                85JEN/EBE
+
+MANZANITA, GREENLEAF; FOLIAGE; Arctostaphylos gZanduZosa; solid; freeze-dried to
+   < 10% moisture content.  Composition is ash = 3.19% and char yield = 30.7%.  Char
+   was obtained from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                    char (from 500°C heating)
+
+    q,(gross)  = 9330 Btu lb- 1                      q,(gross)  = 13940 Btu  I
+    q,(gross)  = 5190 cal g-'                        q,(gross)  = 7750 cal g-
+    qv(gross) = 21730 f g-l                        q,(gross) = 31410 J g-l
+
+                                                                 82SUS
+
+
+
+
+
+                                        265

@@ -1,0 +1,51 @@
+                 hydroxyacetaldehyde 17, resins 18, agri-chemicals, fertilisers, and emissions control
+                 agents can also be extracted or derived from bio-oil. For power generation, at least
+              400 hours operation has been achieved on a 250 kWe specially modified dual fuel
+                 engine 19 and substantial experience has been gained on a modified 2.5 MWe
+                   industrial gas turbine.
+
+            Transport fuels
+
+
+              As biomass is the only renewable source of fixed carbon, there is considerable
+                   interest in the production of transport fuels and other commodity chemicals via
+                  synthesis gas or syngas as it is usually known. Syngas provides the raw material for
+                 production of virtually every fuel and chemical in use today, including conventional
+               and unconventional transport fuels, commodity chemicals and speciality chemicals.
+             Some of the possibilities of considerable topical significance for production of
+                hydrocarbon transport fuels are shown in Figure 10.
+
+
+                There are two main routes to transport fuels that are currently being considered:
+                   gasification of bio-oil followed by synthesis; and hydro-processing of bio-oil or
+                 separated bio-oil.These are shown in Figure 10.
+
+
+                 Gasification and fuel synthesis
+               Syngas is a mixture of carbon monoxide (CO) and hydrogen (H2).There are usually
+                 other components arising from gasification such as carbon dioxide (CO2), methane
+                (CH4), higher hydrocarbons such as ethylene and ethane, propane and propylene, and
+                  nitrogen from air gasification. Generally these act as diluents, but different generic
+               and specific processes have different levels of tolerance for each component.There
+                    will also be trace contaminants containing sulphur (e.g. H2S), chlorine (e.g. HCl,
+               COCl) and nitrogen (e.g. ammonia NH3) in a range of compounds.The
+                  concentrations of these trace components will usually require reduction to a few
+                  parts per million for most catalyst systems used in synthesising alcohols and
+                 hydrocarbons, and each catalyst has its own limitations and tolerances.
+
+
+                 Figure 10 includes gasification of solid biomass as well as bio-oil from fast
+                  pyrolysis.The dispersed nature of biomass in Europe and the environmental cost of
+                   collection and transport are often considered to limit the size of solid feed processes
+                  to around 100,000 t/y or 20 MWe, except in Scandinavia. However, in North and
+               South America this upper limit is usually considered to be much higher.Transport
+                    fuel synthesis becomes uneconomic at such small scales of operation, but a
+                  decentralised fast pyrolysis network feeding bio-oil as an energy carrier is not
+                   limited, and commercially viable scales of operation can then become feasible, even
+                 with the small loss of efficiency in the pyrolysis step. In addition, a liquid feed to a
+                  pressurised oxygen blown gasifier is less complex and thus lower cost than solid
+                 biomass. Partial upgrading of bio-oil into a conventional refinery feedstock is
+                 another option that is being widely considered.
+
+
+14

@@ -1,0 +1,66 @@
+The alcohol is removed from both the glycerol and ester stream using an evaporator or a flash
+unit. The esters are neutralized, washed gently using warm, slightly acid water to remove
+residual methanol and salts, and then dried. The finished biodiesel is then transferred to storage.
+The glycerol stream is neutralized and washed with soft water. The glycerol is than sent to the
+glycerol refining section.
+
+
+
+
+                                                                                                    Water
+
+                                                                       Alcohol      Water
+
+
+
+                                                                                                                                  Biodiesel
+
+                                                                                                             Dryer
+
+                                                                              Ester
+
+                          Ester
+                TG
+                                                                            Alcohol                    Wash Water
+                      Alcohol
+                         Catalyst
+                                                                                    Water
+
+
+                                     Batch Reactor
+
+
+
+
+                                                                                                      Crude
+                                                                                                                  Glycerol
+
+                          Figure 14. Batch Reaction Process
+
+For yellow grease and animal fats, the system is slightly modified with the addition of an acid
+esterification vessel and storage for the acid catalyst. The feedstock is sometimes dried (down to
+0.4% water) and filtered before loading the acid esterification tank. The sulfuric acid and
+methanol mixture is added and the system is agitated. Similar temperatures to transesterification
+are used and sometimes the system is pressurized or a cosolvent is added. Glycerol is not
+produced. If a two-step acid treatment is used, the stirring is suspended until the methanol phase
+separates and is removed. Fresh methanol and sulfuric acid is added and the stirring resumes.
+Once the conversion of the fatty acids to methyl esters has reached equilibrium, the
+methanol/water/acid mixture is removed by settling or with a centrifuge. The remaining mixture
+is neutralized or sent straight into transesterification where it will be neutralized using excess
+base catalysts. Any remaining free fatty acids will be converted into soaps in the
+transesterification stage. The transesterification batch stage processes as described above.
+
+Continuous Process SystemsA popular variation of the batch process is the use of continuous
+stirred tank reactors (CSTRs) in series. The CSTRs can be varied in volume to allow for a longer
+residence time in CSTR 1 to achieve a greater extent of reaction. After the initial product
+glycerol is decanted, the reaction in CSTR 2 is rather rapid, with 98+ completion not uncommon.
+
+An essential element in the design of a CSTR is sufficient mixing input to ensure that the
+composition throughout the reactor is essentially constant. This has the effect of increasing the
+dispersion of the glycerol product in the ester phase. The result is that the time required for phase
+separation is extended.
+
+
+
+
+                                      35

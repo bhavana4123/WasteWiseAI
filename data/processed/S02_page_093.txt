@@ -1,0 +1,52 @@
+ from a hot surface and toward a cold surface. This       is introduced at a concentration of 0.25 LlNm3• at
+phenomenon is called "thermophoresis."               30 psig spray pressure. and in a high intensity sonic
+                                                                  field of frequency 600 to 800 Hz. A 12-s residence time
+Wetted particles tend to stick together better when they                                                      permits the particles to agglomerate to a size large
+ collide. thereby assisting agglomeration. Wet scrubbers                                                enough to be captured with 94% efficiency by a 5-llID
+have been used widely. especially in stationary ap­                                                      cyclone (Calvert 1972). plications for cleaning and cooling the gas. A scrubber
+ operates by creating conditions for maximum contact     If a condensation nucleus is absent. but the degree of
+between the gas to be cleaned and a scrubbing liquid     supersaturation (S) exceeds 200% to 400%. then
+medium.                                        homogeneous self-nucleation occurs. Self-nucleation
+                                                     produces extremely small droplet sizes. The droplet Basic scrubber types and performance characteristics                                                 growth rate is inversely proportional to the dropletare summarized in Tables 8-1. 8-2. and 8-7. and grade                                                              radius. so it proceeds slowly at first. accelerating withefficiency curves are shown in Fig. 8-2. Scrubbers can                                                           droplet size.be divided into impingement-plate. packed-bed. sieve­
+ plate. spray tower. and Venturi scrubbers.                Nucleated condensation dominates over homogeneous
+                                                          self-nucleation when nucleation sites are present.Small. difficult-to-capture droplets may be made to
+                                                 Vapor condenses more readily within concave sur­grow in size with time until they are large enough to be
+                                                               faces. filling the void fraction of solid particles. Solublecaptured by simply providing adequate residence time
+                                                          aerosol particles nucleate even more readily by boilingin the scrubber volume. Particles grow in size by ag­
+                                                       point depression in solution. A small droplet growsglomeration and condensation. Agglomeration is par­
+                                                      slowly by chance agglomeration until it reaches itsticle growth through particle collision. Almost all
+                                                                   critical size; after that. it grows rapidly by acting as ahigh-concentration clouds tend to have the same
+                                                        nucleation site. Soluble particles behave as nucleationparticle concentration within 1 min after formation.
+                                                                    sites without having to achieve critical size. The char­
+A novel method to capture 0.2-llID mist is to provide     ash dust particles present in the producer gas stream at
+water fog nuclei and ample residence time. Water fog     temperatures below the tar dew point will act as nuclei
+
+                              Table 8-7. Scrubber Types and Performance
+
+                       Size Limit Particle           Pressure Drop
+                       Cut Dia. (dpso)           Water Column
+Method                ÷m              cm (in.)                Comments
+Gravity Settling              >30                 Low                        Coarse separator; very
+                                                                                                 large and bulky
+Massive Packing            >5                                1 cm/10cm of                 Free draining coarse demister
+                                                  column height
+Fiber Packing                                                            1 0 cm                       Viscous materials can cause
+                                                                                         plugging
+Preformed Spray            >5                  Low                          High water consumption
+Gas Atomized Spray         >5                      0.002 (0.001)              Good for sticky materials
+   Venturi and Sieve          >2                       5.7 (2.2)
+  Plate Scrubbers             >1                        22.6 (8.9)
+                            Submicron              91 (35.9)
+Centrifugal                     1-2                      7.5-20 (3-8)                  Compact; good for preliminary
+                                                                                  cleanup
+Baffle Plate                20 (solids)                2.5-7.5 (1-3)                 Large coarse collector
+                          5 (mist)
+Impingement                  2-3                             1 0-50 (4-20)                    Recoil bounce; can reentrain
+Entrainment Separator        5                    32 (5)                    Can be clogged
+Mechanically Aided             1-2                     Acts as a blower               High power and maintenance
+Moving Bed                                                  7.5-1 5 (3-6)                Good mass transfer
+Fabric Filter                    0.3                    13 (5)                            Excellent; can be clogged
+Source: Compiled from data in Calvert 1 972.
+
+
+                                                        Gas Cleaning and Conditioning    85

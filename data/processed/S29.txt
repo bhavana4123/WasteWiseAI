@@ -1,0 +1,14 @@
+Phyllis2 -  chicken manure (#957) Phyllis2 Home Browse Help chicken manure (#957) Download XLSX Download PDF ID-number #957 Material chicken manure Alternative name poultry manure Description fresh manure Classification ECN Phyllis classification ▸ manure ▸ poultry ▸ chicken manure NTA 8003 classification ▸ [300] mest ▸ [310] pluimveemest Submitter organisation ECN (Netherlands) Literature A. R. El Boushy, G. J. Klaassen and E. H. Ketelaars: Biological conversion of poultry and animal waste to a feedstuff for poultry. World's Poult. Sci. J. 41 (2) pp. 133-145 (1985). Values Property Unit Value Std dev Det lim Lab Date Method Remarks ar dry daf Main biomass properties Proximate analysis Moisture content wt%
+                    (ar) Ash content wt% 22.73 Ultimate analysis (macroelements) Total (with halides) wt% 22.73 0.00 Calculated Trace elements composition Calcium (Ca) mg/kg
+                    (dry) 51 200.0 Measured Copper (Cu) mg/kg
+                    (dry) 68.0 Measured Iron (Fe) mg/kg
+                    (dry) 560.0 Measured Potassium (K) mg/kg
+                    (dry) 16 800.0 Measured Magnesium (Mg) mg/kg
+                    (dry) 3 100.0 Measured Manganese (Mn) mg/kg
+                    (dry) 276.0 Measured Sodium (Na) mg/kg
+                    (dry) 2 400.0 Measured Phosphorus (P) mg/kg
+                    (dry) 34 200.0 Measured Zinc (Zn) mg/kg
+                    (dry) 376.0 Measured Biochemical analysis Other Lipids wt%
+                    (dry) 2.64 Measured Protein wt%
+                    (dry) 46.87 Measured Total ash + biochemical wt%
+                    (dry) 72.24 Calculated © 2026 TNO | Colophon Contact: Secretariaat-BCT-STIP@tno.nl

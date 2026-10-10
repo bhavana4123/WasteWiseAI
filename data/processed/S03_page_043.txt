@@ -1,0 +1,35 @@
+15-day MCRT
+During the 15-day MCRT operational period, both mesophilic and thermophilic digesters
+produced gas with a higher methane content than during the shorter MCRT periods, which
+suggests that a longer MCRT allows larger methanogen populations to optimize methane
+production. The thermophilic digester had a slightly higher average methane content (67% CH4)
+than that of the mesophilic digester (64% CH4) during stable periods of operation. Compared to
+municipal wastewater solids, both the mesophilic and thermophilic digesters met or exceeded the
+typical average for municipal wastewater solids digestion. Digester gas samples from the
+thermophilic digester were often near, or even higher than 70% methane. These results show
+that food waste can produce digester gas that has a higher energy value than gas produced from
+municipal wastewater solids. As expected, the carbon dioxide data had an inverse relationship to
+methane data. Figure 3.13 shows the average carbon dioxide content was 29% for the
+thermophilic digester and 35% for the mesophilic digester (during stable periods of operation).
+Prior to restart of the mesophilic digester, a drastic drop in the methane content to 43% (1/2/07)
+was observed.
+
+10-day MCRT
+Methane gas concentrations were stable within the 55-65% range during the 10-day MCRT
+operational period for both digesters, with one exception. A drop in methane content to 17% was
+observed in the mesophilic digester on 1/29/07 prior to its restart. The average methane gas
+concentrations were lower during this period (59-60%) than during the 15-day MCRT
+operational period (64-67%).
+
+5-day MCRT
+Methane gas quality drastically decreased during the 5-day MCRT operational period. The
+methane content dropped below 5% and carbon dioxide exceeded 60% for both mesophilic and
+thermophilic digesters. This was likely due to a washout of the slower growing methanogens at
+the higher 5-day MCRT wasting rate.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               28
+Funding Opportunity No. EPA-R9-WST-06-004

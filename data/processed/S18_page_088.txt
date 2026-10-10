@@ -1,0 +1,55 @@
+        Sugar Production Process Engineering Analysis
+                                      Corn Stover Design Report Case: DW1102A
+                                       Dilute Acid Prehydrolysis with Enzymatic Saccharification
+                                                                  All Values in 2007$
+                 Minimum Sugar Selling Price $0.1158 /lb, Dilute sugars
+
+                                  Sugar Production (MMlb / Year) 910.4
+                          Sugar Yield (lb / Dry U.S. Ton Feedstock) 1179
+                                   Feedstock Cost $/Dry U.S. Ton $58.5          (Includes handling)
+                                            Internal Rate of Return (After-Tax) 10%
+                                     Equity Percent of Total Investment 40%
+
+                        Capital Costs                                            Manufacturing Costs (cents/lb sugar)
+Pretreatment & Conditioning                  $33,000,000           Feedstock + Handling                            4.963
+Enzymatic Hydrolysis                        $19,600,000              Sulfuric Acid                                    0.164
+On-Site Enzyme Production                  $18,300,000          Ammonia                                       0.483
+Solids Recovery                              $7,300,000           Glucose (Enzyme Production)                     1.296
+Wastewater Treatment                             $0            Other Raw Materials                              0.107
+Storage                                      $1,900,000          Waste Disposal                                  0.222
+Boiler/Turbogenerator                        $66,000,000               Electricity                                         -0.676
+Utilities                                      $6,900,000             Natural Gas (sugar concentration)                 0.000
+Total Installed Equipment Cost               $152,900,000            Fixed Costs                                     0.979
+                                                                           Capital Depreciation                              0.978
+Added Costs                              $127,000,000            Average Income Tax                              0.559
+    (% of TPI)                       45%                  Average Return on Investment                     2.505
+
+Total Project Investment                    $279,900,000                                     Manufacturing Costs ($/yr)
+                                                                Feedstock + Handling                      $45,200,000
+Installed Equipment Cost/Annual lb                  $0.17              Sulfuric Acid                                $1,500,000
+Total Project Investment/Annual lb                   $0.31          Ammonia                                  $4,400,000
+                                                              Glucose (Enzyme Production)               $11,800,000
+Loan Rate                                   8.0%            Other Raw Matl. Costs                       $1,000,000
+Term (years)                                     10          Waste Disposal                             $2,000,000
+Capital Charge Factor                              0.131               Electricity                                   -$6,100,000
+                                                                         Natural Gas (sugar concentration)                  $0
+                                                                  Fixed Costs                                $8,900,000
+Sugar Concentration (g/L)                          127             Capital Depreciation                         $8,900,000
+Energy Efficiency (LHV sugar/LHV feed)           50.8%            Average Income Tax                         $5,100,000
+                                                                 Average Return on Investment               $22,800,000
+
+                                                           Excess Electricity (KWH/lb)                        0.12
+                                                                        Plant Electricity Use (KWH/lb)                      0.26
+                                                                        Plant Water Use (gal/lb)                              0.4
+
+                                                                                          Specific Operating Conditions
+                                                     Enzyme Loading (mg/g cellulose)                   20
+                                                                          Saccharification Time (days)                          3.5
+
+                  Figure 19. Economic summary for dilute sugar production
+
+
+
+
+
+                                     78

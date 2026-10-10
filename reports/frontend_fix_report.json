@@ -1,0 +1,43 @@
+{
+  "python": {
+    "passed": 246,
+    "failed": 0,
+    "engineering_regression_tests": 205,
+    "backend_api_tests": 41
+  },
+  "browser": {
+    "passed": 23,
+    "failed": 0,
+    "flaky": 0,
+    "skipped": 0,
+    "uses_real_backend": true,
+    "production_bundle": true
+  },
+  "typescript": "passed",
+  "production_build": "passed",
+  "protected_files_unchanged": 25,
+  "scientific_csvs_unchanged": 6,
+  "engine_python_files_unchanged": 19,
+  "files_changed": [
+    "backend/main.py",
+    "backend/schemas.py",
+    "backend/README.md",
+    "tests/test_backend.py",
+    "frontend/src/api.ts",
+    "frontend/src/catalog.ts",
+    "frontend/src/App.tsx",
+    "frontend/src/components/CityScene.tsx",
+    "frontend/src/components/Timeline.tsx",
+    "frontend/src/components/Results.tsx",
+    "frontend/src/styles.css",
+    "frontend/tests/dashboard.spec.ts",
+    "frontend/playwright.config.ts",
+    "frontend/package.json",
+    "frontend/.gitignore",
+    "frontend/README.md"
+  ],
+  "external_predictive_validation": "NOT_VALIDATED",
+  "electricity_and_heat_forecasts": "BLOCKED",
+  "missing_moisture_limits": "UNKNOWN",
+  "deployment": "not performed"
+}

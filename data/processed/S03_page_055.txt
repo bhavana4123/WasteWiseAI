@@ -1,0 +1,44 @@
+                 Table A-1 Averages and Standard Deviations of Parameters
+
+                                                   # of
+       Item         Parameter            Units      samples             Thermo   Meso
+        1    Residence Time (15 d)          Days        23/20     average        14.7      15.6
+           (MCRT)                                                         std. dev.         1.2        1.2
+                                                                              coeff. var.      0.08      0.08
+              Residence Time (10 d)          Days        24/49     average         9.9       10.1
+           (MCRT)                                                        std. dev.         0.7        0.6
+                                                                              coeff. var.      0.07      0.06
+              Residence Time (5 d)           Days         3       average         5.3        5.3
+           (MCRT)                                                         std. dev.         0.3        0.2
+                                                                              coeff. var.      0.05      0.04
+        2    Temperature                    oC         29/76     average       50.09     35.22
+                                                                                    std. dev.        0.40      1.14
+                                                                              coeff. var.     0.008     0.032
+              Temperature (New Target)       oC         21       average        52.1     35.54
+                                                                                    std. dev.        0.39      0.97
+                                                                              coeff. var.     0.008      0.03
+        3   pH (15 d)                                 23/22     average        7.47      7.41
+                                                                                    std. dev.        0.13      0.13
+                                                                              coeff. var.      0.02      0.02
+          pH (10 d)                                 24/49     average        7.45      7.26
+                                                                                    std. dev.        0.24      0.24
+                                                                              coeff. var.      0.03      0.03
+          pH (5 d)                                 3       average        7.00      6.94
+                                                                                    std. dev.        0.20      0.23
+                                                                              coeff. var.      0.03      0.03
+        4    Gas Production (15 d)             L/hr        22/21     average         4.8        4.0
+                                                                                    std. dev.         1.6        0.7
+                                                                              coeff. var.      0.33      0.18
+            Gas Production (10 d)             L/hr        24/49     average         5.4        4.5
+                                                                                    std. dev.         1.5        0.8
+                                                                              coeff. var.      0.28      0.17
+            Gas Production (5 d)              L/hr         3       average         6.3        4.9
+                                                                                    std. dev.         0.2        0.4
+                                                                              coeff. var.      0.03      0.09
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                          A- 2
+Funding Opportunity No. EPA-R9-WST-06-004

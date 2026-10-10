@@ -1,0 +1,51 @@
+Reactors
+
+
+At the heart of a fast pyrolysis process is the reactor. Although it probably represents at
+most only about 10-15% of the total capital cost of an integrated system, most research
+and development projects have focused on the reactor. Increasing attention is now being
+paid to control and improvement of liquid quality and improvement of collection systems.
+The rest of the process consists of biomass reception, storage and handling, biomass
+drying and grinding, product collection, storage and, when relevant, liquid upgrading.The
+key aspects of these peripheral steps are described later. A comprehensive survey of fast
+pyrolysis processes for liquids production that have been built and tested in the last 10-15
+years has already been published.4
+
+
+Bubbling fluid beds
+Bubbling fluid beds - usually referred to as just ‘fluid beds’ as opposed to ‘circulating fluid
+beds’ - have the advantages of a well-understood technology that is simple in construction
+and operation, good temperature control and very efficient heat transfer to biomass
+particles arising from the high solids density. Fluid bed pyrolysers give good and consistent
+performance with high liquid yields of typically 70-75% wt from wood on a dry-feed
+basis. Small biomass particle sizes of less than 2-3 mm are needed to achieve high
+biomass heating rates, and the rate of particle heating is usually the rate-limiting step.
+
+
+Residence times of solids and vapours are
+controlled by the fluidising gas flow rate
+and are higher for char than for vapours.
+As char acts as an effective vapour
+cracking catalyst at fast pyrolysis
+reaction temperatures, rapid and effective
+char separation is important.This is
+usually achieved by ejection and
+entrainment followed by separation in one
+or more cyclones, so careful design of
+sand and biomass/char hydrodynamics is
+important.
+
+
+The earliest pioneering work on fast
+pyrolysis was carried out at the University
+of Waterloo by Scott who published
+                                           Figure 2: Dynamotive 100 t/d fluid bed fast pyrolysis plant
+extensively.7,8,9 The largest plant currently    in West Lorne, Ontario, Canada
+operating is that of Dynamotive in West
+Lorne, Ontario, Canada, which has a 100 tonnes per day (t/d) dry biomass feed
+demonstration plant, with plans for further plants up to 400 t/d 10 (Figure 2). A 2.5 MWe
+gas turbine is also provided on site for generation of power for local use and for export to
+the grid.There are research units at universities and research institutions around the world
+including State University of Iowa, USA, RTI Canada, IWC Germany, Aston University
+UK, VTT Finland, and the National Renewable Energy Laboratory (NREL), USA. A
+typical 1 kg/h laboratory unit is shown in Figure 3.                                       7

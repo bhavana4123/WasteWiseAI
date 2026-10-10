@@ -1,0 +1,45 @@
+•Safety Management Support – Safety must be modeled and monitored throughout the
+management chain.
+
+•Commitment – Demonstrated commitment to safety in the workplace and beyond must begin
+with the CEO and permeate all employees. Breaches of safe procedures must be clear dismissal
+grounds and enforced.
+
+Types of Chemical Plant Accidents
+
+A biodiesel facility is first and foremost a chemical process facility. As such, the plant is subject
+to the same dangers as any other chemical process plant. Table 13 lists categories of accidents
+that are uniquely associated with chemical plants. Note that the likelihood of an event and its
+potential impacts are not closely related.
+
+                    Table 13. Types of Chemical Plant Accidents
+
+                                            Potential
+                        Probability       Fatalities         Potential $ Loss
+
+       Fire            High          Low            Moderate
+
+
+
+       Explosion        Moderate        Moderate        High
+
+
+
+      Toxic Release   Low            High         Low
+
+
+
+
+
+For a biodiesel plant, the greatest risk is associated with methanol. It presents a fire and
+explosion hazard as well as being toxic through oral ingestions of skin contact.
+
+In order to better understand how accidents occur in a chemical plant, it is useful to examine the
+causes for loss with respect to the source of the loss event. These causes are listed in order of
+frequency in Table 14.
+
+
+
+
+
+                                      93

@@ -1,0 +1,63 @@
+TA 6M: Waste Heat Recovery
+
+
+
+   Excess air            The air remaining after a fuel has been completely burned, or that air
+                           supplied in addition to the quantity required for complete stoichiometric
+                          combustion. A lean fuel/air ratio contains excess air.
+
+    Flue gas                   All gases—combustion gases, products of combustion (e.g. water vapor),
+                           excess oxygen, nitrogen, etc.—that leave a furnace, recuperator, or
+                             regenerator, by way of the flue.
+
+   Heat source        A medium or process from which heat may be extracted. For heat transfer
+                            to occur between a source and recipient, the source must always be at a
+                          temperature higher than the recipient.
+
+   Heat waste            Energy in the form of heat rejected or lost from a process, which may be
+                          recovered or reused in another process providing it is of sufficient quality
+                                           (i.e., hot enough and there is a use for it).
+
+   Higher heating value   The total heat obtained from combustion of a specified amount of fuel
+    (hhv)                and its stoichiometrically correct amount of air, both being at 60°F when
+                         combustion starts, and after the combustion products are cooled, hence
+                            includes the latent heat of vaporization of water vapor produced by the
+                         combustion process. See lower heating value.
+
+    Latent heat           Heat absorbed or given off by a substance without changing its temperature,
+                           as when melting, solidifying, evaporating, condensing, or changing
+                                crystalline structure.
+
+   Lower heating value    The gross heating value minus the latent heat of vaporization of the water
+    (lhv)                  vapor formed by the combustion of hydrogen in the fuel.
+
+   Phase change         The process of changing from one physical state (solid, liquid, or gas) to
+                             another, with a necessary or coincidental input or release of energy.
+
+   Rankine cycle        An idealized thermodynamic cycle that converts sensible heat into
+                          mechanical work. The Rankine cycle that is an ideal standard for comparing
+                         performance of heat-engines, steam power plants, steam turbines, and heat
+                    pump systems that use a condensable vapor as the working fluid; efficiency
+                                      is measured as work done divided by sensible heat supplied.
+
+   Recuperator          Equipment that uses hot flue gases to preheat air for combustion. The flue
+                         gases and airflow are in adjacent passageways so that heat is transferred
+                         from the hot gases, through the separating wall, to the cold air.
+
+   Regenerator        A cyclic heat interchanger, which alternately receives heat from gaseous
+                         combustion products and then transfers heat to air before combustion.
+
+   Regenerative heating   The process of using heat that is rejected in one part of a cycle for another
+                            function or in another part of the cycle.
+
+   Reverberatory       A reverberatory furnace is a metallurgical or process furnace that isolates the
+    furnace                 material being processed from contact with the fuel, but not from contact
+                           with combustion gases.
+
+    Sensible heat          Heat exchanged by a body or system that results in a temperature change,
+                             (as opposed to latent heat).
+
+
+
+
+ 38  Quadrennial Technology Review 2015

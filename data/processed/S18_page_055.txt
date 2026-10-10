@@ -1,0 +1,49 @@
+3.5.2 Design Basis
+Beer from the fermentation area (5.4 wt % ethanol) is fed to the beer column after passing
+through an economizing heat exchanger with the bottoms stream (PFD-P120-A501, Appendix
+E). The beer column (D-501) operates in a mode that removes the CO2 and as little ethanol as
+possible to the overhead while removing about 90% of the water to the bottoms. The ethanol is
+removed as a vapor side-draw from the column and fed directly to the rectification column (D-
+502). Both columns are modeled with rigorous vapor-liquid equilibrium calculations in Aspen
+using the RADFRAC model. This is an improvement over the 2002 Aspen model, where the
+rectification column was modeled as a fixed separation block. This results in a more accurate
+determination of reboiler and condenser duties for the columns. We note that our Aspen model
+was not used by the distillation vendor (Megtec) in designing these columns—they arrived at a
+similar design using their own models.
+
+In the Aspen model, the beer column (D-501) contains 32 stages operating at 48% efficiency,
+with the feed entering on the fourth tray from the top. The molar reflux ratio required is 3:1. The
+overhead is vented to the scrubber and contains 85% CO2, 11% ethanol, and close to 4% water.
+All of the CO2 and only 0.3% of the ethanol entering the beer column is vented here. Most of the
+ethanol that is vented (99%) will be recovered in the vent scrubber and recycled. In addition,
+about 0.8% of the ethanol fed to the beer column is lost in the bottoms stream and is considered a
+permanent loss. More than 99% of the ethanol in the feed is removed as a vapor side-draw from
+the column at Tray 8 at 40 wt %. To minimize the ethanol loss in the bottoms, the beer column
+reboiler duty is kept relatively high, so there is a trade-off between ethanol loss and energy
+usage. Megtec designed the beer column with 32 fixed-valve trays. These have been found to
+tolerate solids well and have a reasonably good efficiency. The tray spacing is 24 in. and the
+column diameter is 14 ft. Heat is supplied to a forced-circulation reboiler (H-501) by low-
+pressure (9.5 atm [125 psig]) steam. The forced-circulation reboiler was considered necessary to
+accommodate the solids present in the beer column bottoms. The beer column is operated at 2
+atm (15 psig) overhead pressure to keep the reboiler temperature low in order to minimize
+fouling.
+
+The vapor side-draw from D-501 is fed directly to the rectification column, D-502. This column
+uses 45 stages with an efficiency of 76%. The D-501 vapor is fed on Tray 33 (counting from the
+top). The recycle from the molecular sieve, which is higher in ethanol (72 wt % versus 40 wt %),
+is fed on Tray 14. The required molar reflux ratio is 3.5:1 to obtain a vapor overhead mixture of
+92.5% w/w ethanol and a bottoms composition of 0.05% w/w ethanol. Only 0.1% of the ethanol
+from fermentation is lost in the bottoms. The rectification column bottoms stream is recycled to
+the pretreatment reactor as dilution water; ethanol in this stream is not considered a loss. The
+7.5% water in the rectification column overhead represents only 0.7% of the water originally
+entering distillation. Megtec designed the rectification column with 45 valve trays. Above Tray
+15, the column is 13 ft in diameter; below Tray 15 it is 4.5 ft in diameter. (Structural supports for
+this tower are included in its installation cost.) Heat is supplied to the column in a thermosiphon
+reboiler (H-502) by low-pressure steam. For the present design, an air-cooled condenser was
+specified to condense the reflux. This was done to reduce evaporative losses from the cooling
+tower and will be discussed more in Section 5.2.
+
+The ethanol-containing vent from the beer column overhead, along with the vents from the seed
+and production fermentors in Area 300, is sent to a water scrubber (T-512). The scrubber column
+
+                                      45

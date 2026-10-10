@@ -1,0 +1,52 @@
+Susanto and Beenackers have developed a gasifier that               1 .5 ,.--------,
+recycles tars internally in a similar manner, as shown
+in    Fig. 5-16.             In                 this case,                         the                          combustor                                                  is                                        contained                                                                                                                                                            Icentrally         in the              lower                       (char)                            section                                 ofthe                                              gasifier                                              and,               1 .3therefore, has very little heat loss (Susanto 1983).                      .:-I
+Without recycle, this gasifier produced 1400 mg/Nm3                                                   I
+(approximately 1400 ppm). With a gas/air recycle ratio                                                   II
+of 0.85, the tars were reduced to the very low level of                                                                                                    1 .0            :-I48 ppm of tar as shown in Fig. 5-17.               Ez                                                                                                                                                            I
+                                      ,                                                                                                                                                            I   -0- Water in product gasThe high degree of tar destruction in these two units is        0>
+                                          ȷTar contentdue to the high tar combustion temperature promoted
+by the positive circulation of tars upward away from
+the reduction zone and also to the more complete                                                  200
+combustion that takes place in the absence of solids.
+
+                                                                      0.2                                        100                                                                                                                q:I
+                                           0
+                                              Վ                      l B                         "                                                             0                                                                                  0.5           1 .0  --͈͉  1.5  --͊ 2.0o                                                                                            s͋             0 --͇̓̈́͆ͅ                                              m                           R    J Ξ      A                                                                                   Fig. 5-17. Water and tar content in producer gas (dry basis) versus        !
+                                                                       recycle ratio  (Source: Susanto 1983, Fig. 2.7. © 1983. Used with
+          D                 Legend:                       permission of the 8eijer Institute)
+                                   = wood input
+                          B = air inlet
+                       C " product gas outlet                        A                        D = recycle gas
+                                    = injector               5.9.3 Thermal Tar Cracking          . ..  ..             E             • •             F = combustor       §¨.                                                    Temperatures above 800·C rapidly crack the primary                      G = combustor outlet
+                                              stirrer                 pyrolysis  oils to olefins and aromatic compounds.          H            H =
+                                                                                                       I " ash grate             These compounds continue to react in the absence of
+                                  J " ash bunker           oxygen to make polynuclear aromatic compounds
+                                                 (PNAs) and eventually soot. While high temperatures
+                                                       (above 800·C) can destroy tars rapidly, these same high
+                                                      temperatures also promote reaction with char, which
+                                                       in turn rapidly quenches the gas to 800·C. Therefore,
+                                                       the time available for tar cracking in a bed of hot char­
+                                                          coal is very short. For this reason, a bed of hot char may
+                                                      not be very effective in tar cracking as was originally
+                                                    believed (Reed 1982; Chittick 1983). The French
+                                                          Croisot Loire process allows a tarry gas from a fluidized
+                                               bed to be burned further in a separate chamber at
+                                                   1300·C (Bioenergy 1985), resulting in a final gas that
+                                                     has a very low tar content (Chrysostome 1985).
+
+                                 A laboratory transparent gasifier, a modification of the
+                                                 SERI stratified downdraft gasifier, shown in Fig. 5-18,
+                                                   has added a tar-cracking chamber in which small
+                                                amounts of oxygen or air can be added to crack the final
+                                                            trace quantities of gas from the gasifier, in the absence
+                                                       of the quenching action of the charcoal. We have
+                                                measured tar concentrations of 50-500 ppm at the exit
+                                                 from the cracking chamber. However, the difficulty of
+                                                     maintaining a large chamber at temperatures in excess
+                                                       of 900·C caused considerable loss in gas quality at this
+Fig. 5-16. Gasifier with internal tar recycle  (Source: Susanto 1983,      scale. Perhaps thermal cracking alone is practical in
+Fig. 3.2. © 1983. Used with permission of the Beijer Institute)        much larger gasifiers (Reed 1985c).
+
+
+                                                                                               Gasifier Designs   45

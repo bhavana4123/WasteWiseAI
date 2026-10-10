@@ -1,0 +1,49 @@
+also very common. The same holds for the esters of other vegetable oils. Another common
+abbreviation that is commonly used is FAME (fatty acid methyl ester).
+
+Besides triglycerides, mono- and diglycerides can also exist. They are formed as intermediates
+during the transesterification reaction. This is one of the problems when conducting chemical
+reactions in general, not only the transesterification reaction. It is almost always the goal of
+chemical reactions to obtain products that are as pure as possible. However, hardly any chemical
+reaction proceeds to full completion (see the discussion of equilibrium above). Therefore, often
+intermediates (in the case of transesterification the intermediates are partially reacted
+triglycerides, i.e., the mono- and diglycerides) can contaminate the final product. Other materials
+that can contaminate biodiesel are residual methanol (or other alcohol), glycerol, and catalyst.
+
+When the transesterification reaction is conducted, you can visually observe that not all materials
+can be readily mixed with each other. A term often used for this phenomenon is that there are
+two phases. At the start of the reaction, you can notice that methanol and vegetable oil do not
+readily mix. At the end of the reaction, you can notice that there are two layers (phases), one
+consisting mainly of glycerol, the other of the methyl esters. Obviously, glycerol and methyl
+esters do not mix readily. How readily one compound will dissolve in another depends on the
+structural features of the compounds, for example the existence of OH groups. Thus, compounds
+containing OH groups and those not containing OH groups often will not readily mix.
+(Question: Why is water effective in “washing” biodiesel after the transesterification reaction?)
+
+The catalyst used for carrying out the transesterification is usually sodium hydroxide (NaOH) or
+potassium hydroxide (KOH). These compounds belong to a class of materials known as bases
+and also are inorganic compounds (inorganic compounds are often used in organic chemistry for
+carrying out or catalyzing reactions). Other bases are also suitable for the transesterification
+reaction. The counterparts of bases are known as acids. Many acids can also be used as catalysts
+in the transesterification reaction. However, the base-catalyzed reaction has advantages such as a
+higher reaction rate. More details are covered in the production part of this book.
+
+In the soap formation reaction described in Figure 7, a fatty acid and base reacted to form a new
+compound, which was called soap, and water. Compounds such as soap, in which the hydrogen
+(proton) of an acid has been replaced with a metal ion, are often called salts. The reason that
+such compounds exist is that materials such as NaOH (or KOH) can split apart (dissociate) in a
+fashion that gives Na+ and OH- (or K+ and OH-) in which the protons and electrons are not
+evenly distributed, leading to charged particles. Thus, having the same charge, Na+ or K+ can
+replace H+ here.
+
+Another important aspect of the chemistry of fatty acids and their esters is that the more
+unsaturated fatty acids and their esters (linoleic, linolenic) can relatively easily react with air
+(more specifically, the oxygen in air) and form degradation products with time (the time depends
+also on other factors such as temperature). This is due to the existence of CH2 between two
+carbons double-bonded to other carbons (see the structural formulas in Table 4).
+
+
+
+
+
+                                      15

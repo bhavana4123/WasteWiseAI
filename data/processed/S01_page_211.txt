@@ -1,0 +1,55 @@
+Woody and Tree Materials
+
+
+ASH, GREEN, Fraxinus pennsyZvanica; solid; Mean age = 12 years, mean basal stem
+   diameter = 7.0 cm, mean stem bark (proportion of dry weight) = 12.396, ash content
+    (proportion of oven dry weight) of components of sample: wood = 0.71%, branches =
+    1.996, twigs = 2.2%, bark = 6.7% and leaves = 4.9%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                         twigs:
+   qv(gross) = 8582 Btu lb- 1                                                    q,(gross) = 8672 Btu Ib;'
+    q,(gross) = 4768 cal g-l                       q,(gross) = 4818 cai g-
+   qv(gross)  19949 J g-l                        q,(gross) = 20159 J g-l
+
+    bark:                                          leaves:
+   qv(gross) = 8312 Btu lb- 1                                        1                                                qv(gross) = 9214 Btu 1bI   qv(gross) = 4618 cal g- 1                                                      q,(gross)  = 51 19 cal g-
+    q,(gross)  = 19322 J g-l                        q,(gross)  = 21418 J g-l
+
+   branches:
+    q,(gross)   8743 Btu lb- 1
+   qv(gross)  4857 cal g-l
+   qv(gross)  20322 J g- I
+
+                                                             79NEE/STE
+
+ASH, GREEN; Fraxinus pennsytvanica; solid; Material was collected from the southern
+   Atlantic and Gulf coastal plains in bottom-, swamp- and wet flat-land natural stand
+    sites. Samples were dried at 7OoC (158'F)  to a constant weight; reported values were
+   averaged over all positions of similar plant tissue for each tree and six trees per
+   species were used.
+
+                                                                                                                                                                            3
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   dry weight basis.
+
+   bole wood                               branch wood
+   qv(gross) = 8356 Btu lb; 1                                                qv(gross) = 8449 6 t u lbl'
+    q,(gross)  = 4642 cal g-                         q,(gross)  = 4694 cal g;
+    q,(gross) = 19422 J g-l                     qv(gross)  19640 J g-
+
+   bole bark                                branch bark
+                                 1   qv(gross) = 8235 Btu lbi                       q,(gross) = 8426 Btu lb-I
+    q,(gross) = 4575 cal g i                        q,(gross)   4681 cal
+    q,(gross) = 19142 J g-                         q,(gross) = 19585 J g-l
+
+    foliage
+    q,(gross)  = 8422 Btu lbi 1
+   qv(gross)  4679 cal g-
+    q,(gross)   19577 J g-l
+
+                                                       82COW/FRE
+
+                                        234

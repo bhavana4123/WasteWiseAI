@@ -1,0 +1,49 @@
+            Micro-particulate emissions - pm10.
+            Fine particles can be detrimental to health and are very difficult to reduce with the
+            conventional precipitators. Waste incineration produces fine particles, which contain toxic
+            elements, such as heavy metals. Decreasing total particle emissions does not necessarily
+            decrease fine particle emissions.There are no plans at the moment to set emission limits
+             for different particle size classes (PM0.1, PM1, PM2.5, PM10) formed in incineration,
+           but it is possible in the future because small particles penetrate deep in the airways.There
+                is not much reported information about formation of fine particles or emissions from
+             incinerators or combustion of sorted household waste. In addition, no previous studies are
+           found on the effect of waste quality, sorted vs. unsorted waste, on formation of fine
+             particles and especially on the amount and occurrence of heavy metals.
+
+
+          The Topic was undertaken by VTT in Finland and was completed in June 2006.The
+             project had the following objectives:
+         ●to study the formation of fine particle emissions in waste combustion;
+         ●to study the effect of waste quality on fine particle formation;
+         ●to assess the ability of reducing fine particle emissions with different types of flue gas
+              cleaning equipment;
+         ●to optimise the size and order of flue gas cleaning equipment according to the quality of
+              waste; and
+         ●to assess the possibility to reduce harmful fine particle emissions by producing SRF of
+              higher quality.
+
+
+          The work comprised both laboratory analyses and measurements at waste combustion
+             plants. Fine particle measurements complemented by Waste Incineration Directive related
+            emission measurements were conducted at three plants.Two of these were waste
+             incineration plants in Sweden – a grate-fired district heating plant and a large CFB plant.
+          The third was a co-combustion plant producing steam and electricity. All of the plants
+           were equipped with a bag house filter combined with usage of lime and activated carbon.
+           These filters proved to be highly efficient. Collection efficiency of fine particles was over
+          99.9%. All trace metal and other measured emissions (particle emissions, dioxins) were
+           below the limits set by the EU Waste Incineration Directive.
+
+
+          The laboratory work and final reporting was completed in spring 2006 and the results will
+           be summarised in the Task 36 final report.
+
+
+          Thermal treatment of sewage sludge
+            This Topic was led by SINTEF. In Norway, the market for small-scale combustion plants is
+                 still attractive, but competitors are struggling to come up with a competitive edge. Norske
+           Inova which is currently in the cruise ship market has developed a system to process
+            organic sludge, which would be possible to integrate with WtE plants.The programme of
+          work for this Topic comprises an international overview of sludge handling in, or in
+            conjunction with, EfW plants (combustion plants) focussing on:
+60
+           ●drying/dewatering;

@@ -1,0 +1,54 @@
+Plant Materials (Non-Woody)                                                                                                                                                       !    i   .
+
+
+DOG VIOLET; Viola reichenbachiana;solid; Material is an integral part of the ecosystem
+    at the herbaceous layer level of the mixed fir and beech forest in the Pulmonario
+    (tubro) Abieti-Fagetum area of the Bucegi mountains (two diffe,rent stations) in
+   Romania. The plants have the following constitution: 33% of the weight is
+   represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated t o a dry basis.
+    q,(gross)  = 7171 Btu Ib- 1
+    qv(gross)  3984 cal g-'
+    qv(gross) = 16669 J g-l
+
+                                                          73PAU/BRE
+
+ENCHANTER'S NIGHTSHADE; Circaea Zutetiana; solid; Material is an integral part of
+   the ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania, The plants have the following constitution: 33% of the weight
+    is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated to a dry basis.
+
+    q,(gross)  = 7690 Btu lb;'
+    q,(gross)   4272 cal g-
+    q,(gross)   17874 J g-l
+
+                                                          73PAU/BRE
+
+FOURWING SALTBUSH;AtripZex canescens; solid; Samples of current year's annual
+   growth and woody tissue of large rangeland shrubs were collected from 7 sites in
+   several intermountain states. Surface soil pH = 7.0 - 8.2; soil class is sand-silt loam.
+   Mean content of current year's growth:  ash, 9.9%; sulfur, 0.35%; moisture, 57.3%.
+   Mean content of woody tissue:  ash, 3.5%; sulfur, 0.08%; moisture, 29.5%.
+
+   gross heat of combustion: oven-dry weight; assume values refer to room
+   temperature; value is mean of an average of values from 3 to 5 plants from each site.
+
+   current year's growth                  woody tissue
+                         1    qv(gross) = 7765 Btu lbi                     qv(gross) = 8109 Btu  Ib;'
+    q,(gross)  = 4315 cal g-                      qv(gross) = 4505 cal g-                                                        q,(gross)  = 18849 J g- I    q,(gross)  = 18050 J g-l
+
+                                                         82VAN/BAR
+
+
+
+
+
+                                       148

@@ -1,0 +1,50 @@
+                                            ʹ     A typical sieve-plate scrubber can attain 90% efficien­                                            e                                               ʺ                                                  cy for 1-llm particles using 3/16-in. sieve holes, at a
+                                                                                        <;         0   0
+                                            N0         specific velocity of 15 mls (50 ft/s). Typical perfor­       0   0   0               "
+                                                                                        ro       mance characteristics of sieve-plate scrubbers are      0   0   0  0                       discussed in Kaupp (1984a),    0   0   0   0                                                             8,7,2,4 Impingement Plate Scrubbers      0   0   0   0                                            The impingement-plate scrubber shown in Fig. 8-16 is        0   0   0                            similar to a sieve-plate scrubber, except impingement
+                                                                                 an impinge­      0   0   b  0                         plates are arranged so that each hole has
+                                             ment target one hole diameter away from the hole. Gas        0   0   0                                                    flow past the edge of the  orifice produces spray
+                                                           droplets that, when formed, are at rest, resulting in a
+                                                             large relative velocity between dust particles and these
+                                                            droplets. The gas velocity usually is above 15 mls
+                                                             (50 ft/s], and the typical operating pressure drop is
+                                                              1.5 in. water gauge (4 mbar) per plate. An increased
+                                                       pressure drop raises the collection efficiency. The re­
+                                                      quired water flow rate is 1 to 2 gpm per 1000 cfrn of gas
+                                                             flow.
+
+                                                             8.7.2.5 Venturi Scrubbers
+       Shell                                    The Venturi scrubber (Fig. 8-17) captures largeparticles
+                                             by impaction and impingement, and also rinses away    Sieve tray -t--                -+- Liquid in                                                any deposits that might otherwise form. Some fine par­
+                                                                  ticles are also captured here by diffusion. High-velocity
+                                                   flow through the low-pressure throat area atomizes the
+                                                              droplets. The low pressure at the throat causes conden­
+                                                              sation, and the high relative velocity of the droplets
+                                                  with respect to the gas captures most larger particles by
+                                                       impaction.
+                                             The atomized droplets present a considerable surface
+                   _.. Sidestream       area for fine particles to be captured by diffusion. Fur­
+       Froth _--U.UJ.                                          withdrawal       thermore, condensation in the throat improves capture              rJ7=-:;:=;;;:-i\·:k
+                                                    through diffusion because ofthe phenomenon ofStefan                                  0JI>.rl-- Weir                                                     motion. The atomized droplets rapidly agglomerate in
+ Intermediate                                            the diffuser section, where collection through diffusion
+     feed                                                continues, Entrained droplets containing captured
+                                                    contaminants are separated inertially from the cleaned
+                                                                 gas. Liquid recycle requires cooling and removal of
+                                                     captured materials, or disposal and replenishment.
+                                             The collection efficiency and droplet size are deter­
+                                             mined by the pressure drop: efficiencies may be in­
+                                                   creasedby reducing the throat area to raise the pressure
+                                                     drop. The efficiencies of Venturi scrubbers are
+                                                      discussed in Calvert (1972).
+                                 Gas in                       /P'ot\..o.--t-                     8.7,2.6 Ejector Venturi Scrubbers
+                                             The velocity of the contacting liquid both pumps and
+                                                       scrubs the entrained gas in an ejector Venturi scrubber,
+                                                       as shown in Fig. 8-18. Spiral spray nozzles impart axial
+                                                and tangential velocities to the liquid jet. The contact­
+                                                       ing liquid must be removed after the scrubber by a
+                                           --+- Liquid            suitable entrainment separator. Compared to a Venturi
+                                         out              scrubber, the ejector Venturi scrubber requires both             -2::=
+                                             more liquid and more power to achieve the same par­Fig. 8·15. Sieve plate scrubber  (Source: Kaupp 1984a: Figs. 141,
+146)                                                                ticle collection and gas movement. Ejector Venturi
+
+                                                             Gas Cleaning and Conditioning    87

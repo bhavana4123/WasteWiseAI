@@ -1,0 +1,50 @@
+Alloys and Metals
+
+
+80 NICKEL-20 CHROMIUM; solid; composition: nickel, 77.4%; chromium, 19.52%;  iron,
+   0.45%; manganese, 0.59%; silicon, 1.4%; carbon, 0.04%.
+
+   specific heat:
+
+   273-423 K (32"-302"F)
+  C (Btu lb'l   OF-')    = 0.10191 + 4.222 x    T    P                                                   x     T  c (cal  -I K-')      = 0.0825 + 7.6
+               -1     p            -5                    )       = 0.3452 + 3.18 x    T       g   Cp(J         K
+
+   423-873 K (302°-1112"F)
+   Cp(Btu Ib-   OF-')    = 0.10705 + 2.578 x lod5 T
+                                                 x    T   Cp(cal 9-1 K-l)     = 0.0952 + 4.64
+   Cp(J g-  K-l)       = 0.3983 + 1.941 x    T
+
+   873-1173 K ( I 112"-1652"F)
+  C (Btu Ib-I  OF-')    = 0.11390 + 2.567 x    T    P  c (cal  -I      .)     = 0.1021 + 4.62      T
+              -1K+     p           -?       g   Cp(J                    )       = 0,4271 + 1.933 x    T         K
+
+                                                        55DOU/DEV
+
+ALUMINUM; so id; atomic number, 13; atdmic wt., 26.98154; density, 2.712 g ~  r n  - ~    (169.3 lb ft-j.1.
+
+                                                                        0   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, -AHcat                          P
+   25°C (77OF); product of combustion is a-corundum, A1203.
+   qp(gross) = 13359 Btu lp- 1
+   q (gross) = 7422 cal g-
+   qp(gtoss)P       = 31053 J g-l
+
+                                                        82WAG/EVA
+
+    specific heat:
+
+                                                                             -1  -1
+                                                          Cp(J g  K   )
+
+    298    77                0.216                   0.216                0.904
+    500   441               0.238                  0.238               0.996
+    700   801               0.260                  0.260                 1.087
+
+   heat of fusion: at the melting point, 659°C (1228OF).
+                 1   Lf = 171.5 Btu lb-
+   Lf = 95.25 cal
+    Lf = 398.5 J
+
+                                                                          (more)
+
+                                        34

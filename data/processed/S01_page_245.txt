@@ -1,0 +1,41 @@
+Woody and Tree Materials                                                                                                                                                                                                                                                                       I
+
+
+MAPLE, RED - Continued
+
+    foliage
+    q,(gross)  = 9 119 Btu lb; 1
+    q,(gross)  = 5066 cal g-
+    q,(gross)  = 21196 J g-l
+
+                                                      SlMUS/HOC
+
+MAPLE, RED; Acer rubrum; solid; Material was collected from the southern Atlantic and
+   Gulf coastal plains in bottom-, swamp- and wet flat-land natural stand sites. Samples
+   were dried at 70°C (158OF) to a constant weight; reported values were averaged over
+    all positions of similar plant tissue for each tree and six trees per species were used.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   dry weight basis.
+
+   bole wood                               branch wood
+                                                                         1   qv(gross) = 8437 Btu  Ib;'                        q,(gross) = 8345 Btu Ibi
+    q,(gross)  = 4687 cal g-                     qv(gross) = 4636 cal g-                    1    q,(gross) = 19610 J g-                         q,(gross) = 19397 J g-l
+
+   bole bark                                branch bark
+   qv(gross) = 7650 Btu lb- 1                     q,(gross)   8001 Btu lb- I
+   qv(gtoss) = 4250 cal g-l                       q,(gross) = 4445 cal g-l
+    q,(gross) = 17782 J g-l                        q,(gross) = 18598 J g-l
+
+   foliage
+    q,(gross) = 8764 Btu lb- 1
+    q,(gross) = 4869 cal g-l
+    q,(gross)  = 20372 J g-'
+
+                                                      SZGOW/FRE
+
+
+
+
+
+                                     268

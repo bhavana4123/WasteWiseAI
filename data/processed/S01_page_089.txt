@@ -1,0 +1,46 @@
+                                                                       Foods
+
+
+PEANUTS; Arachis hypogaea; solid; 4.88%  moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross) = 5472 Btu  lb;'
+    qv(gross)  3040 cal g-
+    qv(gross) = 12720 J g-l
+
+                                                      55MERIWAT
+
+PEARS, BARTLETT; solid; chemical analysis:  79.4%  water, 0.51% fat, and 12.1% water
+    soluble solids. Sample was unpeeled, cored, and cubed.
+
+   spific heat: 4O to -40°C (40" to -40°F); no freezing point was recorded.
+
+    tern eratute
+   C0CP  (OF)
+
+    4.44   40                  0.98                     0.98                 4.10
+  - 6.67   20                  3.24                    3.24                13.56
+  -12.2    10                  1.20                       1.20                 5.02
+  -17.0    0                 0.83                    0.83                 3.47
+  -23.3    -10                   0.63                     0.63                 2.64
+  -28.9   -20                  0.51                      0.51                  2.13
+  -34.4   -30                  0.46                     0.46                 1.93
+  -40     -40                  0.44                    0.44                   1.84
+
+                                                                 49STA
+
+PECANS; Carya illinoensis; solid; 4.30%  moisture.
+
+    gross heat of combustion: assume values refer to room temperature.
+    q,(gross)  = 6392 Btu Ib- 1
+    q,(gross) = 3551 cal g-'
+    qv(gross) = 14857 J g-'
+
+                                                      55MER/WAT
+
+
+
+
+
+                                         95

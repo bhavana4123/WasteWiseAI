@@ -1,0 +1,55 @@
+The condensing turbine processes result in maximum power and electrical generation efficiency from
+the steam supply and boiler fuel. The power output of condensing turbines is sensitive to ambient
+conditions.60
+
+                      Figure 4-3. Condensing Steam Turbine
+
+                                            High pressure steam
+
+
+
+
+                                                                   Power Out
+
+                                                Turbine
+
+
+
+
+
+                                            Vacuum pressure steam
+                                                                      to condenser
+
+Steam turbines used for CHP can be classified into two main types: non-condensing and extraction,
+which will be discussed in the following two sections.
+
+4.3.2.4   Non-Condensing (Back-pressure) Turbine
+A non-condensing turbine (also referred to as a back-pressure turbine) exhausts some or all of its steam
+flow to the industrial process or facility steam mains at conditions close to the process heat
+requirements, as shown in Figure 4-4.
+
+             4-4. Diagram showing Non-Condensing (Back-pressure) SteaF
+
+                          m Turbine
+                                                                             g
+
+
+
+                                                                                                                                e
+
+                                                                             r
+
+
+
+
+
+                                                                                                              u
+                                                                                                                                                 i
+
+60 From a reference condition of condensation at 100° F, 6.5 percent less power is obtained from the inlet steam when the
+temperature at which the steam is condensed is increased (because of higher temperature ambient conditions) to 115° F.
+Similarly, the power output is increased by 9.5% when the condensing temperature is reduced to 80° F. This illustrates the
+influence of steam turbine discharge pressure on power output and, consequently, net heat rate and efficiency.
+
+
+Catalog of CHP Technologies                          4–7                            Steam Turbines

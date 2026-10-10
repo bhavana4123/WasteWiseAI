@@ -1,0 +1,52 @@
+                                                                            Fossil Materials
+
+
+OIL, GAS; liquid; ultimate analysis: carbon, 86.5%; hydrogen, 13.4%; sulfur, 261 ppm;
+    nitrogen, 3 ppm; total paraffins, 38.8%; total naphtheQes, 41.5%; total aromatics,
+    17.2%; sulfur compounds, 2.4%;  density, 0.8415 g cm-'  at 24OC (75°F); API graviiy,
+    35.3.
+
+    gross heat of combustion: assume values refer to room temperature.
+     q,(gtoss)   = 19759 Btu lb- 1
+    q,(gross) = 10977 cal
+    q,(gross) = 45927 J
+
+                                                              73LENJHIP
+
+OIL, PARAFFIN, liquid; repeating unit: CH                                                .89 1.
+   gross heat of combustion: 25°C (77'F)
+
+    q,(gross)  = 19771 Btu lb-I
+    qv(gross) = 10984 cal
+    q,(gross) = 45957 J
+
+                                                       60GOO/LAC
+
+OIL, PARAFFIN; liquid; low vapor-pressure residues of paraffin oil distillation products.
+
+   Apiezon C: average molecular weight 450 2 70; temperature range 4O"-16OoC (104'-
+   320°F).
+
+   heat of vaporization:
+   Lv = 108.45 Btu lb- 1
+    L,  = 60.25 cal
+    L, = 252.1 J
+
+   vapor pressure:
+   loglo P(Torr)   = 11.67 - 5925 T-:(K)
+   loglo P(Pa)    = 13.79 - 5925 T- (K)
+   Apiezon E: average molecular weight 290 2 30; temperature range 40" 160°C (104O-
+   32OOF).
+                  1    L, = 144.85 Btu lb-
+    L,  = 80.47 cal
+    L, = 336.7 J
+
+   vapor pressure:
+
+   loglo P(Torr)   = 9.30 - 5100 T-'\K)
+   loglo P(Pa)    = 11.42 - 5100 T- (K)
+
+                                                               57HER/REI
+
+
+                                     121

@@ -1,0 +1,46 @@
+6.5.1.2   Carbon Monoxide (CO)
+CO and VOCs both result from incomplete combustion. CO emissions result when there is inadequate
+oxygen or insufficient residence time at high temperature. Cooling at the combustion chamber walls and
+reaction quenching in the exhaust process also contribute to incomplete combustion and increased CO
+emissions. Excessively lean conditions can lead to incomplete and unstable combustion and high CO
+levels.
+
+6.5.1.3  Unburned Hydrocarbons
+Volatile hydrocarbons, also called volatile organic compounds (VOCs), can encompass a wide range of
+compounds, some of which are hazardous air pollutants. These compounds are discharged into the
+atmosphere when some portion of the fuel remains unburned or just partially burned. Some organics
+are carried over as unreacted trace constituents of the fuel, while others may be pyrolysis products of
+the heavier hydrocarbons in the gas. Volatile hydrocarbon emissions from reciprocating engines are
+normally reported as non-methane hydrocarbons (NMHCs). Methane is not a significant precursor to
+ozone creation and smog formation and is not currently regulated. Methane is a greenhouse gas and
+may come under future regulations.
+
+6.5.1.4   Carbon Dioxide (CO2)
+Carbon dioxide (CO2) emissions are of concern due to its contribution to global warming. Atmospheric
+warming occurs since solar radiation readily penetrates to the surface of the planet but infrared
+(thermal) radiation from the surface is absorbed by the CO2 (and other polyatomic gases such as
+methane, unburned hydrocarbons, refrigerants and volatile chemicals) in the atmosphere, with
+resultant increase in temperature of the atmosphere. The amount of CO2 emitted is a function of both
+fuel carbon content and system efficiency. The fuel carbon content of natural gas is 34 lbs
+carbon/MMBtu; oil is 48 lbs carbon/MMBtu; and (ash-free) coal is 66 lbs carbon/MMBtu.
+
+6.5.2 Fuel Cell Emission Characteristics
+Table 6-5 illustrates the emission characteristics of fuel cell systems. Fuel cell systems do not require any
+emissions control devices to meet current and projected regulations. As previously noted, fuel cells
+generally have very low emissions.
+
+ Table 6-5. Estimated Fuel Cell Emission Characteristics without Additional Controls
+       Emissions Characteristics         System 1     System 2    System 3    System 4     System 5
+Fuel Cell Type                      PEMFC       SOFC      MCFC       PAFC      MCFC
+Nominal Electricity Capacity (kW)             0.7           1.5         300         400         1,400
+NOx (lb/MWh)                             Negligible     Negligible       0.01         0.01          0.01
+SOx (lb/MWh)                             Negligible     Negligible     0.0001      Negligible      0.0001
+CO (lb/MWh)                              Negligible     Negligible     Negligible       0.02        Negligible
+VOC (lb/MWh)                            Negligible     Negligible     Negligible       0.02        Negligible
+CO2 (lb/MWh)                            1,131        734         980         1,049        980
+CO2 with heat recovery (lb/MWh)          415         555       520-680       495         520
+Source: ICF Manufacturer Data Collection
+
+
+
+Catalog of CHP Technologies                         6–19                                       Fuel Cells

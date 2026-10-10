@@ -1,0 +1,49 @@
+                    10. Post Reaction Processing
+
+Introduction
+
+The objective of this section is to describe in more detail the steps in processing the ester phase
+resulting from the transesterification. This section will discuss the recovery of the esters from the
+reaction mixture, and, then, the refining needed to meet the requirements of ASTM D 6751-2.
+The topics include: ester/glycerol separation, ester washing, ester drying, other ester treatments,
+and additization.
+
+Ester/Glycerol Separation
+
+The ester/glycerol separation is typically the first step of product recovery in most biodiesel
+processes. The separation process is based on the facts that fatty acid alcohol esters and glycerol
+are sparingly mutually soluble, and that there is a significant difference in density between the
+ester and glycerol phases. The presence of methanol in one or both phases affects the solubility
+of ester in glycerol and glycerol in ester.
+
+The ester washing step is used to neutralize any residual catalyst, to remove any soaps formed
+during the esterification reaction, and to remove residual free glycerol and methanol.
+
+Ester drying is required to meet the stringent limits on the amount of water present in the final
+biodiesel product. In addition, there may be other treatments used to reduce color bodies in the
+fuel, remove sulfur and/or phosphorus from the fuel, or to remove glycerides.
+
+Additization is the addition of materials the have a specific functionality that modifies one or
+more fuel properties. Examples include cloud point/pour point additives, antioxidants, or other
+stability enhancing agents.
+
+Fatty acid alcohol esters have a density of about 0.88 gm/cc, while the glycerol phase has a
+density on the order of 1.05 gm/cc, or more. The glycerol density depends on the amount of
+methanol, water, and catalyst in the glycerol. This density difference is sufficient for the use of
+simple gravity separation techniques for the two phases.
+
+However, the rate of separation is affected by several factors. Most biodiesel processes use
+relatively intense mixing, at least at the beginning of the reaction, to incorporate the sparingly
+soluble alcohol into the oil phase. If this mixing continues for the entire reaction, the glycerol can
+be dispersed in very fine droplets throughout the mixture. This dispersion requires from one hour
+to several hours to allow the droplets to coalesce into a distinct glycerol phase. For this reason,
+mixing is generally slowed as the reaction begins to progress, to reduce the time required for
+phase separation.
+
+The more nearly neutral the pH, the quicker the glycerol phase will coalesce. This is one reason
+to minimize the total catalyst use. In some batch systems the reaction mixture is neutralized at
+the beginning of the glycerol/ester phase separation step.
+
+
+
+                                      66

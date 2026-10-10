@@ -1,0 +1,36 @@
+quantities of water, making it difficult to operate in arid climates. A few large gas turbines have
+evaporative cooling, which is expected to be used more frequently on smaller machines in the future.
+
+The use of thermal-energy storage systems, such as ice, chilled water, or low-temperature fluids, to cool
+inlet air can eliminate most parasitic losses from the augmented power capacity. Thermal energy
+storage is a viable option if on-peak power pricing only occurs a few hours a day. In that case, the
+shorter time of energy storage discharge and longer time for daily charging allow for a smaller and less
+expensive thermal-energy storage system.
+
+3.4.4.2   Site Altitude
+The density of air decreases at altitudes above sea level reducing the mass of air that the compressor
+section of the turbine can introduce into the combustor. The reduced mass of air flow produces a
+corresponding reduction in the power (capacity) that the turbine can generate as shown in Figure 3-6.
+The percentage power reduction is the same for all turbines and is not dependent on the turbine size or
+the pressure ratio of the compressor. Unlike the effects of increased ambient temperature, which also
+produces a reduction in the efficiency of electricity production, altitude changes have only a very slight
+impact on efficiency.
+
+             Figure 3-6. The Effect of Altitude on Gas Turbine Capacity
+
+
+
+
+
+3.4.5  Capital Costs
+A gas turbine CHP plant is a complex process with many interrelated subsystems. The basic package
+consists of the gas turbine, gearbox, electric generator, inlet and exhaust ducting, inlet air filtration,
+lubrication and cooling systems, standard starting system, and exhaust silencing. The basic package cost
+does not include extra systems such as the fuel-gas compressor, heat-recovery system, water-treatment
+system, or emissions-control systems such as selective catalytic reduction (SCR) or continuous emission
+monitoring systems (CEMS). Not all of these systems are required at every site. The cost of the basic
+
+
+
+
+Catalog of CHP Technologies                         3–12                         Combustion Tubines

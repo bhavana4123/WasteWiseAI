@@ -1,0 +1,76 @@
+Appendix C. Process Parameters/Operating Summary
+
+
+
+ Feedstock                                 Conditioning                              Boiler/Turbogenerator
+ Moisture Content                  20% Ammonia Loading (% stoich. XS         0.0% WWT sludge moisture %                   79.0%
+ Pretreatment                           Ammonia Loading (g/L hydrolyzate)         4.7 First effect lignin moisture %                35.0%
+ Acid Conc (wt%)                        0.82 Sugar Losses:                            Combined boiler feed moisture               44.3%
+ Acid Loading (mg/g dry biomass)          22.1  Xylose                           1.0% Boiler feed combustion energy MMkcal/hr         -181
+ Total Solids (wt%)                  30.0%  Arabinose                        1.0% % from lignin cake                      54%
+ Insoluble Solids in (wt%)             22.6%  Glucose                          0.0% % from biogas                         36%
+ Insoluble Solids out (wt%)            16.6%  Galactose                        1.0% Boiler feed heating value (kcal/kg)              -497
+ Temperature (°C)                      158  Mannose                         1.0% Boiler feed heating value (Btu/lb)               -895
+ Pressure (atm)                            5.7  Cellobiose                        1.0%
+ Conversions                      Overall  Fermentation                                      Boiler efficiency (feed/steam)              80%
+   Cellulose to Glucolig                0.3% Total Solids (wt%)                  19.8%
+   Cellulose to Cellobiose               0.0% Insoluble Solids (wt%)                5.1% Steam loop flow (kg/hr)                     234,784
+   Cellulose to Glucose                9.9% Temperature (°C)                       32 Total Generator Output (kW)                 -41,324
+   Cellulose to HMF                   0.3% Pressure (atm)                            1.0  to A100 Feedstock Handling                   859
+  Xylan to Oligomer                  2.4% Residence Time (days)                     1.5  to A200 Pretreatment                        5,680
+  Xylan to Xylose                   90.0% Conversions:                                  to A300 Hydrolysis & Fermentation            2,636
+  Xylan to Furfural                   5.0%  Glucose to Ethanol                 95.0%  to A400 Enzyme Production                   5,340
+  Xylan to Tar                      0.0%  Glucose to Zymo (cell mass)          2.0%  to A500 Recovery                           2,124
+  Mannan to Oligomer                2.4%  Glucose to Glycerol                 0.4%  to A600 Wastewater                         7,368
+  Mannan to Mannose                90.0%  Glucose to Succinic Acid             0.6%  to A700 Storage                             11
+  Mannan to HMF                    5.0%  Glucose to Acetic Acid              0.0%  to A800 Boiler/Turbogen                      1,368
+  Galactan to Oligomer                2.4%  Glucose to Lactic Acid               0.0%  to A900 Utilities                             3,141
+  Galactan to Galactose              90.0%  Xylose to Ethanol                  85.0% Excess electricity to grid                     12,797
+  Galactan to HMF                   5.0%  Xylose to Zymo                    1.9% Electricity Used (kW)                        28,527
+  Arabinan to Oligomer                2.4%  Xylose to Glycerol                  0.3% Electricity Used (%)                     69%
+  Arabinan to Arabinose              90.0%  Xylose to Xylitol                   4.6% Wastewater Treatment
+  Arabinan to Furfural                5.0%  Xylose to Succinic Acid              0.9% NH3-N to Ferm mg/L                          1,608
+  Arabinan to Tar                    0.0%  Xylose to Acetic Acid               0.0% NH3-N out of Ferm mg/L                       1,565
+  Acetate to Oligomer                0.0%  Xylose to Lactic Acid                0.0%   Protein-N                                  0
+  Acetate to Acetic Acid             100.0%  Arabinose to Ethanol               85.0%   Cellulase-N                                202
+   Furfural to Tar                   100.0%  Arabinose to Zymo                 1.9% NH3-N in Combined WW mg/L                   667
+  HMF to Tar                      100.0%  Arabinose to Glycerol               0.3%   Protein-N                                  0
+   Lignin to Soluble Lignin              5.0%  Arabinose to Succinic Acid           1.5%   Cellulase-N                                 43
+  Xylose olig to xylose                           Arabinose to Acetic Acid             0.0% Hydraulic Load (L/hr)                       416,673
+  Mannose olig to mannose                      Arabinose to Lactic Acid             0.0% Hydraulic Load (gpm)                          1,835
+  Arabinose olig to arabinose                    Galactose to Ethanol                0.0% Hydraulic Load (MMgal/day)                       2.6
+  Galactose olig to galactose                    Galactose to Zymo                 0.0% Total COD (kg/hr)                           26,536
+ Enzymatic Hydrolysis                         Galactose to Glycerol               0.0% Total COD (g/L)                                63.7
+ Enzyme Loading (mg/g cell)               19.9  Galactose to Succinic Acid           0.0%
+ Total Solids (wt%)                  20.0%  Galactose to Acetic Acid             0.0% Biogas composition (Dry molar%)   CH4       51%
+ Insoluble Solids (wt%)               10.6%  Galactose to Lactic Acid             0.0%                               CO2    49%
+ Temperature (°C)                       32  Mannose to Ethanol                 0.0% methane produced (kg/kg COD)                 0.223
+ Pressure (atm)                            1.0  Mannose to Zymo                  0.0% cell mass                                     0.044
+ Residence Time (days)                     3.5  Mannose to Glycerol                0.0%
+ Conversions:                      Overall   Mannose to Succinic Acid            0.0%
+   Cellulose to Glucolig                4.0%  Mannose to Acetic Acid              0.0%
+   Cellulose to Cellobiose               1.2%  Mannose to Lactic Acid              0.0%
+   Cellulose to Glucose                90.0%
+   Glucolig to Cellobiose                0.0% Corn Steep Liquor loading wt%         0.00%
+   Glucolig to Glucose                 0.0% Contamination Loss                  3.0%
+  Cellobiose to Glucose               0.0% Ethanol Out of Fermenters (wt%)       5.4%
+  Xylan to Oligomer                  0.0% Enzyme Production
+  Xylan to Xylose                    0.0% Glucose feed (kg/hr)                    2,418
+  Xylose Oligomer to Xylose            0.0% Protein produced (kg/hr)                579
+  Xylan to Tar                      0.0% Protein yield (kg/kg substrate)            0.24
+  Arabinan to Oligomer                0.0% Protein harvest titer (g/L)                40
+  Arabinan to Arabinose               0.0%
+  Galactan to Oligomer                0.0% Compressor electricity (kW)             1408
+  Galactan to Galactose               0.0% Agitator electricity (kW)                2093
+  Galactose Oligomer to Galactose       0.0% Chiller system electricity (kW)           1587
+  Mannan to Oligomer                0.0% A400 total electricity (kW)              5340
+  Mannan to Mannose                0.0%
+  Mannose Oligomer to Mannose        0.0% Electricity demand (kWh/kg protn)          9
+                                               Production selectivity:
+                                                      Selectivity to protein               31.3%
+                                                      Selectivity to cell mass              4.1%
+                                                      Selectivity to CO2                 67.6%
+
+
+
+                                      106

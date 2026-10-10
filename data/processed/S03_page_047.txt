@@ -1,0 +1,23 @@
+3.12  Food Waste Energy Value
+
+Food waste energy value was calculated from the specific methane gas production rate data
+(discussed in Section 3.11) during stable periods of operation for both the mesophilic and
+thermophilic digesters. Table 3.11 presents the energy value of food waste. The energy value is
+presented as normalized methane production, normalized electricity production, and household
+electrical energy demand equivalent (based on 100 tons/day of food waste) at the 15-day and 10­
+day MCRT operational periods. The data presented is combined for both mesophilic and
+thermophilic digestion, since the limited data available did not show a clear advantage for
+mesophilic or thermophilic digestion. For the methane production rate and the electricity
+production rate, two units are presented: dry tons applied and wet tons delivered. Dry tons
+applied is presented to show the energy produced of actual food waste solids applied to the
+digester. Wet tons delivered is presented to estimate the energy value of an actual wet ton of
+food waste delivered. The difference between the two is that wet tons delivered includes the
+weight of water in the food waste as delivered, and includes the weight of the solids in the reject
+stream during processing of the food waste prior to digestion.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               32
+Funding Opportunity No. EPA-R9-WST-06-004

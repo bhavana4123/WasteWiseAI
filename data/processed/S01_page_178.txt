@@ -1,0 +1,53 @@
+                                                             Polypeptides and Proteins
+
+
+
+POLY-N-ETHYL-N-METHYL PROPIONAMIDE; solid; density, 1.44 g ~ r n - ~repeating;
+    Unit: CgH13NO.
+
+   gross heat of combustion: at 25OC (77'F)
+                             1    q,(gross)   14525 ? 1.8 Btu Ibl
+    qv(gross)  8069.3 ? 1.0 cal g-
+    qv(gross)  33762.0 ? 4.2 J g-l
+
+                                                          59KOZ/SKU
+
+SARCOSINE POLYMER;solid; repeating unit: C3H5N0.
+
+   gross heat of combustion: at 25°C (77°F)
+                                        1   qv(gross) = 10128 2 7.6 Btu Ibl
+   qv(gross) = 5626.4 2 4.2 cal g-
+    q,(gross)   23540.9 T 17.6 J g-l
+
+                                                           52BRE/TER
+
+VITELLIN; solid; globulin protein from egg yolk; typical composition: water, 49.4%;
+   protein, 16.3%; fat, 31.9%; carbohydrate, 0.7%; remainder includes small amounts of
+   elements such as phosphorus, sulfur, iron, and calcium.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+            =                            1             10370    q,(gross)                   Btu                                       P-'                         g-            = 5760                    cal    q,(gross)
+    q,(gross) = 24100 3 g-l
+
+                                                      STMER/WAT
+
+WOOL; solid; staple fibers obtained from the fleece of sheep (and also alpaca, vicuna,
+   and certain goats); protein chains (keratin) bound together by disulfide cross linkages;
+    chief amino acids: cysteine and cystine, 15%; glutamic acid, 16%; arginine, 10%;
+    proline, 8%; leucine, 8%; sulfur content of wood sample, 3.5%.
+
+   gross heat of combustion: assume values refer to room temperature; dry basis, sulfur
+   product aqueous H2S04.
+
+    q,(gross) = 9898 Btu            $'
+    qv(gross) = 5499 cal g-
+   qv(gross) = 23008 J g-l
+
+                                                                         3 lPAS/KON
+
+
+
+
+
+                                      195

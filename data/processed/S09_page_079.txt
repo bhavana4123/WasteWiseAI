@@ -1,0 +1,49 @@
+            11. Treatment and Recovery of Side Streams
+
+Introduction
+
+There are three non-ester side streams that must be treated as a part of the overall biodiesel
+process. These streams are:
+
+       1) The excess alcohol that is recycled within the process;
+       2) The glycerol co-product, and;
+       3) The wastewater stream from the process.
+
+In this module it is assumed that methanol is the alcohol used in the process. Similar comments
+would apply to other alcohols.
+
+Methanol recycle is necessary because an excess of methanol is required for an effective
+transesterification reaction system. The recovery of the unused methanol saves input costs for the
+process and essentially eliminates the emissions of methanol to the surroundings. The emissions
+reduction is needed because methanol is highly flammable and is toxic.
+
+Glycerol is recovered and partially refined as a co-product from biodiesel production. About 10
+percent by weight of the input reactants are converted to glycerol in the transesterification
+reaction. On both a weight basis and a volume basis, partially refined glycerol is worth more than
+the biodiesel product.
+
+Wastewater constitutes an operating cost for the plant, both because of the water consumption
+and because of the water treatment costs to the plant.
+
+Methanol Management
+
+There are several physical parameters that are important to the recovery and recycle of methanol.
+Methanol’s relatively low boiling point, 64.7 °C, means that it is fairly volatile and can largely
+be removed from the oil, ester and aqueous streams by flash evaporation and re-condensation.
+The low boiling point, along with a low flash point, 8 ° C, also mean the methanol is considered
+to be highly flammable.
+
+Methanol is fully miscible with water and with glycerol. However, it has a low solubility in fats
+and oils (approx. 10 % wt/wt at 65 °C in tallow). Methanol is more soluble in esters, but it is not
+fully miscible. The solubility in glycerol and water means that methanol will prefer these phases
+when there is a two-phase system present. The low solubility in fats and oils is the reason for the
+solubility-limited phase of the overall transesterification reaction.
+
+When the two phases present are esters and glycerol, the methanol will distribute between the
+phases. At 90:10 % wt/wt ester and glycerol, the methanol distributes approximately 60:40 wt %
+between the phases. This fact is important, since the reaction is complete at 90:10 wt %.
+
+
+
+
+                                      75

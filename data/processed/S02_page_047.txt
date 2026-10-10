@@ -1,0 +1,52 @@
+                       Biomass + Air/Oxygen
+           Refractory
+
+                                                               Zone                                                                                Oxygen in air                      !     10
+                       0    0                          Biomass fuel            .&<11    CH'.400.6=0.402                                        ğ     TAxis          TSurface     Wt % char       Oxygen                    0  <> SF 0                    (!)                                   0 0         I                                                                                                                                 I
+                       •    •   •       "                                          >                              Flaming                II   I  a           0.2         C                                                               .0                                    'Pyrolysis. FP           t                               «   0.45 CO         +             0.35             CO,                                                                                                                   I                     •      •   0.45 H2 + 0.25 H2O                                                      II
+                                                               :E01
+                                                                                                                             ' iii
+                               I
+         0.06 C  0.64 CO x ©0.30 CO2
+   0.54 H2 x 0.1 6 H2O                   N                     4                                                       I                                                    500   1000   1500    0     10     20    30    40    50                                                          I
+                                                    Temperature (K)           Composition (%) N2 Free)                          Gas
+                Insulation        +
+                            Char
+                                       (a)                                 (b)                                 (e)
+
+
+ F;g. 5-10. Schematic of stratified downdraft gasifier showing (a) chemical reaction, (b) temperature profiles, and (c) composition  Source: Reed
+ 1984. p. 226)
+
+Air reacts with pyrolyzing biomass in the second zone,    must pass before it reaches the grate. This last zone has
+and most of the volatile wood oil is burned to supply     the disadvantage that char and ash from the char
+heat for this pyrolysis as explained in Chapter 4. We     gasification zone also must pass through it to reach the
+have called this process "flaming pyrolysis," and dis­      grate. However, as we mentioned before, it provides a
+tinguish it from "flaming combustion," which occurs     "buffer" or reservoir of charcoal that is available to
+in the absence of solids with excess air or oxygen. At    accommodate changes in the power level, which
+the bottom of the second zone, the biomass has been     otherwise might cause the grate to heat excessively.
+converted to charcoal, and all of the oxygen from the
+air has reacted. The final gas leaving the second zone    The stratified downdraft design has a number of
+contains CO and Hz, as well as the COz and HzO     advantages over the Imbert gasifier. The open top
+produced in the earlier stages of combustion, as shown     permits fuel to be fed more easily and allows easy
+in Fig. 5-10. The CO and Hz mixture already is suffi­     access for instruments to measure conditions within
+ciently concentrated to be a combustible gas at this     the bed. The uniform passage of air and fuel down the
+point.                                                         gasifier keeps local temperatures from becoming too
+                                                   high or too low while the average temperature is high.
+The hot gases produced in the flaming pyrolysis zone                                             The cylindrical construction is easy to fabricate and
+react with the charcoal in the third, or char gasification,                                                     permits continuous flow for otherwise troublesome
+zone to convert more of the COz and HzO to CO and                                                              fuels without causing bridging or channeling. Finally,
+Hz, through the Boudouard and water-gas reactions                                                       the various strata are more accessible for measuring
+(Eqs. 4-7 and 4-B). We call this process adiabatic char                                                     compositions and temperatures within the bed so that
+gasification (adiabatic means no heat flows into or out                                                                           it  is possible to compare modeling results with
+of the section). During the reaction, sensible heat of the                                                        empirical observations.
+gas is converted into chemical energy of the fuel gas.
+This  results in cooling the gas to about BOO·C, a
+                                             The stratified downdraft gasifier is both conceptuallytemperature at which no further reaction is possible.
+                                          and mathematically  easier  to  comprehend.
+Finally, there may be a zone of unreacted charcoal     Quantitative descriptions and mathematical models of
+below the char gasification zone through which the gas     gas flows through the bed are thus facilitated.
+
+
+
+                                                                                               Gasifier Designs   39

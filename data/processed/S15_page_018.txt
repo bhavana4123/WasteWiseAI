@@ -1,0 +1,64 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.6 Commonly Used WHR Systems by Temperature Range1
+
+    Ultra-Low                                                                                Ultra-High                    Low Temperature     Medium Temperature  High Temperature    Temperature                                                                          Temperature                            (250° F to 600°F)       (600°F to 1200°F)       (1200°F to 1600°F)    (< 250°F)                                                                                  (>1600°F)
+
+
+                                                                                  Shell and tube type      Convection            Convection            Convection              Refractory (ceramic)
+      heat exchangers          recuperator              recuperator              recuperator              regenerators
+
+                                                                                        Plate type heat            (metallic) of many        (metallic) of many        (metallic) – mostly                                                                                             Heat recovery boilers
+      exchangers                different designs          different designs         tubular             Regenerative burners
+                                                                                                    
+                                                     Finned tube                                                                              Radiation                Air heaters for waste   Finned tube                                                                                                      Radiation
+      heat from liquids        heat exchanger          heat exchanger          recuperator              recuperator
+                                                                                         (economizers)                                                     (economizers)                                                                                  Regenerative                                                                                         burners                                                                                    Heat         pumps                                                                                             Waste                                                                                                               heat                                                                                                                               boilers                                         
+                                                                                             Shell                               and tube heat                                                             Shell                                                   and tube heat                                                                           Heat recovery                                                                                                       boilers    HVAC              applications                                                                                                            including                                                                                                       steam                              exchangers for water     exchangers for water            (i.e., recirculation                                                  Waste heat boilers        turbine-generator                          and liquid heating      and liquid heating      water heating                                                             including steam         based power
+      or glycol-water       Heat pumps         Self-recuperative         turbine-generator        generation
+                             recirculation)                               Direct contact water     burners                based power         Load or charge
+                                         
+         Direct contact water      heaters                                                 Waste heat boilers       generation              preheating
+                                                                                        heaters                           Condensing water        for steam or hot                                                                   Load or charge
+
+         Non-metallic heat        heaters or heat          water condensate        preheating
+                                               exchangers              exchangers                                                    Load-charge         Metallic heat wheels
+                                                      Metallic heat wheel      (convection section)      (regenerative system)
+                                               preheating                            Heat pipe exchanger
+                                                                                                   Metallic heat wheel
+
+                                                                                           Heat pipe exchanger
+
+
+  Waste Heat to Power Technologies
+
+  Waste heat to power (WHP) is the process of capturing heat discarded by an existing process and using that
+   heat to generate electricity. WHP technologies fall under the WHR category. In general, the least expensive
+  option for utilizing waste heat is to re-use this energy in an on-site thermal process. If it is not feasible
+   to recover energy from a waste heat stream for another thermal process, then a WHP system may be an
+  economically attractive option.
+
+  Commonly used WHP technologies are:
+
+             Rankine Cycle (RC) - The most common example of the Rankine cycle is the steam turbine, or steam
+         Rankine cycle (SRC). In a SRC system, the working fluid is water, and steam is created to drive a turbine.
+
+             Organic Rankine Cycle (ORC) - Organic Rankine cycle (ORC) systems are similar to SRC systems,
+          but are typically used at lower temperatures, and instead of water the working fluid is a hydrocarbon,
+          hydrofluorocarbon, or ammonia.
+
+              Kalina Cycle (KC) - The Kalina cycle is a variation of the Rankine cycle, using a binary fluid pair as
+          the working fluid (typically water and ammonia), and has the potential to have higher efficiency than
+          the SRC.18
+
+               Supercritical CO2 Cycle - Another variation of the Rankine Cycle is the supercritical CO2 (sCO2)
+            cycle, which utilizes carbon dioxide in place of water/steam for a heat-driven power cycle. The QTR
+         Technology Assessment 4.R Supercritical Carbon Dioxide Brayton Cycle examines sCO2 in more detail.
+
+
+
+
+
+ 17  Quadrennial Technology Review 2015

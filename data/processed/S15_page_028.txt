@@ -1,0 +1,67 @@
+TA 6M: Waste Heat Recovery
+
+
+
+
+              Reactive systems (i.e., controlled combustion for organic vapors) to remove or collect organic vapors
+        and combustible gases or vapors with controlled reaction rates and temperature increases. This includes
+         developments in regenerative thermal oxidizers, catalytic oxidizers, and direct thermal oxidizers.24
+
+  Opportunities in Advanced Materials
+
+ WHR systems employ both metallic and nonmetallic materials with a variety of technical limitations. R&D
+   opportunities in advanced materials include:
+
+             Coating materials with greater thermal stabilities for higher temperature applications; reduced wear,
+        and easier repair.20
+
+              Corrosion-resistant coatings for low-temperature applications.
+
+             High-temperature (>1,600°F) corrosion resistant materials for heat exchangers (recuperators).
+
+             Heat storage materials with high latent heat, thermal capacity (specific heat), and thermal conductivity
+           for all temperature ranges.
+
+              Seal materials for high-temperature heat exchanger designs with moving parts (e.g., heat wheels or
+           regenerators). The seal can be for metal-to-metal interface or metal-to-non-metallic materials (e.g.,
+          ceramics).
+
+             Polymers or plastics with improved thermal conductivity for use in low-temperature corrosive
+         environments (e.g., combustion products of fossil fuels). For example - ultra-high molecular weight
+          polyethylene (UHMWPE) material for heat exchangers.25
+
+               Cost-effective thermoelectric or thermoionic materials capable of producing electricity from heat with
+        15%–20% thermal efficiency. For example, future figure of merit (ZT) of 1.8, compared to 1 in 2011,
+          leading to greater conversion efficiencies; thermal stability up to 1000°C.20 As part of the 2015 QTR,
+          a detailed evaluation of the potential of thermoelectrics is presented in the 6.G Direct Thermal Energy
+          Conversion Materials, Devices, and Systems Technology Assessment.
+
+            Working fluids for low-temperature power generation cycles that can withstand broader temperature
+          ranges for use in ovens and furnaces. This also includes performance optimization of power
+          generation cycles using low-global warming potential fluids (low GWP fluids). For example improving
+         performance of regenerative supercritical ORCs (organic Rankine cycles) using low-GWP organic
+        compounds as working fluid.26
+
+            Advanced materials to increase temperature lift in absorption cycles and improve overall heating and
+          cooling performance.
+
+               Catalysts to support lower temperature “reforming” reactions for use in medium- to high-temperature
+         (≥800°F) waste heat applications.
+
+             Higher temperature materials to be used for “bag-houses,” or gas cleaning systems. This will allow use of
+          lower temperature electricity generation cycles.
+
+  Opportunities in Advanced Concepts and Designs
+
+  For maximum WHR, it is necessary to develop advanced concepts and new designs for WHR equipment. R&D
+   opportunities include:
+
+              Innovative heat transfer methods and heat exchanger geometries to reduce heat exchanger size (see the
+          Opportunities in Applied Research section, above).
+
+             Heat exchangers or regenerators with continuous surface cleaning to remove surface deposits resulting
+         from particulates or fibers in waste gas streams.
+
+
+
+ 27  Quadrennial Technology Review 2015

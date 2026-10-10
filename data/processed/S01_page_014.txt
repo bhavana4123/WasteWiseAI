@@ -1,0 +1,52 @@
+Agricultural Residues
+
+
+ALMOND, ORCHARD PRUNING3 solid; Material is considered biomass fuel and has
+   proximate analysis values (in percent by weight dry basis) for volatile concentration
+   (VCM) = 76.83, ash content = 1.63, and fixed carbon = 21.54.  Also the ultimate
+    analysis of the elemental composition of the fuel (values in percent by weight dry
+    basis) is carbon = 51.30, hydrogen = 5.29, oxygen = 40.90, nitrogen = 0.66, sulfur
+    0.01, chlorine = 0.04, and residue (ash) = 1.80.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm O,, and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross) = 8609 Btu Ib- 1
+    qv(gross) = 4783 cal g-'
+    qv(gross) = 20010 J g-1
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 8144 Btu Ib-I
+    qv(net) = 4524 cal g-l
+    q,(net)  = 18930 J g-l
+
+                                                                      85 JEN/EBE
+
+ALMOND SHELLS; solid; Material is considered biomass fuel and has proximate analysis
+    values (in percent by weight dry basis) for volatile concentration (VCM) = 73.45, ash
+   content = 4.81, and fixed carbon = 21.74.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 44.98,
+   hydrogen = 5.97, oxygen = 42.27, nitrogen = 1.16, sulfur = 0.02, and residue (ash) =
+    5.60.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm O,, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 8337 Btu  lb;'
+    q,(gross)  = 4632 cal gi
+    q,(gross)  = 19380 J g-
+
+    net heat of combustion: assume values refer to room temperature.
+    qv(net) = 7817 Btu lb; 1
+    qv(net) = 4343 cal g;
+    qv(net) = 18270 J g-
+
+                                                                85JEN/EBE
+
+
+
+
+
+                                        10

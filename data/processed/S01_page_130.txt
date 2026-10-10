@@ -1,0 +1,57 @@
+                                                         Plant Materials (Non-Woody)
+
+
+
+ALGAE; solid; chlorophyll-bearing organisms occurring in both salt and fresh water;
+   contain minerals, proteins, lipids, amino acids; a source of iodine.
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+   ulva rigida (green alga)                  Fucus distichus (brown)
+    qv(gross) = 6750 Btu lb- 1                   qv(gross) = 6174 Btu lb- 1
+    q,(gross)  = 3750 cal g-l                     qJgross) = 3430 cal g-'
+   qv(gross) = 13690 J g-'                       qv(gross) = 14351 J g-'
+
+   AZaria nana (brown)
+                              1    qv(gross) = 5850 Btu Ib-
+    q,(gross)   3250 cal g-l
+    q,(gross) = 13598 J g-l
+
+                                                                      71PAI
+
+ARCHANGEL (WOOD BETONY OR BLIND NETTLE); Stachys sylvatica; solid; Material is
+   an integral part of the ecosystem at the herbaceous layer level of the mixed fir and
+   beech forest in the Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains
+   (two different stations) in Romania. The plants have the following constitution: 33%
+    of the weight is represented by the stem axis and 67% by leaves. The species has an
+    aestival (summer) type vegetation period.
+
+    gross heat of combustion: assume values refer to room temperature and values are
+   calculated t o a dry basis.
+    q,(gross)   7393 6tu lb- I
+    q,(gross)   4107 cal g-'
+    q,(gross) = 17184 J g-l
+
+                                                          73PAU/BRE
+
+BIG SAGEBRUSH; Artemisia tridentata; solid; Samples of current year's annual growth
+   and woody tissue of large rangeland shrubs were collected from 1 1 sites in several
+   intermountain states. Surface soil pH = 7.2 - 7.7; soil class is sand-silt loam. Mean
+   content of current year's growth:  ash, 6.7%; sulfur, 0.17%; moisture, 56%. Mean
+   content of woody tissue:  ash, 3.1%; sulfur, 0.03%; moisture, 25%.
+
+    gross heat of combustion: oven-dry weight; assume values refer to room
+   temperature; value is mean of an average of values from 3 to 5 plants from each site.
+
+    current year's growth                  woody tissue
+    q,(gtoss)  = 8456 Btu IbT 1                               1                                                         q,(gtoss)  = 8350 Btu Ibl
+    qv(gtoss) = 4698 cal g-                      qv(gross) = 4639 cal g-    qv(gross) = 19656 J g- 1                               1                                                    q,(gross) = 19410 J g-
+
+                                                          82VAN/BAR
+
+
+
+
+
+                                     143

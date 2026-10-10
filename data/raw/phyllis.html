@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <title>Phyllis2 -  Database for the physico-chemical composition of (treated) lignocellulosic biomass, micro- and macroalgae, various feedstocks for biogas production and biochar </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="/Content/Site.css?20211130" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/Content/Print.css?20120921" rel="stylesheet" type="text/css" media="print" />
+    <!--[if lte IE 8]><script src="/Scripts/Lib/excanvas.compiled.js" type="text/javascript"></script><![endif]-->
+
+    <script src="/Scripts/Lib/jquery-3.6.0.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/jquery-ui-1.12.1.custom.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/Scripts/Lib/themes/flick/jquery-ui.min.css?20210621" type="text/css" />
+
+    <script src="/Scripts/Lib/jstree.min.js?20210621" type="text/javascript"></script>
+    <link rel="stylesheet" href="/Scripts/Lib/themes/phyllis/style.css?20210621" type="text/css" />
+
+    <script src="/Scripts/Lib/jquery.flot.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/jquery.flot.selection.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/jquery.flot.navigate.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Lib/localStorage.js?20130417" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        $(function() {
+            $("form#searchform").submit(function() {
+                location = "/Browse/Standard/ECN-Phyllis#" +
+                    $(this).find('input').val();
+                return false;
+            });
+            $(".needscript").show();
+        });
+    </script>
+
+</head>
+<body class="topbar narrow">
+    <div id="page">
+        <div id="header">
+            <h1>Phyllis2</h1>
+            <ul id="menu">
+                <li><a href="/">Home</a></li>
+                <li><a href="/Browse">Browse</a></li>
+                <li><a href="/Home/Help">Help</a></li>
+            </ul>
+        </div>
+        <div id="main">
+ <h2> Database for the physico-chemical composition of (treated) lignocellulosic biomass, micro- and macroalgae, various feedstocks for biogas production and biochar </h2>             
+
+
+
+<p>
+    Phyllis is a database containing information on the composition of biomass, macro- and micro-algae,
+    feedstocks for biogas production, biochar and torrefied biomass. Phyllis provides data for individual
+    materials or average values for a group of materials.
+</p>
+
+<form id="searchform">
+    <p class="biglink">
+        <a href="/Browse/Standard/ECN-Phyllis">Start browsing</a><br />
+        <span class="needscript">
+            or enter the name of the material you are looking for:
+            <input type="text" /><input type="submit" value="Search" />
+        </span>
+    </p>
+</form>
+
+<p>
+    Phyllis is an initiative from ECN and the database has been combined with the
+    <a target="_blank" href="http://www.biodat.eu/">BIODAT</a> database
+    from the <a target="_blank" href="https://ec.europa.eu/energy/intelligent/projects/en/projects/phydades">PHYDADES</a> project.
+    Phyllis is maintained by TNO Biobased and Circular Technologies.
+    At present it contains around 3000 data records.
+    Phyllis will be updated and extended regularly.
+</p>
+
+<div class="samplequeries">
+<p>You can get answers to questions such as:</p>
+<ul>
+    <li>What is the average sulphur content of <a href="/Browse/Standard/ECN-Phyllis#wood">wood</a>?</li>
+    <li>What is the ash content of <a href="/Browse/Standard/ECN-Phyllis#willow">willow</a>?</li>
+    <li>What is the average calorific value of <a href="/Browse/Standard/ECN-Phyllis#chicken manure">chicken manure</a>?</li>
+</ul>
+</div>
+
+<div class="uploadlink">
+<p>
+    In case you have interesting data on materials within the scope of the database, and you want to share your data with others, please use this link.
+    You can download an Excel file, add your data, and send the file to TNO. After a check we will upload your data.
+</p>
+<p class="biglink">
+    <a href="/Content/Phyllis data upload template - 20191010.xlsx">Upload your data</a>
+</p>
+</div>
+
+<p>
+    You may also contact TNO Biobased and Circular Technologies to ask for tailor made selections, fully conducted to
+    your wishes at a reasonable fee. Contact us at <a href="mailto:Secretariaat-BCT-STIP@tno.nl">Secretariaat-BCT-STIP@tno.nl</a>
+    for information or with suggestions for improvement.
+</p>
+
+<p>If you use data from the Phyllis database we kindly ask you to refer to:</p>
+<blockquote>
+    <cite>
+        Phyllis2, database for (treated) biomass, algae, feedstocks for biogas production and biochar,<br />
+        https://phyllis.nl/<br />
+        TNO Biobased and Circular Technologies
+    </cite>
+</blockquote>
+
+
+
+<hr />
+
+<p>
+    Development of Phyllis2 was co-funded by the
+    <a href="http://cordis.europa.eu/fp7/home_en.html" target="_blank">EU 7th Framework Programme</a>
+    through the
+    <a href="http://www.briskeu.com/" target="_blank">BRISK project</a>,
+    and is being funded by the
+    <a href="https://ec.europa.eu/programmes/horizon2020/" target="_blank">H2020 Programme</a>
+    (Grant Agreement Number 731101) through the
+    <a href="http://www.brisk2.eu/" target="_blank">BRISK-2 project</a>.
+</p>
+
+<div id="fundinglogos">
+    <a href="http://www.briskeu.com/" target="_blank"><img src="/Content/BRISK.png" alt="BRISK" /></a>
+    <a href="http://www.brisk2.eu/" target="_blank"><img src="/Content/BRISK2.png" alt="BRISK2" /></a>
+    <a href="http://cordis.europa.eu/fp7/home_en.html" target="_blank"><img src="/Content/FP7.png" alt="7th Framework Programme" /></a>
+    <a href="https://ec.europa.eu/programmes/horizon2020/" target="_blank"><img src="/Content/H2020.png" alt="Horizon 2020 Programme" /></a>
+</div>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="footercontent">
+            <p>© 2026 <a href="https://www.tno.nl/" target="_blank">TNO</a> | <a href="/Home/Colophon">Colophon</a></p>
+            
+            <p>Contact: <a href="mailto:Secretariaat-BCT-STIP@tno.nl">Secretariaat-BCT-STIP@tno.nl</a></p>
+        </div>
+    </div>
+</body>
+</html>

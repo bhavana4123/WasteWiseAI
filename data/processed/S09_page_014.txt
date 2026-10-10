@@ -1,0 +1,46 @@
+                                            O
+                                                                                                                                                                 ||
+  CH4      CH3-CH3    CH3-CH2-CH3 CH2=CH2  CH≡CH     CH3-C-CH3
+Methane       Ethane        Propane      Ethylene   Acetylene     Acetone
+                                            (Ethene)    (Ethyne)     (Propanone)
+
+
+                                OH       OH  OH OH
+                                                                                                                   |                              |             |           |
+CH3OH     CH3-CH2-OH CH3-CH2-CH2-OH CH3-CH-CH3     CH2—CH---CH2
+Methanol        Ethanol     1-Propanol          2-Propanol          Glycerol
+                                                   (iso-Propanol)        (Glycerine;
+                                                                           1,2,3-Propanetriol)
+
+   O           O               O
+           ||                                           ||                                                          ||
+CH3-C-OH        CH3-C-OCH3            CH3-C-O-CH2CH3
+Acetic acid         Methyl acetate              Ethyl acetate
+                  (Acetic acid methyl ester)     (Acetic acid ethyl ester)
+
+                         Figure 9. Simple Organic Molecules
+
+presence of an OH group (also known as hydroxy group). A feature such as an OH group is also
+known as a functional group. Besides OH, there are many more functional groups. A functional
+group usually imparts specific properties and the propensity to undergo certain reactions to a
+molecule. There are innumerable compounds that belong to the class of compounds known as
+alcohols. Many organic molecules contain the characteristics of several or even many classes of
+compounds usually because they contain several or many different functional groups.
+
+Note how the names of alcohols are derived from the compounds in the top row known as
+hydrocarbons (hydrocarbons are compounds containing carbon and hydrogen) by dropping the -e
+and adding the suffix -ol (Why is the name “glycerol” preferable to “glycerine” for the same
+compound?). Similarly, note that the CH3 moiety as it is found in methyl esters is called a methyl
+group and CH2CH3 is called ethyl, again a systematic change in nomenclature. Such changes in
+nomenclature, especially rational nomenclature, are common in organic chemistry. For some of
+the compounds, more than one name is given. This results of many compounds having so-called
+trivial names besides their rational names (historically, the trivial names are older than the
+rational names). Trivial names are important because for many organic compounds of more
+complex structure the rational names become unwieldy, so that the trivial names are much easier
+to learn and use.
+
+
+
+
+
+                                      10

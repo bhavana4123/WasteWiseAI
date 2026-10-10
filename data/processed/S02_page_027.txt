@@ -1,0 +1,61 @@
+where MF is the fuel moisture %. We see then in    Commercial dryers are available in many forms and
+Fig. 3-5(b) that bone dry biomass corresponds to 47%      sizes, and it is beyond the scope of this handbook to
+total moisture input. The chemical moisture in bone    recommend such equipment for commercial-scale
+dry biomass provides more moisture than is needed for     operations. A simple batch dryer for drying small quan­
+peak heating value, and all fuel moisture reduces gas       tities in shown in Fig. 3-6 and a commercial dryer is
+heating value.                                  shown in Fig. 3-7.
+
+Biomass can contain more than 50% moisture (wet
+basis) when it is cut; it is generally desirable to dry    3.5 Biomass Fuel Emissions
+biomass containing more than 25% moisture (wet                                           The sulfur content of biomass fuels is usually very low
+basis) before gasification. Drying often can be ac­                                                compared with fossil fuels, as can be seen from Tables
+complished using waste heat or solar energy. If the                                                          3-6 and 3-8. Since sulfur oxides are corrosive, they
+temperature of the drying air is too high, the outer sur­
+                                           make a major contribution to engine wear. The absence
+faces of the chunk will become dry and begin to                                                         of sulfur in biomass fuels could allow a longer life for
+pyrolyze before the heat can reach the center. For effi­                                               an engine operating on producer gas rather than on
+cient drying, hot air, which if cooled to 60' -80'C would                                                     petroleum fuels, provided that the producer gas is free
+be moisture saturated, is preferred. The moisture slows
+                                                         of other contaminants.
+feedstock drying (as well as slowing surface pyrolysis).
+Thus more air is required, improving the drying    The nitrogen content of biomass fuels depends on the
+process (Thompson 1981). During operation of a     species of biomass used, as well as the harvest time, as
+gasifier and engine combination, l-in. wood chips can    shown in Table 3-9. Wood, dried stalks, hulls, and cobs
+be dried from 50% to 5% moisture content, with drying    have a very low nitrogen content, while leaves, seeds,
+capacity to spare, using a 20-minute residence time    and bark have a higher nitrogen content. Depending on
+with the hot engine exhaust, tempered with 90%     the temperature of gasification and combustion, this
+recycle of dryer gases.                          may significantly lower the nitrogen oxide emissions
+
+
+
+                                                       Wet gas
+                                                                                                                                                                                                                                      . discharge                                                         1
+
+                                                   Dryer
+                                                               exit
+                       Insulation                   temperature
+                                                 sensor
+                                                                 (TE)                Wet gas
+                                                                                 recycle
+
+                                                              QB
+
+          Wet
+         biomass
+
+
+                                                                           Blower
+                                                                                   flow rate QB
+
+
+                           Fuel dryness is indicated
+                        by dryer exit                          Heat
+                        temperature (TE)                         input
+                                                                 Flue gas or
+                                                        engine exhaust
+                                                                  flowrate QH
+
+Fig. 3-6. Small batch dryer (Source: Das 1985)
+
+
+                                                                                                 Gasifier Fuels      1 9

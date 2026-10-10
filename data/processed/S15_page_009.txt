@@ -1,0 +1,45 @@
+TA 6M: Waste Heat Recovery
+
+
+   Opportunity Analysis for Recovering Energy from Industrial Waste
+   Heat and Emissions5
+
+    A Pacific Northwest National Laboratory (PNNL) report titled Opportunity Analysis for Recovering
+      Energy from Industrial Waste Heat and Emissions discussed waste energy availability.5 This report
+      analyzed barriers and pathways to recovering chemical and thermal emissions from U.S. industry, with
+       the goal of more effectively capitalizing on such opportunities.
+
+       This study characterized the quantity and energy value of these chemical and thermal losses, surveyed
+       publicly available literature to determine the amount of energy embedded in the losses, and identified
+      technology opportunities to capture and reuse this energy. Approximately 1,400 TBtu of residual
+      chemical fuel energy value was identified in the industrial sector—approximately 4.3% of total U.S.
+       industrial energy use.
+
+      The study also considered advanced energy technologies using improved materials (e.g.,
+       thermoelectric, thermionic, piezoelectric, and solid oxide fuel cells) that are candidates for recovering
+      chemical and thermal losses. The study recommended additional research and development as well as
+       industry education to make these technologies sufficiently cost effective and widely commercialized.
+
+
+
+  Comments on the report Opportunity Analysis for Recovering Energy from Industrial
+  Waste Heat and Emissions5 for the purposes of this Technology Assessment:
+
+   This study showed that the manufacturing processes and related energy consumption yields waste products in
+   the form of chemical emissions (CH4, CO, H2, etc.) and thermal emissions (sensible waste heat). Hence this TA
+   includes both chemical and sensible enthalpies while quantifying total waste heat opportunity in manufacturing
+   sector. The study determined the amount of energy in industrial emissions and identified technology
+   opportunities for capturing and redeploying this energy. The study identified 2 quads of residual energy from
+  chemical emissions for potential capture. Since landfills are not traditionally considered industrial organizations,
+   the industry component of the emissions that had residual chemical fuel value was 1.4 quads. This represents
+   approximately 4.3% of the total energy used by U.S. industry. The Energy Use, Loss, and Opportunities Analysis:
+   U.S. Manufacturing & Mining report on opportunities to reduce energy use and loss in industry3 quantified total
+  thermal emissions (chemical and sensible) from U.S. industry. As shown in Table 6.M.4, more than 10 quads
+   of thermal emissions were identified from U.S. industrial processes. The table also describes the origin of these
+   emissions, which represent approximately 30.8% of the total energy used by U.S. industry.
+
+
+
+
+
+  8  Quadrennial Technology Review 2015

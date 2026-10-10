@@ -1,0 +1,54 @@
+                     Table 3. Summary of Whole Stover Composition Data
+
+      Component                 Average      Min       Max       Range
+                                       (dry wt %)
+        Ethanol solubles                   3.3           1.7           4.1           2.4
+       Sucrose                           3.6          0          10          10
+        Extractable inorganics (soil)         2.5          0            4.8           4.8
+        Other water extractables            8.6           1.4          15.7         14.2
+         Total solubles                    17.9          5.7          30.8         25
+       Glucan                          31.9         26.5         37.6         11
+        Xylan                            18.9         14.8         22.7          7.9
+        Galactan                          1.5           0.8           1.9           1.1
+        Arabinan                          2.8           1.6           3.6          2
+      Mannan                           0.3          0            0.7           0.7
+         Lignin (corrected for protein)       13.3         11.2         17.8          6.6
+         Structural inorganics                3.9           0.8           6.6           5.8
+        Protein                            3.7           1.1           5.4           4.3
+        Acetyl                             2.2           0.9           2.9          2
+        Estimated uronic acids             3.1           2.5           3.7           1.2
+         Total structurals                  81.6         70.4         90.8         20.4
+      Component closure              99.5         93.8         104.9         11.1
+
+
+
+                                                        Design                  50
+                                                         Composition
+
+                  40
+
+
+                  30                                                                   Frequency
+                  20
+
+
+                  10
+
+
+                   0
+                     52      54      56      58      60      62      64
+                                Total Structural Carbohydrates + Sucrose (dry wt %)
+
+       Figure 4. Structural carbohydrate distribution of the feedstock variability study [25]
+
+
+Table 4 compares the composition used in the 2002 design to the composition used in the present
+design. The composition used in the 2002 design was based on an average of nine stover samples
+obtained from two batches [26]. Compared with the data in Table 3, its glucan, xylan, and lignin
+concentrations were each higher than the more recent study’s averages for those components and
+near or above the maximum concentration measured in the 508 stover samples. (The earlier corn
+stover was handled extremely carefully between the field and the lab, while the samples from the
+more recent study were collected from the fields well after harvest.) The composition chosen for
+the present design was based on a single sample taken from the overall distribution. As indicated
+
+                                      13

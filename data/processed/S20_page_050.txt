@@ -1,0 +1,29 @@
+                   Figure 12. Sensitivity analysis for biocrude upgrading plant.
+
+4.2  Regional Resource and Fuel Potential Analysis
+
+   As shown in the sensitivity analysis, plant scale is a key cost driver for the sludge biocrude
+production cost. The base case of 110 dry ton/day plant is approximately the minimum HTL plant scale
+that is feasible within BETO’s $3/gge target when only considering a single WWTP size feeding an
+upgrader of 2,700 BPSD fuel production capacity. However, WWTPs larger than 110 dry ton/day can
+produce biocrude cheaper than the base case price of $2.35/gge. In this way, blending biocrude from
+smaller WWTPs with biocrude from the largest WWTPs could maximize fuel production while still
+meeting a feasible average biocrude price for the upgrader.
+
+   Using the sludge production dataset published by Seiple et al. (2017) and the HTL and biocrude
+upgrading plant cost production models, a siting analysis was performed to identify specific regions of the
+country that could support upgraded fuel production at or below $3.50/gge. This analysis is intended to
+provide an initial estimate of the general regions of interest rather than identify specific siting locations.
+
+    Siting was constrained to the 15,014 existing WWTPs ranging from 0.001 to 812 MGD influent flow.
+This was done in part to simplify the siting model, but also because WWTPs are highly spatially
+distributed in the U.S. and large scale upgrader facilities are likely to be proximal to biocrude sources due
+to transport costs and logistics.  It is assumed that each WWTP has its own HTL plant and could send its
+biocrude to a central upgrader site. An initial pool of 2,621 siting candidates was developed by
+identifying all WWTPs capable of producing $3.50/gge fuel when aggregating biocrude within a travel
+radius of 100 miles, without considering resource competition from neighboring facilities. Although only
+candidate WWTPs could represent possible upgrader locations, resources from all WWTPs were
+considered during siting. Siting begins at the candidate upgrading plant location with the highest total
+
+
+                                         35

@@ -1,0 +1,52 @@
+    Ultimate analysis for a 1:1 mixture of primary/secondary sludge provided by the City of Detroit and
+Great Lakes Water Authority for HTL testing is given in Table 4. This composition is used for the
+modeled sludge feedstock with the exception of ash content, which was decreased from 26% to 15% for
+the goal case. A lower ash content was chosen based on two reasons: 1) process knowledge from Detroit
+indicates their ash content is likely on the high end of the potential range due to aging infrastructure and
+addition of FeCl3 for phosphorus removal in its primary sedimentation step; and 2) the goal case assumes
+that future renovations in aging collection systems and outdated processes will lead to reduced sludge ash
+content over time. Ideally, enhanced de-gritting and de-ashing technology should also be pursued for
+pretreatment of the sludge. The cost of additional processing steps needed for producing a lower ash feed
+should be considered in future analyses. Sensitivity analysis around ash content is presented in Section
+4.0.
+
+
+                        Table 4. Sludge composition and ash content.
+
+        50/50 Primary/Secondary        Experimental
+      Sludge Mixture Characteristics         Data             Model         Experimental & Model
+             Component        Wt% dry basis     Wt% dry basis    Wt% dry, ash free basis
+    C                                       41.06            46.83                         52.11
+    H                                         5.67             6.46                           7.19
+    O                                       26.06            29.72                         33.07
+    N                                         4.98             5.68                           6.32
+     S                                         1.03            1.170                           1.30
+     Ash                                     26.08             15.0
+     P                                         1.86             1.86
+    HHV Btu/lb(a)                                                                           9,936
+       (a)  Calculated by the Boie Equation: HHV (Btu/lb) = (151.2 C + 499.77 H +45.0 S -47.7 O + 27 N)
+         *100 - 189.0.
+
+2.2  Feedstock Preparation
+
+   Dewatering of sludge feedstock is necessary to minimize capital and operating costs for the HTL
+process. This section describes the equipment and associated capital necessary to prepare the sludge
+slurry feedstock.
+
+    Figure 3 shows a simple diagram of the proposed feed preparation steps. Sludges are generated from
+the WWTP’s primary and secondary treatment steps at 3% and 0.8% solids content, respectively.
+Primary sludge and secondary sludge may be thickened separately before they are mixed as part of
+normal WWTP operations. For this analysis, it is assumed that the mixed sludge is intercepted and
+mechanically dewatered to the target solids content of 25%. This target is considered the maximum that
+is attainable with conventional dewatering technology while still enabling effective pumping through the
+HTL system. Secondary sludge is typically more difficult to dewater than primary sludge because of
+interstitial water contained in cell mass, therefore mixing the sludge prior to dewatering is likely to
+produce the target solids content.
+
+   Dewatering of sludges and biosolids is currently carried out to varying degrees at WWTPs to
+minimize costs for treatment, transport, and disposition. Common units for dewatering to a high solids
+content are the centrifuge, belt filter press, and screw press. Although dewatering equipment are likely to
+already be present at the WWTP, capital for investing in a new centrifuge is included in the analysis to
+
+
+                                          9

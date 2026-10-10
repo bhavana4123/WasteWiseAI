@@ -1,0 +1,57 @@
+                  Table 13-1. Typical Fuel Costs for Various Forms of Biomass (1986 $)
+
+                                                                            Cost               Cost
+Form                             Shape                                            ($/ton)              ($/MBtu)
+Wet chips from tree service               Chips with     and bark                      $0-20                 $0·1 .25                                                      twids
+ Demolition hammer milled dry             Chips with slivers                              10-20
+Dry chips - whole tree                      Chips. uniform size. no twigs or slivers           20-40                      1 .25-2.50
+Densified biomass (pellets, cubes)          Uniform cubes                               40-60                2.50-3.75
+Cord wood                             Large 2 ft long irregular diameter                     1 00-150             6.25-10.00
+Municipal solid waste                    Very irregular shape with high-ash,                Credit                  Credit
+                                      mixed composition                                 -(0-20)                  -(0-1 .25)
+Refuse-derived fuel                            Irregular shape, composition more                0-20                   (0-1 .25)
+                                    more predictable than MSW
+
+
+MSW or refuse-derived fuels (RDF) appear to be the    expensive fossil fuels because a boiler or other
+most inexpensive biomass fuels. However, they are     fuel-requiring device already exists. In these cases, the
+technically the most difficult fuels to gasify (or burn)    economic analysis is greatly simplified because the
+because of their high ash, heavy metal, and plastic     operation and economics of existing equipment are
+content.                                                already well understood.
+
+                                                                    If the gas is to be burned directly, then an equipment
+1 3.3.3 Equipment Cost                                                  comparison should be based on the cost per million Btu
+A gasifier is basically only an empty can, so the gasifier     per hour. A compilation of local energy costs similar to
+by itself can be a very low-capital-cost device, ranging     those in Table 13-2 gives a good idea of the economic
+from $2000 to $10,000/MBtu ($40-$200/kWh). On the     attractiveness of a gasifier-for-heat project. Many of the
+other hand, a gasifier system for generating process     factors discussed for power generation will also apply
+heat or power may cost two to eight times this amount,     to heat generation.
+depending on the auxiliary equipment required,                                             The cost of a gas producer and the cleanup portion of
+including                                                     the gasifier system primarily should be the cost of
+• fuel storage bins                                          fabricating these units from sheet, plate, bar, and tube
+• fuel drying, screening, and pretreatment systems         stock. As tlie production volume for a particular design
+• devices to deliver and meter fuel fed to the gasifier       increases, there may be some benefit from using cus­
+• the gasifier itself                              tom stampings, spun domes and cones, and custom                                                               castings. However, tooling costs are significant for spe­
+• ash removal                                                 cialized, single-purpose components, so the effect of
+• a gas cleanup system                             mass production methods can be considered minor.
+• gasifier operational controls.                           Fabrication costs can be estimated by tabulating the
+                                                             costs of material (e.g., pounds of sheet metal, as well asThese factors are specific to the application, and they
+                                                       accessory hardware and fittings), fabrication (based onmust be evaluated economically and technically for
+                                                              factors such as the length of cuts, number of welds andeach application.
+                                                   bending operations, and amount of assembly), and
+                                                                                             addition, there willIn many cases, a gasifier might be considered simply     overhead expenses (Perry 1973). In
+as a retrofit to provide low-cost gas in place of more     be extra costs for completely automatic systems and for
+
+                     Table 13-2. Typical Costs of Various Fuels in Colorado (1983)
+
+                                  Energy                                                            Typical Cost
+Fuel                              Equivalence                        Typical Cost                      ($/MBtu)
+Natural Gas                               0.1 MBtu/therm                         $0.50/therm                         $5.00
+Oil                                    6.2 MBtu/bbl                            $30/bbl                              4.80
+Electricity                        3412 Btu/kWh                        $0.05/kWh                          14.60
+Coal                           24 MBtu/ton                            $40lton                                           1 .66
+Biomass                          16 MBtu/ton                            $32/ton                              2.00
+
+
+
+1 26    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,77 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+
+         Small and wide-angle X-ray scattering (SAXS and WAXS)         sample was then combusted in an oxygen combustion flask
+                                                                      containing 100 mL of total ionic strength adjustment buﬀer II        The SAXS and WAXS experiments were performed at beamlines
+                                                                    (TISAB II). Following combustion, the sample was equilibrated          1-5  and  11-3  of  the  Stanford  Synchrotron  Radiation
+                                                                                for 20 min. Total fluorine was then determined potentiometri-         Lightsource (SLAC National Laboratory, Menlo Park, USA),
+                                                                                     cally with an ion-specific electrode. The electrode was cali-           respectively. Powder samples were placed between two thin        Licence.                                                                  brated with a NIST traceable organic standard that contains        Kapton® films using washers. Pellet samples were attached to
+                                                                            fluorine prior to analysis, and within ± 0.3% absolute. Percent        Kapton® tape, while film samples were directly placed on the
+                                                             F was calculated based on the sample weight, solution volume        sample holder for transmission SAXS and WAXS measure-        Unported                                                           and fluoride concentration.         ments. Backgrounds from Kapton® films, tape, and air were   3.0
+        measured for each sample to perform background subtraction
+PM.       during data correction. The SAXS and WAXS data were reduced   Accelerated solvent extraction with gas chromatography mass
+                                                                      spectrometry (ASE GC-MS)
+
+                                                        An organic additive screen was conducted on all substrates6:34:53       using8.04) totheextractNika apackage1201D radial profile.for Igor Additionally,Pro (Wavemetrics,data correctionInc., Igor
+        was performed using MATLAB (R2021a) scripts. Detailed SAXS   using previously established methods utilizing GC-MS with
+        and WAXS experimental setup, data reduction and correction  minor  adjustments.37,125  For GC-MS  analysis,  accelerated
+                                                                           solvent extraction (ASE) was conducted using a Model ASE 2006/21/2024      can be found in Text S6.†
+                                                                         (Dionex, Germany). 500 mg to 1 g of cryomilled sample wason Attribution-NonCommercial
+       CHNS analysis                                          mixed with diatomite to  fill an ASE extraction cell. Samples
+                                                                   were then extracted using 50 : 50 hexane and ethyl acetate as
+        The polymer samples were analyzed for carbon, hydrogen,
+                                                                             extraction solvents. The oven temperature was 100 °C, with a
+          nitrogen, and sulfur (CHNS) using a LECO CHN 628 seriesDownloaded Commons                                                                                      static time of 15 minutes and run for 2 cycles. The extracted
+         with  Sulfur  Add-on  Module  (S628)  (LECO  Corporation;
+                                                                           solvent was dried completely under nitrogen, reconstituted2024.        St Joseph, MI, USA). CH and N were measured separately from        Creative                                                                     with 1 mL of dichloromethane (DCM), and analyzed using a a    S using previously established methods.121–123 Details on these
+                                                                     gas chromatography mass spectrometer with a flame ioniza-March       procedures can be found in Text S7 and Table S13.†26 under                                                                      tion detector  splitter (GC-MS/FID) on an Agilent 8890 GC
+on                                                                coupled to a 5977 EI MSD (Agilent, Santa Clara, CA, USA).          Inductively coupled plasma mass spectrometry (ICP-MS)
+                                                               Complete methods and conditions for the GC-MS/FID can be        licensed
+  is    Samples were screened for 68 elements by inductively coupled  found in Text S9 in ESI.†Published      plasma mass spectrometry (ICP-MS), before quantification.
+       article    The  initial screen established an approximate estimate  for   Pyrolysis gas chromatography mass spectrometry (PyGC-MS)
+          quantification. First, samples were microwave acid wet digestedArticle. This                                                      PyGC-MS  was  conducted  using  a tandem  micro-furnace
+       (MAWD) using a ultraWAVE Digester (Milestone, Sorisole, Italy)
+                                                                     PY-2020iS/Rx-5030TR    pyrolyzer    (Frontier    Laboratories,
+           (Text S8 and Table S14†). Initially, approximately 200 mg ofAccess                                                                  Koriyama, Japan) coupled to a GC-MS/FID (Agilent 7890B/5977A
+                                                              MSD). Approximately 1 mg samples of plastic substrate wereOpen       dilutedsample towere3%digestedacid in Milli-Qin 4 mLwater,of highandpurityscreenednitricusingacid (HNO3),ICP-MS
+                                                                     loaded into deactivated stainless-steel cups, then automatically
+         with high purity standard mixtures as reference. For quantifi-
+                                                                dropped into the pyrolysis zone set to 350 °C. The products
+           cation, approximately 250 mg of sample was digested in 4 mL                                                               from the pyrolysis zone were entrained in 54 mL min−1 of He
+        HNO3, and 2 mL 50% aqueous tetrafluoroboric acid (HBF4).                                                                                  carrier gas, then injected into the GC-MS/FID inlet with a liquid
+          Digestates were then diluted in Milli-Q water to 3% acid (0.5 mL
+                                                                         nitrogen trap. The condensable vapors were desorbed from the
+          in 15 mL total). For halogen analysis of Cl, Br and I, 0.5 mL of
+                                                                             liquid nitrogen trap and separated on an Ultra-Alloy-5 capillary
+         samples were diluted in a 15 mL total triethanolamine basic
+                                                            column (Frontier Laboratories, Japan). The GC oven was pro-
+          solution. Analysis was conducted on a triple quadrupole ICP-MS
+                                                        grammed as follows: hold at 40 °C for 2 min, then ramp to
+           (Agilent, Santa Clara, CA, USA) using previously established                                                                 300 °C at a rate of 10 °C min−1 hold for 5 min.
+         methods.124 Elements can have high backgrounds due to instru-
+                                                                    Data processing was conducted on MassHunter Qualitative
+         mental interferences and laboratory background noise includ-
+                                                                           Analysis 10.0 and MassHunter Unknowns Analysis software
+          ing Na, Si, K, and Ca, therefore method blanks were run simul-
+                                                                                   (Agilent). Library matching was conducted using NIST 2020
+          taneously in triplicate, averaged, and samples were blank sub-
+                                                           and F-Search libraries. Compounds with a 75% library match
+           tracted. Hg was semi-quantified using a proxy and adjusted
+                                                                   were reported, while lower matching percentages were reported
+         based on established instrumental responses, and boron was
+                                                                       as unknown. Library matching is considered tentatively identi-
+          semi-quantified with a 3-point  calibration curve using the
+                                                                                     fied, and compounds were not confirmed with standards.
+       HNO3 digestion screening method as described above.
+
+          Fluorine analysis
+                                         Data availability
+        Samples were sent to Intertek (Whitehouse, NJ) for total fluo-
+          rine analysis. Briefly, samples were weighed and transferred  The ESI† includes all graphs, figures, and methods referenced
+         onto a bed of mannitol wrapped in an ashless filter paper. The   in this manuscript. All data collected for each polymer can be
+
+
+
+        7086  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

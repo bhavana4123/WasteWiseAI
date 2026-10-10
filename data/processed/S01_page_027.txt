@@ -1,0 +1,45 @@
+                                                                   Agricultural Residues
+
+
+RIBIER GRAPES, VINEYARD PRUNINCS; solid; Material is considered biomass fuel and
+   has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 76.97, ash content = 3.03, and fixed carbon = 20.00.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+   qv(gross) = 8226 Btu lb-'
+   qv(gross) = 4570 cal g-'
+   qv(gross) = 19120 J g-l
+
+                                                                     85 JEN/EBE
+
+RICE HULLS solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 65.47, ash
+   content = 17.86, and fixed carbon = 16.67.  Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon
+    40.96, hydro en = 4.30, oxygen = 35.86, nitrogen = 0.40, sulfur = 0.02, chlorine = 0.12,
+                   = 18.34.   and residue ?ash)
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+   qv(gross) = 6944 Btu  lb;'
+    q,(gross) = 3858 cal g-
+    q,(gross)  = 16140 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net) = 6569 Btu  lb;'
+   qv(net) = 3650 cal g;
+   qv(net) = 15270 J g-
+
+                                                                      85 JEN/EBE
+
+
+
+
+
+                                         23

@@ -1,0 +1,52 @@
+the experimental team, these values are expected to be attainable within the time frame of the goal case
+with further research and development.
+
+
+        Table 12. Sludge biocrude hydrotreating experimental results and model assumptions.
+
+                                                              Experimental             Model
+                    Component                          (HT-62005-60)             (goal case)
+Temperature, °F (°C)                                       752 (400)              752 (400)
+Pressure, psia                                               1540                 1515
+Catalyst                                               CoMo/alumina-F         CoMo/alumina
+Sulfided?                                                  Yes            Purchased presulfided
+LHSV, vol./hour per vol. catalyst                                     0.18                     0.50
+WHSV, wt./hr per wt. catalyst                                       0.29                     0.81
+HTL biocrude feed rate, ml/h                                           5.6             Commercial scale
+Total continuous run time, hours                            302 (total run)          Not applicable
+Chemical H2 consumption, wt/wt HTL biocrude (wet)                 0.046                   0.044
+Product yields, lb/lb dry biocrude (vol/vol wet biocrude)
+    Hydrotreated oila                                            0.82 (0.99)               0.84 (0.97)
+    Aqueous phase                                              0.14 (0.13)               0.13 (0.19)
+    Gas                                                           0.08                     0.07
+Product oil, wt%
+   C                                                   85.6%                85.3%
+   H                                                   14.6%                14.1%
+   O                                                   1.0%                 0.6%
+   N                                                  <0.05%               0.04%
+   S                                                         7-10 ppm               0.0%
+Aqueous carbon, wt%                                       0.10%                0.17%
+Gas analysis, volume%
+    CO2, CO                                    0%              0%
+   CH4                                          51%               33%
+    C2+                                          49%               38%
+   NH3                                                Not measured            26%
+   NH4HS                                             Not measured           3%
+TAN, feed (product)                                        59 (<0.01)            Not calculated
+Viscosity@40 °C, cSt,
+    feed (product)                                          400 (2.7)            Not calculated
+Density@40 °C, g/ml,
+    feed (product)                                               0.98 (0.79)               0.98 (0.79)
+(a)  Yield after phase separation
+
+   The hydrocarbon compounds used to model the hydrotreated product are similar to those used for
+previous algae HTL modeling (Jones et al. 2014) and are listed in Appendix C. Figure 7 shows the
+boiling point curves from simulated distillation (ASTM Method D2887) for the hydrotreated product
+from experimental testing and the modeled hydrotreated product. Actual distillation was also performed
+on the hydrotreated product and matched well with the D2887 results.
+
+
+
+
+
+                                         21

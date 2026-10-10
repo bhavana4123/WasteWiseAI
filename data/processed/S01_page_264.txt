@@ -1,0 +1,49 @@
+                                                  Woody and Tree Materials
+
+
+PINE, PONDEROSA; HEARTWOOD LUMBER; Pinus ponderosa; solid; Lumber was air-
+   dried at room temperature.  Composition is ash = 0.24% and char yield = 20.3%.  Char
+   was obtained from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+    q,(gross) = 9020 Btu lb- 1                                                     =                                                                       1                                                      q,(gross)                                                    14120                                                            Btu                                                                                                     P-'                                                                      g-                                                      q,(gross)                                                     = 7840                                                               cal    q,(gross) = 5010 cal g-'
+    q,(gross) = 20970 J g-'                         q,(gtoss)  = 32820 J g-l
+
+                                                                   82SUS
+
+PINE, PONDEROSA; MT 77 FOLIAGE; Pinus ponderosa; solid; freeze-dried to
+   < 10% moisture content. Composition is ash = 2.94% and char yield = 29.0%.  Chat
+   was obtained from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+    q,(gross)  = 9640 Btu lb- 1                                                qv(gross) = 14030 Btu lb-'
+    q,(gross)  = 5350 cal g-l                     qv(gross) = 7790 cal g-'
+    q,(gross)  = 22400 J g- 1                                                  q,(gross) = 32600 J g-l
+
+                                                                 82SUS
+
+PINE, PONDEROSA; MT 78 FOLIAGE; Pinus ponderosa; solid; freeze-dried to
+   < 10% moisture content.  Composition is ash = 2.61% and char yield = 26.9%.  Char
+   was obtained from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+
+                                                     =                                                    13990                                                            Btu             9580                  Btu 1                      qv(gross)    q,(gross)            =                                                                             1P-'                                                                             g-            =    q,(gross)              5320cal                                                     q,(gross)                                                     = 7770                                                                  cal
+    q,(gross) = 22270 J g-l                        q,(gross)  = 32510 J g-'
+
+                                                                                                                             ,  82SUS
+
+
+
+
+
+                                        287

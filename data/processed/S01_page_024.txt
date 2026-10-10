@@ -1,0 +1,51 @@
+Agricultural Residues
+
+
+OLIVE PITS; solid; Material is considered biomass fuel and has proximate analysis values
+     (in percent by weight dry basis) for volatile concentration (VCM) = 78.65, ash
+    content = 3.16, and fixed carbon = 18.19.  Also the ultimate analysis of the elemental
+    composition of the fuel (values in percent by weight dry basis) is carbon = 48.81,
+   hydrogen = 6.23, oxygen = 43.48, nitrogen   0.36, sulfur = 0.02, and residue (ash) =
+     1.10.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 9202 Btu lb-I
+    q,(gross)  = 51 12 cal g-l
+    qv(gross) = 21390 J g-l
+
+   net heat of combustion: assume values refer to toom temperature.
+    qv(net) = 8636 Btu lb; I
+    qv(net)  4809 cal g-
+   qv(net> = 201 20 J g-l
+
+                                                                        85 JEN/EBE
+PEACH PITS; solid; Material is considered biomass fuel and has proximate analysis values
+    (in percent by weight dry basis) for volatile concentration (VCM) = 79.12, ash
+   content = 1.03, and fixed carbon = 19.85. Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 53.00,
+   hydrogen   5.90, oxygen = 39.14, nitrogen = 0.32, sulfur = 0.05, and residue (ash)
+    1.59.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+   sulfuric acids.
+
+   qv(gross) = 8957 Btu  Ib;'
+   qv(gross) = 4976 cal g-
+   qv(gross) = 20820 J g- 1
+
+   net heat of combustion: assume values refer to room temperature.
+    q,(net)  = 8441 Btu Ib; 1
+   qv(net) = 4689 cal g-
+    q,(net)  = 19620 J g-'
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                        20

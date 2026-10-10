@@ -1,0 +1,49 @@
+                   Laboratory – Exercise 2
+
+Pretreatment of High Free Fatty Acid Feedstocks
+
+Equipment needed:
+Sulfuric acid
+Methanol
+Four 500 ml Erlenmeyer flasks
+One liter each of four feedstocks of varying FFA level
+Four hot plate/stirrers
+Scale (reads to 0.1 g)
+
+Divide the class into four groups. Each group should have different feedstocks with varying free
+fatty acid levels.
+
+Procedure:
+   •  Measure the acid value of the feedstock. Remember that FFA% is approximately equal to
+        half the acid value.
+   •  Put 200 g of the feedstock into a 500 ml flask, heat to 60-65ºC.
+   •  Measure out in a 125 ml flask an amount of methanol equal to 2.25 g of methanol for
+       every gram of FFA in the flask. Add an amount of concentrated sulfuric acid equal to
+       0.05 g for every gram of FFA in the flask.
+
+Remember to always add acid to the alcohol and not the other way around. Why?
+
+   •  Gently agitate the methanol-acid mixture until well-mixed. Add to the feedstock. Agitate
+        at 60-65ºC for one hour. Let cool.
+   •  Measure the acid value of the fluid.
+
+You might not notice any separation of a methanol-water layer. This can take some time to occur
+because the densities of the two layers are close.
+
+Reminder: Acid Value Measurement
+1) Prepare two 600 ml beakers by adding 125 ml of solvent. The solvent consists of 50%
+isopropyl alcohol/50% toluene and should be available in the lab.
+2) Add about 5 grams of sample (weigh to get exact amount) to one of the beakers.
+3) Add 2 ml of phenolphthalein indicator to both beakers.
+4) Titrate both beakers with 0.1 N KOH to the first permanent pink color in each.
+5) Calculate the acid value from: AV = (A-B) x N x 56.1/W
+      where A = number of ml of KOH to neutralize sample beaker
+         B = number of ml of KOH to neutralize blank beaker
+        N = normality of KOH solution (0.1 in this case)
+      W = weight of sample in grams
+Remember that %FFA ≈ ½ (AV)
+
+
+
+
+                                      78

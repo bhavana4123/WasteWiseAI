@@ -1,0 +1,58 @@
+                                                 Woody and Tree Materials
+
+
+BIRCH, YELLOW; BARK; Betula alleghaniensis;solid; gross heat of combustion
+   determined on 1 g samples of air-dried bark; ash content   1.7%; moisture content =
+    5.2%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+
+    qv(gross)  9076 Btu              $'
+    q,(gross)  = 5042 cal g-
+   qv(gross) = 21096 J g-l
+
+                                                         55CHA/MIT
+
+BLACKGUM; Nysscz sylvatica; solid; air-dried at 105"-1 10°C (221 "-230'F);  density,
+    0.52 g
+
+    specific heat: 273-379 K (32O-223'F)
+
+  C (Btu lb-l  OF-')    = 0.325     P   Cp(cal q-' 5-l)    = 0.325
+   Cp(J g-  K         = 1.360
+
+                                                          12DUN
+
+BLACKGUM; Nyssa sylvatica; solid; Material was collected from the southern Atlantic
+   and Gulf coastal plains in bottom-, swamp- and wet flat-land natural stand sites.
+   Samples were dried at 70°C (158°F)to a constant weight; reported values were
+   averaged over all positions of similar plant tissue for each tree and six trees per
+    species were used.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   dry weight basis.
+
+    bole wood                               branch wood
+
+    qv(gross) = 8465 Btu lb-l                     qv(grOSS) = 8564 Btu lbl'
+    q,(gross)   4703 cal g-l                        q,(gross)  = 4758 cal g-
+    q,(gross)   19677 J g-l                        q,(gross) = 19907 J g-l
+
+    bole bark                               branch bark
+
+    qv(gross) = 8397 Btu lb-I                   qv(gross) = 8456 Btu lb-I
+    q,(gross)  = 4665 cal g-'                        q,(gross)   4809 cal g-l
+    q,(gross)   19518 J g-'                       qv(gross) = 20121 J g-1
+
+    foliage
+    q,(gross) = 8991 Btu lb- 1
+    q,(gross)  = 4995 cal g-l
+    q,(gross) = 20899 J g-'
+
+                                                       82GOW/FRE
+
+
+
+
+                                        24 1

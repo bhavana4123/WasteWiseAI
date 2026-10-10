@@ -1,0 +1,46 @@
+FLOUR, WHEAT; solid. the finely ground and bolted meal of wheat, Triticum aestivum;
+                       -3    density, 0.73 g cm  .
+
+   net heat of explosion: nonisothermal in air; temperature -250°C (482OF).
+
+    qp(net) = 333 Btu lb-I
+   q (net) = 185 cal    P
+   q (net) = 774 J    P
+    specific heat: 100°-2500C (212"-48Z°F)
+
+   Cp(Btu lb-l  OF-')    = 0.5
+   Cp(cal 4-l 5-l)    = 0.5
+   Cp(J g-  K   )       = 2.1
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   graham, whole grain; 10.5% moisture       semolina; 7.57% moisture
+    qv(gross) = 7207 Btu lbl 1                                               qv(gross) = 7488 Btu lb;'
+    qv(gross) = 4004 cal g,                         q,(gross) = 4160 cal g-
+    q,(gross)  = 16750 J g-                       qv(gross) = 17405 J g-'
+
+   standard patent; 10.3% moisture
+    q,(gross)  = 7218 Btu lbl 1
+    q,(gross)  = 4010 cal g-
+   qv(gross) = 16780 J g-l
+
+                                               55MER/WAT; 69ABR/ABR
+
+FOOD WASTES, VEGETABLE; solid; ultimate analysis: carbon, 49.06%; hydrogen, 6.62%;
+   oxygen, 37.55%; nitrogen, 1.68%; sulfur, 0.20%; ash, 4.8%; proximate analysis as
+    received: moisture, 78.29%; volatile matter, 17.10%;  fixed carbon, 3.55%; ash, 1.06%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   as received                               dry basis
+    q,(gtoss)  = 1796 Btu lp- 1                     q,(gross) = 8276 Btu lb; 1
+    q,(gross) = 998 cal g-                          q,(gross) = 4598 cal g-
+    q,(gross)  = 4175 J g-'                         q,(gross)   19236 J g-'
+
+                                                                   66KAI
+
+
+
+
+
+                                       87

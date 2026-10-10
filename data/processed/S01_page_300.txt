@@ -1,0 +1,58 @@
+                                 Appendix B
+
+          ADDITIONAL INFORMATION ON HEATS OF COMBUSTION
+                     OF BIOMASS MATERIALS
+
+The main body of this publication contains several hundred listings of measured heats of
+combustion of biomass materials.  Still, this is only a small sampling of the extant data.
+Listed below are several references to additional, often special, materials for which
+heats have been determined. Again, this is only a sampling and shows the diversity of
+sources of such published information. Also listed are names and addresses of several
+likely continuing sources of new information on heats of combustion of biomass
+materials.
+
+A.  References to Correlations and General Remarks about Biomass Fuel Values
+
+      1.    Jenkins, B.M. and J.M. Ebeling (1985).  "Correlation of Physical and Chemical
+          Properties of Terrestrial Biomass with Conversion'' in Energy from Biomass
+         and Wastes I X .  Jan. 1985. Lake Buena Vista, Florida.  Institute of Gas Tech-
+           nology.
+
+         Develops correlations, based on experimental data for 62 samples of field crop
+           residues, orchard prunings, vineyard prunings, food and fiber processing wastes,
+          forest residues, and land-based crops. Correlation equations are derived to
+          predict heating values (dry basis) from (a) ash content only; (b) ash and volatile
+         matter from proximate analysis; (c) carbon only, from ultimate analysis; and
+            (d) a combination of carbon, hydrogen, and oxygen content from ultimate
+           analysis.  (Several entries in this handbook come from this source.)
+
+       2.    Graboski, M. and R. Bain (1981).  In Reed, T.B.,  ed. Biomass Gasification:
+          Principles and TechnoZogy, pp. 4 1-7 1. Noyes Data Corporation: Park Ridge,
+            N.J.
+
+         Three correlations are compared for whole biomass and for chars: (a) The
+           historical Dulong-Berthelot equation:
+
+              HHV (Btullb)  146.76 C + 621 H - N+o    + 39.96 S;
+
+            (b) the Tillman correlation (see below); and (c) the IGT correlations (see
+           below).
+
+      3.    Tillman, D.A. (1978). Wood as an Energy Resource, New York: Academic
+           Press.
+
+         Uses the simple correlation: HHV (Btu/lb) = 188 C-718
+
+     4.    Institute of Gas Technology.  (1978). Coal Conversion Systems Technical Data
+         Book. DOE Contract EX-76-C-0 1-2286,  Available NTIS, Springfield, VA.
+
+          HHV(Btu/lb) = 146.58 C + 568.78 H - 51.53 (0+ N) - 6.58 A + 29.45 S
+
+          This correlation, which works well for both whole biomass and chars, is dis-
+          cussed and applied in Appendix A of this publication.
+
+
+
+
+
+                                             3 26

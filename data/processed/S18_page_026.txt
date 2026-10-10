@@ -1,0 +1,51 @@
+3  Process Design and Cost Estimation Details
+
+The process design described in this study was based upon demonstrated performance and
+planned performance goals from DOE’s core R&D efforts in biochemical conversion. This
+section describes the process in detail and discusses the influence of specific R&D goals in the
+decision-making process.
+
+3.1  Area 100: Feedstock Storage and Handling
+
+3.1.1 Overview
+Area 100 handles incoming biomass feedstock. In contrast to the 2002 design, which assumed
+bale delivery and yard storage of corn stover followed by milling and washing, the present
+design assumes that corn stover is delivered according to the specifications detailed in the Idaho
+National Laboratory (INL) design report for the pioneer uniform-format feedstock supply system
+[24]. In this envisioned design, biomass is stored in a central depot and is preprocessed and
+homogenized to a degree before delivery, such that the biorefinery receives feedstock with
+known, uniform-format specifications including particle size distribution, moisture content, and
+bulk density.
+
+Harris Group designed the receiving and handling system in Area 100 based on this delivery
+specification, using the INL design report as well as its own experience with the required
+equipment. The equipment in Area 100 is physically located at the ethanol plant and consists of
+weighing and unloading stations for incoming biomass supply trucks, short-term queuing
+storage, and conveyors for feeding bulk feedstock to the pretreatment reactor. A simplified
+process flow diagram for this area is shown in Figure 5, and more detail is given in PFD-P120-
+A101 (Appendix E).
+
+
+
+                              Dust collection
+
+
+
+
+  Truck tipper
+   Milled corn stover
+
+
+
+
+
+                                                                                          To pretreatment
+                                          Concrete storage dome
+
+               Figure 5. Simplified flow diagram of the feedstock receiving system
+
+
+
+
+
+                                      16

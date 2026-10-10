@@ -1,0 +1,50 @@
+sample containers are unavailable, gas samples can be     7.6.2 Methods of Analysis
+ collected in glassbottles by water displacement, insert­
+ing a stopper while the bottle is submerged and sealing      7.6.2.1 Gas Chromatography
+by dipping the stoppered opening in paraffin.     Gas chromatography (GCl is the most widely used
+Whichever container is used, the samples should be    method ofgas analysis. It depends on the ability of cer­
+tested as soon as possible, since hydrogen can rapidly     tain adsorbent materials to selectively slow the rate of
+ diffuse through rubber seals and stopcocks, thereby     gas passage through a column packed with the adsor­
+changing the gas composition in a few hours.              bent. Hydrogen is slowed least, CO, N2, and O2 are
+
+
+
+
+
+             c
+
+
+
+
+
+                                                                                                         (c)
+
+                                          500 ee
+                                      = ĕ ----= -::- ---=
+               -250                             - - - - s - - ---                            ee'̶                         -: A̷ _-__
+
+
+                                           (a)
+
+                                                                                                         (d)
+
+
+
+
+
+                                                                                                             (e)
+
+
+
+
+
+                                       (b)
+
+
+Fig. 7-14. Apparatus fordrawinggas samples: (a) Filling sample containers byliquiddisplacement; (b) hand-operatedpiston vacuum pump;   motor­                                                                                                                                                                (e)
+driven rota!}, vacuum pump; (d) rubber bulb hand aspirator; (e) Chapman filterpump  (Source: (a, d, e) ASME 1969, Figs. 6 and 7)
+
+
+
+
+62    Handbook of Biomass Downdraft Gasifier Engine Systems

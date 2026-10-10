@@ -1,0 +1,35 @@
+                                                                                                                                                                                                                                                  I
+
+
+                               SI Derived Units (Partial Listing)
+
+                                        Symbol      Definition         Qther
+                                              for SI unit      of SI unit         Definitions
+
+force                         newton      N          rn kg sd2
+pressure                         pascal        Pa         m-' .kg .s**       N * m-2
+energy                              joule           J          rn2 - kg  s-'        N - m
+                                                         2      -3power                          watt        W           rn  mkg.5           f .,-I
+
+electric charge                coulomb     C
+electric potential difference      volt          v                              W.A-'
+
+electric resistance            ohm           D                            V.A-l
+
+electric conductance            siemens       S                     A V-l
+electric capacitance             farad        F                   c * v-l
+
+magnetic flux                  weber       Wb                       v-s
+
+inductance                     henry       H                       Wb- A-'
+                                                                                              -2magnetic flux density              tesla        T                         Wb-rn
+
+luminous flux                  lumen             Irn       cd-sr
+                                                                    -2illumination                        lux              Ix          rn   .cd.sr
+                                                             -1frequency                        hertz        Hz        S
+
+
+
+
+
+                                        334

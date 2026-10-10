@@ -1,0 +1,39 @@
+                                                                            Fossil Materials
+
+
+PEAT; solid; raw; highly organic soil containing partially decomposed vegetable matter
+   and having more than 50% combustible content.
+
+   gross heat of combustion: assume values refer to room temperature; data are
+   calculated to a dry basis.
+
+   sample 1; air-dried; moisture, 8.68%; volatile matter, 50.92%; fixed carbon, 23.79%;
+   ash, 16.61%; sulfur, 0.99%.
+    q,(gross) = 8237 Btu lb; 1
+    q,(gross) = 4576 cal g-    q,(gross)  = 19146 J g- 1
+
+                                                          18POO
+
+   sample 2; brown fibrous; air-dried; moisture, 6.34%; ash, 7.93%; sulfur, 0.69%.
+
+    q,(gross)  = 9920 Btu lbll
+    q,(gross) = 551 1 cal g-
+    q,(gross)  = 23058 3 g-'
+
+   sample 3; black; air-dried; moisture, 6.62%; ash, 24.44%; sulfur, 0.65%.
+   qv(gross) = 7695 Btu lbl 1
+    q,(gross)  = 4275 cal g-
+   qv(gross) = 17887 J g- 1
+
+   sample 4; brown; air-dried; moisture, 12.10%; ash, 7.22%; sulfur, 0.83%.
+    q,(gross)  = 8743 Btu lbi 1
+   q,(gross)  = 4857 cal g-
+   q,(gross) = 20322 J g-'
+
+                                                             11DAV
+
+
+
+
+
+                                       123

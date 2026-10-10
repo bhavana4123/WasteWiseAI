@@ -1,0 +1,31 @@
+engine sealing improvements, improved generator design with longer life magnet, and enhanced
+cooling.
+
+Key technical developments of the C370 model, shown schematically in Figure 5-8, include:
+
+    •   Dual property, high-temperature turbine
+    •   High-pressure compressors (11:1) and recuperator
+    •   Dual generators – both low pressure and high-pressure spool
+    •   Dual spool control development
+    •   High-temperature, low emissions combustor
+    •   Inter-state compressor cooling
+
+
+        Figure 5-8. Capstone C370 Two-shaft High Efficiency Turbine Design
+
+
+
+
+
+             Source: DOE, Energy Efficiency and Renewable Energy Fact Sheet
+
+The C370 model will use a modified Capstone C200 turbocompressor assembly as the low-pressure
+section of a two shaft turbine. This low-pressure section will have an electrical output of 250 kW. A new
+high-temperature, high-pressure turbocompressor assembly will increase the electrical output to 370
+kW.
+
+
+
+
+
+Catalog of CHP Technologies                         5–18                                  Microturbines

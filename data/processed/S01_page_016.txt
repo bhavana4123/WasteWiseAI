@@ -1,0 +1,52 @@
+Agricultural Residues
+
+
+BEAN STIRAW; solid; Material is considered biomass fuel and has proximate analysis
+    values (in percent by weight dry basis) for volatile concentration (VCM) = 75.30, ash
+   content = 5.93, and fixed carbon = 18.77.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 42.97,
+   hydrogen = 5.59, oxygen = 44.93, nitrogen = 0.83, sulfur = 0.01, chlorine = 0.13; and
+    residue (ash) = 5.54.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross) = 751 1 Btu Ib; I
+    q,(gross) = 4173 cal g-
+    q,(gtoss)  = 17460 f g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net) = 7021 Btu  Ib;'
+   qv(net)  3901 cal g-
+   qv(net) = 16320 J g-'
+
+                                                                85JEN/EBE
+BLACK WALNUT, ORCHARD PRUNINGS;solid; Material is considered biomass fuel and
+   has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 80.69, ash content = 0.78, and fixed carbon = 18.53.  Also the
+   ultimate analysis of the elemental composition of the fuel (values in percent by
+   weight dry basis) is carbon = 49.80, hydrogen = 5.82, oxygen = 43.25, nitrogen   0.22,
+    sulfur = 0.01, chlorine = 0.05, and residue (ash) = 0.85.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 8531 Btu  Ib;'
+    q,(gross)  = 4739 cal g;
+    q,(gross) = 19830 J g
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net) = 8023 Btu  lb;'
+   qv(net) = 4457 c a l g i
+   qv(net) = 18650 J g
+
+                                                                    85 JENlE6E
+
+
+
+
+
+                                      12

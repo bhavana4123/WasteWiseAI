@@ -1,0 +1,49 @@
+                                                         Biomass-Derived Materials
+
+
+a-CELLULOSE, FROM LOBLOLLY PINE WOOD; Pinus taeda; solid; modification of
+   cellulose which has the highest degree of polymerization; chief constituent of paper
+    pulp: 46.70% a-cellulose [68McM]; repeating unit: C6H 0O5.,
+
+   specific heat: 333-413 K (140"-284"F); samples were oven-dried at 100°C (212°F) for
+   12 hours before measurements were made.
+
+   Cp(Btu lb-I  OF-')    = 0.2357 + 5.5 x    T   Cp(cal 9-1 K -1      = -0.01708  + 9.9 x    T
+   Cp(J g-  K-l)       = -0.07146 + 4.14  x     T
+
+                                                                  70Mch
+
+CELLULOSE; solid; Extracted wood of northern red oak (Quercus rubru) was divided into
+   three major chemical components and cellulose comprised 42.86%.  Material has a
+   repeating unit of (C,HloOs).  The relationship between gross heat of combustion and
+   moisture content (MC)is given by the regression equation: anqv(Btu lb-I) =
+   8.9044-(0.0022)MC(%).
+
+   gross heat of combustion: oven dry basis, assume room temperature, and values are
+   reported in international British thermal units per pound, and converted below into
+   thermochemical units.
+
+    qv(gross) = 7325 Btu lb;'
+    qv(gross) = 4069 cal g-
+    q,(gross)  = 17026 J g-l
+
+                                                      78MUR/MAS
+
+CELLULOSE; solid; repeating unit: C6H100S;constitutes about 60% of the composition
+    of wood; hydrolysis can reduce cellulose t o a cellobiose repeating unit, C ]. 2H2201 1,
+   and ultimately to glucose, C6H1206.
+
+   gross heat of combustion: at 30°C (86°F)
+
+   from cotton linters:                     from wood pulp:
+                                                                                      1    q,(gross)  = 7497 Btu Lb-l                       q,(gross)  = 7509.6 Btu lb;
+    q,(gross)  = 4165.0 cal g-l                      q,(gross)  = 4172.0 cal g-
+    q,(gross)   17426.4 f g-l                     q,(gross) = 17455.6 3 g-l
+
+                                                                    50 JES/PRO
+
+
+
+
+
+                                        67

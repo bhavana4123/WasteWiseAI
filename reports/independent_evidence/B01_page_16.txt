@@ -1,0 +1,44 @@
+Appl. Sci. 2022, 12, 4822                                                                                                        16 of 25
+
+
+
+                           organic compounds passing through. HHV values for the second cut and the aqueous
+                         phase were found to be rather constant. The low values of the aqueous fraction were
+                            obviously due to water predominance in the composition. The average value for the bio-oil
+                              collected in the second condenser, which is the targeted liquid for the bio-fuel application,
+                         whether it is for combustion of the raw product or for the upgrading path, was shown to
+                         be signiﬁcantly high (≃21.5 MJ kg−1).
+                           The targeted oil fraction (i.e., the second cut) presented highly considerable HHV,
+                              therefore, concentrating a signiﬁcant share of energy that can be further transferred into
+                              fuels for transport after further upgrading, while the other two fractions should not be
+                           underestimated as to what concerns the potential precursors towards chemicals production.
+                                     Finally, it was observed that the aqueous phase contains mainly light organic com-
+                       pounds such as acetic acid and phenol, which could be potentially extracted and further
+                          processed into bio-based commodity chemicals for several applications in the chemical
+                            industry [38,63,64].
+
+                                   3.5. Mass Balance and Yield Calculations
+
+                            The experimental campaign produced 11 samples of bio-oils (divided among the ﬁrst,
+                            second, and aqueous phase fractions) and as many measurements on the non-condensable
+                              gases. Differently, char maintained uniform properties for all runs since it was not affected
+                        by any upstream variation from the bio-oil condensing apparatus.
+                            The mass balance closure of the experiments was always between 88% and 95%, with
+                        an overall average of 92%. Product yields have been determined on an as-received basis.
+                       The overall liquid yields were obtained approximatively equal either for the ESP setup or
+                            the quenching columns systems. The average ﬁgures are in good agreement with those
+                      shown in the literature [4] and can be summarized as follows: 12.7% of produced char,
+                         62.9% of bio-oil, and 15.4% of non-condensable gases. The average mass balance closure
+                       was calculated at approximately 92% of the initial feedstock, and results are reported in the
+                         Sankey diagram given in Figure 7.
+
+
+
+
+
+                              Figure 7. Average mass balance (Nitrogen-free).
+
+                                  Hereafter, Table 8 shows the bio-oil yield and distribution among the condensers as
+                          a function of the temperature in the ﬁrst step. Initially, the ESP setup was operated for
+                              several trials keeping the condensing temperature ﬁxed (Tcond = 70 ◦C) in order to evaluate
+                           procedures and results in reproducibility. The results have shown good replicability.

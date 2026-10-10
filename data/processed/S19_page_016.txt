@@ -1,0 +1,55 @@
+                         Table 4. Sample Analysis Plan and Schedule
+     Sample          Measurement            Technique              Schedule
+                                            105°C oven
+                          Total solids                                   One sample from each CS
+ Corn stover                                Wet chemistry and near                         Solids compositiona                                                    lot place in DI tank
+                                                          infrared (NIR)
+                          Total solids              40°C vacuum oven
+                         Liquor compositionb,c,d      HPLCe-Shodex, Fast Acid    One sample from each
+ Spent caustic liquor                        Soluble lignin               Spectroscopic                deacetylated CS lot
+                         Liquor density              Densitometer                prepared in DI tank
+                          Total solids              40°C vacuum oven         One sample from each Acid-impregnated
+                          Total solids                   Infrared balance              deacetylated CS lot feed                         Solids compositiona       Wet chemistry               prepared in DI tank
+                          Total solids
+                          Insoluble solids           40°C vacuum oven
+                         Liquor composition         Best available method        3 random samples from
+                            concentrationb,c,d          HPLC-Shodex, Fast Acid    HSEHR after completely Pretreated slurry
+                         Solids composition        Wet chemistry                        filling the tank and then
+                         concentratione              Spectroscopic                 extensively mixing the slurry
+                        Soluble lignin              Densitometer
+                         Liquor density
+                                                                      4 times during pretreatment Flash tank stream     Component concentrationd  HPLC-Fast Acid
+                                                                                   operation
+                                                                      4 times during pretreatment Vent stream          Component concentrationd  HPLC-Fast Acid                                                                                   operation
+                  pH
+                      Glucose concentration
+                                      pH meter
+                         Liquor composition                                              YSI                           concentrationb.d*                                            HPLC-Shodex, Fast Acid
+ Enzymatically           Liquor composition                                        At 3, 6, 12, 24 h and every
+                                          HPLC-Shodex hydrolyzed slurry        concentrationc                                     24 h thereafter
+                                         Wet chemistry                         Solids composition
+                                                 Best available method                          concentrationf                                                  Densitometer
+                          Insoluble solids
+                         Liquor density
+                  pH
+                         Liquor composition       pH meter
+                          concentrationbd*           HPLC-Shodex, Fast Acid
+                                                                                  At 0, 3, 6, 12, 24 h and
+ Fermentation broth      Liquor composition        HPLC-Shodex                                                                               every 24 h thereafter                          concentrationc             Best available method
+                          Insoluble solids            Densitometer
+                         Liquor density
+                      Glucose concentration
+                                              YSI                          At 0 h, final time point, and
+                OD                                                 Spectrometer               as needed to track glucose
+ Seed culture           Composition                                            HPLC-Shodex, Fast Acid      concentration and OD                           concentrationb,d
+                                         Oven drying                   during cell growth                      Dry cell weight (DCW)
+a Glucan, xylan, galactan, mannan, arabinan, sucrose, extractives, lignin, ash, acetyl
+b Monomeric glucose, cellobiose, xylose, arabinose, galactose; data required 2 days after run completion
+c Oligomeric sugars (total sugars)
+d Furfural, hydroxymethylfurfural (HMF), acetic acid, ethanol
+e High performance liquid chromatography
+f Glucan, xylan, galactan, mannan, arabinan, lignin, ash, acetyl
+*Monomeric sugar and ethanol/inhibitor data required within 24 h of sampling
+
+
+                                      9

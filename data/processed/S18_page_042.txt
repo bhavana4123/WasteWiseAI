@@ -1,0 +1,46 @@
+were based on vendor (Lotus) quotes obtained by Harris Group. Large agitators tend to be top-
+mounted because they are more energy-efficient than side-entry agitators.
+
+Harris Group obtained quotes from Alfa Laval for the plate and frame heat exchangers in this
+area (H-300, H-310). The incoming hydrolysate cooler is a shell-and-tube heat exchanger from
+Fox Engineering.
+
+3.3.4 Achieving the Design Case
+For the enzymatic hydrolysis and fermentation area, Table 15 shows the demonstrated results
+used in the State of Technology (SOT) cases from 2008 to 2010 and the ultimate 2012 targets
+(i.e., those used in the Aspen model).
+
+     Table 15. Research Status and 2012 Targets in Enzymatic Hydrolysis and Fermentation
+                                        2008        2009        2010        2012
+                                           State of      State of      State of      Targets
+                                    Technology  Technology  Technology
+  Total solids loading (wt %)              20%       20%        17.5%      20%
+                                     Washed-     Washed-     Washed-      Whole-  Enzymatic hydrolysis substrate                                                   solids          solids          solids          slurry
+  Combined hydrolysis and fermentation                                         7           5           5           5  time (days)
+  Corn steep liquor loading (wt %)          1%       1%       1%        0.25%
+  Overall cellulose to ethanol conversion                                      85.5%      84%       87%       85.5%  (through hydrolysis and fermentation,%)a
+  Xylose to ethanol fermentation                                 80%       82%       79%       85%  conversion (%)
+  Arabinose to ethanol fermentation                               0%       51%       68%       85%  conversion (%)
+a Assumes 95% glucose-to-ethanol conversion.
+
+Enzymatic hydrolysis and fermentation experiments are typically “integrated” with pretreatment,
+meaning that a single large batch of pretreated material is used to perform many hydrolysis and
+fermentation experiments. Integrated performance results for the process configuration and
+operating conditions assumed in the 2002 design (i.e., 20% total solids loading with overliming)
+[2] were first produced in 2005. In 2008, integrated experimental results advanced significantly
+toward the 2012 targets following the replacement of overliming with ammonium hydroxide
+conditioning, which demonstrated a slightly improved cellulose-to-ethanol yield and
+significantly better xylose-to-ethanol yield due to decreased sugar losses and improved
+hydrolysate fermentability [32].
+
+Enzymatic Hydrolysis
+In all of the SOT experiments shown in Table 15, the pretreated hydrolysate underwent solid-
+liquid separation and the liquor was conditioned with ammonium hydroxide as described
+previously. In these so-called washed-solids experiments, enzymatic hydrolysis was performed
+only on the pressed and washed pretreated solids (i.e., in the absence of pretreatment liquor). The
+conditioned liquor was added back to the hydrolysate slurry just before fermentation. The 2012
+targets for enzymatic hydrolysis, however, assume a whole-slurry process, in which the whole
+pretreated slurry is neutralized, hydrolyzed, and fermented without a complicated and costly
+solid-liquid separation step. Based on bench-scale testing at NREL, Larox (now Outotec) helped
+
+                                      32

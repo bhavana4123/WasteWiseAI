@@ -1,0 +1,65 @@
+                       Table 5-4. Prediction of Zone Length for Different Fuel Sizes
+
+ Parameters                                        Small Chips      Inch Chips     Sawdust Cubes   Peat Pellets
+ Gasifier Inputs
+ Proximate Analysis: (Dry BasiS)
+   Volatile                                                    .90              .803                    .90               .65
+  Char                                                      .10              .188                   .10              .35
+  Ash                                                               .01              .009                      .01              .05
+  Water                    Fw                       .20              .027                   .05               .25
+ Fuel Properties:
+   Density                     p      g/cm3           .40                .40                        1 .00             1.10
+   Bulk Density                         g/cm3            .20                 .15                   .50              .45
+  Void Fraction                  Fv                        .50                 .63                   .50               .59
+   Length                        cm                 1 .00              2.00                 5.00                  1 .00
+  Width                         cm                 1 .00              2.00                 3.00               .30
+   Height                         cm                .20                 .50                 3.00               .30
+  Average Equivalent Diameter         cm              4.41                   1 .56                  4.41                 .51
+                                         3  Volume                V     cm               .20              2.00               45.00               .07
+  Area                  A     cm 2           2.80             12.00               78.00                 1 .38
+Gasifier Conditions:
+  Diameter                  Dg    m                .15                .15                   .15               .15
+  Heat Transfer                q      W/cm2         2.00              2.00                2.00             2.00
+  Feed Rate             M       kglh                  1 0                     1 0                        1 0                   1 0
+   Specific Feed Rate        m      kg/m2h        566            566               566           566
+
+Gasifier Parameters
+Pyrolysis Zone:
+  Reaction Time                    tp       s              43              73               656            93
+  Fuel Velocity                       vf      cm/s           .079               .105                   .031             .035
+   Pyrolysis Length                       Ip     cm            3.38              7.64               20.33            3.26
+Char Zone:
+  Reaction Time                     te       s                    1 00                     1 00                100            100
+  Char Zone                     cm            7.90                  1 0.50                   3.1 0             3.50Notes:  Calculations based on the followingIe  equations and assumptions:
+                        Fw hw) P VIA q       Time of pyrolysis: tp = (hp +
+        Fuel velocity: VI = m/DgP (1 -Fv)
+        Flaming pyrolysis zone length: I                                  p = vf tp
+       Temperature of pyrolysis = 60Qoe
+       Heat of pyrolysis: hp = 2081 Jig
+        Heat to vaporize water to 60Qoe: hw = 3654 Jig
+       Char reaction time: Ie = 1 00 5
+       Char zone length: Ie = (lcHvl)
+Source: Reed 1984
+
+of gasifiers that convert the maximum quantity of tar to     In his thesis, Groeneveld used cold flow models to in­
+gas during gasification.                                    vestigate the flow of gases around a nozzle. He found
+                                                            that the incoming air stream entrains and burns tar­
+5.9.2 Combustion of Tars                          laden gas as shown in Fig. 5-9 if the gasifier is proper­
+                                                          ly designed (Groeneveld 1980a,b). After publication ofThe tar levels from a number of gasifiers are shown in
+                                                         these results, a gasifier using this principle (a central
+Table 5-5. (One cubic meter of producer gas weighs
+                                                                air nozzle promotes recirculation and combustion of
+about 1 kg at NTP; therefore a tar level of 1 g/m3 cor­
+                                                       the volatiles produced in pyrolysis) was designed andresponds to a concentration of 1000 ppm or 0.1%;
+                                                  marketed in the Netherlands.1 mg/m3 is 1 ppm by weight, and we shall use this
+equivalence in discussing tar levels.) It is important to    The DeLaCotte tar-recycling gasifier (Fig. 5-15) was the
+note that updraft gasifiers generate 5% to 20% tar      first tar-burning gasifier. It has two solid-fuel chambers
+(50 ,000-20 0 ,000 ppm!) (Desrosiers 1982). The    and a gas-combustion chamber on the side. Fuel is
+downdraft gasifiers of Table 5-5 produce tar in amounts    pyrolyzed in the upper part of the fuel chamber.
+at least an order of magnitude lower than the updraft     Pyrolysis products are aspirated out the top to the side
+gasifiers, and new developments are now reducing tars    combustion chamber using the flow of combustion air
+into the 100 to 1000 ppm level.                          in an ejector, where they burn completely at high
+
+
+
+                                                                                               Gasifier Designs    43

@@ -1,0 +1,48 @@
+regarded as only temporary modifications for wartime    2.3 Future Development Directions
+conditions. However, a few car makers went so far as
+to modify the body work for gasifier installation. Soon     Predicting the needs and direction of development in
+ after the war, low-cost gasoline became available again,    our modern world is very dangerous, because we don't
+and most users went back to burning gasoline because    know how future conditions will change and what our
+of its convenience.                                     response will be. Since the first OPEC embargo in 1973,
+                                         we have oscillated between a concern with energy sup­
+                                                             plies and business as normal. Therefore, we can't
+                                                          predict which direction we are likely to go, but we can2.2 Current Development Activities
+                                                               at least list the possible options and factors that affect
+After the OPEC oil embargo of 1973, there was renewed     the choice.
+ interest in all forms of alternative energy, including gas
+                                                        In normal times, development is driven by economicproduced from coal and biomass. Most of the early                                                           considerations, and some of the economic factors in­work supported by the United States and foreign                                                         fluencing use of gasification are listed in Chapter 13. Inenergy establishments focused on large-scale coal-fed
+                                                       times of emergency, om priorities change drasticallygasifiers that were intended to produce synthetic                                               and quite different developments occur.natmal gas as a fuel. There was little interest in biomass
+or biomass gasification (PNL 1986). except for groups     Small gasifiers were developed very rapidly during the
+concerned with uses in less developed countries (NAS    emergency of World War II and just as rapidly disap­
+1983; Kjellstrom 1981, 1983, 1985) and private     peared when liquid fuels were available. Transporation
+individuals (Skov 1974; Mother 1982; TIPI 1986).            is a very high priority, and the U.S. Department of
+                                                     Defense currently has a program to disseminate infor­Recently, there has been increased interest in biomass                                                   mation on small gasifiers in case of national emergency.as a renewable energy source. In the last few years, a                                                  However, for economic reasons, no work on gasifiersnumber of individuals and groups have built versions
+                                                             for vehicles is in progress in the United States. Duringof small downdraft gasifiers and have operated them as                                                      the late 1970s, we imported more than 40% of our oil.demonstration units. A few of the gasifier-powered                                     We reserved much of our liquid fuel for transport, andvehicles from this effort are shown in Fig. 2-2, and                                                          there was no government call to develop gasifiers in thetoday one can obtain shop plans for constructing                                                   United States. (However, Sweden-Volvo manufactured
+gasifiers (Nunnikhoven 1984; Mother 1982; Skov                                               and stored 10,000 units for emergency use.)1974). Unfortunately, no body of information is avail­
+able to help either the latter-day hobbyists or their     In the private sector ofthe United States during the last
+counterparts involved in full-time research to evaluate     10 years, there has been a corresponding development
+critical factors such as gasifier operation, gas quality,     of biomass gasifiers for heat applications at the scale
+gas-cleanup systems, engine operation, and engine    found in lumber and paper mills. There has been inter­
+wear.                                                          est in power generation at a small scale in the United
+                                                            States stimulated by attractive power buy back rates inInterest in small-scale gasifiers is strong among or­                                             some states under the Public Utilities Regulatoryganizations that deal with less developed countries                                                        Policy Act (PURPA) discussed in Chapter 13.
+such as the World Bank, the U.S. Agency for Interna­
+tional Development, and the equivalent organizations   A very active area of development for small gasifiers is
+in European countries. The Producer Gas Roundtable     to generate power in developing countries, which have
+(of the Beijer Institute in Stockhohn) has published a     biomass resources and cannot easily afford liquid fuels.
+number of books on gasification and drawn together    They do not have an electrical distribution grid so
+technical expertise from around the world. In addition,    power systems of 10 to 1000 kW are very attractive.
+this group has hosted several conferences on producer     Thus, the scale of operation has an important influence
+gas for less developed countries (Kjellstrom 1981,    on what is developed in this case.
+1983,1985).
+                                                              Finally, new developments in gasifiers may extend
+Producer gas from charcoal has been developed com­     their use to other new areas. One of our authors (Das)
+mercially in the Philippines (Kjellstrom 1983), where    has developed a small gasifier suitable for firing a
+more than 1000 units have operated. Producer gas is     foundry. The other author (Reed) is developing small
+generated for industrial heat by more than 30 large     batch-type gasifiers for cooking and lighting applica­
+units operating in Brazil (Makray 1984).                   tions in third world countries.
+
+
+
+
+
+                                                              History, Current Developments, and Future Directions   7

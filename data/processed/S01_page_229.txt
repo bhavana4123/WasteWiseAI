@@ -1,0 +1,50 @@
+Woody and Tree Materials
+
+
+EXCELSIOR, DEAD WOOD; Populus spp.; solid; Dead wood was air-dried at room
+   temperature. Composition is ash = 0.35% and char yield   15.4%. Char was obtained
+   from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+    q,(gross)   8430 Btu lb- 1                                                   q,(gross) = 13930 Btu 1
+   qv(gross) = 4680 cal g-l                        q,(gross)  = 7740 cal g-
+   qv(gross) = 19600 J g- 1                                                       q,(gross)   32370 J g-l
+
+                                                                    82SUS
+
+FIR; Pinus silvestri; solid; ultimate analysis: carbon, 50.36%; hydrogen, 5.92%; nitrogen,
+   0.05%; ash, 0.28%.
+
+   gross heat of combustion: 20°C (68'F); air-dried at 110'-1 lSoC (230"-240"F),  ash
+    free.
+    q,(gross)  = 9068 Btu lbl 1
+   qv(gross) = 5038 cal g-
+    q,(gross)  = 21079 J g-l
+
+                                                               I883GOT
+
+FIR, BALSAM; BARK; Abies balsamea; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content = 2.3%; moisture content = 6.5%.
+
+   gross heat of combustion: assume values refer to toom temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined  basis.
+   qv(gross) = 8861 Btu lbi 1
+    q,(gross)  = 4923 cal g-
+    q,(gross)  = 20598 J g-l
+
+                                                            55CHA/MIT
+
+FIR, BALSAM; NEEDLES; Abies balsarnea; solid; Samples were removed from 7-year-old
+    trees and had a concentration (in milligrams per gram ash-free dry weight) of starch =
+    41.7, total sugar = 130.7, crude fat = 101.0, and nitrogen = 8.8.
+
+   gross heat of combustion: values refer to ash-free dry weight and assume values refer
+   to room temperature.
+                         1    q,(gross)  = 9182 Btu Ib-
+    q,(gross)  = 5101 cal g-l
+    q,(gross)  = 21343 J g-l
+
+                                                                 78SHA/LIT

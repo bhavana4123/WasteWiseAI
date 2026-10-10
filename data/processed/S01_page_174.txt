@@ -1,0 +1,57 @@
+                                                             Polypeptides and Proteins
+
+
+BOVINE CHYMOTRYPSINOGEN A; solid; Anhydrous material is a protein from beef
+   pancreas made up of 245 amino acids with mol. wt. of 25646.
+
+   specific heat:
+
+   temperature                                                               -1   -1
+   (K)   (OF)         Cp(Btu lb-I  OF-')         Cp(cal g  K   )
+
+   10     -442                0.00448                 0.00448                0.0 1874
+  100     -280                 0.1120                      0.1 120              0.4686
+  150    -190                 0.1696                  0.1696              0.7096
+  200     -100                 0.2153                  0.2153              0.9008
+  250     - 10                0.2617                   0.26 17              1.9050
+  298.15    77                0.3090                  0.3090               1.2929
+  300      80                  0.3 109                   0.3 109              1.3008
+
+                                                         69HUT/COL
+
+CASEIN, MILK; solid; carbon, 53%; hydrogen, 7%; oxygen, 22.65%; nitrogen, 15.7%;
+   sulfury 0.8%; phosphorus, 0.85%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+                    k                     360                         Btu             10210    q,(gross)           =                             1P-'                  k                          cal                    200                               g-    q,(gross)            = 5670
+    q,(gross)  = 23700 ? 800 J g-l
+
+                                                      55MER/WAT
+
+CHYMOTRYPSINynonaqueous; A proteolyic enzyme found in the intestine that catalyzes
+   the hydrolysis of various proteins (especially casein) t o form polypeptides and amino
+    acids.
+
+   heat of denaturation: protein solution is 0.180 mass % in a 0.1 mol drn-3 glycine
+   buffer with pH = 3.5.
+                                          1   AH denaturation   11.43 Btu Ib-
+   AH denaturation   6.35 cal g-l
+   AH denaturation  26.57 J g-l
+
+    specific heat: the apparent molal specific heat of a protein solution of 0.180 mass %
+    in a 0.1 mol dm-3 glycine buffet at pH   3.5; thermochemical calorie used.
+
+    tern erature
+    (KP  (OF)        Cp(Btu lb-I  O F - ' )         Cp(cal g -1 K-l)             -1   -1                                                              Cp(J g  K   )
+
+   298    77              0.31 t 0.01             0.31 ? 0.01             1.30 t 0.04
+   313   104              0.34 * 0.01              0.34 k 0.01            1.42 f 0.04
+
+                                                              75PRI/PLO
+
+
+
+
+
+                                      191

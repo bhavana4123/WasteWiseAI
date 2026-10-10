@@ -1,0 +1,42 @@
+turbine package plus the costs for added systems needed for the particular application comprise the
+total equipment cost.
+
+Installed capital costs can vary significantly depending on the scope of the plant equipment,
+geographical area, competitive market conditions, special site requirements, emissions control
+requirements, prevailing labor rates, whether the system is a new or retrofit application, and whether
+the site is a greenfield, or is located at an established industrial site with existing roads, water, fuel,
+electric, etc. The cost estimates presented here are meant to represent a basic installation at an
+established site. The parameters for the cost estimation are shown in Table 3-4.
+
+                    Table 3-4. Cost Estimation Parameters
+               Site Conditions
+              Fuel                                Pipeline quality natural gas
+               Altitude, temp, RH                ISO rating conditions
+                Inlet and Outlet Pressure Drop     As operated for CHP with HRSG and SCR
+               Site Fuel Gas Pressure            55 psig (gas compression required)
+           Steam Requirements           Max unfired steam flow, 150 lbs, saturated
+                                    60% condensate return
+            Condensate Conditions            212° F condensate return
+                                              70° F makeup water
+             Emissions Requirements          Dry Low NOx combustion with SCR/CO/CEMS
+            Scope of Supply
+              Project Management               Engineer, procure, construct, manage
+                 Civil                               Buildable site with infrastructure available
+                Electrical                          Switchgear, interconnection, control, transformer
+                                                Fuel gas compressor, fuel gas filter, regulator,              Fuel System                                              heater
+              Building                            Building at $100/square foot
+                                       Assume the CHP system is tying into an existing
+           Steam System                  steam system with existing water treatment, de-
+                                                  aerator, and feed-water pumps
+
+Table 3-5 details estimated capital costs (equipment and installation costs) for the five representative
+gas turbine CHP systems. The table shows that there are definite economies of scale for larger turbine
+power systems. Turbine packages themselves decline in cost only slightly between the range of 5 to 40
+MW, but ancillary equipment such as the HRSG, gas compression, water treatment, and electrical
+equipment are much lower in cost per unit of electrical output as the systems become larger.
+
+
+
+
+
+Catalog of CHP Technologies                         3–13                         Combustion Tubines

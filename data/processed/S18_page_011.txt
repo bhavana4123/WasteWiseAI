@@ -1,0 +1,49 @@
+1  Introduction
+
+1.1  Background and Motivation
+The U.S. Department of Energy (DOE) Office of the Biomass Program (OBP) promotes the
+production of ethanol and other liquid fuels from lignocellulosic feedstocks by sponsoring
+programs in fundamental and applied research that aim to advance the state of biomass
+conversion technology. These programs include laboratory campaigns to develop better cellulose
+hydrolysis enzymes and fermenting microorganisms, detailed engineering studies of potential
+processes, and construction of pilot-scale demonstration and production facilities. This research
+is conducted by national laboratories, universities, and private industry in conjunction with
+engineering and construction companies.
+
+As part of its involvement in the program, the National Renewable Energy Laboratory (NREL)
+investigates the complete process design and economics of cellulosic ethanol manufacturing in
+order to develop an absolute plant-gate price for ethanol based on process and plant design
+assumptions consistent with applicable best practices in engineering, construction, and operation.
+This plant-gate price is referred to as the minimum ethanol selling price or MESP. The MESP
+can be used by policymakers and DOE to assess the cost-competitiveness and market penetration
+potential of cellulosic ethanol in comparison with petroleum-derived fuels and starch- or sugar-
+based ethanol.
+
+The technoeconomic analysis effort at NREL also helps to direct our biomass conversion
+research by examining the sensitivity of the MESP to process alternatives and research advances.
+Proposed research and its anticipated results can be translated into a new MESP that can be
+compared to the benchmark case documented in this report. Such comparison helps to quantify
+the economic impact of core research targets at NREL and elsewhere and to track progress
+toward meeting competitive cost targets. It also allows DOE to make more informed decisions
+about research proposals that claim to reduce MESP.
+
+This report builds upon previous issues from 1999 [1] and 2002 [2] written by NREL engineers
+with Delta-T, Merrick Engineering, Reaction Engineering, Inc., and Harris Group. For the
+present report, NREL again contracted Harris Group to provide engineering support for
+estimating and reviewing the equipment and raw material costs used in the process design. This
+update reflects NREL’s latest envisioned biochemical ethanol process and includes recent
+research progress in the conversion areas (pretreatment, conditioning, enzymatic hydrolysis, and
+fermentation), optimizations in product recovery, and our latest understanding of the ethanol
+plant’s back end (separation, wastewater, and utilities). NREL worked with Harris Group to
+identify realistic configurations and costs for critical equipment, the pretreatment reactor system
+in particular. An on-site cellulase enzyme section was included in this update to permit better
+transparency of enzyme economics than the fixed cost contribution assumed in the last design
+report did.
+
+The biomass conversion efficiencies used in the design (e.g., cellulose to glucose or xylose to
+ethanol) are based on a slate of research targets that NREL and DOE have committed to
+demonstrate by the end of 2012 in a campaign of integrated pilot-scale runs. These 2012
+performance targets are discussed in detail in this report. The economics of this conceptual
+process use the best available equipment and raw material costs and an “nth-plant” project cost
+
+                                       1

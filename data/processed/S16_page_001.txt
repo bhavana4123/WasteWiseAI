@@ -1,0 +1,57 @@
+   Green Chemistry
+
+
+
+                                                                                  View Article Online
+      PAPER                                                                                                  View Journal | View Issue        Licence.
+        Unported                   Characterization of polymer properties and
+   3.0                    identiﬁcation of additives in commercially
+PM.         Cite7067this: Green Chem., 2024, 26,                        available research plastics†
+6:34:53                        Amy A. Cuthbertson,a,b Clarissa Lincoln,a,b Joel Miscall,a,b Lisa M. Stanley,a
+                                     Anjani K. Maurya,b,c Arun S. Asundi,b,c Christopher J. Tassone,b,c
+                                   Nicholas A. Rorrer    *a,b and Gregg T. Beckham    *a,b6/21/2024on Attribution-NonCommercial                                            For polymer recycling research, consistent polymer substrates sourced from widely available vendors are
+
+                                               useful to enable direct comparisons between  studies.  Additionally, when reporting new recycling
+
+                                           approaches, it is essential to characterize polymer chemical composition, physical properties, structure,Downloaded Commons                                 and the presence of additives. Here we characterized 59 polymers from common commercial vendors
+                                             across 20 diﬀerent                                                         polymer                                                                                 classes,                                                                                 representing                                                                         >95%                                                                                                      of global plastic                                                                                                              production by mass.                                                                                                                                                     Structural
+2024.                                                   was                                                         conducted                                                                           with                                                                                     gel permeation                                                                                          chromatography,                                                                                                                  Fourier-transform                                                                                                                                                  infrared                                                                                                                               spec-        Creative                                         characterization
+ a                                        troscopy, and small and wide-angle X-ray scattering, and bulk characterization included CHNS measure-March
+                                      ments and elemental analysis by inductively coupled plasma mass spectrometry (ICP-MS). Thermal pro-26 under
+                                                 perties were measured using diﬀerential scanning calorimetry (DSC) and thermal gravimetric analysis.on
+                                            Nearly all plastics studied contained inorganic and organic additives, including halogens, sulfur-containing        licensed
+  is                                 compounds, and antioxidants, which were investigated by either ICP-MS, accelerated solvent extractionPublished                                         followed by gas chromatography-mass spectrometry (GC-MS), pyrolysis GC-MS and high-resolution
+       article                               GC-MS. In general, the polymers vary from what they were reported to be, with 5 polymers exhibiting
+                                         molar mass distributions diﬀerent from that provided by vendors, 6 polymers exhibiting bimodal mole-Article. This
+                                                cular mass distributions, and 10 polymers displaying unexpected thermal properties measured by DSC
+                                              including multiple glass transitions and unusual exotherms. Finally, we also investigated changes in pro-Access
+Open        Received 4th February 2024,           pertiesfound thatpre-16andpolymerspost-cryomilling,had changesa incommoneither thepreprocessingaverage moleculartechniquemass, indispersity,recyclingor studies.percent Herecrystalli-we
+          Accepted 21st March 2024
+                                                    nity after cryomilling. Taken together, this study further highlights the need to conduct thorough charac-
+          DOI: 10.1039/d4gc00659c             terization on polymer substates while also providing a baseline analytical characterization for widely avail-
+
+            rsc.li/greenchem                     able research plastics. We have further made all data available through an online database.
+
+
+      Introduction                                        a much broader chemical diversity than these three polymers
+                                                           and are also commonly formulated with multiple polymers,
+         As a result of the global plastics waste challenge, new pro-   adhesives, and small molecule additives, generating complex
+          cesses  for  plastics recycling are  actively being pursued.1–7   waste streams.1,11 Key to making rapid progress in the develop-
+        While mechanical recycling is primarily applicable to poly-  ment of new recycling approaches are the needs for (1) rigor-
+          ethylene terephthalate (PET) bottles, high-density polyethylene  ous substrate characterization, (2) an understanding of how
+         (HDPE), and polypropylene (PP) containers,8–10 plastics exhibit  polymer  properties and  additives  influence  recycling  pro-
+                                                                              cesses, and (3) the use of globally-available benchmark sub-
+                                                                                  strates that enable direct comparison between studies.1 For
+            aRenewable Resources and Enabling Sciences Center,                           instance, low concentrations of additives such as metals, sul-
+            National Renewable Energy Laboratory, Golden, CO, 80401, USA.                   fides,  or  antioxidants may  interfere  with new  recycling
+             E-mail: nicholas.rorrer@nrel.gov, gregg.beckham@nrel.gov                        processes.1,12,13 As examples, Hinton et al. demonstrated that
+          bBOTTLE Consortium, Golden, CO 80401, USA                                                                         antioxidants  (0.5–2 wt%)  significantly impact the product
+             cStanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory,
+                                                                               yields in catalytic hydrocracking of HDPE,14 and similarly,
+           Menlo Park, CA 94025, USA
+            †Electronic supplementary information (ESI) available. See DOI: https://doi.org/   Jerdy et al. showed that antioxidants, and acid scavengers hin-
+            10.1039/d4gc00659c                                            dered the catalytic upgrading of HDPE plastic pyrolysis oil.13
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                            Green Chem., 2024, 26, 7067–7090  | 7067

@@ -1,0 +1,30 @@
+Quadrennial Technology Review 2015
+Waste Heat Recovery Systems
+Chapter 6: Technology Assessments
+
+NOTE: This technology assessment is available as an appendix to the 2015 Quadrennial Technology Review
+(QTR). Waste Heat Recovery Systems is one of fourteen manufacturing-focused technology assessments prepared in
+support of Chapter 6: Innovating Clean Energy Technologies in Advanced Manufacturing. For context within the
+2015 QTR, key connections between this technology assessment, other QTR technology chapters, and other Chapter
+6 technology assessments are illustrated below.
+
+
+
+
+
+ Representative Intra-Chapter Connections                                  Representative Extra-Chapter Connections
+
+
+    CHP: heat recovery in CHP systems
+
+     Sustainable Manufacturing: optimization of heat flows to maximize
+    production intensity and minimize waste heat losses                                                                                                        Electric Power: waste heat recovery    Direct Thermal Energy Conversion: novel energy conversion materials,                                                                                   opportunities in electric generation
+    devices and systems for waste heat to power                                                                                                        Buildings: heat exchangers in HVAC   Advanced Sensors, Controls, Platforms and Modeling for Manufacturing:                                                                                   systems; advanced materials for building
+    sensors to monitor temperature, humidity, and lower explosion limits to                                                                               envelopes to reduce waste heat losses
+    enable increased exhaust gas recycling; predictive models for combustion                                                                                 Transportation: waste heat recovery from    Process Intensification: integrated control systems; replacement of batch                                                                                        internal combustion engines
+    operations with continuous ones
+
+     Process Heating: waste heat recovery from process heating equipment; facility
+    integration to enable re-use of exhaust gases in lower-temperature processes
+
+ 1  Quadrennial Technology Review 2015

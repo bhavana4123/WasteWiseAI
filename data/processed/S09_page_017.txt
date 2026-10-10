@@ -1,0 +1,50 @@
+further details of such arrangements of molecules in space except nomenclature. In rational
+nomenclature, the counterpart to Z is defined by the letter E. However, in the literature the terms
+cis and trans are also often used. In organic chemistry, a cis double usually, but not always,
+corresponds to a Z double bond and a trans double bond usually, but not always, corresponds to
+an E double bond. In the case of the fatty acids we are interested in here, cis and Z correspond to
+each other as do trans and E. However, each of these fatty acids has a counterpart in which the
+double bonds are trans (or E), but their occurrence (in nature) is far less common. (Question:
+Have you heard health reports on trans fatty acids?) Under certain conditions, the double bonds
+can change from Z to E. These conditions include heating and types of reactions called
+hydrogenations (a hydrogenation reaction is the production of more saturated fats from
+unsaturated ones by adding hydrogen to double bonds).
+
+The two kinds of double bonds cause the compounds to have different physical properties such
+as melting point. For example, while the melting point of oleic acid is 15ºC (compare to that of
+methyl oleate above; note that fatty acids have higher melting points than their corresponding
+methyl esters), that of elaidic acid (the acid in which the Z double bond in oleic acid is replaced
+by E; the methyl ester would be called methyl elaidate) is 45ºC. The existence of different
+compounds for the same formula (both oleic acid and elaidic acid are C18H34O2; their methyl
+esters are C19H36O2) is called isomerism. The corresponding compounds are then isomers. There
+are many different kinds of isomerism. A more detailed discussion of isomerism is beyond the
+scope of this course.
+
+It is extremely important to realize that vegetable oils are mixtures of triglycerides from various
+fatty acids. The composition of vegetable oils varies with the plant source. Often the terms fatty
+acid profile or fatty acid composition are used to describe the specific nature of fatty acids
+occurring in fats and oils. Several examples were described in Chapter 1 and profiles for
+common vegetable oils and animal fats were given in Table 1. The chemical and physical
+properties of fats and oils and the esters derived from them vary with the fatty acid profile. For
+example, imagine how mixtures containing larger amounts of methyl palmitate or methyl
+stearate will solidify at higher temperatures than those containing lesser amounts (see melting
+points in Table 5).
+
+The corresponding esters of those fatty acids in Tables 4 and 5 with glycerol, are known as
+tripalmitin, tristearin, triolein, trilinolein and trilinolenin. (Exercise: Calculate the molecular
+weights of these triglycerides)
+
+In a variation of the formation of esters from acids and alcohols as discussed above, an ester can
+react with another alcohol. In that case, the new alcohol is derived from the original ester is
+formed and the new ester is derived from the original alcohol. Thus, an ethyl ester can react with
+methanol to form a methyl ester and ethanol. This process is called transesterification.
+Transesterification is extremely important for biodiesel. Biodiesel as it is defined today is
+obtained by transesterifying the triglycerides with methanol. Methanol is the preferred alcohol
+for obtaining biodiesel because it is the cheapest (and most available) alcohol. However, for the
+reaction to occur in a reasonable time, a substance called a catalyst (catalysts are substances that,
+often present in small amounts, accelerate the speed of a reaction; in many cases virtually no
+reaction would occur without a catalyst), must be added to the mixture of the vegetable oil and
+
+
+
+                                      13

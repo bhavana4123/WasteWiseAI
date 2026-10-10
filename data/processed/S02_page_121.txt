@@ -1,0 +1,47 @@
+produced. The engine itself is started and warmed up
+on diesel fuel. As the producer gas-air mixture is ad­
+mitted, the governor automatically reduces the liquid­
+fuel feed. Fuel savings up to 90% over straight diesel
+ operation have been reported (Kjellstrom 1983). The
+governor can automatically boost the injection rate in
+the event of an increased power demand or a variation
+in the quality of the producer gas.
+
+11.10.3 Throttling at Partial Load
+High compression is essential for ignition, so throttling
+should be applied only at the gas inlet. Throttling at the          "
+air inlet results in excessive suction, which can cause
+bad combustion and smoky exhaust. However, at
+medium-to-high loads, where the gas-inlet throttle is
+fully open, the air inlet throttle may be partially closed
+to increase gas suction.                                 ʱ                                                       I                                                       ,                                                   Ͷ u
+                                                       z
+                                                   Q
+11.1 1  Increasing Power from                                   ­ԧ
+                                                   "
+Producer-Gas-Fueled Engines                                                 l(!                                                811.11.1 Mechanisms of Power Loss                  ʰw                                                                                                      V>                                                   w o.
+A given volume of producer gas, when mixed with the     "
+correct quantity of air for combustion, contains 70% of
+the energy of an equal volume of gasoline or propane
+mixed with air. The relative power at any given low
+rpm is proportional to the mixed gas energy, as shown
+in Fig. 11-13. Full-throttle power increases in direct                                                                         o L---t--+--+--+--+--!proportion to the rpm rate, up to the point where pres­                           <.0               ,, /          150              !5 !5         '.0         •.,
+sure drops in the intake and exhaust valves limit the                             BRAKE HORSEPOWER
+power. Beyond that point, power drops offrapidly with        Fig. 11 ċ 11. Diesel dual-fuel efficiency andfuel savings  (Source: Cruz
+an increasing rpm rate.                                            1983, Fig. 14. © 1973. Used with permission of the Beijer Institute)
+
+The volume of intake gases for producer gas use is
+roughly doubled over gasoline or propane use, and in­                                           rpmcreasing pressure drops reduce the peak-power rpm by          35up to 30%. The combined effects of a reduced mixed­                                                 1800
+gas heating value and a reduced peak-power rpm resultin an overall reduction in the maximum engine power                                                1500up to 50%.                                                 30
+                                                    W;:
+11.11.2 Engine Breathing                                                                                                                00.                                       1200A producer gas engine must handle roughly twice the                          Q)'" 25volume of intake gases as gasoline engines. The      "                                                                                                                                                            .<::engine's breathing ability therefore begins to limit en­             Q)                                                    cgine power at lower rpm. The peak power output,          Ol                                                 cshown in Fig. 11-14, operating on producer gas, occurs     w                                                             20at roughly two-thirds of the rpm for gasoline fuel. Im­                                                1000
+provements in the intake induction system can both
+raise the speed attained during the peak-power output
+and decrease the overall power loss at each rpm rate.                                    15˳----˴-----7˵----˶----˷One might ask how producer gas containing            25       30       35       40        45
+                                                                                        Injection timing, degrees150 Btu/scf can produce more than 150/1000lhs ofthe
+power of methane containing 1000 Btu/scf. The reason       Fig. 11-12. Optimum injection timing forpilot diesel dual fuel  (Source:
+is that engine power depends on the mixed-gas/air     Kaupp 1984a, Fig. 210)
+
+
+
+                                                                  Engine Adaptation and Operation      1 1 3

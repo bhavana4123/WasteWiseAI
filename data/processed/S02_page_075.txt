@@ -1,0 +1,60 @@
+                                      Table 7-7. Mass Balance
+
+                          Inputs (kg/h)                                 Outputs (kg/h)
+ Run   Wet Chips    Dry Air    H2O      Total     Dry Gas    Char    Tar    H2O      Total    Closure (%)
+  98       32.0          43.1        0.5       75.6        66.3        0.9     0.09       7.4       74.7        98.9
+  910      32.0         45.2        0.5       77.7        68.0        0.9     0.14       7.4       76.4        98.3
+  920      35.7           62.1        0.4       98.2        92.9           1 .4     0.09       7.1      101 .5       96.6
+   1 01       52.4          76.9        0.8      130.1         1 1 6.9           1 .7     0.09      13.3      132.0       98.6
+  929      52.7          74.0           1 .0      127.7         1 1 3.0           1 .8     0.14      12.2      127.1        99.5
+   1 06       58.1          76.8        0.5      135.4         1 1 7.0           1 .2      0.09        1 0.8        1 29.1        95.4
+ 1 1 1 9       89.1            1 12.1          1 .0      202.2         1 73.8        3.0     0.27        1 9.7        1 96.8        97.3
+ 1 1 17      96.2        140.4        0.7     237.3      218.9        2.5      0.1 8     22.9      244.5        97.0
+ 1 221      140.5         202.1          1 .1      343.7       302.1         4.1      0.54     43.3      350.0       98.2
+Source: Walawender 1 985, p. 918.
+
+Mass and energy balances have only been applied oc­     fuel economy should be sized with higher hearth load
+casionally to gasifier development because of the dif­     to coincide with the peak efficiency curve. Engine ap­
+ficulty and expense of measuring all flow streams.      plications should be sized for maximum hearth load to
+Detailed mass and energy balances usually can be per­     coincide with peak of the efficiency curve in order to
+formed at universities in chemical engineering     allow maximum room for turndown.
+laboratories or at major research laboratories, and only
+a few have been performed on air gasifiers. If gasifica­    7.8 Particle-Size Measurement
+tion is to become a developed field, it is necessary to
+                                                Knowledge of the size distribution and other charac­perform mass and energy balances.
+                                                                    teristics of gas contaminants  is helpful for cleanup
+7.7.2 Flow Rate Characterization                    design. Table 7-9 presents particle-size analysis
+                                                methods and examples of equipment available for
+The variation of gas quality of a gasifier with flow rate                                                           characterizing particle size.
+helps determine optimum sizing parameters. Note that
+in Fig. 7-20 total hydrocarbons and  tars steadily     7.8.1  Typical Particle-Size Distributions
+decrease with increased flow. In Fig. 7-21 we see that
+                                             The particle-size distribution of solid char arid ash formaximum heating value, peak CO and H2, and maxi­                                              raw gas shown in Fig. 7-12 was produced by mecbani­mum efficiency do not coincide. Peak efficiency occurs
+at more than twice the flow rate for maximum heating     cal screen separation for both the Imbert (tuyere and
+                                                       hearth constriction) and the SERI unconstricted gasvalue.
+                                                         producers. The difference between the two gasifiers is
+Actual hearth load (see Section 5.7.3) for sizing    caused by the grate design. Gas from the Imber! gasifier
+depends on the application. Heating applications that     exits upward through a settling space that retains larger
+need maximum flame temperature should be sized      particles. On the other hand, the SERI oxygen gasifier
+with lower hearth rate load to provide maximum heat­     passes all solids through the gas outlet. Note that the
+ing value. Heating applications that need maximum     overall slope is the same for both size distributions.
+
+                                                       7.8.2 Sieve Analysis
+                                             The distribution of large solid particles greater than
+  6                                                40 flIIl maybe determined using sieves. Table 7-10 lists
+                                                         actual sieve size for various mesh size.
+   5 Ǭ:l                                                       7.8.3 Microscopic Size Analysis
+ "0 >
+ȭ 4                                                          Particles captured on a filter disc can be counted by
+ f-«;.                                                   microscopicthan 10 Ěm areexamination.difficult to seeHowever,under a lightparticlesmicroscope,smaller   3
+                                              and liquid-droplet sizes cannot be determined by this
+                                              method because droplets, once captured, coalesce,
+   2
+    2    3    4    5     6                             leaving no evidence of their original size.
+         Producer gas flow rale, m3/h (250 C, 1 aIm)
+                                                       7.8.4 Aerodynamic Size Analysis
+Fig. 7¿20. Tar versus flow for rice hu/J gasifier  (Source: Kaupp 1984b,    Aerodynamic sizing can be accomplished with either
+Fig. 10-88)                                            a cascade impactor or a cascade cyclone. Particles and
+
+
+                                                                        Gas Testing    67

@@ -1,0 +1,32 @@
+           Figure 2-3. Part Load Generator Terminal Efficiency, System 5
+
+
+
+
+
+Source: Wartsila21
+
+2.4.2  Effects of Ambient Conditions on Performance
+Reciprocating engines are generally rated at ISO conditions of 77 °F and 0.987 atmospheres (1 bar)
+pressure. (Gas turbines are rated at 59 °F.) Like gas turbines, reciprocating engine performance –
+measured for both output and efficiency – degrades as ambient temperature or site elevation increases.
+While the effect on gas turbines can be significant, it is less so on engines. Reciprocating engine
+efficiency and power are reduced by approximately 4 percent per 1,000 feet of altitude above 1,000
+feet, and about 1 percent for every 10°F above 77°F.
+
+2.4.3 Engine Speed Classifications
+Reciprocating engines are classified as high-, medium-, or low-speed. Table 2-3 presents the standard
+speed ranges in each class and the types and sizes of engines available. Engine driven electric generators
+typically must run at fixed (or synchronous) speeds to maintain a constant 50 or 60 Hertz (Hz) output,
+setting the engine speed needed within the classifications (i.e., a 60 Hz generator driven by a high speed
+engine would require engine speeds of 1200, 1800 or 3600 rpm versus a 50 Hz generator which requires
+engine speeds of 1000, 1500 or 3000 rpm).
+
+
+
+
+
+21 Wartsila gas-fired engines. http://www.wartsila.com/en/power-plants/technology/combustion-engines/gas-engines.
+
+
+Catalog of CHP Technologies                         2–12                         Reciprocating IC Engines

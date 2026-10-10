@@ -1,0 +1,51 @@
+                                                                   Inorganic Materials
+
+
+
+
+
+   Cp(J g-  K         = 1.4523
+
+   heat content: 850-1200 K (1071°-1701"F)
+
+   q~-q32(Btu 1b-l)          -114.55 + 0.3471 T  ( O F )
+                          = -152.28 + 0.3471 T (K)   qT-9273.2 (Cd ql)
+                          = -637.14 + 1.4523 T (K)   qT-9273.2  (J g-
+                                                     68HAG/C00
+
+GLASS, SODA-LIME; solid (Lillie 1); Si02, 73.59%; Na20, 16.65%; CaO, 9.76%.
+
+   specific heat: 273-850 K (32"-1071"F)
+
+   Cp(Btu lb-    OF-')     = 0.1347 + 1.0733 x       (t + 459.67) + 7.86 x lo3 (t + 459.67)-2
+   Cp(cal    K-l)     = 0.1347 + 1.932 x    T + 2.423  x 103 T -2         f-l
+   Cp(J g-   K-')       = 0.5636 + 8.083 x lod4 T + 1.0138 x 104 T -2
+
+   heat content: 273-850 K (32"-107I0F)
+
+   qT-932 (Btu 1b-l)      = -65.466 + 0.1347 (t + 459.67) + 5.36 x       (t + 459.67)2
+                            - 7.86 x lo3 (t + 459.67)-l  (t/"F)
+   qT-qz73.2 (Gal                         = -36.37 + 0.1347 T + 9.66 x    T2 - 2.423 x lo3 T-l (K)           8')
+                         = -152.17 + 0.5636 T + 4.042  x    T2 - 1.0138 x 104 T-I (K)   qT-qZ73.2 (J g-  )
+
+                                                     68HAG/COO
+
+GLASS, SODA-LIME;liquid (Lillie 1); Si02, 73.59%; Na20, 16.65%; CaO, 9.76%.
+
+   specific heat: over the temperature range 850 to 1200 K (1071"-1701"F),the specific
+   heat appears to be independent of temperature.
+
+   Cp(Btu lb-I  OF-')      0.3570
+   Cp(cal    5 - l )     = 0.3570             g-'
+   Cp(J g- K   )       = 1.4937
+
+   heat content: 850-1200 K (1071"-1701"F)
+
+   qT-432 (Btu lb'l)        = -121.76 + 0.3570 T (OF)
+                          7 -158.81 + 0.3570 T (K)    qT'q273.2  (Gal         ql)
+   qT-q273,2 (J g-  )         -664.46 + 1.4937 T (K)
+
+                                                    68HAGlC00
+
+
+                                       131

@@ -1,0 +1,39 @@
+Usually, the steam sent into the mains is not much above saturation temperature.61 The term back-
+pressure refers to turbines that exhaust steam at atmospheric pressures and above. The discharge
+pressure is established by the specific CHP application. The most typical pressure levels for steam
+distribution systems are 50, 150, and 250 psig. The lower pressures are most often used in district
+heating systems, while the higher pressures are most often used in supplying steam to industrial
+processes. Industrial processes often include further expansion for mechanical drives, using small steam
+turbines for driving heavy equipment that is intended to run continuously for very long periods.
+Significant power generation capability is sacrificed when steam is used at high pressure, rather than
+being expanded to vacuum conditions in a condenser. Discharging steam into a steam distribution
+system at 150 psig can sacrifice slightly more than half the power (compared to a vacuum exhaust) that
+could be generated when the inlet steam conditions are 750 psig and 800° F, typical of small steam
+turbine systems.
+
+4.3.2.5   Extraction Turbine
+An extraction turbine has one or more openings in its casing for extraction of a portion of the steam at
+some intermediate pressure. The extracted steam may be used for process purposes in a CHP facility, or
+for feedwater heating, as is the case in most utility power plants. The rest of the steam can be expanded
+to below atmospheric pressure to a condenser, or delivered to a low pressure steam application as
+illustrated in Figure 4-5.
+
+                      Figure 4-5. Extraction Steam Turbine
+
+
+
+
+
+The steam extraction pressure may or may not be automatically regulated depending on the turbine
+design. Regulated, or controlled extraction permits more steam to flow through the turbine to generate
+additional electricity during periods of low thermal demand by the CHP system. In utility type steam
+turbines, there may be several extraction points, each at a different pressure corresponding to a
+different temperature at which heat is needed in the thermodynamic cycle. The facility’s specific needs
+
+
+
+61 At 50 psig (65 psia) the condensation temperature is 298° F, at 150 psig (165 psia) the condensation temperature is 366° F,
+and at 250 psig (265 psia) it is 406° F.
+
+
+Catalog of CHP Technologies                          4–8                            Steam Turbines

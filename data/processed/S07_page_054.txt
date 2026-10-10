@@ -1,0 +1,50 @@
+              site layout and ease of installation for multi-unit sites.The modular units are cold tested
+            at the factory prior to shipping.
+
+
+          The operational issues discussed include fuel delivery systems (bridging in lock hopper,
+            chip size/quality dependent on chipper, moisture outside specification), ash handling
+            (candle failure, sealing of ash screw), gas quality (off-specification tars produced, police
+                filter design), condensate cleaning (active carbon filtration), and WID compliance (cost,
+             fuel risk, corrosion/life issues).
+
+
+          Thomas Koch of TKEnergi reported that the non technical challenges include generally
+            inadequate financial support structure and lack of resources to solve unforeseen problems,
+            keeping and motivating key employees, and the frequent change in national energy policy
+          and as a result the change in financial conditions. Cost competitiveness is still a major
+             issue for biomass energy.The technical choices to cut cost include designing gasifiers
+            without any hot and moving parts and a system that is simple in design and proven for
+              reliable operation.The technical challenges include (explosion safety, gasifier bed stability,
+           mechanical stability of system, thermal transients, life time of ceramics and insulation,
+              reliable measurements of temperature and pressure in zones where tars are present, filter
+            operation, and char loss). It is also reported that parts subject wear and tear should have
+          a minimum life of 2500 hours, preferably 6000 hours.
+
+
+         Many of the WS6 speakers pointed out that the commissioning phase of demonstration
+             projects requires resources typically not allocated in original planning because of
+           optimism and impact on internal rate of return.The related challenges are how to provide
+             for contingencies during project development and how to maintain credibility during an
+           extended start-up phase.
+
+
+           Collaboration with Other Tasks/Networking
+
+           Task 33 continues to collaborate with some of the IEA Bioenergy Tasks, plus IEA
+          Hydrogen Annex 16, IEA Pulp and Paper Annex XV, and European GasNet. In addition,
+            the two workshops WS3 and WS4 were organised in conjunction with the Swedish
+        SYNBIOS Conference and in cooperation with European GasNet/ThermalNet activity,
+             respectively.
+
+
+            Deliverables
+
+          The Task deliverables include planning and conducting six semi-annual Task Meetings
+            focused on the workshops selected by the Task participants, involving academic and
+             industrial experts, the preparation and distribution of workshop reports; updating Country
+            Reports, a report on biomass gasification activities in all the participating countries of the
+            Task; conducting joint studies, conferences, and workshops with related Tasks, Annexes,
+          and other international activities to address mutually beneficial issues; and preparation of
+             periodic progress, financial, and annual reports as required by the ExCo.
+54

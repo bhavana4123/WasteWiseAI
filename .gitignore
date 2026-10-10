@@ -1,0 +1,27 @@
+# Generated Lambda artifacts and local build/test caches
+build/
+.qa/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+
+# React / Node.js
+node_modules/
+frontend/dist/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build artifacts
+*.zip
+*.log
+
+# IDE
+.vscode/
+.idea/

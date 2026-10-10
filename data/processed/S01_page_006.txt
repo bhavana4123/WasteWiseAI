@@ -1,0 +1,43 @@
+                                     Introduction
+
+The general purpose of this collection of thermodynamic data of selected materials is t o
+make property information available  t o the engineering community on chemical mix-
+tures, polymers, composite materials, solid wastes, biomass, and materials not easily
+identifiable by a single stoichiometric formula.  Workers in many sectors need this type
+of information: construction engineers who require thermodynamic information on mate-
+rials, safety engineers assessing the hazard potential of chemicals, chemical engineers
+concerned with industrial unit processes, and scientists who want thermodynamic data
+for specific research projects.
+
+The specific purpose of  this publication is  t o provide engineers involved in combustion
+and thermochemical conversion with appropriate thermodynamic data so that they can
+dispose of waste materials and utilize biomass for energy in a more effective and envi-
+ronmentally acceptable manner.  The effective disposal of waste materials is an impor-
+tant part of the maintenance of a high-quality  environment, and combustion/thermo-
+chemical conversion offers the most significant means of volume reduction for waste
+materials when compared  t o other methods of disposal.   In addition, the potential of
+biomass for energy is being increasingly recognized and realized.
+
+This com ilation of thermodynamic data was prepared for the Solar Energy Research
+Institute SERI) by the Chemical Thermodynamics Data Center of the National Bureau of         P
+Standards.  More than 700 materials have been compiled covering properties such as
+specific heat, gross heat of combustion, heat of fusion, heat of vaporization, and vapor
+pressure.  The information was obtained from the master files of the NBS Chemical
+Thermodynamics Data Center, the annual issues of the Bulletin of Chemicat Thermo-
+dynamics, intermittent examinations of the Chemical Abstracts subject indexes, individ-
+ual articles by various authors, and other general reference sources.
+
+The compilation is organized into several broad categories; materials are listed alphabet-
+ically within each category.  For each material the following are given: (1) the physical
+state, (2) information as t o the composition or character of the material, (3) the kind of
+thermodynamic property reported, (4) the specific property values for the material, and
+(5) citations to the reference list. A name index is provided  t o assist a user in finding a
+specific material.
+
+Several appendices are also included.  Appendix A gives an empirical formula that allows
+heats of combustion of carbonaceous materials t o be predicted with surprising accuracy
+when the elemental composition is known. A spread sheet illustrates this predictability
+with examples from this report and elsewhere. Appendix B lists some reports containing
+heats of combustion not included in this publication.  Appendix C contains symbols, units,
+conversion factors, and atomic weights used  in evaluating and compiling the thermo-
+dynamic data.

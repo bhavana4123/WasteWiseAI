@@ -1,0 +1,24 @@
+{
+  "baseline_tests": {
+    "total": 140,
+    "passed": 137,
+    "failed": 3
+  },
+  "final_tests": {
+    "total": 205,
+    "passed": 205,
+    "failed": 0,
+    "skipped": 0
+  },
+  "new_regression_cases": 65,
+  "six_csv_hashes_unchanged": true,
+  "scientific_equations_changed": false,
+  "engineering_gate": "PASS",
+  "unresolved_source_energy_checks": [
+    "920",
+    "924",
+    "1110"
+  ],
+  "full_scientific_gate": "FAILED",
+  "externally_validated_pathways": 0
+}

@@ -1,0 +1,22 @@
+Component    Property    Quantity       Units      Reference
+ZYMO         Formula      CH1.8O0.5N0.2                Z. mobilis cell mass. Average composition of several microorganisms outlined
+                                                                    in [93]
+         MW        24.6264
+           DHSFRM    -31169.39      cal/mol    From [22] after [94]
+TRICHO       Formula      CH1.645O0.445N0.205S0.005      T. reesei cell mass. Average of generic cell mass [56] and the ENZYME
+                                                       composition
+         MW        23.8204
+           DHSFRM    -23200.01      cal/mol    Copied BIOMASS
+BIOMASS      Formula      CH1.64O0.39N0.23S0.0035    WWT sludge.
+         MW         23.238
+           DHSFRM    -23200.01      cal/mol    From [22] after [94]
+TAR                        -                   -                  -      Modeled as solid xylose
+LIME                       -                   -                  -     Aspen native component (calcium hydroxide)
+CASO4                    -                   -                  -     Aspen native component
+C                            -                   -                  -     Aspen native component (graphite carbon)
+
+
+
+
+
+                                                   111

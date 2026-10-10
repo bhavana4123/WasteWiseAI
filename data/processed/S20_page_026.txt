@@ -1,0 +1,40 @@
+   The heated pressurized slurry is fed to the HTL reactor where the contents are converted to an organic
+biocrude phase, an aqueous phase, solids and and a small amount of gases. Water at subcritical
+conditions has a much lower dielectric constant and higher ion product than water at normal conditions
+and therefore provides a reaction medium with improved solvent and catalytic properties (Elliott 2011;
+Elliott 2015). The HTL chemistry is complicated, however the general reaction pathways can be put into
+three basic categories: 1) depolymerization of the biomass components, 2) decomposition of biomass
+monomers by cleavage, dehydration, decarboxylization and deamination, and 3) recombination of
+reactive fragments (Toor et al. 2012). The biocrude from sludge is similar to biocrude from algae HTL
+and comprises a mixture of fatty acids, amides, ketones, hydrocarbons, phenols, alcohols and other
+components.
+
+   The HTL reactor effluent is fed to a hot filter where solids are removed. The solids stream consists of
+60-70% water, ash, char, and low levels of organics from the aqueous phase and biocrude phase. The
+biocrude tends to adhere to the solid particles and therefore the amount lost to the solids depends upon the
+ash content in the feed. The mass balance from testing indicates that the solid phase from testing of
+Detroit sludge (20% feed solids and 26% ash) contained 7-9% of the total produced biocrude.  It is
+estimated that about half of this biocrude can be recovered through further work on improved separations
+methods. The solids are assumed to be disposed of in a landfill. Solids from experimental HTL testing
+were analyzed for hazardous metals content with the toxicity characteristic leaching procedure (TCLP)
+and determined to be under the federal regulatory limits. While these results indicate that HTL solids are
+non-hazardous, the metals content will depend on the incoming sludge composition and therefore TCLP
+testing would need to be performed at each plant and probably on a periodic basis to verify that the solids
+can be landfilled.. Metals tested include arsenic, barium, cadmium, chromium, copper, lead, mercury,
+nickel, selenium, silver, and zinc (see Appendix E). An attractive alternative to landfilling is to recover
+value from the HTL solids, either in the form of separate nutrients (e.g., phosphorus) or a combined
+fertilizer product. Further work is needed to explore the technical and economical feasibility of this
+option.
+
+    After solids separation, the remaining biocrude-aqueous-gas mixture is cooled to 140°F (60°C),
+reduced to 30 psia, and separated in a three-phase separator. The biocrude product is stored and then
+shipped to a centralized upgrading facility where biocrude is assumed to be collected from multiple HTL
+plants in the area. The aqueous stream, which contains effluent water, any remaining soluble organics,
+ammonia, and metal salts, is routed to the HTL aqueous phase treatment section of the plant (see section
+2.4).
+
+
+
+
+
+                                         11

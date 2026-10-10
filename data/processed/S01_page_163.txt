@@ -1,0 +1,54 @@
+Polymers and Plastics
+
+
+NYLON-6,lO; solid; ribbon; (polyhexamethylenesebacarnide);repeating unit:
+   C16H30N202; average mol. wt. 9250.
+
+   specific heat: ribbon
+
+                                                                            -1   -1                                                              CP(J g  K  1
+
+    273    32                0.327                   0.327                1.368
+    293    68                0.373                   0.373                1.561
+    313   104                0.420                    0.420                        I .757
+    333   140                0.486                   0.486                2.033
+    353   176                0.512                   0.512                2.142
+    373   212                0.518                   0.518                2.167
+    393   248                 0.53 1                   0.53 1               2.222
+    413   284                 0.561                   0.561                2.347
+    433   320                0.592                   0.592                2.477
+    453   356                0.588                   0.588                2.460
+    473   392                0.686                  0,686                2.870
+    493   428                 1.95                     1.95                   8. I59
+    513   464                 0.737                   0,737               3.084
+    523   482                 0.639                   0.639                2.474
+    533   500                0.627                   0.627               2.623
+    543   518                0.632                    0.632                2.644
+    553   536                 0.639                   0.639                2.674
+
+   melting point: 225°C (437°F); melting range 30"-40°C (54'-72"F)
+
+   heat of fusion: ribbon
+
+   Lf(Btu Ib-l)      47.3
+   Lf(cal 9-l)       26.3
+   L&J g-  )         1io.o
+
+                                                            53WIL/DOL
+
+PHENOL-FORMALDEHYDE RESIN, HARDENED (EDELKUNSTHARZ8); solid; empirical
+    for mula C I 3HI 202.
+
+   gross heat of combustion: at 25°C (77'F)
+
+    q,(gross) = 13598 f 3.8 Btu Ib-1
+    q,(gross) = 7554.3   2.1 cal g-'
+    q,(gross) = 31607.2 ? 8.8 J g-l
+
+                                                             67FRA/MIS
+
+
+
+
+
+                                      178

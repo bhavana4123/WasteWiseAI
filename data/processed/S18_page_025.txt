@@ -1,0 +1,50 @@
+burned to provide heat and electricity. The amount of electricity generated per ton of feedstock
+processed is therefore higher than in the 2002 design (though less electricity is exported as a co-
+product because the present design has a higher internal electricity demand).
+
+2.3  Design Report Conventions
+
+2.3.1  Units
+The Aspen model we developed is, by legacy, based on the set of units required by Aspen for
+specifying custom component properties: kg, kmol, atm, °C for materials, and MMkcal (Gcal)
+for energies. Values in this report that were pulled directly from the Aspen model therefore tend
+to be reported in these units. Harris Group preferred to use U.S. standards (lb, Btu, °F, gal, etc.)
+when communicating with equipment vendors. Therefore, equipment specifications tend to be
+cited in these U.S. units. We have made an effort to cite both sets of units in this report, to the
+degree that it does not distract from the discussion.
+
+Note that in the present report, certain quantities (e.g., yields and costs) are computed and
+reported in terms of “tons.” To avoid ambiguity, tonne will denote a metric tonne (1,000 kg) and
+ton will denote a short or U.S. ton (2,000 lb). In general, the U.S. ton is the standard for this
+document. “Ton” also appears in Section 3.9 in the context of refrigeration, but this usage should
+be clear from the discussion.
+
+2.3.2  Total Solids Loading
+The process described here converts a solid feedstock (corn stover) into a liquid product
+(ethanol). Most material streams in the process therefore have a solid fraction and a liquid
+fraction. The relative amount of solids in a given stream is called its “solids loading.” Total
+solids loading is defined as the total weight percent of soluble solids (e.g., sugars and salts) and
+insoluble solids (e.g., cellulose and lignin) in a given material stream. Where useful, the total
+solids loading and the insoluble solids loading will be reported together. Note that in our
+convention, sulfuric acid, acetic acid, and ammonia are not considered soluble solids but
+ammonium acetate and ammonium sulfate are. Therefore, around some unit operations, e.g.,
+hydrolysate conditioning, total solids loading is not a conserved quantity.
+
+2.3.3 Ethanol Density
+The most important results from this analysis are reported in terms of volume of ethanol
+produced: $/gal, gal/yr, gal/ton, etc. To avoid errors in these quantities that may arise from using
+the ethanol density computed by Aspen Plus, an accepted value was used for anhydrous ethanol
+at 20°C (68°F): 0.789 kg/L [30].
+
+2.3.4  Theoretical Yields and Conversions
+The terms “yield” and “conversion” are used throughout this report to describe the extent of
+various chemical and biochemical reactions. It should be understood that each of these quantities
+is a percentage of the theoretical. For example, the statement “95% conversion of glucose to
+ethanol” means that 95% of the glucose in the system was consumed in the following reaction:
+
+                             Glucose  2 Ethanol + 2 CO2
+
+which has a theoretical yield of 0.51 g ethanol / g glucose.
+
+
+                                      15

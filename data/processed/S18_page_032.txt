@@ -1,0 +1,52 @@
+condensate contains volatile, potentially inhibitory organics created in pretreatment and therefore
+is routed to wastewater treatment (Area 600).
+
+Table 6 summarizes the reactions and percent conversions that take place in pretreatment.
+Glucan contained in the hemicellulose side-chains is converted to glucose along with a small
+portion of the cellulose. Minor hemicellulose carbohydrates (arabinan, mannan, galactan) are
+assumed to have the same reactions and conversions as xylan. The xylan-to-xylose conversion is
+an assumed total hydrolysis that also includes an enzymatic component that will be discussed
+later. The sucrose reaction to HMF and glucose reflects 100% hydrolysis of sucrose to fructose
+and glucose, followed by complete degradation of the fructose to HMF, as mentioned in Section
+2.2.
+
+            Table 6. Pretreatment Hydrolysis Reactions and Assumed Conversions
+
+             Reaction                               Reactant % Converted
+                                                                      to Product
+               (Glucan)n + n H2O→ n Glucose             Glucan    9.9%
+               (Glucan)n + n H2O → n Glucose Oligomera    Glucan    0.3%
+               (Glucan)n → n HMF + 2n H2O              Glucan    0.3%
+             Sucrose → HMF + Glucose + 2 H2O         Sucrose   100%
+                (Xylan)n + n H2O→ n Xylose                Xylan     90.0%
+                (Xylan)n + m H2O → m Xylose Oligomera     Xylan     2.4%
+                (Xylan)n → n Furfural + 2n H2O              Xylan     5.0%
+              Acetate → Acetic Acid                      Acetate   100%
+                 (Lignin)n → n Soluble Lignin                   Lignin     5.0%
+                         a Sugar oligomers are considered soluble but not fermentable.
+
+
+3.2.3 Cost Estimation
+For the pretreatment reactor system, Harris Group obtained a detailed quote from Andritz, Inc.,
+totaling approximately $20MM for the whole system: feedstock receiving bin, additional size
+reduction steps (if necessary), pre-steaming, pressurized heating, reaction, and flash cooling. A
+reactor schematic provided by Andritz is shown in Figure 7. This reactor configuration is similar
+in principle to the pretreatment reactor assumed in the 2002 design.
+
+The reactor system is constructed of carbon steel with all parts in contact with acid (pretreatment
+reactor, pressurized transporter, and plug screw feeder) clad in Incoloy 825. This met Andritz’s
+approval but was primarily chosen to be consistent with the 2002 design and a previous NREL
+corrosion study on reactor metallurgy [33]. This reactor system is actually overdesigned for the
+pretreatment process conditions considered here and is capable of operating at a significantly
+higher severity. In the present design, the pretreatment system contributes about $0.14/gal to the
+MESP; we chose not to adjust the cost of the reactor to account for the lower residence time,
+temperature, pressure, or acid loading. This will permit continued use of the same reactor cost in
+our analyses as researchers change the pretreatment severity in their optimization studies. As
+long as acid is used in any concentration, we believe it is unlikely that the reactor cost would
+change significantly because Incoloy (or similarly expensive) cladding would still be required.
+The reactor cost will be revisited in the future if pretreatment conditions change more
+significantly.
+
+
+
+                                      22

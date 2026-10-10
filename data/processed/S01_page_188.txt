@@ -1,0 +1,54 @@
+Rubber Materials                                                                                                                                                                                                                                                i    l
+
+
+PURIFIED NATURAL RUBBER HYDROCARBON; solid; prepared by digestion of latex
+   with steam at 190°C (374°F) and extraction of resins and products of hydrolysis with
+   alcohol and water.  Nitrogen content was about 0.03%;  ash content average 0.12%;
+   benzene-insoluble constituents averaged 0.1 %-0.3%.
+
+    specific heat:
+
+
+
+    15  -432                  0.017                   0.017                0.073
+    20  -423                  0.028                  0.028                0.117
+    50  -369                 0.084                    0.084                0.352
+   100  -279                     0. I54                   0.154                0.646
+   200  -99                  0.344                   0.344                   1.44
+   300    80                  0.452                   0.452                       I .89
+
+   heat of fusion: at 110°C (51.8"F).
+                         1   Lf = 7.18 Btu Ib-
+   Lf = 3.99 cal
+   Lf = 16.7 J g
+
+                                                        35BEK/MAT
+
+RUBBER; solid; (sample I): latex, digested with water at 190°C (374'F),  extracted with
+   water and ethanol; soluble in ether; 0.02% ash; (sample 2): latex, trypsin treated; 75%
+   ether soluble, 25% ether insoluble.
+
+   gross heat of combustion: 30°C (86°F)
+
+   sample 1, 0.02% ash                     sample 2, ether soluble fraction, 0.1% ash
+    q,(gross) = 19465 Btu lb- 1                                                       q,(gross)  = 19444 Btu Ib-'
+    qv(gross) = 10814 cal                           q,(gross)  = 10802 cal
+    q,(gross) = 45247 J                             q,(gross)  = 45196 J
+
+   sample 2, 0.4% ash                      sample 2, ether insoluble fraction, 0.7% ash
+    qv(gross)  19355 Btu Ib- 1                     q,(gross) = 19343 Btu Ib- 1
+    q,(gross)   10753 cal                           q,(gross)  = 10746 cal
+    q,(gross)   44991 J                             q,(gross) = 44961 J
+
+   sample 2, 0.15% ash                     sample 2, ether insoluble fraction, 1.8% ash
+    q,(gross)  = 1941 1 Btu lb- 1                    q,(gross)  = 19129 Btu Ib- I
+    q,(gross)  = 10784 cal                          q,(gross) = 10627 cal
+    q,(gross)  = 45120 J                             q,(gross)  = 44464 3
+
+                                                           34JES/CUM
+
+
+
+
+
+                                       208

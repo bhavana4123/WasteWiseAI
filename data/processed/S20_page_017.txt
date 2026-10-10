@@ -1,0 +1,50 @@
+continuous HTL focused on sewage sludge can be found in the literature. Appell et al. (1971) conducted
+initial trials of a continuous 100-500 g/hr unit developed based on their initial batch testing (Appell et al.
+1970) with the use of reducing agents. Solvent extraction was used to separate the oil product from the
+reaction mixture. While the focus of this effort was conversion of wastes, including sewage sludge, they
+reported results only for cellulose. A study by PNNL for the U.S. Environmental Protection Agency
+(EPA) conducted larger scale continuous thermochemical liquefaction as a possible alternative sludge
+disposal technology (Molton et al. 1986). In this work, a pilot-scale (30 L/hr) reactor system processing
+primary sludge at 20% solids and 5% sodium carbonate concentration was demonstrated and solvent
+extraction was used to recover the oil. Itoh et al. (1992) tested a mixture of primary and secondary sludge
+with no added catalyst in a 500 kg/day (21 L/hr) continuous system and demonstrated continuous
+separation of the oil using high pressure distillation. Villadsen et al. (2012) tested a range of waste
+feedstocks including sludge in a 30 L/hr continuous pilot system called CatLiq® (Toor et al. 2012), with
+the focus being to develop and apply analysis methodology for identification of specific compounds in
+HTL biocrudes. Their process utilizes both homogeneous and heterogeneous catalysts in the reactor, and
+a centrifuge for biocrude separation.
+
+   As part of a collaborative project between BETO and the Water Environment & Reuse Foundation
+(WE&RF), PNNL recently conducted continuous HTL of primary, secondary and anaerobically digested
+sludges in a 1.5 L/hr bench system (Marrone 2016). Representatives from WWTPs, the EPA, academia,
+and engineering consulting firms participated in the joint project. This work was the basis of a
+preliminary techno-economic analysis (TEA) for sludge HTL and subsequent biocrude upgrading
+(Snowden-Swan et al. 2016) and helped to guide follow-on experiments with more targeted run
+conditions, the results of which provide the basis for the present analysis. Complementing earlier
+continuous system studies, PNNL work described in Marrone (2016) and herein provides extensive
+characterization of sludge feedstock and products from HTL, introduces potential strategies for reducing
+ammonia levels in the HTL water stream recycled to the WWTP, and provides testing and product
+characterization data from hydrotreating of sludge-derived biocrude.
+
+   The purpose of this report is to document the conceptual design, economics and supporting data for a
+sludge HTL plant co-located with a WWTP and a centralized sludge biocrude upgrading plant for
+production of hydrocarbon fuel blendstocks. The design and TEA represents a goal case for the pathway,
+targeting performance that is anticipated to be achievable by 2022 (BETO’s target year for verification of
+biofuel hydrocarbon pathways) with further research and development. As such, values of key design
+parameters, such as biocrude yield, sludge feed solids, ash content, and sludge heat transfer rate,
+represent improvements in the technology relative to what has currently been demonstrated in the
+laboratory. This work builds upon and complements the algae HTL design case (Jones et al. 2014) and
+the preliminary sludge HTL TEA (Snowden-Swan et al. 2016) to provide goal case economics for an
+example of HTL for onsite, point-of-generation conversion of distributed wet waste. In addition, the
+resource and fuel potential analysis illustrates potential regional biocrude collection scenarios that could
+enable increased fuel production by taking advantage of the low fuel production cost of the largest scale
+WWTPs in the nation.
+
+1.1  Wastewater Treatment Background
+
+    Municipal wastewater treatment includes various combinations of process steps, depending on the
+constituents needing removal and the levels of removal required (Tchobanoglous et al. 2014). The
+
+
+
+                                          2

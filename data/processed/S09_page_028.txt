@@ -1,0 +1,50 @@
+washing process to remove contaminants from the biodiesel. This washing process should be
+followed by a drying process to ensure the final product will meet ASTM D 2709.
+
+Sediments may plug fuel filters and may contribute to the formation of deposits on fuel injectors
+and other engine damage. Sediment levels in biodiesel may increase over time as the fuel
+degrades during extended storage. The production QC lab should be equipped to perform this
+test on a routine basis.
+
+Method: ASTM D 445 – Kinematic viscosity, 40 º C
+Requirement: 1.9 – 6.0 mm2/s
+
+Kinematic viscosity: “the resistance to flow of a fluid under gravity”. [The kinematic viscosity is
+equal to the dynamic viscosity/density] The kinematic viscosity is a basic design specification
+for the fuel injectors used in diesel engines. Too high a viscosity, and the injectors do not
+perform properly.
+
+Dynamic viscosity – ‘ratio between applied shear stress and rate of shear of a liquid.”
+
+Density – “the mass per unit volume of a substance at a given temperature.”
+
+The viscosity of biodiesel can be predicted ± 15 % using the esters composition determined
+using ASTM D 6584. The viscosity apparatus to run D 445 is not critical to the QC lab, but it is
+valuable as a quick assay method for estimating the degree of completion for a reaction batch.
+
+Method: ASTM D 874 – Sulfated Ash
+Requirement: 0.020 wt. %, max
+
+Sulfated ash is the “... residue remaining after a [fuel] sample has been carbonized, and the
+residue subsequently treated with sulfuric acid and heated to a constant weight.” This test
+monitors the mineral ash residual when a fuel is burned.
+
+For biodiesel, this test is an important indicator of the quantity of residual metals in the fuel that
+came from the catalyst used in the esterification process. Producers that use a base catalyzed
+process may wish to run this test regularly. Many of these spent sodium or potassium salts have
+low melting temperatures and may cause engine damage in combustion chambers.
+
+Method: ASTM D5453 – Total sulfur
+Requirement: 0.05 wt. %, max
+
+“This method covers the determination of total sulfur in liquid hydrocarbons, boiling in the range
+from approximately 25 to 400 ° C, with viscosities between approximately 0.2 and 20 cSt
+(mm2/s) at room temperature.”
+
+Biodiesel feedstocks typically have very little sulfur, but this test is an indicator of contamination
+of protein material and/or carryover catalyst material or neutralization material from the
+production process. Producers using rendered or waste feedstocks should have access to this
+measurement for their feedstocks. Some biodiesels from rendered fats and greases have been
+
+
+                                      24

@@ -1,0 +1,39 @@
+                                                           Polymers and Plastics
+
+
+DURETHAN U20; solid; a polyurethane from 1,4-butanediol and hexamethyldiisocyanate;
+   formula Cl2HZ2O4N2.
+
+   gross heat of combustion: at 25°C (77'F)
+                                1    q,(gross)   11199 k 3.4 Btu lb-
+    q,(gross)  = 6221.4 t 1.9 cal gy
+    q,(gross)  = 26030.3 2 7.9 J g
+
+                                                             67FRA/MIS
+
+EPILOX EGL, HARDENED;solid; empirical formula C39H4008,5; the unhardened resin
+   plus phthalic anhydride.
+
+   gross heat of combustion: at 25°C (77°F)
+    q,(gross) = 13021 _+ 3.4 Btu lb; 1
+    q,(gross) = 7233.9 2 1.9 cal g-
+    q,(gross) = 30266.6  _+ 7.9 J g-l
+
+                                                             67FRA/MIS
+
+EPILOX EG1, UNHARDENED; solid; elementary analysis: carbon, 74.74%; hydrogen,
+   7.27%; oxygen, 17.99%; a diepoxide from epichlorhydrin plus 4,4'-dihydroxydiphenyl-
+    2,2'-propane; empirical formula C31H36O5.5.
+
+   gross heat of combustion: at 25°C (77°F)
+                                        1    q,(gross)  = 14161 f 4.5 Btu lb-
+    q,(gross) = 7867.0 f 2.5 cal g-l
+    q,(gross) = 32915.5 ? 10.5 J g-'
+
+                                                             67FRA/MIS
+
+
+
+
+
+                                       171

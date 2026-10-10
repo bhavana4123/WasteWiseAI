@@ -1,0 +1,45 @@
+3.9  Area 900: Utilities
+
+3.9.1 Overview
+Area 900 is used to track the utilities required by the ethanol production facility (except for
+steam, which is provided by Area 800). Area 900 tracks cooling water, chilled water, plant and
+instrument air, process water, and the clean-in-place (CIP) system. Area 900 also tracks the
+electricity usage throughout the plant.
+
+The process water manifold in Area 900 mixes fresh water with treated wastewater (assumed
+suitable for all plant users) and provides this water at a constant pressure to the facility. Water is
+provided to the cellulase production unit, boiler and cooling tower makeup, the CIP system, and
+the vent scrubber. Fresh water is also mixed with some internally-recycled water for dilution
+before pretreatment and enzymatic hydrolysis. The plant and instrument air systems provide
+compressed air for general use (pneumatic tools and clean-up) and instrument operation. Larger
+users of compressed air, namely the stillage filter press and cellulase system, have their own
+compressors specified. The CIP system provides hot cleaning and sterilization chemicals to
+hydrolysis and fermentation, the enzyme production section, and the distillation system.
+
+3.9.2 Design Basis
+The cooling water system is designed for a 28°C supply temperature with a 9°C temperature rise
+in coolers throughout the facility. This is an assumed average rise; the actual cooling water rises
+across each exchanger are not explicitly modeled in Aspen. The primary cooling water users in
+this process are listed in Table 24. The percentage of cooling duty contributed by each user is
+shown in Figure 14.
+
+                               Table 24. Cooling Water Users
+   M-811    Condenses the steam turbine exhaust at a vacuum.
+   M-908    The chilled-water loop requires cooling water to condense the refrigerant. The cooling
+             water duty to M-908 is set equal to the total load on the chilled-water loop.
+   H-301    Cools the pretreated slurry to enzymatic hydrolysis temperature (48°C).
+   H-509    Cools the ethanol product leaving the molecular sieve before it enters storage.
+   F-300     Before fermentation is initiated, the slurry must be cooled to fermentation temperature.
+                       It is assumed that cooling water would be used for the initial drop from 48°C to 35°C
+            and that chilled water would afterward be substituted to sustain this temperature.
+   H-503     Provides cooling and condensation during regeneration of the molecular sieve.
+   M-401    Uses cooling water to cool the compressed air used in enzyme production.
+   H-504    Condenses the beer column reflux.
+   H-244    Condenses residual pretreatment flash vapor before it enters WWT. Most of the vapor
+                  is condensed by heat exchange with the incoming dilution water and boiler feed water.
+
+
+
+
+
+                                      54

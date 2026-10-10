@@ -1,0 +1,41 @@
+relatively dilute concentration (set by solids loading limitations in enzymatic hydrolysis) as well
+as other contaminants such as furfurals, inorganic salts, residual lignin, etc.
+
+                         Table 39. Mixed Sugar Stream Composition
+              Component                    Transfer       Upgraded
+                                              Concentration  Concentration
+                                                       (g/L)             (g/L)
+                Glucose                        75.9            289.8
+                 Xylose                          42.1            160.8
+                 Arabinose                        5.1             19.6
+              Mannose                        1.3              4.8
+                 Galactose                        3.0             11.5
+                 Total sugars                   127.4           486.6
+                   Extractive organics              31.2            119.1
+                   Solubilized lignin                 1.7              6.4
+            HMF                             0.9              3.6
+                   Furfural                          0.9              0.1
+             Ammonium sulfate               5.5             21.0
+             Ammonium acetate               4.1             15.8
+                   Insoluble solids                   0.3              1.1
+
+Table 39 also presents a composition for an “upgraded” sugar stream. Given the dilute nature of
+the raw sugar stream at 127 g/L total sugars, the associated selling price of 11.6 cents/lb should
+be viewed more as a “transfer price” where the raw cellulosic sugar material is sold over the
+fence to a conversion process that can use dilute sugar. In order to present a sugar price that more
+closely resembles traditional commodity sugars, we also evaluated the cost of concentrating the
+material on-site. A triple-effect evaporator system was added to the model, with heat input
+specified to achieve 50% water in the syrup (less than 50% sugar given the additional
+components present). The heat for concentrating the sugar syrup was assumed to come from
+supplemental natural gas rather than from the residual lignin. The 2007 price for natural gas for
+industrial use was taken from the U.S. Energy Information Administration, at $7.68 per thousand
+cubic feet [88]. After considering the added cost of the evaporator and condenser equipment as
+well as the cost of natural gas, the minimum sugar selling price was calculated to be 14.3 cents/lb
+(2007$), associated with 487 g/L total sugars. This concentrated sugar still has non-sugar
+compounds that may require cleanup, at additional cost.
+
+
+
+
+
+                                      77

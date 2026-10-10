@@ -1,0 +1,48 @@
+         Figure 6-3. Effect of Operating Temperature on Fuel Cell Efficiency
+
+                100%
+                   HHV 90%
+      % 80%
+
+                70%                                                                      Efficiency, 60%
+
+                50%
+
+                40%
+                                                              H2 Fuel Cell                30%                                                                                  Thermodynamic                                                                               Carnot at 210F Condensor
+                20%                                                      Carnot at 120F Condensor
+                                                              H2 Stack Efficiency                10%                                            Maximum                                                     NG Fuel Cell Systems
+                0%
+                        0     200     400    600     800    1000   1200    1400   1600    1800   2000
+                                                            Operational Temperature, F
+
+               Source: Larminie, James and Andrew Dicks, Fuel Cell Systems Explained. John Wiley & Sons, Ltd.,
+             West Sussex, England, 2000.
+
+6.3.1.1   Fuel Cell Stacks
+Practical fuel cell systems require voltages higher than 0.55 to 0.80. Combining several cells in electrical
+series into a fuel cell stack achieves this. Typically, there are several hundred cells in a single cell stack.
+Increasing the active area of individual cells manages current flow. Typically, cell area can range from
+100 cm2 to over 1 m2 depending on the type of fuel cell and application power requirements.
+
+6.3.1.2   Fuel Processors
+In distributed generation applications, the most viable fuel cell technologies use natural gas (CH4) as the
+system’s fuel source. To operate on natural gas or other fuels, fuel cells require a fuel processor or
+reformer, a device that converts the natural gas fuel into a hydrogen-rich gas stream. While adding fuel
+flexibility to the system, the reformer also adds significant cost and complexity. There are three primary
+types of reformers: steam reformers, autothermal reformers, and partial oxidation reformers. The
+fundamental differences are the source of oxygen used to combine with the carbon within the fuel to
+release the hydrogen gases and the thermal balance of the chemical process. Steam reformers use
+steam, while partial oxidation units use oxygen gas, and autothermal reformers use both steam and
+oxygen.
+
+Steam reforming is extremely endothermic and requires a substantial amount of heat input.
+Autothermal reformers typically operate at or near the thermal neutral point, and therefore, do not
+generate or consume thermal energy. Partial oxidation units combust a portion of the fuel (i.e. partially
+oxidize it), releasing heat in the process. When integrated into a fuel cell system that allows the use of
+anode-off gas, a typical natural gas reformer can achieve conversion efficiencies in the 75 to 90 percent
+LHV range, with 83 to 85 percent being an expected level of performance. These efficiencies are defined
+as the LHV of hydrogen generated divided by the LHV of the natural gas consumed by the reformer.
+
+
+Catalog of CHP Technologies                          6–9                                        Fuel Cells

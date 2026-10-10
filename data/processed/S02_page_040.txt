@@ -1,0 +1,61 @@
+manufacture wastes half of the energy in the wood     hearth zone with unpyrolyzed biomass, leading to
+(Gengas 1950). On the other hand. Australia worked al­    momentarily high rates oftar production. The fuel size
+most exclusively with charcoal during this period be­     also is very important for proper operation. Cross draft
+cause of that country's large forest acreage and small      gasifiers have the fastest response time and the smal­
+number of vehicles.                                           lest thermal mass of any gas producers because there
+                                                                    is a minimum inventory of hot charcoal. In one design,
+Nevertheless, the simplicity of charcoal gasification                                                   a downdraft gasifier could be operated in a cross draft
+has attracted many investigators, and more than 2000                                               scheme during startup in order to minimize the startup
+charcoal systems have been manufactured in the                                                    time (Kaupp 1984a).
+Philippines. A large number are not currently working
+(Kadyszewski 1986).
+                                               5.6 The Updraft Gasifier
+5.5 The Crossdraft Gasifier                The updraft gasifier has been the principal gasifier used
+                                                              for coal for 150 years, and there are dozens in opera­
+The cross draft gasifier shown in Fig. 5-5 is the simplest                                                         tion around the world. In fact, World War II-type Lurgi
+and lightest gasifier. Air enters at high velocity through                                                                gasifiers now produce a large share of the gasoline used
+a single nozzle, induces substantial circulation, and                                                       in South Africa by oxygen gasification followed by
+flows across the bed of fuel and char. This produces                                                      Fischer-Tropsch catalytic conversion of the gas to
+very high temperatures in a very small volume and                                                            gasoline.
+results in production of a low-tar gas, permitting rapid
+adjustroent to engine load changes. The fuel and ash    The geometry of the updraft gasifier is shown in Figs.
+serve as insulation for the walls of the gasifier, permit­      4-5(a), 5-3, and 5-4. During operation, biomass is fed
+ting mild-steel construction for all parts except the noz­     into the top while air and steam are fed through a grate,
+zles and grates, which may require refractory alloys or    which often is covered with ash. The grate is at the base
+some cooling. Air-cooled or water-cooled nozzles are     of the gasifier, and the air and steam react there with
+often required. The high temperatures reached require     charcoal from the biomass to produce very hot COz and
+a low-ash fuel to prevent slagging (Kaupp 1984a).        HzO. In turn, the COz and HzO react endothermically
+                                                 with the char to form CO and Hz according to Eqs. (4-6)
+The cross draft gasifier is generally considered suitable                                                    through (4-8). The temperatures at the grate must be
+only for low-tar fuels. Some success has been observed                                                         limited by adding either steam or recycled exhaust gas
+with unpyrolyzed biomass, but the nozzle-to-grate                                                            to prevent damage to the grate and slagging from the
+spacing is critical (Das 1986). Unscreened fuels that do                                                   high temperatures generated when carbon reacts with
+not feed into the gasifier freely are prone to bridging                                                        the air.
+and channeling, and the collapse of bridges fills the
+                                              The ascending, hot, reducing gases pyrolyze the incom­
+                                                     ing biomass and cool down in the process. Usually, 5%
+                                                              to 20% of the tars and oils are produced at tempera­
+                                                           tures too low for significant cracking and are carried
+                                                     out in the gas stream (Desrosiers 1982). The remaining
+                                                      heat dries the incoming wet biomass, so that almost
+                                               none of the energy is lost as sensible heat in the gas.
+                                             The updraft gasifier throughput is limited to about
+                                                                         z                                                  10 GJ/h-m  (l06 Btu/h-ftZ) either by bed stability or by
+                                                          incipient fluidization, slagging, and overheating. Large
+                                                         updraft gasifiers are sometimes operated in the slagging
+                                                mode, in which all the ash is melted on a hearth. This
+                                          Reduction        is particularly useful for high-ash fuels such as MSW;
+     Distillation                           zone          both the Purox and Andco Torax processes operate in
+   zone                                               the slagging mode (Masuda 1980; Davidson 1978).
+      Air          __• Gas         Slagging updraft gasifiers have both a slow response
+                                                  time and a long startup period because of the large
+   Hearth                                             thermal mass involved.
+   zone
+                                             5.7 The Imbert Downdraft Gasifier
+
+                   Ash pit                              5.7.1  Introduction
+Fig. 5-5. Diagram of crossdraft gasification  (Source: Skov 1974,    The nozzle (tuyere) and constricted hearth downdraft
+Fig. 18. © 1974. Used with permission of Biomass Energy Foundation,      gasifier shown in Figs. 4-5(b), 5-4, and 5-5 is sometimes
+
+
+32    Handbook of Biomass Downdraft Gasifier Engine Systems

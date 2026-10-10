@@ -1,0 +1,53 @@
+                                                                   Agricultural Residues
+
+
+
+THOMPSON SEEDLESS GRAPES, VINEYARD PRUNINGS; solid; Material is considered
+   biomass fuel and has proximate analysis values (in percent by weight dry basis) for
+    volatile concentration (VCM) = 77.39, ash content = 2.25, and fixed carbon = 20.36.
+   Also the ultimate analysis of the elemental composition of the fuel (values in percent
+   by weight dry basis) is carbon = 47.35, hydrogen = 5.77, oxygen   43.32, nitrogen =
+    0.77, sulfur = 0.01, chlorine = 0.07, and residue (ash) = 2.71.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+                       1    qv(gross) = 8325 Btu lb-
+    q,(gross)  = 4625 cal g-'
+    q,(gross)  = 19350 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net)  = 7821 Btu lbi'
+    q,(net)  = 4345 cal g;
+    q,(net)  = 18180 3 g-
+
+                                                             85JEN/EBE
+
+TOKAY GRAPES, VINEYARD PRUNINGS; solid; Material is considered biomass fuel and
+   has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 76.53, ash content = 2.45, and fixed carbon   21.02.  Also the
+   ultimate analysis of the elemental composition of the fuel (values in percent by
+   weight dry basis) is carbon = 47.77, hydrogen = 5.82, oxygen = 42.63, nitrogen = 0.75,
+    sulfur = 0.03,  chlorine = 0.07, and residue (ash) = 2.93.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02, and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross) = 8307 Btu lb-I
+    q,(gross)  = 4615 cal g-l
+   qv(gross) = 19310 J g-'
+
+   net heat of combustion: assume values refer t o room temperature.
+   qv(net) = 7795 Btu lb; 1
+   qv(net) = 4331 cal g l
+   qv(net)  18120 J g-
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                         27

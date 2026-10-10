@@ -1,0 +1,28 @@
+Figure 10: Transport fuels via bio-oil and biomass gasification (MTG: Methanol To Gasoline;
+MOGD: Methanol to Olefins, Gasoline and Diesel)
+
+
+Hydro processing of bio-oil and other upgrading methods
+Conversion of bio-oil into hydrocarbons requires removal of oxygen. Oxygen rejection from
+bio-oil can be as water by reaction with hydrogen or as carbon dioxide. Hydroprocessing
+or hydrotreatment was extensively studied at Pacific Northwest National Laboratory
+(PNNL) in the USA and the University of Louvain in Belgium in the 1990s, and a
+comprehensive review of this work has been published.20 This early work focused on
+conventional hydro-treating catalysts as used for hydrodesulphurization based typically on
+Co/Mo or Ni/Mo. While some success was obtained in producing a naphtha-type product
+in a two-stage high pressure process, catalyst instability problems in the high water
+content bio-oil and poor economics with low crude oil prices caused interest to wane.21
+
+
+More recently, high oil prices and other pressures have led to a resurgence in interest and
+hydroprocessing optimization is being carried out at the PNNL on a bench-scale fixed-bed
+continuous-flow reactor to produce partially upgraded petroleum refinery feedstock with
+the intent to displace imported petroleum.This is funded by the US Department of Energy
+as part of a cooperative project with UOP LLC and the NREL.
+
+
+The alternative of rejection of oxygen as carbon dioxide is based on atmospheric cracking
+of pyrolysis vapours over zeolite catalysts, which was pioneered at NREL.22 The inherent
+attraction is that it is a low pressure process that is integrated into the fast pyrolysis
+process, and thus offers potential cost savings. However the lower yields and complexity
+from the requirement to constantly regenerate the coked zeolite catalysts has inhibited            15

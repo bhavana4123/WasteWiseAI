@@ -1,0 +1,52 @@
+Plant Materials (Non-W oody)
+
+
+GRASS, LAWN CLIPPINGS;solid; ultimate analysis: carbon, 48.18%; hydrogen, 5.96%;
+   oxygen, 36.43%; nitrogen, 4.46%; sulfur, 0.42%; ash, 6.55%; proximate analysis on an
+   as received basis: moisture, 75.24%; volatile matter, 18.64%; fixed carbon, 4.50%;
+   ash, 1.42%.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+   dry basis                                as received
+                                                qv(gross)  2059 Btu lb- 1    q,(gross)   8312 Btu Ib-'
+    q,(gross)  = 4618 cal g-l                     qv(gross)   1144 cal
+    q,(gross)  = 19322 J g-l                      qv(gross)  4787 J
+
+                                                                    66KAI
+
+GREASEWOOD; Sarcobatus vermiculatus; solid; Samples of current year's annual growth
+   and woody tissue of large rangeland shrubs were collected from 3 sites in several
+   intermountain states. Surface soil pH = 7.9 - 9.5; soil class is sandy loam-clay loam.
+   Mean content of current year's growth:  ash, 20.2%; sulfur, 0.46%; moisture, 0.46%.
+   Mean content of woody tissue:  ash, 1.7%; sulfur, 0.24%; moisture, 34.0%.
+
+   gross heat of combustion:  oven-dry weight; assume values refer to room
+   temperature; value is mean of an average of values from 3 to 5 plants from each site.
+
+   current year's growth                  woody tissue
+    q,(gross)   6599 Btu IbT 1                                                 qv(gross) = 8507 Btu Ib;'
+    qv(gross) = 3666 cal g-                      qv(gross) = 4726 cal g-                                                 qv(gross) = 19774 J g- I     q,(gtoss)   = 15339 1 g-'
+
+                                                        82VANlBAR
+
+HERB ROBERT (RED ROBIN); Geranium robertianum; solid; Material is an integral part
+   of the ecosystem at the herbaceous layer level of the mixed fir and beech forest in
+   the Pulmonario (tubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+     is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated to a dry basis.
+    qv(gross) = 71 12 Btu lb- I
+    qv(gross) = 3951 cal g-l
+    q,(gross)  = 16531 J g-l
+
+                                                         73PAU/BRE
+
+
+
+
+
+                                        150

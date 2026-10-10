@@ -1,0 +1,47 @@
+they can be used with a gas turbine in a combined cycle configuration. Boiler emissions vary depending
+on fuel type and environmental conditions.
+
+Table 4-4 illustrates typical emissions of NOx, PM, and CO for boilers by size of steam turbine system and
+by fuel type. SOx emissions are not based on the size of the boiler; rather, they are a function of the
+sulfur content of the fuel and the fuel combustion rate. Based on using the average fuel heat content
+assumptions, uncontrolled input emissions for SOx range from 0.49-1.9 lbs/MMBtu from coal,79 1.16­
+2.22 lbs/MMBtu from wood,80 1.53lbs/MMBtu from fuel oils,81 and very little to insignificant levels from
+natural gas combustion.
+
+                   Table 4-4. Typical Boiler Emissions Ranges
+                                System 1                            Systems 2 and 3
+      Boiler Fuel                   500 kW                            3 MW / 15 MW
+                     NOx       CO      PM         NOx        CO        PM
+ Coal (lbs/MMBtu)       N/A        N/A        N/A        0.20-1.24      0.0.02-0.7
+ Wood                        0.22-0.49        0.6        0.33-0.56      0.22-0.49        0.06         0.33-0.56 (lbs/MMBtu)
+ Fuel Oil                        0.15-0.37       0.03       0.01-0.08      0.07-0.31        0.03         0.01-0.08 (lbs/MMBtu)
+ Natural Gas                         0.03-0.1       0.08                -          0.1 – 0.28        0.08                   - (lbs/MMBtu)
+Note: all emissions values are without post-combustion treatment.
+Source: EPA, Compilation of Air Pollutant Emission Factors, AP-42, Fifth Edition, Volume I: Stationary Point and Area
+Sources
+
+4.5.1  Boiler Emissions Control Options - NOx
+NOx control has been a focus of emission control research and development in boilers. The following
+provides a description of the most prominent emission control approaches.
+
+4.5.1.1   Combustion Process emissions Control
+Combustion control techniques are less costly than post-combustion control methods and are often
+used on industrial boilers for NOx control. Control of combustion temperature has been the principal
+focus of combustion process control in boilers. Combustion control requires tradeoffs – high
+temperatures favor complete burn up of the fuel and low residual hydrocarbons and CO, but promote
+NOx formation. Very lean combustion dilutes the combustion process and reduces combustion
+temperatures and NOx formation, and allows a higher compression ratio or peak firing pressures
+resulting in higher efficiency. However, if the mixture is too lean, misfiring and incomplete combustion
+occurs, increasing CO and VOC emissions.
+
+
+79 http://www.eia.gov/coal/production/quarterly/co2_article/co2.html
+80
+http://www20.gencat.cat/docs/dmah/Home/Ambits%20dactuacio/Medi%20natural/Gestio%20forestal/Funcions%20dels%20b
+oscos/Funcions%20productores%20del%20bosc/Biomassa%20forestal/Activitats%20realitzades/Curs%20daprofitament%20de%
+20biomassa%20forestal/2_ncp.pdf
+81 http://www.imo.org/OurWork/Environment/PollutionPrevention/AirPollution/Pages/Sulphur-oxides-(SOx)-%E2%80%93­
+Regulation-14.aspx
+
+
+Catalog of CHP Technologies                         4–16                           Steam Turbines

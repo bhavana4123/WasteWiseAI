@@ -1,0 +1,19 @@
+TA 6M: Waste Heat Recovery
+
+
+
+   Smelting             The chemical reduction of a metal from its ore. Smelting separates
+                               impurities, allowing for their removal from the metal.
+
+    Specific heat          The amount of heat required to raise a unit of mass of a substance by one
+                         degree in temperature, under a specified temperature and pressure.
+
+   Thermal efficiency    A measure of the efficiency of converting a fuel to energy and useful work;
+                             useful work and energy output divided by higher heating value of input fuel
+                           times 100 (for percent).
+
+
+
+
+
+39  Quadrennial Technology Review 2015

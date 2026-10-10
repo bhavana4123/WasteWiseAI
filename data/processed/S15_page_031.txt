@@ -1,0 +1,67 @@
+TA 6M: Waste Heat Recovery
+
+
+
+  Considerations for the Chemicals and Petroleum Refining Industries
+
+  The chemicals and petroleum refining industries were the two largest energy-consuming U.S. manufacturing
+   sectors in 2010, consuming 4,252 TBtu and 3,542 TBtu, respectively, of the 19,237 TBtu of manufacturing total
+  primary energy use.30,31,32 WHR related R&D issues in the Chemical and Petroleum industries include:
+
+             Heat recovery from low-temperature (<200°F) but relatively clean gases, such as combustion products,
+         from natural gas-fired heaters or boilers.
+
+            Compact heat exchangers that allow condensation of water vapor and utilize mediums that require
+         minimal water.
+
+             Treatment of high-temperature gases containing corrosive gases (such as hydrochloric acid, etc.). This
+          includes removing (or reacting) these compounds while allowing heat recovery using conventional heat
+         exchanger equipment.
+
+             Equipment to recover heat from exothermic processes. The system must be compact and reliable and
+           deliver recovered heat in the form of high-pressure steam or another compact usable form.
+
+             Development of compact heat exchangers such as micro-channel heat exchangers for use in industrial
+          environments. A major requirement is tolerance of the minor and unpredictable presence of solids or
+          other materials that may adversely affect heat exchanger performance.
+
+             Development of air-cooled heat exchangers that can replace water-cooled units. This will reduce water
+          use and associated energy use.
+
+             Economically justifiable energy recovery from flared gases.
+
+  Considerations for the Forest Products Industry
+
+  The forest products industry was the third largest energy-consuming U.S. manufacturing sector in 2010
+   (following chemicals; and petroleum refining), consuming 3,152 TBtu of the 19,237 TBtu of manufacturing
+   total primary energy use.33,34 WHR related R&D considerations for the Paper industry include:
+
+             Development of heat recovery or energy conversion systems for low-temperature (<140°F) heat sources,
+         such as exhaust gases, that may contain water vapor and other contaminates, such as small amounts of
+            fibers or particulates.
+
+          A system for dehumidifying high-temperature (≥140°F) air containing fibers or particulates.
+
+             Development of heat recovery from low-temperature water (<100°F) for use in the plant.
+
+             Development of a drying system for solids, using waste heat from the exhaust gases.
+
+   Considerations for the Food and Beverage Industry
+
+  The food and beverage industry was the fourth largest energy-consuming U.S. manufacturing sector in 2010
+   (following chemicals; petroleum refining; and forest products), consuming 1,836 TBtu of the 19,237 TBtu of
+  manufacturing total primary energy use.35,36 The R&D issues for the Food or Snack manufacturing industry
+   include:
+
+             Heat recovery or energy conversion systems for low-temperature (<200°F) heat sources, such as exhaust
+           gases, that may contain water vapor and other contaminates, such as small amounts of oil vapors.
+
+             Heat recovery from low-temperature water (<100°F) for plant use.
+
+             Improved efficiency heater systems to reduce energy intensity.
+
+
+
+
+
+30  Quadrennial Technology Review 2015

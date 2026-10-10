@@ -1,0 +1,55 @@
+ Table 3-1 . ASTM Standards Methods for Proximate    MCW  (wet weight - dry weight)/wet weight.  (3-1)                                                    =    and Ultimate Analysis of Wood Feedstocks
+                                                     Sometimes, moisture content is reported on a dry­
+     Method                          Test No.                                                     weight basis, MCD, where
+      Proximate Analysis
+                                     MCD  (wet weight - dry weight)/dry weight.  (3-2)         Moisture                         E871                  =
+          Volatile ma1ler                  E872                                                     Values given in one form can be converted to the other
+       Ash                             Dl l 02                                                          as shown in Fig. 3-2 according to the relationships:
+       Ullimate Analysis
+                                         MCD = MCW/(l - MCW), and           (3-3)      C                           E777
+      H                           E777                                     MCW = MCD/(l + MCD).             (3-4)
+     0                           E870
+      N                           E778             Moisture contents for typical biomass fuels are shown
+      S                            E775             in Table 3-4. The effect of moisture content on heat
+      Gross Healing Value                E71 1             recovery and combustion efficiency is shown in
+                                                       Table 3-5. Recoverable heat drops dramatically with
+                                                        increased moisture since the heat of vaporization of the
+                                                     water is not normally recovered during combustion
+     Table 3-2. Elemental Analyzer Equipment                                                               (see Table 4-1).
+ Instrument        Oxidant   Capability     Detection"                                                      Since biomass varies in its properties from day to day
+ Carlo Erba 1 104    oxygen    C,H,N,O       FID & TC      and from load to load, it is common to report analyses
+                                               on a dry basis, and sometimes on a moisture- and ash­
+ Chemical Data     oxygen    C,H,N,O,S     FID & TC                                                                 free (MAF) basis.   is then a simple matter to calculateSystems                  and functional                                               It
+                                                         other specific conditions from this value. (CDS 1 200)                   groups
+                                             The ultimate analysis gives the chemical composition Hewle1l-Packard   Mn02     C,H,N         FID & TC
+Hp·185           added                             and the higher heating value of the fuels. The chemi­
+                                                             cal analysis usually lists the carbon, hydrogen, oxygen,
+ Perkin Elmer 240   oxygen    C,H,N,O,S    TC             nitrogen, sulfur, and ash content of the dry fuel on a
+aFID-Flame ionization detector                              weight percentage basis. Ultimate analyses for a num­
+ TC-Thermal conductivity                                    ber of biomass and other solid fuels are given in
+Source: Reed 1981                                         Table 3-6 and for various chars in Table 3-7.
+
+                                                  Note in Table 3-6 that biomass is typically very low in
+                                                     both nitrogen and sulfur content relative to fossil fuels.
+is relatively simple and can be performed with a drying    However, selected biomass feedstocks may have much
+oven, a laboratory furnace, and a balance. The ultimate     higher values. The sulfur and nitrogen contents of
+analysis involves more advanced chemical techniques.     selected biomass fuels are shown in Tables 3-8 and 3-9.
+Both analyses can be performed in commercial
+laboratories for $25 to $100.
+
+The proximate analysis determines the moisture (M),
+volatile matter      ash (A), and (by difference) fixed              (VM),
+carbon content (C) of a fuel, using standard ASTM tests.           "'
+                                                                                                       '" 60Moisture is analyzed by the weight loss observed at                                                                                                                   'in.0                                             l---110°C. The volatile matter is driven off in a closed        V                                        ""crucible by          slow                 heating                           to                           950°C,                             and the
+weighed          again.             The                   high                         heating                                      rates                                     encountered                                      sample is        E- 40                                                                                                                                                          <1>
+within an actual gasifier yield a higher volatile content          Vand a lower fixed carbon content than the slow rate              Co"
+used in the ASTM measurement, but char yield from                                                         20  /                                                                                                                            A.3   /the gasifier is expected to be proportional to char yield            "'
+from the ASTM test.                                                '0                                                   E
+The proximate analyses for selected biomass
+                                                                   40      80      120      160     200feedstocks and other solids are shown in Table 3-3.           V  % moisture content, dry basisNote that more than 70% of most biomass material is
+volatile under the conditions of the test. The proximate
+analysis generally includes moisture content measured       Fig. 3-2. Wet basis-dry basis moisture content comparison (Source:
+on a wet basis, MCW, where                           McGowan 1980, Fig, 1-1)
+
+
+10    Handbook of Biomass Downdraft Gasifier Engine Systems

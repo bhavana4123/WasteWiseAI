@@ -1,0 +1,44 @@
+Polypeptides and Proteins                                                                                                                                                                                       I
+
+
+
+COLLAGEN; solid; fibrous protein that comprises the major portion of the white fiber in
+   connective tissues of the animal body; chief amino acids present are proline,
+   hydroxyproline, and glycine; converted to gelatine by boiling with water.
+
+   specific heat: 298 K (77'F)
+
+     moisture content
+                                                                             -1   -1           (wt. %)      Cp(Btu lb-I   OF-')      cP(cal g-l K-')      Cp(J g  K  1
+         0                 0.3723                 0.3723              1.5577
+             1.02               0.3490                 0.3490               1.4602
+             1.96               0.3659                0,3659              1.5309
+            4.56                0.40 14                   0.40 14               1.6795
+            6.49               0.406 1                  0.406 1              1.699 1
+            17.03                0.4280                  0.4280               1.7908
+
+                                                          55KAN
+
+GELATINE; solid; a protein obtained from collagen by boiling skin, ligaments, tendons,
+   bones, etc. with water; can absorb 5 t o 10 times its weight of water.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+   As received: ash content, 0.6%-0.8%;  water content not determined.
+    q,(gross)   7920 Btu Ib- 1
+    q,(gross)   4400 cal g- 1
+    qv(gross) = 18410 J g- 1
+
+   Ash free and moisture free
+
+    q,(gross)  = 9270 f 180 Btu lb;'
+    qv(gross)  5150 f 100 cal g-
+    q,(gross) = 21550 f 400 J g-l
+
+                                                        15ROTlWAL
+
+
+
+
+
+                                       192

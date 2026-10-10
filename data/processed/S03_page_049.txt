@@ -1,0 +1,27 @@
+At the 15-day MCRT operational period, the energy benefit on a normalized basis (per ton of
+food waste fed) was higher than during the 10-day MCRT operational period. The 15-day
+MCRT likely provides more time for more methanogens to grow and produce more methane gas,
+compared to the 10-day MCRT. However, at the shorter MCRT period, more food waste is fed
+per unit of digester volume, which can result in an increase in overall gas production at a 10-day
+MCRT compared to a 15-day MCRT. For example, a 1 million gallon digester operating at a 15­
+day MCRT is fed food waste at 66,666 gallons per day. Assuming 10% solids, the food waste
+loading is approximately 27.8 dry tons per day. At a 10-day MCRT, the feed rate is 100,000
+gallons per day, which at 10% solids results in approximately 41.7 dry tons of food waste fed per
+day. The resulting increase in food waste fed is 13.9 dry tons per day or 50% more than the 27.8
+dry tons per day at a 15-day MCRT. Using the average methane production at a 15-day MCRT
+(from Table 3.11, 13,300 ft3 methane/ dry ton of food waste fed per day), and 27.8 dry tons of
+food waste fed per day at the 15-day MCRT, 369,740 ft3 of methane gas is produced per day.
+Because of the higher feed rates at a 10-day MCRT, using the same digester volume and food
+waste solids fed, 50% more food waste is fed to digester (for a total of 41.7 dry tons of food
+waste fed per day) than if the digester was operated at a 15-day MCRT. Using the 10-day
+MCRT average daily methane production rate (from Table 3.11, 9,500 ft3 methane/ dry ton of
+food waste fed per day), results in 396,150 ft3 of methane produced per day, which is
+approximately 7% more than the daily methane gas produced at a 15-day MCRT (369,740 ft3
+/day).
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               34
+Funding Opportunity No. EPA-R9-WST-06-004

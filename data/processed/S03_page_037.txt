@@ -1,0 +1,47 @@
+By the end of the 10-day MCRT operational period, the mesophilic digester VS/TS had dropped
+to the level observed in the thermophilic digester. Overall, it appears that anaerobic digesters
+operated at thermophilic temperatures are better able to reduce the VS, compared to digesters
+operated at mesophilic temperature. However, both digesters fed food waste maintained a
+VS/TS close to that of municipal wastewater solids, even though the feed sludge had a
+considerably higher TS and VS/TS than typical municipal feed sludge. This was observed at
+both mesophilic and thermophilic temperatures, and also at the shorter 10-day MCRT
+operational period.
+
+5-day MCRT
+During the 5-day MCRT operational period, the feed TS continued to increase, and peaked at
+14%. Interestingly, the digester sludge TS did not significantly increase at either thermophilic or
+mesophilic digesters during this period. This shows that the food waste solids can be broken
+down under acid digester conditions, but without the benefit of methane gas production.
+
+Digester sludge VS/TS for both mesophilic and thermophilic digesters increased during this
+period due to an increase in feed VS/TS. However, during this period, the thermophilic digester
+maintained a slightly lower VS/TS, again showing that temperature is significant for bacterial
+growth at low MCRTs in order to sustain a population to breakdown volatile solids.
+
+3.7    Volatile Solids Loading Rate
+
+The VS loading rate is often used to monitor the organic loading applied to anaerobic digesters.
+The VS loading rate can be used in conjunction with other parameters, such as TVA and TALK
+to monitor impacts of digester organic load on digester stability. Municipal sludge VS loading
+rates typically range from 0.12 to 0.16 lb VS per cubic foot of active digester volume per day (lb/
+ft3-day) for stable mesophilic digesters (WEF, 1998).
+
+The VS loading rate was calculated using the measured VS of the feed, digester volume, and the
+feed rate.
+The following simplified equation was used:
+
+       VSload (lb/ft3-day) = VS%feed X Feed Rate (L/day) ×0.62 (conversion factor)
+                             Digester Volume (L)
+
+The conversion factor above resulted from converting solids percent by mass to pounds of solids,
+and converting liters of digester volume to cubic feet.
+
+Table 3.6 summarizes the average VS loading rate for both the food waste-fed thermophilic and
+mesophilic digesters during the study
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               22
+Funding Opportunity No. EPA-R9-WST-06-004

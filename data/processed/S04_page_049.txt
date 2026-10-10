@@ -1,0 +1,51 @@
+As discussed above, an added performance advantage of lean burn operation is higher output and
+higher efficiency. Optimized lean burn operation requires sophisticated engine controls to ensure that
+combustion remains stable and NOx reduction is maximized while minimizing emissions of CO and VOCs.
+Table 2-9 shows data for a large lean burn natural gas engine that illustrates the tradeoffs between NOx
+emissions control and efficiency. At the lowest achievable NOx levels (45 to 50 ppmv), almost 1.5
+percentage points are lost on full rated efficiency.
+
+        Table 2-9. Uncontrolled NOx Emissions versus Efficiency Tradeoffs
+           Engine Characteristics                  Low NOx            High Efficiency
+            Capacity (MW)                                  9.3                     9.3
+          Speed (rpm)                               720                 720
+              Efficiency, LHV (percent)                       44.1                   45.7
+            Emissions:
+          NOx (g/kWh)                                  0.62                     1.2
+           (ppmv @ 15% O2)                         45                  90
+         CO (g/kWh)                                     1.9                     1.3
+           (ppmv @ 15 % O2)                        226                 158
+        NMHC (g/kWh)                                 1.0                    0.71
+           (ppmv @ 15% O2)                         209                 153
+         Data Source: Based on engine manufacturer’s data – Wartsila 20V34SG Prechamber Lean Burn Gas
+          Engine30
+
+
+Combustion temperature can also be controlled to some extent in reciprocating engines by one or more
+of the following techniques:
+
+    •   Delaying combustion by retarding ignition or fuel injection.
+
+    •   Diluting the fuel-air mixture with exhaust gas recirculation (EGR), which replaces some of the air
+      and contains water vapor that has a relatively high heat capacity and absorbs some of the heat
+        of combustion.
+
+    •   Introducing liquid water by direct injection or via fuel oil emulsification – evaporation of the
+       water cools the fuel-air mixture charge.
+
+    •   Reducing the inlet air temperature with a heat exchanger after the turbocharger or via inlet air
+        humidification.
+
+    •   Modifying valve timing, compression ratio, turbocharging, and the combustion chamber
+        configuration.
+
+Water injection and EGR reduce diesel NOx emissions 30 to 60 percent from uncontrolled levels. The
+incorporation of water injection and other techniques to lean burn gas engines is the focus of ongoing
+R&D efforts for several engine manufacturers and is being pursued as part of the Department of
+
+
+30 Wartsila Gas-fired Engines. http://www.wartsila.com/en/power-plants/technology/combustion-engines/gas­
+engines#expandable_id
+
+
+Catalog of CHP Technologies                         2–23                         Reciprocating IC Engines

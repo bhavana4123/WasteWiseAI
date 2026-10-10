@@ -1,0 +1,47 @@
+compressor to raise the gas pressure to the point at which it can be introduced into the compressed
+inlet air-stream. Electrical efficiencies and heat rates shown are net of power losses from the gas
+booster compressor. Customers that have, or can gain access to, high pressure gas from their local gas
+utility can avoid the capacity and efficiency losses due to fuel gas compression. Capital costs, described
+in more detail in a later section, are based on assumptions of a basic grid connect installation.
+Installation costs can vary widely depending on site conditions and regional differences in material,
+labor, and site costs. Available thermal energy is calculated based on manufacturer specifications on
+turbine exhaust flows and temperatures. CHP thermal recovery estimates are based on producing hot
+water for process or space heating applications. All performance specifications are at full load
+International Organization for Standards (ISO) conditions (59 oF, 60 percent RH, 14.7 psia).
+
+The data in the table show that electrical efficiency generally increases as the microturbine becomes
+larger. Microturbines have lower electrical efficiencies than reciprocating engines and fuel cells, but are
+capable of high overall CHP efficiencies. The low power to heat ratios (P/H) of microturbines (which
+implies relatively more heat production), makes it important for both overall efficiency and for
+economics to be sited and sized for applications that allow full utilization of the available thermal
+energy.
+
+As shown, microturbines typically require 50 to 140 psig fuel supply pressure. Local distribution gas
+pressures usually range from 30 to 130 psig in feeder lines and from 1 to 50 psig in final distribution
+lines. If available, sites that install microturbines will generally opt for high pressure gas delivery rather
+than adding the cost of a booster compressor with its accompanying efficiency and capacity losses.
+
+Estimated installed capital costs range from $4,300/kW for the 30 kW system down to $2,500/kW for
+the 1,000 kW system – described in more detail in Section Capital Cost.
+
+          Table 5-2. Microturbine Cost and Performance Characteristics
+                                                             System
+      Microturbine Characteristics [1]
+                                        1        2        3        4        5        6
+ Nominal Electricity Capacity (kW)            30       65       200      250      333      1000
+ Compressor Parasitic Power (kW)            2        4        10       10       13       50
+ Net Electricity Capacity (kW)                28       61       190      240      320      950
+ Fuel Input (MMBtu/hr), HHV                0.434     0.876     2.431     3.139     3.894     12.155
+ Required Fuel Gas Pressure (psig)            55-60     75-80     75-80    80-140    90-140    75-80
+ Electric Heat Rate (Btu/kWh), LHV [2]        13,995    12,966    11,553    11,809    10,987    11,553
+ Electric Efficiency (%), LHV [3]              24.4%    26.3%    29.5%    28.9%    31.1%    29.5%
+ Electric Heat Rate (Btu/kWh), HHV          15,535    14,393    12,824    13,110    12,198    12,824
+ Electric Efficiency (%), HHV                21.9%    23.7%    26.6%    26.0%    28.0%    26.6%
+ CHP Characteristics
+ Exhaust Flow (lbs/sec)                       0.68      1.13      2.93       4.7        5.3       14.7
+ Exhaust Temp (oF)                        530      592      535      493      512      535
+ Heat Exchanger Exhaust Temp (oF)           190      190      200      190      190      200
+ Heat Output (MMBtu/hr)                    0.21      0.41      0.88      1.28      1.54      4.43
+
+
+Catalog of CHP Technologies                          5–6                                  Microturbines

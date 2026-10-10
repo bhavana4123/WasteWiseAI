@@ -1,0 +1,49 @@
+requirements, emissions control requirements, prevailing labor rates, and whether the system is a new
+or a retrofit application.
+
+Table 5-3 provides cost estimates for combined heat and power applications, assuming that the CHP
+system produces hot water and that there is no fuel pretreatment. Thermal recovery in the form of
+cooling can be accomplished with the addition of an absorption chiller – not included in this comparison.
+The basic microturbine package consists of the microturbine and power electronics. All of the
+commercial and near-commercial units offer basic interconnection and paralleling functionality as part
+of the package cost. All but one of the systems offers an integrated heat exchanger heat recovery
+system for CHP within the package.
+
+There is little additional equipment that is required for these integrated systems. A heat recovery
+system has been added where needed, and additional controls and remote monitoring equipment have
+been added. The total plant cost consists of total equipment cost plus installation labor and materials
+(including site work), engineering, project management (including licensing, insurance, commissioning
+and startup), and financial carrying costs during a typical 3-month construction period.
+
+The basic equipment costs represent material on the loading dock, ready to ship. It includes the cost of
+the generator package, the heat recovery, the flue gas compression and interconnection equipment
+cost. As shown in the table, the cost to a customer for installing a microturbine-based CHP system
+includes a number of other factors that increase the total costs by 70-80 percent.
+
+Labor/materials represent the labor cost for the civil, mechanical, and electrical work and materials such
+as ductwork, piping, and wiring. A number of other costs are also incurred. These costs are often
+referred to as soft costs and they vary widely by installation, by development channel and by approach
+to project management. Engineering costs are required to design the system and integrate it
+functionally with the application’s electrical and mechanical systems. In this characterization,
+environmental permitting fees are included. Project and construction management also includes general
+contractor markup, and bonding and performance guarantees. Contingency is assumed to be 5 percent
+of the total equipment cost in all cases. An estimated financial interest of 5 percent during a 3-month
+construction period is also included.
+
+The cost estimates shown represent a basic installation. In the California Self-Generation incentive
+Program (SGIP) the average installation cost for 116 non-renewable fuel microturbine systems between
+2001-2008 was $3,150/kW. For 26 renewable fueled systems over the same time period, the average
+installed cost was $3,970/kW.85
+
+                  Table 5-3. Equipment and Installation Costs
+                                                          System
+                                 1         2         3          4          5          6
+  Electric Capacity
+ Nominal Capacity (kW)             30        65        200        250        333        1000
+ Net Capacity (kW)                 28        61        190        240        320        950
+
+
+85 CPUC Self-Generation Incentive Program: Cost Effectiveness of Distributed Generation Technologies, ITRON, Inc., 2011.
+
+
+Catalog of CHP Technologies                         5–13                                  Microturbines

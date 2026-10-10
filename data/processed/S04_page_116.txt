@@ -1,0 +1,43 @@
+relatively long start-up times (particularly for MCFC and SOFC) will most likely prevent the widespread
+use of fuel cells in peak shaving applications.
+
+6.2.6  Resiliency
+Fuel cells can be configured to operate independently of the grid, and can therefore provide emergency
+power during outages. This was evident particularly during recent hurricane events, where significant
+power outages occurred. For instance, during Hurricanes Irene and Superstorm Sandy, fuel cells helped
+keep communication lines open for different communications service providers.92 Fuel cells are also
+generally resilient based on the undergrounded natural gas supply.
+
+6.3   Technology Description
+Fuel cells produce direct current electricity through an electrochemical process, much like a standard
+battery. Unlike a standard battery, a fuel supply continuously replenishes the fuel cell. The reactants,
+most typically hydrogen and oxygen gas, are fed into the fuel cell reactor, and power is generated as
+long as these reactants are supplied. The hydrogen (H2) is typically generated from a hydrocarbon fuel
+such as natural gas or LPG, and the oxygen (O2) is from ambient air.
+
+6.3.1  Basic Processes and Components
+Fuel cell systems designed for DG applications are primarily natural gas or LPG fueled systems. Each fuel
+cell system consists of three primary subsystems: 1) the fuel cell stack that generates direct current
+electricity; 2) the fuel processor that converts the natural gas into a hydrogen rich feed stream; and 3)
+the power conditioner that processes the electric energy into alternating current or regulated direct
+current.
+
+Figure 6-2 illustrates the electrochemical process in a typical single cell, acid-type fuel cell. A fuel cell
+consists of a cathode (positively charged electrode), an anode (negatively charged electrode), an
+electrolyte and an external load. The anode provides an interface between the fuel and the electrolyte,
+catalyzes the fuel reaction, and provides a path through which free electrons conduct to the load via the
+external circuit. The cathode provides an interface between the oxygen and the electrolyte, catalyzes
+the oxygen reaction, and provides a path through which free electrons conduct from the load to the
+oxygen electrode via the external circuit. The electrolyte, an ionic conductive (non-electrically
+conductive) medium, acts as the separator between hydrogen and oxygen to prevent mixing and the
+resultant direct combustion. It completes the electrical circuit of transporting ions between the
+electrodes.
+
+
+
+
+
+92 The Business Case for Fuel Cells, Reliability, Resiliency & Savings (2013). See www.fuelcells.org.
+
+
+Catalog of CHP Technologies                          6–6                                        Fuel Cells

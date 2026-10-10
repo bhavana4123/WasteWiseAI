@@ -1,0 +1,59 @@
+              Figure 3.14 Anaerobic Food Waste Digester Specific Methane Gas Production Rate
+
+         10
+                Start 15d MCRT                                 Start 10d MCRT                                       Start 5d MCRT
+              11/27/2006                                 1/9/2007                                         3/3/2007         Thermo Test
+         9                                                                                          Meso Test
+
+                                                                                                      Meso
+         8
+                                                                                                                                  Stable
+        TS)                                                                                                   Thermo
+         7
+        /lb                                                                                                                         Stable
+        (ft3                                                                                               Meso and
+          Rate  6                                                                                            Typical Avg:        ThermoStable
+        ion  5                                                                                  5 ft3/lb (1)     NOTES:
+        uct                                                                                                                                                 1. Average values
+        rod  4                                                                                                                                             ofmunicipaldigesterssludgefed
+   P
+   s                                                                                                                                per previous
+     Ga  3                                                                                   EBMUD2. Shadedstudy.areas
+     ne                                                                                                                        denote stable
+     ha                                                                                                                                   operating periods,
+        Met  2                                                                                                              wheremeso, bluered isisforfor
+                                                                                                                                      thermo, and
+         1                                                                                                                               purple is for both
+                                                                                                          meso and thermo.                     Specific
+         0
+        11/25/2006   12/9/2006   12/23/2006    1/6/2007    1/20/2007    2/3/2007    2/17/2007    3/3/2007    3/17/2007
+
+                                                    Date
+
+3.11  Chemical Oxygen Demand (COD) Loading Rate
+
+The COD loading rate was monitored to determine the organic strength of food waste, and then
+was compared to the organic strength of municipal wastewater solids. The COD loading rate is
+comparable to VS loading rate. For municipal wastewater solids digestion, COD loading rates
+can be used to monitor and prevent digester upset, possibly resulting from ammonia and/or other
+compounds found in wastewater solids reaching toxic levels due to higher feed rates.
+
+Samples for COD were collected twice a week. The COD loading rate was calculated based on
+the COD concentration, digester feed rate, and digester volume.
+
+COD loading rate was calculated using the following equation:
+
+CODload (lb/ ft3-day) =      CODfeed (mg/L) X Feed Rate (L/day) ×0.000062 (Conversion Factor)
+                                                Digester Volume (L)
+
+The conversion factor above results from converting milligrams of solids to pounds of solids,
+and converting liters of gas to cubic feet.
+
+Table 3.10 summarizes the COD loading rate for each MCRT operational period. The COD
+loading rate increased as the MCRT decreased because more food waste was applied to the
+digesters. The COD loading rate observed at the 5-day MCRT most likely was not a limiting
+factor for food waste digestion, because the digester instability likely resulted from a reduced
+methanogen population at a 5-day MCRT.
+
+Anaerobic Digestion of Food Waste                                                               30
+Funding Opportunity No. EPA-R9-WST-06-004

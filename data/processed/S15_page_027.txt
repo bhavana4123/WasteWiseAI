@@ -1,0 +1,63 @@
+TA 6M: Waste Heat Recovery
+
+
+ R&D Opportunities1,20,21,22,23,24,25
+
+  There is a significant opportunity for crosscutting R&D that could meet requirements of many different
+   industries and at the same time fill the gaps in capabilities or performance of the currently available systems.
+
+  Opportunities in Applied Research
+
+  Heat transfer:
+
+  R&D opportunities in heat transfer area include:
+
+            Enhancement of heat transfer for gases or air to reduce the size of heat exchangers. This could include
+         advancements in heat transfer surfaces in shape, configuration, coatings, and changes in fluid flow
+          patterns through innovative flow patterns, changes in gas compositions, or other methods that could
+        make significant improvements in convection heat transfer for the gases.1
+
+             Development of new types of compact heat exchangers. This includes the use of new materials and
+           fabrication techniques to manufacture heat exchangers consisting of a large number of narrow channels.
+         The performance of a heat exchanger in terms of heat transfer is directly related to the characteristic
+          flow diameter. The smaller the diameter, the higher the heat transfer rate,21 but this can also increase the
+         energy used to move it through the channel.
+
+              Radiation heat transfer enhancement to take advantage of thermal radiation emission properties of
+          gases such as CO2 and H2O that are present in combustion products of commonly used fossil fuels. This
+        may include using re-radiation surfaces or other geometrical modifications.1
+
+   Particulate removal or gas cleaning:
+
+   Particulate removal or gas cleaning related R&D opportunities include:
+
+             Use of gas cleaning or particulate separation methods that do not require “intrusive” means such as
+             filters for particulate laden exhaust gases in all temperature ranges. Of particular interest is cleaning or
+            filtering of high-temperature gases encountered in industries such as EAF (mini-mills), glass, cement
+        and lime kilns, aluminum melting, and steel melting. Candidate technologies may include: gravity
+            settling chambers for large particles as used in drop-out boxes, mechanical/inertial collectors using
+         aerodynamic separation such as high efficiency cyclones/multi-cyclones, ultra-sonic techniques, hoarer
+        methods used for syngas particulate removal.22
+
+              Innovative methods of avoiding or reducing particulate deposition on heat transfer surfaces. This
+         can be used to retard or remove deposits of organic materials (e.g., oil vapors) or inorganic materials
+             (e.g., Boron vapors) present in glass melting furnaces, ash in coal fired boilers, and oxides in steel or
+        aluminum melting furnaces.
+
+               Particulate removal methods for high-temperature heat transfer surfaces, particularly materials
+          deposited at high temperatures.
+
+  Gas or vapor separation:
+
+  Gas or vapor separation related R&D opportunities include:
+
+               Selective separation of water vapor or steam, CO2, oil, or organic liquid vapors from exhaust gases at
+         high temperatures (greater than the condensation temperature of the selected materials) without the
+         need for cooling the entire gas mass. This may include membranes or other methods such as high-
+          temperature desiccant or molecular sieves to absorb or adsorb water vapor or other gases selectively.
+         For example, Transport Membrane Condenser (TMC) system for the separation of water vapor and
+          recovery of heat from a clean, controlled gas stream.23
+
+
+
+26  Quadrennial Technology Review 2015

@@ -1,0 +1,81 @@
+gas (see Section 2.5.3). A guard bed directly upstream of the hydrotreater is used to remove soluble iron
+that may be present in the biocrude. In contrast to algae HTL biocrude (Jarvis et al. 2016), no solubilized
+iron complexes were observed in the sludge HTL biocrude and therefore a filter may be sufficient for
+mineral removal in lieu of a guard bed in the future. However, there may be other mineral compounds
+present that are unlikely to be captured by a filter. Further investigation is needed in this area to verify
+effective biocrude cleanup strategies. During the hydrotreating process, biocrude oxygen is converted to
+CO2 and water, nitrogen is converted to ammonia, and sulfur is converted to hydrogen sulfide. The
+resulting hydrocarbon product consists of a mixture of paraffins, olefins, naphthenes and aromatics that
+lie within the gasoline, jet and diesel boiling ranges. The hydrotreater reactor effluent is cooled to
+condense the produced water and hydrocarbons and the organic phase is fractionated into four boiling
+point cuts: C4 minus, naphtha range, diesel range and heavy oil range material. The heavy cut is cracked
+in a conventional hydrocracker to produce additional naphtha and diesel range products. As product cut
+analysis is not yet available, simulated distillation data are used to estimate the volumes of naphtha, diesel
+and heavy oil boiling range material. The wastewater from the process is high in ammonia and therefore
+will likely require treatment prior to sending to a WWTP. A stripping system similar to that described for
+HTL water treatment is assumed for the upgrading plant.
+
+
+
+
+                                         Makeup Compressor
+                                                      C-311
+           Hydrogen From A400
+
+
+
+
+
+                                                                                                    Recycle Compressor
+                                         H-311                                     C-310
+
+                                                                                                          PSA
+                                                                                                                V-300
+
+                                                                          HP Flash
+      Biocrude Feed                                                                    V-311
+
+                          P-310
+                                                     Hydrotreater                                                                                                  Offgas to
+                                         HX-320             R-310                         E-310                                                                A350
+                                                                                               LP Flash
+                                                                                              V-315
+                                                                                                                                                    To Water
+                                                                                                                                                    Treatment
+
+
+
+                                     Feed/Product
+                                                                                Air Fin Condenser
+                                    HX-318A              H-316
+                                                                                                                                                                    Lights Column
+                                                                                                                                    T -310
+
+                                                                                                                                       To Gasoline
+                                                                                                                                                                Pool
+
+
+                                                                                                                                                   Naphtha Column
+                                                                                                                                                       T -320
+
+                                                                                                                                        To Diesel
+                                                                                                                                                               Pool
+                                                                                                                   336
+                                                                                                                                                                                                    Diesel Column
+                                                                                                                                                                                T-330
+
+
+                                                                                                                                                      To A350
+                                                                                                                                                             Hydrocracker
+
+                     Figure 6. Process flow for HTL biocrude hydrotreating.
+
+2.5.1   Biocrude Hydroprocessing Design Basis
+
+   The design basis for hydrotreating is presented in Table 12. The experimental data was collected
+from bench scale flow reactors at PNNL. The modeled goal case assumes improved hydrotreated product
+yield and reactor space velocity relative to that demonstrated in the testing. Based on the experience of
+
+
+
+                                         20

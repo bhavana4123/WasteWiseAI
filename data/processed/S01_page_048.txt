@@ -1,0 +1,49 @@
+                                                                     Alloys and Metals
+
+
+
+NICKEL - Continued
+
+   heat of fusion: at the melting point 1452OC (2626°F).
+
+         129.1             Btu   Lf      =                              I P-'                  g-      = 71.7             cal   Lf
+   Lf = 300.1 J g-l
+
+   heat of vaporization: at the boiling point 2886OC (5227°F).
+                  1    L,  = 2761 Btu lb-
+    L,  = 1534 cal
+     L,  = 6418 J
+
+   vapor pressure:
+
+    tern erature
+   ("CP    ( O F )        P(atm)        P(Pd             P(psi)
+
+   1370  2498       1O 6j                  0.1           1.470 x   10:;
+   1882  3420         10-              101.3           1.470 x 10
+                            -2   2131  3869                         1013.3           1.470 x 10-
+   2444  4431                  i i - 1           10132.5           1.470
+   2886  5227         1.o          101325.           14.696
+
+                                                       63HUL/ORR
+
+STEEL, SAE-1010; solid; composition:  carbon, 0.08-0.13  wt. %; manganese, 0.30-0.60  wt.
+   %; phosphorus, 0.035 wt. % (maximum); sulfur, 0.045 wt. % (maximum).
+
+   specific heat:
+
+    -200" to 700°C (-382'  to 1292'F)
+
+   Cp(Btu Ib-l   OF-')      = 0.007185 + 9.739 x     T - 1.016 x    T2 + 7.133 x 10- 11 T3
+               -I  "C-')                     = 0.0102 + 1.64 x  lo-'  T - 3.07 x     T2 + 4.16 x 10- 10 T3   Cp(cal 7
+                                                                    10 T3   Cp(J g-  "C-9      = 0.0427 + 6.86 x     T - 12.8 x     T2 + 17.4 x 10-
+
+   curie temperature:  1415°F; 768OC; 1041.5 K
+
+                                                                        5 8L U C / D E E
+
+
+
+
+
+                                         45

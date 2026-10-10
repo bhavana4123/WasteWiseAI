@@ -1,0 +1,44 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+
+        masses that were higher than previously lower masses contri-  SAXS and WAXS data provide evidence of a decrease in crystal-
+         buting to Mn, while narrowing the range of masses present.   linity for these polymers. Fig. 11 illustrates the SAXS and WAXS
+          Several polymers had increases in Mn and decreases in Đ with   patterns for PP-3, comparing the as-received sample with the
+        minimal impact or an increase in Mw (PET-2, ABS-3, Nylon-6,   cryomilled sample. The SAXS data for the cryomilled sample
+         PC-1) indicating  that higher molecular mass chains were   exhibited a less pronounced correlation peak and increase in        Licence.     either preserved or formed, resulting in a narrower  distri-   scattering intensity at the low q-range, in contrast to the as-
+         bution of masses. Processes that might contribute to higher   received sample (Fig. 11A). The increase in low q-range scatter-
+         molecular masses include re-aggregation, cross-linking, and   ing is attributed to the presence of micrometer-size particles        Unported         diﬀusion of additives to the polymer matrix.  It should be  due to cryomilling. We attribute the reduction in correlation
+   3.0         noted that ABS and PVC-2 data has higher associated error due  peak intensity to the loss of crystalline domains due to crack-
+PM.       to poor solubility and mass recovery of the polymer.             ing during cryomilling, which decreases the total volume of
+         DSC was used to detect changes in crystallization tempera-   scattering centers. The WAXS data (Fig. 11B) further support
+          tures and percent crystallinity, implying changes in molecular   the observed loss of crystalline domains in the cryomilled6:34:53
+        mass or molecular mass distribution. Polymers that displayed   sample, evidenced by a decrease in the intensity of character-
+          increases  in  percent  crystallinity  following  cryomilling   istic diﬀraction peaks associated with crystalline domains and
+         included PET-3, EVOH-1, and nylon-6 (statistically significant   increased amorphous domains scattering, consistent with an6/21/2024
+           at 95% confidence intervals). PET-3 changed from 2.0% to   increased amorphous fraction as compared to the as-receivedon Attribution-NonCommercial
+        5.5% crystallinity accompanied by an increase in Tc by 4 °C.   sample.
+         PET-3  is amorphous, and in previous studies, cryomilling     In addition to reduced crystallinity through cryomilling,
+        amorphous PET has resulted in increased crystallinity.87,89  samples PE-1, PE-2, PE-7, PE-10, and PE-11 exhibited theDownloaded Commons    Increased  crystallinity  in  polymers may  occur  because   appearance of new crystal structures. This is supported by the
+         mechanical work during cryomilling provides enough heat to   appearance of distinct new peaks in the WAXS data (Fig. S28–2024.        Creative    overcome the cold  crystallization temperatures  locally, or   S32†). This is consistent with prior observations that PE can
+ a    from strain mediated crystallization.88,90 Researchers in one   exhibit diﬀerent crystalline phases as a function of the manu-March26 under    study found that changes induced by cryomilling are primar-   facturing  processes,  primarily driven by the thermal and
+on         ily  physical  in  nature and  can  be  erased  by  thermal   pressure history.92–94 The orthorhombic phase (space group:
+          treatment.91                                            Pnam, unit cell parameters: a = 0.740 nm, b = 0.493 nm, and        licensed
+  is      SAXS and WAXS were used to observe structural changes   c = 0.253 nm along the chain axis) is considered the mostPublished        after cryomilling. The SAXS and WAXS patterns obtained for   stable phase.93 The less stable monoclinic and triclinic phases
+       article    the as-received and cryomilled samples exhibited noticeable   have been observed  in samples  subjected  to mechanical
+Article. This     distinctions, indicating changes in the multiscale structures of   stress.92–95 The presence of the new crystalline phase in the
+Access       certainchangespolymers.in the degreeThe twoof crystallinity,primary impactsand theof cryomillingdevelopmentwereof   cryomilledinduced duringPE samplesthe  cryomillingsuggests thatprocessthe mechanicalwas suﬃcientstressto
+Open        crystal polymorphs. While we did not observe a change in   induce a phase transformation between the orthorhombic,         percent crystallinity for PP-3, PP-5, PP-6, and PLA using DSC,  mono- and tri-clinic phases.
+
+
+
+
+
+             Fig. 11   (A) SAXS X-ray curves and (B) WAXS X-ray curves for comparing cryomilled and as received PP-3. Results indicate a decrease in crystallinity
+           following cryomilling. SAXS measurements were conducted at an X-ray energy of 15 keV (λ = 0.08265 nm) with a sample-to-detector distance (SDD)
+           of 2.8 m, while WAXS measurements were performed at 12.7 keV (λ = 0.09762 nm) with an SDD of 350 mm.
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                           Green Chem., 2024, 26, 7067–7090  | 7083

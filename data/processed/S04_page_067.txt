@@ -1,0 +1,45 @@
+  Table 3-5. Estimated Capital Cost for Representative Gas Turbine CHP Systems53
+                                                     System
+   Cost Component
+                          1             2             3              4              5
+ Nominal Turbine                             3,510           7,520          10,680          21,730          45,607 Capacity (kW)
+ Net Power Output                             3,304           7,038           9,950          20,336          44,488 (kW)
+ Equipment
+ Combustion Turbines    $2,869,400      $4,646,000      $7,084,400     $12,242,500     $23,164,910
+  Electrical Equipment    $1,051,600      $1,208,200      $1,304,100      $1,490,300      $1,785,000
+ Fuel System             $750,400        $943,000      $1,177,300      $1,708,200      $3,675,000
+ Heat Recovery Steam                         $729,500        $860,500      $1,081,000      $1,807,100      $3,150,000 Generators
+ SCR, CO, and CEMS       $688,700        $943,200        $983,500      $1,516,400      $2,625,000
+ Building                 $438,500        $395,900        $584,600        $633,400        $735,000
+ Total Equipment        $6,528,100      $8,996,800     $12,214,900     $19,397,900     $35,134,910
+  Installation
+ Construction           $2,204,000      $2,931,400      $3,913,700      $6,002,200     $10,248,400
+ Total Installed Capital    $8,732,100     $11,928,200     $16,128,600     $25,400,100     $45,383,310
+ Other Costs
+ Project/Construction                         $678,100        $802,700      $1,011,600      $1,350,900      $2,306,600 Management
+ Shipping                $137,600        $186,900        $251,300        $394,900        $674,300
+ Development Fees        $652,800        $899,700      $1,221,500      $1,939,800      $3,312,100
+ Project Contingency      $400,700        $496,000        $618,500        $894,200      $1,526,800
+ Project Financing         $238,500        $322,100        $432,700        $899,400      $2,303,500
+ Total Installed Cost
+ Total Plant Cost        $10,839,800     $14,635,600     $19,664,200     $30,879,300     $55,506,610
+ Installed Cost, $/kW         $3,281          $2,080          $1,976          $1,518          $1,248
+Source: Compiled by ICF from vendor-supplied data.
+
+3.4.6 Maintenance
+Non-fuel operation and maintenance (O&M) costs are presented in Table 3-6. These costs are based on
+gas turbine manufacturer estimates for service contracts, which consist of routine inspections and
+scheduled overhauls of the turbine generator set. Routine maintenance practices include on-line
+running maintenance, predictive maintenance, plotting trends, performance testing, fuel consumption,
+heat rate, vibration analysis, and preventive maintenance procedures. The O&M costs presented in
+Table 3-6 include operating labor (distinguished between unmanned and 24 hour manned facilities) and
+total maintenance costs, including routine inspections and procedures and major overhauls.
+
+
+
+
+53 Combustion turbine costs are based on published specifications and package prices. Installation estimates are based on
+vendor cost estimation models and developer-supplied information.
+
+
+Catalog of CHP Technologies                         3–14                         Combustion Tubines

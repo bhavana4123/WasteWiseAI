@@ -1,0 +1,49 @@
+             Table 41. Back-Casted State of Technology Cases and Future Targets
+                                     2007     2008     2009     2010    2011    2012
+                              SOT    SOT    SOT    SOT
+Minimum Ethanol Selling Price ($/gal)     $3.53     $3.46     $3.08     $2.67    $2.62    $2.15
+ Feedstock contribution                  $1.01     $0.94     $0.85     $0.72    $0.76    $0.74
+Enzyme contribution                     $0.39     $0.38     $0.36     $0.36    $0.43    $0.34
+Non-enzyme conversion contribution     $2.14     $2.14     $1.87     $1.59    $1.43    $1.07
+ TCI/annual gallon                        $11.33    $11.32    $10.60    $10.15    $9.40    $6.92
+ Yield (gallon/dry ton)                     69       70       76       75      78      79
+Technical targets
+Feedstock
+ Feedstock cost ($/dry ton)                 $69.60    $65.30    $62.05    $53.70   $59.60   $58.50
+Pretreatment
+ Xylan to xylose (including enzymatic)      75%    75%    84%    85%    88%    90%
+ Xylan to degradation products           13%    11%    6%     8%     5%    5%
+ Hydrolysate solid-liquid separation         Yes      Yes      Yes      Yes     Yes     No
+ Xylose sugar loss                  2%     2%     2%     2%     1%    1%
+ Glucose sugar loss                 1%     1%     1%     1%     1%    0%
+Enzymatic hydrolysis & fermentation
+Enzyme loading (mg/g)                   20       20       20       20      25      20
+Combined sacch & ferm time (d)            7        7        7        5       5       5
+ Corn steep liquor loading (wt %)         1%     1%     1%     1%     0.6%   0.25%
+ Overall cellulose to ethanol             86%    86%    84%    86%    86%    86%
+ Xylose to ethanol                   76%    80%    82%    79%    85%    85%
+ Arabinose to ethanol                0%     0%     51%    68%    80%    85%
+Operating parameters
+ Pretreatment solids loading (wt %)        30%    30%    30%    30%    30%    30%
+ Pretreatment temperature (°C)             190      190      158      158     158     158
+ Acid loading (mg/g dry biomass)             38.0      30.0      24.5      22.1      22.1     22.1
+ Secondary oligomer hold step            No      Yes      Yes      Yes     Yes     Yes
+Ammonia loading (g per L of liquor)          12.9      12.9       9.8        4.8       4.8       4.8
+                                            Liquor     Liquor     Liquor     Liquor    Liquor   Whole Conditioning mode                                                                                                              slurry
+                                 Washed  Washed  Washed  Washed   Whole   Whole Saccharification mode                                                solids      solids      solids      solids     slurry     slurry
+ Enz. hydrolysis solids loading (wt %)       20%    20%    20%    17.5%   20%    20%
+Reference Aspen model (DW-)           1102F    1102E   1102D   1102C   1102B   1102A
+
+The enzyme costs in Table 41 were computed by the on-site enzyme model described in Section
+3.4. The loadings were set for each case, and the model computed the amount of enzyme needed
+and its cost. No research advances were assumed in the enzyme production section, so in effect
+the unit cost of enzyme protein ($/kg) remained constant across all cases. The enzyme loading
+itself is flat at 20 mg enzyme protein/g cellulose from 2007–2010 and then increases to 25 mg/g
+in 2011. This reflects a change in process integration from washed-solids to whole-slurry
+enzymatic hydrolysis. The rationale for this change was that it will allow us to eliminate all
+solid-liquid separation steps in the process once a suitable whole-slurry hydrolysate conditioning
+process is found. To date, whole-slurry experiments have indicated that a higher enzyme loading
+is required to reach acceptable conversion yields of cellulose to glucose. Reducing this enzyme
+loading back to 20 mg/g is a research target for 2012.
+
+                                      82

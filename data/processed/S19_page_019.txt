@@ -1,0 +1,50 @@
+3.1.2  Pretreatment
+The pretreatment yield results are given in Table 6. The third column is the adjusted xylan-to-
+xylose yield where the yield value has been increased because of additional xylose produced
+from enzymatic hydrolysis of xylan and xylo-oligomers during whole-slurry enzymatic
+hydrolysis and fermentation. The other columns are self-explanatory. The xylan carbon mass
+balance closures were in the range of 90%–99% (data not shown), which is typical of continuous
+pretreatment systems. Runs 1, 3, 4, and 5 were performed in the horizontal reactor and xylan-to-
+xylose yields were consistent, except for Run 1 results. Xylan mass balance closure for Run 1
+was high at 103%, so there is less confidence in this result. Even though the Run 3 and Run 4
+xylan-to-xylose yields were consistent, the Run 3 adjusted xylan-to-xylose yield was higher than
+Run 4, likely because the higher enzyme loading used in Run 3 improved xylo-oligomer
+conversion compared to Run 4.
+
+                         Table 6. Pretreatment Performance Results
+                   Xylan-to-    Adjusted     Xylan-to-   Residual   Arabinan-to-   Cellulose-to-
+ Demonstration   Xylose      Xylan-to-     Furfural     Xylan     Arabinose     Glucose
+    Run #         Yield       Xylose        Yield       Yield         Yield          Yield
+                    (%)        Yield* (%)       (%)        (%)          (%)           (%)
+       1            78.4         92.7           4.4        20.4          96.1            5.6
+       2            70.0         81.2           7.0        12.9          85.6            6.8
+       3            74.6         88.0           5.4        15.3          92.2            6.5
+       4            73.1         81.2           5.2        17.9         110.8           6.6
+       5            71.9         81.7           5.4        16.8          90.7            5.9
+* Monomeric xylose yield which includes xylose produced during enzymatic hydrolysis and fermentation
+
+Another result of note is the high arabinan-to-arabinose yields, but the small quantity of arabinan
+in the biomass causes more variability in these results. Nevertheless, an average arabinan-to-
+arabinose yield of 95% seemed to be a reasonable assumption. The pretreatment results for the
+demonstration runs were similar to results achieved in early 2012 on a small horizontal reactor.
+Overall monomeric xylose yields were somewhat lower than the 90% target value, but this loss
+was nearly compensated for by achieving higher-than-targeted xylose-to-ethanol yields in the
+fermentation step (see Table 8) by virtue of more complete sugar utilization and higher ethanol
+titers. The deacetylation step also enables less sulfuric acid usage in pretreatment, resulting in
+lower furfural formation and less salt formation by requiring less NH4OH for neutralization, in
+addition to dramatically lowering acetic acid concentration. All these effects are believed to
+improve the ability of the fermentation organism to more completely utilize available sugars and
+achieve high ethanol titers.
+
+3.1.3 Enzymatic Hydrolysis
+The first and second demonstration runs were performed with a high enzyme loading (~33 mg/g)
+to match previous experimental conditions, even though lower enzyme loadings are needed to
+meet the cost target. The third run used an intermediate loading of ~26 mg/g, while the final two
+runs were loaded at 19 mg/g. For Runs 1–4, the entire enzyme amount was added to the HSEHR
+all at once. Periodic NH4OH additions were required to maintain the pH in a range of 4.8–5.2.
+However, the fifth run used a staged addition policy in an attempt to achieve better conversion.
+The concept of staged addition is to initially use a small amount of enzyme to partially liquefy
+the slurry. Once the slurry is liquefied, pH and temperature control will improve, which will lead
+to less enzyme damage and presumably better conversion yields. Approximately 20% of the
+
+                                      12

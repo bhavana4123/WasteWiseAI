@@ -1,0 +1,48 @@
+Instead of using a washing process to purify the esters, he recommends a vacuum distillation.
+According to Arrowsmith, the esters and glycerol form an azeotrope with a boiling temperature
+that is lower than the boiling temperature of either pure component. Distillation is performed at
+pressures of 1 to 15 mm Hg. Arrowsmith states that the transesterification reaction can be
+conducted at temperatures as high as 250 C, but that at temperatures above about 140-160 C, the
+soap can catalyze the reverse reaction and break up the esters to free fatty acids and alcohol. By
+staying at 130 C, it was possible to attain 30 second reaction times and achieve 97% complete
+reaction.
+
+Trent also noted the tendency of excess alcohol to serve as a cosolvent and inhibit the separation
+of the ester and glycerol. Trent developed an apparatus for removing the alcohol and separating
+the esters and glycerol in a single device. Two variations of the device are shown in Figure 23.
+The first device (left side) shows a system where the oil and alcohol/catalyst mixture are mixed
+and passed through a coil of sufficient length to allow the reaction to reach completion before
+entering a chamber that is heated by a steam coil. The entire process is at or near atmospheric
+pressure. The temperature of the chamber is high enough that the alcohol boils off leaving the
+mixture of esters and glycerol. Acid is added to neutralize the mixture and split the soap into free
+fatty acids and salts. Then, the ester/glycerol mixture passes through a tube into the lower half of
+the chamber where it separates. Esters are removed from the top of the lower chamber and the
+glycerol is removed from the bottom.
+
+The second variation (right side) is similar except that the reaction is conducted at higher
+temperature and pressure. Instead of a steam coil to boil off the alcohol, the pressurized mixture
+is sprayed into the upper half of the container, which acts as a flash chamber. Vaporized alcohol
+is removed and the ester/glycerol enters the bottom half of the container where it separates as
+with the other device.
+
+Trent mentions other novel aspects of the alcoholysis process: Trent says that esters produced
+with higher alcohols (ethanol and above) have a greater tendency to gel from soap formation
+than with methanol. He claims that better yields are found if reactants are mixed cold and then
+heated, instead of preheated and then mixed. He says that early increases in temperature increase
+saponification and recommends using a step-wise increase in temperature from 40-50º C then up
+to 110 to 123º C. He also mentions water washing using either batch, concurrent, or
+countercurrent flow systems. In addition to water washing, Trent claims that a liquid-liquid
+extraction process using a selective solvent that is at least partially immiscible with the esters can
+be used. He specifically suggests polar solvents such as furfural, sulfur dioxide, nitromethane,
+methanol, ethanol, ethylene glycol, allyl alcohol, ethyl sulfate, acetaldehyde, acetamide,
+dichlorodiethyl ether, and methyl carbitol. Trent notes that alcohol can be used as a washing
+agent for the oil to remove free fatty acids and water.
+
+Percy points out that since alcohol is immiscible with the triglyceride feedstock and the final
+glycerol product is immiscible with the ester layer, this requires a high level of agitation to
+prevent saponification (soap formation) and separation of the glycerol layer and consequent
+removal of the alcoholysis catalyst. However, when mono- and diglycerides are present, the
+reaction mixture will be homogeneous. Percy advocates a process where only enough alcohol or
+
+
+                                      59

@@ -1,0 +1,54 @@
+ 8.6.2.1 Cyclone Operating Principles                   cyclone inlet width b for a given pressure drop as
+                                               shown in Fig. 8-6. Notice that the effect of temperatureA cyclone separator imparts a rotary motion to the
+ gases and thereby enhances the settling rate to many
+times that induced by gravity alone. A cyclone
+separator is essentially a gravitational separator that
+has been enhanced by a centrifugal force component.
+The cyclone separator grade efficiency curve, Fig. 8·4,
+applies to all cyclone separators, as well as to inertial
+and gravitational collectors.
+Cyclone performance is rated in terms of particle cut
+diameter or cut size. The cut size, dp5o,.   is the particlesize which is captured 50%.
+The relationship between particle cut diameters for
+this type separator is given by Eq. (8-4), where d,., is the
+particle diameter and the numerical subscript denotes
+the collection efficiency of that size particle.                                  Be = Dc/4                                                                                         De: 0,/2
+8.6.2.2 Cyclone Design Principles                                               He = 0,/2
+                                                                                         Lc = 2 Dc
+The proportions for high-efficiency cyclone separators                      Sc = De/8
+are shown in Fig. 8-5.                                                          Zc: 20c
+                                                                                                   Jc : arbitrary,The particle size that can be separated with 50% ef­                               usually Def4
+ficiency is predicted for general cyclones and for the
+high·efficiency cyclone proportions of Fig. 8·6 by
+                                                       (8·5)              9                        b/[21t                                                   •        dpc =                                        PG)l                     fiG                    Ne Vi (pp                          -.j
+From Eq. (8·5) we can derive the relationship between
+the cyclone separator's particle cut size dp50 and the
+                                                                                                        SeclK)n A-A                       LJ
+   100 c-- -                             -
+                                .                    /'                                                                 Dust l out
+    50             V
+
+
+
+
+
+                                                                                          0.50           V                                                                                                                   ie 0""                                                                                   "                                                                                " ­                                                             I                                                             8 u z                                                                                                                                                                      rn
+   ....
+         1 0 U
+  "-        / ­
+   ...
+     5
+            II
+                                                                    "
+                                                                                                                                         '"
+                                                                                                                                         '"    /
+
+          I0.1                       0.5                      I          2     3   4  5                                          C O L L E C T I N G
+                                                                                           H O P P E R  /  PARTICL E S I Z E R A T I O , D p / D p c
+
+Fig. 8·4. Cyclone grade effiǇiency curve  (Source: Kaupp 1984a,        Fig. 8-5. High-efficiency cyclone proportions  (Source: Perry 1973,
+Fig. 138)                                                                           Fig. 20-96. © 1973. Used with permission of McGraw Hill Book Co.;
+                                                         Kaupp 1984a, Fig. 134)
+
+
+76    Handbook of Biomass Downdraft Gasifier Engine Systems

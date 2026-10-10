@@ -1,0 +1,47 @@
+     Hand lever in cab
+     controlling air valve
+   ŵ                                                                                                                                                                 "                                                                   "
+                                                            Gas idle bypass      o                                                                                  for enrichment
+              Flexible control cable                                                         Air                                                                                  Foot control in cab
+                                                                                                         (idling position shown)
+
+
+
+
+
+Fig. 11-4. Gas mixer showing idle enrichment  (Source: Adapted from Heywood 1944, Fig. 22)
+
+This technique allows a considerable saving in battery     In the Bolinder Munktell system shown in Fig. 11-8,
+power at the expense of only a little extra liquid fuel.      the lower crankcase served as an air pump to supply
+                                                              air to pressurize the gasifier and supply pressurized air
+11 .8.5 Ignition Timing                                  to the gas mixer. In the two-cycle conversion, either the
+                                               head must be fitted with both intake and exhaustProducer gas burns slowly. as shown in Fig. 11-6,
+                                                            valves, or the piston-porting system must be isolatedgiving it a high octane rating. It is usually found that
+                                               from the crankcase to prevent gas deposits fromoptimum engine operation is obtained by advancing
+                                                              interfering with lubrication.the ignition timing 5 to 15 degrees more than the
+advance used with gasoline, as shown in Fig. 11-7.         Similarly, the Pulsator prevents producer gas from
+                                                       passing through the crankcase. A side-chamber isThe "ping-sensor" and "electronic ignition" timing                                                         provided, as shown in Fig. 11-9, and connected to thecontrols used in many late-model automobiles may be
+                                                       crankcase through a butterfly valve and to the gas sup­helpful in automatically providing the ideal spark
+                                                     ply and intake manifold through check valves. The pul­advance for producer gas, while permitting dual-fuel
+                                                            sating movement of air in the crankcase alternatelyoperation.
+                                                     sucks in and mixes air and gas, and then delivers the
+11 .8.6 Spark Plugs                                mixture to the combustion chamber. A check valve
+
+The porcelain insulator of a spark plug may be glazed
+with feldspar or quartz for generator gas operation, to                                                              T-connection
+permit easier deposit removal. Spark plugs for gasoline
+engines are normally not glazed because lead anti­                                  Air damper
+knock compounds form a conductive glass with the               Gas damper                                                                                                                                                                                                                                                                                                             .glaze. Therefore, lead-free gas should always be used                         I Gr                                                                                                                                                       _                        _ /!!:- -- Air
+fOf' start-up            procedures                     with glazed                                      plugs.                                 The                                              heat
+range      of the spark                 plug should                         be high                                enough                                                to                                                 per­                                    Carburetor
+mit the plugs to self-clean, but not so high as to cause
+preignition. If fouling is encountered, use a lower heat                                           .                                                                                                                                --l-l----_- ­.1-­number (hotter electrode).
+                                                                                             ____ Adjustment damper
+11.9 Two-Cycle Engine Conversion
+Two-cycle engines present a special challenge for con­              ǖ.                                                                                                                                                                                               Iversion to producer gas. The crankcase must be lubri­                                            Exhaust-gas                                                                                                                                                                                ' ­ - - . Č Ǖ           ejectorcated and protected from contact with gas impurities.        Ŵ
+A number of the most novel innovations from the en­
+tire World War  II era appeared on the two-stroke        Fig. 11-5. Exhaust pipe ejector for start-up fanning  (Source: Gengas
+engines of that time.                                                 1950. Fig. 151)
+
+
+1 1 0    Handbook of Biomass Downdraft Gasifier Engine Systems

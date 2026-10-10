@@ -1,0 +1,50 @@
+                         Chapter 9
+               Gasifier Systems
+
+9.1 The Complete Gasifier System          can support a shear stress, solids can bridge and arch
+                                                        in cylindrical channels. An important measure of the
+The previous chapters have discussed the major opera­      difficulty of feeding a particular solid, the angle of
+tional components of a gasifier-engine system.·    repose, is ille average angle from a horizontal plane as­
+However, no system is stronger than its weakest link.    sumed by individual biomass pieces when they are ran­
+A complete system requires means to store and possi­    domly piled up. For liquids, this angle is zero; for some
+bly dry the biomass, to feed the biomass, to remove      solids,  it can be greater than 90'! For this reason,
+char-ash, to push or pull the gas through the system, to     vibrators, shakers, rakes and chains, live bottoms (on
+clean the gas, and to burn the gas during startup, as     trucks), and a host of ingenious devices are used wide­
+shown in the front ofthis book and in Fig. 9-1.            ly in industrial and agricultural solid-feeding applica­
+A complete system also requires instruments to      tions. Much time and money can be wasted reinventing
+                                                          these devices, so the designer is advised to contactmeasure pressure, flow rates, and temperatures at cru­
+                                                          others with experience in feeding the particular formcial points, and controls to establish the required con­
+                                                     of biomass being used.ditions. Instruments and controls will be discussed in
+Chapter 10.
+
+9.2 Storing, Feeding, and Sealing             9.2.2 Storage
+Solids                                 A closed bin, silo, or hopper must be supplied to hold
+                                                       the biomass feedstock (chips, cobs, pellets, etc.), to9.2.1  Characteristics of Solids                                                     prevent it from getting wet. In many cases, industrial
+Solids are many times more difficult to feed and seal     or agricultural containers are available in appropriate
+against gas flow than liquids and gases. Because they      sizes at low cost.
+
+
+
+
+                                                                             Flare
+
+
+
+
+    Biomass                               Cyclone
+     storage                                                                              I
+                                                                              I                                                                                          Filter                                                                              I
+                                            Char/ash                                 Engine                                                                              I                                                   reservoir        L _ J            meA
+
+
+  Gas flows                                          E  = ejector
+  Solid/liquid flows                                         L      level control
+  Measuring devices                                  T           ---0-                                thermocouple
+                                       A P = differential pressure gauge or control
+                                        m  = feed mass flow measurement device
+
+Fig. 9¿ 1. Gasifier system showing means of moving solids and gases and positions for various instruments and controls
+
+
+
+                                                                                              Gasifier Systems    93

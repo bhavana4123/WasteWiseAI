@@ -1,0 +1,50 @@
+The 30x30 workshop panel recommended the following R&D needs: feeders (solid
+biomass); high temperature materials, especially for black liquor gasification; synthesis gas
+conversion to match scale - better processes/catalysts; gas cleanup; gasifier type; blended
+fuels; and technology demonstrations.
+
+
+In the general scheme of selecting commercial projects it is desirable to select processes
+with extensive operating experience in proposed configuration and demonstrated for 1000-
+2000 hours at steady state conditions. Scale-up by a factor of 10 is too large to
+incorporate guarantees and warranties for unproven unit operations, in particular for
+downstream unit operations dependent on unproven upstream operations. Plant design and
+construction checking and verification of engineering drawings is vital to ensure
+mechanically and thermally suitable components are manufactured.
+
+
+Fuel selection and supply is important and the trade-off between cost and quality should
+be resolved to ensure sustained supply of fuel with in the desirable range of specifications.
+Next, fuel yard and fuel feed system are cited as areas giving most problems during start-
+up phase. Potential problems include odours, pile heating, varying moisture content, and
+feed handling.
+
+
+Some of the non-technical issues include competent project management, selection of a
+competent E&C firm, provision of resources for environmental assessment, project
+financing, institutional issues, permitting and regulatory issues, partnerships with key
+customers and suppliers, and the need to demonstrate economic and environmental
+benefits to local area.
+
+
+Thomas R. Miles, Jr., Consulting Engineer, reiterated the feed handling issues, given that
+the bulk density of materials vary quite a bit requiring care in designing both feed
+handling and feeder equipments. On the business end, quality controlled fuel supply and
+procurement are major issues for reliable plant operations. It should be noted that fuel
+supply and reliability are difficult with urban fuels. Contracts, tipping fees, tax credits are
+essential to first-of-a-kind plant. Besides tax credits, it is important to have good
+power/product contracts.
+
+
+Process components should be designed to handle highly abrasive moist feedstocks,
+although it is desirable to handle uniform dry feed for good gas quality. In-bed feeding for
+fine wood fuels is essential to ensure carbon conversion and utilisation. Processes should
+be designed to utilise all forms of waste heat in the best way possible. Ash recycle to
+energy plantations will ensure returning P and K which may be adequate to pay for
+feedstock handling costs.
+
+
+Mr Jim Campion of Biomass Engineering, UK reported a very successful marketing effort.
+For the present, the Company has decided to manufacture, assemble, and ship 250 kWe
+gasifier and filter module for several European cities.The modular design enables flexible
+                                                                           53

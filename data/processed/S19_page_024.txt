@@ -1,0 +1,47 @@
+Table 8 provides calculated fermentation yields for each pilot-scale demonstration run. Yields
+for Run 1 are not reported because the fermentation was contaminated. Run 3’s xylose-to-ethanol
+yield is also low because of contamination as previously discussed. Arabinose-to-ethanol yields
+show little variability. Cellulose-to-ethanol yields exactly mirror enzymatic hydrolysis yields.
+Xylose-to-ethanol yields follow the trend of residual xylose concentrations as discussed above.
+
+                         Table 8. Fermentation Performance Results
+                          Xylose-to-Ethanol     Arabinose-to-         Cellulose-to-        Demonstration                                  Yielda          Ethanol Yieldb       Ethanol Yieldc          Run #                                (%)                 (%)                  (%)
+                1d               –                 –                   87.2
+              2                86.2                 61.6                  84.0
+                3e                66.1                 55.9                  82.7
+              4                92.6                 54.1                  74.4
+              5                91.3                 50.9                  78.3
+            a Yield based on ethanol remaining after accounting for ethanol from glucose and arabinose
+           b Arabinose utilization times an assumed metabolic yield of 95%
+             c Yield calculated assuming a constant glucose-to-ethanol yield of 95%
+           d Fermentation yield not reported because run was contaminated
+           e Run had a low level of contamination that reduced fermentation yields compared to other runs
+
+3.2 Techno-Economic Modeling Results
+3.2.1 Feedstock Composition
+The corn stover composition described in the 2011 design report is used in the current FY 2012
+state of technology model to be consistent with the information presented in the above-
+referenced Biomass Program Multi-Year Program Plan and FY 2011 SOT documents. The
+major stover components are 35% glucan, 20% xylan, and 16% lignin.
+
+3.2.2 Demonstration Run Data Selection
+Pilot-scale demonstration Run 4 was selected as the basis for inputs to the FY 2012 SOT model.
+Corresponding results are shown in Table 9 through Table 11.
+
+3.2.3  Pretreatment Process Design
+In the FY 2011 SOT effort, primary pretreatment was performed in the continuous horizontal
+reactor, with a subsequent secondary thermal oligomer conversion step to convert additional
+oligomers to monomers. Beginning in late 2011, we started using new strategies (e.g.,
+deacetylation, post-pretreatment milling) to produce pretreated material to improve
+hemicellulose and enzymatic conversion yields and to reduce inhibitor concentrations to improve
+fermentation yields (Chen et al. 2012). Demonstrated yield improvement in overall ethanol
+production (especially in fermentation) proved the addition of deacetylation (followed by acid
+pretreatment) to be a more appealing solution. Therefore, in the FY 2012 pretreatment process
+design, the alkaline deacetylation step was added prior to the subsequent pretreatment operations,
+as described above. The secondary thermal oligomer conversion was deemed to be unnecessary.
+
+Reduced pretreatment acid loadings were demonstrated in the continuous pilot-scale
+pretreatment reactors, and the modeled acid loadings and other pretreatment conditions for the
+FY 2012 SOT case are shown in Table 9. Additional acid is used to pre-impregnate the
+
+                                      17

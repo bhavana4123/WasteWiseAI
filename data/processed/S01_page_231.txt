@@ -1,0 +1,49 @@
+Woody and Tree Materials
+
+
+FIR, DOUGLAS; FOLIAGE; Pseudotsuga menteisii; solid; freeze-dried to < 10% moisture
+    content.  Composition is ash = 4.25% and char yield = 29.2%.  Char was obtained from
+   heating the sample to 500°C (932OF)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+    qv(gross) = 9590 Btu lb- 1                                                     q,(gross)   13640 Btu 1
+    q,(gross)  = 5330 cal g-l                        q,(gross)  = 7580 cal g-
+    q,(gross)  = 22300 J g-l                        q,(gross) = 31710 J g-'
+
+                                                                   82SUS
+
+FIR, DOUGLAS; LUMBER; Pseudotsuga menzeisii; solid; Lumber was air-dried at room
+   temperature.  Composition is ash = 0.18% and char yield = 22.2%. Char was obtained
+   from heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                      char (from 500°C heating)
+    q,(gross)  = 8640 Btu lb- 1                                                   q,(gross) = 13740 Btu Ib-I
+    q,(gross)  = 4800 cal g-l                      q,(gross) = 7630 cal g-l
+    q,(gross) = 20090 J g-l                       q,(gross) = 31940 J g-l
+
+                                                                  82SUS
+
+FIR, DOUGLAS; ROTTEN WOOD; Pseudotsuga menzeisii; solid; Samples were air-dried
+   at room temperature.  Composition is ash = 0.16% and char yield = 40.6%. Char was
+   obtained from heating the sample to 500°C (932°F)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                     1            = 9920                                                     13360    q,(gross)                  Btu                             lb-                     qv(gross)                                                            Btu                                                                       1P-'                                                                          g-             5510 cal    q,(gross)                          g-l                                                qv(gross) = 7420                                                              cal
+    qv(gross) = 23050 J g-l                        q,(gross)  = 31050 J g-l
+
+                                                                   82SUS
+
+
+
+
+
+                                        254

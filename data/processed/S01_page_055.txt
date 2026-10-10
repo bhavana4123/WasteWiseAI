@@ -1,0 +1,34 @@
+Alloys and Metals
+
+
+
+ZIRCALOY-2 (LOW NICKEL); solid; composition: tin, 1.32%;  iron, 0.152%; chromium
+   0.99%; nickel, 10 ppm; carbon, 150 pprn; oxygen, 1380 ppm; nitrogen, 36 ppm; copper,
+   20 ppm; tungsten, < 40 ppm; hafnium, 60 pprn; remainder is zirconium,
+
+   specific heat:
+
+   273-843 K (32"-1058"F)
+   Cp(Btu lb'l  OF-')    = 0.06843 + 1.1514 x    T
+                                                      x    T   Cp(cal 5 -1 K-1)      = 0.06314 + 2.0726
+   Cp(J g-   K-')        = 0.26418 + 8.6718 x    T
+
+   873-1083 K (1112"-1490"F)
+
+   Cp(Btu lb-I  OF-')    = 0.08571
+   Cp(cal 9-l K-')     = 0.08571
+   Cp(J g-  K-l)        0.35861
+
+   1248-1323 K (1787O-1922"F)
+
+   Cp(Btu Ib-'   OF-')     = 0.08548
+   Cp(cal 9-l K- 1                     = 0.08548
+   Cp(J g-  K-l)      = 0.35765
+
+                                                            67ELD/DEE
+
+
+
+
+
+                                       52

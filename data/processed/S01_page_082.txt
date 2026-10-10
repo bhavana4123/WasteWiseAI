@@ -1,0 +1,40 @@
+Foods
+
+
+GELATIN; solid; an albumin type protein belonging to the scleroprotein class with the
+   questionable formula C76H 240-#24S.            I t occurs in bones and fibrous animal tissue
+    in the form of its anhydride collagen, which is converted into gelatin upon boiling
+   with dilute acids.  It is particularly rich in glycine and lycine.
+
+   heat of solution: the value is for the material at 25°C (77'F)  dissolved in the acid
+   mixture at 75°C (167'F);  the result is the average of 5 determinations. The acid
+   mixture contained 5% by weight of HF and 19.95% by weight HCI.
+   dSolH = 19.13 k 0.58 Btu lbi 1
+   dSolH = 10.63 2 0.32 cal-4-
+    AsolH = 44.48 2 1.34 J g
+
+                                                             52NEU
+
+GRAPES, THOMPSON SEEDLESS; solid; chemical analysis:  81.4% water, 0.26% fat, and
+   15.6% water soluble solids. Sample was whole with short stem.
+
+   specific heat: 4'  to -40°C  (40'  to -4OOF); no freezing point was observed.
+
+
+
+    4.44    40                   0.89                       0.89                  3.72
+  - 6.67    20                  3.84                      3.84                16.07
+  -12.2      10                   1.49                        1.49                 6.23
+  -17.0      0                   0.95                       0.95                 3.98
+  -23.3     -10                   0.75                       0.75                  3.14
+  -28.9     -20                   0.62                       0.62                    2.59
+  -34.4     -30                   0.56                       0.56                   2.34
+  -40       -40                   0.52                     0.52                   2.18
+
+                                                                  49STA
+
+
+
+
+
+                                      88

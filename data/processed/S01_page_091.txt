@@ -1,0 +1,55 @@
+                                                                       Foods
+
+
+
+RICE, ROUGH (ITALIAN ORIGIN); solid; Grain has fat content of 0.4%-2.0%.  The
+   relationship between the grain and the moisture content was determined. One third
+   of the samples were not conditioned, one third were conditioned by adding distilled
+   water and equilibrating for one week, and the rest were dried in a vacuum over CaCI2
+    until they reached their respective moisture contents. Moisture content was
+   determined by drying triplicate ground samples in a ventilated oven at 113OC (235°F)
+   for 4 hours.
+
+   specific heat: straight line regression equations for the relation between the specific
+   heat and moisture content where C  is apparent specific heat and M is moisture
+                                P
+   content (%). The apparent specific heat of water [Cp(w)l was calculated from the
+   equation.
+
+       = 0.0107 M + 0.265 Btu lb-I  OF-'
+   cP                             -1 K-l       = 0.0107 M + 0.265  cal
+       = 0.0448 M + 1.109 J g- H,-1
+
+  C (w) = 1.335 Btu Ib-I  OF-'
+   Cp(w)P   = 1.335 cal  -1 K-l   C,(W) = 5.586 J g-7 K-1
+
+                                                              54HAS
+
+RICE, SHELLED (ITALIAN ORIGIN); solid; Grain has fat content of 0.496-296.  The
+    relationship between the grain and the moisture content was determined. One third
+    of the samples were not conditioned, oen third were conditioned by adding distilled
+   water and equilibrating for one week, and the rest were dried in a vacuum over CaCI2
+    until they reached their respective moisture contents.  Moisture content was
+   determined by drying triplicate ground samples in a ventilated oven at 113°C (235°F)
+    for 4 hours.
+
+    specific heat: straight line regression equations for the relation between the specific
+   heat and moisture content where C  is apparent specific heat and M is moisture
+                                P
+   content (%). The apparent specific heat of water [C (w)] was calculated from the                                                P    equation.
+
+      = 0.0091 M + 0.287 Btu lb-I OF-'   cP
+  Cp = 0.0091 M + 0.287 cal  -I K-'  C  = 0.0381 M + 1.201 J g-5 K-1
+    P
+  C (w) = 1.197 Btu lb-I OF-'    P
+  C (w) = 1.197 cal
+    P
+   CP(w) = 5.008 J
+
+                                                              54HAS
+
+
+
+
+
+                                         97

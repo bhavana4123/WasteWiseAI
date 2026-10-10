@@ -1,0 +1,54 @@
+                                                                    Vegetable Oils
+
+
+LINSEED OIL, UNREFINED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 190. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 176.
+
+   enthalpy difference: temperature range measured -50" to 55°C  ( - 5 8 O  to 131°F).
+
+   temperature                Ho(t)-H"(-SO"C)
+  ("0  ("€9      Btu Ib-I.                cal g-l                J g-I
+
+    -50    -58              0.00                      0.00                     0.00
+    -25    -13           18.58                  10.32                43.18
+     0    32           67.01                 37.23               155.77
+    25    77           87.7 1                 48.73               203.89
+    50   122          108.41                   60.23                 252.00
+    55   131          112.61                   62.56              26 1.75
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58"  t o
+   131OF).
+                   1    Lf   32.8 Btu Ib-
+   Lf = 18.2 cal
+
+
+                                                                      55RIE
+
+OAT OIL; liquid; obtained from oats, Avena sotiva; obtained by ether extraction.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+                                              I    q,(gross)             16070                  0tu                                   P-'                           g-    q,(gross)  = 8930                    cal
+    q,(gross)   37365 J g-l
+
+                                                      55MERlWAT
+
+OLIVE OIL; liquid; mixture of glycerides of several fatty acids; chiefly glycerides of
+    oleic acid, with lesser amounts of palmitic, stearic, and linoleic acids. Saponification
+   number 185-1 96.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+    q,(gross)  = 17050 Btu 1
+    q,(gross)  = 9470 cal g-
+    q,(gross) = 39620 J g- 1
+
+                                                     55MERIWAT
+
+
+
+
+
+                                        219

@@ -1,0 +1,63 @@
+             Table 5-3. Sizing Data
+
+               Engine            Maximum     Power
+                                     Generator      with                                                                                                                         '
+  Number     Cylinder    Cylinder  Gas Needed   Gasoline
+     of     Dimensions,  Volume,   at 2300 rpm,  Operation,
+  Cylinders   mm        L           Lis         hp
+    4         1 1 0 x 1 36     5.17       50         80
+    6         1 1 0 x 1 36      7.75       75        130
+    S         1 1 0 x 1 36     10.34         1 00            1 80
+Note: At a heavy load, 170 mm cross section should be used instead
+of 150 mm cross section.
+Source: Adapted from Gengas 1950, Table 32.
+
+
+
+low (usually 5000 ppm), is still high enough to require
+extensive scrubbing and disposal procedures.
+
+Groeneveld has studied the recycle of gases at the noz­
+zle and developed improved understanding of the tar        Fig. 5-9. Downdraft center nozzle gas producer  (Source: Groeneveld
+                                                                   1980a)
+combustion and improved mixing methods shown in
+Fig. 5-9 to permit scaleup (Groeneveld 19S0a,b). Unfor­
+tunately, there is no overall theory of operation for Im­                                                        5.8.2 Description of the Stratified Downdraftbert gasifiers that would permit sizing the gasifier for
+                                                     Gasifierfuels other than hardwood blocks. The geometry and
+flow of fuel and air are quite complex, making any at­    The stratified downdraft gasifier consists of a cylindri­
+tempts to model the gasifier very difficult tasks indeed.     cal vessel with a hearth on the bottom as shown in
+(More information is provided in later discussions.)        Figs. 5-10 to 5-12. During operation of the stratified
+                                                   downdraft gasifier, air and biomass pass uniformlySome efforts to scale the Imbert gasifier to larger sizes
+                                          downward through four zones, hence the namehave realized a disastrous increase in tar production
+                                                                  "stratified." The open top ensures uniform access of air(Goss 1979; Graham 1983). However, researchers have
+                                                         or oxygen to the flaming pyrolysis zone, as opposed tomet with more success when the fuel size has been in­
+                                                      the Imbert gasifier. The uppermost layer is composedcreased with the gasifier size. Billets that were 8 em in
+                                                   ofunreacted biomass fuel through which air enters. Indiameter and 15 em long have operated well in large
+                                                        the second layer, biomass reacts with air in flamingImbert-style gasifiers used for heating applications
+                                                            pyrolysis. The third layer, which is made up of char(Makray 1984).
+                                                  from the second layer, reduces the pyrolysis gases.
+                                                          Inert char, which constitutes the fourth layer, normal­
+5.8 The Stratified Downdraft Gasifier                                                            ly is too cool to cause further reactions. However, since
+                                                      the fourth layer is available to absorb heat or oxygen if5.8.1  Introduction                                                        conditions change, it serves both as a buffer and as a
+A new type of gasifier, which we have named the     charcoal storage zone. The temperatures and chemical
+"stratified downdraft gasifier," (also called "open-top"     compositions in each zone are shown schematically in
+or "topless" gasifier) has been developed during the      Fig. 5-10.
+last few years through cooperative efforts among re­
+                                             The top zone of the stratified downdraft gasifier may
+searchers at SERI (Reed 1982; 1983a,b; 1984], the
+                                                be adjusted to any depth during air operation and
+University of California in Davis (Kaupp 1984a), the                                                          serves the same function as the fuel magazine in the
+Open University in London (Reines 1983), the Buck                                                     Imbert gasifier. Fuel is added through the open top of
+Rogers Co. (Walawender 1985; Chern 1985) in Kansas,
+                                                        the gasifier and should be replenished before the ad­and in Florida (LaFontaine 1984).   is also related to                                             It                    vancing pyrolysis front consumes all of the available
+the Chinese rice hull gasifier (Kaupp 1984b; Cruz                                                                    fuel.
+1984). The stratified downdraft gasifier overcomes
+many of the difficulties of the Imbert gasifier and may    During oxygen operation, the advancing pyrolysis front
+ultimately be the basis for improved gasifier designs.    moves much faster and is stabilized at the top of the
+However, it has not been widely commercialized at this    second zone so there is no first zone of fuel storage.
+point; the reader must balance the proven reliability of    Biomass must then be fed regularly onto the top ofthe
+the gasifiers discussed above against the promises of     flaming pyrolysis zone, and the second zone must be
+the stratified downdraft gasifier.                         closed and insulated above, forming a burner section.
+
+
+38    Handbook of Biomass Downdraft Gasifier Engine Systems

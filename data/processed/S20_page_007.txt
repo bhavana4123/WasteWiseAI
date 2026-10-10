@@ -1,0 +1,57 @@
+                                                             PNNL-27186
+
+
+
+                        Liquid Fuels from Sludge HTL Biocrude Upgrading
+
+                           Biocrude Feedstock Cost:   $2.45 $/gge biocrude (includes $0.10/gge transport cost)
+
+                Minimum Fuel Selling Price (MFSP)   $3.46 $/gge
+                             Diesel Fuel Selling Price    $3.71 $/gal
+                         Naphtha Fuel Selling Price   $3.42 $/gal
+
+
+                              Naphtha     Diesel     Total
+                                 666     1991        2,700 BPSD
+                                        9.1      29.6          39 million gge/yr
+                                        1.1       3.4            4.5 trillion Btu/yr, LHV basis
+
+                                     0.22      0.73          0.95 gge fuel/gge biocrude
+
+                              Internal Rate of Return (After-Tax)    10%
+                          Equity Percent of Total Investment    40%
+                                          Cost Year    2014
+
+                 CAPITAL COSTS                            MANUFACTURING COSTS
+Hydrotreating                               $33,600,000    45%   Plant Hours per year                  7920
+Hydrocracking                                $6,600,000    9%   Biocrude feed rate                      38 mmgal/y
+Hydrogen Plant                             $27,200,000    36%
+Steam cycle                                 $1,600,000    2%                            $/gge fuel blendstock       $/year
+Balance of Plant                              $6,500,000    9%   Biocrude                                 2.58       $99,900,000
+Total Installed Capital Cost                   $75,500,000   100%   Natural Gas                              0.07        $2,800,000
+                                                                        Catalysts & Chemicals                    0.01         $500,000
+   Building, site development, add'l piping      $12,400,000          Waste Disposal                         0.002         $100,000
+   Indirect Costs                            $52,800,000               Electricity and other utilities                0.02        $1,000,000
+  Working Capital                            $7,000,000            Fixed Costs                              0.24        $9,200,000
+  Land (included in feedstock cost)             $2,700,000              Capital Depreciation                     0.002        $4,700,000
+                                                               Average Income Tax                      0.07        $2,800,000
+Total Capital Investment (TCI)               $150,400,000            Average Return on Investment             0.46       $17,700,000
+                                                                                                             3.46
+Installed Capital per Annual GGE Fuel                 $2.0
+TCI per Annual GGE Fuel                             $3.9                      PERFORMANCE
+                                                                 Net Electricity Purchased (KW)                             1,637
+                                                                                      Electricity Produced Onsite (KW)                         1,812
+                                                                                      Electricity Used (KW)                                    3,449
+Loan Rate                                   8.0%            Net Electricity Purchased (KWh/gge product)                    0.3
+Term (years)                                    10
+Capital Charge Factor (computed)                   0.168             Overall Carbon Yield (Naphtha + Diesel)
+                                                On biocrude + natural gas                         83%
+                                                On biocrude                                  89%
+
+                Figure ES.2. Summary economics for biocrude upgrading plant.
+
+
+
+
+
+                                         v

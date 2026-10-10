@@ -1,0 +1,44 @@
+special features to improve the quality or quantity of the product. Each of these patents will be
+discussed with emphasis given to the unique contributions they make to the art.
+
+H.D. Allen described modifications to Bradshaw’s process that were intended to make it easier to
+implement as a continuous flow process. He raised the temperature of the reaction to the range
+80ºC to 160ºC under enough pressure to keep the alcohol in the liquid phase. Allen noted that
+either acid or alkali catalysts could be used and that acid catalysts were better suited to
+feedstocks with high free fatty acid levels since the free fatty acids would be esterified during the
+process. At the higher temperatures, the reaction times were shortened to 3 to 4 minutes at 135ºC
+with an alkali catalyst and 45 minutes with an acid catalyst. Allen’s proposed system for
+transesterification is shown in Figure 1 and includes a reaction coil (plug flow reactor) to provide
+the time needed to complete the reaction.
+
+Although previous researchers had noted the problem with using alkali catalysts with high free
+fatty acid feedstocks, and some had commented on the suitability of acid catalysts for this
+purpose, G.I. Keim appears to have been the first to propose a sequence of an acid catalyzed
+reaction to convert the free fatty acids to esters followed by an alkali catalyzed step to convert
+the triglycerides. Keim notes that the alkali catalysts are 10 to 50 times faster with triglycerides
+than the acid catalysts. However, the alkali reacts with the free fatty acids to form soap, which
+causes gelling problems and difficulty separating the glycerol. By starting with the acid to
+convert the FFAs to esters until the FFA level is at a tolerable amount for the alkali catalyst, then
+switching to the alkali catalyst, the reaction time is kept short without undesirable soap
+formation. Keim recognizes that the conversion of the FFAs to esters produces water. He says
+that removal of this water might be necessary for the reaction to proceed to completion and he
+says this can be accomplished by absorption with sodium sulfate or by heating. He also observed
+that transesterification reactions with higher alcohols, beyond methanol, are especially sensitive
+to water.
+
+Arrowsmith makes a number of additional observations about the alkyl ester production process.
+He notes that it is desirable to minimize the amount of alkali catalyst used because the amount of
+soap formed increased with increasing catalyst. He also observed that increasing the amount of
+excess alcohol could decrease the amount of catalyst required. However, excess alcohol can
+cause problems with separation of the esters and glycerol. This problem is particularly severe for
+ethanol and higher alcohols. The separation process can be enhanced by adding water, which will
+pull the glycerol out of the ester phase. However, now the lower phase is a mixture of glycerol,
+alcohol, and water. Considerable extra energy is required to separate and purify these three
+compounds, especially if they involve azeotropes as is the case with ethanol and water.
+Arrowsmith proposes to solve this problem with a water-free process.
+
+
+
+
+
+                                      57

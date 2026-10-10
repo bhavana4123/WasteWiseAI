@@ -1,0 +1,46 @@
+Section 5. Technology Characterization – Microturbines
+
+5.1   Introduction
+Microturbines, as the name implies, are small combustion turbines that burn gaseous or liquid fuels to
+drive an electrical generator, and have been commercially available for more than a decade. Today’s
+microturbine technology is the result of development work in small stationary and automotive gas
+turbines, auxiliary power equipment, and turbochargers, much of which took place in the automotive
+industry beginning in the 1950s. The development of microturbine systems was accelerated by the
+similarity of design to large engine turbochargers, and that provided the basis for the engineering and
+manufacturing technology of microturbine components.
+
+During the 1990s several companies developed competing microturbine products and entered, or
+planned to enter, the market. As the market matured, the industry underwent a consolidation phase
+during which companies merged, changed hands, or dropped out of the market. In the United States
+today, this has led to two main manufacturers of stationary microturbine products – Capstone Turbine
+Corporation and FlexEnergy.
+
+Table 5-1 provides a summary of microturbine attributes. Microturbines range in size from 30 to 330
+kilowatts (kW). Integrated packages consisting of multiple microturbine generators are available up to
+1,000 kW, and such multiple units are commonly installed at sites to achieve larger power outputs.
+Microturbines are able to operate on a variety of fuels, including natural gas, sour gas (high sulfur, low
+Btu content), and liquid petroleum fuels (e.g., gasoline, kerosene, diesel fuel, and heating oil).
+
+                 Table 5-1. Summary of Microturbine Attributes
+ Electrical Output              Available from 30 to 330 kW with integrated modular packages up to 1,000 kW.
+                             Exhaust temperatures in the range of 500 to 600 °F, suitable for supplying a
+ Thermal Output               variety of site thermal needs, including hot water, steam, and chilled water
+                                (using an absorption chiller).
+                          Can utilize a number of different fuels, including natural gas, sour gas (high
+ Fuel Flexibility                  sulfur, low Btu content), and liquid fuels (e.g., gasoline, kerosene, diesel fuel, and
+                              heating oil).
+ Reliability and life           Design life is estimated to be 40,000 to 80,000 hours with overhaul.
+                       Low NOx combustion when operating on natural gas; capable of meeting
+ Emissions                     stringent California standards with carbon monoxide/volatile organic compound
+                          (CO/VOC) oxidation catalyst.
+                               Units may be connected in parallel to serve larger loads and to provide power Modularity                                       reliability.
+ Part-load Operation          Units can be operated to follow load with some efficiency penalties.
+ Dimensions               Compact and light weight, 2.3-2.7 cubic feet (cf) and 40-50 pounds per kW.
+
+5.2   Applications
+Microturbines are ideally suited for distributed generation applications due to their flexibility in
+connection methods, their ability to be stacked in parallel to serve larger loads, their ability to provide
+
+
+
+Catalog of CHP Technologies                          5–1                                  Microturbines

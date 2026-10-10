@@ -1,0 +1,53 @@
+Polymers and Plastics
+
+
+isd3UTENE POLYSULFONE (2-methylpropene polysulfone); solid; repeating unit:
+   C4H8OZS.
+
+   gross heat of combustion: at 25°C (77°F)
+    q,(gross)  = 10356 ? 5.2 Btu lb; I
+    qv(gross)  5753.2 2 2.9 cal g-
+    qv(gross)  24071.4 k 12.1 J g-'
+
+                                                                          59IVI/KEI
+
+CELLULOID; solid; Celanese Corp. of America trade name; a solid solution of cellulose
+    nitrate and camphor or other related plasticizers.
+
+   gross heat of combustion: assume values refer to toom temperature.
+    q,(gross) = 7603 Btu Ib- 1
+    q,(gross)  = 4224 cal g-l
+    q,(gross)  = 17673 J g-l
+
+                                                         ISROT/WAL
+
+DELRIN; solid; (polyoxymethylene); E.I. duPont de Nernours and Company trade name;
+   crystallized resin granules, 99.3%; unspecified organic additives, 0.7%; repeating unit:
+  CH20.
+
+   gross heat of combustion: at 25°C (77OF)
+
+    q,(gross)   7284.8 f 1 Btu lb-I
+    q,(gtoss)  = 4047.1 k 0.8 cal g-'
+   qv(gross)  16933.3 2 3.3 J g-l
+
+                                                        63PAR/MOS
+
+DICYANDIAMIDE (TECHNICAL); solid; elementary analysis: carbon, 28.97%; hydrogen,
+   4.44%; nitrogen, 66.60%; formula C2H4N4.
+
+   gross heat of combustion: at 25°C (77°F)
+
+   unhardened                              hardened
+
+   qv(gross) = 6723.7 2 3.1 Btu lbll              q,(gross) = 6772.3 2 3.8 Btu Ib; 1
+   qv(gross) = 3735.4 f 1.7 cal g-              qv(gross) = 3762.4 2 2.1 cal g-
+    q,(gross) = 15628.9 f 7.1 J g-l              qv(gross) = 15741.9 2 8.8 J g-l
+
+                                                             67FRA/MIS
+
+
+
+
+
+                                      170

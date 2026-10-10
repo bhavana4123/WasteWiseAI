@@ -1,0 +1,49 @@
+because the industry is based on the utilization and transformation of chemical raw materials into
+new chemical products. These hazards are linked to the physical and chemical reactivity
+properties of the various chemicals present. The categories of chemical process hazards the may
+be present in a chemical facility are listed in Table 16.
+
+       Table 16. Categories of Chemical Process Hazards
+
+       •Explosion
+       •Gases – toxic, flammable, compressed
+      •Flammable Liquids
+      •Flammable Solids
+       •Oxidizers and Organic Peroxides
+       •Poisons, Pesticides, Carcinogens
+       •Radioactives
+       •Corrosives
+
+Identifying Hazards
+
+The most fundamental tasks in developing a safety program for a chemical process facility are
+summarized in the sequence shown below.
+
+      •What are the hazards? – Identification
+      •What can go wrong and how? – Scenario Building
+      •What are the chances? – Risk
+      •What are the consequences? - Results
+
+There are a number of formalized procedural tools for hazard identification. Any given facility
+may choose to use one or more of these tools. The tools include:
+
+         •  Process Hazards Checklist – Use a standard checklist that covers possible hazardous
+       conditions in the operation. When a hazard is noted, the action step is to remove the
+       hazard, or to mitigate its effect.
+
+         • Hazard Survey – Use an individual or a team to inspect a specific process or
+       operational area, looking for hazardous conditions. Again, the action step is to eliminate
+       or mitigate the hazard.
+
+         • Hazard and Operability Studies HAZOP – This is a formalized approach that examines
+       every piece of equipment in a process on the basis of its function. The questions of cause
+      and effect for each operation are framed in terms of the item not functioning, under
+       functioning and over functioning (NOT, LESS, MORE, etc.). The effect of each
+       condition is estimated, along with the likelihood of the cause being present. This process
+       helps identify likely, significant faults for correction.
+
+
+
+
+
+                                      95

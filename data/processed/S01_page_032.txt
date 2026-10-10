@@ -1,0 +1,51 @@
+Agricultural Residues
+
+
+WALNUT SHELLS;solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM)  78.28, ash
+   content = 0.56, and fixed carbon = 21.16.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 49.98,
+   hydrogen = 5.71, oxygen = 43.35, nitrogen = 0.21, sulfur = 0.01, chlorine = 0.03, and
+   residue (ash) = 0.71.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+                           1    qv(gross)  8682 Btu lb-
+    q,(gross)  = 4823 cal g-l
+    q,(gross) = 20180 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+   qv(net) = 8183 Btu Ibi 1
+    qv(net) = 4546 cal g-
+    q,(net)  = 19020 J g-'
+
+                                                                       85 JEN/EBE
+
+WHEAT DUST, FOOD AND FIBER PROCESSING WASTE; solid; Material is considered
+   biomass fuel and has proximate analysis values (in percent by weight dry basis) for
+    volatile concentration (VCM) = 69.85, ash content = 13.68, and fixed carbon = 16.47.
+   Also the ultimate analysis of the elemental composition of the fuel (values in percent
+   by weight dry basis) is carbon = 41.38, hydrogen = 5.10, oxygen = 35.19, nitrogen =
+    3.04, sulfur = 0.19, and residue (ash) = 15.10.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 6969 Btu lb; 1
+    q,(gross)  = 3872 cal g;
+    q,(gross)  = 16200 J g-
+
+   net heat of combustion: assume values refer to toom temperature.
+
+    qv(net) = 6522 Btu lb;'
+    q,(net)  = 3623 cal g-
+    q,(net)  = 15160 J g-l
+
+                                                                85JEN/EBE
+
+
+
+
+
+                                         28

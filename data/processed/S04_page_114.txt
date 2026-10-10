@@ -1,0 +1,44 @@
+               Figure 6-1. Commercial Fuel Cell for CHP Application
+
+
+
+
+
+                            Source: FuelCell Energy
+
+6.2.1 Combined Heat and Power
+Due to the high installed cost of fuel cell systems, the most prevalent and economical DG application is
+CHP. CHP applications are on-site power generation in combination with the recovery and use of by­
+product heat. Continuous baseload operation and the effective use of the thermal energy contained in
+the exhaust gas and cooling subsystems enhance the economics of on-site generation applications.
+
+Heat is generally recovered in the form of hot water or low-pressure steam (<30 psig), but the quality of
+heat is dependent on the type of fuel cell and its operating temperature. PEMFC and DMFC operate at
+temperatures below 200°F, and therefore have low quality heat. Generally, the heat recovered from fuel
+cell CHP systems is appropriate for low temperature process needs, space heating, and potable water
+heating. In the case of SOFC and MCFC technologies, medium pressure steam (up to about 150 psig) can
+be generated from the fuel cell’s high temperature exhaust gas, but the primary use of this hot exhaust
+gas is in recuperative heat exchange with the inlet process gases.
+
+The simplest thermal load to supply is hot water. Primary applications for CHP in the
+commercial/institutional sectors are those building types with relatively high and coincident electric and
+hot water/space heating demand such as colleges and universities, hospitals, nursing homes, and
+lodging. Technology developments in heat activated cooling/refrigeration and thermally regenerated
+desiccants will enhance fuel cell CHP applications by increasing the thermal energy loads in certain
+building types. Use of these advanced technologies in applications such as restaurants, supermarkets,
+and refrigerated warehouses provides a base-thermal load that opens these applications to CHP.
+
+6.2.2 Premium Power
+Consumers who require higher levels of reliability or power quality, and are willing to pay for it, often
+find some form of DG to be advantageous. These consumers are typically less concerned about the
+initial prices of power generating equipment than other types of consumers. Premium power systems
+generally supply base load demand. As a result, and in contrast to back-up generators, emissions and
+efficiency become more significant decision criteria.
+
+Fuel cell systems offer a number of intrinsic features that make them suitable for the premium power
+market. These market-driving features include low emissions/vibration/noise, high availability, good
+power quality, and compatibility with zoning restrictions. As emissions become more relevant to a
+
+
+
+Catalog of CHP Technologies                          6–4                                        Fuel Cells

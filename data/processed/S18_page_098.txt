@@ -1,0 +1,50 @@
+      Biomass Refining Scenarios.” Biofuels, Bioproducts, & Biorefining; Vol. 3, 2009; pp.
+       247-270.
+
+12.    Kazi, F.K.; Fortman, J.A.; Anex, R.P.; Hsu, D.D.; Aden, A.; Dutta, A.; Kothandaraman,
+      G. “Techno-Economic Comparison of Process Technologies for Biochemical Ethanol
+       Production from Corn Stover.” Fuel; Vol. 89, 2010; pp. S20-S28.
+
+13.    Klein-Marcuschamer, D.; Oleskowicz-Popiel, P.; Simmons, B.A.; Blanch, H.W.
+      “Technoeconomic Analysis of Biofuels: A Wiki-Based Platform for Lignocellulosic
+        Biorefineries.” Biomass and Bioenergy; Vol. 34, 2010; pp. 1914-1921.
+
+14.    Klein-Marcuschamer, D.; Oleskowicz-Popiel, P.; Simmons, B.A.; Blanch, H.W. “JBEI
+      Corn Stover to Ethanol Model.” U.S. Department of Energy Joint BioEnergy Institute
+       Wiki, http://econ.jbei.org/wiki/index.php/Corn_Stover_to_Ethanol_Model.
+
+15.    Huang, H.J.; Ramaswamy, S.; Al-Dajani, W.; Tschirner, U.; Cairncross, R.A. “Effect of
+      Biomass Species and Plant Size on Cellulosic Ethanol: A Comparative Process and
+      Economic Analysis.” Biomass and Bioenergy; Vol. 33, 2009; pp. 234-246.
+
+16.    Sendich, E.N.; Laser, M.; Kim, S.; Alizadeh, H.; Laureano-Perez, L.; Dale, B.; Lynd, L.
+       “Recent Process Improvements for the Ammonia Fiber Expansion (AFEX) Process and
+       Resulting Reductions in Minimum Ethanol Selling Price.” Bioresource Technology; Vol.
+       99, 2008; pp. 8429-8435.
+
+17.    Gnansounou, E.; Dauriat, A. “Techno-Economic Analysis of Lignocellulosic Ethanol: A
+      Review.” Bioresource Technology; Vol. 101, 2010; pp. 4980-4991.
+
+18.    Bals, B.; Wedding, C.; Balan, V.; Sendich, E.; Dale, B. “Evaluating the Impact of
+     Ammonia Fiber Expansion (AFEX) Pretreatment Conditions on the Cost of Ethanol
+       Production.” Bioresource Technology; Vol. 102, 2011; pp. 1277-1283.
+
+19.    Piccolo, C.; Bezzo, F. “A Techno-Economic Comparison Between Two Technologies for
+       Bioethanol Production from Lignocellulose.” Biomass and Bioenergy; Vol. 33, 2009; pp.
+       478-491.
+
+20.    National Academy of Sciences. Liquid Transportation Fuels from Coal and Biomass:
+       Technological Status, Costs, and Environmental Impacts. Washington, DC: The National
+      Academies Press, 2009. http://www.nap.edu/catalog/12620.html.
+
+21.    Humbird, D.; Aden, A. Biochemical Production of Ethanol from Corn Stover: 2008 State
+        of Technology Model. Report No. NREL/TP-510-46214. Golden, CO: National
+      Renewable Energy Laboratory, July 2009. http://www.nrel.gov/docs/fy09osti/46214.pdf.
+
+22.    Wooley, R; Putsche, V. Development of an ASPEN PLUS Physical Property Database
+        for Biofuels Components. Report No. NREL/MP-425-20685. Golden, CO: National
+      Rnewable Energy Laboratory, April 1996. http://biodev.nrel.gov/pdfs/3955.pdf.
+
+
+
+                                      88

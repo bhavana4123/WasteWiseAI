@@ -1,0 +1,46 @@
+                                                     adequate capacity for prolonged use and adequate
+                                                              efficiency for equipment protection.
+
+                                                Exit              7.6.3 Water Vapor Analysis
+                                  thermometer
+                                                  Water vapor can be determined by many methods. The
+                                                          three most suited to producer gas are psychrometry,
+                                               condenser outlet temperature, and gravimetric
+                                                    methods.
+                                             absorb,ing air       7.6.3.1 Psychrometry
+
+                                                  Water content can be determined by measuring the wet­
+                                                and dry-bulb temperature ofthe gas as in Fig. 7-17. The
+                                               moisture content  is then calculated from a
+                                         rner cap          psychrometric chart (Fig. 7-18 or 7-19, depending on
+                                                     gas temperature) to find the moisture as absolute
+                                                       humidity.
+                                        Light gas here           Moisture wt % = Absolute humidity X 100     (7-3)
+
+
+                                                                    Wet bulb
+
+        Gas tu be ---1r-t<Hl
+                                        Burner
+                                             jacket
+                                                        Dry bulb
+   Combustion tube         -
+                                 Heat exchanger
+                                                  Gas inlet----             --Water replenish
+
+                                                                        lair                                                              ----                                                    -Water reservoir
+
+                                         Products         ,J
+                                                 of                  Fig. 7-17. Gas stream hygrometer  (Source: RAG, p. 7)
+   Gas and                  combustion  primary air
+          r                     Burner water seal  Secondary =;:i¡¢£¤         air  "--'=t."A-IB-{1                                                  100 80   60 50             §"
+                                                        /     Y  0.024O",
+                                                                                                                                                                               .•                                                  Wet bulb temperature, 0 F   .§>           I I  V /'1                                                                         )ȂȃI/Ȅȅ[...,.Ȇ Ō .0.021                                                   Dew point     /     t... / /           "0                                                                      temperature.  ʸ                                         / .....                                                                   Ə6 / / /  ,                                                                                            0.0180.015                                                                                                    /....                                              / /                                                    "Fig. 7-16. Gas calorimeter combustion chamber  (Source: Adapted         Relative                                                                                                                                                                                                        1t>
+from ASTM 1977)                                                   humidity, %                                                                                                                                                                                                                                                   '         0.012 oe                                                                                                                  '0"","> /       ....,.         ....                                                                                        0                                                                                                                                                                                                                             .....                                                                                                                                                                    '!-<:J/                               7   / /                                                                                                                                            "'experience, the flame can reveal a good deal on the                 /-¥ōb-IH.L.t-+--I''''''4---l0.009
+functioning or malfunctioning system.                                                                    0.006
+                                                                        Ո'-                                                                                                                                                                        '§ƐOne author (Das) has used a small burner/thermo­       A()";::"",-:...-:::,;>C-.,()</,./,./::5<     //......                                                                                                              0.003 :Jcouple monitor shown in Fig. 7-12(b), which produces                                                                                                                                                                               ....                                                                                               a                                                                                                        I"a temperature signal roughly proportional to the heat           "     .... ,                                                                                                                                     'E                                                                                                                                                                                                    1-...content of the clean gas.                               30  40   50   60   70   80   90  100 110                               3LMNOP§EQ-f:tR/IS=t'J[TUI;[j                                                                Dry bulb temperature, 0 FThe accuracy of continuous sampling equipment is
+subject to accumulation of gas contaminants, so        Fig. 7-18. Psychrometric chart for medium temperatures  (Source:
+prefiltration should be used as in Fig. 7-12(b) of     Adapted from ASHRAE 1981)
+
+
+                                                                      Gas Testing    65

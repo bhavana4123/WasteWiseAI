@@ -1,0 +1,50 @@
+7.6   Cost and Performance Characteristics
+When making a purchase decision, the cost and performance characteristics presented in this section
+should be considered in conjunction with other factors, such as expected service life, guarantees, and
+availability of service and support, along with performance characteristics not presented here, such as
+noise and vibration.
+
+Table 7-2 summarizes the performance characteristics for packaged systems consisting of a single
+reciprocating engine or microturbine. Data were gathered from the seven EPA CHP Partner companies
+that manufacture packaged systems and that responded to a data request.110
+
+                     Fuel Cells: Efficient Operation and Environmental Benefits
+  Fuel cell CHP systems can be designed to operate with high electric efficiencies—potentially over 50
+ percent—and can maintain high efficiency at partial loads. Most fuel cells convert natural gas to
+ hydrogen using a reformer, which emits carbon at a lower rate than other prime mover technologies.
+  Nearly all fuel cell CHP is sold as packaged systems.
+
+
+         Table 7-2. Packaged CHP Systems – Performance Characteristics
+                                                                      Size Range (kW)111
+       Performance Characteristic
+                                           30-99      100-199    200-499    500-1,000     >1,000
+                                          10,000 ­      9,800 ­      9,200 ­       9,000 ­       8,200 ­ Electrical Heat Rate (Btu/kWh), HHV                                           12,600      12,600      10,800      11,000       10,400
+ Electrical Efficiency (%), HHV               24-32%     27-35%     32-37%     28-38%     33-41%
+                                           5,300 ­      4,600 –      3,600 ­       3,600 ­       3,400 ­ Total Heat Recovered (Btu/kWh)                                            7,000        6,400       5,400        4,700        5,600
+ Typical form of Recovered Heat112           H2O       H2O       H2O        H2O      H2O, Steam
+ Total CHP Efficiency113 (%), HHV            73-82%114    67-86%     76-82%     67-82%     78-87%
+
+ Power/Heat Ratio                          0.49-0.64    0.52-0.73    0.64-0.95    0.72-0.96     0.61-1.01
+
+Source: Compiled from data supplied by the seven EPA CHP Partner companies that manufacture packaged systems
+and that responded to a data request.
+
+
+
+
+110 These seven companies manufacture systems using reciprocating engines or microturbines, which account for 97 percent of
+packaged systems in the United States (fuel cell systems account for the remaining three percent). One additional company,
+which manufactures packaged systems using fuel cells, responded to the data request. However, because fuel cells have
+different characteristics, and tend to be used in different applications than reciprocating engine and microturbine systems, they
+are not a focus of this section. Fuel cell cost and performance characteristics can be found in the Fuel Cells section of the
+Catalog.
+111 Size ranges reflect the large majority of packaged systems sold. However, some vendors sell systems as small as 5 kW.
+112 Although hot water is the typical form of recovered heat for most size ranges, steam may be an option for all ranges.
+113 Total CHP efficiency for reciprocating engines is approximately 80 percent, while the total CHP efficiency for microturbines
+tends to be close to 70 percent.
+114 One vendor reports offering a 50 kW system with 92 percent efficiency. The system has unique attributes and certain
+limitations compared to typical systems.
+
+
+Catalog of CHP Technologies                         7–12                       Packaged CHP Systems

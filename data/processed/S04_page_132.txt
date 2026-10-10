@@ -1,0 +1,47 @@
+Section 7. Packaged CHP Systems
+
+Acknowledgements
+This section of the Catalog was prepared by David Jones (ICF International), Anne Hampson (ICF
+International), Charlie Goff (ERG), Gary McNeil (U.S. Environmental Protection Agency), and Neeharika
+Naik-Dhungel (U.S. Environmental Protection Agency).
+
+7.1   Introduction
+The purpose of this section of the Catalog is to introduce
+packaged CHP systems and their unique attributes to facility        This section of the Catalog of CHP
+                                                                Technologies is different than theowners and operators, real estate developers, CHP project
+                                                                other sections of the Catalog, in thatdevelopers, architects, engineers, and policymakers.
+                                                                                                     it addresses a new CHP system
+                                                                      configuration, whereas the otherDepending on the application, packaged systems can be
+                                                                     sections characterize specific CHPcheaper and easier to install and operate than conventional                                                            prime mover technologies.
+CHP systems (i.e., unique site-specific systems involving the                                                                     Accordingly, this section includes
+integration of different components — prime mover,                                                                   material such as installations and
+generator, heat recovery equipment, electrical switchgear,         technical potential by market
+emissions control devices, and controls). Also, because           segment, which are not found in the
+packaged systems are standardized, they can be good choices     other sections.
+for organizations with multiple facilities with similar electrical
+and thermal requirements.
+
+Packaged systems include a prime mover (i.e., reciprocating engine, microturbine, or fuel cell), a
+generator, heat recovery equipment, electrical switchgear, emissions control devices, and controls,
+sometimes packaged in a weather-resistant sound-attenuating enclosure. These systems can be
+installed as single units or combined to form larger systems. Product offerings for packaged systems
+have been focused on relatively small (≤ 500 kW) sizes.
+
+This section of the Catalog provides an overview of packaged systems, including:
+
+    •  The evolution of packaged CHP systems
+    •   Significant attributes
+    •   Applications
+    •   Technology description
+    •   Cost and performance characteristics
+    •   Emissions and emissions control options
+
+7.2  The Evolution of Packaged CHP Systems
+Until relatively recently, nearly all CHP installations were unique site-specific conventional CHP systems.
+In the late 1990s, as the market for CHP applications boomed, many manufacturers and developers
+started offering standardized factory-built, ready-to-install packaged CHP systems that simplified, and
+
+
+
+
+Catalog of CHP Technologies                          7–1                       Packaged CHP Systems

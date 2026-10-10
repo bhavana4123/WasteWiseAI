@@ -1,0 +1,49 @@
+                      12. Feedstock Preparation
+
+It has been mentioned earlier that biodiesel can be produced from a wide variety of feedstocks
+including vegetable oil, animal fats, restaurant waste oils, and trap grease. Another way to
+categorize these feedstocks is to identify those coming from oilseeds and those that originate
+from rendering plants. This section will discuss the processes used to produce these two
+categories of feedstocks and the implications for biodiesel processing.
+
+Production of oil from oilseeds
+
+Soybean oil is the largest source of vegetable oil in the United States and rapeseed oil (Canola) is
+the largest source in Europe. Most of these oils are used as food products but they require
+considerable processing before they are considered edible. Table 9 shows the composition of
+crude soybean oil compared with a fully refined oil. Fully refined oils are also known as RBD
+oils where RBD strands for refined, bleached, and deodorized. Table 9 shows how a crude
+soybean oil typically contains 1.5 to 2.5% phosphatides, 1.6% unsapoifiable matter including
+0.15 to 0.21% tocopherol (Vitamin E), and 0.3 to 0.7% free fatty acids. These compounds
+contribute color, odor, and strong flavors to the oil that are usually undesirable for cooking.
+Some of the compounds also contribute to poor storage stability.
+
+It has been shown that high quality biodiesel can be produced even from crude soybean oil [8].
+However, use of partially or fully refined oil simplifies the biodiesel production process so some
+producers have chosen to use degummed oils or even RBD oils. The following discussion
+describes current practice for processing soybean oil in the U.S. Similar processes are used for
+rapeseed oil in Europe.
+
+Table 9. Average Composition for Crude and Refined Soybean Oil [7, p. 14]
+                        Crude Oil          Refined Oil
+Triglycerides, %             95 – 97            >99
+Phosphatides, % a,b              1.5 – 2.5             0.003 – 0.045c
+Unsaponifiable Matter, %       1.6                   0.3
+    Plant sterols, % d           0.33                 0.13
+    Tocopherols, % e           0.15 – 0.21           0.11 – 0.18
+    Hydrocarbons, % f         0.014                0.01
+Free fatty acids, %              0.3 – 0.7          < 0.05
+Trace Metalsa
+     Iron, ppm               1 – 3                 0.1 – 0.3
+    Copper, ppm              0.03 – 0.05           0.02 – 0.06
+a Evans, C.D., G.R. List, R.E. Beal, L.T. Black. 1974. JAOCS. 51:444-448.
+b List, G.R., A.J. Heakin, C.D. Evans, L.T. Black, T.L. Mounts. 1978. JAOCS. 55:521-522.
+c Corresponding to 1-15 ppm of phosphorus
+d Weihrauch, J.L., J.M. Gardiner. 1978. J. Am. Diet. Assoc. 73:39-47.
+e Bauernfeind, J.C. 1977. Crit. Rev. Food Sci. 8:337-382.
+f Gutfinger, T., A. Letan. 1974. J. Sci. Food Agric. 25:1143-1147.
+
+
+
+
+                                      79

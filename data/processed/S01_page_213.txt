@@ -1,0 +1,43 @@
+Woody and Tree Materials                                                                                                                                                                                                                                                                 I
+
+
+ASPEN, QUAKING; Po ufus trernuloides; solid; air-dried at 105"-110°C (221 "-230"F),    density, 0.43 g cm -P
+
+    specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-'   OF-')     = 0.329
+   Cp(cal 7-1 K-l)     = 0.329
+   Cp(J g-  K-l)       = 1.377
+
+                                                            12DUN
+
+ASPEN, QUAKING; BARK; PopuZus tremuloides; solid; gross heat of combustion
+   determined on 1 g samples of air-dried bark; ash content = 2.8%; moisture content =
+    5.5%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture ot ash contents; hence, ate on an as-determined basis.
+    q,(gross) = 8433 Btu lb- 1
+    qv(gross) = 4685 cal g-'
+    q,(gross) = 19602 J g- 1
+
+                                                           55CHA/MIT
+ASPEN, QUAKING; FOLIAGE; PopuZus tremufoides; solid; freeze-dried to < 10%
+   moisture content. Composition is ash = 4.97% and char yield = 27.8%.  Char was
+   obtained from heating the sample to 500°C (932'F)   in nitrogen.
+
+    gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                     1    q,(gross)  = 9740 Btu lb-                        q,(gross)   13940 Btu  I
+    q,(gross)  = 5410 cal g-'                         q,(gross)   7740 cal g-
+    q,(gross)  = 22650 J g-'                          q,(gross)   32400 J g-l
+
+                                                                   82SUS
+
+
+
+
+
+                                         236

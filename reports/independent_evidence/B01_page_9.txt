@@ -1,0 +1,64 @@
+Appl. Sci. 2022, 12, 4822                                                                                                         9 of 25
+
+
+
+                             peaks, it then as back-calculated, by means of inverse-calculation, it detected the amount of
+                          each component of the sample. Finally, oxygen was calculated as the difference, while ash
+                            content was reasonably assumed as negligible [11].
+                           The elemental composition of the char was analyzed using the same elemental an-
+                                alytical machine. A small sample, approximately 2 to 3 mg, was placed in the machine.
+                        Here it was burned in the presence of oxygen. After burning the sample, carbon dioxide,
+                             water, and nitrogen gas were detected. The amount of the speciﬁc gas detected was used
+                              to calculate the output of the analysis. The output was a weight percentage of carbon,
+                          hydrogen, and nitrogen.
+                           The non-condensable gases were analyzed by a GC machine. The molar fraction
+                             of the produced non-condensable gases was corrected for the amount of inert nitrogen
+                             (ﬂuidization gas) in the gas stream. In the ﬂuidized bed reactor, the nitrogen ﬂow rate was
+                                 set by a calibrated mass ﬂow controller (Brooks, Seattle, WA, USA). Gas samples were taken
+                           every 10 min. These samples were analyzed in a gas chromatograph for O2, H2, CO2, CO,
+                        CH4, C2H4, C2H6, C3H6, and C3H8 (Varian Micro GC CP-4900, SpectraLab, Markham, ON,
+                         Canada, with two analytical columns, 10 m Molsieve 5A and 10 m PPQ, using Helium as
+                                carrier gas). The sum of C2H4, C2H6, C3H6, and C3H8 will further be referred to as C2–C3
+                        compounds. Elemental analysis, ash, and HHV were measured according to the methods
+                         proposed by Westerhof et al. [29].
+
+                                   2.6. Mass and Energy Balance
+
+                              Product yields (Y) were determined on an as-received basis and were deﬁned as the
+                                ratio of the pyrolysis product i (i.e., char, gas, or bio-oil) to the mass of the feedstock.
+
+                                                                   mi
+                                                                            Yi =                                                 (1)
+                                          m f eed
+
+                              Products carbon yield (Cy) was obtained as the ratio of the carbon concentration
+                               (%Cfeed) in the feed to that recovered in pyrolysis products i.
+
+                                                           mi%Ci
+                                                            Cyi =                                                    (2)
+                                         m f eed%Cf eed
+
+                             According to K. Atsonios et al. [49], a rough estimation of the heat of pyrolysis (Qpy)
+                          can be calculated closing the energy balance on the pyrolyzer:
+
+                                        ∆Ht, N2 + ∆Ht, bm + Qheat = ∆Ht, pyrogas + ∆Ht, char + Qp,loss              (3)
+
+                                  Qpy = Qheat −Qp,loss = ∆Ht, pyrogas + ∆Ht, char −∆Ht, N2 −∆Ht, bm          (4)
+                        where ∆Ht,k is the total enthalpy of the element k (e.g., biomass, nitrogen, char, and pyrogas),
+                                Qheat is the heat provided to the pyrolyzer by the electrical heaters, and Qp,loss is the heat
+                              losses through the reactor wall.
+                           The total enthalpy ∆Ht,k was calculated by the following equation as the sum of
+                            the standard enthalpy of formation (∆Hf,k) at reference conditions (25 ◦C, 1 atm) and the
+                              sensible enthalpy (∆H(T)s,k) required to certain temperature T:
+
+                                                           ∆Ht,k = ∆Hf,k + ∆H(T),s,k                                 (5)
+
+
+                                                        N
+                                                                                               0
+                                                          ∆Hf,k = ∑ nr,jh f,j                                     (6)
+                                                                               j=1
+
+                                                            N
+                                                           ∆H(T)s,k = (T −T0)· ∑ nr,jCpj                              (7)
+                                                                                      j=1

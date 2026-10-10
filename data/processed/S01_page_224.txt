@@ -1,0 +1,49 @@
+                                                 Woody and Tree Materials
+
+
+CHERRY, CORNELIAN - Continued
+
+                      dry weight       ash-free dry       std dev.
+                         basis          weight basis        of mean
+
+    leaf (5 measurements)
+
+    q,(gross)  =          7177             8343            66.8   Btu lb'l
+    qv(gross) =          3987             4635             37.1    cal q1
+    q,(gross) =         16682            19393          155     J g-
+
+   root (4 measurements)
+
+   qv(gross)           8008             8726             23.4    Btu Ib-l
+    q,(gtoss)             4449            4848             13.0   cal7-l
+    q,(gross)  =         18615            20284             54.4    J g-
+
+                                                              75PAP
+
+CHESTNUT; Castanea Lentata; solid; air-dried at 105"-110"C (221 "-230°F); density,
+    0.32 g ~ m - ~  .
+
+   specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-l  OF-')    = 0.317
+   Cp(cal   5-l)      0.317            g-'
+   Cp(J g-  K   )       = 1.326
+
+                                                           12DUN
+
+COCOBOLA NEGRA; Lecythis costariconsis; soli ; from Costa Rica; air-dried at
+   1O5"-11O0C (221"-230°F); density, 0.92 g cm- .
+
+    specific heat: 273-379 K (32O-223"F)
+
+   Cp(Btu lb-I OF-')    = 0.327
+   Cp(cal q15-l )    = 0.327
+   Cp(J g-  K         = 1.368
+
+                                                           12DUN
+
+
+
+
+
+                                       247

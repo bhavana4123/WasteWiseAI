@@ -1,0 +1,55 @@
+between 20:1 and 40:1. Direct esterification may also require rather large amounts of the acid
+catalyst depending on the process used.
+
+The esterification reaction of FFAs with methanol produces byproduct water that must be
+removed, but the resulting mixture of esters and triglyceride, can be used directly in a
+conventional base catalyzed system. The water can be removed by vaporization, settling, or
+centrifugation as a methanol-water mixture. Counter-current continuous-flow systems will wash
+out the water with the exiting stream of acidic methanol.
+
+One approach to the acid catalyst system has been to use phosphoric acid as the initial catalyst,
+neutralize with an excess of KOH for the base step, and then neutralize with phosphoric acid
+upon completion. The insoluble potassium phosphate is recovered, washed, and dried for use as a
+fertilizer. Figure 16 shows a typical acid catalyzed, direct esterification process.
+
+An alternative approach to utilization of high FFA feedstocks is to use a base catalyst to
+deliberately form soap from the FFAs. The soap is recovered, the oil dried, and then used in a
+conventional base catalyzed system.
+This strategy can lead to a false sense of economy. If the soapstock is discarded, the effective
+price of the feedstock is increased in inverse proportion to the percentage of remaining oil. The
+soapstock can, however, be converted into esters by using an acid catalyzed reaction. The
+problem with this strategy is that the soapstock system contains a large amount of water that
+must be removed before the product esters can meet the biodiesel standard. The soapstock
+process is shown in Figure 17.
+
+
+                                                             Base
+                                    Water
+
+
+
+
+     Hi-FFA TG
+                                 Acid Reactor                                                          Esters
+                                                                      Neutralize
+                                                                                               Dryer                                                                   Separate      Acid                                                                                                   TG+esters
+
+
+       Alcohol
+
+
+
+
+                Figure 16. Acid Catalyzed Direct Esterification Process
+
+An alternative procedure for processing high FFA feeds is to hydrolyze the feedstock into pure
+FFA and glycerine. Typically this is done in a counter current reactor using sulfuric/sulfonic
+acids and steam. The output is pure free fatty acids and glycerin. Any contaminates in the
+feedstock partition mostly into the glycerin and some may leave with the steam/water effluent.
+Some contaminants continue with the FFA and can be removed or left in, depending on the
+processes and product specifications. The pure FFA are then acid esterified in another counter
+current reactor to transform them into methyl esters. The methyl esters are then neutralized and
+
+
+
+                                      37

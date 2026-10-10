@@ -1,0 +1,57 @@
+Foods
+
+
+
+OATS, SUN 11; solid; Grain has fat content of 4.5%.  The relationship between t h e grain
+   and the moisture content was determined. One third of the samples were not
+   conditioned, one third were conditioned by adding distilled water and equilibrating for
+   one week, and the rest were dried in a vacuum over CaC$ until they reached their
+   respective moisture contents.  Moisture content was determined by drying triplicate
+   ground samples in a ventilated oven at 113°C (235OF) for 4 hours.
+
+   specific heat: straight line regression equations for the relation between t h e specific
+   heat and moisture content where C  is apparent specific heat and M is moisture
+                                 P
+   content (%I.The apparent specific heat of water [C (w)] was calculated from the                                                P
+   equation for M = 100%.
+
+  Cp = 0.0078 M + 0.305 Btu lb-1  OF-'
+  C    0.0078 M + 0.305 cal  -1 K-l
+  C P  0.0326 M + 1.276 J g-! K-l
+    P
+    C,(w) = 1.085 Btu lb-I OF-'
+         tJ
+   C,(w) = 1.085 cal
+  C (w) = 4.540 J g    P
+                                                              54HAS
+
+PEANUT BUTTER, HARDENED; solid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in t h e molecule = 189. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measute of
+   the proportion of unsaturated fatty acid present) called the iodine number = 78.
+   Material is called Biskin.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58'  to 131°F).
+
+   temperature                            H'(t)-H"  (-50 O C)
+  ("C)  (OF)      Btu Ib-I                cal g-l              3 g-l
+
+   -50    -58              0.00                    0.00                    0.00
+    -25    -13           16.20                   9.00                 37.66
+     0    32            42. I9                 23.44                98.07
+    25    77           83.20                 46.22               193.38
+    50   122          116.15                 64.53               269.99
+    55   131          120.42                 66.90               279.91
+
+   heat of fusion: results is a mean value for temperature range -50" to 55°C (-5SO to
+    132°F).
+
+   Lf = 43.4 Btu lbll
+   Lf = 25.2 cal g-
+   Lf = 105.4 f gdl
+
+
+
+
+
+                                        94

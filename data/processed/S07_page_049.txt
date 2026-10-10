@@ -1,0 +1,58 @@
+●Trace Metal Scavenging from Syngas (SRI, UAB, Southern Co., GTI); PI: T. Gale:
+  High-Temperature sorbents for trace metal capture.
+
+
+The recent results from in-situ reforming of tar with Olivine in the FICFB technology
+development at TUV shows promising results with Nickel-Olivine. A comparison of tar
+content and tar components for Olivine and Nickel Olivine are given below:
+
+
+                                             Olivine                   Nickel-Olivine
+
+Tar, gms/Nm3 (dry gas)                   12.7                       1.2
+Indene                           52.6%                65.8%
+Naphthalene                            29.9                      23.1
+Acenaphthalene                            4.8                        0.4
+Styrene                                   2.7                        6.5
+Phenanthrene                             2.1                   Part of ‘Other’
+Phenol                                   1.7                        2.8
+Fluorene                                  1.5                        0.6
+Other                                     4.7                        0.8
+
+Total                                 100.0                    100.0
+
+TUV has also reported the following performance of a monolithic commercial Ni
+Reforming honeycomb catalyst installed after the gasifier:
+
+                             Raw Gas        % Conversion
+
+Tar, gms/ Nm3 (dry gas)                  10.7                      99.3
+Indene                                10.0 %                 100 %
+Naphthalene                            59.0                      99.7
+Acenaphthalene                          10.0                   100
+Styrene                                 10.0                      95.7
+Phenanthrene                             4.0                   Part of other
+2-methyl naphthalene                      3.0                 Not available
+PAH (excl. naphthalene)                             -                       99.6
+Other                                     4.0                                   -
+
+Total                                 100.0
+
+On conventional solvent scrubbing of raw gases,TUV has tried different solvents and
+report the extent of tar solubility, expressed as mg/litre, in fuel oil, rapeseed oil, and RME
+as 117.6, 150.4, and 220.0 respectively.
+
+
+Another significant gas cleaning effort that is worth tracking is being conducted in
+support of the Two-Stage Carbo-V®-Gasification Process developed by CHOREN.This
+process recovers heat from raw gases, removes particulates in membrane filters (100 mg /
+Nm3 to 10 mg / Nm3), and scrubs the product with water etc to produce a clean synthesis
+gas for subsequent conversion to biofuels. With three stage scrubbing and active carbon
+adsorption, sulphur in product is reduced to <2 mg/ Nm3, Cl < 1 mg/ Nm3, and alkalis
+reduced to zero.
+
+
+Advances in High-temperature Gas Cleaning. Porvair has been actively developing a
+variety of separation processes for coal gasification applications. Many of these separation
+                                                                           49
+techniques can be employed with appropriate modifications for biomass gasification.The

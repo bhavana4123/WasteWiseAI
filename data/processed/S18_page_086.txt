@@ -1,0 +1,49 @@
+with the condensing turbine can be expressed as 0.46 gal/kWh, which is roughly equivalent to
+the consumptive water use in coal-fired electricity plants [85].
+
+The water-condensed chiller assumed here could potentially be replaced with an air-condensed
+system; however, these units do not have a very large capacity, so many parallel units would be
+required at a significant capital expense. The hydrolysate flash condenser and the pre-hydrolysis
+cooler could also potentially be replaced, but by inspection neither of them would break even
+with their water savings given the low cost of water used in the model.
+
+The three low-temperature coolers in Table 38 (ethanol product cooler, pre-fermentation cooler,
+and molecular sieve regeneration cooler) account for another ~0.7 gal/gal of water loss, but these
+are not candidates for air-cooled heat exchangers because their outlet temperature is too low
+(32°–35°C). The other users below these in Table 38 either do not represent a significant cooling
+water duty or are likely to come skidded with cooling water hookups.
+
+5.3  The Cost of Sugar
+Sugars are an intermediate product in the formation of ethanol. Hemicellulose is hydrolyzed to
+form xylose, arabinose, galactose, and mannose in the pretreatment area. Cellulase enzyme
+hydrolyzes the cellulose into glucose. NREL has received feedback from the biofuels industry
+(mainly from non-ethanol producers) that knowing the production cost of sugar from
+lignocellulosic biomass is important to them as it can help them compare feedstocks and
+pretreatment processes, at least to the extent that these things can be considered modular to their
+process. To that end, NREL maintains a process model for intermediate sugar production that
+reports a minimum sugar selling price (MSSP, $/lb) [86, 87]. It should be stressed that the sugar
+stream produced in this analysis is strictly “imaginary.” The purpose of this analysis is merely to
+separate the cost of producing sugars from the downstream costs of producing ethanol or other
+products.
+
+In the sugar cost analysis, enzymatic hydrolysis is assumed to be carried out in a sterile way and
+nearly to completion so that a transferable sugar stream is produced. The sugar model basically
+follows the ethanol model through enzymatic hydrolysis. A lignin press with counter-current
+washing is added after hydrolysis to separate lignin and unreacted insoluble solids from the
+dilute mixed sugar stream. The combustion section is retained, and an electricity co-product
+credit is assumed for these solids. A wastewater cost is kept to account for treatment of the
+pretreatment flash vapor; however, given that the beer column stillage (the principle wastewater
+feed in the ethanol model) is not applicable in the sugar model, an on-site wastewater facility is
+no longer justified. Instead, an operating cost of $0.09/kg COD is applied for disposal of the
+wastewater material to off-site treatment. Fermentation, distillation, stillage treatment, and
+ethanol storage are completely removed from the sugar model. As in the ethanol process design,
+enzymatic hydrolysis is assumed to achieve 90% cellulose-to-glucose conversion.
+
+Mass balances and capital and operating costs were determined for the sugar process using the
+same DCFROR methodology described for the ethanol process in Section 4, and the minimum
+dilute sugar selling price was calculated to be 11.6 cents/lb (2007$); detailed economics for this
+case are shown in Figure 19. Table 39 shows the sugar stream composition. It is important to
+note that this value is not directly comparable to a traditional commodity sugar derived from
+corn or sugarcane, as the cellulosic sugar material contains a mixture of C6 and C5 sugars at a
+
+                                      76

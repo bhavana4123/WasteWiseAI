@@ -1,0 +1,50 @@
+    Operating costs are estimated by using the results from the Aspen Plus heat and material balances and
+applying the assumptions shown in Section 3.0. For the cooling tower, it is assumed that water is
+available at 90 °F with a 20 °F allowable temperature rise.
+
+         2.0  Process Design and Cost Estimation
+
+    This section describes the bases for the design and costing of the sludge HTL plant and the
+centralized biocrude upgrading plant. Detailed heat and material balances are presented in Appendix A.
+
+2.1  Basis for Sludge Feedstock, Plant Scale, and Sludge
+    Composition
+
+    Sludges from primary and secondary treatment, as well as biosolids from AD have all been shown to
+be viable feedstocks for the HTL process (Marrone 2016). A common process configuration includes
+both primary and secondary treatment, and therefore, mixed primary/secondary sludge was selected as the
+feedstock for the baseline model. While there will be variation from plant to plant in the relative
+proportions of primary and secondary sludge generated, a 1:1 ratio was chosen as representative of a
+typical plant (Turovskiy and Mathai 2006; ASCE 2000). HTL can also be applied to biosolids from AD,
+however direct conversion of sludge obviously results in a greater yield of liquid fuel from the plant’s
+influent wastewater carbon.
+
+    Existing municipal wastewater treatment plants range from < 0.1 million gallon per day (MGD) to
+950 MGD (EPA 2016). The largest 3% of these plants (> 13 MGD) produce approximately 60% of the
+total sludge generated in the U.S. (Seiple et al. 2017). As the size of WWTPs is highly variable, the scale
+of the HTL and upgrading plant were chosen through an iterative process whereby economics were
+evaluated and then sensitivity and regional analyses were performed to support a reasonable base case
+scale that is in context of the current WWTP size range and geographical distribution. Through this
+process, a base case scale of 110 dry ton/day sludge (including ash) was selected as the approximate
+minimum size that is economically feasible (due to economies of scale). This corresponds to a WWTP
+that processes about 110 MGD incoming wastewater and serves approximately 1.3 million people (EPA
+2016). While this plant scale represents the minimal scale economically feasible for an individual HTL
+plant, the regional analysis presented in Section 4.0 explores how collecting biocrude in the most densely
+populated areas of the country can make smaller plants viable as part of a larger supply network to a
+centralized upgrading facility.  It is important to note that the economics presented in this analysis reflect
+the cost of conventional on-site construction (“stick-built”) that is typical for chemical plants and
+refineries. Alternatively, modularization of HTL systems is possible, which could enable smaller scale
+applications through reduced investment costs1. As an example, one company estimated that, through
+reduced field costs, modularization resulted in a 15% lower project cost than stick-built construction
+
+
+
+
+1 Weber R, J Holladay, C Jenks, E Panisko, L Snowden-Swan, M Gaalswyck, M Ramirez-Corredores, B Baynes, B
+Rittman, M Wright, C Hamstra, L Angenent, SJ Hu, L Harmon, and D Boysen. “Modularized Production of Fuels
+and other Value-Added Products from Distributed, Waste or Stranded Feedstocks.” Submitted to WIREs.
+
+
+
+
+                                          7

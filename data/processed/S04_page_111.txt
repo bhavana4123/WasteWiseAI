@@ -1,0 +1,46 @@
+Section 6. Technology Characterization – Fuel Cells
+
+6.1   Introduction
+Fuel cell systems employ an entirely different approach to the production of electricity than traditional
+combustion based prime mover technologies. Fuel cells are similar to batteries in that they both
+produce a direct current (DC) through an electrochemical process without direct combustion of a fuel
+source. However, whereas a battery delivers power from a finite amount of stored energy, fuel cells can
+operate indefinitely, provided the availability of a continuous fuel source. Two electrodes (a cathode and
+anode) pass charged ions in an electrolyte to generate electricity and heat. A catalyst enhances the
+process.
+
+Fuel cells offer the potential for clean, quiet, and efficient power generation. Because the fuel is not
+combusted, but instead reacts electrochemically, there is minimal air pollution associated with its use.
+Fuel cells have been under development for over 40 years as an emerging power source however, fuels
+cells of many different sizes are commercially available now. Based on their environmental benefits,
+high efficiency and virtually no emissions of criteria pollutants, fuel cells are supported by a number of
+state and federal tax incentive programs that help to offset the overall system costs. These incentives
+have been designed to promote continued fuel cell development, cost reductions, and overall market
+deployment.
+
+The inventor of fuel cell technology was Sir William Grove, who demonstrated a hydrogen fuel cell in
+London in the 1830s. Grove’s technology remained without a practical application for over 100 years.
+Fuel cells returned to the laboratory in the 1950s when the United States space program required the
+development of new power systems with low to no air emissions. Today, the topic of fuel cells
+encompasses a broad range of different technologies, technical issues, and market dynamics that make
+for a complex but promising outlook. Significant public and private investment are being applied to the
+development of fuel cell products for both stationary and transportation applications.
+
+There are four primary types of fuel cells that are used for stationary combined heat and power (CHP)
+applications. These include: 1) phosphoric acid (PAFC), 2) molten carbonate (MCFC), 3) solid oxide
+(SOFC), and 4) proton exchange membrane (PEMFC). Two additional primary fuel cell types - direct
+methanol (DMFC) and alkaline (AFC) - are used primarily in transportation and non-stationary fuel cell
+applications, in addition to PEMFC.
+
+The electrolyte and operating temperatures vary for each of the fuel cell types. Operating temperatures
+range from near-ambient to 1,800°F, and electrical generating efficiencies range from 30 percent to over
+50 percent on a Higher Heating Value (HHV) basis. As a result, fuel cells can have different performance
+characteristics, advantages, and limitations, which can be suited to distributed generation applications
+in a variety of approaches. Table 6-1 provides a summary of the primary advantages and disadvantages
+of the various types of fuel cells.
+
+
+
+
+
+Catalog of CHP Technologies                          6–1                                        Fuel Cells

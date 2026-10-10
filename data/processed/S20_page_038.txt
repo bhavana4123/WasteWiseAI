@@ -1,0 +1,35 @@
+                     Table 14. Hydrotreater and hydrocracker capital costs.
+
+                                             Purchased, million      Installed, million USD
+              Item or Area              USD (2014)               (2014)              Source
+
+ Hydrotreater system (2732 BPSD feed)             21.1                    33.6           IHS 2014a
+ Hydrocracker system (1020 BPSD feed)              4.4                      6.6            IHS 2014a
+
+   The costs spanned a broad range from simple naphtha hydrodesulfurization units, to multi-stage
+hydrocrackers. In addition to the reactor(s), each system at least includes recycle compressors, multi-
+stage flash systems and distillation. The hydrotreater system also includes the cost of a desalter and guard
+bed. Costs for a generic hydrocracking system (2000 psia) were chosen as the basis for hydrotreating and
+hydrocracking. While these costs are generally applicable to HTL oil hydrotreating as they employ
+similar temperatures and pressures, conventional refining space velocities tend to be higher. Reactor cost
+sensitivity is considered in Section 4.0.
+
+2.5.3   Hydrogen Generation Design and Cost Basis
+
+   The hydrogen plant is a conventional natural gas based steam reformer. Most of the off-gas is used to
+fire the reformer. However, a portion of the off-gas is compressed and mixed with makeup natural gas
+which is then sent to a hydrodesulfurizer (HDS) unit. Figure 8 (Jones et al. 2014) shows the simplified
+flow scheme for hydrogen generation by steam reforming of natural gas (IHS 2014b; Meyers 2004; H2A
+2013) combined with the off-gas streams from hydrotreating and hydrocracking. Hydrogen for the HDS
+unit is supplied by the off-gas stream. The gas exiting the HDS unit is then mixed with superheated
+steam and sent through an adiabatic pre-reformer to convert C2+ compounds to methane prior to entering
+the main steam reformer to produce syngas. This reduces the rate of coking in the main reformer. The
+syngas hydrogen content is increased by high temperature shift. After condensing out the water, the
+hydrogen is purified by pressure swing adsorption (PSA). Off-gas from the PSA is recycled to the
+reformer burners.
+
+
+
+
+
+                                         23

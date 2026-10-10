@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "unsupported": [],
+  "source_failures": 6,
+  "counts": {
+    "waste_properties": {
+      "rows": 81,
+      "verified_rows": 81
+    },
+    "technology_mapping": {
+      "rows": 24,
+      "verified_rows": 24
+    },
+    "conversion_parameters": {
+      "rows": 136,
+      "verified_rows": 136
+    },
+    "technology_performance": {
+      "rows": 13,
+      "verified_rows": 13
+    },
+    "sources": {
+      "rows": 31,
+      "verified_rows": 18
+    },
+    "source_verification": {
+      "rows": 707,
+      "verified_rows": 694
+    }
+  },
+  "property_quality_flags": 2,
+  "coverage": {
+    "property_categories": {
+      "Agricultural residues": 30,
+      "Industrial organic waste": 2,
+      "Wood and forestry waste": 5,
+      "Plastics": 27,
+      "Municipal solid waste": 4,
+      "Paper and cardboard": 3,
+      "Food and organic waste": 4,
+      "Sewage sludge": 2,
+      "Animal manure": 3,
+      "Used cooking oil and fats": 1
+    },
+    "mapping_categories": {
+      "Food and organic waste": 2,
+      "Animal manure": 2,
+      "Sewage sludge": 4,
+      "Industrial organic waste": 1,
+      "Used cooking oil and fats": 2,
+      "Agricultural residues": 5,
+      "Wood and forestry waste": 2,
+      "Textile waste": 1,
+      "Municipal solid waste": 2,
+      "Landfill waste": 1,
+      "Industrial waste heat": 1,
+      "Hazardous and medical waste": 1
+    },
+    "technology_parameter_counts": {
+      "Anaerobic digestion": 21,
+      "Pyrolysis": 9,
+      "Gasification": 78,
+      "Fermentation": 14,
+      "Biodiesel production": 1,
+      "Industrial waste heat recovery": 7,
+      "Hydrothermal conversion": 6
+    }
+  }
+}

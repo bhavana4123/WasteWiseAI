@@ -1,0 +1,53 @@
+ captured. The pressure drop across the cleanup system    8.2 The Power Theory of Gas Cleanup
+ steadily rises with the accumulation of captured
+ materials, requiring frequent or automatic cleaning or    According to the contact-power theory of gas cleanup
+ replacement. Collection efficiency is low for a clean,     (Perry 1973), for a given power consumption, as
+ in-line filter but climbs steadily with the increasing    measured by the gas pressure drop or water flow rate,
+ pressure drop as the filter becomes plugged. Collection      all cleaning devices give substantially the same collec­
+ efficiency measurements of in-line filters should clear­     tion efficiency, and the collection efficiency increases
+ ly indicate loading effects or be averaged over a full    with increasing power. Some improvement over con­
+ cleaning cycle in order to be meaningful.                 tact-power theory limitations can be gained by using
+                                                        designs for reduced power consumption that use small
+                                                              parallel streams, multiple stages in series, diffusion,Off-line devices, such as cyclone separators, wet scrub­                                                mass transfer, or condensation. bers, and electrostatic precipitators, deposit captured
+materials outside of the flow path. These devices    The performance and sharpness of size separation of
+separate the contaminants into one stream and the gas     various cleanup components are compared in Table 8-1
+into another stream. The pressure drops and efficien­    and Fig. 8-2. Particle cut diameter (as written d c or                                                                                                  p
+ cies associated with these devices are predictable and    d 50) is the particle diameter at which 50% of parhcles                                                         p
+independent of the amount of captured materials,     are captured. A capture rate other than 50% may be
+eliminating the slow buildup of pressure drop with    noted as a different subscript. A convenient
+use. Off-line methods are preferable in applications     relationship exists for particle collectors with standard
+where they can be used.                                  deviation 2.5. Particles with diameters that are double
+
+
+     99.9
+     99.8
+     99.5
+
+    99
+     98
+    95
+
+     90
+
+ Է0  80
+   ,;; "c  70
+   Q)  60
+ '0;;:::  50                                                                                      1 - Cyclone and cloth loaded  Q;                                                          2 - Part loaded c  40 0                                                        3 - Venturi scrubber (40 in. wg )
+    30                                                         4 - Packed bed (6 in. deep, 30 Ips  "     :;:::"    20                                                                                       'h in. spheres) Ώ
+ 0                                                        5 - Wet impingement scrubber 0
+                                                             6 - Karbate     10
+                                                           7 - Disintegrator
+                                                             8 - Packed bed (6 in. deep, S Ips ,
+     5                                                                                   V, in. spheres)
+     2                                                     9 - Impingement scrubber
+                                                                                              1 0 - Cyclone
+         1                                                                                    1 1 - Wire mesh (n = 2)
+      0.5                                                                                  1 2 - Wire mesh (n = 1 )
+                                                                                              1 3 - Wave plate
+      0.2                                                              14 - Cyclone and cloth clean
+       0.1          0.1                                        1       2          5             20          50          1 00
+                                                   Particle size (d,) 11m
+
+Fig. 8-2. Scrubber performance and sharpness comparison  (Source: See reference in Table 8-1)
+
+72    Handbook 01 Biomass Downdraft Gasifier Engine Systems

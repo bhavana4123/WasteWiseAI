@@ -1,0 +1,51 @@
+In addition, select data from commercial vendors, either as budgetary estimates or from their published
+literature are used when available.
+
+   The original cost reflects the year of the cost quote or estimate, and the scale of the equipment. All
+capital costs are adjusted to an annualized 2014 basis using the Chemical Engineering (CE) magazine’s
+published indices:
+
+                                                      2014 index = 576.1
+              Cost in 2014 $ = equipment cost in quote year × (                                                            quote cost year index)
+
+   The scale is adjusted to match the appropriate scaling term (heat exchanger area for example) by
+using the following expression:
+
+                                                           up capacity n                 Scaled equipment cost = cost at original scale × (scale                                                                      original capacity)
+
+where ‘n’ is the scale factor, typically, 0.6 to 0.7.
+
+   Once the equipment is scaled and adjusted to the common cost year, factors are applied to calculate
+the total capital investment. Individual installation factors calculated by ACCE are multiplied to
+equipment costs, unless installed costs are already available from vendors. The total direct cost is the sum
+of all the installed equipment costs, plus the costs for buildings, additional piping and site development.
+Indirect costs are estimated as 60% of the total installed costs. Factors for the calculation of these
+additional direct and indirect costs are listed in Table 2. The sum of the direct and indirect costs is the
+fixed capital investment (FCI). The total capital investment is the fixed capital plus working capital and
+land costs.
+
+
+                       Table 2. Cost factors for direct and indirect costs.
+
+                                                 Direct Costs
+                                Item         % of Total Installed Cost (TIC)
+                     Buildings                                 4.0%
+                       Site development                          10.0%
+                     Additional piping                           4.5%
+
+                   Total Direct Costs (TDC)                  18.5%
+                                                    Indirect Costs
+
+                                Item               % of TDC
+                     Prorated expenses                       10%
+               Home office & construction fees             20%
+                      Field expenses                         10%
+                      Project contingency                     10%
+                      Startup and permits                      10%
+
+                   Total Indirect Costs                   60%
+                  Working Capital                    5% of FCI
+
+
+
+                                          6

@@ -1,0 +1,47 @@
+Fossil Materials
+
+
+
+FUEL, RJ-4 RAMJET; liquid; Material, exo-tettahydrodi (methylcyclopentadiene) is a
+   mixture of isomers in which the location of the methyl groups is unknown.  Recovery
+    of C02 from combustion products gave a mean value of 99.983%.
+
+   gross heat of combustion: The reference temperature is 298.15 K (77OF). Value is
+   mean value with standard deviation of the mean.
+    q,(gross)  = 19396.22 ? 1.44 Btu lb- 1
+    q,(gross)  = 10775.68 f 0.80 cal                   Y1    qv(gross)  45085.45 f 3.35 J g-
+
+   net heat of combustion: The reference temperature is 298.15 K (77OF). Value is mean
+   value with standard deviation of the mean.
+                                   1   qv(net) = 18275.6 +, 4.1 Btu lb-
+    qv(net) = 10153.1 2 2.3 cal
+    qv(net) = 42480.6 5 9.6 J
+
+                                                              78SMI/G00
+
+FUEL, R J 4 RAMJET; liquid; Material is a complex mixture of isomers, all of formula
+   C1.$H20. Carbon dioxide .recovery from combustion products was 99.983 k 0.006% of
+   tha  expected.
+
+   gross heat of combustion: temperature, 298.15 K (77°F).
+                                  1    q,(gross)  = 19427.95 2 4.16 Btu Ib-
+                            2.31 cal              10793.31 ?    q,(gross)  =                            9-1    q,(gross)             = 45159.20                     ? 9.68                          3 g-
+
+   net heat of combustion: temperature, 298.15 K (77°F).
+                             1    qv(net) = 18275.39 ? 4.16 Btu lb-
+    q,(net)  = 10152.99 ? 2.31 cal
+    q,(net)  = 42480.13 ? 9.68 J
+
+                                                        77GOO/SCO
+
+FUEL, RJ-4-I RAMJET; liquid; Material, endo-tetrahydrodi (methylcyclopentadiene), is a
+   mixture of isomers in which the location of the methyl groups is unknown. Recovery
+    of C02 from combustion products gave a mean value of 99.962%.
+
+   gross heat of combustion: The reference temperature is 298.15 K (77OF). Value is
+   mean with standard deviation of the mean.
+                              1    q,(gross) = 19374.55 f 1.03 Btu lb-
+    q,(gross) = 10763.64 k 0.57 cal
+    q,(gross)  = 45035.07 t 2.38 J
+
+                                                                           (more)

@@ -1,0 +1,56 @@
+Woody and Tree Materials                                                                                                                                                                                                                                                                   I
+
+
+
+POPLAR; solid; Material is considered biomass fuel and has proximate analysis values (in
+   percent by weight dry basis) for volatile concentration (VCM) = 82.32, ash content =
+    1.33, and fixed carbon = 16.35. Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon   48.45,
+   hydrogen = 5.85, oxygen = 43.69, nitrogen = 0.47, sulfur   0.01, chlorine = 0.10, and
+    residue (ash)   1.43.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 8337 Btu lbl I
+   qv(gross) = 4632 cal g-
+    q,(gross)  = 19380 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+   qv(net) = 7826 Btu lb; I
+    q,(net)  = 4348 cal g l
+    q,(net)  = 18190 J g-
+
+                                                              85JEN/EBE
+
+POPLAR, YELLOW; Liriodendron tulipifera; solid; mean age = 14 years, mean basal stem
+   diameter = 9.7 cm, mean stem bark (proportion of dry weight) = 20.4%, ash content
+   (proportion of oven dry weight) of components of sample: wood = 0.63%, branches
+    1.496, twigs   2.4%, bark  4.3%, and leaves = 5.2%.
+
+   gross heat of combustion: oven-dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                       twigs:
+                                         I    q,(gross)  = 8674 Btu Ib-                     qv(gross) = 8608 Btu Ib;'
+    q,(gtoss)   4819 cal g-l                       q,(gross) = 4782 cal g-
+    q,(gross)  = 20162 J g-'                      qv(gross)  20008 J g-'
+
+    bark:                                          leaves:
+    qv(gross) = 8336 Btu Ibl 1                     q,(gross) = 9121 Btu lbl 1
+    q,(gross)  = 4631 cal g-                         q,(gross) = 5067 cal g-
+    q,(gross)  = 19376 3 g-l                     qv(gross) = 21200 J g-1
+
+    branches:
+
+    q,(gross)  = 8640 Btu Ib;'
+    q,(gross)  = 4800 cal g-
+    q,(gross)  = 20083 J g-'
+
+                                                              79NEE/STE
+
+
+
+
+
+                                        290

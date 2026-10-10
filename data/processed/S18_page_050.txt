@@ -1,0 +1,48 @@
+                   Table 21. Cellulase Production Electricity Requirements
+                   Air compressor                          1,408 kW
+                  Agitators                                2,326 kW
+                   Chiller system (Area 400 contribution)      1,587 kW
+                  Total electricity (includes pumps, etc.)      5,340 kW
+                  Total electricity demand per kg protein     9 kWh/kg
+
+3.4.3 Cost Estimation
+Most equipment in this area is stainless steel. The air compressor and some of the nutrient
+delivery equipment items are specified as carbon steel. Harris Group obtained quotes for the
+production bioreactors (F-400) from Mueller, with internal cooling coils included. The
+production agitators and motors were quoted by Lotus. The smaller seed fermentors were quoted
+by A&B Process Systems as complete skid-mounted units with cooling jackets and agitators. The
+air compressor is a packaged unit from Dresser Roots, capable of delivering 8,000 SCFM of air
+at 3 atm. Harris Group developed costs for the pumps in this area using their internal database.
+
+Not included in the enzyme production model are any costs for concentration, stabilization, or
+transportation of the enzyme to the plant. At the very least, one expects to have to pay licensing
+fees for the cellulase production microorganism, but these costs are not included because we lack
+information on what they might be (though an educated guess might be 5 cents or less per gallon
+of ethanol).
+
+3.4.4 Enzyme Cost Discussion
+The 2002 design model and subsequent analyses using that model assumed that cellulase
+enzymes had a fixed contribution to the MESP that was independent of the ethanol yield. This
+value was taken from the Multi-Year Program Plan (MYPP) of DOE’s Office of the Biomass
+Program [27], which in earlier editions stated that using technology available in 2009, the
+enzyme cost contribution should be $0.35/gal (2007$) and should decrease to $0.12/gal ethanol
+by 2012. These values were computed by NREL based on projections made by enzyme
+companies in 2005, following a DOE-funded research campaign that helped to significantly
+reduce cellulase enzyme production costs [59]. Enzyme costs in this range were considered
+realistic if production costs associated with transportation and formulation costs were eliminated,
+i.e., if the enzymes were produced on-site or near-site and were not formulated for stability
+during extended storage [60, 61].
+
+Since the 2005 projections, DOE negotiated additional awards with several enzyme
+manufacturers [49] to further develop improved cellulase preparations and drive down
+production costs to the levels specified in the MYPP. In the process, DOE and NREL both
+received feedback from the enzyme industry that even $0.35/gal might be too optimistic for
+currently-available enzymes. Along those lines, in February 2010 the major enzyme
+manufacturers Genencor and Novozymes announced new commercial-grade cellulase enzyme
+preparations capable of higher performance at lower loadings. Both cited an enzyme cost
+contribution of approximately $0.50/gal ethanol [62, 63].
+
+Based on the economics of the on-site enzyme section described above, the predicted cost of
+enzymes to the ethanol plant is $0.34/gal of ethanol. This is broken down as shown in Figure 10.
+
+                                      40

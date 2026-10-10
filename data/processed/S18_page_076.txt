@@ -1,0 +1,44 @@
+                     $3.60
+                                              ($/gal)   $3.40       10% IRR
+                     $3.20       15% IRR
+                                 Price                            20% IRR                     $3.00
+                                              Selling   $2.80
+
+                     $2.60                                              Ethanol
+                     $2.40
+                                              Minimum   $2.20
+
+                     $2.00
+                    0%      20%      40%      60%      80%      100%
+            DW1102A                                                       Equity %
+
+        Figure 16. Sensitivity of MESP to IRR and % equity (8% interest on a 10-year loan)
+
+Depreciation
+To determine the capital depreciation amount for the calculation of federal taxes to be paid we
+used the IRS Modified Accelerated Cost Recovery System (MACRS). Within the MACRS
+system is the General Depreciation System (GDS), which allows both the 200% and 150%
+declining balance (DB) methods of depreciation. This offers the shortest recovery period and the
+largest tax deductions. According to IRS publication 946 [82], a cellulosic ethanol plant would
+fall under Asset Class 49.5, “Waste Reduction and Resource Recovery Plants.” This class uses a
+7-year recovery period, not including the steam plant equipment, which has a 20-year recovery
+period (Asset Class 49.13). IRS publication 946 contains a special provision for cellulosic
+biofuels plants that allows them to write off 50% of the capital investment in the first year. This
+was not implemented in our cost model because it does not ultimately affect the MESP.
+(Although the provision affects the cash flow in the first few years of the analysis, it does not
+change the year in which the plant goes into the black and must start paying taxes.)
+
+Taxes
+The federal corporate tax rate used in our analysis is 35%. Income tax is averaged over the plant
+life and that average is calculated on a per-gallon basis. The amount of income tax to be paid by
+a potential ethanol producer varies annually due to changes in the volume of product produced
+and the allowable depreciation deduction. In fact, no income tax is paid in the first eight years of
+operation because the depreciation and loan interest deductions are greater than the net income.
+State taxes are not considered, primarily because the location of the plant has not been
+determined and tax rates vary from state to state (from 0% to 12%).
+
+Construction Time
+The construction time is important to the cash flow analysis because no income is earned during
+construction, but huge sums of money are being expended. Perry and Green [83] indicate that
+
+                                      66

@@ -1,0 +1,15 @@
+values are most often not equivalent, and a selection must be made as to which value is
+preferred.  For some materials (such as coals or wood species), the values tabulated are
+typical values selected from a large number of results for samples of a similar nature.
+The selection process is based upon the personal and professional opinion of an evaluator
+after all property information for a material has been collected and examined.  Factors
+taken into consideration are (1) description of the method used  t o carry out the mea-
+surements, (2) characterization of the material, (3) number of measurements performed,
+(4) treatment of the experimental data, (5) dispersion of the results, and (6) background
+or experience of the laboratory personnel carrying out the measurements.
+
+
+
+
+
+                                            6

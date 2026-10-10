@@ -1,0 +1,58 @@
+                          Table 8·1 . Sharpness of Particle Collection Methods
+
+                                                             Sharpness of
+                                                                      Size Separation
+                                      Cut Diameter            Standard Deviation
+                                                                                               Reference Scrubber Type                                                  I'm               "9 = dps4fdp50                                                (dp50)
+ Gravity Settling Chamber                       50                          2.5                         Perry 1 973
+ Single Cyclone                                                                   2.5                     Kaupp 1 984a
+ Cascade Cyclones                                                                       Das 1 986
+   n in series identical
+       n = 2                                0.6r                                1 .8
+       n = 3                                       0.53'                       0.65
+      n = 4                                         0.48'                       0.55
+ Disintegrator                                       0.6                          2.5                        Perry 1 973
+ Karbate 1  in. lip                              5                                   1 .3                        Perry 1 973
+Wire Mesh      2 layers                          2.4                         2.5                        Perry 1 973
+ (0.01 1  in. wire)   3 layers                                  1 .5                          2.5
+ Packed Bed 6 in. deep                                                                                  Perry 1973
+   1/2 Spheres + Saddles
+        Velocity 5 Ips                                 2.3                                   1 .65
+        Velocity 30 Ips                              0.95                                 1 .8
+Venturi Scrubber 40 in. lIpWG                       0.3                                 1 .8                          Perry 1973
+Sieve Plate 1 .5 in. lIpWG                                                                                       Calvert 1 972
+  Hole Velocity Vh = 75 Ips                        0.625                  2
+Impingement Scrubber                                                                    Kaupp 1 984a
+  4 mbar/Stage
+          1 Stage                                                1 .5                          6.7
+      2 Stage                                    0.076                        8.5
+      3 Stage                                   0.015                   20
+                                                            . .Fabric Filter                                                                                         1 .8                         Peterson 1 965
+Spray Cyclone Dia. 24 in.                      2                       3                           Perry 1 973
+   lip = 2-10 in. H20 Vi = 57 Ips
+   Droplet 40-200 I'm
+Spray Tower 2·4 Ips                           5                           2.5                         Perry 1 973
+  Droplet 500-1 000 I'm
+  53 It high
+Wave Plate 90'                                                                                           Perry 1973
+  7 waves 7/1 6 in. radius                       5                                     1 1
+   0.1 5 in. spacing
+
+ *Cyclone cut diameter is determined by design, down to 1 Òm.
+**Fabric filter collection efficiency is above 90% for all particle sizes.
+
+
+the d       c value are captured with 80% efficiency, and    aerodynamic diameter, 80% of particles dp = 20 @,     p
+those with diameters triple the d c value are captured    and 90% of particles   = 30 11m.                               p                                        dp
+with 90% efficiency. In other words,                                                Note that gravity settling chamber, cyclone, disin­
+              d                  p Bo = 2 dp 5o,                    (8-1)      tegrator, wire mesh separator, and spray tower all have
+                                                        the same standard deviation-characteristic ofinertial
+and                                               and gravitational separation mechanisms. Sharper par­
+                                                        (8-2)      ticle separation as indicated by smaller standard devia­
+                                                            tion involves the benefit of other or additional capture
+                                              mechanisms such as condensation, cascading dif­                                10            @ can be ex­For example, a cyclone rated at dp50 =
+                                                            fusion, or mass transfer. Similarly, poorer separationpected to capture 50% of particles having 10 @
+
+
+
+                                                          Gas Cleaning and Conditioning   73

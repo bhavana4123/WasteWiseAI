@@ -1,0 +1,54 @@
+      Table 16. Conversion Process GHG Emissions and Fossil Energy Consumption
+                                per Unit of Fuel Product
+                                                                         Fossil Energy                            GHG Emissions                                                            Consumption
+            Category              2011 Design   2012 SOT   2011 Design  2012 SOT
+                                                 kg                                 kg CO2e/gal                  MJ/gal      MJ/gal                                                     CO2e/gal
+Enzyme production                          0.43          0.41          4.58         4.42
+Pretreatment chemicals                      0.02          0.19          0.31         2.14
+Ammonia conditioning                       0.31          0.09          6.00         1.67
+Flue gas desulfurization chemicals            0.10          0.06          0.53         0.32
+Fermentation (nutrients)                     0.07          0.06          1.18         0.98
+WWT chemicals                            0.44          0.02          4.68         0.52
+Infrastructure                               0.01          0.01          0.14         0.14
+Direct refinery emission                      0.01          0.01          0.00         0.00
+Waste disposal                            6.E-03        6.E-03         0.15         0.15
+Cooling tower chemicals                    7.E-04        8.E-04         0.01         0.01
+Boiler water chemicals                     5.E-05        5.E-05        7.E-04       6.E-04
+Electricity credit                           –1.43         –2.05        –16.74       –24.02
+Total (excluding electricity credit)             1.40          0.85         17.59        10.36
+Net total (including electricity credit)          –0.03         –1.20         0.85        –13.66
+
+
+
+                 2.0
+
+
+                 1.5
+
+
+                 1.0
+
+                                                                                             Others
+                 0.5
+                                                        WWT                                 CO2e/gal)
+                 0.0                                                            FGD            (kg
+                                      -0.03                                                 EH/ Fermentation
+                 -0.5                                                                 Enzyme                                    Emissions                                                                               Pretreatment/ Conditioning
+            GHG -1.0                                                                                              Electricity Credit
+                                                                                       Net Total                                                                            -1.20                 -1.5
+
+
+                 -2.0
+
+
+                 -2.5
+                          2011 Design Case                    2012 SOT
+
+              Figure 11. GHG emissions (kg CO2e/gal) for modeled biorefinery
+                          (2011 design case vs 2012 SOT case)
+
+
+
+
+
+                                    29

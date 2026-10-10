@@ -1,0 +1,28 @@
+Notice
+
+This report was prepared as an account of work sponsored by an agency of the United
+States Government.  Neither the United States Government nor any agency thereof, nor
+any of their employees, makes any warranty, express or implied, or assumes any legal
+liability or responsibility for the accuracy, completeness, or usefulness of any informa-
+tion,  apparatus, product,  or process disclosed, or represents that  its use would not
+infringe privately owned rights.  Reference herein  t o any specific commercial product,
+process,  or service by trade name, trademark, manufacturer, or otherwise, does not
+necessarily constitute or imply  its endorsement, recommendation, or favoring by the
+United States Government or any agency thereof.  The views and opinions of authors
+expressed herein do not necessarily state or reflect those of the United States Govetn-
+ment or any agency thereof.
+
+
+Acknowledgments
+
+This document was prepared for the Solar Technical Information Program, US. Depatt-
+ment of Energy, by Eugene S. Domalski and Thomas L. fobe, Jr. of the Chemical Ther-
+modynamics Data Center, Chemical Thermodynamics Division, Center for Chemical
+Physics, and the Office of Standard Reference Data, National Bureau of  Standards,
+Gaithersburg, Md; with assistance from Thomas A. Milne of SERI.   I t is based on Thermo-
+dynamic Data  of Waste Incineration, NBSIR 78-1479, August  1978, prepared  for the
+American Society for Mechanical Engineers, Research Committee on  Industrial and
+Municipal Wastes, United Engineering Center, New York, and also available as a separate
+hard-cover  publication with the same title from the American Society for Mechanical
+Engineers.  Sarah Sprague is the Information Program Coordinator for the Biofuels and
+Municipal Waste Technology Division, U.S. Department of Energy.

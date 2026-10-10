@@ -1,0 +1,38 @@
+      Table 1-2. Summary of CHP Technology Advantages and Disadvantages
+  CHP system               Advantages                       Disadvantages             Available sizes
+Steam turbine        •   High overall efficiency –           •   Slow start up.              50 kW to
+                       steam to power.                 •   Very low power to heat        several
+                     •   Can be mated to boilers                  ratio.                     hundred MWs
+                                firing a variety of gaseous,        •   Requires a boiler or other
+                              liquid or solid fuels.                 steam source.
+                     •    Ability to meet more than
+                      one site heat grade
+                         requirement.
+                     •   Long working life and high
+                                  reliability.
+                     •   Power to heat ratio can be
+                             varied.
+Gas turbine           •   High reliability.                  •   Require high pressure gas or  500 kW to 300
+                     •  Low emissions.                       in-house gas compressor.   MW
+                     •   High grade heat available.         •   Poor efficiency at low
+                     •  No cooling required.                    loading.
+                                                        •   Output falls as ambient
+                                                           temperature rises.
+Microturbine         •   Small number of moving          •   High costs.                30 kW to 250
+                             parts.                          •   Relatively low mechanical   kW with
+                     •   Compact size and light                   efficiency.                    multiple unit
+                          weight.                         •   Limited to lower             packages up to
+                     •  Low emissions.                      temperature cogeneration                                                                                          1,000 kW
+                     •  No cooling required.                    applications.
+Fuel cells             •  Low emissions and low           •   High costs.                5 kW to 2 MW
+                            noise.                          •   Fuels require processing
+                     •   High efficiency over load               unless pure hydrogen is
+                           range.                               used.
+                     •   Modular design.                 •   Sensitive to fuel impurities.
+                                                        •  Low power density.
+
+
+
+
+
+Catalog of CHP Technologies                      1–5                                          Introduction

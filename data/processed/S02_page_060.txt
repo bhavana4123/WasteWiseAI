@@ -1,0 +1,50 @@
+along with the equipment appropriate for separation of    Although combustion and updraft gasifiers leave a
+each size range.                                     white ash. downdraft gasifiers do not produce this
+                                                    white mineral ash because there is no oxygen present
+It is important to distinguish between the various forms    When the final charcoal breakup occurs. Freshly
+of particulates that result from biomass combustion    produced charcoal. just after it has finished flaming
+and gasification. Starting with full-sized biomass fuel     pyrolysis. is only slightly smaller than it started out and
+and 0.5% ash. we can use this ash as a tracer to follow    should not be able to pass through the grate. As
+conversion in the gasification process.                    gasification of the charcoal proceeds. carbon is
+             rr?-?-ˈˉr-'--------------------                                                                                                                                                                              ,;                                                                                       Z           180         țȜ47ȝ-------------f7 ȓ
+
+         ti  160             "'              ĉ:>
+              ill
+                         Q):>
+                   <ii>  140
+          OJ
+             co
+
+          n;            Q)                         .r;:;           120
+                1ii
+     z
+
+
+           100
+
+
+                       5     10     15    20    25   800       1000         1 200       1400       1600
+                                               700
+                                                               Net heating value kcal/Nm3
+
+                                                                                                                                                                                                                                           I    ,    I    ,                                                                                                             I    •                                                                                                                                               ,    I    !    I    ,    I   I    I   !    I    ,                                                                                                        I                                                                                             1 00           1 20      140      160      180
+                                                              Net heating value (Btu/scI)
+
+
+Fig. 7-1. Nomogram for lower heating value of producer gas  (Source: Kaupp 1984a)
+
+
+
+          5                                                                                               Total soot
+                                                            4
+       '"                                                    '"                                    quantity                                                    E                             Removed by     ĉE  4
+       .9                                                                             zĉ                                                             3                                                                                              cyclone                            ,--                                                               .9             co                                                                      Charcoal      0          3         ..                                          0co̾           gas                    Total soot             i"                                                                                                                                                                    I                                                    Ě  2                                  quantity
+           2                                                                       Removed by                            1::Q)"co                                                                                                                                                                                                                                                    1::Q)"co                                  cyclone            0"               -"':>                                                                                   0"
+     0                            .lY                      "0         ¦                                                            (f)              -:;.?          o                                                0        ""
+           o     20    40    60    80   100                  0      20     40     60     80  A W
+                     Load Nm3/h                                         Load
+
+Fig.  7-2. Dust concentrations for wood gas generators of various       Fig. 7-3. Dust concentration related to the load in wood and charcoal
+makes as a function of load  (Source: Gengas 1950. Rg. 87)           gas generators  (Source: Gengas 1950, Fig. 86)
+
+52   Handbook of Biomass Downdraft Gasifier Engine Systems

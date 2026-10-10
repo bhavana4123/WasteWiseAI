@@ -1,0 +1,49 @@
+The total chemical oxygen demand (COD) entering anaerobic digestion in the design case is
+approximately 26,500 kg/h (58,300 lb/h) (equivalent to 64 g/L). In anaerobic digestion, 91% of
+each organic component is destroyed; 86% is converted to biogas (methane and carbon dioxide)
+and 5% is converted to cell mass. Methane is produced from the utilized organic matter at 228
+g/kg COD removed. Carbon dioxide is also produced at a nearly equimolar rate to methane, such
+that the biogas from the digester is 51% CH4/49% CO2 on a dry molar basis. Cell mass is
+produced at a yield of 45 g cell mass per kg COD digested. Sulfate is converted to hydrogen
+sulfide (H2S) and leaves the system in the biogas. Since the COD-to-sulfate ratio in the design
+basis is ~20, the methane-producing organisms will out-compete the sulfate-reducing organisms,
+so upstream removal of sulfate is not necessary.
+
+During standard operation, the biogas will flow to the combustor, providing about 65 MMkcal/h
+(260 MMBtu/h) or 36% of the total fuel supplied to the combustor. The H2S in the biogas will be
+treated downstream of the combustor with flue gas desulfurization (Area 800). An emergency
+biogas flare is designed into the process to burn the biogas in case of a process upset in the
+combustor.
+
+The liquid from the anaerobic digester is pumped to aerobic activated-sludge lagoons with
+floating aerators (T-608). In the lagoons, 96% of the remaining soluble organic matter is
+removed, with 74% producing water and carbon dioxide and 22% forming cell mass. With a
+91% reduction of the COD in anaerobic digestion followed by a 96% reduction of the remaining
+COD in aerobic digestion, the total COD reduction is 99.6%. Ammonium ions from the stillage
+pass through to aerobic digestion where they are converted to nitrate by nitrifying bacteria.
+Because the nitrification process lowers the pH (by forming nitric acid), caustic must be added to
+the lagoons for neutralization.
+
+The fully digested material is pumped to a membrane bioreactor (R-609) for clarification. The
+membrane unit removes additional COD along with colloidal particles (especially silica).
+Coarse- and ultra-filtration upstream of the membrane unit separate the aerobic biomass sludge.
+Most of the sludge is recycled to the lagoons to maintain a high cell mass loading. The remaining
+portion is removed to a holding tank, where it is mixed with sludge from anaerobic digestion.
+
+The sludge in the holding tank is dewatered periodically using a centrifuge (S-611). The
+centrifuge solid is primarily cell mass and is conveyed to the combustor for disposal (C-614).
+The water leaving the centrifuge is recycled to the aerobic lagoons for additional treatment.
+
+The treated water has a COD of about 0.5 g/L and is routed to a reverse osmosis (RO) membrane
+system for salt removal. Approximately 80,000 L/hr (350 gpm) of water is rejected from RO as a
+7% brine containing primarily sodium nitrate along with all remaining ions and organics. The
+RO water effluent is assumed to be pure and is mixed with process makeup water and recycled to
+the process. The brine from RO is further concentrated in a mechanical-vapor-recompression
+evaporator (M-640) to 50% solids and the condensate is also recycled to the process. We do not
+further process the brine in our model at this time, and it is assumed to be waste. In reality, one
+may choose to further crystallize the brine for solid disposal. Some biomass burners may be
+designed to handle the salt (turning sodium nitrate into N2, NOx, and soda ash). It may also be
+possible to use flue gas to spray-dry this material.
+
+
+                                      49

@@ -1,0 +1,59 @@
+Foods
+
+
+RICE, SWAMP PADDY; solid; Grain was heavily husked rough rice ftom the Gold Coast
+    area. Sample A was as harvested from field (germination was 41%); sample B was
+   wetted by addition of water or water vapor, and sample C was dried in vacuum at
+   30°C (86°F)(germination was 39%).
+
+    specific heat: temperature range 273-291 K (32"-64"F);data are mean values with
+   standard error in parentheses and moisture content (MI on a wet weight basis (%).
+
+    Sample  M                       C                                                                             cP                                                                                           1   -1
+         %         (Btu lb-                   (calg'1  K-1)        (J g-  K   )
+
+     A       11.5        0.377(0.0032)           0.377(0.0032)         1.577(0.0134)
+      B       14.9        0.417(0.0037)            0.4 17(0.0037)        1.745(0.0155)
+    C        9.2         0.358(0.0040)           0.358(0.0040)         1.498(0.0167)
+
+                                                                        54DIS
+
+WALNUTS, ENGLISH; JugZans regia; solid; 3.97% moisture.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross)  5972 Btu  Ib;'
+    q,(gross)   3318 cal g-
+    qv(gross) = 13882 J g-l
+
+                                                       55MER/WAT
+
+WHALE OIL, HARDENED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule = 193. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 72.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58" to 131°F).
+
+   temperature                          H"(t)-H"(-50  O C)
+  ("C) (OF)       Btu lb-I                cal g-l                J g-1
+
+   -50   -58             0.00                    0.00                   0.00
+    -25    -13           16.02                   8.90                 37.24
+     0    32           38.11                   21.17                88.58
+    25    77          71.14                  39.52                165.35
+    50   122         1 17.43                 65.24                272.96
+    55   131          121.79                  67.66                283.09
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58" to
+    131°F).
+                      1   Lf = 48.6 Btu Ib;
+    Lf = 27.9 cal g-
+   Lf = 113.0 J g-l
+
+                                                                     55RIE
+
+
+
+
+                                       98

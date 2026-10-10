@@ -1,0 +1,46 @@
+             Heat from Hot Oil                                  Heat from Hot Oil                                                Heat from Hot Oil
+                 A110                                        A110                                                     A110
+                                                                                              128
+
+
+                                                                  128B
+                          QH100
+
+                                                                                                                                          128
+                                                                                                                    121
+
+
+                                                                                                                                                  F-105
+                                              109        109      111       111   115      115                                                       Filter
+
+                            105             107
+                     101
+                                                                  Heat
+Dewatered Sludge                                                                                              Heater                                          126                                                                 Exchangers
+   (25% solids)                                                                           H-105              R-101                                                              HX-100                                       Heater                                                                                           HTL Plug Flow                                                                                                                       Reactors                                                                                                                              with Hot                     Feeders/Pumps                                               Feeders/Pumps                                                                                                                             HTL Solids                                    H-100                                                                          129                                                                                                                                         Oil                                                                                                                              Jacket                          P-101a                                                    P-101b
+
+
+
+                                                                                                               131
+                                                                          130                                                     Fuel Gas to
+                                                                                                                            Combustor
+
+                                                                                                                 Air Fin Condenser  140                      131
+                                                                                               HX-102
+
+                                                                                                     135         136
+                                                                 130                                                                                                                           HTL Oil to
+                                                                                                                                   Upgrading Plant
+                                                                                                               H-110
+
+                                                                                 Three-phase                                                                                                        132
+                                                                                       separator                             132
+   A100 HYDROTHERMAL                                                 V-110
+                                                                                                                             Aqueous
+      LIQUEFACTION                                                                                                        To A200
+          HTL Plant
+
+
+
+
+                                                              A.2

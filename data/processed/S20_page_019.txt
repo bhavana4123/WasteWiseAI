@@ -1,0 +1,42 @@
+process produces biogas that can be used for onsite heat or power, and “biosolids”, which can be land
+applied as a fertilizer alternative. Land application of biosolids is regulated according to CFR 40 Part
+503. The type of land to which biosolids may be applied depends on the pathogen and pollutant (metal)
+concentrations in the biosolids. Land application of biosolids provides benefit to soils by adding nutrients
+and decreasing evaporative water loss, but in some areas faces the challenge of public concern over health
+risks (SCAP 2013; Peccia and Westerhoff 2015). HTL could provide a more sustainable alternative than
+current sludge management methods, with additional benefits of relatively small footprint, high
+operational certainty, high percent solids reduction, and destruction of bioactive components.
+
+1.2  Overall Sludge to Fuel Process Summary
+
+  A simple block diagram of the overall HTL plant and biocrude upgrading process scheme is shown
+in Figure 2. The HTL facility is assumed to be co-located with the WWTP to avoid the cost of
+transporting sludge.  It is possible that collection of sludge within a reasonable radius within densely
+populated regions may be feasible and should be further investigated to enable larger economies of scale
+for the HTL facility. The HTL process produces an oil phase (biocrude), a solids stream containing
+mostly ash and some char, and an aqueous stream containing 1-3% carbon. The flow of the aqueous
+stream is less than 1% of the headworks flow, however it is highly concentrated in nutrients (relative to
+the influent) and therefore may need treatment prior to recycling back to the headworks of the WWTP.
+The biocrude is transported by tanker truck to a larger scale centralized upgrading plant for conversion to
+fuel naphtha and diesel blendstocks. The use of natural gas is assumed at both the HTL and upgrading
+facilities for process heat and hydrogen, respectively.
+
+
+
+
+
+  Figure 2. Simple block diagram for the WWTP/HTL plant and centralized biocrude upgrading plant.
+
+1.3  Techno-Economic Analysis Approach
+
+   The approach to developing conversion process techno-economics is similar to that employed in
+previous analyses conducted for the Bioenergy Technologies Office (BETO) (Dutta et al. 2015; Jones et
+al. 2013, 2014; Tan et al. 2015). Process flow diagrams and models are based on experimental results
+from completed and ongoing research, as well as information from commercial vendors for mature and
+similar technologies. To assure consistency across all biomass conversion pathways, BETO developed a
+set of economic assumptions that are used for all TEAs and are documented in BETO’s Multi-Year
+Program Plan (DOE 2016). An important aspect of these assumptions is that they reflect an “nth plant”
+design, as described below.
+
+
+                                          4

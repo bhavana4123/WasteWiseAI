@@ -1,0 +1,31 @@
+Table 10. Phospholipid Composition [wt%] of Commercial Lecithins [2, p. 52]
+
+
+       Phospholipid                Soy                  Rapeseed              Sunflower seed
+    Phosphatidylcholine                 21.9                         24.6                         25.4
+ Phosphatidylethanolamine              13.6                         22.1                      11
+     phosphatidylserine                                                                              0.8
+    phosphatidylinositol               12                          14.7                         19.4
+      PG + DPG*                       2.3                                                         1.2
+     Phosphatidic Acid                   5.8                                                         3.3
+N-Acyl-phosphatidylethano              2.8                                              1
+           lamine
+    Lyso-phospholipids                  2.9                         19.4
+          Others                         3.6                         19.2
+
+* PG + DPG = Phosphatidylglycerol and Diphosphatidylglycerol. Note: some commercial lecithins contain
+glycolipids (phosphorus-free polar lipids) that are not included in the totals given in the table.
+
+
+
+
+
+                Figure 29. Flow diagram for soybean oil degumming [7].
+
+
+The second phase of refining is neutralization, or caustic refining. This process is to remove the
+free fatty acids present in the crude oil. An alkali solution, usually sodium hydroxide, is added
+that reacts with the free fatty acids to produce soaps. The soaps are insoluble in the oil and easily
+
+
+                                      83

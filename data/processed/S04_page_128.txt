@@ -1,0 +1,47 @@
+    •  Manufactured gases – typically low- and medium-Btu gas produced as products of gasification
+       or pyrolysis processes.
+
+Factors that impact the operation of a fuel cell system with alternative gaseous fuels include:
+
+    •   Volumetric heating value – Since fuel is initially reformed by the fuel cell’s fuel processing
+       subsystem, the lower energy content fuels will simply result in a less concentrated hydrogen-
+         rich gas stream feeding the anode. This will cause some loss in stack performance, which can
+        affect the stack efficiency, stack capacity or both. Increased pressure drops through various flow
+       passages can also decrease the fine balance developed in fully integrated systems.
+
+    •  Contaminants are the major concern when operating on alternative gaseous fuels. If any
+        additional sulfur and other components (e.g., chlorides) can be removed prior to entering the
+        fuel processing catalyst, there should be no performance or life impact. If not, the compounds
+       can cause decreased fuel processor catalyst life and potentially impact stack life.
+
+6.4.9 System Availability
+Fuel cell systems are generally perceived as low maintenance devices. Fuel cells in North America have
+been recorded achieving more than 90 percent availability. In premium power applications, 100 percent
+customer power availability, and 95 percent+ fleet availability has been reported during the same time
+period. Fuel cells can provide high levels of availability, especially in high load factor (i.e. baseload)
+applications.
+
+6.5   Emissions and Emissions Control Options
+As the primary power generation process in fuel cell systems does not involve combustion, very few
+emissions are generated. In fact, the fuel processing subsystem is the only source of emissions. The
+anode-off gas that typically consists of 8 to 15 percent hydrogen is combusted in a catalytic or surface
+burner element to provide heat to the reforming process. The temperature of this very lean combustion
+can be maintained at less than 1,800° F, which also prevents the formation of oxides of nitrogen (NOx)
+but is sufficiently high to ensure oxidation of carbon monoxide (CO) and volatile organic compounds
+(VOCs – unburned, non-methane hydrocarbons). Other pollutants such as oxides of sulfur (SOx) are
+eliminated because they are typically removed in an absorbed bed before the fuel is processed.
+
+6.5.1 Primary Emissions Species
+6.5.1.1   Nitrogen Oxides (NOx)
+NOx is formed by three mechanisms: thermal NOx, prompt NOx, and fuel-bound NOx. Thermal NOx is the
+fixation of atmospheric oxygen and nitrogen, which occurs at high combustion temperatures. Flame
+temperature and residence time are the primary variables that affect thermal NOx levels. The rate of
+thermal NOx formation increases rapidly with flame temperature. Prompt NOx is formed from early
+reactions of nitrogen modules in the combustion air and hydrocarbon radicals from the fuel. It forms
+within the flame and typically is on the order of 1 ppm at 15 percent O2, and is usually much smaller
+than the thermal NOx formation. Fuel-bound NOx forms when the fuel contains nitrogen as part of the
+hydrocarbon structure. Natural gas has negligible chemically bound fuel nitrogen. Fuel-bound NOx can
+be at significant levels with liquid fuels.
+
+
+Catalog of CHP Technologies                         6–18                                       Fuel Cells

@@ -1,0 +1,53 @@
+Agricultural Residues
+
+
+PISTACHIO SHELLS; solid; Material is considered biomass fuel and has proximate
+   analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    82.03, ash content = 1.13, and fixed carbon = 16.84. Also the ultimate analysis of the
+   elemental composition of the fuel (values in percent by weight dry basis) is carbon =
+    48.79, hydrogen = 5.91, oxygen = 43.41, nitrogen = 0.56, sulfur = 0.01, chlorine = 0.04,
+   and residue (ash) = 1.28.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+   qv(gross) = 8286 Btu lb-I
+   qv(gross) = 4603 cal g-l
+    qv(gross) = 19260 J g-l
+
+   net heat of combustion: assume values refer to toom temperature.
+
+   qv(net) = 7770 Btu lbll
+    qv(net) = 4316 cal g;
+   qv(net) = 18060 J g-
+
+                                                                       85 JEN/EBE
+
+PRUNE PITS: solid; Material is considered biomass fuel and has proximate analysis values
+    (in percent by weight dry basis) for volatile concentration (VCM) = 76.99, ash
+   content = 0.50, and fixed carbon = 22.51.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon   49.73,
+   hydrogen = 5.90, oxygen = 43.57, nitrogen = 0.32, and residue (ash)   0.48.
+
+    gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atrn 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    qv(gross) = 10015 Btu 1
+    qv(gross) = 5564 cal g-
+    q,(gross)  = 23280 J g- 1
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 9499 Btu lbll
+    qv(net) = 5277 cal g-1
+    qv(net) = 22080 J g
+
+                                                                      85 JEN/EBE
+
+
+
+
+
+                                        22

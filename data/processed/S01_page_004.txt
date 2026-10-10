@@ -1,0 +1,36 @@
+                                   Preface
+
+Incinerators have continued to play an important part in reducing the amount and modi-
+fying the type of waste discharged to the environment.
+
+The ASME Research Committee on Industrial and Municipal Wastes was established in
+1968.  This committee recognized the need for greater understanding of combustion
+fundamentals  if engineers are to design better incinerators to meet the challenge of
+improving the environment.    It,  therefore, created a subcommittee on fundamental
+combustion studies.
+
+The first report of the subcommittee, Combustion Fundamentals 'for Waste Incineration,
+was published  in 1974 [74ASM].  The purpose of the report was to help engineers make
+better calculations and thereby design better incinerators. The report was divided into
+two parts.  Part one covered theoretical engineering methods of calculation and tables of
+equilibrium products  of combustion with practical examples.   Part two included the
+scientific theory and tables of thermodynamic properties.
+
+In a second report of the subcommittee, Thermodynamic Data for Waste Incineration
+[78DOM/EVAJ, engineers were provided with thermodynamic data on materials that are
+mixtures of various kinds and are often difficult to describe using a single stoichiometric
+formula.  These materials (i.e.,  animals, foods, plants, polymers, wood species, etc.) are
+encountered perhaps more often by engineers engaged in the disposal of municipal wastes
+than pure substances.  The bulk  of the data, consisting of gross heats of combustion
+(heating values) and specific heats, was intended to be helpful in combustion calculations.
+
+In the eight years since the issuance of the second report, biomass and biomass wastes
+have joined industrial and municipal solid wastes as major sources of solid fuel.  In addi-
+tion, widespread applications of gasification and pyrolysis are expected to join combus-
+tion as practical conversion processes in the 1990s.
+
+This report, under the sponsorship of the DOE Office of Renewable Technology, Biofuels
+and Municipal Waste Technology Division, doubles the number of materials listed, with
+major emphasis on different forms of biomass, both woody and agricultural.   It incorpo-
+rates almost all of the materials listed in Thermodynamic Data for Waste Incineration
+and now provides information for more than 600 materials.

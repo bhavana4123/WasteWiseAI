@@ -1,0 +1,48 @@
+                                                        Polymers and Plastics
+
+NYLON-6,6 - Continued
+
+Drawn Sample
+                                                                                      -1   -1 (K)  (OF)                                                Cp(J g  K   )
+
+ 373   212                0.479                   0.479               2.004
+ 393   248                0.503                   0.503               2.105
+ 413   284                0.528                   0.528               2.209
+ 433   320                0.542                  0.542               2.268
+ 453   356                0.560                   0.560               2.343
+ 473   392                0.582                  0.582               2.435
+ 493   428                 0.567                   0.567               2.372
+ 513   464                0.676                   0.676               2.828
+ 523   482                 1.55                     1.55                6.485
+ 533   500                  6.5                      6.5                27.20
+ 543   518                 1.35                     1.35                5.648
+ 553   536                 0.75                     0.75              3.13%
+
+melting point:
+
+                 Drawn
+                 Filaments     Annealed
+
+M.P., "C             259          262
+M.P., OF             498          504
+Melting
+Range, "C             18           30
+Melting
+Range, OF             32           54
+
+heat of fusion:
+
+                Drawn
+                  Filaments     Annealed
+
+                          53.1           59.9
+                         29.5           33.3
+                        165.3          139.3
+
+                                         57KAC; 53WIL/DOL; 67FRA/MIS
+
+
+
+
+
+                                     177

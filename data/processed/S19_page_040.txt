@@ -1,0 +1,48 @@
+Acknowledgments
+NREL is extremely grateful for the U.S. Department of Energy’s Bioenergy Technologies
+Office’s funding and unwavering support throughout the entire cellulosic ethanol program. We
+are also grateful for the support of our industrial partners. Finally, we would like to recognize the
+Idaho National Laboratory researchers for their efforts in reducing feedstock logistics costs while
+still providing corn stover in suitable quantities and quality for this demonstration.
+References
+Aspen Technology, Inc. (2007). Aspen Plus. Burlington MA: Aspen Technology,
+Inc. www.aspentech.com/products/aspen-plus.cfm. Accessed March 2014.
+
+Chen, X.; Tao, L.; Shekiro, J.; Mohagheghi, A.; Decker, S.; Wang, W.; Smith, H.; Park, S.;
+Tucker, M. (2012). “Improved Ethanol Yield and Reduced Minimum Ethanol Selling Price
+(MESP) by Modifying Low Severity Dilute Acid Pretreatment With Deacetylation and
+Mechanical Refining: 1) Experiments.” Biotechnology for Biofuels, DOI: 10.1186/1754-6834-5-
+60.
+
+DOE. (2012). Biomass Multi-Year Program Plan. Washington, DC: U.S. Department of Energy.
+www1.eere.energy.gov/bioenergy/pdfs/mypp_april_2012.pdf. Accessed March 2014.
+
+Ecoinvent. (2010). Ecoinvent v.2.2; Duebendorf, Switzerland: Swiss Centre for Life Cycle
+Inventories.
+
+Hsu, D.; Heath, G.; Wolfrum, E.; Mann, M.K.; Aden, A. (2010). “Life Cycle Environmental
+Impacts of Selected U.S. Ethanol Production and Use Pathways in 2022.” Environmental Science
+and Technology 44(13): 5289–5297.
+
+Humbird, D.; Davis, R.; Tao, L.; Kinchin, C.; Hsu, D.; Aden, A.; Schoen, P.; Lukas, J.; Olthof,
+B.; Worley, M.; Sexton, D.; Dudgeon, D. (2011). Process Design and Economics for the
+Conversion Of Lignocellulosic Biomass to Ethanol: Co-Current Dilute-Acid Prehydrolysis and
+Enzymatic Hydrolysis of Corn Stover.” Golden, CO: National Renewable Energy Laboratory,
+NREL/TP-510-47764. www.nrel.gov/docs/fy11osti/47764.pdf. Accessed March 2014.
+
+Pré Consultants. (2011). SimaPro, v.7.3; Amersfoort, The Netherlands: Pré Consultants.
+
+Schell, D.J.; Farmer, J.; Newman, M.; McMillan, J.D. (2003). “Dilute-Sulfuric Acid
+Pretreatment of Corn Stover in Pilot-Scale Reactor: Investigation of Yields, Kinetics, and
+Enzymatic Digestibilities of Solids.” Applied Biochemistry and Biotechnology (105–108): 69–
+86.
+
+Shekiro, J.; Kuhn, E.; Nagle, N.; Tucker, M.; Elander, R.; Schell, D. (2014). “Characterization of
+Pilot-Scale Dilute Acid Pretreatment Performance Using Deacetylated Corn Stover.”
+Biotechnology for Biofuels. In press.
+
+
+
+
+
+                                      33

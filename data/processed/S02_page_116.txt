@@ -1,0 +1,42 @@
+                                                                            Carburetor
+
+
+
+                                Insulation
+                                                 Intermediate filter
+                                                          -,Ď  -                                                                                                               I,
+                                          Centrifugal
+                                       dust collector
+
+                                                                              Cooler
+
+
+
+Fig. 11-1. Producer gas engine for spark ignition system  (Source: Skov 1974, Fig. 46. © 1974. Used with permission of Biomass Energy Foundation,
+Inc.)
+
+The butterfly valve often used in throttles and chokes    be reduced by adjusting the fuel-air ratio to maintain a
+has been found to respond to adjustment very    peak-power mixture, but this requires operator ex­
+nonlinearly and, therefore, can be a troublesome     perience. One improvement that today's technology
+method for controlling the gas-air mixture, A gate valve    might bring to gasifier designs is automatic mixture
+provides much finer control of the air inlet than does     control, employing a feedback signal from the engine
+a butterfly valve,  so the narrow power peak is     exhaust. This type of control is already in use on feed­
+broadened out over one-half to one turn of the gate    back fuel-injection systems, and it should be adaptable
+valve, Conversely, the entire range from too rich to too     to producer gas systems.
+lean occupies only a few degrees of arc on a butterfly
+                                                        Gas-fueled buses, which necessarily make frequentvalve and  is easily missed altogether, However, a                                                              stops, overcome the fuel-air problem with a bag in­butterfly valve can be used satisfactorily for throttle
+                                                               flated with gas by a blower, which maintains gas flowand gas-inlet control.
+                                                     during stops. The surge of power needed for accelera­
+If it is essential to prevent gas from being released into     tion is then provided mostly by gas from the bag.
+the engine compartment after shutdown, then an addi­
+tional gate valve should be used for positive gas shutoff.                                                                                            15
+                                                    "                                      č
+                                                                                                  "If idling is desired, a metering idle valve leading from                                                                   9                      1 00% gasoline                                                                                 ."                      --
+the gas inlet around the throttle may be used to enrich                                                                                          13"                                                                                                  S                                                                                                 c                                        -                                                                                                                                                                                                                  "'                                                                                                               '" 8the mixture during idle, without changing the running                                                     Yo                 m                                                                                 IDc                                                                                        oOro                                                                               ""mixture, as shown in Fig, 11-4,                          Ռ"                                                                                                            '"                                                                                                          -
+                                                        Ԫ " " 7 -                                                                                    $                                                 o E11 .8.3 Power Time Lag                              0.",,, '"                                                                                                                                                                                                                   <l'oJ,./)                                                                                                        '" 6 F6'JkLean gas-air ratios are normally produced for a short             ro.ԫ ͻa.  r
+time after the throttle is opened, and richer gas is              '"                                                                                      ;O"oŶOo%"'"& v"$"                ,           ,                                           -c    5 /. Z              G                                                                                      120    140   160produced just after the throttle is closed, This change               60 Yl80  correct
+in gas quality alters the gas mixture and weakens en­                                                 % Theoretical airgine output to a point at which the engine may even
+stall. The magnitude ofthis momentary power loss can        Fig. 11-2. Power versus gas mixture  (Source: Kaupp 1984a, Fig. 198)
+
+
+108    Handbook of Biomass Downdraft Gasifier Engine Systems

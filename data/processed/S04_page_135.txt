@@ -1,0 +1,49 @@
+7.3   Significant Attributes
+Packaged systems have certain important attributes:
+
+    •   Standardization
+    •   Black start/islanding capability (sometimes optional)
+    •   Acoustic enclosure (sometimes optional)
+    •   Modularity
+    •   Third-party own/operate business arrangements (may be available)
+    •   Replicability
+
+7.3.1  Standardization
+Because packaged systems are built and delivered in accordance with published specifications, their
+configuration and performance can be well understood before the purchase decision is made. This
+facilitates many elements of the procurement process, including equipment selection, financial analysis
+before purchase, site-specific engineering, permitting and site modifications, as well as system
+installation. Site-specific engineering is typically limited to designing connections to the fuel supply,
+water supply, thermal loads, electrical system, and building control system.
+
+Customers can choose several options. These include:
+
+    •  Type of generator (synchronous, induction, or inverter)
+    •   Black start/islanding capability
+    •  Enhanced sound attenuation
+    •   Additional emissions controls
+    •   Specialized heat recovery options, such as an absorption chiller to produce chilled water for
+        cooling applications or a steam boiler to make steam from the prime mover exhaust
+
+ NYSERDA CHP Program
+  The standardization of CHP equipment can make it easier for programs such as the New York State
+  Energy Research and Development Authority’s (NYSERDA’s) CHP Program to pre-approve projects for
+  incentives. Programs like NYSERDA’s provide a level of assurance that the pre-approved systems
+ meet the requirements of the approving organization.
+  Information about NYSERDA’s CHP Program is available at:
+  https://portal.nyserda.ny.gov/CORE_Solicitation_Detail_Page?SolicitationId=a0rt0000000QnqyAAC
+
+
+7.3.2 Black Start/Islanding Capability
+Several packaged system vendors offer models with black start/islanding capability. These systems can
+disconnect from the utility grid using an automatic transfer switch and run independently during power
+outages (i.e., in “island mode”). While CHP systems are not typically intended to meet a facility’s full
+load requirements, they can provide electricity to critical loads when the electric grid is not available.
+
+CHP systems with black start/islanding capability can supplement traditional diesel standby generators,
+providing an added level of redundancy during long-term outages and natural disasters when diesel fuel
+
+
+
+
+Catalog of CHP Technologies                          7–4                       Packaged CHP Systems

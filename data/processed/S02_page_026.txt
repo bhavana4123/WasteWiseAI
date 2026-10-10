@@ -1,0 +1,62 @@
+                                                                              0.6[2(1) + 16] (100%)
+                                                  =
+                                                                 12 + 0.2(1) + 0.6[2(1) + 16]
+
+                                                  = 47%                                      (3-8)
+
+                                               and the total moisture input MT is
+                                                              Fuel Moisture + Chemical Moisture
+                                                          Wet Fuel Weight
+
+                                                                         (100 - Mel                                                  = Me +      MF
+                                                                     100
+
+                                                           47 + 0.53 MF                             (3-9)
+
+
+                                                                             10 MJ/Nm3
+
+
+
+
+Fig. 3-4. Pel/eting process (Source: Reed 1978b)
+
+
+
+
+final fuel cost versus other alternatives (such as dif­
+ferent fuels or other types of gasifiers).
+
+3.4.2 Drying Biomass Fuels
+The moisture content of the biomass fuel affects the
+quality of the gas that will be produced. Water requires
+about 2300 kJ/kg (1000 Btullb) to vaporize and
+1500 kJ/kg to raise to 700·C during pyrolysis/gasifica­
+tion. Therefore, this energy must be subtracted from the
+heat budget ofthe gasifer. Although it is physically pos­
+sible to gasify moderately high-moisture fuels in some
+gasifiers, fuel moisture reduces the quality of the gas as
+shown in Fig. 3-5. It also reduces the throughput ofthe
+gasifier and increases tar production. On the other
+hand, charcoal gasification is just the opposite; inade­
+quate moisture input reduces the quality of char gas.
+Figure 3-5(b) combines char gasification and wood
+gasification data to illustrate the impact of total water  ''',----------,
+inputs on gas quality. Total water input includes fuel        '"
+moisture, chemically bound water, and air blast        '"
+humidity (i.e., all mass inputs in the ratio H20). We see              ""
+in Fig. 3-5(b) that starting with dry gasification, gas             110
+                                                                            .                                                                                                  100heating value increases with increased moisture input             .2i
+                                                                            ,
+                                                                                                                Sourcesup to a peak between 30% and 40% total moisture             g> 90                                                                        o HeywQod 1943                                                                                                          8Schlapler 1937input. The gas heating value then declines with            eo                                                                                                                    oadditional moisture input.                                 "Ȕ                                W                                                                                             70
+Biomass can be considered as a source of water and             60                                            Biomass moisture %
+                                                                                                                                                                          - wet basischarcoal using the generic formula for biomass                      50   Charcoal mOisture- %wet biomass
+                                                       (3-7)
+
+                                                                                                                      Total moisture Input as percentage of maSS input including chemically bound water                                                                     (b)
+so the chemical moisture Me in bone dry biomass is
+         Chemical Moisture                                          Fig. 3-5. (a) Effect of fuel moisture and oxygen on gas heating value
+                                                                      (Source: Overend 1982, Rg. 58)  Me =             Fuel Weight                                            (b) Effect of total moisture input on gas heating value
+
+
+      Handbook of Biomass Downdraft Gasifier Engine Systems18

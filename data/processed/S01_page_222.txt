@@ -1,0 +1,41 @@
+                                                  Woody and Tree Materials
+
+
+CHAPARRAL; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile Concentration (VCM)   75.19, ash
+   content = 6.13, and fixed carbon   18.68.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon   46.90,
+   hydrogen = 3.08, oxygen = 40.17, nitrogen = 0.54,  sulfur = 0.03, chlorine   0.02, and
+    residue (ash) = 7.26.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+                       1    qv(gross) = 8006 Btu lb-
+    qv(gross) = 4448 cal g-'
+    qv(gross) = 18610 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net) = 7563 Btu lbll
+    qv(net) = 4202 cal g-
+    qv(net) = 17580 J g-l
+
+                                                             85JEN/EBE
+
+CHERRY, genus Prunus; solid.
+
+   gross heat of combustion: assume values refer t o room temperature.
+
+   as received: 8.85% moisture                  air dried one hour at 105OC (221°F)
+                                                 qv(gross) = 8629 Btu lb- 1   qv(gross) = 7866 Btu lb-'
+    q,(gross)  = 4370 cal g-'                      qv(gross)  4794 cal g-l
+    q,(gross)  = 18282 J g-l                      qv(gross)  20058 3 g-l
+
+                                                             1883GOT
+
+
+
+
+
+                                       245

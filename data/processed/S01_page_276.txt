@@ -1,0 +1,58 @@
+                                                 Woody and Tree Materials
+
+
+SYCAMORE:, AMERICAN; BARK; PZatanus heterophyh; solid; gross heat of combustion
+   determined on 1 g samples of air-dried bark; ash content   5.8%; moisture content
+   6.4%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+   qv(gross) = 7403 Btu lb- 1
+    q,(gtoss)   4113 cal g-'
+    q,(gross)  = 17209 3 g-l
+
+                                                           55CHA/MIT
+
+TUNDRA, INTERIOR; Hylocomium splendens and Pleurozium schreberi; solid; Sample
+   material was top layer of black-spruce understory. Composition is ash = 34.10% and
+   chat yield = 33.5%.  Char was obtained from heating the sample to 500°C (932°F) in
+    nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 300°C heating)
+
+    q,(gross)  = 8730 Btu Ib-'                       q,(gross)  = 13780 Btu 1
+    q,(gross)  = 4850 cal g-'                       q,(gross)   7650 cal g-
+    q,(gross)  = 20290 J g-'                         q,(gross)  = 32020 J g-'
+
+                                                                  82SUS
+
+TUPELO:, WATER; Nyssa aquatica; solid; Material was collected from the southern
+   Atlantic and Gulf coastal plains in bottom-, swamp- and wet flat-land natural stand
+    sites. Samples were dried at 70°C (158°F) to a constant weight; reported values were
+   averaged over all positions of similar plant tissue for each tree and six trees per
+   species were used.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   dry weight basis.
+
+   bole wood                               branch wood
+   qv(gross) = 8361 Btu lb- 1                       q,(gross)  = 8442 Btu lb- 1
+    q,(gross)  = 4645 cal g-'                        q,(gross)  = 4690 cal g-'
+    q,(gross)   19435 3 g-I                      qv(gross) = 19623 J g-'
+
+   bole bark                                 b tanc h bark
+
+    q,(gross)  = 8575 Btu lb-l                       q,(gtoss)  = 8532 Btu Ib-I
+    q,(gross)  = 4764 cal g-l                        q,(gtoss)   4740 cal g-l
+    q,(gross)  = 19933 J g-'                          q,(gross)  = 19832 f g-'
+
+                                                                          (more)
+
+
+
+
+
+                                       299

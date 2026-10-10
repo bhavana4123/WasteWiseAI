@@ -1,0 +1,55 @@
+                                                                            Fossil Materials
+
+
+
+FUEL, RJ-4-I RAMJET - Continued
+
+   net heat of combustion: The reference temperature is 298.15 K (77°F).  Value is mean
+   with standard deviation of mean,
+                             1   qv(net) = 18254.5 k 4.0 Btu lb-
+   qv(net) = 10141.4 f 2.2 cal
+    q,(net)  = 42431.6 k 9.2 J
+
+                                                            78SMI/G00
+
+FUEL, RJ-6 RAMJET; liquid; Material is a blend of exo-tetrahydrodicyclopentadiene and
+   the hydrogenated dimers of norbornadiene and used without further drying. The ratio
+   of C02 recovered to mass of sample burned was 3.2725 f 0.0002 (mean and standard
+   deviation of the mean). The empirical formula calculated from this ratio is
+   CH1.4259*
+   gross heat of combustion: temperature, 298.15 K (77OF).
+    q,(gross)  = 18959.58 f 0.43 Btu lb- 1
+                                   -1            =    q,(gross)              10533.10 2                             0.24                               cal
+                       2                              J g-5    q,(gross)                           1.00            = 44070.49
+
+   net heat of combustion: temperature, 298.15 K (77'F).
+   qv(net) = 17971.8 f 0.4 Btu lb- 1
+    q,(net) = 9983.9 f 0.2 cal g-l
+   qv(net) = 41774.5 f 0.9 J g-l
+
+   heat capacity: temperature range 260-340 K (9"-153"F), and C, is the heat capacity
+    of the substance in equilibrium with       urated vapor. The root mean square
+   deviation of results was 0.0055 cal g
+
+   Cs(Btu lb-I  OF-')    = 0.31378 + 4.97 x    T
+   Cs(calq-1 K-1)                       = 0.0852880 + 8.948 x     T
+    C,(J  g-  K-l)       = 0.3568450 + 3.7438 x     T
+
+                                                               79SMI/SCO
+
+FUEL, RJ-6 W J E T ; liquid; Material is a blend of JP-10 (exo-
+   tetrahydrodicyclopentadiene) and 3 hydrogenated dimers of norbornadienes.
+
+   heat capacity: Temperature range was 260-467 K (9'-381 OF), and uncertainties are
+   standard deviations at either end of the measurement range. The 1961 atomic
+   weights and thermochemical calorie were used.
+
+   Cp(Btu lb-I OF-')    = 0.2939 + 6.0905  x    T) f 0.00056
+   Cp(cal 9-l K - ~ )      (0.013913 + 0.10963  x  lo-'  T) 2 0.00056
+   Cp(J g-  K-l)       = (0.058212 + 0.45869  x  lo-'  T) 2 0.00234
+
+                                                              80SMI/THO
+
+
+
+                                       113

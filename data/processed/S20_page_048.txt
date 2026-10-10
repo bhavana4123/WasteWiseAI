@@ -1,0 +1,48 @@
+         4.0  Economic and Technical Sensitivities
+
+4.1  Sensitivity Analysis
+
+    Figure 11 shows the results of sensitivity analysis around the key technical and economic modeling
+assumptions. A wide range of plant scale of 50 to 950 dry ton/day was selected to include the largest
+plants in the country. Collectively this size range covers 52% of the total WWTP capacity represented in
+the 2012 CWNS data (EPA 2016). Smaller sized plants are not economically feasible under conventional
+equipment scaling assumptions for stick-built plants (i.e., the sixth-tenths rule), however biocrude
+collection scenarios centered around large WWTPs in densely populated regions could include smaller
+plants while still meeting the goal fuel MFSP, as explored in Section 4.2. As sludge management and
+disposal currently constitutes a major expense to the wastewater industry, the impact of avoided sludge
+disposal cost (feedstock cost) is an important aspect of reflecting the current reality for WWTPs. In some
+cases, the HTL plant would be owned by the WWTP, in others by a private company. In the latter case,
+the avoided sludge disposal cost may be in the form of a fee that WWTPs would pay to the HTL
+owner/operator that would allow sharing of the cost savings between the two parties. A range of $200/dry
+ton credit (avoided cost) to a $25/dry ton sludge cost was assessed for the sensitivity analysis. Biocrude
+yield and feed solids content were varied based on minimum values observed in experimental testing and
+maximum values thought to be possible with extensive research and development. The biocrude yield
+will vary depending on the composition of the sludge, generally following the trend of
+lipids>proteins>carbohydrates (Biller and Ross 2011). Hence, blending of sludge with high-lipid waste
+feedstocks such as FOG from WWTP skimming operations and animal rendering wastes could result in
+significantly higher yields. Note that there may be competition for these feedstocks in certain areas and
+this aspect needs to be considered on an individual plant basis when determining project feasibility.
+Sludge ash content will also vary considerably from plant to plant. As a comparative example, ash
+content of sludges provided by MetroVancouver in the LIFT study ranged from 7 to 12 wt% (Marrone
+2016), while the mixed sludge provided by the City of Detroit was 26 wt%. We believe the Detroit
+sludge to be on the upper end and MetroVancouver to be on the lower end of the spectrum and
+accordingly, a range of 5-30% ash content was investigated. Note that the ash sensitivity only considers
+changes in yield that are proportional to organic content and does not include possible influences of ash
+content on HTL chemistry (e.g., catalytic) or oil separations (e.g., biocrude adhering to solids). There is
+uncertainty regarding the amount of extra heat exchange capacity that will be needed due to fouling of the
+sludge preheaters. The overall heat exchanger coefficient (U) was varied by -50% to + 25% of the base
+case value to illustrate the potential impact of this factor on cost.
+
+   As shown in Figure 12, variability in the plant scale has the greatest impact on MFSP. Biocrude
+yield, sludge ash content and the overall heat transfer coefficient for the feed/product heat exchangers are
+key technical parameters that significantly affect production cost as well. Consideration of avoided
+sludge disposal cost, uncertainty in HTL capital cost, and the assumed IRR used in the discounted cash
+flow calculations are key economic assumptions impacting the MFSP. A 10% IRR is assumed for all
+conversion pathway TEAs in BETO’s portfolio, however WWTP/HTL plant owners may want a higher
+project IRR.
+
+
+
+
+
+                                         33

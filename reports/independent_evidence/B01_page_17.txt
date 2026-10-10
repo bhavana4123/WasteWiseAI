@@ -1,0 +1,43 @@
+Appl. Sci. 2022, 12, 4822                                                                                                        17 of 25
+
+
+
+
+                             Table 8.  Reproducibility of three identical experiments, with respect to the reactor conditions
+                                 (Treactor = 500 ◦C, treactor = 0.6–1.1 s, thot = 0.6–1.1 s, fw, biomass = 10–12%).
+
+                                                    Average Yield, Y          Std. Dev, σY         Relative Spread,                                   Oil Fraction
+                                                                   (kg/kgoil)               (kg/kgoil)          σY/Y × 100%
+                               ESP                    55.57                  5.9 × 10−3               1.1 × 10−2
+                                   Intensive cooler              43.45                  7.9 × 10−3               1.8 × 10−2
+                              Gas ﬁlter                  0.99                   1.4 × 10−3               1.5 × 10−1
+
+
+                                     Bio-oil mass distribution results are also presented in Figure 8. The spray condensers
+                        were operated, also considering the mass fraction of vapors trapped in the last step of the
+                           condensation train (i.e., the cotton gas ﬁlter).
+
+
+
+
+
+                              Figure 8. Mass distribution of bio-oil, Spray Condensers setup.
+
+                       When operating the ﬁrst condenser at 100 ◦C, more than 27 wt.% of the produced
+                              liquids condensed at this stage, while at temperatures of 130 ◦C and 170 ◦C, this amount
+                           roughly accounted for 23 wt.%. The ﬁrst condensation temperature was varied over a span
+                          ranging from 170 ◦C to 100 ◦C, resulting in a trend of the increasing amount of collected
+                               liquids in the ﬁrst column as the operating temperature decreased. At higher temperatures,
+                              liquid yields were slightly lower for the collection of sugars and lignin-derived oligomers
+                              in the heavy fraction. At the same time, the variation of ﬁrst stage temperature inﬂuenced
+                             the bio-oil yield in the second condenser. This led to an increased mass yield of the second
+                           scrubber as the temperature of the ﬁrst condenser was augmented, reaching a maximum
+                          value of 21 wt.%. Yields of the last two liquid collectors (i.e., including the gas ﬁlter)
+                         have shown to settle around a constant value (of 45 wt.% and 11 wt.% respectively) as the
+                           temperature never varied during the experimental campaign.
+                                  Tests with ESP setup reported the condensation of the largest fraction of bio-oil in
+                            the ﬁrst step, including a high percentage of acidic compounds (up to 40 wt.% of the total
+                       amount of detected acids), which are an unwanted feature in terms of bio-fuel aging and
+                             storage properties [65]. In the aqueous fraction, a high content of acids and a tiny percentage
+                              of furanics were identiﬁed as well; different analytical approaches could allegedly detect
+                       more light organics.

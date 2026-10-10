@@ -1,0 +1,53 @@
+                             20.0
+
+                             15.0
+
+                             10.0
+
+                                5.0                                                                         Others                                                                      (MJ/gal)
+                                                                WWT
+                                0.0
+                                                   0.85                                           FGD
+                                 -5.0                                                                   EH/ Fermentation                                                                                                Consumption                                                                    Enzyme
+                              -10.0                                                                                                           Pretreatment/ Conditioning                                                    Energy
+                                                                                                                                     Electricity Credit
+                                                    Fossil -15.0                                                    -13.66                  Net Total
+                              -20.0
+
+                              -25.0
+
+                              -30.0
+                                       2011 Design Case                   2012 SOT
+
+                   Figure 12. Fossil energy consumption (MJ/gal) for modeled biorefinery
+                                   (2011 design case vs 2012 SOT case)
+
+     The total net GHG emissions associated with the conversion stage for the 2011 design case and
+       the current SOT demonstration case are negative at –0.03 and –1.20 kg CO2-eq/gal, respectively.
+     The negative (offset) value in this case is primarily driven by the coproduct displacement credit
+       for excess electricity, at –1.43 kg CO2-eq/gal ethanol for the 2011 design case and –2.05 kg
+      CO2-eq/gal for the SOT case. The SOT process has been modified from the 2011 design case, as
+      discussed previously. As a result, the SOT case uses fewer chemicals and generates more
+       electricity coproduct credits. Primary changes to the SOT process relative to the 2012 target case
+       include: (1) the use of deacetylation to remove the majority of acetic acid by adding sodium
+      hydroxide; (2) lower severity pretreatment, which is primarily associated with lower acid
+      loadings present in the pretreatment reactor and lower subsequent caustic (ammonia)
+       neutralization demand; and (3) lower chemical demand for WWT, which is associated with a
+      change in wastewater quality and composition, including lower nitrogen/ammonia loading (a
+      function of lower upstream ammonia neutralization demand). The lower nitrogen loading negates
+       the previously required nitrification step, which required caustic (NaOH), and instead now
+       requires a lesser amount of supplemental nitrogen by way of ammonia or urea. Consequently,
+     most of the chemicals required in the SOT process are used at a lower rate than in the design
+       case; for example, ammonia for conditioning, lime for flue gas desulfurization, and caustic for
+   WWT (see Appendix B); the lower chemical loadings translate to lower embodied GHG
+      emissions contributions to the overall system. Additionally, as ethanol yield for the SOT case
+      (70.9 gal/dry ton) is lower than for the target case (79.0 gal/dry ton), more unconverted
+      carbohydrates are ultimately combusted in the boiler, leading to more steam production and
+       electricity generation and thus a higher electricity coproduct export. The export electricity is
+      roughly 13,400 kW for the 2011 design case and 17,200 kW for the SOT case (Appendix B). It is
+       also important to point out that results in Table 16, Figure 11, and Figure 12 do not include
+
+
+                                           30
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.

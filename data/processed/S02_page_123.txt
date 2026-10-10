@@ -1,0 +1,40 @@
+                                               on generator gas during World War II are given in
+                                                    ·                                                    z        Generator Gas (Gengas 1950).                                                    "                                                o                                                    "        Further work in engine adaptation would be beneficial.                                                    •                                                                     100 C)        In particular, combustion chamber design for improved
+   •                                                    ·        swirl and squish can lead to better combustion efficien­   , ,                                              o   J   •                                                •          cies, and microprocessor controls using signals from   >                                                >
+   o                                                ;•         pressure, temperature, ping, and oxygen sensors can be   z ,                                                applied to provide continuously optimized, unat­   "   •                                                 tended engine operation, to follow changing gas quality   •   z                                            "       and variations in solid fuels.                                                    z   «                                            •   •                                                    u   •                                                «                                                •   o                                                       1 -. . 1 2 Engine Life and Engine Wear
+          ԢL-ԣԤԥԦ                                                    •                          __ͷ͸͹ o   J 0   ͱ-EͲ__                    GClloIj'lf   p, opane   Natural  HydrOQUl ProduGer BIoI' Furnace
+                               Goo              Goo      Goo               11.12,1 Engine Life Expectancy
+ Fig. 11-15. Heat values for stoichiometric fuel air mixtures  (Source:    There are reports from Sweden during the late World
+ Kaupp 1984a, Fig. 177)                             War II era (undocumented) and also from recent inves­
+                                                               tigations (Kjellstrom 1981), of longer engine life ex­
+                                                      perienced with producer-gas-fueled engines than with
+ 11.11.5 Other Methods for Increasing                gasoline-fueled engines. Note in Table 8-3 that cylinder
+ Producer Gas Power                            wear is less on producer gas with fabric filter than wear
+                                             on straight diesel fuel for two out of three tractors
+A portion of the power loss can be recovered even for     tested, and that oil contaminants were also less on well­
+a naturally aspirated engine by increasing the compres­     cleaned producer gas than on diesel oil.
+ sion ratio, as shown in Fig. 11-16, advancing the spark,
+                                                      Discussion with rebuilders of industrial engines indi­and improving the intake systems. Producer gas has a
+                                                            cates that life expectancy for fossil industrial engineshigher octane rating than gasoline, so the power can be
+                                                                    is related to engine speed. High-speed, 3600-rpmincreased by increasing the compression ratio to be­
+tween 11:1 and 14:1. Increasing the compression ratio,     operation is discouraged because it may cause prema­
+however, may prevent dual-fuel operation on lower     ture failure. Lower speeds give commensurately longer
+octane fuels because of excessive knocking and detona­     engine life expectancies  (e.g., engines operated at
+                                                  1800 rpm may last 1-1/2 years, 1200-rpm-operationtion. One method for adapting high-compression-ratio­
+                                        may allow 3-year lifetimes, and 900-rpm-operationmodified engines to operate at a partial load on lower
+octane fuels is to recycle some exhaust gas back to the
+intake manifold. The mixture of gasoline, air, and ex­
+haust gas burns more slowly, minimizing knock and        70
+permitting partial power operation.
+                                                             'Cam shaft design may be optimized for producer gas by        60                              ./
+faster valve opening, higher lift, and no overlap, with     Nvalve timing-duration optimized for producer gas.     uE        V       I                                                          50                                     0.,0 .Synchronous generators require engine speeds of1800,      en                                                                ,0/'                                                                                                                                                                                                          c,,">s1 200, or 3600 rpm. Cam shaft design has been         2'.                '"
+overlooked so far in the lower rpm region.                                             il'                                               _   c,,">S ./                                                          40 1---,0-,0                                                                                                     '"ͰPower levels also have been increased to near-super­                                        ,-,,"                 e<">'O<'f:/                                                                                                                                             il'         "charged performance                 by                      improving                                  the                                       intake                                         system                                                                                           ..             <l gaS;>.    ./                                                          30    (}:,through         installing larger                            inlet                               valves,                                     or                                        especially                                         by     Q                                                                               u;c.cusing tuned ram induction and larger intake manifolds.          :J 0CDEU                                     DAdditionally, intake manifolds may be improved with                                                          20                                                  0E                             7 ;;flow straighteners after each bend, shell-casting tech­   0niques to give smoother inlet surfaces, and carefully  @/AB
+tuned long ram intake manifolds to give a sharper peak        10
+pressure at the optimum rpm rate.
+The decrease in power can be made more acceptable if        0                                                          4      5     6      7     8     9     10       1 1one increases the engine speed by lowering the final                                                                       Compression ratio (E)
+drive-gear ratio. Full power cannot be recovered com­
+pletely by increasing the rpm rate alone. Many inter­       Fig. 11-16. Combustion pressure versus compression ratio for various
+esting details for converting piston engines to operate       fuels  (Source: Gengas 1950, Fig. 174)
+
+
+                                                                  Engine Adaptation and Operation      1 1 5

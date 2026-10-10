@@ -1,0 +1,57 @@
+Plant Materials (Non-Woody)                                                                                                                                                                                                                                                                                                              I
+
+
+
+WOOD BLUEGRASS; Poa nemoratis; solid; Material is a herb, one of the dominant
+   species of a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown
+    forest soil, at 300 m above sea level located in the southern part of the Bukk
+   Mountains of north Hungary. Samples were dried at 85°C (185"F), then ground and
+    pelleted. The ash content was determined at 500°C (932°F)while the temperature
+   was increased stepwise. Ash content of aboveground living material = 6.0%;
+   aboveground dead material = 8.7%; roots = 11.O%.
+
+   gross heat of combustion: at 20 atrn oxygen pressure, assume values refer to room
+   temperature, the number of measurements is 3.
+
+                     dry weight       ash-free dry       std dev.
+                         basis          weight basis         of mean
+
+   aboveground living material
+
+   qv(gross) =          7884             8390             56.3    Btu lb-'
+   qv(gross) =          4380             466 1            31.3    cal q1
+    q,(gtoss)  =          I8326            19502         131     J g-
+
+   aboveground dead material
+
+   qv(gross) =          7888             8636            27.0   Btu lb-'
+   qv(gross) =          4382             4798              15.0    cal 9-l
+    q,(gross) =         18334            20075            62.8   J g-
+
+   roots
+
+    q,(gross)  =          8050             9025            82.6   Btu lb-I
+    q,(gross)  =          4472             5014             45.9    ca1q-l
+   q,(gross) =         18711            20979          192     J g-
+
+                                                             75PAP
+
+WOOD SEDGE; Carex sylvatica; solid; Material is an integral part of the ecosystem at
+   the herbaceous layer level of the mixed fir and beech forest in the Pulmonario (rubro)       I
+   Abieti-Fageturn area of the Bucegi mountains (two different stations) in Romania.
+   The plants have the following constitution: 33% of the weight is represented by the
+   stem axis and 67% by leaves. The species has an aestival (summer) type vegetation
+    period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated to a dry basis.
+    q,(gross)  = 7515 Btu lbi 1
+    q,(gross)  = 4175 cal g-   qv(gross) = 17468 J g- 1
+
+                                                          73PAU/BRE
+
+
+
+
+
+                                      162

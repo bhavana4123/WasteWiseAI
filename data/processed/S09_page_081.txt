@@ -1,0 +1,34 @@
+The advantage of this process is the fact that all purification takes place in the resin vessels so the
+system is suited to smaller capacity operations. The disadvantages are that the system is subject
+to fouling by fatty acids, oils and soaps. The system also requires regeneration of the beds
+producing large quantities of wastewater. Regeneration requires parallel systems to operate and
+regenerate simultaneously.
+
+Wastewater Considerations
+
+Ester washing produces about 1 gallon of water per gallon of ester per wash. All process water
+must be softened to eliminate calcium and magnesium salts and treated to remove iron and
+copper ions. The ester wash water will have a fairly high BOD from the residual fat/oil, ester,
+and glycerol.
+
+The glycerol ion exchange systems can produce large quantities of low salt waters as a result of
+the regeneration process. In addition, water softening, ion exchange and cooling water blow-
+down will contribute a moderate dissolved salts burden.
+
+The aggregate process waste waters should meet local municipal waste treatment plant disposal
+requirements, if methanol is fully recovered in the plant and not present in the wastewater. In
+many areas, internal treatment and recycle of the process water may lead to cost savings and
+easier permitting of the process facility.
+
+Summary
+
+Methanol affects all product recovery operations. The methanol must be fully recycled for best
+economy and for pollution prevention. Glycerol is an economically significant co-product that
+should be as fully refined as practicable. Properly managed, wastewaters can be treated in a
+municipal sewer system, but internal treatment and recycling should be considered.
+
+
+
+
+
+                                      77

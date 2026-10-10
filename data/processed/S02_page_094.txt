@@ -1,0 +1,56 @@
+for tar condensation, thereby reducing the amount of
+very fine and persistent self-nucleated tar mist (Calvert
+1972).
+
+The design of a good scrubber must maximize the gas­
+liquid contact area while minimizing the pressure drop
+through the scrubber. For instance, the gas-liquid con­
+tact area for a foam is much greater than for a spray,
+given equal energy inputs.
+                                                             Sprays                            ';""Uquid in
+If a gas stream enters a liquid-filled chamber at high
+velocity through a small hole at the bottom ofthe cham­
+ber, then all of the entering gas must experience the                                                  ,.    ,   .
+subsequent impaction and diffusion environments.                                        ,   •
+When water enters the gas stream as a high pressure                                       •
+spray, only a small fraction of the gas is close enough                                         ' .  • # •
+to the nozzle to receive the benefit of impaction with                                         .  ,   .the high-velocity droplets. Spray droplet agglomera­                                •
+tion proceeds rapidly, causing the gas-liquid contact
+area to drop off sharply within a short distance from          Gas in __             •the nozzle. This effect seriously limits the collection              L.JJ1                                                                                  :
+ability of spray scrubbers.                                                       Դ--_c..                                                                                                               •  ,
+8.7.2 Scrubber Equipment
+                                                                                      Liquid+  out8.7.2.1 Spray Towers                           c;::/\'
+The simplest type of scrubber is the spray tower (shown        Fig. 8-14. Spray tower scrubber  (Source: Calvert 1972. Fig. 3.1-4)
+in Fig. 8-14), which is composed of an empty cylinder
+with spray nozzles. The optimum spray droplet size is
+                  Typical upward superficial gas      8.7.2.3 Sieve-Plate Scrubbers500 to 1000  !lID.
+velocity for a gravity spray tower is 2 to 4 ft/s, and par­
+                                 A sieve-plate scrubber (Fig. 8-15) consists of a verticalticle collection is accomplished when particles rising
+                                                  tower with a series of horizontal perforated sievewith the gas stream impact with droplets falling
+                                                                plates. The scrubbing liquid is fed into the top of thethrough the chamber at their terminal settling velocity.
+                                               column and flows downward via downcomers fromThe spray tower is especially well-suited as a prefilter
+                                                           plate to plate; the gas to be scrubbed is introduced atfor extremely heavy dust loads (over 50 g/Nm3), which
+                                                        the bottom of the column and passes upward throughwould plug other less-open types of scrubbers. Full­
+                                                        the sieve holes counter to the liquid. Contact betweencone spray nozzles produce 500 to 1000 Jlm droplets,
+                                                        the liquid and gas is enhanced by using plates withwhich fall with a settling velocity of13 ft/s. For a spray
+                                                   bubble caps, impingement plates, or sieve plates.tower 53 ft high, the value of d 50 is 5 Jlm.                            p
+                                              The sieve-plate scrubber captures large particles by im­8.7.2.2 Cyclone Spray Scrubbers
+                                                   pingement and impaction, and small particles by dif­
+The cyclone spray scrubber combines the virtues of the     fusion. Gas passes upward into the water layer through
+spray tower and dry cyclone separator. It improves the     holes in the sieve plate. The high gas velocity through
+particle-capture efficiency of the spray droplets in     the sieve holes atomizes the scrubber liquid into fine
+ordinary spray scrubbers by increasing spray-droplet     droplets, and most inertial particle collection takes
+impact. The cyclone spray scrubber also has the     place just as the bubble is being formed, by impaction
+advantage, compared with the spray scrubber, of being    on the inner surface of the bubble. Diffusive particle
+self cleaning, of collecting more particles regardless of     collection dominates as the bubble rises. Here, surface­
+size, and operating at smaller pressure drops. A basic      active agents can reduce the collection efficiency be­
+design is shown in Fig. 8-9; others are described in     cause of Stefan motion. but a cold water scrubbing
+Strauss (1975). Commercial cyclone scrubbers are     liquid receiving a hot aerosol increases the collection
+better than 97% efficient at removing particles with      efficiency. A deeper foam reduces inertial effects and
+diameters greater than 1 Jlm. The cut diameter for a     increases collection by diffusion. Inertial collection is
+cyclone spray scrubber is about an order of magnitude    only slightly increased by adding plates or increasing
+less than that for either a dry cyclone or spray scrubber.     the pressure drop.
+
+
+
+86    Handbook of Biomass Downdraft Gasifier Engine Systems

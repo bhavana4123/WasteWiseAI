@@ -1,0 +1,44 @@
+3.7  Area 700: Product and Feed Chemical Storage
+
+3.7.1 Overview
+This portion of the plant provides bulk storage for process chemicals and the ethanol product.
+The chemicals stored in this area include ammonia, corn steep liquor (CSL), sulfuric acid, and
+gasoline (used as a denaturant for the ethanol product). Water for fire suppression is also stored
+here.
+
+3.7.2 Design Basis
+Table 23 shows the major storage requirements for the present design. PFDs for the storage area
+can be found in PFD-P120-A701 and PFD-P120-A702 (Appendix E).
+
+                              Table 23. Storage Requirements
+Material             Tank No.  Size
+Ethanol product        T-701       Sufficient to contain 7 days of production: 2 carbon steel tanks @
+                                750,000 gal each
+Gasoline denaturant    T-710     7 days of blendstock: 1 carbon steel tank @ 65,000 gal
+Sulfuric acid (93%)      T-703     5 days of storage: 1 carbon steel tank @ 12,600 gal
+Ammonia              T-706     5 days of storage: 2 SA-516-70 tanks @ 28,000 gal. Ammonia is
+                                    stored anhydrous at 250 psig.
+Fire water             T-704     4 hours of fire suppression @ 2,500 gpm: 1 glass-lined carbon steel
+                                   tank @ 600,000 gal
+Corn steep liquor       T-720     5 days of storage: 1 glass-lined carbon steel tank @ 70,000 gal
+Diammonium          T-760     7 days of storage: 1 SS304 tank @ 12,800 gal
+phosphate (DAP)
+
+DAP is assumed to be packaged in super-sacks and is unloaded via solid feeder (C-755),
+requiring an unloading blower (P-755) and DAP vent baghouse (S-755). From the storage bin,
+DAP is fed into a day tank (T-760) where it is mixed with water with a 5-hp agitator. The DAP
+solution is pumped (P-760) to fermentation. The ethanol product pump (P-701), sulfuric acid
+pump (P-703), ammonia pump (P-706), CSL pump (P-720), and gasoline pump (P-710) are sized
+for quick loading and unloading of trucks. The fire water pump (P-704) is sized for 2,500 gpm.
+
+3.7.3 Cost Estimation
+Harris Group developed costs for most of the equipment in this section using their internal cost
+database. Quotes for some of the more specialized-material tanks were obtained from Mueller or
+Trinity Tank (via Chemithon). Quotes for agitators for the DAP and CSL tanks were obtained
+from Lotus, Inc.
+
+
+
+
+
+                                      51

@@ -1,0 +1,55 @@
+                                                        9.3.3 Blowers
+                                                           Centrifugal blowers (Fig. 9-5) can generate pressures on
+                                                    the order of 100 cm (40 in.) of water gauge pressure and
+                                                       are quite suitable for gasifier testing. To generate these
+                                                           pressures, the blowers must either rotate very fast or
+                                                have a large diameter, since it is the centrifugal force
+                                                            that creates the pressure. The blower can tolerate, and
+                                                       in fact will remove, a certain amount of tar and particu­
+                                                                     lates, but a means for draining and cleaning the blower
+                                                   should be provided. Blowers can be used either to push
+            Straight-blade, or steel-plate. fan.                          the air into the gasifier or to pull the hot gas through
+                                                       the system at negative pressure. Considerably more
+                                               power is required to pull the gas through the system
+                                                    than to push air because there is necessarily more mass
+                                                            to manipulate and the gas is less dense. In addition,
+                                                        suction fans must be capable of handling a higher
+                                                      temperature than fans pushing air into the gasifier.
+                                               Most blower breakdowns occur due to deposits on shaft
+                                                             seal and impeller or erosion of the case. Reliability is
+                                                          limited by deposits.
+
+           Forward-curved-blade. or "Sirocco"-type, fan.                    9.3.4 Ejectors
+                                                           Ejectors are a very convenient and simple means for
+                                               moving dirty gas. No moving parts are exposed to gas
+                                                       contaminants. Ejectors (Fig. 9-6) use the motion of a
+                                                      small amount of one gas to move larger quantities of a
+                                                   second gas, often at negative pressures. During startup,
+                                                        the gas produced initially is very tarry and may quick­
+                                                         ly clog cleanup and engine. Therefore, one should use
+                                                    a fan or ejector during startup to send this gas to a
+                                                        product-gas burner until low-tar operation is reached.
+                                                Compressed air, nitrogen, or steam can be used to drive
+              Backwarcl-curved-blade fan..                             the ejector. Water jets can also be used to move, cool,
+                                               and clean the gas.
+                                                           Ejector design is based on the principle of the conser­
+                                                        vation of momentum of the driver gas as it aspirates
+               I:"
+       ԯ 130
+           120                    '",     ˹ʲ                     - -       1"\                     .....-     "                -;;• 1 1 0            ... '00                                  -.;),.
+          '"                                          ,                                                                                ,                       -                                   '"     .        90                                                                                               MIXing                                    -                                             ,        80                                                                                                      section                                                                                                                           Dlffuser----.,                                              I                            blod. -      .•            r--froigll1                                     -                                -                            -      :        7o-                                                                                                                                                                                                                                                                                                                                                         I 8                                                                                                                                                                                                                                       ;:                             -                    Forward-curved                                   blade                                              .\',                                                    '           i                                 -                                                                                                          g                 "' ....                        "
+         -',-Bockward-curwd blade ---                                                                           I'\.                    2-sfoge propeller 1ype ---.-                                                   - -                                                                                                                              <           .t         80                                                                                                          m                       I                                                                                                                                                                                                                                            '         0                           \                                                                                               '...                                                                                                                            Outlet     ˺        5                                                           ,                                                                                                                                                                                                        I                                                                                                                                                                                                                                                                                                      I               ,ij 4Q                                                  ,                                                                              18         0                      \      ,               .1' 3                                                                  CD         - -          .£ .0                                                      ,       •          1°                                                                                                 "0"         1                             \                                                                                                                                                                      I
+         0
+          0              20                  40                         60                            80                                      100                                             120   140                                                          160                                                                    CD     Constant ®areai   mixing section @
+                Volume                              in                          Per Cent                                      of                                   Volume                                                    at Highest                                                             Efficiency                                                                           SuctIon gas /IU     J                                                                         "b"                Constant pressure mixing sectJOn
+            Approximate characteristics of various types of fans.
+
+
+
+Fig. 9-5. Centrifugal blowers  (Source: Perry 1973, Figs. 6-37, 6-38,        Fig. 9-6. Ejector pump for moving gas  (Source: Perry 1973, Fig. 6-73.
+6-39, 6-41. © 1973. Used with permission of McGraw Hill Book Co.)     © 1973. Used with permission of McGraw Hill Book Co.)
+
+
+
+
+96    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,57 @@
+                                                    remains the most attractive cure. (See the discussion
+     0.031                                        on low tar designs and drying in Chapter 5.) oǑ o o
+     0.023 Ǔ
+  E                                                     1 1 .1 4 Other Devices for Producer-Gas
+      :;;" 0.016                VVear dependent on          Power Generation
+    ;:          V
+  ą                             oil consumption                  11 .14.1 Gas Turbines
+     0.008             Wear nearly independent::; ˱c:                            of oil consumption                  Historically, producer gas has been used in internal­  >­         l-ɰ    ǒ                                combustion piston engines of both the spark-ignition U     a
+          a    40    80   120   160  200  240  280     and diesel-powered types. Accordingly, these engines
+                 Cyl inder-wall temperature  ( o G)            remain the major area of interest at present. However,
+ Fig.  11-18. Engine life versus cylinder wall temperature  (Source:     the gas turbine may be an attractive application for
+ Kaupp 1984a, Fig. 211)                                    producer gas for electric generation, since it operates at
+                                                    a relatively high efficiency (25%-35%) in intermediate
+ 11 .12.6 Engine Warranty                             sized units (200-10,000 kW). Gas turbines can be
+                                                           started and stopped in a short time, so they are
+Reputable sellers of gasifier engine systems should                                                           especially useful for producing peaking power.
+ offer an engine warranty, backed up with service con·
+ tracts, operator and maintenance training, and con­    Gas turbines were developed after producer gas use
+tinuous monitoring of the performance of installed    was abandoned, and turbines  still have not been
+ units. In this way the maker will be the first to know of     operated on producer gas. Producer gas could eventual­
+ the need for design improvements. Minneapolis     ly become a major turbine fuel for electric power
+Moline has written a 6000-h warranty on a producer­     generation. Turbines offer simplicity, long life, and
+gas-powered engine (Mahin; June 1983).                       reliability. The simplicity of one moving part is un­
+                                                   matched. Long bearing life with minimal wear  is
+ 1 1 .1 3 Exhaust Emissions                      achieved through an even, nonimpulsive bearing load
+                                                          rotating at high speeds to establish a stable and
+Carbon monoxide exhaust emissions from a properly     continuous lubricant film.
+running producer-gas-fueled engine can be expected to
+                                                       Turbines now in use operate with intake gas pressuresbe inherently lower than emissions from gasoline­
+                                                      of 75 to 150 psi. Converting existing turbines tofueled engines because maximum power is achieved
+                                                      producer-gas use would require operating the gasfrom a mixture that is lean of the stoichiometric com­
+                                                    producer at pressures up to 150 psi in order to avoidbustion mixture, whereas the maximum power from
+                                                    compressing the gas for the turbine combustor.gasoline is achieved by burning a rich mixture.
+Hydrocarbon emissions also can be expected to be    Gas must be exceptionally clean and particularly free
+lower than those from gasoline because of the relative    from alkali metal content for turbine operation, be­
+absence of hydrocarbons in the producer gas. The     cause the blades operate at high temperatures and
+lower flame temperature of the producer gas, along      velocities, and are easily eroded and coated. Based on
+with the excellent antiknock characteristics and low      tests of a 4250-hp turbine fired with powdered coal,
+prompt nitrogen content of producer gas, suggests that     erosion and blade deposits were eliminated using high­
+NOx emissions should be lower as well.                  temperature cyclonic inertial cleanup, which captured
+                                           99% of 20-J.1m and 92% of 10-J.1m particles (YellottThe major pollutant source from producer gas is the
+                                                           1955). The Aerospace Corporation has developed anecessary disposal of cleaning condensate, which may
+                                                      wood-fired turbine system operating at 5     under abe high in tars, especially phenols. This source can be                     MW
+                                      DOE contract. Initial results show that ash from theminimized by using the driest fuels possible and using
+                                               wood, though relatively bulky, has not presentedthe best low tar gasifier design available to prevent tar
+                                                  problems that were expected (PNL 1985).and condensate production. If the fuel is dry enough to
+render condensate removal unnecessary, then the gas
+                                                      11.14.2 Fuel Cellscan be used above its dew point, eliminating conden­
+sate collection altogether. This scheme has been used    Another potentially interesting use of producer gas is
+in a few recent designs. Another approach to conden­     to generate electric power using fuel cells. A fuel cell
+sate removal is evaporation, coupled with recycling the      is an electrochemical device that converts chemical
+residue to the gasifier. Still another approach applied     energy into electricity directly without moving parts.
+to an especially tarry system is incineration of the con­     Fuel cell development is very active at present, and
+densate tars outside ofthe gas producer. However, this    some fuel cells may soon be available for use with
+approach consumes additional fuel. Prevention     producer gas.
+
+                                                                  Engine Adaptation and Operation      1 1 7

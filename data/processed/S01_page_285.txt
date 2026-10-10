@@ -1,0 +1,55 @@
+Miscellaneous
+
+
+NEAT'S FOOT OIL, REFINED; liquid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule   194. The amount of
+   iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 69.
+
+   enthalpy difference: temperature range measured -50"  t o 55°C (-58" to 13 1OF).
+
+   temperature                       Ho(t)-Ho(-500C)
+  ("0  ("F)      Btu Ib-I                cal g-l               J g-l
+
+   -50   -58            0.00                   0.00                 0.00
+   -25   -13           17.89                   9.89               4 I .38
+     0    32           53.37                  29.65                124.06
+    25    77           90.58                  50.32             2 10.54
+    50   122          112.18                   62.32                260.75
+    55   131          116.57                   64.76                270.96
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58" to
+    131°F).
+                 1   Lf = 34.2 Btu lb-                                                                               - .
+   Lf = 19.0 cal
+
+
+                                                                      55RIE
+
+PB-RDX; solid; cyclotrimethylenetrinitramine(RDX),90%; unmodified polystyrene,
+   8.5%; dioctyl phthalate, 1.5%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 5449 Btu Ib-I
+    q,(gross)  = 3027 cal g-l
+    q,(gross)  = 12665 J g-l
+
+                                                               71USA
+
+PENTOLITE; solid; an explosive mixture of trinitrotoluene (TNT) and pentaerythritol
+    tetranitrate (PETN); 50/50 PETN/TNT; density, 1.65 g
+
+   gross heat of combustion: 25OC (77OF); calculated from the composition of the
+   mixture.
+    qv(gross)  4993 Btu Ib- 1
+    q,(gross)  = 2774 cal g-l
+    qv(gross) = 11606 J g-l
+
+                                                         71USA; 7OCOX/PIL
+
+
+
+
+
+                                      310

@@ -1,0 +1,47 @@
+are water soluble but others are not. Three methods are employed to remove such deposits: 1) manual
+removal; 2) cracking off deposits by shutting the turbine off and allowing it to cool; and 3) for water
+soluble deposits, water washing while the turbine is running.
+
+An often-overlooked component in the steam power system is the steam (safety) stop valve, which is
+immediately ahead of the steam turbine and is designed to be able to experience the full temperature
+and pressure of the steam supply. This safety valve is necessary because if the generator electric load
+were lost (an occasional occurrence), the turbine would rapidly overspeed and destroy itself. Other
+accidents are also possible, supporting the need for the turbine stop valve, which may add significant
+cost to the system.
+
+4.4.5  Fuels
+Industrial boilers operate on a wide variety of fuels, including wood, coal, natural gas, oils (including
+residual oil, the leftover material when the valuable distillates have been separated for separate sale),
+municipal solid waste and sludge. The fuel handling, storage and preparation equipment needed for
+solid fuels considerably adds to the cost of an installation. Thus, such fuels are used only when a high
+annual capacity factor is expected of the facility, or when the solid material has to be disposed of to
+avoid an environmental or space occupancy problem.
+
+4.4.6 System Availability
+Steam turbines are generally considered to have 99 percent plus availability with longer than one year
+between shutdowns for maintenance and inspections. This high level of availability applies only to the
+steam turbine, not to the boiler or HRSG that is supplying the steam. For complete systems, the
+complexity of the fuel handling, combustion, boiler, and emissions, especially for solid fuels, brings
+overall availability down below that of reciprocating engines and gas turbines. As shown in Table 4-3, a
+survey of 16 small steam turbine power systems showed an average availability of 90.6 percent with a
+range of 72.4-99.8 percent. The best system ran for a period of two years without a forced outage.
+
+                     Table 4-3. Steam Turbine Availability
+                          Other Technologies              Steam Turbines <25MW
+                       Number Sampled                        16
+                                                          Min.      Avg.    Max.
+                   Availability (%)                                    72.37     90.59    99.82
+               Forced Outage Rate (%)                              0.00      3.12    16.41
+               Scheduled Outage Factor (%)                         0.00      6.88    27.63
+                Service Factor (%)                                   3.37     78.72    99.65
+            Mean Time Between Forced Outages (hrs)            120      828   16,600
+               Source: ICF78
+
+4.5   Emissions and Emissions Control Options
+Emissions associated with a steam turbine are dependent on the source of the boiler input fuel. Steam
+turbines can be used with a boiler firing any one or a combination of a large variety of fuel sources, or
+
+78 Distributed Generation Operational Reliability and Availability Database, EEA, Inc. (now part of ICF) for ORNL, 2003.
+
+
+Catalog of CHP Technologies                         4–15                           Steam Turbines

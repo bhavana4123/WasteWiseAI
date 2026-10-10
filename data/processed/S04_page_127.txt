@@ -1,0 +1,49 @@
+     Table 6-4. Estimated Capital and O&M Costs for Typical Fuel Cell Systems in
+                Grid Interconnected CHP Applications (2014 $/kW)
+                                 System 1       System 2      System 3     System 4    System 5
+     Installed Cost Components        Residential      Residential       C&I         C&I        C&I
+ Fuel Cell Type                   PEMFC         SOFC       MCFC        PAFC      MCFC
+ Nominal Electricity Capacity (kW)         0.7              1.5          300         400        1400
+ Total Package Cost (2014 $/kW)99     $ 22,000      $ 23,000100      $10,000      $ 7,000     $ 4,600
+ O&M Costs (2014 $/MWh)             $ 60           $ 55          $45         $ 36        $ 40
+Source: ICF Manufacturer Data Collection
+
+6.4.7 Maintenance
+Maintenance costs for fuel cell systems will vary with type of fuel cell, size and maturity of the
+equipment. Some of the typical costs that need to be included are:
+
+    •  Maintenance labor.
+    •   Ancillary replacement parts and material such as air and fuel filters, reformer igniter or spark
+        plug, water treatment beds, flange gaskets, valves, electronic components, etc., and
+       consumables such as sulfur adsorbent bed catalysts and nitrogen for shutdown purging.
+    •  Major overhauls include shift catalyst replacement (3 to 5 years), reformer catalyst replacement
+        (5 years), and stack replacement (5 to 10 years).
+
+Maintenance can either be performed by in-house personnel or contracted out to manufacturers,
+distributors or dealers under service contracts. Details of full maintenance contracts (covering all
+recommended service) and costing are not generally available, but are estimated at 0.7 to 2.0
+cents/kWh excluding the stack replacement cost sinking fund. Maintenance for initial commercial fuel
+cells has included remote monitoring of system performance and conditions and an allowance for
+predictive maintenance. Recommended service is comprised of routine short interval
+inspections/adjustments and periodic replacement of filters (projected at intervals of 2,000 to 4,000
+hours).
+
+6.4.8  Fuels
+Since the primary fuel source for fuel cells is hydrogen produced from hydrocarbon fuels, fuel cell
+systems can be designed to operate on a variety of alternative gaseous fuels including:
+
+    •   Natural Gas – methane from the pipeline.
+    •   Liquefied petroleum gas (LPG) – propane and butane mixtures.
+    •  Sour gas - unprocessed natural gas as it comes directly from the gas well.
+    •   Biogas – any of the combustible gases produced from biological degradation of organic wastes,
+       such as landfill gas, sewage digester gas, and animal waste digester gas.
+    •   Industrial waste gases – flare gases and process off-gases from refineries, chemical plants and
+        steel mill.
+
+
+99 Total package cost includes all equipment (including heat recovery) as well as estimated labor and installation costs.
+100 Total package costs for larger (i.e. 200 kW) SOFC systems are significantly less expensive than $23,000, however those data
+were not made available to us for estimation.
+
+
+Catalog of CHP Technologies                         6–17                                       Fuel Cells

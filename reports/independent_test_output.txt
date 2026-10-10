@@ -1,0 +1,51 @@
+........................................................................ [ 51%]
+..........................................................FFF.......     [100%]
+================================== FAILURES ===================================
+_________ test_independent_mass_conversion_overflow_must_be_rejected __________
+
+    def test_independent_mass_conversion_overflow_must_be_rejected():
+        # Finite user input can overflow after conversion; never return an infinite mass.
+>       with pytest.raises(ValueError):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+E       Failed: DID NOT RAISE ValueError
+
+tests\test_scientific_golden.py:181: Failed
+________ test_independent_energy_overflow_must_be_rejected_or_blocked _________
+
+repo = <engine.data_loader.DataRepository object at 0x0000020FE201C410>
+
+    def test_independent_energy_overflow_must_be_rejected_or_blocked(repo):
+        request = CalculationInput('Municipal solid waste', 'Dry shredded garbage sample A', 1e307, moisture_pct=0, desired_output='solid fuel energy', reference_mode=True)
+        try:
+            result = calculate(request, 'Combustion', repo)
+        except ValueError:
+            return
+>       assert result.calculated_value is None or math.isfinite(result.calculated_value), 'An infinite energy must not be labeled CALCULATED_REFERENCE'
+E       AssertionError: An infinite energy must not be labeled CALCULATED_REFERENCE
+E       assert (inf is None or False)
+E        +  where inf = CalculationResult(input_waste_details={'waste_category': 'Municipal solid waste', 'waste_subtype': 'Dry shredded garba...inal_value': '18500', 'original_unit': 'J/g', 'converted_value': '18.5', 'converted_unit': 'MJ/kg'}], scenario_id=None).calculated_value
+E        +  and   False = <built-in function isfinite>(inf)
+E        +    where <built-in function isfinite> = math.isfinite
+E        +    and   inf = CalculationResult(input_waste_details={'waste_category': 'Municipal solid waste', 'waste_subtype': 'Dry shredded garba...inal_value': '18500', 'original_unit': 'J/g', 'converted_value': '18.5', 'converted_unit': 'MJ/kg'}], scenario_id=None).calculated_value
+
+tests\test_scientific_golden.py:191: AssertionError
+_______ test_independent_moisture_tolerance_requires_published_support ________
+
+repo = <engine.data_loader.DataRepository object at 0x0000020FE201C410>
+
+    def test_independent_moisture_tolerance_requires_published_support(repo):
+        # Source moisture 16.52% is displayed to .01%. 16.56 differs by .04 percentage
+        # points, exceeding +/- .005 rounding; no response model supports the .05 band.
+        request = CalculationInput('Wood and forestry waste', 'Wood chips, Walawender 1985 run 98', 100, moisture_pct=16.56, desired_output='syngas', parameter_id='P0056', reference_mode=True)
+        result = calculate(request, 'Gasification', repo)
+>       assert result.calculated_value is None, 'Unpublished moisture acceptance band is not a source-verified operating condition'
+E       AssertionError: Unpublished moisture acceptance band is not a source-verified operating condition
+E       assert 185.23680000000002 is None
+E        +  where 185.23680000000002 = CalculationResult(input_waste_details={'waste_category': 'Wood and forestry waste', 'waste_subtype': 'Wood chips, Wala..._value': '5.33', 'original_unit': 'MJ/m3', 'converted_value': '5.33', 'converted_unit': 'MJ/m3'}], scenario_id='P0056').calculated_value
+
+tests\test_scientific_golden.py:198: AssertionError
+=========================== short test summary info ===========================
+FAILED tests/test_scientific_golden.py::test_independent_mass_conversion_overflow_must_be_rejected
+FAILED tests/test_scientific_golden.py::test_independent_energy_overflow_must_be_rejected_or_blocked
+FAILED tests/test_scientific_golden.py::test_independent_moisture_tolerance_requires_published_support
+3 failed, 137 passed in 10.13s

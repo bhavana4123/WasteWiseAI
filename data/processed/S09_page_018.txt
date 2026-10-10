@@ -1,0 +1,49 @@
+methanol. The transesterification reaction for biodiesel production was provided in Figure 1 and
+is repeated in Figure 12 in more generic form.
+
+    O
+                ||
+CH2-O-C-R                                           CH2-OH
+ |                                                                                                                                                     |
+ |   O                         O                                         |
+ |            ||                         Catalyst                        ||                                          |
+CH-O-C-R   +     3 R-OH   →    3 R--O-C-R    +       CH-OH
+ |                                                                                                                                                     |
+ |    O                                                                                                                                    |
+ |              ||                                                                                                                                      |
+CH2-O-C-R                                           CH2-OH
+
+
+Triacylglycerol             Alcohol            Alkyl ester        Glycerol
+(Vegetable oil)                                     (Biodiesel)
+
+                      Figure 12. The transesterification reaction.
+
+R is a mixture of various fatty acid chains. The alcohol used for producing biodiesel is usually
+methanol (where the R- corresponds to CH3).
+
+As noted in the figure caption, R can be any of the fatty acid chains (for example, -(CH2)14-CH3;
+see Table 4 for more examples; note how R or anything containing it is flexible and must be
+defined each time it is used). The number 3 indicates the number of moles needed to satisfy the
+formation of the methyl esters. When one mole is necessary, the number 1 is usually not written.
+It is also important to keep it mind that this only formally states the molar ratios of starting
+materials and products. In practice, the molar ratios may need to vary to obtain a nearly complete
+reaction.
+
+For the transesterification to occur, usually 6 moles of alcohol are used for every mole of
+triglyceride, which is more than the equation indicates. The reason is that the reaction is desired
+to proceed in the direction of the arrow, i.e., to the right. In other terms, the equilibrium of the
+reaction needs to be shifted toward the right side of the equation. As the term “equilibrium”
+indicates, not all reactions easily proceed to completion and after some time the starting
+materials and reaction products are present in constant amounts (the equilibrium has been
+attained). In many cases, the fact that a reaction can proceed in the reverse fashion (from right to
+left in the equation) also plays a role in formation of the equilibrium. To force the equilibrium in
+the direction of the products (as is almost always desired), one or more parameter(s) of the
+reaction may need to be changed. Such parameters include the molar ratio as well as others such
+as temperature, pressure and use of a catalyst.
+
+In accordance with the names of fatty acids and their esters (see Tables 4 and 5), the methyl
+ester of soybean oil is often called methyl soyate. The term soybean oil methyl ester (SME) is
+
+
+                                      14

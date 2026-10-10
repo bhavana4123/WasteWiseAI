@@ -1,0 +1,47 @@
+4.5.1.6   Water/Steam Injection
+Injecting water or steam into the flame reduces flame temperature, lowering thermal NOx formation and
+overall NOx emissions. However, under normal operating conditions, water/steam injection can lower
+boiler efficiency by 3 to 10 percent. Also, there is a practical limit to the amount that can be injected
+without causing condensation-related problems. This method is often employed in conjunction with
+other NOx control techniques such as burner modifications or flue gas recirculation.
+
+When used with natural gas-fired boilers, water/steam injection can result in NOx reduction of up to
+80 percent, with lower reductions achievable in oil-fired boilers.
+
+4.5.2 Post-Combustion Emissions Control
+There are several types of exhaust gas treatment processes that are applicable to industrial boilers.
+
+4.5.2.1   Selective Non-Catalytic Reduction (SNCR)
+In a boiler with SNCR, a NOx reducing agent such as ammonia or urea is injected into the boiler exhaust
+gases at a temperature in the 1,400 to 1,600° F range. The agent breaks down the NOx in the exhaust
+gases into water and atmospheric nitrogen (N2). While SNCR can reduce boiler NOx emissions by up to
+70 percent, it is very difficult to apply this technology to industrial boilers that modulate or cycle
+frequently because the agent must be introduced at a specific flue gas temperature in order to perform
+properly. Also, the location of the exhaust gases at the necessary temperature is constantly changing in
+a cycling boiler.
+
+4.5.2.2   Selective Catalytic Reduction (SCR)
+This technology involves the injection of the reducing agent into the boiler exhaust gas in the presence
+of a catalyst. The catalyst allows the reducing agent to operate at lower exhaust temperatures than
+SNCR, in the 500 to 1,200° F depending on the type of catalyst. NOx reductions of up to 90 percent are
+achievable with SCR. The two agents used commercially are ammonia (NH3 in anhydrous liquid form or
+aqueous solution) and aqueous urea. Urea decomposes in the hot exhaust gas and SCR reactor,
+releasing ammonia. Approximately 0.9 to 1.0 moles of ammonia is required per mole of NOx at the SCR
+reactor inlet in order to achieve an 80 to 90 percent NOx reduction.
+
+SCR is however costly to use and can only occasionally be justified on boilers with inputs of less than 100
+MMBtu/hr. SCR requires on-site storage of ammonia, a hazardous chemical. In addition, ammonia can
+“slip” through the process unreacted, contributing to environmental and health concerns.
+
+4.5.2.3   Boiler Emissions Control Options – SOx
+The traditional method for controlling SOx emissions is dispersion via a tall stack to limit ground level
+emissions. The more stringent SOx emissions requirements in force today demand the use of reduction
+methods as well. These include use of low sulfur fuel, desulfurizing fuel, and flue gas desulfurization
+(FGD). Desulfurization of fuel, such as in FGD, primarily applies to coal, and is principally used for utility
+boiler emissions control. Use of low sulfur fuels is the most cost effective SOx control method for
+industrial boilers, as it does not require installation and maintenance of special equipment.
+
+
+
+
+Catalog of CHP Technologies                         4–18                           Steam Turbines

@@ -1,0 +1,51 @@
+The ASTM D 6584 test for free and total glycerol must be done routinely as the key
+measurement in the producer’s QC program.
+
+Method: ASTM D 4951 – Phosphorus
+Requirement: 0.0010 wt. %
+
+“This test covers the quantitative determination of barium, calcium, copper, magnesium,
+phosphorus, sulfur, and zinc in unused lubricating oils and additive packages.” In the case of
+B100, phosphorus can come from incomplete refining of the phospholipids (or gums) from the
+vegetable oil and from bone and proteins encountered in the rendering process. The producer
+should have access to this method for periodic measurements.
+
+Method: ASTM D 1160 – Vacuum distillation end point
+Requirement: 360 ºC max, at 90 % liquid distilled
+
+The vacuum distillation end-point test “covers the determination, at reduced pressures, of the
+range of boiling points for petroleum products that can be partially or completely vaporized at a
+maximum liquid temperature of 400° C.”
+
+Petroleum fractions have tens to hundreds of individual compounds mixed together. The
+distillation curves are used to characterize the broad chemistry of a given crude oil source in
+terms of the boiling temperatures of its constituent compounds.
+
+In B100 there are, at most, ten different esters present, and they can be identified using gas or
+liquid chromatography. The same chromatograph that determines free and total glycerin can
+determine the esters composition in the B100. This composition allows calculation of the T-90
+point for the fuel, without having to perform the testing for every batch of product. It is unlikely
+that the producer would have a reason to run this test except to certify compliance with the
+ASTM standard.
+
+Storage stability – Method to be determined
+
+All fuels are subject to degradation over time when they are stored. This degradation may be due
+to microbial action, water intrusion, air oxidation, etc. The standard and the test methods for
+determining storage stability for B100 are still in the development stage within the ASTM
+process. In general, the following parameters will change and can be used to determine if the fuel
+should not be used: acid number, water and sediment, and viscosity. Should an aged fuel fail any
+of these three standards, it should not be used.
+
+Sources for ASTM Standards
+
+Complete copies for the ASTM Standards and Methods referenced above are available from
+ASTM by mail, fax order, or on-line purchase for $35.00 per standard. Most universities that
+have an engineering college, and many larger libraries, include ASTM Standards in hard copy
+form in their reference collection.
+
+The Standards and Methods are very detailed and some are quite complex. A number of the
+Methods include reference to additional Methods, so the overall library needed for a QC lab is
+
+
+                                      27

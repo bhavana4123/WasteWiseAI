@@ -1,0 +1,55 @@
+     Table 2. Survey of Recent Technoeconomic Studies on Biochemical Cellulosic Ethanol
+Source      MESP  Feedstock         Scale    Feed     Ethanol   Notes
+                   ($/gal)                       (dry      Price     Yield
+                                            ton/day)  ($/dry     (gal/dry
+                                                        ton)      ton)
+NREL 2002     1.49    Corn stover         2,200    51       90          Dilute-acid
+Design Report                                                                   pretreatment, SSCF
+(2007$) [2]                                                                    process, electricity
+                                                                              co-product
+NREL 2011     2.15    Corn stover         2,200    59       79          Dilute-acid
+Design Report                                                                   pretreatment, SHF
+(this work)                                                                    process, electricity
+                                                                              co-product
+Kazi [12]         3.40-   Corn stover         2,200    75       42-72      Varying pretreatment
+                4.44                                                           options and
+                                                                    downstream process
+                                                                        assumptions
+Huang [15]      1.42-   Aspen, poplar,      2,200     58-100   83-111      Dilute-acid
+                1.87    corn stover,                                          pretreatment
+                         switchgrass
+Sendich [16]     1.03-   Corn stover         2,200    40       70       AFEX pretreatment,
+                1.41                                         SSCF process,
+                                                                                varying process
+                                                                                  conditions
+Sendich [16]     0.80-   Corn stover         2,200    40       78       AFEX pretreatment,
+                0.95                                        CBP process, varying
+                                                                          process conditions
+Laser [11]       0.63-    Switchgrass        5,000    44       97-105    AFEX pretreatment,
+                0.83                                        CBP process, varying
+                                                                      pathways and co-
+                                                                             products
+Gnansounou     2.12-    Straw, eucalyptus,   1,760-    57-127    70-84       Dilute-acid
+[17]             2.91     poplar,             2,200                           pretreatment
+                         switchgrass
+Bals [18]         1.86-   Corn stover        850      45       78       AFEX pretreatment,
+                2.20                                                           varying pretreatment
+                                                                                  conditions
+Piccolo [19]      3.43-   Hardwood          2,200    65       75          Dilute-acid
+                4.03                                                           pretreatment, varying
+                                                                                          financial inputs
+Klein-           3.53-   Corn stover         1,700    60       52-74       Dilute-acid
+Marcuschamer  4.58                                                           pretreatment, varying
+[13]                                                                        feed compositions
+                                                                  and process
+                                                                                  conditions
+National         1.20-    Poplar and “high     1,000-    50-88     67-106     Hot water
+Academy of     2.70    glucan”             1,600                            pretreatment, Cost of
+Sciences [20]   (COP)                                                       Production analysis
+                                                           (COP<MESP)
+
+
+
+
+
+                                      9

@@ -1,0 +1,52 @@
+small projects (less than $10 million investment) can be constructed in fewer than 18 months and
+that larger projects can take up to 42 months. An overview of petroleum refining economics
+indicates that large refineries (on the order of $1.5 billion investment) can be constructed in 24
+months [84]. Certainly this ethanol process is much smaller than a petroleum refinery, so using a
+construction time of 24 months fits within these references, although an important difference
+between this type of facility and a refinery is the large number of field-erected vessels. These are
+constructed on-site and have a longer construction time than if the tanks were delivered finished.
+Table 32 summarizes the schedule for construction and the cash flow during that time. Twelve
+months are added before construction for planning and engineering.
+
+                       Table 32. Construction Activities and Cash Flow
+ Project      Project                                     % of
+ Start      End         Activity Description                                           Project
+Month     Month                                                           Cost
+0          12           Project plan and schedule established; conceptual and basic     8%
+                         design engineering, permitting completed. Major equipment bid
+                       packages issued, engineering started on selected sub-packages,
+                      P&IDs complete, preliminary plant and equipment arrangements
+                         complete.
+12         24             All detailed engineering including foundations, structure, piping,   60%
+                                electrical, site, etc. complete; all equipment and instrument
+                      components purchased and delivered; all site grading, drainage,
+                         sewers, rail, fire pond, foundation, and major structural
+                               installation complete; 80% of all major process equipment set (all
+                         except longest-lead items), all field fabricated tanks built, and the
+                            majority of piping and electrical materials procured.
+24         36         Complete process equipment setting, piping, and instrumentation  32%
+                               installation complete; all electrical wiring complete; all building
+                              finishing and plumbing complete; all landscaping complete; pre-
+                        commissioning complete; and commissioning, start-up, and initial
+                        performance test complete.
+                   TOTAL                                          100%
+Note: The above assumes no utility or process equipment orders placed prior to month seven. Expenditures based on
+typical 60 MMgal/yr grain-to-ethanol facility.
+
+Start-Up Time
+Perry and Green [83] indicate that for a moderately complex plant, start-up should be about 25%
+of the construction time, or 6 months in this case. Delta-T’s experience (described in the 2002
+design report) with start-up indicated that a large grain-to-ethanol plant could be started up in
+less than 6 months. Considering that this design is for the nth operating plant, we assumed a start-
+up time of 3 months. The start-up period is not completely wasted, however. We expect that an
+average of 50% production could be achieved during that period while incurring 75% of variable
+expenses and 100% of fixed expenses.
+
+Working Capital
+Peters and Timmerhaus [74] define working capital as money available to cover (1) raw
+materials and supplies in inventory, (2) finished product in storage, (3) accounts receivable, (4)
+cash on hand for monthly payments such as wages and maintenance supplies, (5) accounts
+payable, and (6) taxes payable. They indicate that working capital is usually 10%–20% of the
+fixed capital investment. This flow of money is required over the life of the plant, beginning in
+
+                                      67

@@ -1,0 +1,52 @@
+W m y and Tree Materials
+
+
+
+OAK, TAN; solid; Material is considered biomass fuel and has  roximate analysis values
+                                             VCM) = 80.93, ash    (in percent by weight dry basis) for volatile concentration P
+   content = 1.67, and fixed carbon   17.40.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 47.81,
+   hydrogen   5.93, oxygen = 44.12, nitrogen   0.12, sulfur   0.01, chlorine = 0.01, and
+    residue (ash)  2.00.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross)  8144 Btu Ib- 1
+    q,(gross)   4524 cal g-l
+    qv(gross)  18930 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net) = 7628 Btu  Ib;'
+   qv(net) = 4238 cal 81
+    qv(net) = 17730 J g-
+
+                                                              85JEN/EBE
+
+OAK, TAN; BARK; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM)   73.11, ash
+   content = 3.49, and fixed carbon = 23.40.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+   qv(gross)  7916 Btu  lb;'
+    q,(gross) = 4398 cal 5;
+   qv(gross) = 18400 J g
+
+                                                             85JEN/EBE
+
+OAK, TAN; SAPWOOD; solid; Material is considered biomass fuel and has proximate
+   analysis values (in petcent by weight dry basis) for volatile concentration (VCM) =
+    83.62, ash content = 1.03, and fixed carbon = 15.36.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross) = 8204 Btu lb; 1
+    qv(gtoss) = 4558 cal g-
+                    1    qv(gross) = 19070 J g-
+
+                                                              85JEN/EBE

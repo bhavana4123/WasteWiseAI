@@ -1,0 +1,49 @@
+        Table 9. Comparison of HTL effluent water and WWTP headworks component flows.
+
+                                                                                           Contribution of
+                                             Untreated WWTP                HTL Effluent water
+                                          Headworks      HTL Aqueous         to Headworks
+                                             Wastewater        Phase Effluent        Loadings(%)
+  Flow Rate for 100 MGD WWTP, gal/min         69,444                    67(a)              0.2%
+   Constituent                                            lb/day(b)               lb/day      % Contribution
+  BOD(d)                                      166,907             16,512           9%
+  COD                                        423,945             44,200           9%
+  CODs                                       147,713         Not measured       Not measured
+  TOC (total organic carbon)                     136,864             14,817           10%
+   Total Carbon                              Not listed             17,810            Not listed
+  TKN(d) (total Keldahl nitrogen)                  29,209               5,530            16%
+  TSS (total suspended solids)                    162,735         Not measured       Not measured
+   Nitrogen (total)                                29,209               5,552            16%
+     Free ammonia-Nitrogen                      16,691               3,533            17%
+  Calcium                                  Not listed              <0.7             Not listed
+  Phosphorus (total)                              4,673                8               0.2%
+  Potassium                                    13,353              202              1.5%
+  Sodium                                  Not listed             101             Not listed
+   Sulfur                                    Not listed             332             Not listed
+   Silicon                                   Not listed             212             Not listed
+   Chloride                                      49,238              202              0.4%
+   Nitrate                                       0                 26             100%
+   Phosphate                                   653               <7            1%
+   Sulfate                                       30,043              141              0.5%
+   Alkalinity as CaCO3, total(d)                  Not listed             11,320            Not listed
+
+   (a) Using Table 8 data and assuming 100 dry ton/day sludge is generated
+   (b) Based on concentrations given in Tchobanoglous et al. 2014
+
+    Possible treatment options for ammonia removal from the HTL aqueous stream include physical
+methods, such as ammonia stripping or membranes, as well as biological methods. An air stripping
+system was selected for the design as this option is well established and reliable for lowering the
+ammonia content of wastewater (EPA 2000). As shown in Figure 5, the HTL aqueous stream is initially
+treated with lime (CaO) to raise the pH to 11 and shift the NH3/NH4+ equilibrium to the gas phase. Lime
+treatment causes CaCO3 and CaPO4 to precipitate and is therefore effective for removing phosphate, if
+present. After clarification of precipitated CaCO3 and CaPO4, the effluent water containing dissolved
+ammonia gas is contacted with an air stream in a packed tower where the ammonia gas is stripped from
+the wastewater. Preliminary modeling indicates that air stripping will also remove volatile oxygenates
+(e.g., ethanol, acetone, acetic acid, butanol) from the wastewater at levels that are likely too high to
+recover a marketable ammonia product. Therefore, the ammonia/air stream is treated with a thermal
+oxidation unit (THROX) where ammonia and organics are catalytically combusted to N2, CO2 and H2O
+and released to the atmosphere.
+
+
+
+                                         17

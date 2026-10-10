@@ -1,0 +1,50 @@
+                Table 14. Causes for Loss in a Chemical Plant Accident
+                                               (in order)
+
+                                 •Mechanical Failure
+                                    •Operational Error
+                            •Unknown – Miscellaneous
+                                   •Process Upset
+                                    •Natural Hazard
+                                 •Design Error
+                                •Arson – Sabotage
+
+Since the most common cause for loss is mechanical failure, it is useful to examine the specific
+equipment items responsible for the failures. These items are listed in order in Table 15.
+
+                     Table 15. Hardware Associated with Losses
+
+                                   •Piping Systems
+                                  •Miscellaneous of Unknown
+                                   •Storage Tanks
+                                   •Reactor Piping Systems
+                                   •Process Holding Tanks
+                                  •Heat Exchangers
+                                   •Process Towers
+                                •Compressors
+                             •Pumps
+                                •Gages
+
+Accident Sequence
+
+It is rare that there is a single causal event that leads to a loss accident. Indeed, one of the most
+important ways to prevent accidents is to examine carefully the chain of events that result in an
+accident and that bring the accident sequence to an end. These lesson’s learned provide the basis
+for anticipating potential accident situations and planning interventions that halt the accident
+process before a loss occurs. The accident sequence can be described as follows:
+
+        •Initiation – event that begins the accident
+
+       •Propagation – event(s) that sustain or expand the accident
+
+       •Termination – event(s) that stop the accident or diminish it is size
+
+The propagation steps in an accident sequence are generally associated with potential hazards
+that exist – accidents ready to happen. In many cases these steps are the results of intentional acts
+with unintended consequences. For example, turning off alarms and sensors during servicing
+makes the service personnel vulnerable to accidents that would have been prevented if the alarms
+were operational. The chemical process industry has a special category of hazards present
+
+
+
+                                      94

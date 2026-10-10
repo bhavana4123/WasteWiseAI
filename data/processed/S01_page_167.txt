@@ -1,0 +1,52 @@
+Polymers and Plastics
+
+
+POLY-E-ENANTHOLACTAM; solid; repeating unit: C7HI3N0.
+
+   gross heat of combustion: at 20°C (68°F)
+                           1    qv(gross)  14359 5 9.9 Btu lb-
+    q,(gtoss)    7977.2 2 5.5 cal g-l
+    q,(gross) = 33376.6 t 23.0 J g-l
+
+                                                         57KAC
+
+POLYETHYLENE; solid; NBS Standard Reference Material (SRM) 1475; linear polymer;
+    wt.-ave.  molecular weight, 52000; methyl group content, 0.15 methyl groups per 100
+   carbon atoms; ash content, 0.002%; 11 1 ppm of anti-oxidant [tetrakis-(methylene-3-
+    (3!, 5'-di-tert-butyl-4'-hydroxphenyl)  propionate) me ham] added to polymer by
+   manufacturer; density at 23OC (73"F), 0.9784 g      degree of crystallinity                                                    ern-';
+   determined t o be 72%; repeating unit: C2H4.
+
+   gross heat of combustion: at 25°C (77'F)
+
+  SRM 1475, crystallinity 72%
+                                            1    q,(gross) = 19932.7 f 3.8 Btu Ib-
+    q,(gross) = 11073.7 f 2.1 cal
+    q,(gross)   46332.4 2 8.8 J
+
+  SRM 1475 modified by recrystallization under high pressure; crystallinity 96%.
+    qv(gross)   19905.5 2 3.6 Btu Ib- 1
+    q,(gross) = 11058.6 ? 2.0 cal
+    q,(gross) = 46269.1 ? 8.1 J
+
+   specific heat: SRM 1475
+
+   temoerature
+   (K)'   (OF)         Cp(Btu lb-'  OF--)                         Cp(J g-l K-I)
+
+   10     -442                0.0029                  0.0029                 0.0 I23
+  100    -280               0.1632                 0.1632              0.6829
+  200     -100                0.2839                  0.2839               1.1877
+  250     - 10                 0.3537                  0.3537               1.4800
+  273.15    32                0,3936                  0.3936               1.6468
+  298.15    77                 0.4376                  0.4376              1.8308
+  320     116                0.4790                  0.4790               2.0040
+  360     188                0.5904                  0.5904              2.4702
+
+                                                       74SPL/JOH; 73CHA/BES
+
+
+
+
+
+                                       182

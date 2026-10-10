@@ -1,0 +1,51 @@
+5  Analysis and Discussion
+
+5.1  Carbon and Energy Balance
+Overall material and energy balances were performed on the Aspen model. Table 35 shows the
+flow of carbon inputs and outputs. Closure on the carbon balance was 100.4%; small errors are
+due to the imperfect stoichiometry used to generate microbial cell mass in fermentation and
+wastewater treatment. As shown in the table, >96% of all carbon in the process enters in the
+biomass feed, with small amounts of additional carbon coming from glucose (for enzyme
+production) and fermentation nutrients like corn steep liquor.
+
+Of the carbon inputs to the process, 29% of carbon atoms leave as ethanol. Major exit points for
+the balance of carbon (accounting for 66%) are the combustor stack and scrubber vent. We
+expect the amount of carbon exiting in the combustion exhaust to be rather large because most
+by-products (lignin, etc.) of this process are burned to form CO2. The majority of the carbon
+exiting the scrubber vent is also in the form of CO2 from fermentation.
+
+                       Table 35. Ethanol Plant Overall Carbon Balance
+                  Stream                 Carbon Flow % of Carbon
+                                                   (kmol/h)       Flow
+                                     Carbon inlets
+                     Stover feedstock               3,117        96.6%
+                   Glucose                      81         2.5%
+                    Other                        28         0.9%
+                       Total                          3,226       100.0%
+                                     Carbon outlets
+                   Combustion exhaust            1,670        51.8%
+                     Ethanol product               941         29.2%
+                    Scrubber vent                 471         14.6%
+                  Ash                         10         0.3%
+            WWT brine                    4          0.1%
+                     Aerobic lagoons                88         2.7%
+                 Enzyme production vents        54         1.7%
+                       Total                          3,238       100.4%
+
+Only the carbohydrate components of the biomass can be converted to ethanol by fermentation.
+Of the carbon in the feed stream, 1,857 kmol/h (59.6%) is carbohydrates (glucan, xylan,
+arabinan, mannan, galactan, and sucrose); converting all of this carbon to ethanol represents the
+theoretical yield. According to Table 35, 1,412 kmol/h of the feed stream carbon is actually
+converted by the ethanol pathway (ethanol in the product plus CO2 in the scrubber vent), so the
+actual yield is 76% of the theoretical yield. The same yield in the 2002 design was 80% of
+theoretical. Ours is slightly lower because we have not assumed conversion of the minor sugars
+galactose and mannose.
+
+An energy balance was performed to compare the energy products from the process (ethanol and
+electricity) to the potential energy in the biomass feed. The potential energy for material streams
+used in this analysis has three contributions:
+
+    1. A combustion energy, defined as the lower heating value (LHV) of the stream at a
+       reference temperature of 25°C.
+
+                                      70

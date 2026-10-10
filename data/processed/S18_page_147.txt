@@ -1,0 +1,68 @@
+                                                                              Form Approved
+         REPORT DOCUMENTATION PAGE                   OMB No. 0704-0188
+ The public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+ gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this
+ collection of information, including suggestions for reducing the burden, to Department of Defense, Executive Services and Communications Directorate (0704-0188). Respondents
+ should be aware that notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information if it does not display a
+ currently valid OMB control number.
+ PLEASE DO NOT RETURN YOUR FORM TO THE ABOVE ORGANIZATION.
+ 1.  REPORT DATE (DD-MM-YYYY)      2.  REPORT TYPE                                         3.  DATES COVERED (From - To)
+   May 2011                       Technical Report
+ 4.  TITLE AND SUBTITLE                                                             5a. CONTRACT NUMBER
+   Process Design and Economics for Biochemical Conversion of        DE-AC36-08GO28308
+    Lignocellulosic Biomass to Ethanol: Dilute-Acid Pretreatment and
+                                                                                     5b. GRANT NUMBER    Enzymatic Hydrolysis of Corn Stover
+
+                                                                                        5c. PROGRAM ELEMENT NUMBER
+
+ 6.  AUTHOR(S)                                                                     5d. PROJECT NUMBER
+    D. Humbird, R. Davis, L. Tao, C. Kinchin, D. Hsu, A. Aden,            NREL/TP-5100-47764
+    P. Schoen, J. Lukas, B. Olthof, M. Worley, D. Sexton, D. Dudgeon
+                                                                                        5e. TASK NUMBER
+                                                              BB07.2410
+
+                                                                                                         5f. WORK UNIT NUMBER
+
+ 7.  PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)                                  8.  PERFORMING ORGANIZATION
+    National Renewable Energy Laboratory                                 REPORT NUMBER
+   1617 Cole Blvd.                                                     NREL/TP-5100-47764
+    Golden, CO 80401-3393
+ 9.  SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)                       10. SPONSOR/MONITOR'S ACRONYM(S)
+                                                         NREL
+
+                                                                                                  11. SPONSORING/MONITORING
+                                                                  AGENCY REPORT NUMBER
+
+ 12. DISTRIBUTION AVAILABILITY STATEMENT
+    National Technical Information Service
+    U.S. Department of Commerce
+   5285 Port Royal Road
+    Springfield, VA 22161
+ 13. SUPPLEMENTARY NOTES
+
+ 14. ABSTRACT (Maximum 200 Words)
+    This report describes one potential biochemical ethanol conversion process, conceptually based upon core
+    conversion and process integration research at NREL. The overarching process design converts corn stover to
+    ethanol by dilute-acid pretreatment, enzymatic saccharification, and co-fermentation. Building on design reports
+    published in 2002 and 1999, NREL, together with the subcontractor Harris Group Inc., performed a complete review
+    of the process design and economic model for the biomass-to-ethanol process. This update reflects NREL’s current
+    vision of the biochemical ethanol process and includes the latest research in the conversion areas (pretreatment,
+    conditioning, saccharification, and fermentation), optimizations in product recovery, and our latest understanding of
+    the ethanol plant’s back end (wastewater and utilities). The conceptual design presented here reports ethanol
+    production economics as determined by 2012 conversion targets and “nth-plant” project costs and financing. For the
+    biorefinery described here, processing 2,205 dry ton/day at 76% theoretical ethanol yield (79 gal/dry ton), the ethanol
+    selling price is $2.15/gal in 2007$.
+ 15. SUBJECT TERMS
+    cellulosic ethanol; production economics; process simulation
+
+ 16. SECURITY CLASSIFICATION OF:            17. LIMITATION     18. NUMBER     19a. NAME OF RESPONSIBLE PERSON
+                                         OF ABSTRACT    OF PAGES
+ a. REPORT       b. ABSTRACT     c. THIS PAGE
+ Unclassified   Unclassified   Unclassified      UL                           19b. TELEPHONE NUMBER (Include area code)
+
+
+                                                                                                               Standard Form 298 (Rev. 8/98)
+                                                                                                                                                                 Prescribed by ANSI Std. Z39.18
+
+
+F1147-E(10/2008)

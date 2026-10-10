@@ -1,0 +1,51 @@
+Vegetable Oils                                                                                                                                      1    :
+
+
+
+LINSEED OIL; liquid; Material was extracted from industrially st red oil seeds and the
+   acid value was 3.81 mg KOH/g.  Density (15°C) = 0.929 g an-'.    Fatty acids found in
+   the oil: palmitic (8.77%), stearic (5.67%), oleic (21.98%), linoleic (12.26%),  and
+    linolenic (51.32%).
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 17073 Btu 1    qv(gross) = 9485 cal g- P-'
+    q,(gross)  = 39685 J' g-l
+
+                                                     75KOM/DAN
+
+LINSEED OIL; liquid; The vegetable oil has a chemical composition of up to 3 fatty acids
+    linked to a glycerine molecule with ester linkages; the fatty acid composition in
+   percent by weight is palmitic = 4.92, stearic = 2.41, oleic   19.70, linoleic = 18.03, and
+    linolenic = 54.94.  The acid value (number of mg of KOH needed t o neutralize free
+    fatty acids in 1 g sample) = 0.20, the phosphorus = 6.0 ppm, peroxide value (milli-
+   equivalents of peroxide per 1000 g Sam le that oxidize KI during test conditions)
+                                         = trace, carbon residue (% by weight)   0.22,    33.7, water and sediment (96 by volumeP
+   ash (% by weight) = 0.01, and sulfur (% by weight) = 0.01.  Density = 0.9236 kg/L.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross) = 16910 Btu lb'l
+                                   1    q,(gross)  = 9395 cal g-
+    q,(gross)  = 39307 J g-l
+
+                                                         82GOE/SCH
+
+LINSEED OIL; liquid; (flaxseed oil); obtained from dried seeds of flax, Linum
+    usitatissiurnurn;chief constituents are glycerides of linoleic (-61.5%), linolenic
+    (-25.0%),  palmitic (-5%), oleic (-5%), and stearic (-3.5%) acids; iodine .number 172. I;
+    density, 0.930-0.938 g ~ m  - ~  .
+
+    specific heat: sample was heated at 100°C (212°F) for 3 to 6 hours under a pressure
+    of 2-3 rnm of Hg t o remove moisture; equations valid 30"-270OC (86"-518"F).
+   Cp(Btu lb-I  OF-')      = 0.41604 + 6.9526  x    T - 1.6518 x    T2 + 2.1420  x     T3
+               1   C+al     q1K-                        = -0.4606 + 6.4288 x     T - 1.4922 x    T2 + 1.2492 x  lo-'  T3
+   Cp(J g-  K-l)          -1.9272 + 2.6898  x    T - 6.2434  x    T2 + 5.2267  x 10-8 T3
+
+                                                       46CLA/WAL
+
+
+
+
+
+                                      218

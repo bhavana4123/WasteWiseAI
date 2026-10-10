@@ -1,0 +1,29 @@
+    Table 7-10. Sieve Number Versus Mesh Size        cyclone cut diameter, dpso, with a standard deviation,
+     Sieve Number              Mesh Size, flm         "g equal to 2.5, which is characteristic of cyclones,
+                                                      gravity separators, and  all Stokes ' law particle
+          80                          180                                                movement.
+              1 00                          150
+         120                         125
+         140                          106
+              1 70                          90               7.8.6 Physical Size Analysis
+         200                          75
+         230                           63            The major methods for particle-size measurement are
+        270                           53            shown in Table 7-9. Screening and microscopy are used
+        325                          45                to determine linear dimensions. The Stokes' radius, rg,        400                         38                   is the radius of a hypothetical spherical particle with
+                                                       the same falling velocity and bulk density as the
+standard deviation " as indicated by the slope. Note     particle. The aerodynamic diameter, d.pa'  is thethat both distributions shown in Fig. 7-4 have the same     diameter of a hypothetical sphere of densIty 1 g/cm3
+overall slope. This slope is typical of large materials     that will attain the same falling velocity as the particle
+that have been broken up into a wide range of smaller     in question.
+particles. It will be helpful for us to express this slope    The number mass and area distributions all have the
+as the geometric standard deviation, "g                same geometric standard deviation, "g.
+          "g  dp84/dpso 0 dpso/dp16              (7-5)     Scrubber performance can be characterized similarly
+                                             by the size particle diameter which is captured at 50%.
+where dpso is the diameter for which 50% of the total                                              The preciseness ofthe size cutoff point is characterizedparticles are captured. The other subscripts denote                                               by the value of   Various scrubbers and separators aresinlilar cumulative percentages of particles smaller                      "g;                                               compared in Taole    for cut diameter and sharpness.than the respective particle diameter d.                                         8-1                                                 Note how many have a standard deviation near 2.5.
+The solid particles that pass through a cyclone can be     Consider those that have a sharper or broader deviation
+expected to have a mean particle diameter near the    and why.
+
+
+
+
+
+70    Handbook of Biomass Downdraft Gasifier Engine Systems

@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "total": 205,
+    "passed": 205,
+    "failed": 0,
+    "skipped": 0
+  },
+  "groups": {
+    "tests.test_engine": {
+      "passed": 60
+    },
+    "tests.test_engine_numeric_safety": {
+      "passed": 65
+    },
+    "tests.test_scientific_golden": {
+      "passed": 73
+    },
+    "tests.test_scientific_integrity.ScientificIntegrityTests": {
+      "passed": 7
+    }
+  },
+  "failures": []
+}

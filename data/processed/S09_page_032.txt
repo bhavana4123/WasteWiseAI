@@ -1,0 +1,31 @@
+rather large. The methods are revised occasionally, so it is prudent to ensure that your lab has the
+most up-to-date revisions annually.
+
+QC Laboratory Recommendations
+
+The QC Laboratory is an essential element of any biodiesel production facility. An individual
+trained in chemistry through the level of organic chemistry, analytical chemistry, and
+instrumental analysis is recommended for the QC chemist function. Most community colleges
+offer training in an Associates Degree program that will meet these criteria. Some of the methods
+used are quite specialized, so training in the conduct of the methods is also recommended. Table
+7 shows a listing of the specific test methods that are recommended for use in the plant
+laboratory.
+
+Summary
+
+ASTM Specification D 6751 – 02, specification for B 100 (biodiesel) fuel is the basis for
+ensuring that quality products are provided to the fuel distribution system. The key properties of
+B 100 are discussed in terms of their Test Methods and specifications.
+
+Essential testing capabilities for the producer include:
+   •  ASTM D 2709, Water and Sediment;
+   •  ASTM D 874, Sulfated Ash;
+   •  ASTM D 2500, Cloud Point;
+   •  ASTM D 664, Acid Number, and;
+   •  ASTM D 6584, Free Glycerine and Total Glycerine
+
+
+
+
+
+                                      28

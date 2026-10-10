@@ -1,0 +1,41 @@
+                                                                      Animals
+
+
+SNAIL, AQUATIC; Succinea ovalis; solid; (without shell); a gastropod mollusk.
+
+    gross heat of cornbustion: assume values refer to room temperature and are
+    corrected to an ash-free basis.
+
+    q,(gross)   9747 2 11 Btu 1
+    q,(gtoss) = 5415 2 6 cal g-
+    q,(gross) = 226562 25 f g-l
+
+                                                                          6 1SLO/RIC
+
+SPITBUG; PhiZenus Zeucophthalmus; solid; a spittle insect.
+
+    gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    q,(gross) = 12532 ,+ 918 Btu Ib-'
+    q,(gtoss)  = 6962 2 510 cal g-l
+    q,(gtosd  = 29129 2 2134 J g-l
+
+                                                                          6 1SLO/RIC
+
+STARFISH; Pisaster ochraceus; solid; invertebrate animal; echinoderm of the order
+   Asteroidea.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected for moisture and ash content.
+   qv(gross) = 3798 Btu lb- 1
+    q,(gross) = 21 10 cal
+    q,(gross) = 8828 J
+
+                                                                        7 1PA1
+
+
+
+
+
+                                      63

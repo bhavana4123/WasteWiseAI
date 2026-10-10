@@ -1,0 +1,50 @@
+To further demonstrate the impact of such assumptions, we turn to the study of Kazi et al. [12], a
+joint effort between Iowa State University, ConocoPhillips, and NREL. While this paper
+examined a variety of pretreatment and downstream processing alternatives, its baseline was
+essentially NREL’s 2008 State of Technology (SOT) model (dilute-acid pretreatment, purchased
+cellulase enzyme, and C5/C6 co-fermentation) [21]. The Kazi et al. study adjusted several key
+parameters from the 2008 SOT model to incorporate external public data. The feedstock cost,
+enzyme cost, indirect capital cost factors, and reaction conversions were all modified per data
+external to NREL analysis. While both analyses were intended to represent near-term or “state of
+technology” economics extrapolated to an nth plant as discussed previously, the assumptions in
+the Kazi et al. study were generally more conservative than NREL’s 2008 SOT, raising the
+MESP considerably. Adjusting for these key economic assumptions, their MESP closely
+approaches that of the NREL 2008 SOT case, as shown in Figure 3. In many cases, economic
+variance between technoeconomic studies is easily explained by normalizing for a few important
+inputs.
+
+                   $4.00
+
+                              $3.40      $0.23
+                   $3.50
+                                                       $0.38
+                   $3.00
+                                                                   $0.29
+                                                                                $2.50
+                   $2.50                                                               (2007$/gal)
+                       MESP  $2.00          20082008 SOTSOT == $2.43/gal$2.43/gal
+
+
+                   $1.50
+
+
+                   $1.00
+                                Kazi et al.     Indirect   Enzyme cost  Feedstock    Kazi et al.
+                              (published)  capital costs (70→32¢/gal) price ($75→   (adjusted)
+                                               (adjust to                 $60/ton)
+                                    2008 SOT)
+
+
+     Figure 3. Adjusting the Kazi et al. base case ($3.40/gal) to NREL 2008 SOT assumptions
+
+
+1.6  About the NREL Aspen Model
+The final version of the Aspen model used to generate this design report is named DW1102A;
+this version will be made publicly available along with this design report. We note that it is not
+uncommon to find subtle differences in Aspen results between software versions and patch
+levels. The results presented here were obtained with model DW1102A on Aspen Plus V7.2,
+patch level 0.
+
+While Aspen can be completely rigorous, such detail is not always warranted in our simulation.
+Some unit operations, particularly solid-liquid separation, were modeled with a fixed
+                                      10

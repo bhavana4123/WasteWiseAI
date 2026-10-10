@@ -1,0 +1,46 @@
+Section 1.  Introduction
+
+Combined heat and power (CHP) is an efficient and clean approach to generating electric power and
+useful thermal energy from a single fuel source. CHP places power production at or near the end-user’s
+site so that the heat released from power production can be used to meet the user’s thermal
+requirements while the power generated meets all or a portion of the site electricity needs. Applications
+with steady demand for electricity and thermal energy are potentially good economic targets for CHP
+deployment. Industrial applications particularly in industries with continuous processing and high steam
+requirements are very economic and represent a large share of existing CHP capacity today. Commercial
+applications such as hospitals, nursing homes, laundries, and hotels with large hot water needs are well
+suited for CHP. Institutional applications such as colleges and schools, prisons, and residential and
+recreational facilities are also excellent prospects for CHP.
+
+The direct benefits of combined heat and power for facility operators are:
+
+    •  Reduced energy related costs – providing direct cost savings.
+    •   Increased reliability and decreased risk of power outages due to the addition of a separate
+      power supply.
+
+    •   Increased economic competitiveness due to lower cost of operations.
+In addition to these direct benefits, the electric industry, electricity customers, and society, in general,
+derive benefits from CHP deployment, including:
+
+    •   Increased energy efficiency – providing useful energy services to facilities with less primary
+       energy input.
+    •  Economic development value – allowing businesses to be more economically competitive on a
+        global market thereby maintaining local employment and economic health.
+    •  Reduction in emissions that contribute to global warming – increased efficiency of energy use
+        allows facilities to achieve the same levels of output or business activity with lower levels of
+         fossil fuel combustion and reduced emissions of carbon dioxide.
+    •  Reduced emissions of criteria air pollutants – CHP systems can reduce air emissions of carbon
+      monoxide (CO), nitrogen oxides (NOx), and Sulfur dioxide (SO2) especially when state-of-the-art
+      CHP equipment replaces outdated and inefficient boilers at the site.
+
+    •   Increased reliability and grid support for the utility system and customers as a whole.
+    •  Resource adequacy – reduced need for regional power plant and transmission and distribution
+        infrastructure construction.
+CHP systems consist of a number of individual components – prime mover (heat engine), generator,
+heat recovery, and electrical interconnection – configured into an integrated whole. The type of
+equipment that drives the overall system (i.e., the prime mover) typically identifies the CHP system. The
+purpose of this guide is to provide CHP stakeholders with a description of the cost and performance of
+complete systems powered by prime-mover technologies consisting of:
+
+
+
+Catalog of CHP Technologies                      1–1                                          Introduction

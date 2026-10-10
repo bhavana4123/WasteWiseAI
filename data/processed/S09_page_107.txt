@@ -1,0 +1,50 @@
+One strategy used by many producers is to draw a sample of the oil (or alcohol) from each
+delivery and use that sample to produce biodiesel in the laboratory. This test can be fairly rapid
+(1 or 2 hours) and can indicate whether serious problems are likely in the plant.
+
+Measuring feedstock quality can usually be limited to acid value and water content. These are
+not too expensive ($500 for the acid value equipment and $5,000 for the water measurement
+equipment) and can be operated by less experienced technicians.
+
+To monitor the completeness of the reaction according to the total glycerol level specified in
+ASTM D 6751 requires the use of a gas chromatograph and a skilled operator.  Large producers
+will find that having this equipment on-site is necessary. Commercial laboratories (i.e. Williams
+Laboratory Services) are available that can analyze the samples but the cost is $100-$150/test
+and the time required may be several days. Smaller producers will need to use a more robust
+production process involving extra methanol and probably multiple reaction steps. Then the
+product quality can be monitored through periodic testing by an outside laboratory.
+
+Other possibilities for monitoring the transesterification reaction and assessing fuel quality are
+methods based on spectroscopy (such as near-infrared spectroscopy) or physical properties (such
+as viscometry). These methods, although they are not (yet?) ASTM methods, are usually faster
+and easier to use than gas chromatography. However, some of them require somewhat extensive
+calibration. They also cannot accurately quantify glycerol at the low levels called for in the
+ASTM standard. To circumvent this, comparison to a reaction and product known to meet
+ASTM standards is needed.
+
+Post-production Factors
+
+Water and Sediment
+
+Water and sediment contamination are basically housekeeping issues for biodiesel. Water can be
+present in two forms, either as dissolved water or as suspended water droplets. While biodiesel is
+generally considered to be insoluble in water, it actually takes up considerably more water than
+diesel fuel. Biodiesel can contain as much as 1500 ppm of dissolved water while diesel fuel
+usually only takes up about 50 ppm. The standards for diesel fuel (ASTM D 975) and biodiesel
+(ASTM D 6751) both limit the amount of water to 500 ppm. For petroleum-based diesel fuel,
+this actually allows a small amount of suspended water. However, biodiesel must be kept dry.
+This is a challenge because many diesel storage tanks have water on the bottom due to
+condensation. Suspended water is a problem in fuel injection equipment because it contributes to
+the corrosion of the closely fitting parts in the fuel injection system. Sediment may consist of
+suspended rust and dirt particles or it may originate from the fuel as insoluble compounds
+formed during fuel oxidation. Some biodiesel users have noted that switching from petroleum-
+based diesel fuel to biodiesel may cause an increase in sediment that comes from deposits on the
+walls of fuel tanks that had previously contained diesel fuel. Because its solvent properties are
+different from diesel fuel, biodiesel may loosen sediments and cause fuel filter plugging during
+the transition period.
+
+
+
+
+
+                                      103

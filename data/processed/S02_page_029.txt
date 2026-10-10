@@ -1,0 +1,56 @@
+                        Chapter 4
+          Principles of Gasification
+
+4.1  Introduction                                  6-carbon anhydrosugars, and lignin is an irregular
+                                                 polymer of phenyl propane units. In biomass, these
+Gasifiers are relatively simple devices. The mechanics     three polymers form an interpenetrating system, or
+oftheir operation, such as feeding and gas cleanup, also     block copolymer, that varies in composition across the
+are simple. The successful operation of gasifiers,      cell wall. Nevertheless, in large samples, there is a
+however, is not so simple. No neat rules exist because     relatively constant atomic ratio of CH1 . 40o. 6' (The
+the thermodynamics of gasifier operation are not well      ratios will vary slightly with species. Coal is typically
+understood. Yet, nontrivial thermodynamic principles     about CHO.900.1 but varies more widely in composi­
+dictate the temperature, air supply, and other operat­      tion.) The relationship between solid, liquid, and
+ing variables of the reactors that we build. It is a tribute     gaseous fuels is easily seen in Fig. 4-1(a) where the
+to the persistence of experimentalists that so much     relative atomic concentrations of carbon, hydrogen,
+progress has been made in the face of so little under­    and oxygen are plotted for a variety of fuels. Here it is
+standing. Nevertheless, it has been the experience in     seen that the solid fuels, biomass, coal and charcoal,
+related fields (such as oil, gas, and coal combustion)      lie in the lower left segment ofthe diagram; liquid and
+that once the mechanisms at work are understood, the     gaseous hydrocarbon fuels lie in the upper left section;
+engineer is able to develop cleaner, more efficient   CO and H2 are joined by the bisector of the triangle; and
+processes. Fortunately, much of the knowledge ac­     the combustion products of fuels, CO2 and H20, lie on
+quired in these fields can be applied to enhance our     a vertical line on the right.
+understanding of gasification processes.
+                                                 Thermal conversion processes for biomass are indi­
+In this chapter, we present a summary of the underly­     cated by the arrows of Fig. 4-1(b). Here it is seen that
+ing processes that occur during biomass gasification.     the conversion processes move the chemical composi­
+We will attempt to keep the explanation simple be­     tion of biomass to liquid or solid fuel regions, either by
+cause each fundamental process is basically simple.     biological or thermal means. In some cases (such as
+Chapter 5 gives a more extensive description of the     oxygen/air gasification), the processes are spon­
+operation of specific gasifiers. Details are available     taneous; in other cases (such as steam gasification) con­
+from the literature for those interested in a more     siderable energy must be expended to cause the
+thorough explanation (Reed 1982; Kaupp 1984a; Reed     change.
+1985b).
+
+4.2 Biomass Thermal Conversion
+                                                          4.2.2 Biomass PyrolysisProcesses
+                                                         Pyrolysis is the breaking down (lysis) of a material by
+4.2.1  Introduction                                  heat (pyro). It is the first step in the combustion or
+                                                              gasification of biomass. When biomass is heated in theThermal conversion processes for biomass involve
+                                                     absence of air to about 350'C (pyrolysis), it forms char­some or all of the following processes:
+                                                            coal (chemical symbol: C), gases (CO, CO2, H2, H20,
+Pyrolysis: Biomass + Heat -7 Charcoal, oil, gas          CH4), and tar vapors (with an approximate atomic
+                                             makeup ofCH1.20o.5)' The tar vapors are gases at theGasification: Biomass + Limited oxygen -7 Fuel gas                                                      temperature of pyrolysis but condense to form a smoke
+                                               composed of fine tar droplets as they cool.Combustion: Biomass + Stoichiometric' oxygen
+              -7 Hot combustion products               All the processes involved in pyrolysis, gasification,
+                                               and combustion can be seen in the flaming match of
+Thermal processes typically have high throughputs      Fig. 4-2. The flame provides heat for pyrolysis, and the
+and can, in principle, operate on any biomass form.                                                            resulting gases and vapors burn in the luminous flame
+(Biological processes only operate on some of the     in a process called flaming combustion. After the flame
+components of biomass, usually the cellulose.)            passes a given point, the char may or may not continue
+                                                          to burn (some matches are chemically treated toCellulose is a linear polymer of anhydroglucose units;
+                                                      prevent the charcoal from smouldering). When thehemicellulose is a mixture of polymers of 5- and
+                                              match is extinguished, the remaining wood continues
+*"stoichiometric," that quantity required for a complete chemical     to undergo residual pyrolysis, generating a visible
+reaction                                        smoke composed of the condensed tar droplets.
+
+                                                                                         Principles of Gasification    21

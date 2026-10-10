@@ -1,0 +1,63 @@
+ disparities between states. It is prudent to seek long­     13.5.2 Financial Institutions
+ term power purchase agreements only when and where
+                                                                        If a gasifier/generator system is being financed, inves­ buyback rates are favorable.
+                                                               tors and the financial community will require a com­
+ If sale of power to utilities is being considered, it is im­     plete assessment of the project with performance
+ portant to determine the optimum size for a gasifier     guarantees and benefits and risks clearly identified.
+ electric-generation project. If the buyback rate is low
+                                                             Interest rates in the 8% to 20% range place a high and the retail rate is high, then a prospective gasifier
+                                            demand on the economic yield of an installation. For should be downsized. If, however, the buyback rate is
+                                                             instance, 15% interest on a $1000/kW installation costs high enough, the decision may be to choose a much
+                                                 2.5¢1kWh in interest for continuous operation. Actual larger project with expectations of making money by
+                                                                interest costs can be determined from either the equa­ selling power. Certain system sizes may be allowed
+                                                              tions in Table 13-3 or the graphs in Fig. 13-1. The sen­more favorable buyback rates; this therefore should be
+                                                                    sitivity of the generating cost to engine life, fuel cost, explored. For instance, some states offer full retail
+                                               and labor is indicated in graphic form in Fig. 13-1. value to renewable electricity projects under certain
+ sizes.
+                                                      1 3.6 Other Considerations
+Thus,  it is necessary to investigate thoroughly the
+PURPA and state power-generation structure before    The factors considered in this chapter directly
+making binding decisions on an electric power project.     influence the viability of the project. Other factors,
+The state utility commissions are listed in Table 13-4.     although peripheral, are worth noting because such
+                                                      important considerations as bank-loan approvals can
+Optimum-size considerations for a biomass gasifier     hinge on their perceived value. These factors include
+electric project also should include available fuel sup­     job creation and economic benefit to the community.
+ply, fuel transport equipment, and the PURPA climate.                                      New jobs can be expected because of a biomass gasifier
+                                                                 electric project. Also most ofthe operating expenses of
+ 13.4.2 Cogeneration Possibilities                                               biomass gasifier electricity generation involve
+The "waste" engine heat in the exhaust gases and en­    p ayment directly to individuals in the local
+gine block coolant represents from 2/3 to 3/4 of the    community through fuel purchases (including
+energy supplied by the fuel. Using this waste heat from     collection, preparation, handling, and transport) and
+an engine (cogeneration) allows a much higher degree
+of energy utilization and is sometimes eligible for
+additional tax credits.
+
+The size of a cogeneration system depends, of course,
+on the size of the heat load. Each kilowatt from an en­                                                                       Recoverable energygine generator yields arund 15,000 Btu/h in waste heat.                      t::ǅ:*
+This heat can be applied for such applications as space
+heating, greenhouse heating, grain drying, and absorp­
+tion cycle refrigeration. Figure 13-2 indicates a heat
+budget for cogeneration heat recovery.
+
+1 3.5 Financing
+
+Several potential funding sources exist for implement­
+ing a gasifier project.
+
+13.5.1 Government Subsidies in the Form of
+Tax Incentives
+
+The U.S. government in the past has provided tax in­
+centives for using renewable-energy power. So have
+some states. The situation is in flux and existing situa­
+tions should be checked with an accountant or lawyer
+specializing in energy issues. More general (energy) tax
+breaks (e.g., accelerated depreciation) may exist even
+where no special tax privileges exist for renewable­
+energy projects, and these possibilities, too, should be
+explored.                                                                      Fig. 13·2. Cogeneration heal budgel  (Source: WESt)
+
+
+
+
+                                                                                      Decision Making      1 29

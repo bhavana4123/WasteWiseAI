@@ -1,0 +1,57 @@
+                                                  Woody and Tree Materials
+
+
+PINE, LODGEPOLE; FOLIAGE; Pinus contorta; solid; freeze-dried to < 10% moisture
+   content. Composition is ash  2.21% and char yield = 29.2%.  Char was obtained from
+   heating the sample to 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+   fuel                                     char (from 500°C heating)
+
+                                                  =                                                   13810                                                          Btu                             lb-I                    qv(gross)             9530                   Btu    q,(gross)  =                                                                                                                  IP-'                                                      q,(gross)                                                    = 7670                                                                        g-                                                               cal    q,(gross)             5290 cal            =                       g-l
+    q,(gross)  = 22140 J g- 1                                                qv(gross) = 321 10 J g-l
+
+                                                                  82SUS
+
+PINE, LODGEPOLE; NEEDLES; Pinus contorta; solid; Samples were taken at mid-crown
+    position, in May and November, at 6300 and 5700 feet altitude, and from young and
+    old trees.  Crude protein levels averaged 4.52% of air-dry weight.  Material was
+   frozen and subsequently dried or preserved in 70% alcohol and then dried.
+
+   gross heat of combustion: air-dried weight, assume values refer to room temperature.
+
+    qv(gross) = 8951 Btu lbll
+   q  ( ross) = 4973 cal g-
+    q$ross)  = 20807 J g-'
+
+                                                            68BOA/KIC
+
+PINE, LONGLEAF; Pinus palustris; solid; air-dried at 105°-110"C (221'-230"F),  density,
+    0.68 g ~ r n - ~ .
+
+    specific heat: 273-379 K (32"-223"F)
+
+   Cp(Btu lb-I  OF-')    = 0.337
+   Cp(cal ~ ~ 5 - l =) 0.337
+   Cp(J g-  K   )       = 1.410
+
+                                                          12DUN
+PINE, PINYON; FOLIAGE; Pinus edulis; solid; freeze dried to < 10% moisture content.
+   Composition is ash = 3.22% and char yield = 26.7%.  Char was obtained from heating
+   the sample to 500°C (932°F)in nitrogen.
+
+    gross heat of combustion: ash-free, dry basis; assume values refer to room
+    temperature.
+
+    fuel                                     chat (from 500°C heating)
+    q,(gross)  = 9470 Btu lb- 1                                                        q,(gross)  = 13510 Btu 1
+    q,(gross)  = 5260 cal g-l                         q,(gross)  = 7510 cal g-
+    qv(gross) = 22020 J g-l                      qv(gross) = 31400 J g-l
+
+                                                                   82SUS
+
+
+
+                                      283

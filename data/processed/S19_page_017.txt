@@ -1,0 +1,36 @@
+     The composition of pretreated solids was determined by a two-stage acid digestion procedure
+       (Sluiter et al. 2008). Soluble oligomeric sugars were determined by dilute acid hydrolysis of
+       liquor samples followed by quantifying sugars by high performance liquid chromatography
+     (HPLC) as described by Sluiter et al. 2006.
+
+      Sugar concentrations in liquor samples were measured by HPLC using an Agilent 1100 series
+    HPLC (Agilent Technologies, Inc., Santa Clara, California) with a Shodex SP0810 carbohydrate
+     column (Showa Denko K.K., Kawasaki, Japan) and a de-ashing guard cartridge (Bio-Rad
+       Laboratories, Hercules, California). The column temperature was 85°C and the mobile phase was
+       ultra-pure water at a flow rate of 0.6 mL/min. Ethanol, acetic acid, hydroxymethylfurfural
+     (HMF), and furfural were measured by HPLC using a Phenomenex Rezex RFQ Fast Fruit H+
+      organic acid column and Cation H+ guard cartridge (Bio-Rad Laboratories), also following
+    NREL standard laboratory analytical procedures with the column operating at 55°C. The mobile
+      phase was dilute sulfuric acid (0.01 N) at a flow rate of 0.6 mL/min. A refractive index detector
+     was used for compound detection. Mixed component standards were periodically run with the
+    HPLC samples to verify calibration accuracy. The density of liquid samples was measured using
+      an Anton-Paar model DMA-500 density meter (Anton-Paar USA, Inc., Ashland, Virginia).
+
+      Slurry TS concentrations were determined by drying samples at 45°C in a vacuum oven (0.6 bar)
+       until repeated weight measurements were constant. Slurry insoluble solid concentrations were
+      determined by a six-step washing and centrifugation procedure (Schell et al. 2003). Triplicate
+      measurements were performed on each sample.
+
+      2.1.3.2 Data Recording
+     The pilot plant’s data acquisition and control (DACS) system monitored and recorded all sensor
+      data for the duration of equipment operation. The flow rate data were used to calculate
+      conversion yields and mass balances. Some data (specifically weight of additions) were
+      manually collected and recorded.
+
+
+
+
+
+                                           10
+
+This report is available at no cost from the National Renewable Energy Laboratory (NREL) at www.nrel.gov/publications.

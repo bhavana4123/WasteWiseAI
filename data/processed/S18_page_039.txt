@@ -1,0 +1,51 @@
+iterations, the cell mass from the last vessel (200,000 gallons) is sufficient to inoculate the
+production vessel. Following the 2002 design, it was decided that two trains would be optimal
+[2]. Using these conditions, the fifth reactor in Train A will complete fermentation at 180 hours.
+Train B will complete fermentation 12 hours later. Another 24 hours after that, Train A is again
+complete and the cycle continues. A discussion of seed train cycling can be found in the 2002
+report. Table 10 summarizes the seed train design specifications. Additionally, 0.1% (w/v)
+sorbitol is used in the final seed fermentor to improve cell viability at high sugar concentrations
+[46, 47]. Sorbitol is not a component in the Aspen model, but it is reflected in the economics by
+purchasing an amount of sorbitol equivalent to 0.1% (w/v) of the sugar flow to the seed train, at a
+cost of approximately 0.7 cents/gal ethanol.
+
+                             Table 10. Seed Train Specifications
+       Inoculum level                          10 vol % of production vessel size
+       Batch time                             24 h
+       Fermentor turnaround time                12 h
+      Number of trains                        2
+      Number of fermentor stages               5
+     Maximum fermentor volume (F-305)         200,000 gal (757 m3)
+      Corn steep liquor (CSL) loading              0.50 wt %
+      Diammonium phosphate (DAP) loading       0.67 g/L fermentation broth (whole slurry)
+
+Table 11 gives the reactions and conversions used in the seed fermentors to describe the
+microorganism growth and sugar metabolism. The fraction of sugar converted to cell mass is
+rather small. This is typical for Z. mobilis and is economically beneficial as well—most of the
+sugar entering the seed train is converted to ethanol, which is ultimately added to the production
+fermentors and recovered. So even though 10% of the saccharified slurry is diverted to produce
+the seed culture, its ethanol-producing potential is not lost. Other species (E. coli or yeast) could
+be expected to have cell mass yields about 2 times higher than that of Z. mobilis and thus
+produce modestly lower amounts of ethanol during seed culture propagation.
+
+                  Table 11. Seed Train Reactions and Assumed Conversions
+   Reaction                                                   Reactant % Converted to
+                                                                      Product
+   Glucose → 2 Ethanol + 2 CO2                                  Glucose   90.0%
+   Glucose + 0.047 CSLa + 0.018 DAP → 6 Z. mobilis + 2.4 H2O       Glucose   4.0%
+   Glucose + 2 H2O→ 2 Glycerol + O2                             Glucose   0.4%
+   Glucose + 2 CO2→ 2 Succinic Acid + O2                         Glucose   0.6%
+   3 Xylose → 5 Ethanol + 5 CO2                                   Xylose    80.0%
+   Xylose + 0.039 CSL + 0.015 DAP → 5 Z. mobilis + 2 H2O           Xylose    4.0%
+   3 Xylose + 5 H2O → 5 Glycerol + 2.5 O2                          Xylose    0.3%
+   Xylose + H2O→ Xylitol + 9.5 O2                                  Xylose    4.6%
+   3 Xylose + 5 CO2 → 5 Succinic Acid + 2.5 O2                      Xylose    0.9%
+a Corn steep liquor (CSL) and diammonium phosphate (DAP) are both nitrogen sources required for Z. mobilis
+growth. The stoichiometry shown above is only used to balance the compositions assumed for nonstandard
+components like cell mass.
+
+Two high-capacity transfer pumps (P-302) are used to transfer the seed to a holding tank (T-301)
+in a timely fashion (approximately 2.5 h). The seed hold tank (T-301) is sized to hold 20% more
+
+
+                                      29

@@ -1,0 +1,60 @@
+There are several processes that use intense mixing, either from pumps or motionless mixers, to
+initiate the esterification reaction. Instead of allowing time for the reaction in an agitated tank,
+the reactor is tubular. The reaction mixture moves through this type of reactor in a continuous
+plug, with little mixing in the axial direction. This type of reactor, called a plug-flow reactor
+(PFR), behaves as if it were a series of small CSTRs chained together.
+
+The result is a continuous system that requires rather short residence times, as low as 6 to 10
+minutes, for near completion of the reaction. The PFRs can be staged, as shown, to allow
+decanting of glycerol. Often this type of reactor is operated at an elevated temperature and
+pressure to increase reaction rate. A PFR system is shown in Figure 15.
+
+
+
+
+                                                                   Alcohol
+
+                                                                                                                         Alcohol         Ester
+
+
+              TG                                                                                  Alcohol
+                                  Heater             Reactor 1
+                    Alcohol
+                                                                  TG
+                      Catalyst
+                                                                                       Separator   Ester      Reactor 2
+
+
+
+                                                                                     Glycerol                                             Glycerol
+
+
+
+
+                        Figure 15. Plug Flow Reaction System
+
+High Free Fatty Acid Systems
+
+High free fatty acid feedstocks will react with the catalyst and form soaps if they are fed to a
+base catalyzed system. The maximum amount of free fatty acids acceptable in a base catalyzed
+system is less than 2 percent, and preferably less than 1 percent. Some approaches to using high
+free fatty acid feedstocks use this concept to “refine” the free fatty acids out of the feed for
+disposal or separate treatment in an acid esterification unit. The caustic is added to the feedstock
+and the resulting soaps are stripped out using a centrifuge. This is called caustic stripping.
+
+Some triglycerides are lost with the soaps during caustic stripping. The soap mixture can be
+acidulated to recover the fatty acids and lost oils in a separate reaction tank. The refined oils are
+dried and sent to the transesterification unit for further processing. Rather than waste the free
+fatty acids removed in this manner, they can be transformed into methyl esters using an acid
+esterification process. As described earlier, acid catalyzed processes can be used for the direct
+esterification of free fatty acids in a high FFA feedstock. Less expensive feedstocks, such as
+tallow or yellow grease, are characteristically high in free fatty acids (FFA). The standard for
+tallow and yellow grease is ≤ 15 percent FFA. Some lots may exceed this standard.
+
+Direct acid esterification of a high free fatty acid feed requires water removal during the reaction,
+or the reaction will be quenched prematurely. Also, a high alcohol to FFA ratio required, usually
+
+
+
+
+                                      36

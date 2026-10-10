@@ -1,0 +1,44 @@
+                                                                  Agricultural Residues
+
+
+
+CABERNET SAUVIGNON GRAPES, VINEYARD PRUNINGS; solid; Material is considered
+   biomass fuel and has proximate analysis values (in percent by weight dry basis) for
+    volatile concentration (VCM) = 78.63, ash content = 2.17, and fixed carbon = 19.20.
+   Also t h e ultimate analysis of the elemental composition of the fuel (values in percent
+   by weight dry basis) is carbon = 46.59, hydrogen = 5.85, oxygen = 43.90, nitrogen =
+    0.83, sulfur = 0.04, chlorine = 0.08, and residue (ash) = 2.71.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 8187 Btu lb; 1
+    q,(gross)  = 4548 cal g-
+    q,(gross)   19030 J g- 1
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net) = 7675 Btu  lb;'
+   qv(net) = 4264 cal gi
+    q,(net)  = 17840 J g-
+
+                                                                         85 JEN/EBE
+
+CARDINAL GRAPES, VINEYARD PRUNINGS; solid; Material is considered biomass fuel
+   and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 78.17, ash content = 2.22, and fixed carbon   19.61.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+   qv(gross) = 8264 Btu lb; 1
+   qv(gross) = 4591 cal g-
+    q,(gross) = 19210 J g- 1
+
+                                                                85JEN/EBE
+
+
+
+
+
+                                        13

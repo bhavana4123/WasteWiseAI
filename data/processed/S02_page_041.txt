@@ -1,0 +1,60 @@
+ called the "Imbert" gasifier (after its entreprenurial in­     ing was qualitative in nature, the authors have had con­
+ventor, Jacques Imbert) although it was produced by     siderable experience in running this interesting tech­
+dozens of companies under other names during World     nological antique.
+War II. Approximately one million of these gasifiers
+were mass produced during World War II, at a cost of     5.7.2 Description of the Downdraft (Imbert)
+                                                     Gasifierabout $1000 u.s. (1983) each. It is important to realize
+that the cost of producing such a unit today would                                                          Referring to Figs. 5-1 and 5-2, the upper cylindrical part
+depend primarily on the degree to which it could be                                                        of the inner chamber is simply a magazine for the wood
+mass produced since none of the components are                                                      chips or other biomass fuel. During operation, this
+inherently expensive.                                                chamber is filled every few hours as required. The
+Air gasifiers can be operated either by forcing air     spring-loaded cover is opened to charge the gasifier,
+through the fuel (pressurized) or by drawing the air    and then it is closed during gasifier operation. The
+                                                        spring permits the cover to pop open to relieve pres­through the fuel (suction). In practice, gasifiers that fuel
+engines generally use the suction of the engine to move     sure in the case of a gas explosion, thus functioning as
+air through the gasifier and cleanup train, and these are     a safety valve.
+called "suction gasifiers." We will describe only suc­                                               About one-third of the way up from the bottom, there
+tion gasifiers here; however, only minor modifications                                                                        is a set of radially directed air nozzles that permit air
+are required to build pressurized gasifiers. (See Chap­                                                            to be drawn into the chips as they move down to be
+ter 8, which deals with the topics of blowers, fans,                                                                 gasified. Typically, there are an odd number of nozzles
+ejectors, and compressors).                                                      so that the hot gases from one nozzle do not impinge
+                                               on the opposite nozzle. The nozzles are attached to aA large number of descriptive articles on gasifiers ap­
+                                                             distribution manifold that in turn is attached to thepeared during World War II, but no detailed drawings
+                                                      outer surface of the inner can. This manifold is con­have been located from that period. Fortunately, for­
+                                                    nected through the outer can to a large air-entry port.mulas for determining critical dimensions are given in
+                                           One air nozzle is in line with this port, allowing thea number of the older references (Gengas 1950;
+                                                        operator to ignite the charcoal bed through this nozzle.Schliipfer 1937).
+                                              During operation, the incoming air burns andRenewed interest in biomass gasification has
+                                                       pyrolyzes some of the wood, most of the tars and oils,manifested itself in the fact that a number of in­
+                                               and some of the charcoal that fills the gasifier belowdividuals and groups have built modern versions of the
+                                                     the nozzles. Most of the mass of biomass is convertedImbert gasifier. Plans and manuals for constructing
+                                                            to gas within this flaming combustion zone sincesome of these designs are available from several groups
+                                                  biomass contains more than 80% volatile matter (Reed(Mother 1982; Skov 1974; Nunnikhoven 1984; Rissler
+                                                          1983a).1984). Some of these gasifiers have been attached to
+cars and trucks that have succeeded in traversing the    The gasifier is in many ways self-adjusting. If there is
+                                       Mother     insufficient charcoal at the air nozzles, more wood iscountry on several occasions. In particular,
+Earth News and its subsidiary, Experimental Vehicle    burned and pyrolyzed to make more charcoal. If too
+News, have performed extensive tests on gasifiers and   much char forms during high-load conditions, then the
+have published informative articles and plans with     char level rises above the nozzles so that incoming air
+photographs of fabrication steps. The plans are suffi­     burns the char to reduce the char level. Thus, the
+ciently detailed so that a skilled welder can fabricate a     reaction zone is maintained at the nozzles.
+gasifier for a relatively small expense.
+                                              Below the air nozzle zone lies the gas-reduction zone,
+In 1978, a number oftests were performed under a SERI     usually consisting of a classical Imbert hearth (Fig. 5-2)
+contract on a 75-hp "Hesselman" (Imbert-type)     or in later years, of the "V" hearth (Fig. 5-6). Most
+downdraft gasifier. This gasifier was built in Sweden at     recently, the flat-plate hearth constriction (Fig. 5-7) has
+the end of World War II and was imported to this    been introduced. The latter two hearth designs
+country by Professor Bailie of the University of West    accumulate a layer of retained ash to form a
+Virginia. Professor Bailie used the gasifier in tests     high-quality, self-repairing insulation.
+during which the gasifier operated on wood, wood pel­                                                 Improved insulation in the hearth results in lower tar
+lets, and oxygen (Bailie 1979). Subsequently, the                                                     production and a higher efficiency over a wider range
+gasifier was sent to SERI in Colorado for further testing                                                        of operating conditions.
+with a 15-kW Onan electric generator. More recently,
+the gasifier has been used to gasify peat by Professor     After the combustion/pyrolysis of wood and hot char
+Goldhammer of Lowell University. The gasifier is now     at the nozzle level (see below), the resulting hot com­
+being used by Syngas Systems, Inc., to generate     bustion gases (COz and HzO) pass into this hot char
+producer gas to test gas cleanup systems for use with    where they are partially reduced to the fuel gases CO
+its 750-kW power generator. Although much ofthe test­    and Hz according to Eqs. (4-7) and (4-8). This procedure
+
+
+                                                                                                Gasifier Designs                                                                                          33

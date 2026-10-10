@@ -1,0 +1,58 @@
+Table ES-1. Energy Benefit Comparison of Anaerobically Digested Food Waste and
+Anaerobically Digested Municipal Wastewater Solids.
+                                                              Municipal
+                           Food Waste    Food Waste     Wastewater
+                             15-day MCRT   10-day MCRT       Solids
+ Parameter       Unit
+                      AVG       AVG       15-day MCRT
+                                (Range)        (Range)      AVG
+                                                              (Range) (5)
+ Methane        ft3/dry ton                13,300              9,500              10,000
+                     applied(1)              (9,800 – 17,000)     (6,600 – 14,400)     (7,500 – 12,600) Production
+                    ft3/wet ton                 3,300               2,400 Rate                                                                               NA(6)                     delivered(2)             (2,500 – 4,300)       (1,700 – 3,600)
+                 m3/ dry metric ton         420               300               310
+                     applied(1)               (300 – 530)         (200 – 450)         (230 – 390)
+                m3/wet metric ton          100               75                                                                                     NA(6)                     delivered(2)              (75 – 135)           (50 – 110)
+                         ft3 per day/ 1,000           2,300               2,600              750
+                         ft3 digester volume     (1,100 – 3,200)       (1,800 – 3,800)        (550 – 930)
+ Electricity    kWh/dry ton              990               710               750
+                     applied(1)              (730 – 1,300)        (490 – 1,080)         (560 – 940) Production
+               kWh/wet ton              250               180 Rate(3)                                                                             NA(6)                     delivered(2)             (190 – 320)         (130 – 270)
+               kWh/dry metric ton         1,100              780               830
+                     applied(1)              (800 – 1,400)        (540 – 1,190)        (620 – 1,040)
+               kWh/wet metric           280               200                                                                                     NA(6)                  ton delivered(2)          (200 - 350)          (140 - 300)
+            kWh per year/
+                                          43,700              57,000              14,600                 1,000 ft3 digester
+                                       (21,300 – 62,100)    (43,000 – 73,700)    (10,700 – 18,000)
+                volume
+ Household     households/year/           1,100              800
+               100 tons/day                                                        NA(6) Energy                               (800 – 1,400)        (550 –1,200)
+ Equivalent     households/year/
+                                           1,200              880 Rate(4)        100 metric                                                          NA(6)
+                                       (880 – 1,500)        (600 – 1,300)
+                  tons/day
+                 households per
+                                                7.3                   8.4                   2.4                   year/ 1,000 ft3
+                                              (3.6 – 10.3)           (5.8 – 12.3)             (1.8 – 3)
+                    digester volume
+ Notes:
+  1. Dry ton applied refers to food waste solids applied to the digesters after processing a wet ton delivered load.
+  2. Wet ton delivered refers to food waste tonnage (including water) delivered by the hauler prior to processing,
+  3.  Calculated based on 1 ft3 CH4 = 1,000 BTUs and 13,400 BTUs = 1 kWh.
+  4.  Calculated based on 2001 EIA residential energy survey for CA where average household energy use is 6,000
+   kWh annually.
+  5.  Based on data from previous EBMUD bench-scale pilot study. Digesters were fed thickened waste activated
+     sludge and screened primary sludge.
+  6.  Data is not typical of municipal wastewater solids loading to digesters.
+  7.  For annual data, 100 tons/day food waste assumes processing at 5 days per week, 52 weeks per year.
+  8.  For annual data, it is assumed municipal wastewater solids loading occurs 5 days per week, 52 weeks per year.
+  9. A typical food waste load delivered weighs approximately 20 tons, and has a 28% TS content.
+ 10. Approximately 10% of the delivered food waste as total solids (TS) mass is discharged in reject stream.
+ 11. Data range presented is from stable digester operating periods for both mesophilic and thermophilic digesters.
+ 12 .AVG= Average. NA=Not Applicable.
+
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-3
+Funding Opportunity No. EPA-R9-WST-06-004

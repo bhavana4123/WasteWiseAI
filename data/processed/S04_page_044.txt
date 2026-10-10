@@ -1,0 +1,48 @@
+             Table 2-7. Major Constituents and LHV of Gaseous Fuels
+            Fuel Component / LHV         Natural Gas       LPG        Digester Gas     Landfill Gas
+     Methane, CH4, % vol.                 80 – 97          0          35 – 65       40 – 60
+      Ethane, C2H6, % vol.                  3 – 15         0 – 2           0            0
+     Propane, C3H8, % vol.                  0 – 3         75 - 97          0            0
+      Butane,C4H10, % vol.                  0 – 0.9         0 - 2           0            0
+      Higher CxH2x+2, % vol.                 0 – 0.2        0 - 2024          0            0
+      CO2, % vol.                         0 – 1.8          0          30 – 40        40 - 60
+      N2, % vol.                           0 – 14          0           1 - 2         0 - 13
+      H2, % vol.                          0 – 0.1          0            0            0
+     LHV, (Btu/scf)                      830 - 1075       2500        300 - 600      350 - 550
+     Source: SFA Pacific, Inc.; North American Combustion Handbook
+
+Contaminants are a concern with many waste fuels, specifically acid gas components (H2S, halogen
+acids, HCN; ammonia; salts and metal-containing compounds; organic halogen-, sulfur-, nitrogen-, and
+silicon-containing compounds such as siloxanes); and oils. In combustion, halogen and sulfur compounds
+form halogen acids, SO2, some SO3 and possibly H2SO4 emissions. The acids can also corrode
+downstream equipment. A substantial fraction of any fuel nitrogen oxidizes into NOx in combustion. To
+prevent corrosion and erosion of components, solid particulates must be kept to very low
+concentrations. Various fuel scrubbing, droplet separation and filtration steps will be required if any fuel
+contaminant levels exceed manufacturers specifications. Landfill gas in particular often contains chlorine
+compounds, sulfur compounds, organic acids, and silicon compounds, which dictate pretreatment.
+
+Once treated and acceptable for use in the engine, emissions performance profiles on alternative fuels
+are similar to natural gas engine performance. Specifically, the low emissions ratings of lean burn
+engines can usually be maintained on alternative fuels.
+
+2.4.7.1   Liquefied Petroleum Gas
+Liquefied petroleum gas (LPG) is composed primarily of propane and/or butane. While propane and
+butane ratings are higher than gasoline, most stationary spark ignition engines are designed with higher
+compression ratios that optimize operation with natural gas and its associated high methane number.
+Use of fuels with lower methane numbers like LPG in natural gas engines requires retarding of ignition
+timing and other appropriate adjustments to avoid detonation (knocking). LPG often serves as a back-up
+fuel where there is a possibility of interruption in the natural gas supply. Off-spec LPG may require
+cooling to condense out larger volumes of butane or heavier hydrocarbons that would aggravate engine
+knock. High butane content LPG is recommended only for low compression, naturally aspirated engines.
+
+2.4.7.2   Field Gas
+Field gas often contains more than 5 percent by volume of heavy ends (butane and heavier), as well as
+water, salts and H2S and usually requires some scrubbing before use in natural gas engines. Cooling may
+be required to reduce the concentrations of butane and heavier components. Field gas usually contains
+
+
+
+24 High levels of heavier hydrocarbons are found in LPG derived from refinery processing
+
+
+Catalog of CHP Technologies                         2–18                         Reciprocating IC Engines

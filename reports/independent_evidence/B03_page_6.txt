@@ -1,0 +1,44 @@
+Environments 2018, 5, 84                                                                                    6 of 13
+
+
+
+3. Results
+
+3.1. Fuel Properties
+
+    The biomass fuel samples obtained from the gasiﬁer at the tissue plant were fractionated into
+ﬁve sizes (Figure 3) using round-hole screens with diameters of 25, 12.5, 6.3, and 3.15 mm, and a pan.
+Figure 4 shows the size distribution of the biomass samples. Almost half of the material were large
+pieces (greater than 25 mm) on day 2, whereas 40% of the mass was between 12.5 and 25 mm on day 1.
+The mass fraction of small pieces (below 3.15 mm) was less than 2% on both sampling days.
+
+
+
+
+
+     Figure 3. The fuel samples were separated into ﬁve sizes. Particle size (x) from the top left to the
+     bottom: x > 25 mm, 12.5 < x < 25 mm, 6.3 < x < 12.5 mm, 3.15 < x < 6.3 mm, and x < 3.15 mm.
+
+
+                      50
+
+        %
+                                                    Day 1                      40
+                                                    Day 2                                                                         fraction, 30
+                                mass 20
+
+                      10                                                                 Particle
+                       0
+                          > 25 mm > 12.5 mm > 6.3 mm > 3.15 mm < 3.15 mm
+                                               Sieve size
+
+
+     Figure 4. Mass fraction of the biomass particles and their size distribution for each day of the test
+     conducted at the tissue plant.
+
+
+    For the UBC gasiﬁer, particle size distribution analysis of the fuel samples shows that about 70%
+of particles falls in between 3.15 and 25 mm. A somewhat smaller fraction of particles is greater than
+25 mm. The samples “as received” at UBC were slightly wetter than the samples at the tissue plant.
+     Table 1 lists the properties of fuel. Fuel MC ranged from 20.6 to 33.3% wb with an average of
+26.8% and standard deviation of 4.3%. Bulk density and caloriﬁc value were 150.7 ± 17.3 kg/m3

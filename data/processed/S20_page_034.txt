@@ -1,0 +1,52 @@
+                Table 10. Possible HTL water ammonia removal/recovery options.
+
+          Option                        Pros                               Cons
+No Treatment (direct recycle   Little/no cost            May cause WWTP effluent nitrogen level to
+to WWTP)                                                      increase.
+NH3 Stripping               Conventional technology;      Organics in NH3 stream may be too high for saleable
+                                Potential recovery of NH3      product; destruction of NH3 is expensive and GHG-
+                            byproduct                       intensive; Does not remove other nitrogen.
+Membrane                      Off-the-shelf; Potential         Potential membrane fouling with organics and/or
+                             recovery of NH3 byproduct;    suspended solids; Organics in NH3 stream may be
+                           Simple system; small          too high for saleable product; Does not remove other
+                                 footprint                        nitrogen.
+Biological (Anammox or       Fairly well-established for     Additional biological operations and associated
+Nitrification-Denitrification)  WWTP AD centrate            potential for upsets; May require methanol (for
+                               treatment                         nitrification-denitrification; No option for product
+                                                           recovery (produces N2 gas).
+
+
+2.4.2   Aqueous Treatment Capital Costs
+
+  A separate, preliminary model for the aqueous phase treatment section was developed with Aspen’s
+electrolyte package to enable more accurate prediction of lime requirements for pH adjustment and get
+initial estimates for capital and operating costs. Capital costs for the lime softening, air stripping, and
+thermal oxidation equipment were estimated with ACCE. Table 11 shows the purchased and installed
+cost for the complete treatment process.
+
+
+               Table 11. HTL aqueous phase ammonia removal system capital costs
+
+                                         Purchased, million     Installed, million
+             Equipment             USD (2014)      USD (2014)               Source
+Lime softening and clarification                 $0.43               $1.04       ACCE, v. 8.8
+Air stripping                                  $0.63               $1.51      ACCE v. 8.8
+Thermal oxidation                             $0.22               $0.53       ACCE, v. 8.8
+Total                                          $1.3                 $3.1
+
+2.5  Centralized Biocrude Upgrading
+
+   The HTL biocrude requires catalytic processing to remove oxygen, nitrogen, and sulfur before it can
+be used as fuel blendstock. Biocrude produced from multiple plants within a geographical area is
+collected at a central facility where it is hydroprocessed and finished into fuel products. The upgrading
+plant is assumed to process 2,700 BPSD of biocrude, which is equivalent to the output of ten HTL
+facilities, each processing 110 dry ton/day sludge. The upgrading plant flow diagram is shown in Figure
+6 and based on that modeled in Jones et al. (2014).  Prior to upgrading, a desalting process similar to that
+used in a petroleum refinery is used to remove inorganic components from the biocrude to prevent
+deactivation of the hydrotreating catalyst. The biocrude is then pumped to ~1500 psia, mixed with
+compressed hydrogen, and preheated to the hydrotreater reactor temperature of ~750°F (400°C).
+Hydrogen is produced onsite via steam reforming of the process off-gas and additional purchased natural
+
+
+
+                                         19

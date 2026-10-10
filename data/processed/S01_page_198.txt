@@ -1,0 +1,58 @@
+Vegetable Oils
+
+
+
+OLIVE OIL, ITALIAN? liquid; The saponification number, which is the mean molecular
+   weight of the fatty acids present in the molecule = 194. The amount of iodine
+   absorbed and expressed as a percentage of the molecular weight (a measure of the
+   proportion of unsaturated fatty acid present) called the iodine number = 96.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58" to 131°F).
+
+   temperature                      Ho(t)-Ho(-50"C)
+  ,("C)  ( O F )       Btu lb-I                cal g-1                J g-l
+
+    -50    -58              0.00                     0.00                    0.00
+    -25    -13            17.10                     9.50                  39.75
+     0    32           62.08                  34.49                144.3 1
+    25    77           91.51                  50.84                212.71
+    50   122         1 12.73                   62.63                 262.04
+    55   131          117.02                  65.01                272.00
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58" to
+   13 1OF).
+                1   Lf   36.5 Btu lb-
+   Lf   20.3 cal
+
+
+                                                                     55r1e
+
+PALM OIL, HARDENED; solid; The saponification number, which is the mean molecular
+   weight of the fatty acids present in the molecule = 199. The amount of iodine
+   absorbed and expressed as a percentage of the molecular weight (a measure of the
+   proportion of unsaturated fatty acid present) called the iodine number = 60.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58" to 131°F).
+
+   temperature                          H"(t)-H"(-50° C)
+  ("C)   (OF)       Btu lb-'                cal g-'                J g-l
+
+    -50    -58              0.00                    0.00                    0.00
+    -25    -13            16.24                    9.02                  37.74
+     0    32           36.99                  20.55                 85.98
+    25    77            73.98                   41.10                171.96
+    50   122          126.58                  70.32                294.22
+    55   131          131.02                  72.79                304.55
+
+   heat of fusion: result is a mean value for temperature range -50"  t o 55°C (-58O  t o
+    131°F).
+                 1    Lf   57.2 Btu Ib-
+                  1    Lf   31.8 cal g-
+    Lf   133.1 J g-l
+
+                                                                     55r1e
+
+
+
+
+                                       220

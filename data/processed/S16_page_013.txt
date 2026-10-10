@@ -1,0 +1,55 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+
+        Licence.
+        Unported
+   3.0
+PM.
+6:34:53
+6/21/2024on Attribution-NonCommercial
+
+             Fig. 6  TGA traces from TGA-FTIR with EGA for several polymers with tentatively identiﬁed products. (A) PE-2 exhibited weight loss events of 1 wt%
+           butylhydroxytoluene and 98 wt% alkanes, with a representative compound shown. (B) PVC-2 displayed a weight loss of 2 wt% 5-norbornene-2,3-
+            dicarboxylic                       anhydride,                            54 wt%                                   HCl                                       and                                              benzene,                                                   and                                                     24                                                  wt% 1-chlorooctane.                                                                                                  (C) PS-2                                                                              showed                                                                                                 weight                                                                                                                          loss events of 2                                                                                                wt%                                                                                                                       pentane                                                                                                                       and 94                                                                                                               wt%Downloaded Commons            styrene. (D) PU-1                             exhibited                                   weight                                                 loss                                                events                                                         of 48                                               wt%                                                                  cyclohexyl                                                                                isocyanic acid                                                                              and 45                                                                                        wt%, of                                                                                                           1,2-dibutoxyethane.                                                                                                                                                               (E)                                                                                                                   EVA-3                                                                                                                                          displayed                                                                                                                                       weight
+            loss               events                       of 77                     wt%                                 styrene                                  and 3-methyl-1-phenyl-3-pentanol.                                                                                                  (F) PMMA-1                                                                           which                                                                              had two                                                                                              weight                                                                                                                      loss                                                                                                             events                                                                                                                         of methyl                                                                                                                            methacrylate                                                                                                                                                                at 12% and2024.          85%.              TGA-FTIR                       can                             provide                                     information                                       on thermal stability, structural                                                                                           insight, and                                                                                                indicate                                                                                              the                                                                                             presence                                                                                                                 of                                                                                                                          additives                                                                                                           above 1                                                                                                                   wt%.        Creative
+
+ a
+March26 under
+         lower concentrations. This highlights the importance of using  which was not reported by suppliers. For example, PS-5 was
+on
+         multiple techniques to characterize the chemical composition   reported to be 35 kDa (Mw) by the supplier but the Đ was not        licensed
+  is     of polymers, including ICP-MS and mass spectrometry.          provided. GPC results for PS-5 indicate that it has a bimodalPublished                                                                  molecular mass distribution with an Mw at approximately
+       article    Gel permeation chromatography (GPC)                       35 kDa across both distributions (Fig. 7). Several other poly-
+                                                             mers were found to exhibit bimodal molecular mass distri-Article. This    Molecular mass distributions are critical polymer character-
+                                                                     butions including PBT-1, PET-2, PET-3, and PVC-2 (Fig. S15†).
+Access         isticsbility thatin solvents.78impact multipleMoreover,properties77molecularas wellmassasandpolymerdispersitysolu-
+Open       of polymers can impact yields and speciation of products        depending on the recycling technology.79,80 Accordingly, GPC
+        was used to measure the weight-average molecular mass (Mw),
+         number-average molecular mass (Mn), and dispersity (Đ) of the
+         59 polymers analyzed here. Since diﬀerent polymer classes are
+          soluble in diﬀerent solvents, each polymer required specific
+         conditions for GPC. For this study, two types of GPC systems
+         were used including (1) a GPC system with dual multi-angle
+           light scattering (MALS) and diﬀerential refractive index (dRI)
+          detectors and (2) a high temperature GPC (HT-GPC) with a dRI
+          detector. When possible, the system with both MALS and dRI
+          detectors were used, because a MALS detector allows for the
+          absolute measurement of Mw. Several polymer classes includ-
+         ing PE, PP, and EVA required the use of HT-GPC to solubilize
+         the polymer, despite the lack of a MALS detector. Table S11†
+            lists the GPC conditions for each polymer class used in the                                                                                                   Fig. 7 GPC trace for PS-5 using a multi-angle light scattering (MALS)
+         study including  solvents, columns, and  detectors. In  this   and a diﬀerential refractive index (dRI) detector. Retention times 21 min
+          section, we present important results and discuss several limit-   (Mw 113.6 kDa) and 26 min (Mw 1.8 kDa) show two unique molecular
+          ations of GPC.                                               mass distributions. Other GPC traces for bimodal polymers can be
+                                                                          found in Fig. S15.† While MALS is not aﬀected by non-ideal column
+          Once analyzed, we compared the molecular masses to those
+                                                                                             interactions, dRI can provide relative concentration of molecular mass
+         reported by suppliers. Many suppliers only provide a single                                                                                               distributions. The operating conditions included using THF as the mobile
+        number, which we found more likely to correlate with Mw.   phase, a ﬂow rate of 1.0 mL min−1, column oven temperature set to
+          Additionally, most molar mass  distributions  were  broad,  40 °C, and a sample injection of 100 µL.
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                            Green Chem., 2024, 26, 7067–7090  | 7079

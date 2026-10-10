@@ -1,0 +1,62 @@
+may allow 5 years of engine life). No known property     lubricating ability, but  it also increases cranking
+of clean producer gas should shorten engine life. One     requiremɯnts.
+truck, which has been driven 100,000   on producer                        km                                                          Dirty gas can introduce tar particulates and corrosivesgas without any unusual maintenance problems, is
+                                                            into the oil through cylinder blowby. Particulates in theshown in Fig. 11-17.
+                                                                           oil, arid ash and char accumulation in crankcase oil can
+Many of the clean-up mechanisms outlined in Chapter     increase engine wear. Particles larger than the oil-film
+8 have yet to be applied to producer gas cleanup, and     thickness may scratch bearing surfaces; however, char
+the gas in the bulk of today's test and production sys­    and ash tend to be easily crushed to smaller particles,
+tems is far from clean enough for reliable operation,    minimizing this problem. If ash slagging occurs, harder
+much less long-life operation. We will discuss the ef­     abrasive particles are produced that could cause severe
+fects of dirty gas on engine  life in the following     wear. Small amounts of sodium from ash in either the
+sections.                                                  lubricating oil or the fuel gas can lead to engine valve
+                                                            corrosion. It becomes obvious that particulate removal
+11.1 2.2 Sticking Intake Valves                            is very important to engine life at many levels.
+Tar mists and dusts form an asphalt-like deposit                                                      11.12.4 Tar/Oil Accumulations
+around the intake valve stems. Valve-sticking is more
+a problem of accumulated deposits than of engine wear.     Tar/oil mists occur as very finely divided droplets
+Sluggish valve closing decreases power until cylinder   much smaller than char and ash. Therefore, they are
+compression is lost. The valves may be reconditioned    much more difficult to remove from the gas and are
+and cleaned, and the engine returned to service    more likely to cause engine problems. Tar accumula­
+without serious damage to the rings and bearings.     tion does not cause wear; rather, it causes moving parts
+Intake valve sticking can be corrected without a     to stick, and plugs passages, intake valves, throttle
+complete engine overhaul. However, sticking valves     valves, and piston rings. Tar deposits become a viscous
+clearly indicate the need for a more efficient cleanup     fluid at engine operating temperature; on cooling and
+system (Chapter 8) and possibly redesign ofthe gasifier     drying, they can become a hard varnish that will
+for a higher hearth load to reduce tar production. (See     prevent or hinder engine startup, or bend a pushrod in
+Chapter 5 for information on gasifier sizing and     the event of full valve seizure. The best cure is preven­
+design.)                                                  tion through the cleaning methods of Chapter 8 and
+                                                             verification of gas cleanliness regularly, using the tests
+Based on cylinder, bearing, and cam wear, a life-expec­
+                                                       of Chapter 7.
+tancy of 5000 hours was estimated for an engine after
+extended tests with gas so dirty that the valves required    Mild valve-sticking can sometimes be reduced or
+cleaning eight times in the first 1000 hours (Breag     prevented by operating the engine on liquid fuels
+1982).                                                       (especially methanol) for a short time before shutdown.
+                                                 This tends to rinse tar accumulations into the
+11.12.3 Oil Thickening and Contamination          crankcase oil, where they do less damage. This tech­
+                                                  nique may merely prolong the time lag between repair,In gasoline engines, gasoline vapors from blowby tend
+                                               and delay use of proper cleanup techniques.to thin oil with time. With clean producer gas, the
+volatile motor oil fractions evaporate, causing the oil     Oil should be changed when it is visibly dirty or exces­
+to thicken naturally. Thickening improves the  oil's     sively thick. Crankcase oil analyses are more widely
+                                                            available today than in the past and can help diagnose
+                                                       causes of engine wear.
+
+                                                     11.12.5 Engine Corrosion
+
+                                                        Corrosive engine cyclinder wear increases with low
+                                                        operating temperatures as shown in Fig. 11-18. Below
+                                                            120'F, bearing corrosion, cylinder wear, and ring wear
+                                                                 rise rapidly with increased water condensation and
+                                                          corrosive hydrolysis products due to carbonic acid.
+                                               Below 185'F, cylinder and ring wear depends on oil
+                                                consumption and oil-film thickness. Above 185'F,
+                                                wear is minimal and independent of oil-film thickness
+                                                (Mahin, June 1983). Wear  is maximum after a
+                                                       cold-engine startup; preheating the engine block toFig.  1 1-17. Swedish logging truck that operated 100,000 km on
+producer gas without any unusual maintenance  (Source: NAS 1983,    120'F before startup can minimize this wear for
+p. 46)                                     maximum engine life.
+
+
+
+1 1 6    Handbook of Biomass Downdraft Gasifier Engine Systems

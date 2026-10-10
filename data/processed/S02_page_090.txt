@@ -1,0 +1,22 @@
+co
+'"                                                     Table 8-4. Filter Fabric Characteristics
+
+                            Operating                            Air
+I                       Exposure (OF)      Supports    Permeability"                                     Resistanceb to'"
+ :::l0.        Fiber           Long     Short   Combustion      (cfm/fl2)     Composition     Abrasion   Mineral Acids   Organic Acids    Alkali   Cost Ranke
+­
+oo        Cotton           180       225       Yes           10-20        Cellulose         G         P          G         G               1
+S.;>C       WoolNylond           200200       250250       YesNo           20-6015-30       PolyamideProtein          GE         PF            FF         GP         27
+                                   275       Yes          20-45        Polyacrylonitrile     G        G         G           F         3 15'OJ        Orion            240                         275      325       Yes           10-60       Polyester           E        G         G         G         43        Dacrond
+                        200      250       Yes          7-30         Olefin             E          E            E           E         6          Polyproiylene        Nomex           425       500       No           25-54       Polyamide          E          F            E         G         8oƂ         Fiberglass        550       600       No                1 0-70       Glass               P-F        E            E          P         5Ǧ:::l        Teflond          450      500       No                1 5-65        Polyfluoroethylene    F          E            E           E         9
+0.
+             8cfm/ft2 at 0.5 in. water gauge
+                 poor, F = fair, G = good, E ::: excellent.m,G:>       bp =
+           eCost rank, 1 = lowest cost, 9 = highest cost. el:;;               Pont registered trademark. <ii'       dOu
+m         Source: After Kaupp 1984a, Table 51.
+ :::l
+(Q
+S'
+ CD
+ (J)
+*Ul3

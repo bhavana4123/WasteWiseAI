@@ -1,0 +1,50 @@
+                                                                      Foods
+
+
+
+LARD, GERMAN COMMERCIAL; solid; The saponification number, which is the mean
+   molecular weight of the fatty acids present in the molecule  202. The amount of
+    iodine absorbed and expressed as a percentage of the molecular weight (a measure of
+   the proportion of unsaturated fatty acid present) called the iodine number = 49.
+
+   enthalpy difference: temperature range measured -50"  t o 55°C (-58'  to 131°F).
+
+   temperature                       Ho(t)-Ho(-500C)
+  ("C)  (OF)      Btu lb-l               cal g-l              s g-1
+
+    -50    -58             0.00                    0.00                  0.00
+    -25    -13           13.73                   8.74                36.57
+    0   32        4 1.40                  23.00                96.23
+    25    77          78.12                  43.40                181.59
+    50   122         122.90                 68.28               285.68
+    55   131          127.5 1                 70.84                296.39
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58O to
+     131'F).
+                         1   Lz = 52.6 Btu lb:
+    L; = 29.2 cal g-'
+   Lf = 122.2 J g-l
+
+                                                                      55RIE
+
+MALTING BARLEY; solid; Grain was heavily husked; sample (A) was as harvested from
+    field (germination was loo%), sample (B)was wetted by addition of water or water
+    vapor, and sample (C)was dried in a vacuum at 30°C (86°F).
+
+    specific heak temperature range 273-291 K (32"-64"F),data are mean values with
+   standard error in parentheses and moisture content (M) on a wet weight basis.
+
+    Sample  M
+                                                       cP                cP                                                                                              1   -1        %        (Btu lb-                 (cal g-l K-')          (f g- K   )
+
+     A       13.8       0.387(0.0026)          0.387(0.0026)        1.619(0.0109)
+      B       16.5        0.436(0.0026)           0.436(0.0026)         1.824(0.0109)
+     C       9.4         0.359(0.00 16)          0.359(0.0016)        1.502(0.0067)
+
+                                                                        54DIS
+
+
+
+
+
+                                      91

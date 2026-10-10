@@ -1,0 +1,47 @@
+Ablative pyrolysis
+Ablative pyrolysis is substantially
+different in concept from other methods
+of fast pyrolysis.13 In all the other
+methods, the rate of reaction is limited by
+the rate of heat transfer through the
+biomass particles, which is why small
+particles are required.The mode of
+reaction in ablative pyrolysis is like
+melting butter in a frying pan - the rate
+of melting can be significantly enhanced
+by pressing the butter down and moving it
+over the heated pan surface. In ablative
+pyrolysis, heat is transferred from the hot
+reactor wall to ‘melt’ wood that is in
+contact with it under pressure.The
+pyrolysis front thus moves uni-
+directionally through the biomass
+particle. As the wood is mechanically
+moved away, the residual oil film both
+provides lubrication for successive
+biomass particles and also rapidly
+evaporates to give pyrolysis vapours for
+collection in the same way as other
+processes.The rate of reaction is strongly
+influenced by pressure, the relative
+velocity of the wood and the heat
+exchange surface and the reactor surface    Figure 5: BTG 50 t/d rotating cone fast pyrolysis plant in Malaysia
+temperature.The key features of ablative
+pyrolysis are therefore:
+• High pressure of particle on hot reactor wall, achieved due to mechanical force (Aston
+   University) or centrifugal force (NREL).
+• High relative velocity between particle and reactor wall.
+• Reactor wall temperature less than 600°C.
+
+
+As reaction rates are not limited by heat transfer through the biomass particles, large
+particles can be used and in principle there is no upper limit to the size that can be
+processed.The process in fact is limited by the rate of heat supply to the reactor rather
+than the rate of heat absorption by the pyrolysing biomass, as in other reactors.There is
+no requirement for inert gas, so the processing equipment is smaller and of potentially
+lower cost. However, the process is surface-area-controlled so scaling is a linear function
+of the heat transfer area and thus does not benefit from the economies of scale of other
+systems such as fluid beds. In addition, the reactor is mechanically driven and is thus
+more complex. PyTec has recently started operating a 50 t/d demonstration plant in north
+Germany 14, (Figure 6); and a small research unit operates at Aston University 13,
+(Figure 7).                                                                      9

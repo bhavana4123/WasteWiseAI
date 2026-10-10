@@ -1,0 +1,55 @@
+The desiccant container should be sealed for transport
+ and weighing. Raw-gas moisture measurement is
+ essential to mass balance calculations.
+Finally, where volume is measured (Fig. 7-12(a) and
+ (cll, means must be provided to pull a known quantity
+ of gas through this train. Hand-held positive displace­
+ment vacuum pumps are made by a number of sup­                    Metal gas sample container
+ pliers  (e.g., Mine Safety, Draeger, and Gelman). We
+have also used a hand-held rubber aspirator bulb and
+found that 70 strokes collected 3 L of gas (0.1 ft3). We
+also have used a Dwyer smoke test pump. The gas meter
+is required only for initially calibrating the sampling
+                                                                      Type Ctrain and pump, since counting strokes yields adequate                1f<===",5i4precision for measuring the test-gas volume. A decision
+on the amount of gas to be sampled should be based on
+the anticipated impurities in the gas and the con­
+taminant sample quantity required for the specific
+analysis methods available. For instance, 50% grey                        Type F
+scale analysis requires a 0.5 mg sample on a 47 mm                                                                       Glass gas sample containers
+filter disc.
+Weighed samples require a 5 to 30 mg sample size for     Ag. 7-13. Gas sample containers  (Source: Strauss 1975, p.  13.
+analytical balances with 0.1 mg readability.            © 1975. Used with permission of Pergamon Press)
+
+7.5.2 Cleaned Gas
+                                      When possible, the sample cylinder should be
+If the gas is cleaned sufficiently for engine use, it will     evacuated or. alternatively, should be very thoroughly
+be necessary to pass a much larger sample (usually     flushed. The cylinder should be filled to at least a small
+1 m3) through the filter. A mechanical pump capable     positive pressure from the pump (Fig. 7-14), so that air
+of pulling a moderate vacuum, such as a motor-driven    cannot leak in before analysis. A positive pressure
+vacuum pump or a calibrated air-sample pump, is    sample can be collected without a pump by chilling the
+recommended. The positive-displacement meter can     cylinder before the gas is taken, so that a positive pres­
+also be located in the collection train between the     sure develops as the gas in the cylinder warms to room
+pump and the gas return if the system pressure is close     temperature. Gas samples should be drawn from a
+to atmospheric pressure. It is imperative to protect the     point as close as practical to the gasifier outlet, in order
+pump and meter with a large absolute filter because any     to avoid errors due to air leaks in the gasifier piping.
+tar or particulates entering the pump or meter will
+                                                          Usually, any oxygen found in the gas can be attributedrapidly affect their performance.
+                                                            to air leaks, since oxygen is completely removed in the
+                                                                      gasifier. When oxygen is found in the gas, the composi­
+7.6 Chemical Gas Composition                                                          tion can be converted to an "air-free" basis by subtract­
+                                                       ing the oxygen and the corresponding ratio of nitrogen7.6.1 Gas Samples for Chemical Analysis                                                             (the        ratio in air is 79/21).                                                    Nzl02
+The gas composition can be measured either con­                                            Some gas sample containers are shown in Fig. 7-13. Atinuously (on-line) or through discrete samples taken                                                      rubber septum is a desirable feature that permits one toperiodically from the gas stream. These methods will                                                             extract the gas sample with a hypodermic syringe forbe discussed separately. Before the gas is analyzed, it                                                            injection into a gas-chromatograph without openingmust be drawn from the system and cleansed of tar and                                                       the stopcocks. The hypodermic syringe for injectingparticulate contaminants, as described previously.
+                                                     samples into the gas chromatograph should have a
+Batch-sampling requires collecting a sample of gas in     valve at the needle that can be closed between filling
+a suitable container (e.g., glass cylinder, metal cylinder.     the syringe and analysis. Valved syringes are available
+Tedlar gas sample bag or syringe], as shown in Fig. 7-13.     as accessories from gas chromatograph manufacturers.
+The subsequent analysis is only as good as the sample.    The metal cylinder of Fig. 7-13 can contain gas at a
+and it is easy for gas leaks to spoil a sample after it has    much higher pressure than the glass system. It is iro­
+been taken. Therefore, it is important to use extra care     portant to use leak-proof valves rather than needle
+to avoid leaks either into the sampling train while the     valves on this container and to avoid stopcock grease,
+sample is being taken or out of the sample bulb before    which has a high hydrogen solubility. A syringe also
+the analysis is made.                                can be used to collect a gas sample. If standard gas
+
+
+
+                                                                        Gas Testing    61

@@ -1,0 +1,37 @@
+COMPONENT             UNITS     508       535       559       560       571       572
+Total Flow                         kg/hr     391,501    355,024    12,105     12,044     36,538    355,024                                                                                                                                                                                                                              Heat Stream      Gcal/hr Work Stream       kW    Gcal/hr
+Insoluble Solids          %       5.9%      0.1%      0.0%      0.0%     62.3%     0.1%                                                                                                                                                                                               QM505            0.093 WC501                7      0.006
+Soluble Solids           %       6.2%      6.6%      0.0%      0.0%      2.5%      6.6%                                                                                                                                                                                               QM507            0.733 WC502              11      0.009
+Temperature                  °C       47        47        80        55        55        47                                                                                                                                                                                                     WM505             112      0.096
+Pressure                     atm        6.3         3.9         6.9         6.9         6.9         1.0                                                                                                                                                                                                     WM507            1043      0.897
+Vapor Fraction                               0.0         0.0         1.0         1.0         0.0         0.0                                                                                                                                                                                                             WP530              37      0.032
+Ethanol                            kg/hr      184       177                  1         6        177                                                                                                                                                                                                             WP531              76      0.066
+Water                             kg/hr     341,765    329,030     237       175      12,797    329,030                                                                                                                                                                                                           WP532                7      0.006
+Glucose (SS)                      kg/hr      521       502                  0        19       502                                                                                                                                                                                                             WP533              11      0.010
+Xylose (SS)                        kg/hr      1,062      1,022                 0        40        1,022                                                                                                                                                                                                            WP581              37      0.032
+Other sugars (SS)                 kg/hr      2,175      2,094                 0        81        2,094                                                                                                                                                                                                                     WT530                6      0.005
+Sugar Oligomers (SS)             kg/hr      1,612      1,552                 0        60        1,552
+Organic Soluble Solids (SS)       kg/hr     16,420     15,808                 0        612      15,808
+Inorganic Soluble Solids (SS)      kg/hr      2,610      2,513                          97        2,513
+Ammonia                          kg/hr       0         0                   0         0         0
+Acetic Acid                        kg/hr
+Sulfuric Acid                       kg/hr
+Furfurals                           kg/hr      533       513                  1        19       513
+Other Organics                    kg/hr      1,400      1,348                 0        52        1,348
+Carbon Dioxide                    kg/hr
+Methane                           kg/hr
+O2                                 kg/hr       0         0        2,764      2,764       1         0
+N2                                 kg/hr       0         0        9,104      9,103       1         0
+CO/SOX/NOX/H2S                kg/hr       0         0                                       0
+Cellulose (IS)                      kg/hr      1,255       25                              1,230       25
+Xylan (IS)                          kg/hr      423        8                            415        8
+Other Struct. Carbohydr. (IS)       kg/hr       96        2                            94        2
+Acetate (IS)                        kg/hr
+Lignin (IS)                         kg/hr     12,475      250                            12,226      250
+Protein (IS)                        kg/hr      3,445       69                              3,376       69
+Cell Mass (IS)                     kg/hr      944       19                           925       19
+Other Insoluble Solids (IS)          kg/hr      4,581       92                              4,489       92
+Carbon Mole Flow               kmol/hr     1,738      801                  0        937       801
+COD                               kg/hr     57,393     25,900                 4       31,489     25,900
+LHV | 25°C                       Gcal/hr       3.8       100.8         -0.2         -0.1        -97.3      100.9
+                                                                                                           125

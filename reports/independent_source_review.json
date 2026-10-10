@@ -1,0 +1,46 @@
+[
+  {
+    "source_id": "S01",
+    "source_url": "https://www.nlr.gov/docs/legosti/old/2839.pdf",
+    "file": "reports\\independent_evidence\\S01_fresh.pdf",
+    "reviewed_sha256": "60255fa30ac8ec2f885ff59496a224eb7a34f2ebe177df2625c65df5c2fb50a0",
+    "fresh_copy_matches_reviewed_snapshot": true,
+    "matches_archived_original": true,
+    "evidence_location": "PDF p182 / printed p201, Refuse entries A\u2013D",
+    "status": "VERIFIED_SOURCE",
+    "scope": "Fresh original report inspected, not independent experimental replication; S01/S02 are secondary compilations."
+  },
+  {
+    "source_id": "S02",
+    "source_url": "https://www.nlr.gov/docs/legosti/old/3022.pdf",
+    "file": "reports\\independent_evidence\\S02_fresh.pdf",
+    "reviewed_sha256": "1b7ade7b865b1fccaab471a3e985c9bdb96a5a4690fe14783473a44d5f21db46",
+    "fresh_copy_matches_reviewed_snapshot": true,
+    "matches_archived_original": true,
+    "evidence_location": "PDF p76 / printed p68, Table 7-8",
+    "status": "VERIFIED_SOURCE",
+    "scope": "Fresh original report inspected, not independent experimental replication; S01/S02 are secondary compilations."
+  },
+  {
+    "source_id": "S03",
+    "source_url": "https://www.epa.gov/system/files/documents/2024-08/ebmud-final-report-anaerobic-digestion-of-food-waste-2008-03.pdf",
+    "file": "reports\\independent_evidence\\S03_fresh.pdf",
+    "reviewed_sha256": "b44ddc9b6a34f592a04156118484cc35dc37acd24ef500aac9e9eefaed8f649d",
+    "fresh_copy_matches_reviewed_snapshot": true,
+    "matches_archived_original": true,
+    "evidence_location": "PDF p48 / printed p33, Table 3.11 and notes 1,2,5,9\u201311",
+    "status": "VERIFIED_SOURCE",
+    "scope": "Fresh original report inspected, not independent experimental replication; S01/S02 are secondary compilations."
+  },
+  {
+    "source_id": "S07",
+    "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+    "file": "reports\\independent_evidence\\S07_fresh.pdf",
+    "reviewed_sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+    "fresh_copy_matches_reviewed_snapshot": true,
+    "matches_archived_original": true,
+    "evidence_location": "PDF / printed p5, Table 1; qualification text pp6,12\u201313",
+    "status": "VERIFIED_SOURCE",
+    "scope": "Fresh original report inspected, not independent experimental replication; S01/S02 are secondary compilations."
+  }
+]

@@ -1,0 +1,56 @@
+                                                 Woody and Tree Materials
+
+
+
+REDWOOD, MILL WASTES; solid; Material is considered biomass fuel and has proximate
+   analysis values (in percent by weight dry basis) for volatile concentration (VCM)
+    81.19, ash content = 0.18, and fixed carbon = 18.63.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 9026 Btu lb- 1
+    q,(gross)  = 5014 cal g-l
+    q,(gross)  = 20980 J g-'
+
+                                                             85JEN/EBE
+
+REDWOOD, SAPWOOD; solid; Material is considered biomass fuel and has proximate
+   analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    80.12, ash content   0.67, and fixed carbon   19.21.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross)  8738 Btu lb- 1
+    q,(gross) = 4854 cal g-l
+    q,(gross) = 20310 J g-l
+
+                                                                       85 JEN/EBE
+
+SEQUOIA, GIANT; Sequoiadendron giganteurn; solid; Material was obtained from
+    Whitaker's Forest in Tulare County, California, with predominant soil series of Shaver
+   sandy loam derived from granitic parent material. The layer was collected from the
+   understory of the forest floor. Average yearly decomposition of the forest floor for
+    giant sequoia is:  litter, 2.77%; duff, 11.40%.
+
+   gross heat of combustion: assume values refer to room temperature; ash-free.
+
+   branch-twig                                  duff
+    q,(gross) = 8885 Btu lb- 1                                                 qv(gross) = 9225 Btu  lb;'
+   qv(gross) = 4936 cal g-'                      qv(gross)  5123 cal g-
+    qv(gross) = 20652 3 g-'                          q,(gross)  = 21435 J &-I
+
+    litter
+
+    q,(gross) = 9196 Btu lb-
+    q,(gross)  = 5109 cal g-l
+    qv(gross) = 21376 J g"'
+
+                                                      78AGEIWAK
+
+
+
+
+
+                                        293

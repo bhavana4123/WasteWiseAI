@@ -1,0 +1,53 @@
+Plant Materials (Non-Woody)
+
+
+JUPITER'S-DISTAFF; Satvia glutinosa;solid; Material is an integral part of the
+   ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulrnonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+    is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated t o a dry basis.
+    qv(gross)  8158 Btu Ib- I
+    qv(gross) = 4532 cal g-l
+    qv(gross) = 18962 J g-l
+
+                                                          73PAU/BRE
+
+LADY FERN; Athyrium filix-femina; solid; Material is an integral part of the ecosystem
+   at the herbaceous layer level of the mixed fir and beech forest in the Pulmonario
+    (rubro) Abieti-Fagetum area of the Bucegi mountains (two different stations) in
+   Romania. The plants have the following constitution: 33% of the weight is
+   represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer to room temperature and values are
+   calculated t o a dry basis.
+
+    qv(gross)  7335 Btu lb;'
+    qv(gross)  4075 cal g-
+    qv(gross) = 17050 J g-'
+
+                                                          73PAU/BRE
+
+LETTUCE MURALIS; MyceZis muratis; solid; Material is an integral part of the
+   ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+     is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period,
+
+    gross heat of combustion: assume values refer to room temperature and values are
+    calculated to a dry basis.
+    qv(gtoss) = 8042 Btu lb; 1
+    qv(gross) = 4468 cal g-    qv(gross) = 18694 J g- 1
+
+                                                          73PAU/BRE
+
+
+
+
+
+                                       152

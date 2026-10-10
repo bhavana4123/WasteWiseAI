@@ -1,0 +1,53 @@
+                                                                      Animals
+
+
+
+BARNACLE; Balanus  curiosus;  solid;  invertebrate  animal;  crustacean  of  the order
+          , Cirripedia.
+
+    gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+
+    q,(gross)  = 8136 Btu lbll
+    q,(gross)  = 4520 cal g-
+    q,(gross)  = 18912 J g-l
+
+                                                                       71PAI
+
+BEETLE; Tenebrio molitor; solid; an insect of the order Coleoptera.
+
+   gross heat of combustion: assume values refer to room temperature and are corrected
+    for moisture and ash content.
+    qv(gross) = 11365 f 929 Btu 1P-'    q,(gross)  = 6314 2 516 cal g-
+    q,(gross) = 26418 f 2159 J g-l
+
+                                                                          6 lSLO/RIC
+
+BIVALVE; Mytilus californianus; solid; Invertebrate animal composed of two parts that
+   open and shut, such as oysters and clams; mollusks.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected for moisture and ash content.
+
+    q,(gross)  = 8280 Btu lbll
+    qv(gross) = 4600 cal g-
+    qv(gross) = 19246 J g-l
+
+                                                                            7 1PA1
+
+BRACHIOPOD; Glottidiu pyramidczta; solid; A class of Molluscoida having bivalve shells.
+
+   gross heat of combustion: assume values refer to room temperature and are
+   corrected to an ash-free basis.
+
+    q,(gross)  = 7915 k 3852 Btu  lb;'
+    q,(gross)  = 4397 k 2140 cal g-
+    qv(gross) = 18396 f 8954 J g-'
+
+                                                                          6 1SLO/RIC
+
+
+
+
+
+                                        55

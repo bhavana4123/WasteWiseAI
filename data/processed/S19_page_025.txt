@@ -1,0 +1,48 @@
+deacetylated biomass (the cost of that usage is included in the purchased sulfuric acid cost in the
+techno-economic model), but much of this acid is removed when the impregnated corn stover is
+dewatered and does not enter the pretreatment reactor. The direct cost benefit of lower acid
+loading in pretreatment is that the neutralization ammonia usage is reduced, as is the formation
+of inhibitors (such as HMF and furfural), while effective pretreatment performance is
+maintained. The effective sulfuric acid concentration in the pretreatment reactor (estimated at
+0.3–0.4 wt% after dilution by condensing steam is accounted for) may allow for the use of lower
+cost metallurgies in the reaction zone (such as 904L or other duplex stainless alloys) instead of
+Incoloy-clad carbon steel, which could reduce pretreatment equipment costs. However, relevant
+corrosion data under these conditions are not available, so in the FY 2012 SOT model, Incoloy-
+825 cladding is still conservatively assumed for the material of construction (consistent with the
+2011 design report). The potential impacts of lower cost metallurgy and other pretreatment
+reactor cost savings measures are addressed in the sensitivity analysis.
+
+           Table 9. Pretreatment Conditions Applied in the 2011 and 2012 SOT Models
+                  Metric               2011 SOT               2012 SOT
+            Sulfuric acid loading        22 mg/g dry biomass       9 mg/g dry biomass
+         Residence time                 5 min                  10 min
+         Temperature                   158°C                  160°C
+          Pressure                          5.5 atm                     5.5 atm
+        TS loading                     30 wt%                 30 wt%
+
+
+The deacetylation step uses milled corn stover soaked in a NaOH solution at 80°C for 2 h, with a
+NaOH loading of 0.009 g/g dry biomass. The deacetylated corn stover is dewatered by draining
+through screens at the bottom of the deacetylation reactor. The drained liquor, often referred to
+as black liquor, contains 20%–25% of the original dry biomass constituent material, including
+water extractives, soluble ash constituents, and 33% of lignin, 2% of xylan, and 88% of acetate
+that was originally present in the feedstock (dry basis); this black liquor stream is sent to
+wastewater treatment in the model. The deacetylated feedstock (containing the remaining 75%–
+80% of the dry biomass) is fed to the continuous pretreatment reactor upon acid impregnation
+and dewatering to achieve an actual sulfuric acid loading of 9 mg/g dry feedstock. The reaction
+proceeds at 160°C for 10 min. The pretreated slurry is cooled and conveyed to enzymatic
+saccharification and fermentation. Note that in this design (and as demonstrated in the pilot-scale
+runs), the secondary thermal oligomer conversion step is no longer needed.
+
+The FY 2012 pretreatment target yield of monomeric xylose from xylan is 90%. The FY 2012
+SOT demonstrated an overall 82% yield of monomeric xylose from all combined
+thermochemical and enzymatic processes, and demonstrated monomer arabinose yield higher
+than 95%. Although the monomeric xylose yield is below the technical target of 90%,
+subsequent xylose-to-ethanol yields achieved are substantially higher than their technical target,
+meaning that the effective conversion of xylan to ethanol is only slightly lower than the overall
+target.
+
+
+
+
+                                      18

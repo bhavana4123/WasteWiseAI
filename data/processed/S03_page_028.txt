@@ -1,0 +1,34 @@
+3.4    Digester Gas Production
+
+Organic carbon (as represented by chemical or biochemical oxygen demand) is removed in
+anaerobic digesters through its conversion into methane and carbon dioxide gas by methanogenic
+bacteria. Gas production is an indicator of how well the anaerobic digestion process is
+performing. Gas production is influenced by the characteristics of the waste stream applied to
+the digester, digester temperature, and organic loading rate to the digester. For example, fats and
+greases have a higher gas production rate per unit mass destroyed than proteins or carbohydrates.
+Gas production will also be influenced by how readily wastes are biodegraded.
+
+Gas production was monitored continuously and then averaged on a daily basis. Table 3.4
+summarizes the gas production during each operational period. Figure 3.4 presents the gas
+production for both the mesophilic and thermophilic digesters during the study. The gaps
+between data points resulted from leaks in the gas line, which were repaired after restarting the
+digesters.
+
+Table 3.4. Bench-scale Anaerobic Food Waste Digester Gas Production Summary.
+ Target MCRT,      Mesophilic Digester Gas        Thermophilic Digester Gas
+      days              Production, L/hr                Production, L/hr
+             AVG         SD        AVG         SD
+      15               4.0               0.7               4.8               1.6
+      10               4.5               0.8               5.4               1.5
+       5         NA        NA        NA        NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               13
+Funding Opportunity No. EPA-R9-WST-06-004

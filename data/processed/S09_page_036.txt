@@ -1,0 +1,50 @@
+that it “drives” the reaction closer to the 99.7% yield we need to meet the total glycerol standard
+for fuel grade biodiesel. The unused alcohol must be recovered and recycled back into the
+process to minimize operating costs and environmental impacts. Methanol is considerably easier
+to recover than the ethanol. Ethanol forms an azeotrope with water so it is expensive to purify
+the ethanol during recovery. If the water is not removed it will interfere with the reactions.
+Methanol recycles easier because it doesn’t form an azeotrope.
+
+These two factors are the reason that even though methanol is more toxic, it is the preferred
+alcohol for producing biodiesel. Methanol has a flash point of 10 °C, while the flash point of
+ethanol is 8°C, so both are considered highly flammable. You should never let methanol come
+into contact with your skin or eyes as it can be readily absorbed. Excessive exposure to methanol
+can cause blindness and other health effects. For student demonstrations, ethanol may be safer to
+use.
+
+Methanol does have a somewhat variable pricing structure. When the production of MTBE was
+mandated for the reduction of emissions from gasoline engines in the winter, there was a
+significant expansion in world capacity for the material. The excess capacity and crash in
+demand led to methanol prices of $ 0.31 per gallon in early 2002. However, in late July, 2002,
+the production/consumption levels regained equilibrium and the methanol price doubled back to
+the more typical value of $ 0.60± per gallon.
+
+The alcohol quality requirements are that it be un-denatured and anhydrous. Since chemical
+grade ethanol is typically denatured with poisonous material to prevent its abuse, finding un-
+denatured ethanol is difficult. Purchase ethanol that has been denatured with methanol if
+possible.
+
+Catalysts and Neutralizers:
+Catalysts may either be base, acid, or enzyme materials. The most commonly used catalyst
+materials for converting triglycerides to biodiesel are sodium hydroxide, potassium hydroxide,
+and sodium methoxide. Most base catalyst systems use vegetable oils as a feedstock. If the
+vegetable oil is crude, it contains small amounts (<2%) of free fatty acids that will form soaps
+that will end up in the crude glycerin. Refined feedstocks, such as refined soy oil can also be
+used with base catalysts.
+
+The base catalysts are highly hygroscopic and they form chemical water when dissolved in the
+alcohol reactant. They also absorb water from the air during storage. If too much water has been
+adsorbed the catalyst will perform poorly and the biodiesel may not meet the total glycerin
+standard.
+
+Although acid catalysts can be used for transesterification they are generally considered to be too
+slow for industrial processing. Acid catalysts are more commonly used for the esterification of
+free fatty acids. Acid catalysts include sulfuric acid and phosphoric acid. Solid calcium carbonate
+is used as an acid catalyst in one experimental homogeneous catalyst process. The acid catalyst is
+mixed with methanol and then this mixture is added to the free fatty acids or a feedstock that
+contains high levels of free fatty acids. The free fatty acids convert into biodiesel. The acids will
+need neutralization when this process is complete, but this can be done as base catalyst is added
+to convert any remaining triglycerides.
+
+
+                                      32

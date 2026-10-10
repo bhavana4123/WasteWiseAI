@@ -1,0 +1,48 @@
+exhaust and carbon-monoxide oxidation catalysts can help to reduce CO by approximately 90 percent.
+Many gas turbines sited in locales with stringent emission regulations use SCR after-treatment to
+achieve extremely low NOx emissions.
+
+Microturbines have the potential for low emissions. All microturbines operating on gaseous fuels feature
+lean premixed (dry low NOx, or DLN) combustor technology. The primary pollutants from microturbines
+include NOx, CO, and unburned hydrocarbons. They also produce a negligible amount of SO2.
+Microturbines are designed to achieve low emissions at full load and emissions are often higher when
+operating at part load. Typical NOx emissions for microturbine systems range between 4 ppmv and 9
+ppmv or 0.08 lbs/MWh and 0.20 lbs/MWh. Additional NOx emissions removal from catalytic combustion
+in microturbines is unlikely to be pursued in the near term because of the dry low NOx technology and
+the low turbine inlet temperature. CO emissions rates for microturbines typically range between 0.06
+lbs/MWh and 0.54 lbs/MWh.
+
+Exhaust emissions are the primary environmental concern with reciprocating engines. The primary
+pollutants from reciprocating engines are NOx, CO, and VOCs. Other pollutants such as SOx and PM are
+primarily dependent on the fuel used. The sulfur content of the fuel determines emissions of sulfur
+compounds, primarily SO2. NOx emissions from small “rich burn” reciprocating engines with integral 3­
+way catalyst exhaust treatment can be as low as 0.06 lbs/MWh. Larger lean burn engines have values of
+around 0.8 lbs/MWh without any exhaust treatment; however, these engines can utilize SCR for NOx
+reduction.
+
+Emissions from steam turbines depend on the fuel used in the boiler or other steam sources, boiler
+furnace combustion section design, operation, and exhaust cleanup systems. Boiler emissions include
+NOx, SOx, PM, and CO. Typical boiler emissions rates for NOx range between 0.3 lbs/MMBtu and 1.24
+lbs/MMBtu for coal, 0.2 lbs/MMBtu and 0.5 lbs/MMBtu for wood, and 0.1 lbs/MMBtu and 0.2
+lbs/MMBtu for natural gas. Uncontrolled CO emissions rates range between 0.02 lbs/MMBtu and 0.7
+lbs/MMBtu for coal, approximately 0.06 lbs/MMBtu for wood, and 0.08 lbs/MMBtu for natural gas. A
+variety of commercially available combustion and post-combustion NOx reduction techniques exist with
+selective catalytic reductions achieving reductions as high as 90 percent.
+
+Fuel cell systems have inherently low emissions profiles because the primary power generation process
+does not involve combustion. The fuel processing subsystem is the only significant source of emissions
+as it converts fuel into hydrogen and a low energy hydrogen exhaust stream. The hydrogen exhaust
+stream is combusted in the fuel processor to provide heat, achieving emissions signatures of less than
+0.019 lbs/MWh of CO, less than 0.016 lbs/MWh of NOx and negligible SOx without any after-treatment
+for emissions. Fuel cells are not expected to require any emissions control devices to meet current and
+projected regulations.
+
+Other pollutants such as SOx and PM are primarily dependent on the fuel used. CHP technologies that
+could use fuels other than natural gas, including reciprocating engines and steam turbines, could also
+incur other emissions from its fuel choice. For example, the sulfur content of the fuel determines
+emissions of sulfur compounds, primarily SO2.
+
+
+
+
+Catalog of CHP Technologies                            1-11                                     Introduction

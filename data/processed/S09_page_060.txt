@@ -1,0 +1,49 @@
+                            8. Patent Discussion
+
+Although transesterification is an old and well-known process in organic chemistry, much of the
+modern chemical techniques were described in patents issued to chemists for DuPont and
+Colgate-Palmolove-Peet during and immediately after World War II. A careful examination of
+these patents shows that most of the techniques used since that time were anticipated and
+covered by these patents.
+
+Prior to the 1940s, most soap was made following a traditional process of saponifying fats
+through the addition of sodium or potassium hydroxide and water. The glycerol freed by this
+process usually remained with the soap and provided some moisturizing benefit. Techniques
+were available to separate the glycerol but they provided a water-contaminated crude product
+and were not suitable for use with potassium soaps. Because of the high demand for glycerol to
+produce explosives for the war effort, there was a strong motivation to remove the glycerol
+during soap production and provide a high-quality, dry product. George Bradshaw of E.I duPont
+received a patent (#2,271,619) for a process that added about 1.6 times the theoretical amount of
+an alcohol, such as methanol, which contained 0.1 to 0.5% sodium or potassium hydroxide, to an
+oil or fat. When performed at 80ºC, this process provided 98% conversion to a high-quality,
+water-free glycerol and alcohol esters. The esters were then saponified with additional caustic
+soda to produce soap and the alcohol was recovered by heating. The residual glycerol and
+methanol in the alcohol esters could be removed by two or three washes with a small amount of
+water.
+
+Bradshaw recognized that this process could be conducted in stages:
+     “ … the amount [of alcohol] can be reduced substantially by working in steps.
+      For instance, if the theoretical quantity of methyl alcohol is used, the
+       conversion will be about 80 per cent. The glycerine can then be removed and
+      more alcohol and catalyst added. If the alcohol is added in three steps the
+      amount required can be reduced, for instance, from one and six-tenths times
+       theory to one and two-tenths times theory.”
+
+In his second patent (#2,360,844) Bradshaw says that with three or four steps the amount of
+alcohol can be reduced to 1.1 times theory.
+
+Bradshaw noted that other alcohols beside methanol could be used for the process including
+ethanol, propanol, isopropanol, the butanols, and the pentanols. Bradshaw further describes how
+fats containing small amounts of water and free fatty acids could still be processed with this
+technique by adding additional catalyst. He mentions that a drawback of this approach is that
+soap will be formed that can inhibit the separation of the glycerol. He suggests acidification of
+the reaction mixture to split the soaps back to free fatty acids and salts to facilitate the separation.
+His suggestions for acceptable acids include formic, acetic, propionic, hydrochloric, sulfuric,
+sulfamic, and phosphoric.
+
+Bradshaw’s work was followed by a extensive set of patents from researchers at the Colgate-
+Palmolive-Peet company. These patents describe the same essential process as Bradshaw but add
+
+
+
+                                      56

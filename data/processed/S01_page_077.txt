@@ -1,0 +1,56 @@
+                                                                       Foods
+
+
+EGG ALBUMIN, solid; a crystallizable protein; molecular weight about 33,800; from egg
+   white.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   qv(gross)  10280 Btu 1
+   qv(gross)  5710 cal g-
+   qv(gross) = 23891 J g-l
+
+    specific heat: temperature range: 273-298 K (32"-77"F);anhydrous.
+
+   Cp(Btu lb-I  OF-')    = 0.267
+   Cp(cal ~ l 5 - l )   = 0.267
+   Cp(J g-  K   )       = 1.117
+
+                                               55MER/WAT; 72BER/KLI
+
+EGG YOLK; solid; yellow, semi-solid material of an egg; specific gravity, 0.95; high
+   cholesterol content.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)   10510 Btu 1
+    q,(gross)   5840 cal g-
+    q,(gross)  = 24435 J g-l
+
+                                                      55MER/WAT
+
+FAT, ANIMAL; solid; mixture of glycerides of fatty acids.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 17100 Btu 1
+    qv(gross)  9500 cal g-
+    qv(gross) = 39750 J g-l
+
+                                                      55MERjWAT
+
+FAT, BARLEY; solid; ether extracted.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 16330 Btu lb-'
+    q,(gross)  = 9070 cal g-l
+    q,(gross) = 37950 J g-l
+
+                                                       55MER/WAT
+
+
+
+
+
+                                       83

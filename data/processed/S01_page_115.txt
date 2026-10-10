@@ -1,0 +1,38 @@
+Fossil Materials
+
+
+OIL, RAW SHALE;solid; Material came from the Anvil Points mine in Colorado and was
+    riffled and split before retorting and combined with benzoic acid in a 1:l ratio to
+   achieve complete combustion in the bomb calorimeter. Combustion analysis
+    indicated: H20(liq), C02(g), NZ(g), and SOZ(g). Chemical analysis of sulfur shows 67%
+    is present as sulfides, 33% as organic sulfur, and trace amounts as sulfates.
+   gross heat of combustion: temperature was ;I5°C (77°F) and estimated standard   deviation for three runs is less than 5 cal g- .
+
+   Sample I                              Sample I1
+
+    qv(gross) = 2176.2 Btu Ib- 1                     q,(gross)    2182.0 Btu Ib- I
+    qv(gross) = 1209.0 cal                       qv(gross) = 1212.2 cal
+    q,(gross)  = 5058.5 J                         qv(gross) = 507 1.8 J
+
+                                                      79CRA/ORN
+
+OIL, SPENT SHALE; solid; Material came from the Anvil Points mine in Colorado and
+   was ground mixed and split after experiment was completed to provide representative
+   samples for analysis. To achieve complete combustion, samples were combined with
+   benzoic acid in a 1:l ratio, and combustion analysis indicated: H*O(liq), CO*(g),
+    N2(g), and S02(g). Chemical analysis shows that the sulfur present is primarily
+    sulfides with traces of sulfates.
+   gross heat of combustion: temperature was t 5°C (77°F) and estimated standard    deviation for three runs is less than 5 cal g- .
+
+   Sample I                              Sample I1
+    q,(gross)  = -118.3 Btu Ib- 1                  qv(gross) = -27.7 Btu Ib- 1
+    q,(gross)  = -65.7 cal g-l                        q,(gross)    -15.4 cal
+    q,(gross)  = -274.9 J g-l                      qv(gross) = -64.4 J
+
+                                                      79CRAlORN
+
+
+
+
+
+                                       122

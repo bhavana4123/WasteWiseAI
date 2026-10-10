@@ -1,0 +1,49 @@
+Cellulase protein: CH1.59N0.24O0.42S0.01
+
+T. reesei cell mass: CH1.645O0.445N0.205S0.005
+
+In the production bioreactors, it is assumed that 90% of the carbon source is converted via the
+protein reaction and 10% is converted via the cell mass reaction. In the seed reactors, 85% of the
+carbon is converted via the cell mass reaction and 5% via the protein reaction, with 10%
+unreacted. This represents an overall molar selectivity of glucose to 31% protein, 4% cell mass,
+and 65% CO2, yielding 0.24 kg enzyme protein/kg glucose. The total oxygen demand for one
+bioreactor producing 12,000 kg protein in 120 hours online is 8.4 kmol/h. At its maximum (i.e.,
+at the initial working volume of 50%), the OUR is 56 mmol/L-h.
+
+The OTR is the product of the volumetric mass transfer coefficient kla (h-1) and the log mean
+oxygen concentration gradient (the difference between the saturated dissolved oxygen
+concentration and the desired dissolved oxygen concentration) at the top and bottom of the
+bioreactor operating volume:
+
+                                         ሺܥ௕כ െ ܥ஽ሻെሺܥ௧כ െ ܥ஽ሻ
+                  OTR ൌ௟               כ                                   ܥ௕ െ ܥ஽                                               ln ൬  כ                                   ܥ௧ െ ܥ஽൰
+
+where Cb* and Ct* are the saturated dissolved oxygen concentrations (mmol/L) at the bottom and
+top of the vessel, respectively, and CD is the desired dissolved oxygen concentration, which is
+assumed to be 30% of saturation at 1 atm absolute pressure (0.063 mmol/L). The top and bottom
+concentrations of saturated dissolved oxygen were calculated by Henry's Law:
+
+                              ߨ ൌ ܪܥ௅
+
+where π is the partial pressure of oxygen (atm), H is Henry’s coefficient (atm/(mmol/L)), and CL
+is the liquid concentration of the gas (mmol/L). Henry’s coefficient for oxygen in water was set
+equal to 1 atm/(mmol/L) for all calculations. (Henry’s coefficient for oxygen in pure water is
+approximately 1.3 atm/(mmol/L) at 25°C, but solubility may be affected by the non-water
+components in the broth; a coefficient of 1 is a reasonable initial estimate.) The pressure at the
+top of the vessel was taken to be 1 atm and the pressure at the bottom was determined by the
+static head of liquid in the vessel. The volumetric mass transfer coefficient was then computed
+using the following correlation [57]:
+
+                                                                 ଴.ଷଷ
+                                                      ௟൫hିଵ൯ൌ8.42 ൬  ൰       ଴.ହ଺
+                                                       ௅
+
+where P is the impeller power consumption and VL is the working volume. The correlation
+assumes that P/VL is expressed in hp/1,000 L. VG is the superficial gas velocity (cm/s) in the head
+space. This correlation is intended for non-Newtonian fungal cultivation systems with a
+maximum volume of 30 m3. Our bioreactors exceed the maximum intended volume for this
+correlation by several orders of magnitude but we believe that this equation yields results that are
+reasonable enough in the absence of more sophisticated reactor design involving computational
+fluid dynamics and so on.
+
+                                      38

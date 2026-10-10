@@ -1,0 +1,44 @@
+   r-----------------------------
+
+                                                                    Temperature (0 C)
+
+
+   E
+      ::t  T                             Pressure drop - mm H20      4
+
+
+  -::J   U                                                                              1 00
+      .,
+      <:
+   o
+
+      2       ;J!.  o
+      ll)
+
+         1
+            Ơ o-----L--̜̝̞       ---L----̟̠    --C----̡̢    --C----̣̤    --C----̥                          0.02               0.04              0.06              0.08                   0. 1
+                                       Cyclone inlet width (m)
+
+ Fig. 8-6. High-efficiency cyclone -cyclone cut size versus inlet width
+
+on cyclone cut size  is minimal. This  is due to the     quate solids-conveying velocity within the pipe. Typi­
+counterbalancing variations of density and viscosity     cal solids-conveying velocities for light materials range
+with temperature.                                   from 10 to 15 m/s (30-50 fils), as shown in Table 6-I.
+                                         One should select the cyclone inlet pipe widthIf coarse particles are introduced into a fine-particle                                                                     (b)                                                      equal to the gasifier outlet pipe diameter or set thecyclone separator, then two detrimental effects may                                                      cyclone inlet velocity equal to the pipe velocity andoccur. First, the large particles may block the small                                                      design the cyclone according to the proportions ininlet. Second, the high velocities within the separator                                                              Fig. 8-5. The equations that appeared previously thenmay break up the coarse particles by erosion, impact,                                                 can be used to predict particle cut size and pressureand attrition. This latter effect can generate fine                                                         drop.particles that may be harder to capture than anything
+previously present in the gas (Perry 1973). For this     8.6.2.4 Cyclone Design Example
+reason it is preferable to provide a gas-disengagement
+                                                   For example, let us design a high efficiency cyclone forspace for gravity settling within the gasifier rather than
+                                                    a 10 kW (13.4 hpj gasifier engine system.two stages of cyclones. This will allow the coarser
+particles to settle out prior to the cyclone separator.     First we must determine the gas flow rate for a typical
+Settling velocities are related to particle size as shown    22% engine efficiency and an assumed heating value
+in Figs. 7-6 and 8-7.                                       of 1300 kcal/Nm3 (5.44 MJ/Nm3, 157 Btu/scl). Then
+                                                     specific  gas  consumption   is  2 . 2  Nm3/hp-h
+8.6.2.3 Cyclone Design Strategy                                                       (1.43 sefm/hp) per horsepower or 3 Nm3/kWh
+In our experience, the cyclones fitted to gasifiers are      (25 cfrn/kW) (Gengas 1950).
+too large for optimum particle removal. Therefore, we                                 A 10 kW engine will require 30 Nm3/h (20 scfrn) ofpresent here an example of detailed cyclone design.                                                    producer gas, which corresponds to a gas energy out­
+The diameter of pipe leading from the gasifier outlet to    put of 163 MJ/h (188 kBtu/h). The volume of gas at the
+the cyclone inlet should be selected to allow an ade­     cyclone inlet temperature of 300·C will be
+
+
+
+                                                          Gas Cleaning and Conditioning   77

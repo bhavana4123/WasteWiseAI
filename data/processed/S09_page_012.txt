@@ -1,0 +1,46 @@
+of mercury). Thus, the number of molecules (6.022 x 1023) in one mole of any given substance is
+equal to the number of molecules in one mole on any other substance. The concept of mole is
+very important in chemistry for calculating the amounts of compounds that undergo a reaction
+with each other. Often reactions are influenced by the amounts of compounds reacted with each
+other, the molar ratio (a related term to molar ratio is stoichiometry of a reaction).
+
+Elements are in most cases comprised of the same kind of elementary particles known as atoms.
+Atoms can form aggregates known as molecules. Molecules can consist of atoms of many
+different elements or of atoms of one element. If a molecule is comprised of atoms of different
+elements, it is also known as a compound.
+
+Each element has a symbol, for example H for hydrogen (hydrogen is the lightest element, each
+atom consisting only of one proton and one electron, see above; a hydrogen atom with the
+electron removed is referred to as a proton that can be written as H+) and O for oxygen, so that a
+chemical formula for each compound can be written. If more than one atom of an element is in
+the compound, a subscript number indicates that. Thus, water, as a compound comprised of two
+hydrogen atoms and one oxygen atom, has the molecular formula H2O. In other words, each
+water molecule is composed of two hydrogen atoms and one oxygen atom.
+
+Organic chemistry
+
+Although there are many compounds that bridge the gap, most compounds are still classified
+either as inorganic or organic. The reason goes back far into the history of chemistry when it
+was assumed that all compounds came either from inanimate matter (inorganic compounds) or
+living matter (organic compounds). With some exceptions (an example is carbon dioxide, CO2)
+that will not concern us here, organic chemistry is the chemistry of the element carbon (symbol
+C). If organic chemistry deals only with the chemistry of one element, then why is it
+distinguished from inorganic chemistry? The reason is that most known compounds
+(approximately 90%) are organic compounds. If you think of the astounding variety of plant and
+animal life and that, on a basic level, organic compounds are responsible for that life, it becomes
+clear why there are so many organic compounds. More scientifically, carbon atoms are very
+versatile in forming compounds with atoms of other elements. So why are we going to deal with
+some organic chemistry here? The answer is that both biodiesel and conventional diesel fuel
+(derived from petroleum) are mixtures of organic compounds.
+
+Besides carbon, several other elements are very important to organic chemistry. Three especially
+important elements are hydrogen, oxygen, and nitrogen. Other important elements are
+phosphorus, sulfur and the so-called halogens (fluorine, chlorine, bromine and iodine). The
+following table contains some basic information on common elements (except halogens) in
+organic chemistry.
+
+
+
+
+
+                                       8

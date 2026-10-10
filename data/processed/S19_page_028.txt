@@ -1,0 +1,42 @@
+          Table 12. Updated Capital Costs for WWT in the FY 2012 SOT Model (2007$)
+                              WWT Installed Cost ($MM)                     Equipment                                         2011 Design Model  FY 2012 SOT
+               Evaporator system                     3               4
+            Membrane bioreactor                   5               4
+             Reverse osmosis system                2               2
+                Centrifuge                           6               1
+              Anaerobic digester                    27              23
+               Aeration basin                        5               6
+              Others (pumps, conveyer, etc.)           1               1
+                Total WWT                          49              41
+
+3.2.7 Cost Impact of Adopting Deacetylation
+Adopting alkaline deacetylation prior to pretreatment adds process complexity and costs for
+alkaline usage and for new deacetylation tanks. However, the benefits of using this pretreatment
+concept are numerous:
+
+   •  By removing acetate as one of the strong inhibitors, the resulting hydrolysate is more
+       fermentable. More than 95% glucose-to-ethanol yield and more than 92% xylose-to-
+       ethanol yield were achieved in the pilot-scale demonstration runs in FY 2012, as well as
+       demonstrated by bench-scale trials in previous studies (Chen et al. 2012; Tao et al. 2012).
+   •  The use of less acid in pretreatment results in lower ammonia usage for neutralization,
+      which brings about a cost savings of almost $0.05/gal ethanol. The purpose of the
+      ammonia conditioning step is to neutralize sulfuric acid and organic acids, such as acetic
+        acid, in the biomass feedstock, such as acetic acid. Based on the pilot-scale
+       demonstration, more than 80% of acetate is removed into the black liquor stream,
+        resulting in much lower ammonia usage.
+
+Roughly 20%–25% of dry biomass material is solubilized into the black liquor upon
+deacetylation, based on the pilot-scale demonstrations. Removing this material upfront provides
+an additional benefit of at least 20%–25% dry solids flow rate reduction going into all
+downstream processing operations, from pretreatment to ethanol recovery, which translates to
+considerable capital cost savings. For instance, 12 fermentors are required in the 2011 design
+report, while only nine are needed in the FY 2012 SOT case because of lower process
+throughput. Additionally, the design specification for pretreatment is 30% TS, so the amount of
+dilution water is also reduced. Table 13 shows a comparison of the installed capital costs for the
+FY 2012 SOT case with the 2011 design report.
+
+
+
+
+
+                                      21

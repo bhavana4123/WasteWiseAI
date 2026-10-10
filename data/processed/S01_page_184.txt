@@ -1,0 +1,56 @@
+                                                                       Ref use
+
+
+REFUSE-DERIVED FUEL; solid; A sample of ECO FUEL-I1 RDF was obtained from
+   Combustion Equipment Associates, Bridgeport, Conn. and has a particle size of about
+    0.42 mm (-40 mesh).  Residual moisture, 1.627 wt. %; ash content, 13.71 wt. %; sulfur
+   content, 0.46 wt. %.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+   moisture-free, ash-free basis.
+
+    q,(gross)  = 9451 Btu lb;'
+    q,(gross)  = 5254 cal g-
+    q,(gross)  = 21983 J g-'
+
+                                                                     8 1KIR/COL
+
+REFUSE-DERIVED FUEL; solid; A synthetic ref use-derived fuel (RDF) has been
+   developed at the National Bureau of Standards (NBS) and is designated as a standard
+   reference material (SRM 1657). The composition of the synthetic RDF is
+   approximately 80 mass % microcrystalline cellulose, 15 mass % silica, and 5 mass %
+   alumina.  All components have a nominal particle size of 50 micrometers.  Residual
+   moisture content, 3.7 mass %; ash content, 20.34 f 0.54 mass %, dry basis.
+
+   gross heat of combustion: values refer to 25OC (77°F).
+    q,(gross)  = 5963 Btu lbll (dry-basis)         q,(gross) = 7481 Btu Ib;' (dry, ash-free)
+    q,(gross) = 3315 cal g-  (dry-basis)          qv(gross) = 4159 cal gi (dry, ash-free)
+    qv(gross) = 13870 J g-l (dry-basis)            q,(gross)  = 17400 J g- (dry, ash-free)
+
+                                                           85COL
+
+REFUSE, MUNICIPAL; solid; waste from the city of St. Louis; particle size of 1.5 in. and
+    less, magnetic metal removed; (batch 1) from 210 samples collected April 1972
+   through February 1973, unclassified material, with only magnetic metal removed:
+   moisture, 9.3%-50.0%;  sulfur, 0.01%-0.40%;  chlorine, 0.13%-0.95%;  ash, 12.1 %-
+    52.2%;  (batch 2) from 99 samples collected November 1973 through January 1974,
+    classified material; heavy fraction of waste removed by air-density separation; light
+    fraction only: moisture, 1I. 1%-66.3%; sulfur, 0.05%-0.28%;  chlorine, 0.14%-0.94%;
+    ash, 7.6%-21.4%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   batch 1                                  batch 2
+                                            1                                     1   minimum q,(gross)   3029 Btu lb-        minimum q,(gross)  = 2295 Btu lb-
+   minimum q,(gross)  = 1683 cal           minimum q,(gross)  = 1275 cal
+   minimum q,(gross)  = 7041 J             minimum q,(gross)  = 5333 J
+                                 1                                                   1   maximum q,(gross) = 7430 Btu lb-        maximum q,(gross)  = 7598 Btu lb-
+   maximum q,(gross) = 4128 cal g-'        maximum q,(gross) = 4221 cal g-l
+   maximum q,(gross) = 17270 J g-'         maximum q,(gross)  = 17661 J g-'
+                                                                      1   average q,(gross) = 4675 Btu lb;'           average q,(gross) = 5020 Btu lbl
+   average q,(gross) = 2597 cal g-            average q,(gross) = 2789 cal g-
+   average q,(gross) = 10867 J g-'            average q,(gross)  = 11669 J g-l
+
+                                                                 74WIS/SUT
+
+                                       203

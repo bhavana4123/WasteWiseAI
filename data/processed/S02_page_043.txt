@@ -1,0 +1,59 @@
+                                                               units. This term enables one to compare the perfor­
+                                             mance of a wide variety of gasifiers on a common basis.
+                                            The maximum specific hearth loads for a number of
+                                                                 gasifiers are shown in Table 5-1. The table was calcu­
+                                                            lated from data available on gasifiers that have been
+                                                      thoroughly tested and lists the maximum superficial
+                                                        velocity and heating load reported. Note that in
+                                                 European literature, hearth load is reported in gas
+                                               volume units; in the United States, it is reported in
+                                                      energy units.
+
+                                                        In Generator Gas (Gengas 1950) a maximum heartb
+                                                      load (Bhmax) value for an Imbert-style gasifier is about
+                                                          0.9 Nm3/h-cm2. In other words, 0.9 m3 of gas  is
+                                                 produced for each square centimeter of cross-sectional
+                                                       area at the constriction. This corresponds to a
+                                                          superficial gas velocity Vs of 2.5 m/s  (8.2 ft/s)
+                                                        calculated at NTP* from the throat diameter and
+                                                         ignoring tbe presence of fuel. This corresponds to a
+                                                             specific gas production rate of 9000 m3 of gas per
+                                                 square meter of cross-sectional area per hour
+                                                          (29,500 scf/ft2-h).  If the gas has a (typical) energy
+                                                       content of 6.1 MJ/Nm3 (150 Btu/scf), this results in a
+                                                             specific energy rate of 54.8 GJ/m2-h (4.4 MBtu/ft2-h).
+                                            The diameter of the pyrolysis zone at the air nozzles is
+                                                            typically about twice tbat at the tbroat, and Table 5-1
+                                                shows the hearth load on this basis also. This puts the
+                                                      hearth load for the Imbert type gasifier on a comparable
+                                                          basis to the stratified downdraft gasifier. Knowledge of
+                                        maximum hearth load permits one to calculate tbe size
+                                                        of hearth needed for various engine or burner sizes.
+                                                  Dimensions for a variety of Imbert-type gasifiers are
+                                            shown in Tables 5-2 and 5-3.
+
+                                             The maximum hearth load is limited by many factors,
+                                                 such as the mechanical integrity of the char bed struc­
+Fig. 5-8. High temperature zone of a downdraft gas producer with wall
+tuyeres  (Source: Kaupp 1984a, Fig. 55)                          ture witbin the gasifier, degree of agitation, and the
+                                                    time available for conversion. High velocities can dis­
+                                                          turb the char and fuel bed, causing instability. If charvehicle units of the World War II era had ample vibra­
+                                                       fragments become dislodged and airborne, tbey maytion to jar the carefully sized wood blocks through. In
+                                                     plug tbe bed or form channels. Therefore, a little agita­fact, an entire industry emerged for preparing car wood
+                                                          tion can effectively increase tbe maximum specificat tbat time (Gengas 1950).
+                                                     heartb load.
+5.7.3 Superficial Velocity, Hearth Load, and       The heating value of producer gas varies witb flow rate,
+Gasifier Sizing                                         as shown in Fig. 7-20. Notice that the maximum ef­
+                                                           ficiency for rice hulls occurs at twice the flow rate tbatAn important factor used in choosing dimensions of
+                                                    produces the maximum heating value from rice hulls.any gasifier is the "superficial velocity, Vs'" of tbe gas                                                   This occurs because the combination oflower tempera­calculated where it passes tbrough tbe narrowest part
+                                                            tures and low flow rate favors metbane and tar produc­of the gasification zone. Altbough tbe units of Vs are                                                                 tion. Altbough the change in efficiency is small, tbelengtb/time (e.g., m/s), one should think of tbe super­
+                                                         benefit of reducing tar production is substantial.ficial velocity as gas production expressed in terms of
+gas volume/cross-sectional area-time (m3/m2-sL a     Closely related to hearth area (Ah) is the cross-section­
+specific gas production rate. It is called a superficial      al area of tbe air nozzles (tuyeres) (Am) ' Early workers
+velocity since actual velocities will be tbree to six
+times higher due to tbe presence of tbe charcoal and     *NTP refers to the European practice of correcting gas volume
+the high temperatures existing at tbe tbroat. A closely     measurements to a "normal temperature and pressure" of DOC and                                                                    1 atmosphere. In the United States it is conventional to correct
+related term is tbe maximum hearth load, Bh, expressed     measured volumes to STP. "standard temperature and pressure."
+in gas volume/hearth area-h, expressed in practical            (or     and 1 atmosphere.                                                                   77°F    25°C)
+
+                                                                                                Gasifier Designs    35

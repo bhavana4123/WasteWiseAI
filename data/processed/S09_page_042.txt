@@ -1,0 +1,58 @@
+dried. Yields can exceed 99%. Equipment needs to be acid resistant but generally feedstock costs
+are extremely low.
+
+
+                                                                                               Water
+
+
+             Hi-FFA TG
+                                                                           Separator        Lo-FFA                                                                                                      Dryer                TG Feed                                                                TG                                 Soap Reactor
+            Na OH
+
+
+
+                                                                       Soap
+
+
+
+
+              Figure 17. Preparation of Soapstock from a High FFA Feed
+A variation of the base-catalyzed system that avoids the problem of high FFAs is the use of a
+fixed bed, insoluble base. An example of this system, using calcium carbonate as the catalyst,
+has been demonstrated at the bench-scale. This process is depicted in Figure 18.
+
+
+
+
+
+                                  TG
+                                                                     Heater
+                                                 Alcohol
+
+
+
+
+
+                                                                                                                            Ester
+
+
+
+
+
+                                                                                                                     Glycerol
+
+                 Figure 18. Fixed-Bed, Base Catalyzed Reactor System
+
+Non-Catalyzed Systems – Biox Process
+
+Cosolvent options are designed to overcome slow reaction time caused by the extremely low
+solubility of the alcohol in the TG phase. One approach that is nearing commercialization is the
+Biox Process. This process uses a co-solvent, tetrahydrofuran, to solubilize the methanol. The
+result is a fast reaction, on the order of 5 to 10 minutes, and no catalyst residues in either the
+ester or the glycerol phase. The THF co-solvent is chosen, in part, because it has a boiling point
+very close to that of methanol. After the reaction is complete, the excess methanol and the
+tetrahydrofuran co-solvent are recovered in a single step. This system requires a rather low
+operating temperature, 30 °C. Other cosolvents, such as MTBE, have been investigated.
+
+
+                                      38

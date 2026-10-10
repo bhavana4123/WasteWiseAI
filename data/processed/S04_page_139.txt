@@ -1,0 +1,41 @@
+   Table 7-1. Packaged Systems Total Installed Capacity and Median Size by Market
+                                Segment
+ Sector             Market Segment                         Installed Capacity (MW)     Median Size (kW)
+                       Agriculture                                        4.5                    100
+                     Chemicals                                         5.0                    180
+                   Food Processing                                 10.9                   300                              Industrial         Misc. Manufacturing                               8.0                    390
+                    Other Industrial                                   9.8                    180
+                   Amusement/Recreation                           7.6                    75
+                       Colleges/Universities                            14.5                   180
+                   Commercial Office Buildings                      21.4                   75
+                  Government Buildings                             6.4                    90
+                      Hospitals/Healthcare                            15.7                   220
+                      Hotels and Motels                                 7.8                    100
+                      Multifamily Buildings                            22.3                   75
+                     Nursing Homes                                  10.8                   75                     CommercialInstitutionalMultifamily
+                     Schools (K-12)                                   17.7                   75
+                    Supermarkets                                     4.2                    320
+                   Wastewater Treatment                          14.1                   130
+                    Other Comm./Institutional                       16.3                   170
+                  Other/Unknown                                 18.6                   140
+Source: ICF/U.S. DOE Combined Heat and Power Installation Database, February 2017
+https://doe.icfwebservices.com/chpdb/.
+
+ The packaged system market has been dominated by market segments in the
+ commercial/institutional/multifamily sector. More than 91 percent of installations are contained in
+ these sectors. Multifamily buildings have the highest number of packaged system installations, followed
+ by schools and nursing homes. These market segments, as well as hotels, government buildings, and
+ amusement and recreation facilities, tend to use smaller systems, with median sizes of 100 kW or less,
+ than the other market segments. Industrial market segments have fewer installations but tend to have
+ larger capacities, with median sizes greater than 100 kW.
+
+ Figure 7-11 presents packaged system installations and capacity by size range. Almost 90 percent of the
+ packaged system installations are applications under 500 kW in size (although packaged system are
+ available in sizes up to several MW). Note that the total installed capacity of systems under 500 kW is
+ approximately equal to that of systems > 500 kW.
+
+
+
+
+
+ Catalog of CHP Technologies                          7–8                       Packaged CHP Systems

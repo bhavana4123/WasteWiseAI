@@ -1,0 +1,39 @@
+                 Producer gas                                               ="'--- 6    ----;l=jltjl«:::;                                                                         Engine manifold
+                                                       Legend
+                                                                 1  Cable              4  Gasoline choke                                        2  Air control valve    5  Gasoline carburetor                                     3  Gas valve          6  Gasoline throttle
+
+
+                                           Gasoline carburetor
+                                                                             -Producer gas/air                                                 Gasoline throttle                               mixture control
+                                                         Producer gas                                                                          throttle
+
+
+
+                                                                       (   Air
+
+
+
+
+                           To engine
+                                                                      Gas
+Fig. 11-3. Gas air mixers  (Source: Adapted from Cash 1942 and Anon 1943)
+
+Driving through hilly country in a producer-gas-fueled     starting procedures. When the gas is less tarry and can
+vehicle requires special skills. Often the driver races     support combustion on its own, the blower is turned
+the engine while going downhill in order to build up      off, and the gas valve is opened. Then, the producer gas
+the gas quality, so that high-quality gas is available      air/throttle is slowly opened; simultaneously, the gas­
+when climbing is resumed. Traffic accidents increased      air mixture is adjusted to obtain maximum power out­
+in Sweden during World War II because drivers of     put. At the same time, the fossil fuel throttle is slowly
+producer-gas-fueled vehicles operated those vehicles     closed until the changeover is complete. Once the mix­
+at high speeds while running at hills (Cengas 1950).       ture has been initially adjusted, repeated changeovers
+                                                    can be made quickly. The liquid fuel supply should
+11 .8.4 Engine Startup                             then be securely closed to prevent liquid-fuel con­
+                                                     sumption. This type of dual-fuel capability permitsIf liquid fuel is available, the engine can be started on
+                                                        rapid changeover between solid and liquid fuels.fossil fuel (gasoline or propane), and the gasifier started
+separately with a fan or blower (which may be hand­
+or battery-operated) while flaring the gas. The blower    One novel and simple alternative to a rotary blower for
+outlet and flare are located upstream from the cleanup     startup is to use the engine exhaust gas as the propel­
+system to keep tars out of the cleanup stream during     ling gas for an aspirator ejector, as shown in Fig. 11-5.
+
+
+                                                                  Engine Adaptation and Operation      1 09

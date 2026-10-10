@@ -1,0 +1,52 @@
+Miscellaneous
+
+
+GRAPHITE, PYROLYTIC;Total gas content is less t an I ppm; (sample 1) annealed at
+   2200°C (3992*F), having a density of 2.204 g ml-(  (sample 2) annealed at 3O0O0C
+    (5432'F), having a density of 2.265 g ml-'.
+
+   gross heat of combustion: at 25°C (77'F)
+
+   sample 1                              sample 2
+                                                                        1    q,(gross)  = 14121 +, 3.1 Btu 1bl1              q,(gross)  = 14083 k 5.4 Btu Ibl
+    q,(gross)  = 7844.9 2 1.7 cal g-                 q,(gross)  = 7823.9 k 3.0 cal g-
+    q,(gross)   32823.1 2 7.1 J g-'                 q,(gross)  = 32735.2 k 12.6 J g-l
+
+                                                             65LEW/FRI
+
+GRAPHITE, TICONDEROCA; solid; 0.33% ash.
+
+   gross heat of combustion: at 25'C (77OF), average of 2 samples; corrected for ash
+   content.
+                           1    q,(gross)  = 14105 2 1.8 Btu lb-
+             = 7836.0    q,(gross)                          1.0                 i                       c-7 1 g-l    q,(gross)             32786 4                     4                        J g
+
+                                                       38DEW/HAR
+
+LEATHER; solid; an animal skin or hide that has been permanently combined with a
+   tanning agent; the tanning agent produces a transformation in the protein composition
+    of the skin rendering it resistant to putrefactive bacteria, increasing its strength and
+   abrasion resistance.
+
+    specific heat: 298 K (77°F)
+   moisture content, %      Cp(Btu lb"   OF-')      Cp(cal g-l K - ~ )   C+J g-l ~ - 9
+
+   vegetable-tanned
+
+              0                 0.3334               0.3334                      I .3949
+             1.15                 0.3202               0.3202               1.3397
+                   I .32                 0.3274               0.3274              1.3698
+             2.59                 0.3280               0.3280               1.3724
+            3.85                 0.3844               0.3844              1.6083
+            6.20                 0.3730               0.3730                      I .5606
+            7.83                 0.3835               0.3835              1.6046
+             9.3 1                 0.3844               0.3844              1.6083
+            10.81                   0.4 129                0.4 129              1.7276
+
+                                                                            (more)
+
+
+
+
+
+                                       308

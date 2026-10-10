@@ -1,0 +1,54 @@
+                                                 Woody and Tree Materials
+
+
+
+DOGWOOD, BLOOD-TWIG; Cornus aanguinea; solid; Material is a shrub, one of the
+   dominant species of a 65-year-old climazonal oak forest (Quercetum petraeae-cerris)
+   on brown forest soil, at 300 m above sea level located in the southern part of the
+   Bukk Mountains of north Hungary.  Samples were dried at 85°C (185"F), then ground
+   and pelleted. The ash content was determined at 500°C (932°F) while the
+   temperature was increased stepwise. Ash content of stem and branch wood = 0.6%;
+   stem and branch bark = 6.3%; leaf = 14.1%; root = 8.3%.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer t o room
+   temperature.
+
+                      dry weight       ash-free dry        std dev.
+                         basis          weight basis       of mean
+
+   stem and branch wood (3 measurements)
+
+    q,(gross)  =          8300             834 1             50.6    Btu lb"
+    q,(gross)  =          461 1             4634             28.1    cal                                  q1
+    q,(gross)            19292            19389         118     J g-
+
+   stem and branch bark (5 measurements)
+
+    q,(gross)            8525             9104             48.4    Btu lb-I
+    q,(gross)  =          4736             6058             26.9   ca1q-l
+    q,(gross)  =         19815             21 163         113     J g-
+
+    leaf (5 measurements)
+
+    q,(gross)  =          7414             8633            49.3   Btu lb-'
+   qv(gross) =          41 19             4796             27.4    cal9-l
+    q,(gross)  =         17234            20066         115      f g-
+
+   root (3 measurements)
+
+    q,(gross) =          786 1             8570             27.0    Btu lb-'
+    q,(gross)  =          4367              476 1            15.0   ca1q-l
+    q,(gross) =         18272            19920            62.8    J g-
+
+                                                              75PAP
+
+ELM, AMERICAN, BARK; Ulrnus arnericana; solid; gross heat of combustion determined
+   on 1 g samples of air-dried bark; ash content = 9.3%; moisture content   6.7%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash content; hence, are on an as-determined basis.
+    q,(gross) = 6921 Btu lbl 1
+     q,(gtoss)    3845 cal g-
+    q,(gtoss)   16087 J g-'
+
+                                                           JJCHA/MIT

@@ -1,0 +1,47 @@
+                               Calibrated
+                           hand or
+                                     electric
+                              metering
+                        pump
+
+
+
+                                             Gas sample bulb
+
+                          Heat trace 1 00° C
+
+         Gas
+
+
+                                                                   Rubber                                                       Filter holder       Desiccant                                                                                             joint                          Ball valve                                bulb
+
+             a. Raw Producer Gas Sampling Train for Tar, Particulate and Moisture
+
+
+
+
+
+         Gas
+
+                                               Gas sample FlrlWll'lptp,
+                                                                port                     Dry bulb    Desiccant
+                 and wet bulb
+                  thermometer     '--/'=.,
+              b.-Continuous Readout Sampling Train for Gas Quality and Moisture (clean gas only)
+                                      Gas
+                                                      test           Pump
+                                          meter
+
+
+
+
+         Gas                                                                            Final       Ball                           Ball      Hot      Desic-          I                                                                                             filter      valve                 ::  valve       filter =  cant                  ¥          Ƒ                            .                                       I-0 -o •
+                         Oven 1 00° C          0  0
+                                                                       Ice bath  -                                                ° 0 °  - -
+                                               • • • •
+                c. Sampling Train for Collecting Condensibles without Water
+
+Fig. 7-12. Sampling train configurations
+
+
+60    Handbook of Biomass Downdraft Gasifier Engine Systems

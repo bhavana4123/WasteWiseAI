@@ -1,0 +1,59 @@
+Polymers and Plastics
+
+
+RILSAN; solid; (poly-1 I-aminodecanoic acid); empirical formula C  HzlON.
+
+    gross heat of combustion: at 25OC (77OF)
+
+   q ( toss) = 15913 2 4 Btu lb-l
+    q$ross)  = 8840.3 2 2.2 cal g-l
+    q,(gross) = 36987.8 ? 8.4 J g-l
+
+                                                             67FRA/MIS
+
+TEFLON solid; (E.I. duPont de Nemours and Company trade name);
+   (polytetrafluoroethylene); repeating unit: C4F4; density, 2.2 g ~ r n - ~ .
+
+   gross heat of combustion in oxygen: at 25°C (77OF); combustion products are gaseous
+   carbon dioxide and carbon tetrafluoride.
+
+    q,(gross) = 2154.1 k 18 Btu Ib-l
+    q,(gross) = 1196.7 2 10.0 caf g-l
+    q,(gross) = 5007.0 ? 42 J g-
+
+   gross heat of combustion in fluorine: 25OC (77°F); combustion product is carbon
+    tetrafluoride.
+    q,(gross) = 4461.8 ? 1.3 Btu lbi 1
+    q,(gross) = 2478.8 f 0.7 cal g-
+    q,(gross)   10371.3 f 3.1 J g-'
+
+    specific heat:
+
+
+                      Cp(Btu lb-I  O F - ' )
+
+     50  -370                 0.04821                 0.04821               0.20 17
+    100  -280                 0.09218                 0.09218             0.3857
+    150  -190                 0.13380                 0.13380             0.5598
+    200  -100                 0.17706                 0.17706             0.7408
+    250   - 10                0.21076                 0.21076              0.88 18
+    270    26                0.22768                 0.22768             0.9526
+    280    44                  0.24 187                0.24187              1.012
+    310    98                0.24402                 0.24402              1.021
+    330   134                0.24809                 0.24809              1.038
+    360   188                0.25669                 0.25669              1.074
+
+    transition temperatures:
+
+   293 K (20°C) (68°F)
+   303 K (30OC)(86°F)
+
+   heat of transition: for the temperature range 280-310 K.
+
+   Lf   15.7 Btu lb-'
+    Lf = 8.72 cal
+
+
+                                             67DOMIARM; 52FUR/McC
+
+                                      186

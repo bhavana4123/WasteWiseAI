@@ -1,0 +1,65 @@
+TA 6M: Waste Heat Recovery
+
+
+
+
+              Air cooled (dry) heat exchangers to be used to replace or supplement currently used water cooled
+         condensers or heat exchangers (see the Opportunities in Applied Research section, above, for heat
+           transfer improvement).
+
+           New concepts for recovering and collecting heat from gases containing particulates and high-
+          temperature condensable materials as encountered in the glass, steel, cement, and aluminum industries.
+
+           New regenerator designs to reduce the volume of high-temperature particulate laden gases, such as
+          using a high surface-area-to-volume ratio or high thermal capacity materials that are easy to clean.
+
+             Improved design of waste heat “boilers” that can utilize lower temperature (≥100°F) heat source. This
+          allows use of “low grade” waste heat for thermally-activated refrigeration and heat pump systems to
+          replace or supplement direct gas firing.
+
+            Pumps and turbo-expanders with high turndown capability for use in low-temperature power
+          generation systems.
+
+               Self-cleaning filters for gases with relatively low particulate loading.
+
+            Advanced heat exchangers for evaporators and condensers that are inexpensive to build, maintain, and
+          operate compared to other furnace types of comparable heating capacity.
+
+             Use of heat recovery absorption chillers for recovering waste heat from industrial process heating
+          systems where currently heat is rejected to the cooling towers. Many industrial processes (and certainly
+         most large commercial buildings) reject waste heat through cooling towers. At the same time, the
+        same facility is generating hot water or steam for other needs. Waste heat from process heating systems
+         could be used for generating hot water/steam or to drive the lithium bromide refrigeration cycle inside
+          absorption chillers. Many studies28,29 show that use of heat recovery chillers results in overall energy
+          reductions, as well as a cost reduction.
+
+            Methods to seal ends of a continuous furnace or oven to reduce or eliminate air leaks that result in
+           excessive energy use in heating equipment; increased size for exhaust gas handling systems; and gas
+          treatment, if necessary for meeting local environmental regulations.
+
+  Opportunities in Sensors and Controls
+
+  R&D opportunities in sensors and controls include:
+
+               Reliable sensors and controls for high-temperature (>400°F) applications to measure and monitor
+         humidity or lower explosion limits (LEL) in dryers and ovens to allow for recycling of exhaust gases and
+         reduce the amount of make-up air.
+
+             Systems for monitoring heat exchanger performance to detect performance degradation maintenance
+            issues.
+
+          A low-cost reliable system for monitoring oxygen and carbon monoxide in small applications (<5
+        MMBtu/hr fired systems).
+
+             Continuous monitoring of energy intensity (Btu or kWh per unit of production) to identify
+         performance problems.
+
+             Other sensor and controls R&D opportunities, including sensor integration challenges, are discussed
+          in more detail in the 2015 QTR Technology Assessment 6.C Advanced Sensors, Control, Platforms, and
+         Modeling for Manufacturing.
+
+
+
+
+
+ 28  Quadrennial Technology Review 2015

@@ -1,0 +1,49 @@
+                     13. Feedstock Quality Issues
+
+As a general rule, the closer a feedstock is to containing pure triglycerides, the easier it will be to
+convert it to biodiesel, and the higher will be its cost. The lower the cost of the feedstock, the
+more difficult and more expensive it is to convert to biodiesel.
+
+Biodiesel feedstocks will contain many possible contaminants such as water, free fatty acids,
+particles, and phospholipids. There is potential for each of these contaminants to impact the
+quality of the final biodiesel product.
+
+Water
+
+It is important that water be kept out of the biodiesel production process. While most processes
+can tolerate up to 1% water, even this low level will increase soap production and measurably
+affect the completeness of the transesterification reaction. Water can be removed by several
+techniques. Heating to break any emulsions between the water and oil and then allowing the
+water to settle to the bottom can remove water. Centrifuges can also be used to separate water
+and oil. Heating the oil under pressure and then spraying into a vacuum chamber can bring the
+water content to a very low level.
+
+Crude soybean oil typically contains about 0.3% water. This can be removed easily by a flash
+vaporization process. Yellow grease (and usually brown grease) will contain about 0.5% water
+because it has been dewatered during previous processing steps, although the sum of the water,
+insolubles, and unsaponifiables (MIU) is allowed to be as high as 2%. Restaurant grease and trap
+grease that have not been rendered should always be checked for water content because it may be
+very high.
+
+Water not only impacts the transesterification process, it can impact the effective cost of the
+feedstock. Analyses of two actual samples of trap grease are shown below.
+
+            Sample A                Sample B
+Water       81.5%                  40.5%
+Solids       6.34%                  10.2%
+Lipids       12.2%                  49.3%
+
+Trap grease is a very inexpensive feedstock. In most cases, restaurants will pay to have the
+material removed. However, even if the cost to have the material brought to the plant were as
+low as 2 cents/lb, the actual cost for the lipid material in sample A would be more than 8 times
+higher, or over 16 cents/lb. This is a pretty high price for material that is almost all free fatty
+acids. This price also does not include the added cost of disposing of the water after it is removed
+or the cost of landfilling the solids.
+
+Solids
+
+Feedstocks used for biodiesel should always be filtered to ensure no particles enter the
+processing scheme. This can be a particular problem with recycled products such as trap grease,
+
+
+                                      90

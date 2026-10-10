@@ -1,0 +1,47 @@
+                                                 Woody and Tree Materials
+
+
+MAPLE, TATARIAN; Acer tataricurn; solid; Material is a tree, one of the dominant
+   species of a 65-year-old climazonal oak forest (Quercetum petraeae-cerris) on brown
+    forest soil, at 300 m above sea level located in the southern part of the Bukk
+   Mountains of north Hungary. Samples were dried at 85°C (185'F),  then ground and
+    pelleted. The ash content was determined at 500°C (932°F) while the temperature
+   was increased stepwise. Ash content of stem and branch wood = 0.6%; stem and
+   branch bark   7.5%; leaf = 5.61%; root = 5.8%.
+
+   gross heat of combustion: at 20 atrn oxygen pressure, assume values refer to room
+   temperature.
+
+                      dry weight      ash-free dry         std dev.
+                         basis         weight basis         of mean
+
+   stem and branch wood (3 measurements)
+
+    q,(gross)  =          8298             834 1             52.9    Btu lb-I
+    q,(gross)  =          4610             4634              29.4    ca1q-l
+    q,(gross)  =         19288            19389          123     J g-
+   stem and branch bark (5 measurements)
+
+    q,(gross)  =          7970             861 1          114     Btu lb-'
+    q,(gross)  =          4428             4784            63.5   cal7-l
+    q,(gross)  =         18527            20016          266     3 g-
+
+    leaf (6 measurements)
+
+   qv(gross) =          8046             8525          110     Btu lb-I
+   qv(gross) =          4470             4736             61.2    cal q1
+    q,(gross)  =         18720             19815          256     J g-
+
+   root (3 measurements)
+
+    q,(gross)  =          7754             8235             57.8    Btu lb"
+    q,(gross)            4308             4575              32. I    c a  l ~   '
+    q,(gross)  =         I8025            19142          134      f g-
+
+                                                               75PAP
+
+
+
+
+
+                                       27 1

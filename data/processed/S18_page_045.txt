@@ -1,0 +1,30 @@
+significant progress on galactose or mannose conversion but that conversion of arabinose to
+ethanol was possible through incorporation of known arabinose metabolic pathways. In 2010,
+one of the awardees reported to DOE that they had demonstrated arabinose conversions of 68%
+on pure arabinose and 90% when glucose was dosed along with arabinose. The specifics of these
+experiments are protected information and cannot be shared here. NREL has also begun a
+program to genetically engineer the arabinose fermentation pathway into the Z. mobilis 8b strain
+to reduce the risk that the proprietary ethanologens being developed through the DOE strain
+solicitation are unable to meet the 2012 cost targets [51].
+
+Low-Cost Media
+As seen in Table 15, corn steep liquor (CSL) is assumed as a nutrient source for ethanol
+fermentation. While NREL does not actually use CSL in routine laboratory or pilot plant
+experiments, its use is assumed in the technoeconomic model as a placeholder for a low-cost
+source of nitrogen and trace minerals, and reducing the quantity of this material used in
+fermentation is a 2012 target. CSL, a by-product of the corn wet milling process, is high in
+protein, vitamins, and minerals and is usually mixed with the corn fiber by-product and sold as
+gluten feed [52]. On its own, CSL is used as a nutrient source in many fermentation industries
+including wet-mill corn ethanol, pharmaceuticals, and industrial enzyme production. Because
+CSL is a wet mill by-product, and the corn starch business is relatively static, there is in effect a
+fixed amount of CSL available in the United States. We have performed some projections
+elsewhere and have determined that it is unlikely that CSL could scale to support cellulosic
+ethanol production at commercial volumes of billions of gallons per year [51]. Finding another
+low-cost and scalable nutrient source is a subject of future NREL research and technoeconomic
+analysis.
+
+
+
+
+
+                                      35

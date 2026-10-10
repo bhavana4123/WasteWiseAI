@@ -1,0 +1,50 @@
+    •  Combined heat and power – Gas turbines are used extensively for CHP applications providing
+         efficient, economic, and reliable service. Gas turbines comprise 63 percent, or 51.5 GW, of total
+        installed CHP capacity in the U.S.38 Close to 80 percent of this gas turbine CHP capacity is in large
+      combined cycle plants that maximize the export of power to the electrical grid.39 The remaining
+      GT CHP capacity is made up of simple-cycle gas turbine based CHP systems, typically less than 40
+     MW.
+
+    •  Mechanical drive – Oil and gas production, processing, transmission, and some process
+        industries use gas turbines for pumping, compression, and other mechanical drive operations. In
+       mechanical power applications, the turbine shaft power is used directly. There is no electrical
+        generator, though there can be heat recovery, and such systems can be classified as CHP.
+
+    •   Distributed power-only – Gas turbines are used for distributed power generation at remote
+         oilfield facilities and can be used by industry and utilities alike for portable power generation.
+       Large industrial facilities install simple-cycle gas turbines without heat recovery to provide
+       peaking power in capacity constrained areas, and utilities often place gas turbines in the 5 to 40
+    MW size range at substations to provide incremental capacity and grid support. A number of
+        turbine manufacturers and packagers offer mobile turbine generator units in the 5-40 MW size
+       range that can be used in one location during a period of peak demand and then transported to
+       another location for the following season.
+
+Gas turbines are ideally suited for CHP applications because their high-temperature exhaust can be used
+to generate process steam at conditions as high as 1,200 pounds per square inch gauge (psig) and 900 °F
+or used directly in industrial processes for heating or drying. A typical industrial CHP application for gas
+turbines is a chemical plant with a 25 MW simple cycle gas turbine supplying base-load power to the
+plant with an unfired heat recovery steam generator (HRSG) on the exhaust. This gas turbine CHP
+system will produce approximately 29 MW thermal (MWth) of steam for process use within the plant.
+
+A typical commercial/institutional CHP application for gas turbines is a college or university campus with
+a 5 MW simple-cycle gas turbine. Approximately 8 MWth of 150 psig to 400 psig steam (or hot water) is
+produced in an unfired heat recovery steam generator and sent to a central thermal loop for campus
+space heating during the winter, or to single-effect absorption chillers to provide cooling during the
+summer.
+
+3.3   Technology Description
+3.3.1  Basic Process
+Gas turbine systems operate on the Brayton thermodynamic cycle, a constant pressure open cycle heat
+engine. The Brayton cycle consists of a compressor, a combustion chamber, and an expansion turbine.
+The compressor heats and compresses the inlet air which is then further heated by the addition of fuel
+in the combustion chamber. The hot air and combustion gas mixture drives the expansion turbine
+producing enough energy to provide shaft-power to the generator or mechanical process and to drive
+the compressor as well. The power produced by an expansion turbine and consumed by a compressor is
+
+
+38 Electric utility sector gas turbine capacity is from EIA data (2014). CHP gas turbine total capacity based on the ICF CHP
+Installations database.
+39 ICF CHP Installations Database, 2014
+
+
+Catalog of CHP Technologies                          3–2                          Combustion Tubines

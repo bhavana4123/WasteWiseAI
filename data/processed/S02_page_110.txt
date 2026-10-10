@@ -1,0 +1,49 @@
+where:
+
+  To = calihration temperature
+  TG = operating gas inlet temperature
+                                                     Flow (Q) scfm
+    = flow rate                                                                      ..  Q                                                                           D                                  Lld = D/2    T  K = overall calibration for specific flow meter
+    a = general constant for ratio dID and geometry                                    rr       (from Fig. 10-4)                                                                  
+   bop = pressure drop across flow meter                                  r-D--l?2
+  D = pipe inside diameter               l h
+                                                                                  column (in.)                                                         Twater   d = orifice diameter
+It is convenient to plot    versus bop for a handy              Q
+reference. Dimensions and calibration constants are           Pipe  I D   Orifice     K'
+shown for several orifice meter sizes in Fig. 10-5.                   (D) in.     (d) in.   scfm/in.    a '
+Rotational flow caused by pipe fittings can cause                                                                  5/8      5/16        1 .75      4.47
+serious metering errors. It is good practice to provide                                                                                              1 -1/2      3/4      8.53      3.79at least eight pipe diameters upstream and three pipe                                                            2             1          1 3.65      3.41
+diameters downstream of the orifice to minimize
+rotational errors.                                            'X and a are the calibration factors in Eq. (10-2)
+Venturi Meters. The Herschel-type Venturi flow meter
+shown in Fig. 10-6 provides a higher pressure signal        Fig. 10-5.  Orifice meter calibration factors
+with a minimum pressure drop across the meter, be­
+cause the divergent downstream section of the meter
+conserves gas momentum by converting velocity back    because of the amount of precise machining required
+into pressure. In addition, the Venturi meter does not     for its production.
+present abrupt surfaces that otherwise would be sub­
+ject to impact by tars and particles, so contaminant                                                             10.2.2.3 Positive-Displacement Meters
+buildup is minimal and the maintenance required for a
+permanent installation is reduced. The cost of a Ven­    The positive-displacement dry gas meter is a primary
+turi meter is the highest of any of the differential pres­     gas volume standard. It measures the accumulated total
+sure methods of velocity measurements presented here     flow of a gas and is very accurate over a very wide range
+                                                       of flows. It is relatively inexpensive because of its use
+                                               by the gas industry. Numerous moving parts are ex­
+                                                 posed to the gas, so the gas must be clean and dry. Its
+     1.1 ,-----------, ԭ     main applications are in measuring sampled dry gas in                                               Ԭ     a contaminant sampling and for calibrating other flow
+     1.0                                        §d      meters.
+                                                                                              ro
+                                                            10.2.2.4 Tracer-Gas Flow Measurement     0.9
+ u-u                                                        Total gas flow can be measured by injecting a small, ac­
+                                                           curately measured flow of tracer gas into either the air a  0.8 1)ro                                                       or producer gas stream. The tracer gas must be one not u-
+     0.7                                                 butane,normallyandpresentcapablein producerof beinggas,measuredsuch as heliumwith orhighn­
+
+                                                  such as nitrogen, can be injected intermittently into the    0.60    0.10  0.20  0.30  0.40  0.50  0.60  0.70         precision. Alternatively, a gas that is normally present,                                                         stream, and the flow can be calculated from the chan­
+                                              d                 ges of concentration in the product gas. Both of these                 Ratio of orifice/pipe diam. 0
+                                                      techniques of tracer-gas flow measurement require ac­
+                                                         curate gas chromatographic analysis of the sample to
+Fig. 10-4. Orifice meter disc factor  (Source: Haaland 1968)           determine the flow rate.
+
+
+
+1 02    Handbook of Biomass Downdraft Gasifier Engine Systems

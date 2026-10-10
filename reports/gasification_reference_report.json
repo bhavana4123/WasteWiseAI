@@ -1,0 +1,21 @@
+{
+  "scenario": "Wood chips, Walawender 1985 run 98",
+  "parameter_id": "P0056",
+  "paired_hhv_parameter_id": "P0055",
+  "source_id": "S02",
+  "python_passed": 266,
+  "python_failed": 0,
+  "focused_api_passed": 7,
+  "typescript": "PASSED",
+  "production_build": "PASSED",
+  "initial_full_browser_passed": 30,
+  "initial_full_browser_failed": 1,
+  "initial_failure": "Old single-quantity-card selector matched the new gas-energy card as well; scientific assertion preserved and scoped to primary volume.",
+  "corrected_focused_browser_passed": 2,
+  "corrected_focused_browser_failed": 0,
+  "distinct_browser_scenarios_verified_across_runs": 31,
+  "scientific_csvs_unchanged": 6,
+  "engine_python_files_unchanged": 19,
+  "Nm3": "BLOCKED_SOURCE_TP_UNSPECIFIED",
+  "electricity_heat": "BLOCKED"
+}

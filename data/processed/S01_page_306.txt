@@ -1,0 +1,48 @@
+                                                                                                        I
+
+
+
+       chemical potential of substance                 relative molecular mass (also
+      B                                               called "molecular weight")
+
+        absolute activity of substance 8:             Avogadro constant
+       1~ = exp(uB/RT)
+                                               number of molecules
+        fugacity
+                                               amount of substance
+       osmotic pressure
+                                                mole fraction of substance B:
+        ionic strength:  I =  fmiziL or               xB = nB/cini
+                         I C   2          1             I = 7  . cjzi
+                        I   -  -                               mass fraction of substance B
+        activity, relative activity of
+       substance B                               volume fraction of substance B
+
+        activity coefficient, mole frac-                 molality of solute substance B
+        tion basis                                  (amount of B divided by the mass
+                                                               of solvent)
+        activity coefficient, molality
+        basis                                          concentration of substance B
+                                                 (amount of B divided by the
+        activity coefficient, concentra-              volume of the solution)
+        tion basis
+                                                mass concentration of substance
+       osmotic coefficient                    B (mass of B divided by the
+                                                volume of the solution)
+
+Selected Symbols for Other Quantities in               stoichiometric coefficient of
+'her modynamics                                     substance B (negative for react-
+                                                             ants, positive for products).  (The
+A,S    area                                                      general equation for a chemical
+                                                       reaction is 'vgB  = 0, [Example:v      volume                                         B.                                                          for the reaction H20 + H2 +
+t      time                                              31 02,H2 +   0 2 - H20 = 01
+
+m     mass                                         extent of reaction: (dc = dng/Vg)
+
+P       density (mass divided by volume)               equilibrium constant
+
+P       pressure                                    degree of dissociation
+
+        relative atomic mass (also called              charge number of an ion B (posi-A,
+       "atomic weight")                                  tive for cations, negative for
+                                                        anions)

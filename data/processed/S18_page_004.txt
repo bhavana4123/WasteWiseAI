@@ -1,0 +1,46 @@
+Executive Summary
+
+The U.S. Department of Energy (DOE) promotes the production of ethanol and other liquid fuels
+from lignocellulosic biomass feedstocks by funding fundamental and applied research that
+advances the state of technology in biomass collection, conversion, and sustainability. As part of
+its involvement in the program, the National Renewable Energy Laboratory (NREL) investigates
+the production economics of these fuels.
+
+This report describes in detail one potential biochemical ethanol conversion process,
+conceptually based upon core conversion and process integration research at NREL. The
+overarching process design converts corn stover to ethanol by dilute-acid pretreatment,
+enzymatic saccharification, and co-fermentation. Ancillary areas—feed handling, product
+recovery, wastewater treatment, lignin combustion, and utilities—are also included in the design.
+Detailed material and energy balances and capital and operating costs were developed for the
+entire process, and they are documented in this report and accompanying process simulation
+files, which are available to the public.
+
+As a benchmark case study, this so-called technoeconomic model provides an absolute
+production cost for ethanol that can be used to assess its competitiveness and market potential. It
+can also be used to quantify the economic impact of individual conversion performance targets
+and prioritize these in terms of their potential to reduce cost. Furthermore, by using the
+benchmark as a comparison, DOE can make more informed decisions about research proposals
+claiming to lower ethanol production costs.
+
+Building on design reports published in 2002 and 1999, NREL, together with the subcontractor
+Harris Group Inc., performed a complete review of the process design and economic model for
+the biomass-to-ethanol process. This update reflects NREL’s current vision of the biochemical
+ethanol process and incorporates recent progress in the conversion areas (pretreatment,
+conditioning, saccharification, and fermentation), optimizations in product recovery, and an
+improved understanding of the ethanol plant’s back end (wastewater and utilities). The major
+process updates in this design report are the following:
+
+   •  Feedstock composition is updated to a carbohydrate profile closer to the expected mean.
+   •  Pretreatment reactor configuration is revised with significant new detail.
+   •  Whole-slurry pH adjustment of the pretreated biomass with ammonia replaced the
+       previous conditioning practice of overliming, eliminating a solid-liquid separation step.
+   •  Enzymatic hydrolysis and fermentation are modeled as a batch process with a continuous
+       high-solids hydrolysis reactor upstream of the batch reactors.
+   •  On-site enzyme production is included to increase transparency on the cost of enzymes.
+   •  Wastewater treatment section is redesigned to handle inorganics in the ethanol stillage.
+The conceptual design presented here reports ethanol production economics as determined by
+2012 conversion targets and “nth-plant” project costs and financing. For the biorefinery described
+here, processing 2,205 dry ton/day at 76% theoretical ethanol yield (79 gal/dry ton), the ethanol
+selling price is $2.15/gal in 2007$.
+
+                                                                    iii

@@ -1,0 +1,47 @@
+4.4.2 Performance Enhancements
+In industrial steam turbine systems, business conditions determine the requirements and relative values
+of electric power and process, or steam for heating. Plant system engineers then decide the extent of
+efficiency enhancing options to incorporate in terms of their incremental effects on performance and
+plant cost, and select appropriate steam turbine inlet and exhaust conditions. Often the steam turbine is
+going into a system that already exists and is being modified so that a number of steam system design
+parameters are already established from previous decisions, which exist as system hardware
+characteristics and the turbine must be properly matched to these conditions.
+
+As the stack temperature of the boiler exhaust combustion products still contain some heat, tradeoffs
+are made regarding the extent of investment in heat reclamation equipment for the sake of efficiency
+improvement. Often the stack exhaust temperature is set at a level where further heat recovery would
+result in condensation of corrosive chemical species in the stack, with consequential deleterious effects
+on stack life and safety.
+
+4.4.2.1   Steam Reheat
+Higher pressures and temperatures along with steam reheat are used to increase power generation
+efficiency in large industrial (and utility) systems. The higher the pressure ratio (the ratio of the steam
+inlet pressure to the steam exit pressure) across the steam turbine, and the higher the steam inlet
+temperature, the more power it will produce per unit of mass flow, provided that the turbine can
+reliably accommodate the pressure ratio and that the turbine is not compromised by excessive
+condensation within the last expansion stage. To avoid condensation within the flowpath or to maximize
+available steam energy, the inlet steam temperature is increased until the economic life limit of turbine
+materials is reached. This limit is now generally in the range of 900° F for small industrial steam turbines
+using typical materials.
+
+Expanding steam can reach a condition of temperature and pressure where condensation to (liquid)
+water begins. Small amounts of water droplets can be tolerated in the last stages of a steam turbine
+provided that the droplets are not too large or numerous. Turbine flowpaths can employ features for
+extracting a portion of the condensate form the flowpath in order to limit water droplet impingement
+on the blading. Also, protective blade treatments such as Stellite are often employed to harden the
+blading surfaces exposed to the droplet impingement and reduce blade material erosion. For turbines
+using a reheat cycle, steam is extracted after it has partially expanded, heated in a heat exchanger, and
+returned to the turbine flowpath for further expansion.
+
+4.4.2.2   Combustion Air Preheating
+In large industrial systems, air preheaters recover heat from the boiler exhaust gas stream, and use it to
+preheat the combustion air, thereby reducing fuel consumption. Boiler combustion air preheaters are
+large versions of the heat wheels used for the same purpose on industrial furnaces.
+
+4.4.3  Capital Costs
+A steam turbine-based CHP plant is a complex process with many interrelated subsystems that must
+usually be custom designed. In a steam turbine CHP plant burning a solid biomass fuel, the steam
+turbine generator makes up only about 10 percent of the total plant equipment costs – the solid fuel
+
+
+Catalog of CHP Technologies                         4–12                           Steam Turbines

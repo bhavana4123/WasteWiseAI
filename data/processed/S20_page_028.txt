@@ -1,0 +1,56 @@
+                Table 5. Sludge HTL experimental results and model assumptions.
+
+                                                                      Aspen Model
+                                                     Experimental Results     Assumption (Goal
+              Operating Conditions and Results        (WW06 SS-2)              Case)
+          Temperature, °F (°C)                          656 (347)             656 (347)
+           Pressure, psia (MPa)                          2979 (20.5)           2979 (20.5)
+         Feed solids, wt%
+           Ash included                         20%              25%
+              Ash-free basis                         15%              21%
+        LHSV, vol./h per vol. reactor                3.6 Hybrid CSTR-PFR(d)        6 PFR
+          Equivalent residence time, minutes                  17                   10
+          Product yields(a) (dry, ash free sludge),
+       wt%
+              Oil                                44%              48%
+            Aqueous                            31%              25%
+            Gas                                16%              16%
+               Solids                            9%              11%
+       HTL dry oil analysis, wt%
+         C                                      78.5%               78.3%
+         H                                      10.7%               10.8%
+         O                                      4.7%                4.8%
+         N                                      4.8%                4.9%
+           S                                       1.2%                1.2%
+           P                                                 0.0             Not modeled(b)
+           Ash                                    0.06%               0.0%
+       HTL dry oil H:C Ratio                                 1.6                      1.6
+       HTL oil dry HHV, Btu/lb (MJ/kg)               17,000 (39.5)(c)          17,100 (39.7)
+       HTL oil moisture, wt%                              4.4 wt%                 4.0 wt%
+       HTL oil wet density                                 0.98                    0.98
+         Aqueous phase COD (mg/L)                       61,300                 61,100
+         Aqueous phase density (g/ml)                          1.0               0.98 Aspen est.
+            (a) Recovered after separations.
+           (b) Phosphorus partitioning is not directly modeled in Aspen because of the small quantity,
+             most of which reports to the solid phase.
+            (c)  Calculated using Boie’s equation (Boie 1953).
+           (d) The experimental system includes a continuous flow stirred-tank reactor (CSTR) followed
+            by a plug-flow reactor (PFR). The CSTR helps prevent overheating of the feed.
+
+2.3.2   HTL Capital Costs
+
+   The HTL section capital costs are primarily based on estimates developed by Knorr et al. (2013) for a
+wood HTL system under the National Advanced Biofuels Consortium (NABC), and scaled to the rate of
+the sludge HTL plant. Major equipment costs adapted from the NABC work include the feed/product
+exchangers, trim preheater, hot oil system, solids filter, and oil/water separator. Due to the corrosive
+nature of the HTL environment, stainless steel 316-L is selected for process equipment The experimental
+HTL system is constructed of stainless steel 316-L (with the exception of the CSTR, which is Inconel),
+for which no measurable corrosion has been detected during testing of sludges. In addition, materials of
+contruction testing, including systematic ex-situ coupon testing, in-situ coupon testing, and destructive
+evaluation of system components indicated no measurable corrosion of stainless steel 316-L coupons
+during 1000 hours exposure time.  Feed/product heat exchange is modeled using two double-pipe type
+exchangers in series. Attempts to obtain budgetary estimates for these exchangers were unsuccessful and
+therefore capital costs are scaled on estimates provided by Knorr et al. (2013). The feed/product
+
+
+                                         13

@@ -1,0 +1,46 @@
+Some fuel cells can function as internally steam reforming fuel cells. Since the reformer is an
+endothermic catalytic converter and the fuel cell is an exothermic catalytic oxidizer, the two combine
+into one with mutual thermal benefits. More complex than a pure hydrogen fuel cell, these types of fuel
+cells are more difficult to design and operate. While combining two catalytic processes is difficult to
+arrange and control, these internally reforming fuel cells are expected to account for a significant
+market share as fuel cell based DG becomes more common.
+
+It is also during this process, depending on the efficiency of the fuel cell, that CO2 is emitted as part of
+the reforming of the natural gas into usable hydrogen. CO2 emissions range between 700 to 900
+lb/MWh depending on the fuel cell technology used.
+
+6.3.1.3  Power Conditioning Subsystem
+Fuel cells generate direct current electricity, which requires conditioning before serving a load.
+Depending on the cell area and number of cells, this direct current electricity is approximately 200 to
+400 volts per stack. If the system is large enough, stacks can operate in series to double or triple
+individual stack voltages. Since the voltage of each individual cell decreases with increasing load or
+power, the output is considered an unregulated voltage source. The power conditioning subsystem
+boosts the output voltage to provide a regulated higher voltage input source to an electronic inverter.
+The inverter then uses a pulse width modulation technique at high frequencies to generate alternating
+current output. The inverter controls the frequency of the output, which can be adjusted to enhance
+power factor characteristics. Because the inverter generates alternating current within itself, the output
+power is generally clean and reliable. This characteristic is important to sensitive electronic equipment
+in premium power applications. The efficiency of the power conditioning process is typically 92 to 96
+percent, and is dependent on system capacity and input voltage-current characteristic.
+
+6.3.1.4   Types of Fuel Cells
+There are four basic types of fuel cells most suitable for stationary CHP applications. The fuel cell’s
+electrolyte or ion conduction material defines the basic type. Two of these fuel cell types, polymer
+electrolyte membrane (PEMFC) and phosphoric acid fuel cell (PAFC), have acidic electrolytes and rely on
+the transport of H+ ions. Carbonate fuel cell (MCFC) has basic electrolytes that rely on the transport of
+CO32ions. The fourth type, solid oxide fuel cell (SOFC), is based on a solid-state ceramic electrolyte in
+which oxygen ions (O2-) are the conductive transport ion.
+
+Each fuel cell type operates at an optimum temperature, which is a balance between the ionic
+conductivity and component stability. These temperatures differ significantly among the four basic
+types, ranging from near ambient to as high as 1800°F. The proton conducting fuel cell type generates
+water at the cathode and the anion conducting fuel cell type generates water at the anode.
+
+Table 6-2 presents fundamental characteristics for the primary fuel cell types most suitable for
+stationary CHP.
+
+
+
+
+
+Catalog of CHP Technologies                         6–10                                       Fuel Cells

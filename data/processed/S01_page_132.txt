@@ -1,0 +1,58 @@
+                                                          Plant Materials (Non-W d y  )
+
+
+BROAD-LEAVED STITCHWORT (WOODSTARWORT); Stellaria nemorum; solid; Material
+     is an integral part of the ecosystem at the herbaceous layer level of the mixed fir and
+   beech forest in the Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains
+   (two different stations) in Romania. The plants have the following constitution: 33%
+    of the weight is represented by the stem axis and 67% by leaves. The species has an
+    aestival (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+    calculated t o a dry basis.
+
+    q,(gross)   6458 Btu  lb;'
+    q,(gross)   3588 cal g-
+    qv(gross) = 15012 J g-'
+
+                                                         73PAU/BRE
+BULBIFEROUS TOOTHWORT (ThTH-CRESS); Cardamine buzbifera; solid; Material is
+   an integral part of the ecosystem at the herbaceous layer level of the mixed fir and
+   beech forest in the Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains
+   (two different stations) in Romania.  The plants have the following constitution: 33%
+    of the weight is represented by the stem axis and 67% by leaves. The species has a
+   vernal (spring) type vegetation period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated t o a dry basis.
+
+    qv(gross) = 7378 Btu lb-l
+    q,(gross)  = 4099 cal g-l
+    qv(gross)  17150 J g-'
+
+                                                         73PAU/BRE
+CATTAILS; solid; Material is considered biomass fuel and has  roximate analysis values
+    (in percent by weight dry basis) for volatile concentration VCM) = 71.57, ash                                                     P
+   content = 7.90, and fixed carbon = 20.53.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 42.99,
+   hydrogen = 5.25, oxygen = 42.47, nitrogen = 0.74, sulfur = 0.04,  chlorine = 0.38, and
+   residue (ash) = 8.13.
+
+   gross heat of combustion: assume values refer  t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    qv(gross) = 7662 Btu Ib-'
+    qv(gross) = 4257 cal g-'
+    q,(gross)  = 17810 J g-'
+
+   net heat of combustion: assume values refer to room temperature.
+
+   qv(net)  7017 Btu  lb;'
+   qv(net) = 3898 cal gi
+    qv(;let) = 16310 J g-
+
+                                                                       85 JEN/EBE
+
+
+                                      145

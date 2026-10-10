@@ -1,0 +1,37 @@
+COMPONENT              UNITS     273       310       312       406       441       717       755
+Total Flow                         kg/hr      1,051       26       116        6        109       1,166      142
+Insoluble Solids          %       0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+Soluble Solids           %       0.0%     100.0%    100.0%     0.0%      0.0%      0.0%     100.0%
+Temperature                  °C       20        20        20        28        28        20        20
+Pressure                     atm       17.0        1.0         1.0         9.0         9.0        17.0         1.0
+Vapor Fraction                               0.0         0.0         0.0         1.0         1.0         0.0         0.0
+Ethanol                            kg/hr
+Water                             kg/hr                                                                                                                                                                                                                                                                                Work Stream      kW    Gcal/hr
+Glucose (SS)                      kg/hr                                                                                                                                                                                                                                                            WC755                0     0.000
+Xylose (SS)                       kg/hr                                                                                                                                                                                                                                                                  WP760                0     0.000
+Other sugars (SS)                 kg/hr                                                                                                                                                                                                                                                                         WT760                3     0.002
+Sugar Oligomers (SS)             kg/hr
+Organic Soluble Solids (SS)       kg/hr
+Inorganic Soluble Solids (SS)      kg/hr                26       116                                    142
+Ammonia                         kg/hr      1,051                           6        109       1,166
+Acetic Acid                        kg/hr
+Sulfuric Acid                      kg/hr
+Furfurals                          kg/hr
+Other Organics                    kg/hr
+Carbon Dioxide                   kg/hr
+Methane                          kg/hr
+O2                                kg/hr
+N2                                kg/hr
+CO/SOX/NOX/H2S                kg/hr
+Cellulose (IS)                      kg/hr
+Xylan (IS)                          kg/hr
+Other Struct. Carbohydr. (IS)       kg/hr
+Acetate (IS)                       kg/hr
+Lignin (IS)                         kg/hr
+Protein (IS)                        kg/hr
+Cell Mass (IS)                     kg/hr
+Other Insoluble Solids (IS)         kg/hr
+Carbon Mole Flow               kmol/hr
+COD                              kg/hr
+LHV | 25°C                      Gcal/hr       -4.4         0.0         0.0         0.0          -0.5         -4.8         0.0
+                                                                                                           129

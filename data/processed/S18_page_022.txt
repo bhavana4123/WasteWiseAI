@@ -1,0 +1,48 @@
+2  Design Basis and Conventions
+
+2.1  Plant Size
+The plant size in the present design is the same as in the 2002 design: 2,205 dry U.S. ton/day
+(2,000 metric tonne/day). With an expected 8,410 operating hours per year (96% uptime), the
+annual feedstock requirement is 773,000 dry U.S. ton/year. The 2002 study assumed that an
+ethanol plant would be responsible for collecting and storing its own corn stover supply for the
+year, and 2,205 dry ton/day represented a 50-mile corn stover collection radius, assuming that
+10% of the biomass within that radius was available to the plant.
+
+In the present design, feedstock is assumed to be delivered to the plant from a satellite storage
+and processing facility like the pioneer uniform-format facility described by Idaho National
+Laboratory (INL) [24]. That facility is designed to supply 882,000 dry U.S. ton/yr of biomass;
+enough to supply one of the ethanol plants described here or multiple smaller facilities. We have
+not repeated the plant-size sensitivity study from the 2002 report, which indicated that only
+modest cost reductions due to economies of scale could be achieved beyond 2,205 ton/day.
+Although the absolute MESP is different in the present report, we expect that the plant-size
+trends observed in the 2002 report are still valid.
+
+2.2  Feedstock Composition
+The feedstock type and composition can have significant impacts on the overall process design
+and economics. Feedstock type may influence the design of key components in the conversion
+process, e.g., the pretreatment reactor. Feedstock composition, from a potential sugar
+perspective, clearly affects the ethanol yield. The feedstock used for this analysis was corn
+stover. Stover is a generic term that refers to the “rest” of the corn plant, i.e., everything above
+the ground that is not a kernel of corn: leaves, stalks, husks, cobs, etc. NREL biochemical
+conversion research has focused on corn stover primarily because it is the most abundant
+agriculture residue in the U.S. and is thus readily available. While dedicated energy crops like
+switchgrass may ultimately have sustainability and yield advantages over agricultural residues
+like corn stover, these crops are currently not available in the large volumes required for pilot-
+scale research.
+
+Corn stover can vary in composition and moisture content due to corn variety, region, weather,
+soil type, fertilization practices, harvesting and storage practices, time in storage, and so on. A
+recent NREL study assessed the compositions of corn stovers from many commercial hybrid
+corn varieties using a rapid compositional analysis method known as near-infrared
+spectroscopy/projection-to-latent-structures modeling (NIR/PLS) [25]. This study evaluated the
+compositions of 508 commercial corn stover samples collected from 47 sites in eight Corn Belt
+states after the 2001, 2002, and 2003 harvests. From this study, the average concentrations (dry
+wt %) of the major stover components were 32% glucan, 19% xylan, 18% solubles, and 13%
+lignin (corrected for protein). These composition results are summarized in Table 3 along with
+the characteristic variation of each component. Figure 4 shows the distribution of total structural
+carbohydrate content among the samples.
+
+
+
+
+                                      12

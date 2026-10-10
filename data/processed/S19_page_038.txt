@@ -1,0 +1,38 @@
+biomass feedstock contributions; i.e., GHG emissions and fossil energy consumption associated
+with the production and processing logistics of the biomass (including fertilizers, harvesting,
+preprocessing, and transportation).
+
+Table 16 and Figure 12 also show the fossil energy consumption for the conversion process. The
+modeled conversion process does not require direct fossil energy input to the biorefinery, for
+example by way of natural gas import. Fossil energy inputs are associated with the embedded
+input/output LCI processes only. The overall fossil energy profile for the biorefinery is
+significantly offset by the excess electricity coproduct credit (i.e., displacing an equivalent
+amount of grid electricity produced from fossil-intensive sources). The total net fossil energy
+consumption for the 2011 design case and the SOT case are 0.85 and –13.66 MJ/gal,
+respectively. Similar to the GHG emissions, the majority of the fossil energy demand for the
+biochemical process is attributed to enzyme production and the use of required chemicals.
+
+Table 17 summarizes the key sustainability metrics for the bioconversion step associated with
+both the 2011 design case and the 2012 SOT case. On an energy basis, the GHG emissions at the
+conversion stage for the 2011 design case and the 2012 SOT case are –0.42 and –14.88 kg
+CO2e/GJ, respectively. Similarly, the fossil energy consumption for the two cases is 0.011
+MJ/MJ and –0.170 MJ/MJ, respectively. Consumptive water use, ethanol fuel yield, and carbon-
+to-fuel efficiency are also reported in Table 17. Among these sustainability metrics, GHG
+emissions and fossil energy consumption for the SOT case are considerably more favorable than
+those for the 2011 design target case, driven largely by lower inventory demand for key inputs
+and higher electricity coproduct credit, relative to the 2011 design targets.
+
+            Table 17. Summary of Sustainability Metrics for the Modeled Biorefinery
+                                                  2011 Design Case     2012 SOT
+   GHG emissions (kg CO2e/GJ)                              –0.42             –14.88
+    Consumptive water use (m3/day)                         3283             3890
+    Consumptive water use (gal/gal ethanol)                      4.95               6.58
+     Total fuel yield (gal ethanol/dry ton)                           79.0               70.9
+     Carbon-to-fuel efficiency (C in ethanol/C in biomass)         30.2%           27.1%
+    Net fossil energy consumption (MJ/MJ)                      0.011             –0.170
+
+
+
+
+
+                                      31

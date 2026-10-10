@@ -1,0 +1,51 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.10 RD&D Opportunities and Barriers Addressed,1,4 continued
+
+
+                                        Barriers Addressed19
+
+
+
+                                         of
+                                                                                            End-                     and                                                                                      Payback                   of            Transfer                                                                                 Costs                                                 LongPeriods    MaterialConstraintsand        MaintenanceCosts       EconomiesScale   LackUse   HeatRates         EnvironmentalConcerns   ProcessControlProductQuality   Process-SpecificConstraints        Inaccessibility
+
+    Develop alternative end-uses for                                                                     x    waste heat
+
+    Develop novel heat exchanger
+    designs with increased heat transfer    x       x                              x
+     coefficients
+
+    Develop process-specific heat                                                              x              x      x        x         x      x    recovery technologies
+
+    Reduce the technical challenges
+    and costs of process-specific feed      x                       x              x               x         x
+    preheating systems
+
+    Evaluate and develop opportunities
+     for recovery from unconventional                                                                                                       x      x    waste heat sources (e.g., sidewall
+     losses)
+
+    Promote new heat recovery
+    technologies such as solid-state                                                                                x
+    generation
+
+    Promote low-cost manufacturing
+    techniques for the technologies        x       x       x      x      x      x      x        x         x      x
+    described above
+
+
+  Program Considerations to Support R&D
+
+  Challenges and Barriers for Waste Heat Recovery
+
+  The following section summarizes the barriers/challenges to WHR. These barriers, summarized in Table
+   6.M.11, are presented by type of waste heat stream and by industry.
+
+
+
+
+
+ 23  Quadrennial Technology Review 2015

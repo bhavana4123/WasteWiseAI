@@ -1,0 +1,56 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+         accessed on an open access database named “BOTTLE Plastic  References
+          Substrates Database” on plus.figshare.com.
+                                                                  1 L.  D.  Ellis,  N.  A.  Rorrer,  K.  P.  Sullivan, M.  Otto,
+                                                                                                                    J.  E. McGeehan,  Y. Román-Leshkov, N. Wierckx and
+        Licence.  Author contributions                             2 C.G. T.I. Beckham,Idumah, J.Nat.Therm.Catal.,Anal.2021,Calorim.,4, 539–556.2022, 147, 3495–
+          Conceptualization: AAC, CJT, NAR, GTB. Methodology: AAC,                                                                           3508.
+         CL, JM, LMS, AKM, CJT, NAR, GTB. Investigation: AAC, CL, JM,                                                                  3 Y. Peng, Y. Wang, L. Ke, L. Dai, Q. Wu, K. Cobb, Y. Zeng,        Unported    LMS, AKM, ASA. Data Curation: AAC, CL, JM, LMS, AKM.                                                                             R. Zou, Y. Liu and R. Ruan, Energy Convers. Manage., 2022,
+   3.0    Writing – original draft: AAC. Writing – reviewing and editing:                                                                              254, 115243.
+         AAC, CL, JM, LMS, AKM, CJT, NAR, GTB. Visualization: AAC.
+PM.                                                                4 A. Mohanty, R. K. Borah, A. P. Fatrekar, S. Krishnan and          Supervision: CJT, NAR, GTB. Funding acquisition: CJT, NAR,                                                                                  A. A. Vernekar, Chem. Commun., 2021, 57, 10277–10291.
+        GTB.                                                                  5 S. C. Kosloski-Oh, Z. A. Wood, Y. Manjarrez, J. P. de los6:34:53
+                                                                          Rios and M. E. Fieser, Mater. Horiz., 2021, 8, 1084–1129.
+                                                                  6 K. Ragaert, L. Delva and K. Van Geem, Waste Manage.,
+      Conﬂicts of interest                                                                           2017, 69, 24–58.6/21/2024
+                                                                  7 H.  Li,  H.  A.  Aguirre-Villegas,  R.  D.  Allen,  X.  Bai,on Attribution-NonCommercial    The authors declare no conflicts of interest.
+                                                                             C. H. Benson, G. T. Beckham, S. L. Bradshaw, J. L. Brown,
+                                                                             R. C. Brown, V. S. Cecon, J. B. Curley, G. W. Curtzwiler,
+                                                                                           S. Dong,  S. Gaddameedi,  J.  E.  García,  I. Hermans,     AcknowledgementsDownloaded Commons                                                             M.  S.  Kim,   J.  Ma,  L.  O.  Mark,  M.  Mavrikakis,
+      We thank David Moore for running ICP-MS analysis on all       O. O. Olafasakin,  T. A. Osswald, K. G. Papanikolaou,2024.        Creative    samples. We thank Elizabeth Stone and Kathy Cisar for the      H. Radhakrishnan, M. A. Sanchez Castillo, K. L. Sánchez-
+ a   TOC image. We thank Bill Michener, Kelly Orton, and Ryan        Rivera,  K.  N. Tumu,  R.  C. Van Lehn,  K.  L.  Vorst,March26 under    Ness  for  instrumental  support on  ASE, GC-MS/FID, and      M. M.  Wright,   J. Wu,  V. M.  Zavala,  P. Zhou and
+on      PyGC-MS and for helpful discussions. We thank Karl Weitz       G. W. Huber, Green Chem., 2022, 24, 8899–9002.
+        and  the team  at  the Environment  Molecular  Laboratory    8  J. M. Garcia and M. L. Robertson, Science, 2017, 358, 870–        licensed
+  is    Sciences (EMSL) at PNNL for running high resolution GC-MS.       872.Published     We also thank Dr Amani M. Ebrahim of the SLAC for beam-    9 Z. O. G. Schyns and M.  P.  Shaver, Macromol. Rapid
+       article    time support. We thank Dr Anna Walsh for the suggestions on      Commun., 2021, 42, 2000415.
+Article. This     Fig. 3.                                                    10 P.  Benyathiar,  P. Kumar, G. Carpenter,  J. Brace and
+Access       theThisU.S.materialDepartmentwas ofpartiallyEnergy,basedOﬃceuponof Energywork Eﬃciencysupportedandby   11 R.D. K.Geyer,Mishra,J. R.Polymers,Jambeck2022,and K.14,L.2366.Law, Sci. Adv., 2017, 3,
+Open      Renewable  Energy,  Bioenergy  Technologies Oﬃce  (BETO)       e1700782.        under Award Number DE-EE-0009285.                         12 M. D. Argyle and C. H. Bartholomew, Catalysts, 2015, 5,
+          Funding was partially provided by the U.S. Department of       145–269.
+          Energy, Oﬃce of Energy Eﬃciency and Renewable Energy,   13 A. C. Jerdy, T. Pham, M. Á. González-Borja, P. Atallah,
+        Advanced Materials and Manufacturing Technologies Oﬃce       D. Soules, R. Abbott, L. Lobban and S. Crossley, Appl.
+       (AMMTO) and Bioenergy Technologies Oﬃce (BETO). This        Catal., B, 2023, 325, 122348.
+        work  was  performed  as   part   of  the  Bio-Optimized   14 Z. R. Hinton, P. A. Kots, M. Soukaseum, B. C. Vance,
+         Technologies to keep Thermoplastics out of Landfills and the       D. G. Vlachos, T. H. Epps and L. T. J. Korley, Green Chem.,
+        Environment (BOTTLE) Consortium and was supported by       2022, 24, 7332–7339.
+      AMMTO and BETO under Contract DE-AC36-08GO28308 with   15 R. A. Hackler,  J. V. Lamb,  I. L. Peczak, R. M. Kennedy,
+         the National Renewable Energy Laboratory (NREL), operated       U.  Kanbur,  A.  M.  LaPointe,  K.  R.  Poeppelmeier,
+         by Alliance for Sustainable Energy, LLC. Use of the Stanford        A. D. Sadow and M. Delferro, Macromolecules, 2022, 55,
+         Synchrotron Radiation Lightsource, SLAC National Accelerator       6801–6810.
+          Laboratory, is supported by the U.S. Department of Energy,   16 R. K. Brizendine, E. Erickson, S. J. Haugen, K. J. Ramirez,
+       Oﬃce of Science, Oﬃce of Basic Energy Sciences under con-           J. Miscall, D. Salvachúa, A. R. Pickford, M. J. Sobkowicz,
+           tract no. DE-AC02-76SF00515.                                                           J. E. McGeehan and G.  T. Beckham, ACS Sustainable
+          The views expressed in the article do not necessarily rep-      Chem. Eng., 2022, 10, 9131–9140.
+          resent the views of the DOE or the U.S. Government. The U.S.   17 S.  R.  Nicholson, N.  A.  Rorrer,  A.  C. Carpenter and
+        Government retains and the publisher, by accepting the article       G. T. Beckham, Joule, 2021, 5, 673–686.
+           for  publication,  acknowledges  that  the  U.S. Government   18 H. Wiesinger,  Z. Wang and  S. Hellweg,  Environ.  Sci.
+          retains a nonexclusive, paid-up, irrevocable, worldwide license        Technol., 2021, 55, 9339–9351.
+          to publish or reproduce the published form of this work, or   19  J. N. Hahladakis, C. A. Velis, R. Weber, E. Iacovidou and
+          allow others to do so, for U.S. Government purposes.                    P. Purnell, J. Hazard. Mater., 2018, 344, 179–199.
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                            Green Chem., 2024, 26, 7067–7090  | 7087

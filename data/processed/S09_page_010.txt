@@ -1,0 +1,50 @@
+If an oil or fat containing a free fatty acid such as oleic acid is used to produce biodiesel, the
+alkali catalyst typically used to encourage the reaction will react with this acid to form soap.
+Figure 7 shows this reaction when the catalyst is potassium hydroxide (KOH).
+
+    O
+                ||                         +   KOH
+ HO - C - (CH2)7 CH=CH(CH2)7CH3
+
+              Oleic Acid               Potassium Hydroxide
+
+            O
+                                              ||
+   →    K+ -O - C - (CH2)7 CH=CH(CH2)7CH3   +  H2O
+
+                  Potassium oleate (soap)         Water
+
+                             Figure 7. Formation of Soap
+
+This reaction is undesirable because it binds the catalyst into a form that does not contribute to
+accelerating the reaction. Excessive soap in the products can inhibit later processing of the
+biodiesel, including glycerol separation and water washing.
+
+Water in the oil or fat can also be problem. When water is present, particularly at high
+temperatures, it can hydrolyze the triglycerides to diglycerides and form a free fatty acid. Figure
+8 shows a typical hydrolysis reaction.
+
+When an alkali catalyst is present, the free fatty acid will react to form soap following the
+reaction given earlier (Figure 7). When water is present in the reaction it generally manifests
+itself through excessive soap production. The soaps of saturated fatty acids tend to solidify at
+ambient temperatures so a reaction mixture with excessive soap may gel and form a semi-solid
+mass that is very difficult to recover.
+
+        O
+                               ||
+   CH2 - O - C - R1                      CH3 - OH
+           |                                                                                              |
+           |     O                                                                         |     O          O
+           |                   ||                                                                         |                   ||                                     ||
+   CH  - O - C - R2 +  H2O   →       CH3 - O - C - R2  +  HO – C - R1
+           |                                                                                              |
+           |     O                                                                         |     O
+           |                   ||                                                                         |                   ||
+   CH2 - O - C - R3                      CH3 - O - C - R3
+       Triglyceride     Water                  Diglyceride       Fatty acid
+
+             Figure 8. Hydrolysis of a Triglyceride to Form Free Fatty Acids
+
+
+
+                                       6

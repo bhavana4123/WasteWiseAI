@@ -1,0 +1,46 @@
+proprietary cost database (for secondary equipment such as tanks, pumps, and heat exchangers).
+Final equipment costs for this report are tabulated in Appendix A.
+
+Once equipment costs are determined, direct and indirect overhead cost factors (e.g., installation
+costs and project contingency) are applied to determine a total capital investment (TCI). The
+TCI, along with the plant operating expenses (also developed using flow rates from the Aspen
+model), is used in a discounted cash flow rate of return (DCFROR) analysis to determine a plant-
+gate price for ethanol for a given discount rate. This plant-gate price is also called the minimum
+ethanol selling price (MESP, $/gallon) required to obtain a net present value (NPV) of zero for a
+10% internal rate of return (IRR) after taxes.
+
+The product of the analysis described above is a technoeconomic model that reasonably
+estimates a product price for a pre-commercial process. The resultant MESP is unique for the set
+of process conditions simulated and it should be emphasized that a certain percentage of
+uncertainty always exists around these chosen conditions, as well as around the assumptions
+made for capital and raw material costs. Without a detailed understanding of the basis behind it,
+the absolute computed MESP has limited relevance. While the MESP can be used to assess the
+marketplace competiveness of a given process, it is best suited for comparing technological
+variations against one another or for performing sensitivity analyses that indicate where
+economic or process performance improvements are needed.
+1.4  About nth-Plant Assumptions
+The technoeconomic analysis reported here uses what are known as “nth-plant” economics. The
+key assumption implied by nth-plant economics is that our analysis does not describe a pioneer
+plant; instead, several plants using the same technology have already been built and are
+operating. In other words, it reflects a mature future in which a successful industry of n plants
+has been established. Because the technoeconomic model is primarily a tool for studying new
+process technologies or integration schemes in order to comment on their comparative economic
+impact, we feel it is prudent to ignore artificial inflation of project costs associated with risk
+financing, longer start-ups, equipment overdesign, and other costs associated with first-of-a-kind
+or pioneer plants, lest these overshadow the real economic impact of research advances in
+conversion or process integration. At the very least, these nth-plant economics should help to
+provide justification and support for early technology adopters and pioneer plants.
+In previous design reports that targeted 2012 technology, many of the nth-plant assumptions also
+applied to key 2012 research targets in conversion, e.g., 90% conversion of xylan to xylose,
+which in 2002 had not yet been experimentally demonstrated. This report will show that through
+research progress, current conversion performance is approaching the targets set in 2002 and that
+the 2012 performance targets should no longer be considered speculative. Assumptions in the
+previous model also extended to enzyme costs and some equipment costs, particularly those
+items that were not commercially available at the time (e.g., the pretreatment reactor). In the
+present design report, enzyme and equipment costs are considerably more well-defined.
+The remaining nth-plant assumptions in the present model therefore apply primarily to the
+factored cost model used to determine the total capital investment from the purchased equipment
+cost and to the choices made in plant financing. The nth-plant assumption also applies to some
+operating parameters, such as process uptime of 96%. These assumptions were agreed upon by
+
+                                       6

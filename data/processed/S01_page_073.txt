@@ -1,0 +1,57 @@
+                                                                          Foods
+
+
+    BUTTERFAT, SUMMER; solid; Three samples were measured from different sources.
+       The oily portion of cow's milk composed of 88% of the glycerides of oleic, stearic,
+       and palmitic acids and 6% of the glycerides of butyric, caproic, caprylic, and capric
+         acids.
+
+        enthalpy difference: temperature range measured -50" to 55°C (-58" to 131°F).
+
+        temperature                       Ho(t)-Ho(-500C)
+      ("C)  (,OF)      Btu lb-I                cal g-l               J g-'
+
+       -50   -58            0.00                   0.00                  0.00
+        -25   -13            17.06                   9.48                 39.66
+        0   32          43.72                  24.29               101.63
+        25    77          89.62                 49.79               208.32
+        50   122          117.79                65.44               273.80
+        55   131         122.17                67.87               283.97
+
+        heat of fusion: result is a mean value for temperature range -50" to 35°C (-58" to
+        13 1"F).
+                      1      Lf = 44.1 Btu Ib-
+      Lf = 24.5 cal g-'
+       Lf = 102.5 J g-l
+
+                                                                          55RIE
+
+    BUTTERFAT, WINTER; solid; the oily portion of cow's milk composed of 88% of the
+        glycerides of oleic, stearic, and palmitic acids and 6% of the glycerides of butyric,
+         caproic, caprylic, and captic acids. Three samples were measured from different
+         sources.
+
+        enthalpy difference: temperature range measured -50" to 55°C (-58" to 131°F).
+        temperature                Ho(t)-H0(-50 " C)
+      ("C)       ( O F )        Btu lb-I                cal g-l               J g-l
+
+         -50    -58            0.00                   0.00                  0.00
+         -25   -13          16.24                   9.02                37.74
+        0   32          41.85                  23.25                97.28
+        25    77          89.50                 49.72                208.03
+        50   122            1 19.93                  66.63               278.78
+        55   131          124.24                 69.02               288.78
+
+       heat of fusion: result is a mean value for temperature range -50" to 55°C (-58" to
+        13 1"F).
+                    1       Lf = 47.3 Btu lb-
+-      Lf = 26.3 cal g-l
+      Lf = 110.0 J g-l
+
+                                                                          55RIE
+
+
+
+
+
+                                          79

@@ -1,0 +1,16 @@
+performance determined by vendor testing. Bioreactors were modeled using experimentally-
+determined conversions of specific reactions (e.g., cellulose to glucose) rather than using
+rigorous kinetics or rate expressions. This simple stoichiometric model still satisfies mass and
+energy balances.
+
+The Aspen Plus simulation uses component physical properties internal to the software as well as
+property data developed at NREL or from the literature [22, 23]. Since the 2002 model was
+created, we have taken steps to reduce the number of custom-defined components and have
+eliminated the external property databanks. A discussion of the components and properties used
+is given in Appendix D.
+
+
+
+
+
+                                      11

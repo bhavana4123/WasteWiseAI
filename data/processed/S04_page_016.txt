@@ -1,0 +1,45 @@
+        applications are versions of the same engines. Gas turbines can be made in a wide range of sizes
+       from microturbines (to be described separately) to very large frame turbines used for central
+        station power generation. For CHP applications, their most economic application range is in sizes
+        greater than 5 MW with sizes ranging into the hundreds of megawatts. The high temperature
+       heat from the turbine exhaust can be used to produce high pressure steam, making gas turbine
+      CHP systems very attractive for process industries.
+    •   Microturbines, as already indicated, are very small gas turbines. They were developed as
+        stationary and transportation power sources within the last 30 years. They were originally based
+      on the truck turbocharger technology that captures the energy in engine exhaust heat to
+       compress the engine’s inlet air. Microturbines are clean-burning, mechanically simple, and very
+       compact. There were a large number of competing systems under development throughout the
+       1990s. Today, following a period of market consolidation, there are two manufacturers in the
+        U.S. providing commercial systems for CHP use with capacities ranging from 30-250 kW for
+        single turbine systems with multiple turbine packages available up to 1,000 kW.
+    •   Fuel cells use an electrochemical or battery-like process to convert the chemical energy of
+       hydrogen into water and electricity. In CHP applications, heat is generally recovered in the form
+        of hot water or low-pressure steam (<30 psig) and the quality of heat is dependent on the type
+        of fuel cell and its operating temperature. Fuel cells use hydrogen, which can be obtained from
+        natural gas, coal gas, methanol, and other hydrocarbon fuels. Fuel cells are characterized by the
+       type of electrochemical process utilized, and there are several competing types, phosphoric acid
+        (PAFC), proton exchange membrane (PEMFC), molten carbonate (MCFC), solid oxide (SOFC), and
+        alkaline (AFC). PAFC systems are commercially available in two sizes, 200 kW and 400 kW, and
+      two MCFC systems are commercially available, 300 kW and 1200 kW. Fuel cell capital costs
+       remain high due to low-volume custom production methods, but they remain in demand for
+      CHP applications because of their low air emissions, low-noise, and generous market subsidies.
+Table 1-2 and Table 1-3 provide a summary of the key cost and performance characteristics of the CHP
+technologies discussed in the CHP Technology Guide.
+
+      Table 1-2. Summary of CHP Technology Advantages and Disadvantages
+  CHP system               Advantages                       Disadvantages             Available sizes
+Spark ignition         •   High power efficiency with        •   High maintenance costs.     1 kW to 10
+(SI)                        part-load operational             •   Limited to lower       MW in DG
+reciprocating                  flexibility.                          temperature cogeneration     applications
+engine               •   Fast start-up.                            applications.
+Compression         •   Relatively low investment         •   Relatively high air            High speed
+ignition (CI)                 cost.                                  emissions.                    (1,200 RPM)
+reciprocating         •   Has good load following          •   Must be cooled even if     ≤4MW
+engine (dual                 capability.                          recovered heat is not used.                                                                                 < 80 MW forfuel pilot             •   Can be overhauled on site         •   High levels of low frequency                                                                        Low speed (60­ignition)                  with normal operators.                 noise.                                                                                275 RPM)                     •   Operate on low-pressure
+                             gas.
+
+
+
+
+
+Catalog of CHP Technologies                      1–4                                          Introduction

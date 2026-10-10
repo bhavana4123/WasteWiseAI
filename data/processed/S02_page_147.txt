@@ -1,0 +1,53 @@
+                        Appendix
+            Units and Conversions
+
+
+ Although it was our intention to present the collected    Length
+ data within a consistent framework of acceptable
+                                                          1 in. = 2.54 cmmetric units, this goal could be only partially achieved,
+                                                                                                  10-6 mThe still widespread use of English units did not in all     1 micron (micrometer) = 1 J.Ull =
+ cases allow transfer of the reported data to metric units.
+The internationally established gram (g), meter (m),                                              Volume compressible gas (1 atm dry)
+second  (s), and joule Ul system (SI) is therefore oc­
+ casionally replaced by units that may be more familiar     1 Nm3 WC) = 38.55 scf (77°F) = 37.32 scf (60°F)
+and more convenient to the reader. Conversion factors             = 37.90 scf (68°F)
+ are from the Handbook of Chemistry and Physics, 67th
+edition, CRC Press.                               Volume noncompressible
+                                                          1 m3 = 35.315 fi3 = 1000 litersWeight
+                                                          1 fi3 = 0.02831 m3 = 7.48 gal
+ 1 kg = 2.204 1b = 15,432 grains = 32.105 oz (troy)
+    = 0.984 X 10-3 ton (long) = 1.1023 X 10.3 ton (short)     1 gal (U.S.) = 3.785 liters = 0.1336 fi3 = 231 in.3
+                                                          1 liter = 0.353 fi3 = 0.2642 gal = 33.82 fl oz = 61.02 in.3
+Pressure
+1 atrn = 1.0133 bar = 101.33 kPa = 14.7 psia             Flow gas
+     = 29.921 in. Hg = 1419 in. HzO = 760 mm Hg        1 Nm3/h = 0.632 scfro (68"F)
+
+Velocity                                               Area
+1 mls = 3.281 fils = 3.6 km/h = 2.237 mph                                                          1 mZ = 10.76 fiz = 1550 in.z = 1.30 ydZ
+
+Energy                                                     Hearth Load (for 130 Btu/scf gas)
+1 Btu = 1.055 kJ = 252 Cal = 778.2 foot-pound-force                                                          0.9 Nm3/h-cmz = 537 scfro/fiz = 3.73 scfro/in.z
+1 kWh = 3.6 MJ = 3413 Btu                                    = 4.2 MBtulh-fi3
+1 Cal = 4.187 J
+                                           Gas Energy Content
+Density                                                  1 Btu/scf (68°F) = 9.549 kCal/Nm3 (DOC)
+                                                        = 39.98 kJ/Nm3 (DOC)1 g/cm3 = 1000 kg/m3 = 62.43 Ib/fi3
+1 Ib/fi3 = 0.01602 g/cm3 = 16.02 kg/m3                   Fuel Energy
+
+                                                          1 Btu/lb = 0.5555 Cal/g = 2.326 JIgPower
+                                                          1 Cal/g = 1.8 Btu/lb = 4.187 JIg
+1 watt = 1 J/s = 3.43 Btu/h = 0.2389 Calls = 3.6 kJ/h
+     = 1.341 X 10. 3 hp
+                                                         Gasification Rules of Thumb - approximately true
+
+Temperature                                        Fuel                                                   Consumption
+K = °C + 273.15                                           1 hp-h " 2 lb biomass = 2 scfro gas
+oR =  + 459.67 = 1.80                                   1 kWh " 3 lb biomass    of         K
+  = 1.8°C + 32                                           1 ppm " 1 mg/m3of
+
+Concentration
+1 grain/fi3 = 2.571 g/m3
+
+
+
+                                                                   Appendix: Units and Conversions    139

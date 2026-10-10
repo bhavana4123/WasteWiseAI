@@ -1,0 +1,11 @@
+Phyllis2 -  cow manure (#2782) Phyllis2 Home Browse Help cow manure (#2782) Download XLSX Download PDF ID-number #2782 Material cow manure Description manure from dairy cows Classification ECN Phyllis classification ▸ manure ▸ cow NTA 8003 classification ▸ [300] mest ▸ [320] rundermest Submitter organisation ECN (Netherlands) Submission date 2005-09-15 Remarks mechanically dried to 70% moisture, resyulting in a "liquid fertilizer" Literature L. Young, C.C.P. Pian: High-temperature, air-blown gasification of dairy-farm wastes for energy production. Energy 28 (2003) 655-672 Values Property Unit Value Std dev Det lim Lab Date Method Remarks ar dry daf Main biomass properties Proximate analysis Moisture content wt% 70.00 Ash content wt% 2.69 8.96 Ultimate analysis (macroelements) Carbon wt% 13.40 44.65 49.04 Measured Hydrogen wt% 1.76 5.85 6.43 Measured Oxygen wt% 11.45 38.18 41.94 Measured Nitrogen wt% 0.62 2.05 2.25 Measured Sulphur wt% 0.09 0.31 0.34 Measured Total (with halides) wt% 100.00 100.00 100.00 Calculated Heating value Net calorific value (LHV) MJ/kg 3.37 16.93 18.60 Gross calorific value (HHV) MJ/kg 5.46 18.21 20.00 HHV Milne MJ/kg 5.41 18.03 19.80 Calculated Ash Properties Ash composition SO 3 wt%
+                    (ash) 5.57 P 2 O 5 wt%
+                    (ash) 13.04 SiO 2 wt%
+                    (ash) 19.83 Fe 2 O 3 wt%
+                    (ash) 0.93 Al 2 O 3 wt%
+                    (ash) 1.51 CaO wt%
+                    (ash) 32.10 MgO wt%
+                    (ash) 9.84 Na 2 O wt%
+                    (ash) 5.95 K 2 O wt%
+                    (ash) 9.41 TiO 2 wt%
+                    (ash) 0.11 © 2026 TNO | Colophon Contact: Secretariaat-BCT-STIP@tno.nl

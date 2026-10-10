@@ -1,0 +1,301 @@
+[
+  {
+    "file": "engine\\__init__.py",
+    "sha256": "e648e9680849fcecee17738115632d6a711ca4a07b27a9d0401df650e32a5b67",
+    "functions": []
+  },
+  {
+    "file": "engine\\calculators\\__init__.py",
+    "sha256": "9ef65630561543e06f8a30e195d6ff01a03a79b8053be983458e74cc702bfd1b",
+    "functions": []
+  },
+  {
+    "file": "engine\\calculators\\anaerobic_digestion.py",
+    "sha256": "9c5dbf1deec802ac89481093cddc59ef166ebef5aebbd9f6f741d4a6aa95253f",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\biodiesel.py",
+    "sha256": "d1874a6117997d578cc0efca6ed7d2f383cd845c9ac6a6aeeb1e088da19b5a05",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\chp.py",
+    "sha256": "9130528b9f8578e1c43b7cb681a4578ce582194d81bb7b1021b84e693168e803",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\combustion.py",
+    "sha256": "2c1f8eb920620fcb66962a0024f0161d5c3a69526eeea5edd53c4c50bcf0d1d0",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\common.py",
+    "sha256": "ede8606d470cf2c85690387d0b1f3b133df9194f4b963fd03ed478bbde191099",
+    "functions": [
+      "base",
+      "add_parameter",
+      "feed_dry_mass",
+      "selected_parameter",
+      "reference_gate",
+      "product_success"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\fermentation.py",
+    "sha256": "82ccef0a3206fabec2ff0972377b6c2ad7d09441d18d5685b187f1a5a7535f35",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\gasification.py",
+    "sha256": "08e45c40b31e3d36665c1f62be6d1b05da1509864e6829776542d3de04d15699",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\hydrothermal.py",
+    "sha256": "a9626d347980ed1b18ef96db789a8e62e34d23bfa687d01243ebee292136e5ff",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\landfill.py",
+    "sha256": "7ba282e61dea6d96dc28be5363d649c1827e821a43cb289e32b613936ae987c8",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\pyrolysis.py",
+    "sha256": "9feace72011be24ae6c6ba7f158f9b047520362890a4e76181e8a1a1e5020aed",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\rdf.py",
+    "sha256": "5ae9a11b8c4a80d6ce261f64b41f5b27047a158b63c7dda434c020db9b475367",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\calculators\\waste_heat.py",
+    "sha256": "656f90e7bdd2c4df28d519d449740f0d7977b495aef949039045a01f8c9c6763",
+    "functions": [
+      "calculate"
+    ]
+  },
+  {
+    "file": "engine\\data_loader.py",
+    "sha256": "72793bdaa4e3ea20d80ade7202af92c0b882d16420155847d97ba78a4f3d83ce",
+    "functions": [
+      "__init__",
+      "_index",
+      "_hash",
+      "_local_file",
+      "source_is_verified",
+      "evidence_for",
+      "verified_field",
+      "validate",
+      "numeric",
+      "waste_properties",
+      "conversion_parameters",
+      "equipment_performance",
+      "source",
+      "applicable_technologies",
+      "unchanged"
+    ]
+  },
+  {
+    "file": "engine\\models.py",
+    "sha256": "d804c9c74731f6d0b05ad539fb47476b039c46b39136d62f87a2440a978f4c31",
+    "functions": [
+      "__post_init__",
+      "mass_kg",
+      "to_dict"
+    ]
+  },
+  {
+    "file": "engine\\recommender.py",
+    "sha256": "99c4440fbfb4bad429fac6ee8c459403a46dc0b84f39f9751ab806a5c761389a",
+    "functions": [
+      "calculate",
+      "recommend"
+    ]
+  },
+  {
+    "file": "engine\\units.py",
+    "sha256": "7178ca8b4b0b4d6d21a12e904a1f2a9296c479390ecea016b7476182c28058e9",
+    "functions": [
+      "number",
+      "mass_to_kg",
+      "energy_convert",
+      "dry_mass",
+      "electricity_from_fuel"
+    ]
+  },
+  {
+    "file": "scripts\\audit_sources.py",
+    "sha256": "cb510ece8e0b5806dd73580c406744cbb1cf4bf3b252a1a181f14f885c8cdb3a",
+    "functions": [
+      "audit"
+    ]
+  },
+  {
+    "file": "scripts\\build_datasets.py",
+    "sha256": "9dc0948d1724cba2f26f0d95c8ec633e1f372537282fba8aacf99ab121d830d9",
+    "functions": [
+      "proof",
+      "trace",
+      "base",
+      "commit",
+      "attempt",
+      "agricultural",
+      "reference_heat",
+      "paper_properties",
+      "ad_feed_properties",
+      "conversion",
+      "parameters",
+      "additional_experiments",
+      "htl_feed_and_mapping",
+      "phyllis_properties",
+      "performance",
+      "mapping",
+      "mappings",
+      "main"
+    ]
+  },
+  {
+    "file": "scripts\\check_engine.py",
+    "sha256": "0d144cbb5f2dcbf9bfd5a0dd95b28e44bce95b1a362ee618b6f23b9b4fe40930",
+    "functions": [
+      "main"
+    ]
+  },
+  {
+    "file": "scripts\\collect_data.py",
+    "sha256": "6e89ea3d55000ed44a45426765e70b6e620f0dab695ff8bf4382ee4d6c1a4f06",
+    "functions": [
+      "collect"
+    ]
+  },
+  {
+    "file": "scripts\\common.py",
+    "sha256": "e2c424e006c42f66d813d39d713174d6c66d3a7101609980e6bd1ab54384b3c9",
+    "functions": [
+      "read_csv",
+      "write_csv",
+      "norm",
+      "sha",
+      "load_logs",
+      "evidence_file",
+      "numeric"
+    ]
+  },
+  {
+    "file": "scripts\\demo_calculation.py",
+    "sha256": "a8f91121f373e0130806fb6a4bbd9e7d8e7b1ab809e234d38517212268f57e7a",
+    "functions": [
+      "example_requests",
+      "main"
+    ]
+  },
+  {
+    "file": "scripts\\independent_retrieve.py",
+    "sha256": "961e06f050401820305f56ec3a7a4e92dbc2632edc09e10e30cefbee8dfba745",
+    "functions": [
+      "main"
+    ]
+  },
+  {
+    "file": "scripts\\inspect_source.py",
+    "sha256": "314a2fab800f979d369bd8b5cd5328515918fb8429191a1ffada516644f042ff",
+    "functions": []
+  },
+  {
+    "file": "scripts\\validate_datasets.py",
+    "sha256": "b4d7e8c1fd30e27eba6d642bfe2f42eb28efe7b51f0d3355c344aab2ef27187d",
+    "functions": [
+      "property_numeric_columns",
+      "recompute",
+      "validate",
+      "error",
+      "warning"
+    ]
+  },
+  {
+    "file": "tests\\test_engine.py",
+    "sha256": "8db651aea0c66e83e49ccc760a11e4b17448f6d40192df5965a2ec37718abfd7",
+    "functions": [
+      "repo",
+      "wood",
+      "test_mass",
+      "test_energy",
+      "test_invalid_mass",
+      "test_invalid_moisture",
+      "test_unknown_moisture_is_not_zero",
+      "test_dry_wet_mass_consistency",
+      "test_no_average_across_modes",
+      "test_yields_not_transferred_to_sludge",
+      "test_gasification_same_run_basis",
+      "test_wrong_run_not_selected",
+      "test_gas_moisture_conflict_not_fixed_by_dry_conversion",
+      "test_property_id_cannot_select_an_unrelated_sample",
+      "test_source_traceability",
+      "test_unverified_numeric_ledger_blocks",
+      "test_missing_or_tampered_evidence_blocks",
+      "test_source_hash_blocks",
+      "test_changed_number_not_verified",
+      "test_changed_basis_not_verified",
+      "test_changed_unit_not_verified",
+      "test_all_published_gasification_runs_remain_separate",
+      "test_all_pyrolysis_modes_and_garbage_reference_samples",
+      "test_known_manure_mapping_has_no_invented_yield",
+      "test_dataset_physical_bounds_rejected",
+      "test_missing_parameter_basis_rejected",
+      "test_biogas_not_methane_and_wet_yield_needs_no_moisture",
+      "test_ad_dry_yield_uses_moisture",
+      "test_char_not_certified_biochar",
+      "test_feed_chemical_energy_not_heat_or_electricity",
+      "test_no_industrial_efficiency_applied_to_small_mass",
+      "test_documented_food_to_biogas_to_chp_chain_stays_incomplete",
+      "test_gross_vs_net_accounting",
+      "test_mapping_and_inert_exclusion",
+      "test_restricted_hazardous_never_recommended",
+      "test_preference_does_not_override_compatibility",
+      "test_operating_forecast_requires_scale_validation",
+      "test_no_double_counting",
+      "test_missing_pathways_explicit",
+      "test_invalid_requests",
+      "test_cli_json",
+      "test_datasets_unchanged"
+    ]
+  },
+  {
+    "file": "tests\\test_scientific_integrity.py",
+    "sha256": "6fe3783a7e7c8f1a8bbb1a4af62b8b82aab6b69a5172bc6df87f763f86eb1b82",
+    "functions": [
+      "rows",
+      "test_digestion_wet_and_dry_methane_are_distinct",
+      "test_pyrolysis_mass_products_close_in_each_reference_mode",
+      "test_source_inconsistencies_are_quarantined",
+      "test_reference_fuel_and_unsafe_routes_remain_explicit",
+      "test_verified_subset_has_no_orphan_numeric_evidence",
+      "test_net_constant_volume_not_silently_labeled_lhv",
+      "test_offline_rebuild_is_byte_reproducible"
+    ]
+  }
+]

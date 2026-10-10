@@ -1,0 +1,32 @@
+fuel blendstock production potential. Resource competition is simulated by ensuring that each WWTP
+can only participate in a single service territory. Within a given service territory, biocrude is
+incrementally aggregated by prioritizing neighbors by total biocrude rather than transport distance.
+Aggregation continues until the fuel price limit can no longer be achieved. Unused neighbors remain
+available for subsequent siting iterations, allowing service territories to overlap but ensuring resource
+pools are mutually exclusive. After each siting, the total fuel production potential is re-calculated for
+remaining candidates using any remaining neighbors. As siting progresses, some viable candidates
+become non-viable as their neighbors are scavenged by higher priority candidates. Siting continues until
+all candidates are either sited or no longer able to achieve the fuel price limit.
+
+   The results of the upgrading plant siting analysis are presented in Figure 13. A total of seven
+centralized upgrading sites are feasible in the U.S. given a fuel price limit of $3.50/gge. In total, these
+sites utilize 34% (13,000 dry ton/day) of the total daily sludge feedstock in the U.S. to generate
+approximately 1.32 million gallons/day of fuel blendstock. A total of 295 WWTPs (2%) were utilized
+during siting. They ranged in size from 0.05 to 812 MGD wastewater influent flow, with an average of
+40 MGD. Only two facilities had a flow rate less than 1 MGD. On average, candidate sites utilized 13%
+(range of 3-31%) of their available neighbors, but consumed 72% (range of 29-94%) of available
+biocrude produced within the service area. Regional biocrude aggregation increased fuel blendstock
+production output by 225%, over the 0.41 million gallons/day of fuel that could be produced at 9 WWTPs
+capable of independently producing fuel at or below $3.50/gge.
+
+
+
+
+
+      Figure 13. Regional fuel production at $3.50/gge from sludge HTL and biocrude upgrading.
+
+
+
+
+
+                                         36

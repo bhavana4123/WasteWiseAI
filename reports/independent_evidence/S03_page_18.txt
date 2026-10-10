@@ -1,0 +1,30 @@
+2.0 Materials and Methods
+
+Digesters
+Two 30-L acrylic digesters were operated at either mesophilic or thermophilic temperatures, and
+at a 15-, 10-, and 5- day MCRT during the study. There were a total of four feed cycles, and four
+sludge drawdown cycles occurring at six hour intervals throughout the day. The sludge
+drawdown cycle occurred before the feed cycle to prevent short-circuiting. The frequency and
+duration of the feed cycles were adjusted with a programmable two-channel timer. The
+drawdown cycles were adjusted similarly in order to meet the target MCRT. To maintain the
+temperatures in the mesophilic and thermophilic digesters at 35 ºC and 50 ºC, respectively, each
+digester was placed in a water bath with circulating immersion heaters (VWR International, Inc.,
+13271-010, West Chester, PA). Digesters and water bath temperatures were continuously
+monitored and logged using thermocouples and LabVIEW® Virtual Benchlogger™ software.
+The digesters were sealed to be gas tight with silicone sealant, and they were fed food waste pulp
+(produced from the EBMUD food waste process) semi-continuously at a set flow rate using a
+dual-head peristaltic pump and controller (Masterflex, Cole-Parmer, Chicago, IL). The contents
+of each digester was mixed continuously with an externally mounted variable-speed DC motor
+(Dayton Electrical Mfg. Co., 4Z128, Niles, IL) that turned a stainless steel shaft with two 4-inch
+diameter impellers. Biogas volumes produced by the digesters were measured using wet-tip gas
+meters (Wet Tip Gas Meter Co., Nashville, TN) with a digital totalizer that counts 1 unit per 100­
+mL of gas produced. To measure the digester sludge pH in situ, an 8-inch probe connected to an
+Orion 230A portable pH meter was inserted through a sampling port on the lid of the digesters.
+Figure 2.1 provides a schematic layout for one digester.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                              3
+Funding Opportunity No. EPA-R9-WST-06-004

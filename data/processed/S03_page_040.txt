@@ -1,0 +1,58 @@
+                       Figure 3.11 Anaerobic Food Waste Digester Volatile Solids Destruction
+
+      100
+                Start 15d MCRT                               Start 10d MCRT                                    Start 5d MCRT
+             11/27/2006                                1/9/2007                                       3/3/2007
+       90
+
+
+       80
+
+
+       70
+
+
+       60
+                                                                                                       Thermo Test
+   (%)            Typical Avg: 57%(1)                                                                    Meso Test
+       50
+   VSD                                                                                      NOTES:
+       40                                                                                                                              1. Average values of
+                                                                                                                                 digesters fed          EPA 503 Regulations Minimum 38%
+                                                                                                                          municipal sludge per
+       30                                                                                                                         previous EBMUD
+                                                                                                                                   study.
+       20
+
+
+       10
+
+
+        0
+        11/25/06      12/9/06     12/23/06      1/6/07       1/20/07       2/3/07       2/17/07       3/3/07       3/17/07
+
+                                              Date
+
+Throughout the study at 15-, 10-, and 5-day MCRTs, VSD in the digesters appeared to stabilize
+at approximately 80%, with some peaks near 90%, but both the thermophilic and mesophilic
+digesters were consistently above the average range of 50% to 60% VSD for municipal
+wastewater solids digestion. Also, the VSD is well above the minimum of 38% required by the
+EPA 503 regulations for biosolids land application. This indicates that food waste is
+significantly more biodegradable than municipal wastewater solids. During the 5-day MCRT
+operational period, the VSD in both digesters were still high despite low pH and gas production.
+This appears to be contradictory and may need further investigation.
+
+Residual Digested Solids
+Table 3.8 shows dry residual digested solids weights in tons per 100 tons of dry digester feed.
+Dry residual weights for food waste (digested at mesophilic and thermophilic temperatures) and
+municipal wastewater solids feeds are compared. Residuals are the materials remaining after
+digestion, and include both inert (non-biodegradable) and refractory (difficult to digest) organic
+materials. A 15-day MCRT is assumed for the digestion of food waste and municipal
+wastewater solids.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               25
+Funding Opportunity No. EPA-R9-WST-06-004

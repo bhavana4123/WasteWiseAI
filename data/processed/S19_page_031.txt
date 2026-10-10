@@ -1,0 +1,36 @@
+          Table 14. FY 2012 SOT Case Based on 2011 Design Report Model (with modifications as noted above);
+               Compared to 2007-2011 SOT Cases Back-Cast from 2011 Design Report Model Basis
+                                             2007 SOT  2008 SOT  2009 SOT  2010 SOT   2011 SOT   2012 SOT
+Minimum Ethanol Selling Price                      $3.64       $3.57       $3.18       $2.77       $2.56       $2.15
+Feedstock contribution ($/gal)                         $1.12       $1.04       $0.95       $0.82       $0.76       $0.83
+Conversion contribution ($/gal)                        $2.52       $2.52       $2.24       $1.95       $1.80       $1.32
+Yield (gallon/dry ton)                               69         70         73         75         78         71
+Technical Targets
+Feedstock
+Feedstock cost ($/dry ton)                           $77.20      $72.90      $69.65      $61.30      $59.60      $58.50
+Pretreatment
+Xylan to xylose (including enzymatic)               75%      75%      84%      85%      88%      81%
+Xylan to degradation products                   13%      11%      6%      8%      5%      5%
+Hydrolysate solid-liquid separation                   Yes       Yes       Yes       Yes        Yes       No
+Xylose sugar loss                          2%      2%      2%      2%      1%      0%
+Glucose sugar loss                         1%      1%      1%      1%      1%      0%
+Enzymatic Hydrolysis and Fermentation
+Enzyme contribution ($/gal ethanol)                    $0.39       $0.38       $0.36       $0.36       $0.34       $0.36
+Combined saccharification and fermentation time (d)      7          7          7          5          5          5
+CSL loading (wt%)                         1%      1%      1%      1%       0.25%      0.25%
+Overall cellulose to ethanol                     86%      86%      84%      86%      89%      74%
+Xylose to ethanol                            76%      80%      82%      79%      85%      93%
+Arabinose to ethanol                        0%      0%      51%      68%      47%      54%
+Operating Parameters
+Pretreatment solids loading (wt%)                 30%      30%      30%      30%      30%      30%
+Pretreatment temperature (°C)                       190        190        158        158        152        160
+Acid loading (mg/g dry biomass)                        38.0        30.0        24.5        22.1         15.0          9.0
+Secondary oligomer hold step                     No        Yes       Yes       Yes        Yes       No
+Ammonia loading (g/L of hydrolysate)                    12.9        12.9         9.8          4.8          3.8          1.6
+                                                                                                         Whole-Conditioning mode                                     Liquor       Liquor       Liquor       Liquor       Liquor                                                                                                                                        slurry
+                                            Washed-   Washed-   Washed-   Washed-    Washed-     Whole-Saccharification mode                                                             solids        solids        solids        solids        solids         slurry
+Enzymatic hydrolysis solids loading (wt%)           20%      20%      20%      17.5%      17.5%      20%
+Reference Aspen Model                      DW1102F  DW1102E  DW1102D  DW1102C  DW1109B   LT1209B
+
+
+                                                24

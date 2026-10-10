@@ -1,0 +1,40 @@
+Storage Stability
+
+Storage stability refers to the ability of the fuel to resist chemical changes during long term
+storage. These changes usually consist of oxidation due to contact with oxygen from the air. The
+fatty acid composition of the biodiesel fuel is an important factor in determining stability towards
+air. Generally, the more unsaturated fatty acids (C18:2, linoleic acid; C18:3 linolenic acid) are
+more susceptible towards oxidation. The changes can be catalyzed by the presence of certain
+metals (including those making up the storage container) and light. If water is present, hydrolysis
+can also occur. The chemical changes in the fuel associated with oxidation usually produce
+hydroperoxides which can, in turn, produce short chain fatty acids and aldehydes. Under the
+right conditions, the hydroperoxides can also polymerize. Therefore, oxidation is usually denoted
+by an increase in the acid value and viscosity of the fuel. Often these changes are accompanied
+by a darkening of the biodiesel color from yellow to brown and the development of a “paint”
+smell.
+
+When water is present, the esters can hydrolyze to long chain free fatty acids which also cause
+the acid value to increase.
+
+There is currently no generally accepted method for measuring the stability of biodiesel. The
+techniques generally used for petroleum-based fuels, such as ASTM D 2274, have been shown to
+be incompatible with biodiesel. Other procedures, such as the Oil Stability Index or the Rancimat
+apparatus, which are widely used in the fats and oils industry, seem to be more appropriate for
+use with biodiesel. However, the engine industry has no experience with these tests and
+acceptable values are not known. Also, the validity of accelerated testing methods has not been
+established or correlated to actual engine problems. If biodiesel’s acid number, viscosity, or
+sediment content increase to the point where they exceed biodiesel’s ASTM limits, the fuel
+should not be used as a transportation fuel.
+
+Additives such as BHT and TBHQ (t-butylhydroquinone) are common in the food industry and
+have been found to enhance the storage stability of biodiesel. Biodiesel produced from soybean
+oil naturally will contain some antioxidants (tocopherols, i.e., vitamin E), providing some
+protection against oxidation (some tocopherol is lost during refining of the oil prior to biodiesel
+production). Any fuel that will be stored for more than 6 months, whether it is diesel fuel or
+biodiesel, should be treated with an antioxidant additive.
+
+
+
+
+
+                                      104

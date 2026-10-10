@@ -1,0 +1,50 @@
+                                                                    Alloys and Metals
+
+
+ALUMINUM - Continued
+
+   heat of vaporization: at the boiling point, 2441°C (4426'F).
+
+     L,  = 4676 Btu Ib;'
+     L,  = 2598 cal g-
+     L,  = 10871 J g-l
+
+   vapor pressure:
+
+   tem erature
+   ("CP (OF)        ?(atm)          P(pa>            P(psi)
+   1060  1940       1o-36                                                  0.1             1.470 x 101;
+   1509  2748         lo-*             101.3            1.470 x 10
+   1743  3169                       1013.3            1.470 x 10-
+   2039  3702         10-          10 132.5             1.470
+   2441  4426        1.o        10 1325.            14.696
+
+                                                       63HUL/ORR
+
+ALUMINUM 2024-T4;solid; composition:  copper, 4.5%; magnesium, 1.5%; manganese,
+   0.6%; aluminum, 93.4%.
+
+    specific heat: -120" to 425OC (-250" to XOOOF)
+
+   Cp(Btu lb-'  OF-')    = 0.1933 + 1.539 x    T - 2.260 x     T2 + 1.903 x 10- 10 T3
+   Cp(cal g   OC-')     = 0.198 + 2.52 x    T - 6.73 x     T2 + 1.11 x 10-9 T3
+   Cp(J g-l "C-')      = 0.828 + 10.5 x  lo-'  T - 28.2 x     T2 + 4.64 x 10-9 T3
+
+                                                          58LUC/DEE
+
+ALUMINUM 7075-T6;solid; composition:  zinc, 5.5%; magnesium, 2.5%; copper, 1.5%;
+   chromium, 0.3%.
+
+    specific heat: -120" to 425OC (-184" to 80O0F)
+
+   Cp(Btu Ib-I OF-')    = 0.1914 + 1.505 x lod4 T - 1.896 x     T2 + 1.715 x 10- 10 T3
+   Cp(cal g-I  "C-')     = 0.196 + 2.50  x    T - 5.61 x    T2 + 1.00  x 10-9 T3
+   Cp(J g-'  "C-')     = 0.820 + 10.5 x    T - 23.5 x     T2 + 4.18 x 10-9 T3
+
+                                                          58LUC/DEE
+
+
+
+
+
+                                        35

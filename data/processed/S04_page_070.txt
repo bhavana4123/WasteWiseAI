@@ -1,0 +1,47 @@
+                Table 3-8. Gas Turbine Emissions Characteristics
+                                                            System
+          Emissions Characteristics
+                                         1           2          3         4         5
+      Electricity Capacity (kW)                  3,304       7,038       9,950     20,336     44,488
+      Electrical Efficiency (HHV)               24.0%      28.9%      27.3%     33.3%     36.0%
+     Emissions Before After-treatment
+    NOx (ppm)                              25         15         15        15        15
+    NOx (lb/MWh)                             1.31        0.65        0.69       0.57       0.52
+   CO (ppmv)                              50         25         25        25        25
+   CO (lb/MWh)                              1.60        0.66        0.70       0.58       0.53
+   NMHC (ppm)                             5          5          5         5         5
+   NMHC (lb/MWh)                          0.09        0.08        0.08       0.07       0.06
+     Emissions with SCR/CO/CEMS
+    NOx (ppm)                                   2.5          1.5          1.5         1.5         1.5
+    NOx (lb/MWh)                             0.09        0.05        0.05       0.05       0.05
+   CO (ppmv)                                   5.0          2.5          2.5         2.5         2.5
+   CO (lb/MWh)                              0.11        0.05        0.05       0.05       0.05
+   NMHC (ppm)                                4.3          4.3          4.3         4.3         2.0
+   NMHC (lb/MWh)                          0.08        0.06        0.07       0.06       0.02
+    CO2 Emissions
+    Generation CO2 (lb/MWh)                 1,667       1,381       1,460      1,201      1,110
+    Net CO2 with CHP (lb/MWh)               797        666        691       641       654
+    Source: Compiled by ICF from vendor supplied data, includes heat recovery
+
+Table 3-8 also shows the net CO2 emissions after credit is taken for avoided natural gas boiler fuel. The
+net CO2 emissions range from 641-797 lbs/MWh. A natural gas combined cycle power plant might have
+emissions in the 800-900 lb/MWh range whereas a coal power plant’s CO2 emissions would be over
+2000 lb/MWh. Natural gas fired CHP from gas turbines provides savings against both alternatives.
+
+3.5.2 Emissions Control Options
+Emissions control technology for gas turbines has advanced dramatically over the last 20 years in
+response to technology forcing requirements that have continually lowered the acceptable emissions
+levels for nitrogen oxides (NOx), carbon monoxide (CO), and volatile organic compounds (VOCs). When
+burning fuels other than natural gas, pollutants such as oxides of sulfur (SOx) and particulate matter
+(PM) can be an issue. In general, SOx emissions are greater when heavy oils are fired in the turbine. SOx
+control is generally addressed by the type of fuel purchased, than by the gas turbine technology.
+Particulate matter is a marginally significant pollutant for gas turbines using liquid fuels. Ash and metallic
+additives in the fuel may contribute to PM in the exhaust.
+
+A number of control options can be used to control emissions. Below are descriptions of these options.
+
+
+
+
+
+Catalog of CHP Technologies                         3–17                         Combustion Tubines

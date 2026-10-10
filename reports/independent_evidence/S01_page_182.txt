@@ -1,0 +1,56 @@
+                                                           Refuse
+
+
+
+REFUSE; solid; Samples are dry shredded garbage (essentially free of glass and metals).
+   The refuse material contained significant amounts of reduced carbonaceous materials
+   such as plastics, waxes, and oils.
+
+   gross heat of combustion: value is average of two trials, assume values refer to room
+   temperature.
+
+   sample A                              sample C
+                     1                      q,(gross)  = 8621 Btu lb- 1    q,(gross) = 7959 Btu lb-
+    q,(gross)   4422 cal g-'                         q,(gross)  = 4790 cal g-'
+    qv(gross) = 18500 J g-'                         q,(gross)  = 20040 J g-l
+
+   sample B                              sample D
+                     1                                               1    q,(gross) = 8540 Btu lb-                        q,(gross)   8626 Btu lb-
+   qv(gross) = 4744 cal g-l                        q,(gross)  = 4792 cal g-'
+    q,(gross) = 19850 J g-'                      qv(gross) = 20050 J g-'
+
+                                                                    77JEN/EAT
+
+REFUSE-DERIVED FUEL; solid; Ref use-derived fuel-3 (RDF-3)was obtained from the
+   National Center for Resource Recovery (NCRR), Washington, D.C.  Sample was air-
+    dried and processed to 0.5 mm particle size for laboratory test analysis.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+    moisture-free, ash-free basis.
+
+   Sample I, tested during June and July 1978. Residual moisture, 5.031 wt. %; ash
+   content, 24.18 wt. 96; sulfur content, 0.13 wt. %.
+                                              I    q,(gross)  = 9796 Btu lb-
+    q,(gross)  = 5446 cal
+    qv(gross) = 22785 J
+
+   Sample 2, tested during Dec. 1978 and Jan. 1979. Residual moisture, 6.090 wt. %; ash
+   content, 14.62 wt. %; sulfur content, 0.14 wt. %.
+                        1    q,(gross) = 9253 Btu lb-
+    q,(gross) = 5144 cal g-'
+    q,(gross)   21522 J g-l
+
+   Sample 3, tested during 1979. Residual moisture, 5.265 wt. 96; ash content,
+    11.80 wt. %; sulfur content, 0.095 wt. %.
+
+                           -1    q,(gtoss)  = 8062 Btu
+    q,(gross)  = 4482 cal g-l
+    q,(gross)  = 18752 f g-l
+
+                                                           8 1KIR/COL
+
+
+
+
+
+                                       20 1

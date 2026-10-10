@@ -1,0 +1,42 @@
+3.3  Area 300: Enzymatic Hydrolysis and Fermentation
+
+3.3.1 Overview
+In this process area, cellulose is converted to glucose using cellulase enzymes. This process is
+known as enzymatic saccharification or enzymatic hydrolysis. A cellulase enzyme preparation is
+a mixture of enzymes (catalytic proteins) that work together to break down cellulose fibers into
+cellobiose and soluble gluco-oligomers and ultimately into glucose monomers. The resulting
+glucose and other sugars hydrolyzed from hemicellulose during pretreatment are fermented to
+ethanol. Most fermentation research at NREL has used the recombinant co-fermenting bacterium
+Zymomonas mobilis because this microorganism and much of its genome are in the public
+domain [42]. “Co-fermenting” means that the organism can simultaneously ferment glucose and
+xylose to ethanol. Other co-fermenting ethanologens are also being considered at NREL and
+elsewhere, e.g., metabolically engineered strains of Saccharomyces cerevisiae [43].
+
+The process assumed in this design is known as separate (or sequential) hydrolysis and
+fermentation (SHF). Enzymatic hydrolysis is initiated while the slurry is still at an elevated
+temperature after pretreatment and conditioning. At this temperature, the enzyme activity is
+higher so conversion is faster and a smaller amount of enzyme is required. Once the conversion
+of cellulose to glucose is complete, the slurry is cooled to fermentation temperature and
+inoculated with the fermenting microorganism (the “ethanologen”). This deviates from the 2002
+process, which was based on a simultaneous saccharification and co-fermentation (SSCF)
+process in which the temperature of the slurry was reduced and fermentation was initiated before
+enzymatic hydrolysis was complete. In SSCF, the enzyme continues to hydrolyze cellulose even
+after fermentation is initiated. Fermentation creates a sugar sink (because sugar is being
+consumed by the ethanologen) that helps drive the enzymatic hydrolysis reactions toward
+glucose.
+
+The 2002 process was also nominally continuous with a total residence time of 3 days. Based on
+more recent experience with Z. mobilis, a 5-day SHF process with batch fermentation was
+selected as a more realistic case for the present design. Enzymatic hydrolysis begins in a
+continuous, high-solids reactor. As the cellulosic solids are saccharified by the enzyme, the
+viscosity of the mixture drops dramatically, such that it can be pumped to one of several parallel
+bioreactors. Hydrolysis continues in this vessel until complete, then the slurry is cooled and the
+ethanologen inoculum is added. The ethanol-containing fermentation broth is emptied to the beer
+well (storage tank) before being pumped to distillation. Figure 8 shows a simplified flow
+diagram of the enzymatic hydrolysis and fermentation process.
+
+
+
+
+
+                                      26

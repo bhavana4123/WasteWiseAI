@@ -1,0 +1,36 @@
+6.6   Future Developments
+Over the past years fuel cell capital costs have decreased and their use in multiple applications have
+increased. In 2007, SOFC were not even commercially shipping and now there are many of them being
+shipped in multiple sizes globally. In the US multiple factors point towards continued levels of fuel cell
+market penetration. These factors include: relatively low domestic natural gas prices, continued fuel cell
+technological advancements reducing capital costs and new business models such as leasing, favorable
+incentives and policies, continued desire for low emissions profiles, and general resiliency and reliability
+advantages of distributed energy.
+
+Globally, MCFC shipments by MW have been on par with that of vehicle PEMFC, as shown in Figure 6-5.
+As the only commercial developer of MCFCs in the United States, Fuel Cell Energy is uniquely positioned
+to continue its successes, both domestically and internationally.
+
+ Figure 6-5. Recent Worldwide Fuel Cell Installations by Fuel Cell Type, in Megawatts
+
+
+
+
+
+         Source: Fuel Cell Today101
+
+
+Large-scale stationary fuel cells for CHP have also been successfully deployed in Asia (specifically Korea
+and Japan). Europe could also be a growth opportunity as FuelCell Energy has formed joint ventures in
+the European continent.102 It is likely through these international joint ventures that US-based fuel cell
+manufacturers can leverage local market experience and technological expertise in international
+markets. These sales opportunities will also increase demand leading to potentially more reductions in
+costs as we have seen in solar photovoltaic panels and now batteries.
+
+
+101 “The Fuel Cell Industry Review 2013”, Fuel Cell Today. http://www.fuelcelltoday.com/media/1889744/fct_review_2013.pdf
+102 “FuelCell Energy Announces Completion of Asset Acquisition and German Joint Venture with Fraunhofer IKTS”, June 26,
+2012. http://fcel.client.shareholder.com/releasedetail.cfm?releaseid=686425
+
+
+Catalog of CHP Technologies                         6–20                                       Fuel Cells

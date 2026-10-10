@@ -1,0 +1,36 @@
+TA 6M: Waste Heat Recovery
+
+
+
+       Table 6.M.4 Waste Heat Recovery Opportunities – from Opportunity Analysis for Recovering Energy from Industrial Waste Heat and Emissions Report
+       (2006)5 and Energy Use, Loss, and Opportunities Analysis: U.S. Manufacturing & Mining3
+
+                                                                                     Economic Benefit    Description of Opportunity     Estimated Energy    Estimated Recovery   Estimated Recovery                                                                                                                                             if Realized $ billion   Area                            Available (TBtu)      Efficiency           Opportunity (TBtu)                                                                                                  (2005)
+
+  WHR from gases and liquids
+    in chemicals, petroleum, and
+     forest products, including hot     ~7,000            ~12%               851                  $2.15B
+    gas cleanup and dehydration of
+    liquid waste streams
+
+    Heat recovery from drying
+    processes (chemicals, forest       ~3,700            ~10%               377                  $1.24B
+    products, food processing)
+
+  WHR from gases in metals
+   and non-metallic minerals
+    manufacture (excluding          ~1,600            ~15%               235                  $1.23B
+     calcining), including hot gas
+    cleanup
+
+  WHR from calcining                                                                        74                   $0.16B    (not flue gases)
+
+    Heat recovery from metal                                                                        57                   $0.28B    quenching/cooling processes
+
+    Total                         >10,000                                   1,594               $5.06B
+
+
+
+
+
+ 9  Quadrennial Technology Review 2015

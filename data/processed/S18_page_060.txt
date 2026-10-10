@@ -1,0 +1,39 @@
+3.6.3 Cost Estimation
+Harris Group and Brown and Caldwell estimated cost for the wastewater system, drawing on
+support from technology vendors such as ADI and Biothane. While the BC estimate included a
+complete project cost work-up, we have only used the installed equipment costs in our
+technoeconomic model because we account for our own indirect and project costs at the plant
+level. To the extent that the cost data obtained by BC were publishable, details can be found in
+the subcontract report [65]. Harris Group also generated costs for the wastewater cooler (H-602)
+and sludge screw conveyor (C-614).
+
+3.6.4 Wastewater Challenges
+The switch from overliming to ammonia conditioning in Area 200 has forced a major change in
+our WWT design. In overliming, the sulfate from sulfuric acid pretreatment was removed after
+conditioning in the form of “gypsum” (calcium sulfate). Previous work showed that this waste
+product was about 70% gypsum; the rest was unknown organics that could possibly be classified
+as hazardous waste requiring remediation (e.g., phenolics) [66]. The disposal cost of this material
+was therefore not well defined in the 2002 model, and ultimately the sugar losses associated with
+overliming were unacceptable, prompting the switch to ammonia conditioning.
+
+Because the stillage containing ammonium and sulfate salts could no longer be concentrated into
+a combustible syrup, as noted earlier, the chosen alternative was to route the stillage to
+wastewater treatment. The ammonia is removed from the system as sodium nitrate (which
+requires caustic) and the sulfate is removed as gypsum from the combustor flue gas (which
+requires lime). At this point, readers may question the wisdom of replacing lime in pretreatment
+with the combined requirement of ammonia in pretreatment, caustic in WWT, and lime in FGD;
+this is a valid and open question. However, NREL feels that going back to overliming is not the
+obvious solution, given the cost of hydrolysate solid-liquid separation, uncertainty around the
+cost of gypsum disposal, and staggering sugar losses associated with overliming. We will
+investigate how these options affect process economics and sustainability in a future study. The
+primary research path, as discussed in Sections 3.2 and 3.3, is to reduce the amount of chemicals
+added in pretreatment and thereby move to so-called no-conditioning processes that may be
+applicable given the advanced enzymes and fermentation organisms currently in development.
+This should reduce or eliminate the need for removal of inorganic material from wastewater and
+bring the plant more in line with current corn ethanol technology.
+
+
+
+
+
+                                      50

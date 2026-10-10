@@ -1,0 +1,49 @@
+To use a pressure transducer for process control or in continuous monitoring, the transducer must
+produce an electrical signal. For the elastic element device, the direct pressure reading due to
+displacement must somehow be converted to an electrical signal. An advantage of the electrical
+sensing approach is that these devices directly provide an electrical signal. As with
+thermocouples, pressure transducers can be used for process control by comparing the measured
+pressure to a desired set point pressure.
+
+Level measurement can be used to yield mass balance information across the process or loading
+                                         in a batch reactor. Historically, level measurement
+                                      devices have typically been displacer-based meters or
+                                            differential pressure meters. The displacer-based meter
+                                                is based on buoyancy. The displacer is immersed in a
+                                        displacer chamber that is located as a side chamber. The
+                                        displacer is restrained by an elastic element whose
+                                  motion is proportional to the buoyant force, so the level
+                                   can be determined by the vertical location of the
+                                          displacer. Differential pressure meters, which are the
+most common level indicating devices, measure the
+difference in pressure between two pressure taps in a vessel.
+It is important to note that both of these level measurement
+indicators are liquid density dependent, so that changes in
+liquid densities can affect their readings. This effect can be
+particularly important if several liquid phases are present in
+the device. For example, the height of liquid in a gauge glass
+connected to a vessel is not a direct measurement of the
+liquid level! Recently, level measurement devices have
+been developed that use signal reflectance from an
+ultrasonic transducer or radio frequency, which measures the change in impedance between two
+capacitor electrodes.
+
+In addition to density, there are a number of factors that can influence the reliability of a level
+measurement. Plugged taps can occur without causing apparent discrepancies in the level
+measurement device. Excursions to high liquid levels can impact the reliability of the level
+measurement as can the presence of foam in the vessel.
+
+The measurement and control of level in a vessel generally requires two taps into the vessel. It is
+important that these taps are properly valved. Since the level indicator can be used to monitor the
+amount of material in a vessel, it can be used to track chemical inventory within the process as
+well as to control the charging of chemicals into a batch process. Level measurements can be
+converted to electrical signals that can be used for control. The most common control loop that
+includes level measurement is with operation of pumps.
+
+The final process variable that will be discussed is flow rate. Flow rate measurement will
+generally only be needed if a continuous flow process is used. There are a number of methods for
+measuring flow rates, but the most commonly used approach in chemical processes are
+
+
+
+                                      50

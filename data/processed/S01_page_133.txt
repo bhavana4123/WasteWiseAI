@@ -1,0 +1,53 @@
+Plant Materials (Non-Woody)
+
+
+
+CHEATGRASS, CURED; Bromus tectorum; solid; Material is aerial plant air-dried at
+   room temperature. Composition is ash = 6.46% and char yield = 21.7%.  Char was
+   obtained from heating the sample t o 500°C (932°F) in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                    char (from 500°C heating)
+    qv(gross) = 8330 Btu lb- 1                                                        q,(gross)  = 14100 Btu 1P-l
+    q,(gross)  = 4630 cal g-l                        q,(gross)  = 7830 cal g-
+    q,(gross)  = 19360 J g-'                          q,(gross)  = 32770 J g-l
+
+                                                                  82SUS
+
+CLOVEROOT (HERB BENNET); Geum urbanum; solid; Material is an integral part of the
+   ecosystem at the herbaceous layer level of the mixed fir and beech forest in the
+   Pulmonario (rubro) Abieti-Fagetum area of the Bucegi mountains (two different
+    stations) in Romania. The plants have the following constitution: 33% of the weight
+     is represented by the stem axis and 67% by leaves. The species has an aestival
+   (summer) type vegetation period.
+
+   gross heat of combustion: assume values refer t o room temperature and values are
+   calculated to a dry basis.
+                     1    qv(gross)  7418 Btu Ib-
+    qv(gross)  4121 cal g-'
+    q,(gross)  = 17242 J g-'
+
+                                                          73PAU/BRE
+
+COCKS-FOOT GRASS; Dactylis pozygama; solid; Material is a herb, one of the dominant
+   species of a 65-yeat-old climazonal oak forest (Quercetum petraeae-cerris) on brown
+    forest soil, at 300 m above sea level located in the southern part of the Bukk
+   Mountains of north Hungary. Samples were dried at 85°C (185OF), then ground and
+    pelleted. The ash content = 12.4%, was determined at 5OOOC (932OF)while the
+   temperature was increased stepwise.
+
+   gross heat of combustion: at 20 atm oxygen pressure, assume values refer to room
+   temperature, the number of measurements is 3.
+
+                      dry weight       ash-free dry        std dev.
+                         basis          weight basis        of mean
+
+   aboveground living material
+
+    q,(gtoss)  =          7636             8725             36.2    Btu lb-I
+    qv(gross) =          4242             4847             20.1   ca1q-l
+    q,(gross)            17749            20280             84.1    J g-
+
+                                                                            (more)

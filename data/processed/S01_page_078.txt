@@ -1,0 +1,57 @@
+Foods
+
+
+FAT, BEEF; solid.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   qv(gross) = 17100 Btu 1
+    qv(gross) = 9500 cal g-
+    q,(gross) = 39750 J g-l
+
+    fat obtained by ether extraction
+    qv(gross) = 16630 Btu lb- 1
+    q,(gross)  = 9240 cal g-l
+    q,(gross)   38660 J g-l
+
+                                                      55MER/WAT
+
+FAT, BUTTER; solid; processed from cream of cow's milk; composed mainly of glycerides
+   (90%) of oleic, palmitic, and stearic acids; remainder (10%) is made up of glycerides
+   of butyric, capric, caprylic, and caproic acids.  Saponification number 210-230.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    q,(gross)  = 16690 Btu 1P-l
+    q,(gross) = 9270 cal g-
+    q,(gross)  = 38785 J g-l
+
+                                                      55MER/WAT
+
+FAT, FRIED; solid; ultimate analysis: carbon, 73.14%; hydrogen,  I 1.5496; oxygen, 14.28%;
+    nitrogen, 0.43%; sulfur, 0.07%; ash, 0.00%; proximate analysis as received: moisture,
+   0.00%; volatile matter, 97.64%; fixed carbon, 2.36%; ash, 0.00%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+    qv(gross) = 16480 Btu 1P-l
+    q,(gross)  = 9154 cal g-
+    q,(gross)  = 38300 J g-l
+
+                                                                  66KAI
+
+FAT, LARD; liquid; Material was extracted from animal fats to form a commercial lard
+   and the acid value was 0.33 mg KOH/g.  Specific gravity (15/15OC) = 0.9145.  Fatty
+    acids found in the oil: capric, 0.18%; lauric, 0.11%; myristic, 1.52%; palmitic, 23.73%;
+    palmitoleic, 3.35%;  stearic, 15.16%; oleic, 45.42%; linoleic, 8.81%;  linolenic, 0.5 1%;
+   and eiconsenoic, 0.74%.
+
+   gross heat of cornbustion: assume values refer to room temperature.
+    qv(gtoss) = 17136 Btu lb- 1
+    q,(gtoss)  = 9520 cal g-l
+     q,(gtoss)   = 39832 J g-'
+
+                                                     75KOM/DAN
+
+
+                                       84

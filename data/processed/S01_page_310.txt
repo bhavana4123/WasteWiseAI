@@ -1,0 +1,28 @@
+Conversion Factors
+
+Subscript:        th - therrnochernical units
+Subscript:        IT - International Steam Table units
+Abbreviations:   calorie - cal
+                   joule - J
+                   British thermal unit - Btu
+              gram - g
+               pound - lb
+                Fahrenheit degree - O F
+                 Celsius degree - "C
+                 Kelvin - K
+
+In the chemical literature, authors occasionally identify the calorie or British thermal
+unit as either th or IT, but rarely is the joule subscripted in any way. An absence of any
+subscripting to indicate the kind of energy unit is the more common occutrence.
+
+
+Energy Conversion Factors
+
+     I calth  = 4.1840 J
+      I calIT  = 4.1868 J
+
+
+
+
+
+                                         336

@@ -1,0 +1,39 @@
+3.8    Volatile Solids Destruction
+
+Volatile Solids Destruction (VSD) is used to monitor digester stability. VSD is a function of
+digester feed, temperature, and MCRT. Municipal wastewater solids are typically composed of
+primary sludge and thickened waste activated sludge. Primary sludge degrades more readily than
+waste activated sludge. By increasing VSD, less residuals are produced, which decreases
+hauling costs, and more methane is usually formed. Table 3.7 summarizes the VSD data during
+each target MCRT operating period.
+
+Table 3.7. Bench-scale Anaerobic Food Waste Digester Volatile Solids Destruction (VSD)
+Summary.
+ Target MCRT,  Mesophilic Digester, VSD%   Thermophilic Digester, VSD%
+      days       AVG        SD       AVG         SD
+      15             73.8            4.7             80.8              1.6
+      10             76.4            6.3             82.4              3.0
+       5        NA       NA        NA        NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+
+Because the digesters were operated under steady state conditions, the influent feed rate was
+assumed to be the same as the digester wasting rate. This assumption simplified the mass
+balance calculation because the influent flow rate and effluent flow rate cancel each other out,
+and allowed the use of the approximate mass balance method to determine VSD. The
+approximate mass balance method requires only the VS of the food waste pulp feed and the
+digester contents to calculate VSD. The equation used is as follows:
+
+        VSD%digester = (VS%feed – VS%digester)/(VS%feed ) X 100
+
+Figure 3.11 summarizes the VSD for each digester.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               24
+Funding Opportunity No. EPA-R9-WST-06-004

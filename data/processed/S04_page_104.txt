@@ -1,0 +1,31 @@
+       Figure 5-7. Ambient Elevation vs. Temperature Derating, Capstone C65
+
+
+
+
+
+     Source: Capstone Turbines
+
+Gas turbine and microturbine performance is also affected by inlet and exhaust back-pressure. ISO
+ratings are at zero inlet pressure with no exhaust back-pressure. Adding the additional CHP heat
+exchanger definitely produces some increase in exhaust back pressure. Pressure drops on the inlet side
+from air filters also reduces the system output and efficiency. For the C65 shown in the previous figure,
+every 1” pressure drop on the inlet side produces roughly a 0.6 percent drop in power and a 0.2 percent
+drop in efficiency. A 1” pressure drop on the exhaust side produces about a 0.35 percent drop in power
+and a 0.25 percent drop in efficiency.
+
+It is important when evaluating microturbine performance at a given site to consider all of the derating
+factors that are relevant: site altitude, average temperature and seasonal temperature swings, and
+pressure loss derating resulting from filters and the CHP heat recovery system. The combination of these
+factors can have a significant impact on both capacity and efficiency. Reduction in capacity also impacts
+the unit costs of the equipment because the same costs are being spread over fewer kilowatts.
+
+5.4.3  Capital Cost
+This section provides study estimates of capital costs for basic microturbine CHP installations. It is
+assumed that the thermal energy extracted from the microturbine exhaust is used for producing hot
+water for use on-site. Equipment-only and installed costs are estimated for each representative
+microturbine system. It should be emphasized that installed costs can vary significantly depending on
+the scope of the plant equipment, geographical area, competitive market conditions, special site
+
+
+Catalog of CHP Technologies                         5–12                                  Microturbines

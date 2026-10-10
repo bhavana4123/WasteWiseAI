@@ -1,0 +1,39 @@
+shutdown every 6 to 12 months (depending on fuel quality and operation) to remove and regenerate
+the absorption modules ex-situ.57
+
+3.6   Future Developments
+In the last twenty years, there have been substantial improvement in gas turbine technology with
+respect to power, efficiency, durability, green operation, and time/cost to market. These improvements
+have been the combined results of collaborative research efforts by private industry, universities, and
+the federal government. Public private partnerships such as the DOE Advanced Turbine Systems
+Program and the Next Generation Turbine program have advanced gas turbine technology by meeting
+goals including:
+
+    •  Combined cycle electric efficiency of 60 percent (LHV)
+    •  NOx emissions of less than 10 ppm
+    •  10 percent reduction in the cost of electricity
+    •  Improvement in reliability, availability, and maintainability (RAM)
+    •  Development of the recuperated 4.6 MW Solar Mercury gas turbine with low emissions and
+         electrical efficiency of 37.5 percent (LHV) compared to an unrecuperated gas turbine of similar
+         size having an electric efficiency of 28.5 percent
+
+Current collaborative research is focusing on both large gas turbines and those applicable for distributed
+generation. Large gas turbine research is focused on improving the efficiency of combined cycle plants
+to 65 percent (LHV), reducing emission even further, and integrating gas turbines with clean coal
+gasification and carbon capture. The focus for smaller gas turbines is on improving performance,
+enhancing fuel flexibility, reducing emissions, reducing life cycle costs, and integration with improved
+thermal utilization technologies. Continued development of aeroderivative gas turbines for civilian and
+military propulsion will provide carryover benefits to stationary applications.
+
+Long term research includes the development of hybrid gas turbine fuel cell technology that is capable
+of 70 percent (LHV) electric efficiency.58
+
+
+
+
+
+57 Resource Catalysts, Inc.
+58 DOE turbine/fuel cell hybrid program, http://www.netl.doe.gov/technologies/coalpower/fuelcells/hybrids.html
+
+
+Catalog of CHP Technologies                         3–20                         Combustion Tubines

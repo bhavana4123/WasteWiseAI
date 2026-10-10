@@ -1,0 +1,50 @@
+Fossil Materials
+
+
+COAL, BITUMINOUS;solid; National Bureau of Standards (NBS) Standard Reference
+   Material (SRM) 1632a, Residual moisture, 1.145 wt. %; ash content, 22.15 wt. %;
+    sulfur content, 1.48 wt. %.
+
+   gross heat of combustion: assume values refer to room temperature; values are on a
+    moisture-free, ash-free basis.
+
+    qv(gross) = 14534 Btu lb-I
+    q,(gross)  = 8080 cal g-l
+    q,(gross)   33806 J g-l
+
+                                                                        8 lKIR/COL
+
+COAL, BITUMINOUS (HIGHGRADE); solid; ultimate analysis of combustible, ash free
+   and moisture free: carbon, 85.09%; hydrogen, 4.99%; oxygen, 6.99%; nitrogen, 1.80%;
+    sulfur,  I. 13%; proximate analysis: ash, 2.79%; moisture,  2.1 8%; volatile matter,
+   33.4%; loss on air drying, 1.0%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+
+    q,(gross)  = 15600 Btu 1                         q,(gross)   14830 Btu 1    qv(gross) = 8667 cal g- P-'                    q,(gross) = 8237 cal g-
+                                                       q,(gross)  = 34462 J g- 1    q,(gross) = 36262 J g-'
+
+                                                           18POO; 15LOR
+
+COAL, BITUMINOUS (LOW GRADE); solid; ultimate analysis of combustible, ash free
+   and moisture free: carbon, 76.1 1%; hydrogen, 4.03%; oxygen, 16.14%; nitrogen,
+    0.84%; sulfur, 2.88%; proximate analysis: ash, 26.88%; moisture, 10.88%; volatile
+   matter, 32.6%;  loss on air drying, 5.4%.
+
+   gross heat of combustion: assume values refer to room temperature.
+
+   ash free and moisture free                as received
+
+    q,(gross) = 12450 Btu 1P-l                   qv(gross) = 7747 Btu lb-I
+    q,(gross)  = 6915 cal g-                         q,(gross)  = 4304 cal g-l
+    q,(gross) = 28931 J g- 1                                                       q,(gross)  = 18008 3 g-l
+
+                                                            18POO; 15LOR
+
+
+
+
+
+                                        104

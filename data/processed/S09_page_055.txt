@@ -1,0 +1,35 @@
+differential pressure flowmeters and positive displacement flowmeters. Flowmeters can be used
+in monitoring and control. The most common control loop that includes flow rate is with
+operation of pumps.
+
+Differential flowmeters measure the difference in pressure between the two sides of a restriction
+in a confined stream. These flowmeters are based on restrictions imposed by a venturi tube, an
+orifice plate or a flow nozzle with the orifice plate meter being the most common. The orifice
+plate hole should be appropriately sized for the flow rate range of interest. If the hole is too large
+the resulting pressure change and, therefore, accuracy of the flow measurement will be
+inaccurate. In contrast, if the hole is too small, the flow rate measurement is at the cost of too
+high of a pressure drop. While orifice plate meters are typically used for flow rate measurement
+and subsequent control, it should be noted that the meters do have some potential problems.
+First, this type of flowmeter is highly dependent on the density and viscosity of the liquid.
+Orifice plates can erode or have blockage, which will lead to inaccurate measurement. The
+pressure taps can become plugged leading to erroneous flow values.
+
+Positive displacement flowmeters measure flow rates using the fluid to displace a measuring
+                                     device. Most common are rotary displacement flowmeters.
+                                    In these meters, flow rate is measured by the amount of
+                                       rotation created by flow of the fluid past a rotary device.
+                         An example of a rotary flowmeter is a vane-liquid
+                                 flowmeter in which a set of vanes mounted on a rotor with
+                                 opposing pairs rotated in a cylindrical chamber.
+
+The overall monitor and control system for a process can be achieved by individual monitors and
+controllers located directly at the process. However, it is most common in the chemical processes
+to have a centralized system for monitoring and controlling. This can be readily accommodated
+for most processes by a PC based system. A number of different software options are readily
+available for these types of systems.
+
+
+
+
+
+                                      51

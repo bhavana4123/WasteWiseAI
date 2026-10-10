@@ -1,0 +1,49 @@
+   The drawback of glycerolysis is the high temperature and that the reaction is relatively
+    slow. An advantage is that no methanol is added during the pretreatment so that as water
+    is formed by the reaction
+
+            FFA + glycerol → monoglyceride + water
+
+   The water immediately vaporizes and can be vented from the mixture.
+
+3.  Acid Catalysis: This technique uses a strong acid such as sulfuric acid to catalyze the
+    esterification of the FFAs and the transesterification of the triglycerides. The reaction
+   does not produce soaps because no alkali metals are present. The esterification reaction of
+    the FFAs to alcohol esters is relatively fast, proceeding substantially to completion in one
+   hour at 60ºC. However, the transesterification of the triglycerides is very slow, taking
+    several days to complete. Heating to 130ºC can greatly accelerate the reaction but
+    reaction times will still be 30-45 minutes. Another problem with acid catalysis is that the
+   water production from the following reaction
+
+            FFA + methanol → methyl ester + water
+
+    stays in the reaction mixture and ultimately stops the reaction, usually well before
+   reaching completion.
+
+4.  Acid catalysis followed by alkali catalysis: This approach solves the reaction rate
+   problem by using each technique to accomplish the process for which it is best suited.
+   Since acid catalysis is relatively fast for converting the FFAs to methyl esters, it is used
+    as a pretreatment for the high FFA feedstocks. Then, when the FFA level has been
+   reduced to 0.5%, or lower, an alkali catalyst is added to convert the triglycerides to
+   methyl esters. This process can convert high free fatty acid feedstocks quickly and
+    effectively. Water formation is still a problem during the pretreatment phase. One
+   approach is to simply add so much excess methanol during the pretreatment that the
+   water produced is diluted to the level where it does not limit the reaction. Molar ratios of
+    alcohol to FFA as high as 40:1 may be needed. The disadvantage of this approach is that
+   more energy is required to recover the excess methanol. Another approach would be to
+    let the acid-catalyzed esterification proceed as far as it will go until it is stopped by water
+    formation. Then, boil off the alcohol and water. If the FFA level is still too high, then
+    additional methanol and, if necessary, acid catalyst can be added to continue the reaction.
+   This process can be continued for multiple steps and will potentially use less methanol
+   than the previous approach. Again, the disadvantage is the large amount of energy
+    required by the distillation process.
+
+  A less energy intensive approach is to let the acid-catalyzed reaction mixture settle. After
+   a few hours, a methanol-water mixture will rise to the top and can be removed. Then,
+    additional methanol and acid can be added to continue the reaction. [Patent pending, Earl
+   Hammond, ISU]. It is also possible to use fluids such as glycerol and ethylene glycol to
+   wash the water from the mixture.
+
+
+
+                                   54

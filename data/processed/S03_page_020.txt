@@ -1,0 +1,33 @@
+small enough so that the slurry can be pumped through the process, therefore, some form of
+material size reduction prior to the EBMUD process may be necessary. The process is shown
+schematically in Figure 2.2. The pulp produced during this study was sampled and fed to the
+bench-scale digesters (see Gray (Gabb), et. al., 2008).
+
+Initially, during the 10-day MCRT operating period, digester temperature periodically dropped
+below the target temperature following feed cycles. To address this observed temperature drop
+at lower MCRTs, due to the higher feeding rates, daily feed buckets were stored at room
+temperature (approximately 15 ºC) to minimize the feed stock temperature effect on digester
+temperature.
+
+Sampling
+During the effluent discharge cycle, the digester sludge was collected in sample containers for
+analysis. Gas samples were collected in glass syringes with a luer lock connection from the
+digester gas line to the wet-tip gas meter.
+
+Laboratory Analysis
+Feed and digester sludge samples were analyzed by the EBMUD Laboratory for total alkalinity
+(Standard Methods (SM), vol. 18, 2320B); total volatile acids (SM, vol. 18, 5560C); total
+ammonia (EPA 350.2/SM, vol. 20, 4500); total solids and volatile solids (SM, vol.18, 2540B,
+2540 G/ EPA 160.3, 160.4); COD (SM, vol. 18, 5220D); fecal coliform (SM, vol. 18, 9221E);
+and gas composition (SM, vol. 18, 2720C). More specific information on the analytical methods
+can be found in the Quality Assurance Project Plan (QAPP) submitted to the EPA, separately
+from this report.
+
+Figure 2.2 EBMUD Food Waste Treatment Process (Patent-Pending).
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                              5
+Funding Opportunity No. EPA-R9-WST-06-004

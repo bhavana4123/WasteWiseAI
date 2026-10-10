@@ -1,0 +1,37 @@
+drives the high speed, air cooled generator. The entire assembly is surrounded by a can-like structure
+housing the recuperator and the combustion chamber.
+
+                    Figure 5-2. Compact Microturbine Design
+
+
+
+
+
+Source: Capstone Turbines, C200
+
+5.3.2.3   Recuperator & Combustor
+The recuperator is a heat exchanger that uses the hot turbine exhaust gas (typically around 1,200ºF) to
+preheat the compressed air (typically around 300ºF) going into the combustor, thereby reducing the fuel
+needed to heat the compressed air to the required turbine inlet temperature. Depending on
+microturbine operating parameters, recuperators can more than double machine efficiency. However,
+since there is increased pressure drop on both the compressed air and turbine exhaust sides of the
+recuperator, this increased efficiency comes at the expense of about a 10-15 percent drop in power
+output.
+
+5.3.2.4  CHP Heat Exchanger
+In CHP operation, microturbines offer an additional heat exchanger package, integrated with the basic
+system, that extracts much of the remaining energy in the turbine exhaust, which exits the recuperator
+at about 500-600o F. Exhaust heat can be used for a number of different applications, including potable
+water heating, space heating, thermally activated cooling and dehumidification systems (absorption
+chillers, desiccant dehumidification). Because microturbine exhaust is clean and has a high percentage
+(15 percent) of oxygen, it can also be used directly for process applications such as driving a double-
+effect absorption chiller or providing preheat combustion air for a boiler or process heat application.
+
+5.4  Performance Characteristics
+Table 5-2 summarizes cost and performance characteristics for typical microturbine CHP systems
+ranging in size from 30 kW to 1 MW. Heat rates and efficiencies are based on manufacturers’
+specifications for systems operating on natural gas, the predominant fuel choice in CHP applications.
+The table assumes that natural gas is delivered at typical low delivery pressures which require a booster
+
+
+Catalog of CHP Technologies                          5–5                                  Microturbines

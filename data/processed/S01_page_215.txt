@@ -1,0 +1,36 @@
+Woody and Tree Materials
+
+
+BEECH; Fagus silvatiea; solid; ultimate analysis: carbon, 49.06%; hydrogen, 6.1 1%;
+    nitrogen, 0.09%; ash, 0.57%.
+
+   gross heat of combustion: 20°C (68"F), air-dried at 110°-1150C (230°-2400F), ash
+    free.
+    q,(gross)  = 8624 Btu Ib- 1
+    q,(gross) = 4791 cal g-l
+    q,(gross)  = 20046 J g-l
+
+                                                             1883GOT
+
+BEEFWOOD (SHE-OAK); Casuarina equisetifolia; solid; Material is considered biomass
+    fuel and has proximate analysis values (in percent by weight dry basis) for volatile
+   concentration (VCM) = 78.94, ash content = 1.40, and fixed carbon = 19.66.  Also the
+   ultimate analysis of the elemental composition of the fuel (values in percent by
+   weight dry basis) is carbon = 48.61, hydrogen = 5.83, oxygen = 43.36, nitrogen = 0.59,
+    sulfur = 0.02, chlorine = 0.16, and residue (ash) = 1.43.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 8363 Btu lb;'
+    q,(gross) = 4646 cal g-
+    q,(gross)  = 19440 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    q,(net)  = 7856 Btu  Ib;'
+    qv(net) = 4364 cal g-
+    qv(net) = 18260 J g-'
+
+                                                                       85 JEN/EBE

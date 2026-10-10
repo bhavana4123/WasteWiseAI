@@ -1,0 +1,52 @@
+                                                                                                                    I
+Woody and Tree Materials
+
+
+REDWOOD; solid; Material is considered biomass fuel and has proximate analysis values
+    (in percent by weight dry basis) for volatile concentration (VCM) = 79.72, ash
+   content = 0.36, and fixed carbon = 19.92.  Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 50.64,
+   hydrogen = 5.98, oxygen   42.88, nitrogen = 0.05,  sulfur = 0.03, chlorine   0.02, and
+    residue (ash)   0.40.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    q,(gross)  = 8914 Btu lb- 1
+    qv(gross)  4952 cal g-l
+    qv(gross) = 20720 J g-l
+
+   net heat of combustion: assume values refer t o room temperature.
+
+   qv(net) = 8393 Btu lbll
+    qv(net) = 4663 cal gi
+    qv(net) = 19510 J g-
+
+                                                                         85 JEN/EBE
+
+REDWOOD, BARK; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM)   68.44, ash
+   content = 1.60, and fixed carbon = 29.96.
+
+   gross heat of combustion: assume values refer t o room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    qv(gross) = 8424 Btu  Ib;'
+    q,(gross) = 4680 cal g-
+    q,(gross)  = 19580 J g-l
+
+                                                                85JEN/EBE
+
+REDWOOD, HEARTWOOD; solid; Material is considered biomass fuel and has proximate
+    analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    80.28, ash content   0.17, and fixed carbon = 19.55.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+                                                       I    qv(gross) = 9095 Btu lb-
+    qv(gross) = 5053 cal g-l
+    q,(gross) = 21 140 J g-'
+
+                                                                        85 JEN/EBE

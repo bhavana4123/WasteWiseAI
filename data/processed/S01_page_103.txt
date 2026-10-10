@@ -1,0 +1,52 @@
+Fossil Materials
+
+
+FUEL, COED-3 WESTERN KENTUCKY COAL DERIVED; liquid; Material was refined by
+    fractionation.  Composition was nitrogen = 40 ppm, sulfur = 0.05 wt. %, aromatics =
+   4.7%, C9 to c 1 6 n-alkanes = 3.73 wt. %, and hydrogen = 13.34 wt. %. The freezing
+    point is -5OOC (-58°F).
+
+   net heat of combustion: assume values refer to room temperature; where net heat of
+   combustion [q (net at 25"C)I = gross heat of combustion [q (gross at 25"C)I - 91.23 H,
+   where H = hydrogen weight % of the sample.
+
+    qv(net) = 18383 Btu lb-I
+    q,(net)  = 10213 cal
+    qv(net) = 42730 J
+
+                                                         76HAZ/HAL
+
+FUEL, COED-4 UTAH COAL DERIVED; liquid; Material was refined by fractionation.
+   Composition was nitrogen = 43 ppm, sulfur   0.03 wt. %? aromatics = 6.1%, C9 to C16
+    n-alkanes = 7.45 wt.  96, and hydrogen = 13.62 wt. %. The freezing point is -40°C
+    (-4OOF).
+
+   net heat of combustion: assume values refer to room temperature; where net heat of
+   combustion [q (net at 25"C)]   gross heat of combustion [q (gross at 25"C)I - 91.23 H,
+   where H = hydrogen weight 96 of the sample.
+    qv(net) = 18465 Btu Ib- 1
+    qv(net) = 10258 cal
+    q,(net)  = 42921 J
+
+                                                         76HAZ/HAL
+
+FUEL, COED-5 WESTERN KENTUCKY COAL DERIVED; liquid; Material was refined by
+    fractionation. Composition was nitrogen = 37 ppm, sulfur = 0.03 wt. %, aromatics =
+    24.194, Cg to CI n-alkanes = 5.48 wt. 96, and hydrogen   12.81 wt. %. The freezing
+    point is -56.7OC f -70°F).
+
+   net heat of Combustion: assume values refer to room temperature; where net heat of
+   combustion [q (net at 25'C)]  = gross heat of combustion [q (gross at 25"C)] - 91.23 H,
+   where H = hydrogen weight 96 of the sample.
+
+    qv(net) = 18282 Btu lb-l
+    qv(net) = 10157 cal
+    qv(net) = 42495 J
+
+                                                        76HAZ/HAL
+
+
+
+
+
+                                       110

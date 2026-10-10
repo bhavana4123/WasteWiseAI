@@ -1,0 +1,46 @@
+Why are methyl esters of fatty acids suitable as diesel fuel?
+
+Earlier, we briefly discussed compounds such as methane, ethane, and propane. These
+compounds belong to a class of compounds called alkanes. Alkanes are compounds consisting
+only of carbon and hydrogen and they only contain single bonds. Therefore, the general formula
+for straight-chain alkanes is CH3-(CH2)n-CH3. Other alkanes, for example with branching in the
+chain, or with the carbons arranged in a ring, can also exist. However, in each case, the carbons
+are connected only with single bonds.
+
+When dealing with diesel fuels, you may have heard the term cetane number, which derives its
+name from hexadecane (trivial name: cetane), a straight-chain alkane with 16 carbons (C16H34).
+The cetane number is a dimensionless indicator of the ignition quality of a diesel fuel and is
+conceptually similar to the better-known octane number used for gasoline. Hexadecane is the
+high-quality standard on the cetane scale and has been assigned a cetane number of 100. A
+highly branched alkane, 2,2,4,4,6,8,8-heptamethylnonane (HMN; nine carbons in a chain with
+seven CH3 groups attached to it besides the two terminal CH3 groups, thus it also has 16 carbon
+atoms; try drawing its structure) is the low-quality compound on the cetane scale and has a
+cetane number of 15. Therefore, long, unbranched alkanes comprise an “ideal” petrodiesel fuel.
+The analogy to hexadecane as “ideal” petrodiesel component shows why biodiesel is suitable as
+an “alternative” diesel fuel. The fatty acids whose methyl esters are now used as biodiesel also
+are long-chain compounds similar to long-chain alkanes such as hexadecane which make good
+petrodiesel.
+
+Petrodiesel consists of many components. Besides hydrocarbons such as those mentioned above,
+petrodiesel often contains significant amounts of compounds known as aromatics. Aromatics are
+cyclic compounds such as benzene or toluene (see structures in Figure 13). The carbon atoms are
+not shown here explicitly in the structures. They are assumed to be at the intersections of the
+lines that show the bonds between the carbons.
+
+
+
+
+
+                           Figure 13. Aromatic molecules
+
+Thus, benzene has the formula C6H6 and toluene has the formula C7H8. The common
+feature of all aromatic compounds is such a ring structure. There are many aromatic compounds
+in which the ring structures are fused, for example, naphthalene (formula C10H8). They have low
+cetane numbers and therefore are undesirable components of petrodiesel. However, they have
+high densities and thus help elevate the energy contained in a gallon of the fuel. Biodiesel’s lack
+of aromatic compounds is often cited as an advantage.
+
+
+
+
+                                      16

@@ -1,0 +1,56 @@
+                                                 Woody and Tree Materials
+
+
+
+PINE, PONDEROSA; Pinus ponderosa; solid; Wood was air-dried at room temperature.
+   Composition is ash = 0.33% and char yield = 19.5%. Char was obtained from heating
+   the sample to 500°C (932°F)in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to room
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                         1    qv(gross)  8960 Btu lb-                     qv(gross)  14130 Btu 1
+    q,(gross)   4980 cal g-l                     qv(gross)  7850 cal g-
+    q,(gross)  = 20x20 J g-l                     qv(gross) = 32850 J g-'
+
+                                                                 82SUS
+
+PINE, PONDEROSA; Pinus ponderosa; solid; Material was obtained from Whitaker's
+   Forest in Tulare County, California, with predominant soil series of Shaver sandy
+   loam derived from granitic parent material. The layer was collected from the
+   understory of the forest floor. Average yearly decomposition of the forest floor for
+   ponderosa pine is:  litter, 11.16%; duff, 2.80%.
+
+   gross heat of combustion: assume values refer to room temperature; ash-free.
+
+    branch-t w ig                                      litter
+    q,(gross) = 9029 Btu lbl 1                      q,(gross)  = 9283 Btu lbl 1
+     q,(gtoss)   = 5016 cal g-                         q,(gross)  = 5157 cal g-
+    q,(gross) = 20987 J g-'                         q,(gross)  = 21577 J g-l
+
+    duff
+                                           1    q,(gross) = 10240 Btu lb-
+    q,(gross)  = 5689 cal g-l
+    q,(gross)  = 23803 J g-'
+
+                                                      78AGE/WAK
+
+PINE, PONDEROSA; A2 78 FOLIAGE; Pinus ponderosa; solid; freeze-dried to
+   < 10% moisture content. Composition is ash = 2.39% and char yield   25.2%.  Char
+   was obtained from heating the sample to 500°C (932°F)in nitrogen.
+
+    gross heat of combustion: ash-free, dry basis; assume values refer to room
+    temperature.
+
+    fuel                                     char (from 500°C heating)
+    q,(gross) = 9470 Btu lb- 1                                                       q,(gross)  = 13990 Btu 1    q,(gross) = 5260 cal g-l                        q,(gtoss)  = 7770 cal g- P-'
+    q,(gross) = 22010 J g-l                         q,(gross)   32510 J g-l
+
+                                                                  82SUS
+
+
+
+
+
+                                       285

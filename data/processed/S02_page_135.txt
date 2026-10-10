@@ -1,0 +1,58 @@
+ the engineering and development costs of the initial    graph in Fig. 13-1. If the gasifier requires continual
+ design.                                               monitoring by a skilled attendant, this cost introduces
+                                                    a significant economy-of-scale factor against very small
+ 13.3.4 Conversion Efficiency and Fuel               systems.
+ Consumption
+                                                                            It should be possible in many situations to operate
+ The efficiency with which the gasifier converts     batch-fed gasifiers with minimal attention. However, if
+ biomass fuel to a final product is an important factor     round-the-clock operation or minimal attendant labor
+ for calculating operating costs. Overall efficiency is the      is desired, then automatic operation may be more
+ product of a several efficiencies, including those for     snitable.
+ drying the biomass, operating the gasifier, and use of
+                                                   Automatic fuel feeding and ash removal require addi­ the product gas.
+                                                             tional equipment. The necessary materials and eqnip­
+Drying efficiency varies widely, depending on the    ment and reliable controls can add to the equipment
+ equipment design and heat source (see Chapters 3 and     costs on a one-time basis. The costs of automatic
+ 8). A typical fuel consumption for wood with 20%     material handling can be compared with the expected
+ moisture is roughly 2 lb/hp-h (3 Ib/kWh) (Gengas     savings in operator labor costs using Fig. 13-1 to
+ 1950).                                                   evaluate whether to install the automatic equipment.
+
+ 13.3.5 The Cost of Operating Labor
+                                                       13.3.6 Maintenance Costs
+Batch-fed gasifiers can be used in the lowest cost
+system designs. Batch-fed gasifiers are suitable for    Maintenance costs (as well as original-equipment
+many situations, especially in the context of the      costs) increase rapidly as engine size increases. For
+workplace where change of shifts, lunch, and breaks     instance, a major overhaul on Caterpillar and Onan
+ serve as natural intervals for fueling and ash removal.    100-kW natural-gas engines costs from $6000 to $9000,
+The cost of operator labor for refueling can be     representing more than a threefold increase in overall
+determined from the equation in Table 13-3 or from the     cost per kilowatt hour over a 50-kW system.
+
+
+                      Table 13-3. Sample Calculation of Electric Production Costs
+
+ For example at $1 ,000/kW equipment cost, 15% interest, operating at 80% duty cycle
+                   Equipment Cost $!kW)(Loan Interest            (1000)(15)                                                        %/yr)                                                             ΢ 2.14"/kWh                                                  ­  (80)(365)(24) -  IԠ- - C.,nt -   (Duty Cycle %)(365 days/yr)(24 h/day)                                                                                           .
+For wood chips at $24/ton, 10% H20 + Specific Fuel Consumption of 3 Ib/kWh, we get Fuel Cost
+       _ (Fuel Price $/ton)(Specific Fuelponsumption Ib/kWh) _        (24)(3)
+  Cfuel       -          (2000 Ib/ton)[1'(moisture %11 00)J       -  (2000)[1-(1011 00)]  ­                                                                   4 . 0¢!kWh .'
+
+The cost of engine wear for a 50 kW engine with 2000 h engine life and $1000 rebuild cost
+
+              Rebuild Cost $     $1000
+                                     ­                               50(2000)   Cwear -  (kW)(engine life)          -  1 .0¢/kWh
+
+Labor Cost for 1/2 h per 8 h shift at $5/h wage rate
+        _ (Wage Rate $/h)(Attention Hours/Shift) _ (5)(0.5) _ 0.625¢/kWh
+   Clabor        (Capacity kW)(Hours/Shift)            (50)(8)
+
+Normal Maintenance $6.25 for 5 qt oil capacity, $15 oil analysis, $15 plugs, $8 points, 1 h labor, 200 h maintenance
+interval
+             Parts + Labor + Oil Analysis _ (6.25 + 15 + 8) + (5) + (15) _                 .  _                                                           0 . 5¢/kWh   Cmalnt            (kW)(maintenance interval)             (50)(200)
+
+Total Cost of Electric Generation is the sum of the above components of production cost.
+            +    +     +     + Cmaint   etotal = Cint  Cfuel  Cwear  Clabor
+                                      /kWh    Ctotal          2.14 + 4.0 + 1 .0 + 0.625 + 0.5 - 8.525       -
+
+
+
+                                                                                       Decision Making      1 27

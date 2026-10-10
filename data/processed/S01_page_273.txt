@@ -1,0 +1,43 @@
+Woody and Tree Materials                                                                                                     I
+
+
+SPRUCE, RED*Picea rubens; solid; air-dried at 1O5"-11O0C (221 '-230'F);    density,           -3    0.39 g cm  .
+
+   specific heat: 273-379 K (32'-223"F)
+
+    C,(Btu  Ib-'  OF-')      0.332
+   Cp(calIJ     q -1 &)       = 0.332
+   Cp(J g-   K-')        = 1.389
+
+                                                          12DUN
+
+SWEETGUM; Liquidambar styraciflua; solid; mean age = 10 years, mean basal stem
+   diameter = 7.0 cm, mean stem bark (proportion of dry weight) = 16.0%, ash content
+   (proportion of oven dry weight) of components of sample: wood   0.47%, branches
+    2.0%, twigs   3.3%, bark = 5.7%, and leaves = 3.9%.
+
+   gross heat of combustion: oven dry weight basis; assume values refer to room
+   temperature.
+
+   wood:                                        twigs:
+                                                     q,(gross)  = 8464 Btu Ib- 1    q,(gross)  = 8498 Btu lbl'
+    q,(gross)  = 4721 cal g-                        q,(gross)  = 4702 cal g-l
+    q,(gross)  = 19753 J g-l                      q,(gross) = 19673 J g-l
+
+    bark:                                         leaves:
+    q,(gross)   8224 Btu Ibl 1                                                             q,,(gross)   8384 Btu  lb;'
+    q,(gross)  = 4569 cal g-                        q,(gross) = 4658 cal g-                                                      1    qv(gross) = 19117 J g-l                        q,(gross) = 19489 3 g-
+
+   branches:
+
+    q,(gross)  = 8431 Btu lbll
+    q,(gross)  = 4684 cal g-
+    q,(gross)  = 19598 J g-l
+
+                                                              79NEE/STE
+
+
+
+
+
+                                        296

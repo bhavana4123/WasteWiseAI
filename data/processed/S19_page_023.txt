@@ -1,0 +1,54 @@
+         12                                                         140
+
+                                                                    120         10             Run 1                   a                                    b
+       nm)                Run 2                                                                       (g/L) 100
+       600 8              Run 3                           Run 4
+     (@                Run 5                                           80
+
+                                                                      60               Run 1                Density 6                                                                                                                                                                                                                                                                   Concentration
+          4                                                                                     Run 2
+                                                                      40                                                                                                  Run 3                Optical                                                                                                                                                 Glucose
+          2                                                                                     Run 4                                                                      20
+                                                                                                  Run 5
+
+          0                                                            0
+            14         16         18         20         22             14         16         18         20         22
+                              Time (h)                                                 Time (h)
+
+             Figure 6. Cell density (a) and corresponding glucose concentration (b)
+                        during inoculum growth in the 160-L fermentor
+
+As shown in Figure 4, glucose is rapidly utilized and was entirely consumed within 24 h.
+However, differences in ethanol yields between runs depends primarily on the amount of xylose
+consumed, ignoring the small amount of arabinose that also contributes to ethanol production but
+at relatively constant yields. Figure 7 shows the xylose concentration profiles for each run. For
+the runs contaminated by the lactic acid-producing bacteria, xylose consumption is clearly
+impacted as higher xylose concentrations remain at the end of fermentation. For the successful
+runs (2, 4, and 5), the residual xylose concentration is directly related to the initial sugar
+concentrations (sum of glucose and xylose). Higher initial sugars concentrations at the start of
+fermentation lead to higher residual xylose concentrations, which may be due to ethanol
+inhibition.
+
+
+                                     60
+                                                                                      Run 1
+                                                                                      Run 2
+                                     50                                         Run 3
+                                                           (g/L)                                             RunRun 45                                     40
+
+
+                                     30                                                                                                                                                          Concentration
+                                     20
+                                                                       Xylose
+                                     10
+
+
+                                      0
+                                         0            24            48            72
+                                                     Time (h)
+
+               Figure 7. Xylose concentration profiles for each demonstration run
+
+
+
+                                      16

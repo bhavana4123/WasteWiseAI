@@ -1,0 +1,55 @@
+                                                           Polymers and Plastics
+
+
+
+POLYETHYLENE; solid; (sample I) high pressure; mol. wt. 18000-20000; crystallinity
+   50%; (sample 2) linear; Marlex; crystallinity 98%; (sample 3) low density; (sample 4)
+   high density, Mirathen H; repeating unit: C2H4.
+
+   gross heat of combustion: at 25OC (77°F)
+
+   sample 1                               sample 3
+                                                      I    q,(gross) = 19968.5 ? 1.4 Btu lb-              q,(gross) = 19876.9 2 6.3 Btu Ib-'
+    q,(gross) = 11093.6 2 0.8 cal                  q,(gross) = 11042.7 2 3.5 cal g-l
+    q,(gross) = 46415.6 2 3.3 J                    q,(gross) = 46202.7 2 14.6 J g-l
+
+   sample 2                               sample 4
+                               1                                                1    q,(gross) = 19945.6 f 3.6 Btu lb-             q,(gross) = 19985.2 2 8.3 Btu Ib-
+    q,(gross)  = 11080.9 f 2.0 cal                  q,(gross) = 11102.9 2 4.6 cal g-'
+    q,(gross) = 46362.5 2 8.4 J                    q,(gross)  = 46485.5 2 19.2 J g-l
+
+                                       49PARIMOS; 63PAR/MOS; 67FRA/MIS
+
+P0LY-a-METHYLSTYRENE; solid; anionic; amorphous; samples with different degrees
+    of polymerization, -34000 units and -13000 units gave the same heat of combustion;
+   repeating unit: CqHlO.
+
+   gross heat of combustion: at 25°C (77°F)
+
+    q,(gross)  = 18201.2 2 5.0 Btu  lb;'
+    q,(gross)  = 101 11.8 2 2.8 cal g-
+    qv(gross) = 42307.8 2 11.7 J g-l
+
+                                                                   68JOS
+
+POLY(OXY-2-METHYL-l,4€YCLOHEXYLENE); solid; Repeating unit (C7H 120)n was
+   formed from endo-2-methyl-7-oxa   icyclo C2.2.11 heptane by polymerization in
+   CH2C12. Density was 0.823 g an-',   and material was a white powdery solid.
+
+   gross heat of combustion: temperature = 25OC (77"F),pressure was 30 atrn oxygen,
+   mean value was based on percentage recovery of C02.
+                                 1    q,(gross)  = 16030.69 f 3.94 Btu Ib-
+    q,(gross)  = 8905.94 2 2.19 cal g-'
+    q,(gross)  = 37262.45 2 9.15 J g-l
+
+   heat of polymerization: temperature = 25OC (77'F),  nC7H120(liq) + (C7H120),  (solid)
+                                        1   AH(po1ymerization) = -127.7 2 14.2 Btu lb-
+   AH(po1ymerization) = - 70.95 5 7.9 cal g-'
+   AH(po1ymerization) = -296.9 t 33.0 J g-l
+
+                                                       7JAND/BAR
+
+
+
+
+                                        183

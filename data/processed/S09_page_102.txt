@@ -1,0 +1,49 @@
+              15. Biodiesel Transportation and Storage
+
+There are several key properties that need to be considered in the transportation and storage of
+biodiesel. These properties include exposure temperature, oxidative stability, fuel solvency, and
+material compatibility. Exposure temperature refers to the temperature at which the biodiesel is
+being stored or transported. Oxidative stability concerns the ability of the biodiesel to be stored
+for extended periods without degradation. Fuel solvency refers to the solvent properties of the
+biodiesel. The interaction of the biodiesel with materials of construction for storage tanks, seals,
+and gaskets is the material compatibility. Each of these properties will be discussed in more
+detail and within the context of storage.
+
+All types of diesel fuels can gel at low temperatures. The temperature required to induce gelling
+(freezing) in biodiesel is generally higher than that of conventional diesel fuel and depends on
+the composition of the biodiesel. In particular, saturated methyl esters will have higher freezing
+points than unsaturated methyl esters. The composition of the biodiesel is, of course, dictated by
+the oil feedstock used for its production.
+
+As with gelling, all diesel fuels have the potential for oxidative stability issues. Oxidative
+stability concerns the degradation of diesel fuel due to reaction of the fuel with oxygen and
+catalysts. As such, the reactivity of the fuel is important. This reactivity can be related to the
+presence of C=C (olefinic) bonds in the fuel with increased content of the C=C bonds correlated
+to decreased oxidative stability of the diesel fuel. The increase in instability of a given diesel fuel
+molecule is generally directly proportional to the increase in the number of C=C bonds in the
+molecule (i.e., a molecule containing two C=C bonds has half the stability of a molecule
+containing one C=C bond). The oxidative stability of a diesel fuel can be estimated using the
+iodine number (ASTM D 1510). The longer term stability of a diesel fuel can be evaluated using
+an accelerated stability test (ASTM D 2274). Oxidative degradation of diesel fuel is manifest by
+higher acid numbers, increased viscosity, and the formation of gums and sediments.
+
+While biodiesel is only a mild solvent, it does have higher solvency properties than diesel fuel.
+Due to this property, residual sediments in diesel storage tanks or vehicle fuel tanks can be
+solvated by biodiesel. The solvent properties of biodiesel are mitigated by the use of biodiesel in
+blends with diesel fuel. Typically, 20% or less blends of biodiesel in diesel will nearly
+completely dilute the solvency effect. However, this solvency effect should be considered if pure
+biodiesel is stored in a tank that was previously used for standard diesel.
+
+The material compatibility is also an important property to consider with biodiesel. It is best to
+use stainless steel or aluminum equipment in the processing of biodiesel. Oxidation and sediment
+production in either biodiesel or diesel can be initiated by contact with brass, bronze, copper,
+lead, tin and zinc. Biodiesel can have compatibility issues with some polymers. Shown in Table
+18 is compatibility of biodiesel with a number of polymers relative to the polymer’s
+compatibility with standard diesel. Biodiesel is compatible with the seals, gaskets and adhesives
+commonly used today. However, there may be issues with pre-1993 seals, gaskets and adhesives.
+
+
+
+
+
+                                      98

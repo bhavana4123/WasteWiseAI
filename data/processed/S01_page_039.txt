@@ -1,0 +1,46 @@
+Alloys and Metals
+
+
+CADMIUM solid; atomic number, 48; atomic wt., 112.41; density, 8.642 g cm-3
+   (539.5 lb ft-3).
+   gross heat of combustion: q (gross) is equal to the enthalpy of combustion, -AHc0 at
+                          P  .  .   25°C (77°F); product of combustion IS cadmium oxide, CdO.
+
+   q (gross) = 988 Btu lb;'   q P(gross) = 549 c a l ~ i
+   qp(gross)  2297 J g    P
+                                                        82WAG/EVA
+
+   specific heat:
+
+
+
+    298    77               0.0552                 0.0552               0.231
+    400   261               0.0577                  0.0577               0.242
+    500   441              0.0603                 0.0603               0.252
+   heat of fusion: at the melting point, 321°C (610'F).
+                   1   Lf = 23.4 Btu lb-
+      =          13.0 cal  Lf              4-1      = 54.4             J g-   Lf
+
+   heat of vaporization: at the boiling point, 2441°C (4426'F).
+
+    L, = 382 Btu lb-I
+    L,  = 212 cal
+
+
+   vapor pressure:
+
+   tem erature
+   C°CP  (OF)       P(atm)        NPa)           Hpsi)
+    213   415       1o-6                   0.1            1.470  x 10-'2
+                                                                                   x    385   725      1o - ~            101.3            1.470
+    477   891          lo-;             1013.3            1.470  x 10-
+    597  1107       10-           10132.5              I .470
+    747  1413            1 .o         101325.           14.696
+
+                                                        63HUL/ORR
+
+
+
+
+
+                                        36

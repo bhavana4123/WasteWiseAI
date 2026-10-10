@@ -1,0 +1,47 @@
+          The carona discharge work described above is the combined effort of TU/e - pulsed power,
+           plasma physics, plasma chemistry; CWI, Amsterdam - plasma modelling; ECN - field
+              testing, evaluations; RAS Institute High Temperatures (IVTAN) - plasma chemical
+            modelling; and Moscow Institute Physics and Technology (MIPT) - plasma modelling.
+
+
+            In support of commercialising the GSP Bioliq Process for biofuels, Forschungszentrum
+            Karlsruhe GmbH, or Institute for Technical Chemistry (ITC) has been conducting an
+            exhaustive screening of sorbents for removing trace constituents of HCl and H2S from hot
+          raw gases. Sorbents have been tested individually and in some cases in series of reactor
+           columns.The results from these investigations will be presented in the WS5 report. Other
+             significant gas clean-up research at ITC include basic research on filtration of sticky and
+              fine particles, sorption of HCl, H2S by alkali/alkali earth based sorbents up to 800°C,
+           low-temperature catalysis of PAH at 450 to 550°C for tar removal/reforming,
+           development and testing of ceramic candle filters, catalytic coatings of filter materials and
+            elements for tar conversion, reforming, and NH3 conversion, development of
+            nanostructured highly porous filter membranes, high-temperature synthesis gas cleaning at
+         500 to 800°C (bioliq™ process) and high-temperature pyrolysis gas cleaning and
+            conditioning (HALOCLEAN™ process).
+
+
+           Observations from the Workshop WS6 ‘Biomass Gasification: Success Stories and
+           Lessons Learned’
+          The USA experience and lessons learned with BMG process development are numerous.
+        NREL reported the following at WS6:
+          ●Herbaceous or fibrous biomass requires extraordinary care in handling and feeding.
+              Their low bulk density presents serious problems in designing effective feed handling
+            and high-pressure feed systems.
+         ●Biomass with high volatile matter content and those resulting in reactive chars can be
+               gasified in indirectly heated gasifiers to produce a medium calorific value fuel gas
+              without the use of oxygen.
+         ●If not properly controlled, gasifiers can produce tars that will have large water-soluble
+             components.
+
+
+          At the recently completed USDOE sponsored 30x30 workshop in August 2006, on
+             strategies for BMG and biofuels the key technology issues with scale-up and product gas
+              quality, and process integration were identified as feeder systems; gas cleanup: tars,
+             sulphur, particulates, etc.; matching scale to economy; and lack of adequate demonstration
+            of technologies.The non-technical issues were:
+          ●Business links - fuel resources > conversion > product distribution.
+          ●Competition between biomass, coal, natural gas, and tar sands for talent, construction
+               materials, capital.
+          ●Competing markets for resources.
+           ●Permitting issues.
+
+52

@@ -1,0 +1,45 @@
+EXECUTIVE SUMMARY
+
+Introduction and Background
+
+Food waste is the single largest category of municipal solid waste (MSW) in California at 5.9
+million tons or 16% of total MSW as of 1999 (CIWMB, 1999). Diverting a portion of food
+waste from landfills can provide a significant contribution toward achieving EPA, state, and
+local mandated solid waste diversion goals. In addition, diverting food waste from landfills
+prevents uncontrolled emissions of its breakdown products, including methane—a potent
+greenhouse gas. Currently, only about 2.5% of food waste is recycled nationwide, and the
+principal technology is composting. While composting provides an alternative to landfill
+disposal of food waste, it requires large areas of land; produces volatile organic compounds
+(smog precursors), which are released into the atmosphere; and consumes energy. Consequently,
+better recycling alternatives to composting food waste should be explored. Anaerobic digestion
+has been successfully used for many years to stabilize municipal organic solid wastes, and to
+provide beneficial end products, i.e., methane gas and fertilizer. In California, approximately
+137 wastewater treatment plants have anaerobic digesters, with an estimated excess capacity of
+15-30% (Shang, et. al., 2006). This excess digester capacity could provide an opportunity to
+recycle post-consumer food waste while producing renewable energy and reducing greenhouse
+gas emissions in California.
+
+At the East Bay Municipal Utility District’s (EBMUD) Main Wastewater Treatment Plant
+(MWWTP), food waste is currently co-digested with primary and secondary municipal
+wastewater solids and other high-strength wastes. Due to the limitations at full-scale, and risks
+of overloading digesters, it has been difficult to accurately quantify methane gas production rates,
+mean cell residence time (MCRT) requirements, and volatile solids reduction values that are
+specific to food waste digestion. Bench-scale anaerobic digesters were fed only food waste pulp
+from EBMUD’s food waste processing system (see Figure 2,2). The digesters were operated at
+both mesophilic and thermophilic temperatures, at 15-, 10-, and 5-day MCRTs. In addition,
+anaerobic food waste digestion was compared with anaerobic municipal wastewater solids
+digestion to demonstrate the benefits of food waste digestion at wastewater treatment plants.
+Key digester design and operating criteria investigated included:
+          •  Minimum MCRT.
+          •   Volatile solids and chemical oxygen demand (COD) loading rates.
+          •   Volatile solids destruction.
+          •  Methane gas production rates.
+          •  Process stability.
+          •  Thermophilic and mesophilic operating temperatures.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-1
+Funding Opportunity No. EPA-R9-WST-06-004

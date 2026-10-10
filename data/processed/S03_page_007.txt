@@ -1,0 +1,29 @@
+Results and Discussion
+
+The following sections summarize the key study results, which include: the energy value of food
+waste digestion, volatile solids destroyed and biosolids produced, MCRT, volatile solids loading
+rate, methane gas content and methane gas production rates, COD loading rate, and others. The
+food waste evaluated during this study is representative of food wastes available from restaurants,
+grocery stores, and produce markets throughout California, and around the country. Food waste
+anaerobically digested at EBMUD’s MWWTP is collected from local restaurants, grocery stores,
+and produce markets that source separate food waste. This collected food waste is pre-processed
+by a local hauler, and then further processed at EBMUD’s MWWTP into a food waste pulp, to
+reduce contaminants and prepare the food waste for optimal digestion, prior to pumping to
+EBMUD’s anaerobic digesters.
+
+Food Waste Energy Benefit
+Table ES-1 summarizes the estimated energy value of food waste. The energy value is presented
+as normalized methane production, normalized electricity production, and household electrical
+energy demand equivalent (based on 100 tons/day of food waste) at the 15-day and 10-day
+MCRT operational periods for both mesophilic and thermophilic digestion. Methane production
+and electricity production, are presented per dry ton applied and per wet ton delivered. The first
+relationship (per dry ton applied) is calculated for comparison with energy produced from
+anaerobically digesting municipal wastewater solids, and the second relationship (per wet ton
+delivered) is calculated to estimate the energy value of food waste loads diverted from landfills.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-2
+Funding Opportunity No. EPA-R9-WST-06-004

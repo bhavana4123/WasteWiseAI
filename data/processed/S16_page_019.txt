@@ -1,0 +1,60 @@
+                                                                                                                                        View Article Online
+
+       Green Chemistry                                                                               Paper
+
+
+         multiple polymer and co-polymer blends, as well as assessing   a dRI detector, on an EcoSec HLC-8321 (Tosoh, Tokyo, Japan).
+        complex additive mixtures.                                     Detailed methods including variations for diﬀerent plastic
+              Overall,  this  study  highlights  a  suite  of  analytical   substrates can be found in Text S2, S3 and Table S11.†
+         approaches to thoroughly characterize polymers for recycling
+          studies, providing the research community with readily acces-   Diﬀerential scanning calorimetry (DSC)        Licence.     sible fully characterized substrates. Described in detail are
+                                                     DSC was used to characterize both as-received and cryomilled
+         important examples of how physical and chemical properties,
+                                                                 polymer substrates. DSC measurements were simultaneously
+         such as molecular mass and the presence of antioxidants, can        Unported                                                            performed  in   triplicate  on  a  Discovery  X3  DSC  (TA         impact polymer deconstruction. It is critical for reproducibility
+   3.0                                                                  Instruments, New Castle, DE, USA) using 7–10 mg of sample        and comparisons among studies that the research community
+                                                                          in hermetically sealed aluminum pans (DSC Consumables,
+PM.       consistently and properly characterize  plastic substrates to   Austin, MN,  USA). The  glass  transition temperature  (Tg),
+         understand the impacts of a polymer’s physical properties and
+                                                                     melting temperature (Tm), enthalpy of melting (ΔHm), crystalli-
+         chemical composition in recycling studies.6:34:53                                                                       zation temperature  (Tc), temperature of cold crystallization
+                                                                                             (Tcc), and enthalpy of cold crystallization (ΔHcc) were deter-
+                                                          mined for each polymer substrate when applicable with TRIOS6/21/2024    Experimental                                             software.  Statistical  diﬀerences  were  analyzed  using  theon Attribution-NonCommercial    Materials and sample preparation                               Student’s t-test at the 95% confidence interval using a pooled
+                                                                    standard deviation (eqn (S2)†). Detailed information about the           Plastic  substrates  were  purchased  from  various  vendors
+                                                     DSC procedures for each polymer can be found in Text S4,          (Table  1). Reagents and standards were purchased  at theDownloaded Commons    highest available purity and can be found in Table S10.†  eqn (S1), (S2), and Table S12.†
+        Samples                 were cryomilled                                  using                                       a                                        Horiba                                                     Freezer                                                              Mill                                                          67702024.                                                                   Thermogravimetric analysis (TGA) and evolved gas analysis         (SPEX SamplePrep,                         Metuchen,                                         NJ,                                      USA)                                              using                                                   a SPEX                                                     6751C4        Creative
+ a    polycarbonate cylinder grinding vial. A detailed procedure can  (EGA) with TGA-FTIRMarch
+        be found in Text S1 in ESI.† Plastic substrates that were not   Thermogravimetric analysis (TGA) was used to analyze the26 under
+          viable for cryomilling include polyurethane (PU) and polyke-   thermal stability of both as-received and cryomilled polymeron
+         tone (PK).                                                          substrates. TGA was performed using a Discovery TGA 5500        licensed
+  is                                                                (TA Instruments) for all polymers except PS-2 which was run
+          Fourier-transform infrared spectroscopy (FTIR)Published                                                        on a Discovery SDT 650 (TA Instruments). For each run,
+       article    Bulk  plastic  characterization was  conducted  using  FTIR.  7–10 mg of polymer sample was placed in a platinum TGA
+           Plastic samples were run on a FTIR Spectrum 3 spectrometer   pan. Samples were heated under nitrogen from ambient temp-Article. This
+Access       (PerkinElmer,ATR  SamplingWaltham,Accessory.MA, TheUSA) Universalequipped withATR a SamplingUniversal   erature800  °Ctoat200a °Crateat a ofrate20of °Cmin−1.4 °Cmin−1,TRIOSthen fromsoftware200 °C(TAto
+Open       Accessorybounce. Thecontainscrystal wasa Diamond/ZnSecleaned before andcrystalafterwitheachonerun laserwith   Instruments)of polymer degradationwas used toandcharacterizethe weightthepercentonset oftemperatureresidue at
+         a Kimwipe sprayed with isopropanol (Fisher Scientific, ACS  800 °C. The weight percent loss and temperature of the deriva-
+          grade). A background spectrum was run before each plastic   tive maximum were determined for each weight loss event. For
+         sample. 10–15 mg of polymer sample was used. Each spectrum  samples with only one polymer mass loss event, the tempera-
+        was run at ambient temperature with a wavenumber range of   ture at which half of the initial sample weight remained (Td.50)
+         650–4000 cm−1, a resolution of 4 cm−1, and an accumulation  was also characterized. Samples that exhibited weight loss
+          of 16 scans. The force gauge was set at 75–80% of maximum   events below 200 °C that were greater than 1 wt% were further
+          pressure.  All  spectra  were  analyzed  using  PerkinElmer   characterized by EGA. Approximately 7–10 mg of each sample
+        Spectrum IR software. Library matching was conducted using   were analyzed using a Discovery SDT 650 instrument (TA
+         KnowItAll  Informatics  System  2021,  Spectroscopy  Edition   Instruments) connected to a FTIR Spectrum 3 spectrometer
+         (John Wiley & Sons, Inc.).                                      (PerkinElmer) equipped with a TL 8000 Balanced Flow FTIR
+                                                     EGA System (PerkinElmer). Details on EGA using a hyphenated
+         Gel permeation chromatography (GPC)                                                              TGA-FTIR system can be found  in  Text S5  in the  ESI.†
+       GPC coupled with a MALS and dRI detector were used to deter-   Additionally, samples with a residue greater than 1 wt% were
+        mine weight-average molecular mass (Mw), number-average   further analyzed under air (21% oxygen) to quantify char. For
+         molecular mass (Mn), and dispersity (Đ) values for both non-  each substrate, 7–9 mg of polymer sample was placed in a high
+          cryomilled and cryomilled plastic substrates. A 1260 Infinity II   temperature, platinum TGA pan and heated from ambient
+       LC system (Agilent, Santa Clara, CA, USA), consisting of a 1260   temperature to 900 °C at rate of 20 °Cmin−1 on a Discovery
+          Iso pump module, 1260 vial sampler module, and a 1260  TGA 5500 (TA Instruments). Only the cryomilled form was ana-
+        Multicolumn Thermosat (MCT) module was used for all room-   lyzed, except for cases in which the sample was already a
+         temperature GPC. Mw, Mn, and Đ for PE, PP, and EVA were  powder or not viable for cryomilling, in which case the as-
+        measured using high-temperature GPC (HT-GPC) coupled with   received substrate was analyzed.
+
+
+
+           This journal is © The Royal Society of Chemistry 2024                                           Green Chem., 2024, 26, 7067–7090  | 7085

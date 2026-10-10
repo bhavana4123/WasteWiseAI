@@ -1,0 +1,47 @@
+The role of CHP technologies could be critical in water issues, as CHP systems, particularly reciprocating
+engine, combustion turbine, microturbines, and fuel cells, use almost negligible amounts of water. A
+boiler/steam turbine CHP system water consumption would be similar to the SHP technology shown in
+Table 1-4.
+
+1.5   Outlook
+In the last twenty years, there has been substantial improvement in gas turbine technology with respect
+to power, efficiency, durability, emissions, and time/cost to market. These improvements have been the
+combined results of collaborative research efforts by private industry, universities, and the federal
+government. Public-private partnerships such as the DOE Advanced Turbine Systems Program and the
+Next Generation Turbine program have advanced gas turbine technology. Current collaborative research
+is focusing on both large gas turbines and those applicable for distributed generation. Large gas turbine
+research is focused on improving the efficiency of combined cycle plants to 65 percent (LHV), reducing
+emission even further, and integrating gas turbines with clean coal gasification and carbon capture. The
+focus for smaller gas turbines is on improving performance, enhancing fuel flexibility, reducing
+emissions, reducing life cycle costs, and integration with improved thermal utilization technologies.
+Continued development of aeroderivative gas turbines for civilian and military propulsion will provide
+carryover benefits to stationary applications. Long-term research includes the development of hybrid
+gas turbine fuel cell technology that is capable of 70 percent (LHV) electric efficiency.
+
+Microturbine manufacturers are continuing to develop products with higher electrical efficiencies.
+Working cooperatively with the Department of Energy, Capstone is developing a 250 kW model with a
+target efficiency of 35 percent (gross output, LHV) and a 370 kW model with a projected 42 percent
+efficiency. The C250 will feature an advanced aerodynamic compressor design, engine sealing
+improvements, improved generator design with longer life magnet, and enhanced cooling. The project
+will use a modified Capstone C200 turbocompressor assembly as the low-pressure section of a two shaft
+turbine. This low-pressure section will have an electrical output of 250 kW. A new high-temperature,
+high-pressure turbocompressor assembly will increase the electrical output to 370 kW. Product
+development in microturbines over the years has been to achieve efficiency and cost reductions by
+increasing the capacity of the products. Starting with original products in the 30-50 kW range,
+microturbine manufacturers have developed and are continuing to develop increasingly larger products
+that compete more directly with larger reciprocating gas engines and even small simple cycle gas
+turbines.
+
+Public-private partnerships such as the DOE Advanced Reciprocating Engine System (ARES) funded by
+DOE and the Advanced Reciprocating Internal Combustion Engine (ARICE) program funded by the
+California Energy Commission have focused attention on the development of the next generation
+reciprocating engine. The original goals of the ARES program were to achieve 50 percent brake thermal
+efficiency (LHV) , NOx emissions to less than 1 g/bhp-hr (0.3 lb/MWh), and maintenance costs of
+$0.01/kWh, all while maintaining cost competitiveness. The development focus under ARES includes:
+
+    •  Combustion chamber design
+    •   Friction reduction
+    •  Combustion of dilute mixtures
+
+
+Catalog of CHP Technologies                            1-13                                     Introduction

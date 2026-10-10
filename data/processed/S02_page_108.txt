@@ -1,0 +1,66 @@
+10.2.2 Gas Flow Measurement                        Pitot Tubes. The standard Pitot tube shown in
+                                                               Fig. 10-1 is recognized as a primary standard for
+10.2.2.1  Floating Ball Rotometers                        velocity measurements. When properly designed, it
+                                                    has a unit calibration factor, K ; 1. For pipes underClean gas flow can be measured using a rotometer (ball
+                                                   10 em (4 in.) in diameter, the average velocity is 90%and tube) flowmeter, which comes in a wide range of
+                                                       of the center-stream velocity, ±5%. For air, the gassizes up to 100 scfm. The gas must be clean at the
+                                                          velocity (ft/min) is given by the equation:rotometer, and therefore rotometers usually can be
+used only on air or oxygen streams at the gasifier inlet.    V ; 1096.7 K [.1.p                               (10-1)                                                                                          Ttest Pstd/(PG Tstd Ptest)P /2In addition, rotometers must be calibrated for the
+specific gas to be used, and the reading also depends     where:
+on the absolute gas pressure. Nevertheless, they are  '                                                ; gas density at standard conditionsvery convenient flow meaSUl'ement devices.              PG
+                                                                                           .1.p ; the differential pressure in inches of water
+10.2.2.2 Gas Flow by Differential Pressure             P ; gas pressure absolute (atmospheres)
+Measurement
+                                         T ; gas temperature (Kelvin)
+Gas flow may be measured by a number of methods that
+produce a differential pressure signal. Pitot tubes,     K ; calibration constant
+orifice meters, Venturi meters, and flow-restriction                                             The subscripts std and test refer to standard conditions
+meters all are based on measuring the pressure drop                                               and actual test conditions, respectively.produced by gas flow across or through the device. For
+each technique, the velocity is proportional to the    The standard Pitot tube shown in Fig. 10-1 introduces
+square-root of the pressure drop (.1.p).                     the smallest pressure drop of any pressure-sensing flow
+
+
+
+
+
+                                                                                                                      1 /2 In.
+                                 5 1n. - 160               2 1 /2 In. - 80
+                         ..                       _I"
+             - l /4 in.
+                                          "A"                        -j                             --,                                                                                                                                               l
+
+
+                                                                                      ..A..                                    l /S in . dia.
+
+                                               CONICAL TIP                                     ...J                     5/16 in . It                                       OD.ŷ
+
+
+
+                                                                                           5/32 in. A.                                                           HEMISPHERICALt,:                                                                                                                                                               , 
+                                                                         TIP
+
+
+
+
+                                                              8 HOLES, 0.04 in. dia.
+                                                   EQUALLY SPACED AND
+                                           SECTION         FREE FROM BURRS.
+                                             "A-A"
+
+
+                                            STATIC PRESSURE
+
+                            INNER TUBE
+                                   1/6 in. O. O. x 21 B & S GA. TUBING
+
+
+                        OUTER TUBE
+                                 5/16 in. O. O. x 16 B & S GA. TUBING
+
+                         TOTAL PRESSURE
+
+
+Fig. 10·1. Standard Pitot tube  (Source: ASME 1980, Fig. 1-1)
+
+
+100    Handbook of Biomass Downdraft Gasifier Engine Systems

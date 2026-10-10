@@ -1,0 +1,58 @@
+                                                                           Fossil Materials
+
+
+GREASE, APIEZON R; solid; low vapor-pressure residues of paraffin oil distillation
+   products; average molecular weight 660 2 100.
+
+   heat of vaporization: temperature range 4Oo-16O0C (104°-3200F).
+
+    L, = 87.98 Btu lb-I
+    L,  = 48.88 cal
+    L,  = 204.5 J
+
+   vapor pressure: temperature range 4Oo-16O0C (104°-3200F).
+
+   loglo P(Torr)   = 12.54 - 7050 T-l1 (K)
+   loglo P(Pa)    = 14.66 - 7050 T- (K)
+
+                                                              57HER/REI
+
+GREASE, APIEZON S; solid; low vapor-pressure residues of paraffin oil distillation
+   products; average molecular weight 460 ? 60.
+
+   heat of vaporization: temperature range 40"-160"C  ( 104'-320°F).
+                 1    L, = 22.54 Btu lb-
+   I, = 70.08 cal
+    L,  = 293.2 J
+
+   vapor pressure: temperature range 4O0-16O0C(104"-320°F).
+
+         P(Torr)     12.52 - 7045 T-: (K)   log10
+   loglo P(Pa)    = 14.64 - 7045 T- (€0
+
+                                                              57HER/REI
+
+GREASE, APIEZON T; solid; low vapor-pressure residues of paraffin oil distillation
+   products; also contains an aluminum soap.
+
+    specific heat: specific heat is anomalous between 205 and 320 K.
+
+
+
+     5   -450.4                 0.00 1035                0.00 1035           0.0004330
+    50   -369.4                0.07746                 0.07746             0.3241
+   100   -279.4                0.1518                  0.1518               0.635 1
+   150   -189.4                0.2149                  0.2149               0.899 1
+   200   - 99.4                0.28 I 1                  0.281 1              1.1761
+   220   - 63.4                0.362                   0.362                1.515
+   240   - 27.4                0.447                    0.447               1A70
+   260       8.6                0.498                   0.498                 2.084
+   280     44.6                0.526                   0.526                2.201
+   300     80.6                0.517                   0.517                2.163
+   320    116.6               0.5022                  0.5022               2.101
+   340    152.6               0.5180                  0.5180               2.167
+   350    170.6               0.5259                  0.5259               2.200
+
+                                                              67WES/CHI
+
+                                       117

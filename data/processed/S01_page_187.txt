@@ -1,0 +1,48 @@
+                                                             Rubber Materials
+
+
+
+DISCARDED AUTOMOBILES TIRES; solid; The destructive distillation of tires resulted
+    in a solid residue, an organic liquid, and a combustible gas of undetermined heating
+   value (the process produced a mass loss of 65%). There are four types of rubber used
+    in tires: natural, styrene-butadiene, polyisoprene, and polybutadiene. A typical
+   compounding formula for passenger tire treads made out of natural rubber: smoked
+   sheet (57.6%), reogen (1.2%), stearic acid (1.4%), zinc oxide (2%), agerite resin D
+    (0.9%), agerite HP (0.3%),  antozite 675 (2.3%), microcrystalline wax (0.6%), philrich 5
+    (2.9%), HAF (28.8%), sulfur (1.4%), amax No. 1 (0.3%), and redax (0.3%). Gross heats
+    of combustion were determined for the solid residue and organic liquid.
+
+   gross heat of combustion:
+
+    solid residue                              organic liquid
+                          1                    q,(gross)   13000 Btu lb- 1    q,(gross)  = 17000 Btu lb-
+    q,(gross) = 9600 cal g-'                         q,(gross)  = 7200 cal g-'
+    q,(gross)  = 40000 J g-'                          q,(gross)  = 30000 J g-'
+
+                                                     74COL/DOW
+
+GR-S RUBBER; solid; composed of 1-3 butadiene and 25 wt. % styrene.  Analysis of
+   material gave the following in percent by weight:  carbon = 88.954, hydrogen =
+    10.2607, ash = 0.37, soap as sodium oleate   0.42, fatty acid as oleic acid = 0.92,
+   modifier = 0.44, phenyl-beta-naphthylamine  = 0.50, and amount soluble in ethanol-
+   toluene azeotrope = 5.6.
+
+    specific heat:
+
+   tem erature
+    (KP  (OF)        Cp(Btu lb-'  OF-')        Cp(cal g-1 K -I )      Cp(J g-1 K -1 )
+
+      5   -450.4                  0.00 10                   0.00 10               0.004
+    10   -441.4                 0.0067                    0.0067                0.028
+    50   -369.4               0.0% 1                   0.081             0.33%
+   100   -279.4                 0.146                    0.146                   0.6 12
+   200     -99.4               0.26%                   0.268                 1.12
+   300     80.6                0.454                    0.454                 1.90
+
+                                                         44RAN/FER
+
+
+
+
+
+                                       207

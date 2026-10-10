@@ -1,0 +1,30 @@
+Processes 2020, 8, 1407                                                                                      4 of 14
+
+
+
+
+
+     Figure 1. Schematic diagram of the biomass fast pyrolysis system. (1) Hopper; (2) Screw feeder; (3)
+     Carrier gas preheater; (4) Gas chamber; (5) Distributor; (6) Pyrolysis reactor; (7) Free board; (8) Reactor
+     bottom-char collector; (9) Cyclone; (10) Condenser; (11) First bio-oil collector; (12) Cooler; (13) Second
+      bio-oil collector; (14) Third bio-oil collector; (15) Gas sample outlet.
+
+2.3. Analyses
+
+    Proximate and ultimate analyses of wood sawdust feed and pyrolysis products, such as bio-oil
+and biochar, were accomplished by independent organizations with a thermogravimeter (LECO Co.,
+TGA-701) and an elemental analyzer (LECO Co., TruSpec), respectively. Sulfur content of the feed
+and biochar product was determined by a sulfur analyzer (LECO CO., SC-432DR) and heating value
+was analyzed with a calorimeter (LECO Co., AC600). Water content of bio-oil was measured by
+a Karl Fisher Titrator (METTLER TOLEDO, V20). Identiﬁcation of organic compounds present in
+bio-oil product was accomplished by a GC-MSD system (GC, AGILENT 7890A and MSD, AGILENT
+5977A) with helium (purity 99.999%) as the carrier gas. A HP-5MS column was used at 45 ◦C for
+5 min followed by a ramp of 8 ◦C/min to 100 ◦C, a 3 min hold at 100 ◦C, an 8 ◦C/min ramp to 220 ◦C,
+and a 1 min hold at 220 ◦C. Compositional analysis of gaseous product was performed by a GC (DS
+SCIENCE, IGC 7200) equipped with a thermal conductivity detector for H2, CO, CO2, and CH4 and a
+ﬂame ionization detector for C2H4, C2H6, C3H6, and C3H8 species. A mixture of 8 vol% hydrogen in
+helium was used as a carrier gas. A Carboxen-1000 packed column was operated at 35 ◦C for 4.2 min
+followed by a 15 ◦C/min ramp to 227 ◦C, 30 ◦C/min to 350 ◦C, and a 2 min hold at 350 ◦C. Chemical
+oxygen demand of bio-oil was measured by a closed reﬂux titrimetric method. Total organic carbon of
+bio-oil product was measured by an independent organization with a TOC analyzer (ELEMENTAR,
+vario TOC cube). Acidity of bio-oil product was determined by a pH meter (DKK-TOA, IM-30R).

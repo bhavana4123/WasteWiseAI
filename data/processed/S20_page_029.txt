@@ -1,0 +1,48 @@
+exchanger areas are adjusted based on a more optimistic heat transfer rate that is thought to be attainable
+for the goal case. The heat transfer coefficient is dependent on the physical properties of the sludge (e.g.,
+viscosity, heat capacity, density) as well as flow properties (e.g., pipe diameter, line velocity). Testing of
+the PNNL bench scale tube-in-tube heat exchanger has shown an overall heat transfer coefficient (U) of
+50 Btu/hr/ft2/°F for heating a 15% wood slurry from 77°F to 549°F (25-287°C) with hot oil. The general
+trend in viscosity among feedstock slurries at similar solids content has been observed in PNNL testing as
+algae<sludge<wood and therefore a higher heat rate is expected for sludge compare to wood. In addition,
+sludge viscosity should decrease with shear rate and consequently scaled up systems should provide for
+higher heat rates. With higher line velocities and higher Reynolds Numbers, an overall U of 100
+Btu/hr/ft2/°F for the combined feed/product exchangers is considered achievable in the goal case
+timeframe. Further work is needed to characterize the rheology of the sludge at relevant line velocities
+and temperature ranges, investigate configurations/strategies for improved sludge heating, evaluate the
+effect of fouling on the heat transfer coefficient and ultimately demonstrate the achievable heat exchange
+rate at larger than bench scale.
+
+   The HTL reactor is a jacketed serpentine pipe with heating oil in the annular space, similar to a
+double-pipe heat exchanger. To minimize pressure drop, a configuration of two reactors in parallel is
+assumed, similar to the design in Knorr et al. (2013). The developed parameters for each reactor are
+listed in Table 6. ACCE was used to estimate the equipment cost of a fully jacketed pipe with elbow
+fittings for the reactor. Based on the PNNL experimental runs to date, an oil jacket is recommended to
+minimize heat losses over the length of the reactor. The reactor design in Knorr et al. (2013) also
+assumed a serpentine pipe type reactor, but without an oil jacket. Therefore, the capital estimate
+presented in this analysis is slightly more expensive than the Knorr design.
+
+
+                            Table 6. HTL reactor specifications.
+
+          Spec                    Value                  Spec                    Value
+
+Feed Rate, lb/hr (gal/hr)           18,300 (2,100)      Overall Length, ft                  530
+LHSV, hr-1                          6            Line velocity, ft/min                53
+Reactor Volume, gal                 350           Surface Area, ft2                   550
+Inside Pipe Diameter, inch              4           U, Btu/hr/ft2/°F            154 (Knorr et al. 2013)
+Pipe Thickness, inch                   0.67          Q, mmBtu/hr                          2.4
+Pipe Material                     SS316          Pipe section length, ft                25
+Pipe Schedule               XXH         Number of pipe sections             21
+
+Note: Two of the specified reactors are used in parallel for the process.
+
+   The capital costs for each of the major process components of the HTL section are given in Table 7.
+Individual equipment costs as well as scaling assumptions and installation factors can be found in
+Appendix B.
+
+
+
+
+
+                                         14

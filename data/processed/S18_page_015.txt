@@ -1,0 +1,49 @@
+1.3  Technoeconomic Analysis Approach
+Figure 2 describes the engineering approach used here for modeling the conversion of biomass to
+ethanol, including process design, process modeling, and economic analysis.
+
+
+
+   Engineering Companies
+    Consulting on Process            Process Flow Diagrams
+        Configuration
+
+                                                           NREL or other
+                                                                   DOE-Sponsored
+                                                                         Research
+                                          Rigorous      Estimates of Other                                        Material & Energy Balances   Commercial Technology                                        (Aspen Plus)
+                                                                         Outside Engineering
+                                                                       Studies (e.g., feed handling,
+                                                                                  separations)
+       Cost Estimation
+    Software (e.g., ICARUS)
+
+                                          Capital & Project Cost                                                                  Vendor Cost Quotations                                             Estimation
+
+    Engineering Company
+      Cost Estimations
+
+                                     Discounted Cash Flow
+                                    Economic Model
+
+
+
+
+                               Minimum Ethanol Selling
+                                                  Price
+
+              Figure 2. NREL’s approach to process design and economic analysis
+
+Starting from the general process flow diagram (PFD) shown in Figure 1 and the more detailed
+PFDs contained in Appendix E, a process simulation is developed using Aspen Plus software [3].
+This process model computes thermodynamically-rigorous material and energy balances for each
+unit operation in this conceptual biorefinery.
+
+The material and energy balance data from the Aspen simulation are next used to assist in
+determining the number and size of capital equipment items. As process conditions and flows
+change, baseline equipment costs are automatically adjusted in an Excel spreadsheet using a
+scaling exponent. These baseline costs come from vendor quotes (favored for larger or non-
+standard unit operations and packaged or skid-mounted subsystems) or from Harris Group’s
+
+
+                                      5

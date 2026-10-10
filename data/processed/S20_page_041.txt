@@ -1,0 +1,41 @@
+                    Table 17. Total capital investment for sludge HTL plant.
+
+                              Cost Item                        Million US Dollars (2014$)
+               Sludge dewatering                                         1.43
+           HTL biocrude production                                   13.1
+           HTL aqueous phase treatment                               3.09
+               Balance of plant                                           0.62
+              Total Installed Cost (TIC)                                  18.2
+                Buildings (4% of TIC)                                      0.73
+                  Site development (10% of TIC)                             1.82
+                Additional piping (4.5% of TIC)                             0.73
+              Total Direct Costs (TDC)                                   21.5
+
+                Indirect Costs
+                Prorated expenses (10% TDC)                              2.15
+           Home office & construction fees (20% TDC)                 4.30
+                 Field expenses (10% TDC)                                 2.15
+                 Project contingency (10% TDC)                             2.15
+                 Startup and permits (10% TDC)                             2.15
+              Total Indirect                                              12.9
+
+             Fixed Capital Investment (FCI)                             34.4
+
+             Working Capital (5% of FCI)                                 1.72
+                Land(a)                                                   0.009
+              Total Capital Investment (TCI)                             36.2
+                 (a) Scaled on Dutta et al. 2011
+
+
+3.1.2   Operating Costs
+
+    Variable operating costs and supporting assumptions for the sludge HTL plant are given in Table 18.
+The largest contributors to annual operating cost are quicklime for HTL aqueous phase ammonia
+stripping, natural gas for the HTL process, extra aeration power needed for processing the recycled HTL
+water in the WWTP’s biological treatment step, and polymer consumed for sludge dewatering.
+
+
+
+
+
+                                         26

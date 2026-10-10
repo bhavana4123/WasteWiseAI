@@ -1,0 +1,46 @@
+Vegetable Oils
+
+
+RAPE OIL, REFINED; liquid; The saponification number, which is the mean molecular
+   weight of the fatty acids present in the molecule = 175. The amount of iodine
+   absorbed and expressed as a percentage of the molecular weight (a measure of the
+   proportion of unsaturated fatty acid present) called the iodine number = 105.
+
+   enthalpy difference: temperature range measured -50" to 55°C (-58"  t o 131°F).
+
+   temperature                  H"(t)-H "(-50 C)
+  ("C)      ( O F )        Btu Ib-I                cal g-l                 J g-'
+
+    -50    -58              0.00                      0.00                    0.00
+    -25    -13            16.69                    9.27                  38.79
+     0    32           47.75                   26.53              11 1.00
+    25    77           91.10                   50.6 1             21 1.75
+    50   122        112.46                  62.48               26 1.42
+    55   131          116.77                   64.87              27 1.42
+
+   heat of fusion: result is a mean value for temperature range -50" to 55°C (-58'  to
+   131OF).
+
+  Lf  35.6 Btu Ib-I
+   Lf   19.8 cal
+
+
+                                                                      55RIE
+
+RAPESEED OIL; liquid; Material was extracted from industrially stored oil seeds and the
+   acid value was 10.77 mg KOH/g. The specific gravity (15/15OC)   0.9134.  Fatty
+   acids found in the oil: palmitic (3.84%), palmitoleic (0.32%), stearic (1.49%), oleic
+    (14.77%),  linoleic (15.12%),  linolenic (6.29%), eicosenoic (9.44961, and erucic (47.93%).
+
+   gross heat of combustion: assume values refer to room temperature.
+                          1    qv(gross)  17487 Btu Ib-
+    q,(gross) = 9715 cal
+    q,(gross)  = 40648 J
+
+                                                     75KOM/DAN
+
+
+
+
+
+                                       224

@@ -1,0 +1,56 @@
+                                                                                                                                        View Article Online
+
+        Paper                                                                             Green Chemistry
+
+      Discussion                                             ing solutions to removing additives prior to recycling.110 In the
+                                                          same study, Hinton et al. found improved yields after solvent
+             It is essential to fully characterize polymers prior to recycling   stripping a PE containing an antioxidant.14 Sulfur, halides,
+          studies to understand and compare results across studies.   cyanides, and nitro compounds are also important to consider
+         Polymer properties including crystallinity, molecular mass dis-   because they can be potent metal catalyst poisons.12,111 The        Licence.     tribution, and morphology can have potential impacts on   accumulation  of  toxic  additives  might  also  impact  the
+         deconstruction  chemistries.  Furthermore,  organic and  in-  eﬃciency of bioconversion processes, due to the antibiotic
+         organic  additives can  also impact  certain  deconstruction   nature of certain additives such as halogenated phenols and        Unported          chemistries. This study provides a framework of analytical pro-   antimicrobials.107
+   3.0         cedures for characterizing polymer properties and the presence      Additives such as halogenated organics and heavy metals
+PM.       of additives, as well as providing a source of fully characterized  may pose a threat to the environment and can possibly be
+         polymer substrates that can be accessed by the global research   released during recycling  processes.19,108 For example, low
+        community.                                                molecular mass fluorinated compounds are likely to impact6:34:53
+                                                                     waste streams as they are diﬃcult to break down and are long
+          Potential impacts of polymer properties on recycling                                                                               lasting in the environment.112–114 As evidenced by this study,
+         Molecular mass and dispersity of a polymer can potentially   the use of low molecular mass fluoropolymers is likely wide-6/21/2024
+         impact the product yields and speciation of products depend-   spread in other polymer classes. This is becoming increasinglyon Attribution-NonCommercial
+         ing on the recycling technology.79,80,96,97 For example, Celik   important with evolving  total organic fluorine regulations,
+            et  al. have shown that hydrogenolysis of higher molecular  which do not distinguish between chemical species of fluori-
+         weight PE using a Pt/SrTiO3 catalyst results in higher product   nated compounds.115 Phthalates are another widely used classDownloaded Commons     yields likely because higher molecular weight PE is preferen-   of additives, and several are regulated in Japan, the European
+            tially absorbed to the surface of the catalyst.79 In contrast,   Union, the United States, and Australia, due to their toxicity.1162024.        Creative    Zhang et al. converted PE to long-chain di-alkyl aromatics and  While these regulations are compound-specific, it is likely that
+ a    found  that low-density PE had  significantly higher  yields   legacy and newly developed phthalates may continue to poseMarch26 under    (70–80%)  than   high-density  PE   (55%).98  Meanwhile,   challenges for recycling technologies. Toxic heavy metals com-
+on      Tennakoon et al. developed a mSiO2/Pt/MCM-48 catalyst for  monly used in the production of plastic may also pose a
+         hydrogenolysis of PE, which results in similar yields of waxy  problem for recycling technologies, including Sb, As, Cd, Co,        licensed
+  is    hydrocarbons from PE  of  varying molecular mass  distri-   Cr(VI), Hg, Pb, and Sn.108 This study also found trace levels ofPublished       butions.99 Additionally,  crystallinity can have a substantial   several of these elements in the polymers analyzed (Fig. S3†).
+       article    impact on the eﬃciency of enzymatic depolymerization of PET.   For example, Sb2O3 is a commonly used catalyst used in the
+Article. This    Erickson et al. found that there is likely an influence of surface   production of PET and is found frequently in PET finished pro-
+Access       arearate, andbut crystallinitythis  does onnot enzymaticincrease  deconstructionthe  overall  conversionreaction   ducts,highlightbut theis consideredimportancea ofcarcinogen.61,117characterizing Theseplasticsexamplesfor  in-
+Open        extent.16,100 In solvent-based separation of mixed waste plas-   organic and organic additives to understand the fate and            tics, the dissolution process is impacted by the polymer type,  impact  of  regulated  and  toxic  additives  in  recycling
+          solvent  type,  as  well  as  the  molecular  mass,101  and   technologies.
+            crystallinity.97,102–104 In conjunction with these examples, our
+         study highlights the large variation in polymer physical pro-
+                                                                        Limitations and conclusions          perties among commercial substrates and shows that charac-
+           terizing prior to recycling studies is essential in understanding  We emphasize that these measurements were conducted on a
+          these processes.                                                   particular set of polymers from specific companies, with pro-
+                                                                      vided lot numbers, and it is acknowledged that distributors
+          Potential impacts of additives on recycling                                                       may change between lot numbers, resulting in diﬀerent formu-
+        The presence of many additives limits the mechanical recycl-   lations. As plastic physically ages, it can also undergo environ-
+           ability  of many  plastics,9,105,106 and may impact polymer  mental  stress that may change  its  properties.118 We  also
+         deconstruction technologies.14,107 Additives can also pose a  acknowledge that many of the plastics we analyzed contain
+          threat to the environment, and regulations may heavily impact  unknown additives due to the limitations of library matching,
+         the recycling industry.19,108                              and that structural analysis of these additives will require
+             Additives, such as antioxidants, can impact the eﬃciency of  advanced techniques such as high resolution mass  spec-
+           catalytic deconstruction.14,109 For example, Hinton et al. found   trometry and NMR. As technologies develop, the use of more
+          that  the  presence  of  phenolic  antioxidants  reduced  the  complex plastic feedstocks including post-consumer waste of
+         product yields during catalytic hydrocracking of PE.14 Several  unknown formulations will increase, and while out-of-scope
+          of the polymers analyzed in our study contained similar types   for this study, there has been some work studying the charac-
+          of  antioxidants,  such  as  organophosphorus  antioxidants,   teristics of mixed plastics from material recovery facilities.119
+       many of which would not have been known without character-   Analytical  challenges  associated with mixed  plastic waste
+           ization. Solvent-based extraction technologies present promis-   includes diﬀerentiating complex polymer formulations with
+
+
+
+        7084  | Green Chem., 2024, 26, 7067–7090                                                   This journal is © The Royal Society of Chemistry 2024

@@ -1,0 +1,50 @@
+Threshold Limit Values
+
+     •TLV-TWA: Time weighted average, 8 hr Day
+
+      •TLV-STEL: Time weighted average, short-term exposure, < 15 min
+
+      •TLV-C: Ceiling limit, do not exceed at all
+
+
+A required source of information on the hazards associated with chemicals in use in the
+workplace is the Material Safety Data Sheet. There must be copies of the MSDS for every
+chemical in use in each area of the chemical plant and associated laboratories available in a
+public, easily located place. The hazard properties and recommended methods of handling each
+compound are included in the MSDS. All employees must be familiar with the chemicals that
+they are working with and must follow the recommendations for their handling, use and disposal.
+
+Designing for Safety
+
+There are a number of safety enhancement strategies –that can be applied during the design
+phase for any chemical plant. They include:
+
+        •Substitution – Less hazardous chemicals and equipment
+       •Attenuation – Less hazardous operating conditions = “less”
+        •Isolation – Isolate equipment from sources of hazard or from risk of harm to personnel
+       •Process intensification – smaller/higher throughput; smaller inventory
+
+
+Similarly, there are safety enhancement strategies to be applied during the operating phase of a
+chemical plant:
+                                   •Enclosures
+                                  •Local Ventilation
+                                     •Dilution Ventilation
+                              •Wet Methods and Cleaning
+                             •Good Housekeeping
+                                    •Personal Protection
+
+Summary
+
+                                    •Safety is PREPARED
+
+                                    •Safety is PREPLANNED
+
+                                    •Safety is PREVENTION
+
+                                    •Safety is PREEMINENT
+
+
+
+
+                                      97

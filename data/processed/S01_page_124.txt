@@ -1,0 +1,20 @@
+                                                                   Inorganic Materials
+
+
+
+ZEOLITE, SODIUM A; solid; synthetic ion-exchange  resin; hydrated aluminum silicates
+   containing alkali or alkaline earth metals.
+
+   specific heat: at 310 K (98°F); nearly all water eliminated by heating in N2 at 500°C
+   (932°F).
+
+   Cp(Btu Ib'l   OF-')     = 0.227   Cp(cal 9-1 K-l)                      = 0.227
+   Cp(J g-  K-l)      = 0.950
+
+                                                        72vuc/vuc
+
+
+
+
+
+                                      133

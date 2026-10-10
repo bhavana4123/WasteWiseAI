@@ -1,0 +1,42 @@
+            O                          O
+                                              ||                                                                                              ||
+           CH2-O-C-R                           CH2-O-C-R
+                              |                                                                                                 |
+                              |   O                O                   |
+                              |              ||                                                           ||                   |
+CH3-O- +   CH-O-C-R     →    CH3-O-C-R  + CH-O-            (Eq. 2)
+                              |                                                                                                 |
+                              |    O                                                                              |    O
+                              |                ||                                                                              |              ||
+           CH2-O-C-R                           CH2-O-C-R
+
+Alkoxide     Triglyceride             Methyl ester    Triglyceride anion
+
+While the ester molecule is complete after this reaction, the anion of the triglyceride needs to
+pick up a proton to give a stable product (a diglyceride in this case). If this proton is taken from
+methanol, then the alkoxide catalyst will be recovered as shown in Eq. 3.
+
+Several other reactions could be written that would allow the anion of the triglyceride to pick up
+a proton, such as reaction with free fatty acids and water. The presence of water affects the
+transesterification negatively because the triglyceride anion in Eq. 3 will react
+
+    O
+               ||
+CH2-O-C-R                         CH2-O-C-R
+ |                                                                                         |
+ |                                                                                         |
+ |                                                                                         |
+CH-O-      +    CH3OH   →   CH-OH     +     CH3-O-       (Eq. 3)
+ |                                                                                         |
+ |   O                                                                          |
+ |            ||                                                                           |
+CH2-O-C-R                         CH2-O-C-R
+
+with the water to form OH-, which can behave in a fashion similar to CH3-O- but a free fatty acid
+will result instead of a methyl ester.
+
+
+
+
+
+                                      20

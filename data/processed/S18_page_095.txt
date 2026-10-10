@@ -1,0 +1,48 @@
+                   Table 43. Individual Contributors to the Change in MESP
+Contributor            Amount    Explanation
+                          (2007$/gal)
+Feedstock cost             $0.10     From $50.90 to $58.50 (new grower payment assumption)
+Feedstock composition      $0.08     Lower yield from more representative feedstock composition
+                                         On-site production model predicted $0.34/gal versus theCellulase                   $0.22                                        previous $0.12/gal purchased model
+                                       Larger fraction of biomass is converted to electricity with the Electricity credit             -$0.07                                    updated composition
+Capital                     $0.30     Net increase in the capital equipment required
+Financial assumptions       -$0.06    100% equity versus 40% equity with 8% interest
+Chemicals                 $0.06    New chemical costs
+Fixed costs                 $0.03    New labor costs
+                           $0.66
+
+6.3  Future Work
+The overarching near-term goal for DOE’s Office of the Biomass Program is to demonstrate the
+cost-competitiveness of cellulosic ethanol with petroleum fuels by 2012. NREL and DOE have
+agreed on a slate of conversion parameters that are likely achievable by 2012. These
+development targets lead to an nth-plant MESP of $2.15/gal by 2012, as modeled by the process
+design described in this report. One of NREL’s main tasks is to perform integrated pilot-scale
+testing that demonstrates these conversion targets in 2012. The pilot-scale tests will make use of
+NREL’s biochemical process integration expertise and other core conversion research occurring
+at smaller scales.
+
+Pretreatment research will continue to focus on increasing xylan-to-xylose conversion, both by
+optimizing the conditions between the first step of pretreatment and the secondary oligomer
+conversion step and by supplementing enzymatic hydrolysis with accessory xylanase enzymes.
+Enzymatic hydrolysis research will have a significant focus on integrated experiments and on
+optimizing conditions using the newest pretreated material with the highest xylose conversion.
+Another focus in the pretreatment and enzymatic hydrolysis areas will be to reduce chemical
+usage and severity in pretreatment while maintaining good enzyme digestibility of the pretreated
+biomass. These experiments must be performed in an integrated way with fermentation. Also,
+some of the results described in this design report use an advanced research enzyme preparation.
+It is likely we will continue to experiment with more advanced preparations in 2011 and beyond.
+
+In fermentation research, some of the advanced strains being developed by the awardees of
+DOE’s ethanologen strain solicitation are slated to be tested in NREL’s pilot plant. There is also
+a significant internal effort to genetically engineer the NREL Z. mobilis strain with a metabolic
+pathway to convert arabinose to ethanol. This is a risk mitigation strategy should the solicitation
+strains prove difficult to integrate into NREL’s pilot-scale ethanol process.
+
+Process integration research will continue to focus on cost reduction through process design.
+Obtaining a pretreatment, conditioning, and enzymatic hydrolysis process that can be carried out
+as a whole slurry, without a solid-liquid separation step, is key to future cost reductions and will
+be studied aggressively. Other areas where process integration research plays a role is in
+reducing costs of fermentation media and mitigating the problems in back-end cleanup and
+
+
+                                      85

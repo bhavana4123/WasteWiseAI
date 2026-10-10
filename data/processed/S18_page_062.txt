@@ -1,0 +1,49 @@
+3.8  Area 800: Combustor, Boiler, and Turbogenerator
+
+3.8.1 Overview
+The purpose of the combustor, boiler, and turbogenerator subsystem is to burn various organic
+by-product streams to produce steam and electricity. Combustible by-products include all of the
+lignin and the unconverted cellulose and hemicellulose from the feedstock, biogas from
+anaerobic digestion, and biomass sludge from WWT. Burning these by-product streams to
+generate steam and electricity allows the plant to be self-sufficient in energy (“thermal-neutral”),
+reduces solid waste disposal costs, and generates additional revenue through sale of excess
+electricity.
+
+The fuel streams are fed to a combustor capable of handling the wet solids. A fan moves air into
+the combustion chamber. Treated water enters the heat exchanger circuit in the combustor and is
+boiled and superheated to high-pressure steam. A multistage turbine and generator are used to
+generate electricity. Steam is extracted from the turbine at two different conditions for use in the
+process. In the final stage of the turbine, the remaining steam is taken down to a vacuum and
+condensed with cooling water for maximum energy conversion. The condensate is returned to
+the boiler feed water system along with condensate from the various heat exchangers in the
+process. The steam turbine turns a generator that produces AC electricity for all users in the
+plant. The balance of electricity is assumed to be sold back to the grid, providing a co-product
+credit.
+
+3.8.2 Design Basis
+The moisture of the combined solid feed to the combustor is 44%; a small amount of additional
+moisture is entrained in the biogas. Given the fuel disposition, Babcock & Wilcox recommended
+a TowerPak Stirling Power Boiler system. This system features a live-bottom grated fuel bin to
+ensure drying and complete combustion of the wet solid fuel. The system was quoted to
+produced 525,000 lb/h (239,000 kg/h) of steam at 850°F (454°C) and 900 psig. Boiler efficiency,
+defined as the percentage of the feed heating value that is converted to steam heat, is ~80%.
+
+Flue gas from the combustor preheats the entering combustion air then enters a spray dryer for
+flue gas desulfurization (FGD). Due to the switch to ammonia conditioning, the sulfur content in
+the combustor feed is significantly higher than it was in the 2002 design. All of the sulfur
+entering the combustor is converted to sulfur dioxide, and its concentration in the flue is >1,800
+ppmw. This level of SO2 requires FGD. Lime (calcium hydroxide) is sprayed into the flue gas as
+a 20 wt % slurry at 20% stoichiometric excess. FGD converts 92% of the SO2 into calcium
+sulfate, which falls out the bottom of the spray dryer. The water in the slurry is vaporized and
+exits with the flue gas to the baghouse. The baghouse removes particulate ash, which is
+landfilled along with the calcium sulfate. The scrubbed gas is exhausted through a stack.
+
+Pretreatment research is currently targeting a lower acid use, so we will revisit the issue of SO2
+emissions in the future. Additionally, 1% of the generated sulfur dioxide is converted to sulfuric
+acid. The presence of this acid requires that the flue gas temperature be kept above the dew point
+to avoid corrosion.
+
+Other pollutant generation rates were not changed from the 2002 design [67] and are computed
+based on the heating value of the combustion feed stream. Carbon monoxide is assumed to be
+
+                                      52

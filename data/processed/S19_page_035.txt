@@ -1,0 +1,40 @@
+grid for a coproduct credit. For sustainability analysis purposes, the exported electricity is treated
+as an avoided product using the product displacement method (Wang et al. 2011), which is based
+on the concept of displacing the existing product with the new product. The excess electricity
+coproduct displaces an equivalent amount of grid electricity, thus avoiding significant
+greenhouse gas (GHG) emissions as well as fossil energy consumption. This assumes an average
+U.S. electricity grid mixture that is defined by Ecoinvent to carry a GHG emissions burden of
+0.78 kg CO2e/kWh and a fossil energy burden of 9.1 MJ/kWh (e.g., per-kilowatt-hour of grid
+electricity displaced) (Ecoinvent 2010).
+
+To estimate GHG emissions and fossil energy demand of the modeled biorefinery, SimaPro v.7.3
+software (Pré Consultants 2011) was used to develop and link units quantifying life cycle
+impacts as previously documented (Hsu et al. 2010). Based on the LCI information input to
+SimaPro (Appendix B), the resulting GHG and fossil energy profiles are presented in Table 16,
+Figure 11, and Figure 12, broken down by process category. Direct refinery emissions make
+essentially no direct contribution to GHGs, because nearly all the carbon dioxide emissions from
+the biorefinery are biogenic. Hence, the contributions to GHG emissions for the conversion step
+are solely attributed to the corresponding underlying processes; e.g., GHG emissions attributed
+to the production and transport or disposal of chemicals and other materials to and from the
+biorefinery. The embedded processes with the highest resulting GHG contributions are enzyme
+production, followed by pretreatment and conditioning chemicals (i.e., sodium hydroxide,
+sulfuric acid, and ammonia). For the design case model, the embedded processes that emit the
+most GHGs are WWT chemicals (sodium hydroxide), followed by enzyme production, ammonia
+conditioning, and flue gas desulfurization chemicals (lime). Cellulase enzyme production
+contributes 0.43 and 0.41 kg CO2e/gal ethanol for the 2011 design case and the 2012 SOT case,
+respectively. About 84% of this is attributed to the underlying carbon source (glucose) required
+for on-site enzyme production, where glucose is assumed to be produced from standard corn wet
+milling processes. Using a portion of the cellulosic sugars produced within the biorefinery
+process instead of purchased glucose offers an opportunity to decrease GHG emissions
+associated with enzyme production; however, this would ultimately translate to a penalty in
+ethanol yield as it would sacrifice a portion of fermentable sugars; thus, such an approach would
+have to be balanced against the GHG (and cost) tradeoffs for the overall system. Alternatively,
+further improving ethanol yield, decreasing pretreatment and conditioning chemical demands,
+and reducing enzyme loading would also ultimately lower the overall life cycle GHG emissions
+for the conversion stage.
+
+
+
+
+
+                                      28

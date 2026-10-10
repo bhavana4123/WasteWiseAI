@@ -1,0 +1,24 @@
+                      – TCLP Testing Results
+
+
+Table E.1. TCLP analysis for HTL solids from Detroit sludge (methods 6010B for metals and 7470A for
+           mercury).
+
+                           HTL Solids TCLP Analysis
+                        Metal   WW-06 BC Comp, mg/L    Federal Limits, mg/L
+                      As                               n.d.                    5
+                      Ba                          0.11                 100
+                     Cd                               n.d.                    1
+                        Cr                               n.d.                    5
+                       Pb                          0.12                    5
+                    Hg                               n.d.                      0.2
+                        Ni                          0.48                      n/a
+                        Se                               n.d.                    1
+                    Ag                               n.d.                    5
+                      Zn                          16.7                      n/a
+
+
+
+
+
+                                             E.1

@@ -1,0 +1,60 @@
+                        Chapter 5
+               Gasifier Designs
+
+
+5.1  Introduction
+
+Many different designs of gasifiers have been built and
+are described in the extensive literature on this subject
+(see especially Gengas 1950; Skov 1974; Foley 1983;
+Kjellstrom 1983, 1985; Kaupp 1984a; NAS 1983). Much
+of this material has been collected by A. Kaupp of the
+University of California at Davis. (Copies of these
+papers are also at SERI and the German Appropriate
+Technology Exchange [GATE] in Eschborn, West Ger­
+many.) Anyone interested in design modification and
+improvement would be well-advised to become ac­
+quainted with this material before repeating tried and
+tested techniques. However, many of the documented
+design variations are minOT.
+
+We believe that future improvements to gasifiers will
+be based on a better understanding of the basic proces­
+ses, combined with improved measurements of gasifier
+behavior and better regulation of fuel properties. Work
+is under way at various private and public centers to
+increase our understanding of the gasification process.       Fig. 5-1. Diagram of downdraft gasification (Source: Skov 1974,
+Consequently, gasifier design is in a state of flux. This       Fig. 14. © 1974. Used with permission of Biomass Energy Foundation,
+makes it difficult to organize a "handbook of gasifier       Inc.)
+design" without having it out of date before the ink is
+dry.                                                                           Spring safety lid
+To avoid this problem, we will first describe the con­          Air seal
+struction and operation of a number of historical
+gasifiers described in the literature to aid in under­
+standing various tradeoffs still under development.
+                                                  UnThe reader must remember that the choice of gasifier                                              Cyclone
+                                                                           fuel
+is dictated both by the fuels that will be used and the
+use to which the gas will be put. We will then describe        Gas
+some gasifiers currently under development.                  cooling ---oL!ȹ""J
+
+5.2 Basic Gasifier Types
+                                                                                                 Engine
+Fixed bed (sometimes called moving bed) gasifiers use        Flaming                                   suction
+a bed of solid fuel particles through which air and gas
+pass either up or down. They are the simplest type of
+gasifiers and are the only ones suitable for small-scale           Air
+application.                                                                   inlet
+The downdraft gasifier (Figs. 4-5(b), 5-1, and 5-2) was
+developed to convert high volatile fuels (wood,                       ʻ ' " a.a shaker
+biomass) to low tar gas and therefore has proven to be
+the most successful design for power generation. We
+concern ourselves primarily with several forms of
+downdraft gasifiers in this chapter.
+
+The updraft gasifier (Figs. 4-5(a), 5-3, and 5-4) is wide­
+ly used for coal gasification and nonvolatile fuels such       Fig. 5-2. Imbert (nozzle and constricted hearth) gasifier (Source:
+as charcoal. However, the high rate of tar production     Gengas 1950, Fig. 75)
+
+
+30    Handbook of Biomass Downdraft Gasifier Engine Systems

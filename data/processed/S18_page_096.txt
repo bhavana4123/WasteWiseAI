@@ -1,0 +1,38 @@
+wastewater treatment discussed in this report. These areas of the process will receive much more
+scrutiny between now and 2012.
+
+In technoeconomic analysis research, we have plans to perform an extensive Monte Carlo cost-
+sensitivity analysis using the new design report process described here. The analysis will
+examine the sensitivity to economic parameters such as raw material and equipment costs, to the
+expected compositional variability of corn stover, and to the specific process parameters defined
+in Aspen, such as fermentation conversions. There is also an interest in updating the Aspen
+model to handle alternate feedstocks: switchgrass, sorghum, wheat straw, sugarcane bagasse, etc.
+Each feedstock may require key process changes to overcome biomass recalcitrance or a thermal
+deficit. Once we have determined the similarities and difference between feedstocks, the goal is
+to produce a single, flexible model that can handle them all.
+
+In addition to alternate feedstocks, this work is applicable to further technoeconomic analysis of
+advanced biofuels. The cellulosic ethanol process described here is only one of many pathways
+by which a transportation fuel can be produced from biomass. In the future, advanced conversion
+technologies that produce infrastructure-compatible or “drop-in” fuels (primarily gasoline,
+diesel, and/or jet-range hydrocarbons) will have an increasing importance in NREL’s and DOE’s
+research portfolio. Figure 21 shows some example pathways that yield such fuels from sugar;
+most of these technologies are already being researched by startup companies and academic
+institutions using clean sugar from corn or sugar cane. NREL plans to leverage its expertise in
+sugar generation from lignocellulosic material to help move these technologies away from food-
+based sugars and toward sustainable biomass.
+
+
+
+
+
+            Figure 21. Sugar-based pathways for conventional and advanced biofuels
+
+In a technoeconomic model of an advanced conversion process using cellulosic sugar, the front
+end of the Aspen model described in this report would largely stay the same through
+pretreatment and enzymatic hydrolysis, up to the production of a sugar intermediate. The sugar
+conversion and product recovery sections would be replaced with new sections that describe the
+technologies in Figure 21. Our process models for sugar production and the specialized
+wastewater and utilities sections should therefore be considered modular to these future studies.
+
+                                      86

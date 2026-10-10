@@ -1,0 +1,48 @@
+Project 2 ‘Analysis and Identification of Gaps in Fundamental Research for the
+Production of Second Generation Liquid Transportation Biofuels’
+At ExCo56, Larry Russo the Alternate Member for USA proposed a new Project to be
+undertaken within Task 41.This initiative led to a formal proposal (Project 2) which was
+approved by written procedure and came into force on 13 January 2006. Dr Michael
+Ladisch, Professor at the Laboratory of Renewable Resources Engineering, Purdue
+University, is the Project Leader.
+
+
+The Project Leader has been working with the participants (Finland, the Netherlands,
+Sweden, UK, and the EC) to develop a global view of gaps in research that need to be
+filled to address production of second generation liquid biofuels. A series of conference
+calls, coupled with a survey of the literature and discussion and review with experts within
+IEA Bioenergy, have been the mechanisms used. Project 2 is building upon the work of
+other Tasks within IEA Bioenergy. Initially the Project addressed cellulosic ethanol, and is
+now examining Fischer Tropsch liquids and green diesel.
+
+
+Translational efforts that put the bio-molecules or thermally processed renewables into
+the fuel tank complement the fundamental research on these fuels, and may involve
+chemical, thermal, biochemical, and/or biological processing applied to a range of
+feedstocks.The Project is addressing research barriers, trends, and gaps in the production
+and use of lignocellulosic ethanol, P-series fuel, liquid Fischer Tropsch fuels, or dimethyl
+ether (DME), from synthesis gas and upgraded pyrolysis bio-oils. P-series fuels are a
+blend of methyl-tetrahydrofuran, ethanol, and natural gas condensates (C4 to C5).The
+topics fall into the following areas:
+●Effects of different biomass materials;
+●Linking biomass composition/cell wall structure to gasification;
+●Gas clean-up (H2S, COS, CS2, HCl, NH3, HBr, HF, soot, tars);
+●Robust Fischer Tropsch catalysts; and
+●Process synthesis and design (economics).
+
+
+Gaps in fundamental research identified to date include biomass pre-treatment for
+cellulosic materials, as well as the ability to ferment a range of sugars (both hexoses and
+pentose) to ethanol or butanol. While significant strides have been made in enzyme
+(cellulose) hydrolysis, further improvements in activity of the enzymes, enzyme activity
+with respect to hemicelluloses, and resistance to inhibition are needed. In the case of
+thermal processing, a research gap appears to be the clean-up of the synthesis or
+producer gas that results form biomass sources, particularly with respect to particulates
+and other metallic components (ash) that may poison Fischer Tropsch catalysts.
+
+
+Project 2 is also addressing barriers related to green diesel – which is defined as a high
+boiling component other than diesel derived from vegetable oil. Several oil companies are
+already examining the waste oils from food use for processing through a refinery, and
+hence biodiesel is not included in the Project.The systems integration approach needed
+                                                                          79

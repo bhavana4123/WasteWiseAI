@@ -1,0 +1,312 @@
+[
+  {
+    "source_id": "S01",
+    "organization": "National Bureau of Standards / Solar Energy Research Institute",
+    "publication_title": "Thermodynamic Data for Biomass Conversion and Waste Incineration",
+    "publication_year": "1986",
+    "source_url": "https://www.nlr.gov/docs/legosti/old/2839.pdf",
+    "doi": "",
+    "filename": "serisurvey_2839.pdf",
+    "license": "Publicly accessible US government laboratory report; underlying cited data may retain third-party rights"
+  },
+  {
+    "source_id": "S02",
+    "organization": "SERI / NREL (now NLR)",
+    "publication_title": "Handbook of Biomass Downdraft Gasifier Engine Systems",
+    "publication_year": "1988",
+    "source_url": "https://www.nlr.gov/docs/legosti/old/3022.pdf",
+    "doi": "",
+    "filename": "gasifier_handbook_3022.pdf",
+    "license": "Publicly accessible US government laboratory report; underlying cited data may retain third-party rights"
+  },
+  {
+    "source_id": "S03",
+    "organization": "East Bay Municipal Utility District / US EPA Region 9",
+    "publication_title": "Final Report: Anaerobic Digestion of Food Waste",
+    "publication_year": "2008",
+    "source_url": "https://www.epa.gov/system/files/documents/2024-08/ebmud-final-report-anaerobic-digestion-of-food-waste-2008-03.pdf",
+    "doi": "",
+    "filename": "ebmud_food_waste.pdf",
+    "license": "Publicly accessible EPA-hosted grantee report; no explicit reuse license identified"
+  },
+  {
+    "source_id": "S04",
+    "organization": "US EPA",
+    "publication_title": "Catalog of CHP Technologies",
+    "publication_year": "2017",
+    "source_url": "https://www.epa.gov/sites/default/files/2015-07/documents/catalog_of_chp_technologies.pdf",
+    "doi": "",
+    "filename": "epa_chp.pdf",
+    "license": "US government publication; third-party figures and manufacturer data may have separate rights"
+  },
+  {
+    "source_id": "S05",
+    "organization": "US EPA",
+    "publication_title": "Basic Information about Anaerobic Digestion",
+    "publication_year": "",
+    "source_url": "https://www.epa.gov/anaerobic-digestion/basic-information-about-anaerobic-digestion",
+    "doi": "",
+    "filename": "epa_ad.html",
+    "license": "US government web content; no dataset-specific license identified"
+  },
+  {
+    "source_id": "S06",
+    "organization": "US Department of Energy",
+    "publication_title": "Waste to Energy",
+    "publication_year": "",
+    "source_url": "https://www.energy.gov/cmei/fuels/waste-energy",
+    "doi": "",
+    "filename": "doe_wte.html",
+    "license": "US government web content; no dataset-specific license identified"
+  },
+  {
+    "source_id": "S07",
+    "organization": "IEA Bioenergy",
+    "publication_title": "IEA Bioenergy Annual Report 2006",
+    "publication_year": "2007",
+    "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+    "doi": "",
+    "filename": "iea_annual_2006.pdf",
+    "license": "Publicly accessible; no explicit open-data redistribution license identified"
+  },
+  {
+    "source_id": "S08",
+    "organization": "Phyllis2 / TNO",
+    "publication_title": "Phyllis2 biomass composition database landing page",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/",
+    "doi": "",
+    "filename": "phyllis.html",
+    "license": "Database terms apply; no bulk data reuse permission assumed"
+  },
+  {
+    "source_id": "S09",
+    "organization": "NREL (now NLR)",
+    "publication_title": "Biodiesel Production Technology",
+    "publication_year": "2004",
+    "source_url": "https://www.nlr.gov/docs/fy04osti/36244.pdf",
+    "doi": "",
+    "filename": "biodiesel_36244.pdf",
+    "license": "Publicly accessible government laboratory report; third-party rights may apply"
+  },
+  {
+    "source_id": "S10",
+    "organization": "US EPA",
+    "publication_title": "Energy Recovery from the Combustion of Municipal Solid Waste (MSW)",
+    "publication_year": "",
+    "source_url": "https://www.epa.gov/smm/energy-recovery-combustion-municipal-solid-waste-msw",
+    "doi": "",
+    "filename": "epa_msw.html",
+    "license": "US government web content; no dataset-specific license identified"
+  },
+  {
+    "source_id": "S11",
+    "organization": "US EPA",
+    "publication_title": "Basic Information about Landfill Gas",
+    "publication_year": "",
+    "source_url": "https://www.epa.gov/lmop/basic-information-about-landfill-gas",
+    "doi": "",
+    "filename": "epa_landfill.html",
+    "license": "US government web content; no dataset-specific license identified"
+  },
+  {
+    "source_id": "S12",
+    "organization": "US EPA",
+    "publication_title": "Hazardous Waste Combustion",
+    "publication_year": "",
+    "source_url": "https://www.epa.gov/hwcombustors",
+    "doi": "",
+    "filename": "epa_hazardous.html",
+    "license": "US government web content; no dataset-specific license identified"
+  },
+  {
+    "source_id": "S13",
+    "organization": "MNRE, Government of India",
+    "publication_title": "Waste to Energy Programme",
+    "publication_year": "",
+    "source_url": "https://mnre.gov.in/en/waste-to-energy/",
+    "doi": "",
+    "filename": "mnre_wte.html",
+    "license": "Government site terms apply; no dataset-specific license identified"
+  },
+  {
+    "source_id": "S14",
+    "organization": "Government of India",
+    "publication_title": "Open Government Data Platform India",
+    "publication_year": "",
+    "source_url": "https://data.gov.in/",
+    "doi": "",
+    "filename": "data_gov_in.html",
+    "license": "Individual dataset license required; landing page is not measurement evidence"
+  },
+  {
+    "source_id": "S15",
+    "organization": "US Department of Energy",
+    "publication_title": "Quadrennial Technology Review 2015: Waste Heat Recovery Systems",
+    "publication_year": "2015",
+    "source_url": "https://www.energy.gov/sites/default/files/2016/02/f30/QTR2015-6M-Waste-Heat-Recovery.pdf",
+    "filename": "doe_whr.pdf",
+    "doi": "",
+    "license": "Publicly accessible; specific publication terms must be retained"
+  },
+  {
+    "source_id": "S16",
+    "organization": "NREL / Green Chemistry",
+    "publication_title": "Characterization of Polymer Properties and Identification of Additives in Commercially Available Research Plastics",
+    "publication_year": "2024",
+    "source_url": "https://www.nlr.gov/docs/fy24osti/89308.pdf",
+    "filename": "plastics_89308.pdf",
+    "doi": "10.1039/d4gc00659c",
+    "license": "Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0), stated in original PDF"
+  },
+  {
+    "source_id": "S17",
+    "organization": "US EPA",
+    "publication_title": "Medical Waste",
+    "publication_year": "",
+    "source_url": "https://www.epa.gov/rcra/medical-waste",
+    "filename": "epa_medical.html",
+    "doi": "",
+    "license": "Publicly accessible government publication; third-party rights may apply"
+  },
+  {
+    "source_id": "S18",
+    "organization": "NREL / US DOE",
+    "publication_title": "Process Design and Economics for Biochemical Conversion of Lignocellulosic Biomass to Ethanol",
+    "publication_year": "2011",
+    "source_url": "https://afdc.energy.gov/files/pdfs/47764.pdf",
+    "filename": "ethanol_47764.pdf",
+    "doi": "",
+    "license": "Publicly accessible government publication; third-party rights may apply"
+  },
+  {
+    "source_id": "S19",
+    "organization": "US DOE / NREL",
+    "publication_title": "NREL 2012 Achievement of Ethanol Cost Targets: Biochemical Ethanol Fermentation via Dilute-Acid Pretreatment and Enzymatic Hydrolysis of Corn Stover",
+    "publication_year": "2014",
+    "source_url": "https://www.nlr.gov/docs/fy14osti/61563.pdf",
+    "filename": "ethanol_experiment_61563.pdf",
+    "doi": "",
+    "license": "Publicly accessible government publication; third-party rights may apply"
+  },
+  {
+    "source_id": "S20",
+    "organization": "Pacific Northwest National Laboratory / US DOE",
+    "publication_title": "Conceptual Biorefinery Design and Research Targeted for 2022: Hydrothermal Liquefaction Processing of Wet Waste to Fuels",
+    "publication_year": "2017",
+    "source_url": "https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-27186.pdf",
+    "filename": "pnnl_htl_27186.pdf",
+    "doi": "",
+    "license": "Publicly accessible; specific source terms apply"
+  },
+  {
+    "source_id": "S21",
+    "organization": "Royal Society of Chemistry",
+    "publication_title": "Publisher HTML for polymer characterization article",
+    "publication_year": "2024",
+    "source_url": "https://pubs.rsc.org/en/content/articlehtml/2024/gc/d4gc00659c",
+    "filename": "rsc_plastics.html",
+    "doi": "",
+    "license": "Publicly accessible; specific source terms apply"
+  },
+  {
+    "source_id": "S22",
+    "organization": "Phyllis2 / TNO",
+    "publication_title": "Phyllis2 public browse interface",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Browse/Standard/ECN-Phyllis",
+    "filename": "phyllis_browse.html",
+    "doi": "",
+    "license": "Publicly accessible; specific source terms apply"
+  },
+  {
+    "source_id": "S23",
+    "organization": "US EPA",
+    "publication_title": "Clean Air Act Guidelines and Standards for Waste Management",
+    "publication_year": "",
+    "source_url": "https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-guidelines-and-standards-waste-management",
+    "filename": "epa_waste_standards.html",
+    "doi": "",
+    "license": "Publicly accessible; specific source terms apply"
+  },
+  {
+    "source_id": "S24",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Cow manure (dairy cows), Phyllis2 record 2782",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/DownloadXLSX/2782",
+    "filename": "phyllis_2782.xlsx",
+    "doi": "",
+    "license": "Copyright TNO; public individual download; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S25",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Chicken manure (fresh), Phyllis2 record 957",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/DownloadXLSX/957",
+    "filename": "phyllis_957.xlsx",
+    "doi": "",
+    "license": "Copyright TNO; public individual download; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S26",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Dairy cow manure with straw bedding, Phyllis2 record 1528",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/DownloadXLSX/1528",
+    "filename": "phyllis_1528.xlsx",
+    "doi": "",
+    "license": "Copyright TNO; public individual download; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S27",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Animal fat co-combustion product, Phyllis2 record 3491",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/DownloadXLSX/3491",
+    "filename": "phyllis_3491.xlsx",
+    "doi": "",
+    "license": "Copyright TNO; public individual download; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S28",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Cow manure (dairy cows), Phyllis2 record 2782",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/View/2782",
+    "filename": "phyllis_2782.html",
+    "doi": "",
+    "license": "Copyright TNO; publicly viewable individual record; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S29",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Chicken manure (fresh), Phyllis2 record 957",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/View/957",
+    "filename": "phyllis_957.html",
+    "doi": "",
+    "license": "Copyright TNO; publicly viewable individual record; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S30",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Dairy cow manure with straw bedding, Phyllis2 record 1528",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/View/1528",
+    "filename": "phyllis_1528.html",
+    "doi": "",
+    "license": "Copyright TNO; publicly viewable individual record; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  },
+  {
+    "source_id": "S31",
+    "organization": "TNO / Phyllis2 / ECN",
+    "publication_title": "Animal fat co-combustion product, Phyllis2 record 3491",
+    "publication_year": "",
+    "source_url": "https://phyllis.nl/Biomass/View/3491",
+    "filename": "phyllis_3491.html",
+    "doi": "",
+    "license": "Copyright TNO; publicly viewable individual record; attribution to Phyllis2 requested. No unrestricted bulk redistribution license assumed."
+  }
+]

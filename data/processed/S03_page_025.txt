@@ -1,0 +1,60 @@
+                           Figure 3.2 Anaerobic Food Waste Digester Temperature
+     55                                                                         New Target(2/13/07)Temp for Thermo: 52 C, and Feed at Room Temperature.                                                            Start 10d MCRT
+                 Start 15d MCRT                       1/9/2007
+              11/27/2006
+
+     50
+                                                                                                                       Start 5d MCRT
+                                                                                                        3/3/2007
+
+     45
+
+
+   (C)
+     40
+                                                                                                          Thermo Test
+                                                                                                     Meso Test
+     35          Temperature
+
+
+     30
+
+
+
+     25
+
+
+
+     20
+      11/25/06      12/9/06      12/23/06       1/6/07       1/20/07        2/3/07       2/17/07        3/3/07       3/17/07
+
+                                                   Date
+
+Water bath heater failures occurred during the study which drastically lowered the operating
+temperature in both mesophilic and thermophilic digesters (see temperature drops in Figure 3.2).
+Each failure event resulted from heavy electrical load on the heaters during the colder months.
+The minimum temperatures reached by the digesters due to the heater failures were 41.4 ºC
+(1/15/07) and 29.3 ºC (12/18/06) for thermophilic and mesophilic digesters, respectively. In
+order to prevent further temperature changes because of failing heaters, back-up heaters were
+added for a total of two heaters in each bath.
+
+As the MCRT was decreased, digester temperature fluctuations increased during feed cycles.
+This was due to the increased amount of refrigerated feed that caused the digester temperature to
+drop. To minimize temperature fluctuations, the thermophilic digester temperature set-point was
+increased, and the daily feed was removed from the refrigerator and brought to room temperature.
+
+On 2/13/07, the target temperature for the thermophilic digester was increased to 52 ºC so the
+minimum digester temperature would remain above 50 ºC. Also, to prevent temperature
+fluctuations from feeding refrigerated feed sludge, digester feed was stored at room temperature
+(approximately 15 ºC) but replaced with fresh feed on a daily basis.
+
+By adding a redundant heater to each water bath, the larger temperature fluctuations were
+eliminated and the digester temperatures were maintained at an average of 52.4 ºC and 35.6 ºC
+for thermophilic and mesophilic digesters, respectively.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                               10
+Funding Opportunity No. EPA-R9-WST-06-004

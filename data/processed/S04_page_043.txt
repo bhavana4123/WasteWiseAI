@@ -1,0 +1,50 @@
+      Table 2-6. Typical Natural Gas Engine Maintenance Costs ($2013/kWh)
+                                                            System
+                                        1             2         3          4          5
+ Nominal Capacity (kW]                    100           633       1121       3326       9341
+ Service Contract                      $0.023 - $0.025     $0.020     $0.018      $0.015     $0.0075
+ Consumables                              included        $0.001     $0.001      $0.001        .001
+ Total O&M Costs, 2013 $/kWh          $0.023 - $0.025     $0.021     $0.019      $0.016       .0085
+Source: Compiled by ICF from vendor supplied data
+
+2.4.7  Fuels
+In addition to operation on natural gas, spark ignition engines operate on a variety of alternative
+gaseous fuels including:
+
+    •   Liquefied petroleum gas (LPG) – propane and butane mixtures
+    •  Sour gas – unprocessed natural gas as it comes directly from the gas well
+    •   Biogas – any of the combustible gases produced from biological degradation of organic wastes,
+       such as landfill gas, sewage digester gas, and animal waste digester gas
+    •   Industrial waste gases – flare gases and process off-gases from refineries, chemical plants and
+        steel mill
+    •  Manufactured gases – typically low- and medium-Btu gas produced as products of gasification
+       or pyrolysis processes
+
+Factors that impact the operation of a spark ignition engine with alternative gaseous fuels include:
+
+    •   Volumetric heating value – Since engine fuel is delivered on a volume basis, fuel volume into
+       the engine increases as heating value decreases, requiring engine derating on fuels with lower
+       Btu content. Derating is more pronounced with naturally aspirated engines, and depending on
+         air requirements, turbocharging partially or totally compensates.
+
+    •   Autoignition characteristics and detonation tendency for fuels with lower octane rating such
+       as propane – This is often characterized by a calculated value known as the Methane Number
+       (MN). Different manufacturers may calculate Methane Number differently. Gases with heavier
+       hydrocarbon components (Propane, Ethane, Butane, etc.) have a lower Methane Number as
+       they will tend to autoignite more easily.
+
+    •  Contaminants that may impact engine component life or engine maintenance, or result in air
+        pollutant emissions that require additional control measures.
+
+    •   Hydrogen-containing fuels may require special measures (generally if hydrogen content by
+      volume is greater than 5 percent) because of hydrogen’s unique flammability and explosion
+         characteristics.
+
+Table 2-7 presents representative constituents of some of the alternative gaseous fuels compared to
+natural gas. Industrial waste and manufactured gases are not included in the table because their
+compositions vary widely depending on their source. They typically contain significant levels of H2
+and/or CO. Other common constituents are CO2, water vapor, one or more light hydrocarbons, and H2S
+or SO2.
+
+
+Catalog of CHP Technologies                         2–17                         Reciprocating IC Engines

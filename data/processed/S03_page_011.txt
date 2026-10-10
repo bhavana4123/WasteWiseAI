@@ -1,0 +1,42 @@
+Table ES-5. Bench-scale Anaerobic Food Waste Digester Volatile Solids Loading Rate
+Summary.
+ Target MCRT,       Mesophilic VS Loading,         Thermophilic VS Loading,
+      days                       lb/ ft3-day                              lb/ ft3-day
+              AVG         SD        AVG         SD
+       15              0.22              0.05              0.35             0.12
+       10              0.53              0.09              0.55             0.10
+       5               0.87         NA               0.87        NA
+ Notes:
+  1. AVG=average value.
+  2. SD= standard deviation.
+  3. NA=Not Applicable because only one data point was observed during stable period.
+
+Methane Gas Content
+Table ES-6 summarizes the average methane (CH4) gas composition for each MCRT operating
+period. At a 15-day MCRT, both the mesophilic and thermophilic digesters produced their
+highest methane gas concentrations. This suggests that longer MCRTs allow more time for
+methanogens to proliferate, and more methanogens produce more methane. Gas from
+thermophilic digesters had a slightly higher methane content (67% CH4) on average than digester
+gas from mesophilic digesters (64% CH4) . Further, methane content in gas produced from the
+thermophilic digester was often near, or even greater than 70% CH4. These results show that
+anaerobically digested food waste can produce digester gas that has a higher energy value than
+gas produced from anaerobic digesters fed municipal wastewater solids (typically 50-60% CH4).
+
+During the 10-day MCRT operating period, methane gas content was lower than during the 15­
+day MCRT operating period. As observed during the 15-day operational period, the
+thermophilic digester gas had a slightly higher average methane content compared to the
+mesophilic digester gas. Since the thermophilic digester was operated a lower actual MCRT
+than the mesophilic digester, this may show an advantage of thermophilic over mesophilic
+digesters receiving food waste. More study in this area might be helpful.
+
+During the 5-day MCRT operating period, methane gas content dropped drastically, below 5%
+CH4 for both mesophilic and thermophilic digesters. This suggests that the methanogens could
+not sustain a growth rate sufficient to maintain a stable population, at the higher wasting rates
+required for 5-day MCRT operation.
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                            ES-6
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,50 @@
+If the methanol is allowed to remain in the system during phase separation, the methanol acts as
+a phase stabilizer, retarding the rate of gravity separation. It is advantageous to remove the
+methanol before phase separation.
+
+Methanol can be recovered using distillation, either conventional or vacuum, or partially
+recovered in a single stage flash. An alternative to distillation is a falling-film evaporator.
+Residual methanol in the ester phase can be removed in the water wash step in ester post-
+processing. Product esters are typically washed with warm (140 °F), softened water to remove
+soaps and residual methanol.
+
+Glycerol Refining
+
+The recovered glycerol from the transesterification reaction contains residual alcohol, catalyst
+residue, carry-over fat/oil and some esters. The glycerol from rendered feedstocks may also
+contain phosphatides, sulfur compounds, proteins, aldehydes and ketones, and insolubles (dirt,
+minerals, bone, or fibers)
+
+Chemical Refining: There are several factors that are important in the chemical refining or
+glycerol. First, the catalyst tends to concentrate in the glycerol phase where it must be
+neutralized. The neutralization step leads to the precipitation of salts.
+
+Also, the soaps produced in the esterification must be removed by coagulation and precipitation
+with aluminum sulfate or ferric chloride. The removal may be supplemented by centrifuge
+separation.
+
+The control of the pH is very important because low pH leads to dehydration of the glycerol and
+high pH leads to polymerization of the glycerol. The glycerol may then be bleached using
+activated carbon or clay.
+
+Physical Refining: The first step in physical refining is to remove fatty, insoluble or
+precipitated solids by filtration and/or centrifugation. This removal may require pH adjustment.
+Then the water is removed by evaporation. All physical processing is typically conducted at 150
+– 200 °F, where glycerol is less viscous, but still stable.
+
+Glycerol Purification: The final purification of glycerol is completed using vacuum distillation
+with steam injection, followed by activated carbon bleaching. The advantages of this approach
+are that this is a well-established technology. The primary disadvantage is that the process is
+capital and energy intensive. Vacuum distillation of glycerol is best suited to operations > 25
+tons per day.
+
+Ion exchange purification of glycerol is an attractive alternative to vacuum distillation for
+smaller capacity plants. The ion exchange system uses cation, anion, and mixed bed exchangers
+to remove catalyst and other impurities. The glycerol is first diluted with soft water to a 15 to 35
+percent glycerol-in-water solution. The ion exchange is followed by vacuum distillation or flash
+drying for water removal, often to an 85 percent partially refined glycerol.
+
+
+
+
+                                      76

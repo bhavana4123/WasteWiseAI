@@ -1,0 +1,56 @@
+Inorganic Materials                                                                                                                                          I  :
+
+
+CEMENT HYDRATES; solid; general formula: xCa0.yA1203 -tCaS04 .mCaC03 .nH20.
+  (C=CaO,A=A1203? H=H20, Cs=CaS04, and Cc=CaC03).
+
+   heat of dehydration: gaseous water formed.
+
+                   ternkcl utute range  moles HqO    AH   .     AH          AH
+                   "C     "F       lost                    (kJ gmol-l)   (Btu lb mol-
+
+                   120-200  248-392     4         48.9 ? 0.2      204.5 f 0.8     87935 ? 3   'rC3.97AH1 1.O
+                   21 0-290 4 10-554      3.5        10.2 2 0.2       42.7 f 0.8     18361 f 3  S
+
+C2.97AH5.96        260-350  500-662      4.5       76.9 2 l.#      321.7 f 7.5   138331 k 3 2  5
+
+c3.5 1ACs2.54H30.4  65-145  149-293    23      213.9 2 3.1    895.0 2 13.0   384850 f 5590
+
+                    95-125  203-257       1.6        2.75 f 0.2      11.51 f 0.8     4949k 3 4'3.1  4ACs0.94H 12.1
+                    140-200  284-392     6         34.4 f 0.7      143.9 2 2.9    61877 2 1247
+                    240-3 I0 464-590      1.5       14.6 2 0.6       61.1 f 2.5    26273 f 1C  5
+
+                    70-170  158-338    2          19.7 2 2        82.4 ? 8    35432k3440C3.53ACcH8.  I
+                    250-320  482-608    5         31.0 2 0.5      129.7 ? 2.1     55771 t 9  3
+
+                    120-160  248-320      5.9          2.4 2 0.7       10.0 2 2.9     4300 t 1247  1.97AH 12.9
+                    230-325  446-6 17      4.8        76.0 f 5.8     318.0 f 24.1  136740 f 103 3
+
+                    45-100  113-212    3         12.9 2 2.7      54.0 2 11.3    23220 2 4859'2.  19AH9.3
+                     125- 190 257-374      1.5        14.6 2 2.3       61.1 2 9.6    26273 f 41 S
+                   250-300  482-572      3.5          6.0 2 0.7       25.1 2 2.9    10793 2 12 7
+
+                    120- 190 248-374   2        11.2 2 1.9       46.9 ? 7.9    20167 k 3 3  7'1 .07AH6.3
+                   230-300  446-572     3         22.3 k 1.0       93.3 2 4.2    40119 f 18  6
+
+C1.03AH3.98        240-340  464-644      2.8        43.7 2 2.7     182.8 5 11.3    78604 f 4 8 9
+
+                                                               70HEN/STR
+
+CLAY, CHINA; solid; Material is obtained by leaching weathered deposits of granitic
+   rock to remove quartz and mica. Sample is composed mainly of kaolinite
+   (Al2O3,2SiO2.2H2O)  plus impurities.
+
+   heat of dehydration: approximate dehydration temperature is 547°C ( I 01 7°F).
+   AH(dehydration) is derived from endotherms in the differential thermal analysis
+   (DTA) curve, neglecting endotherms around 110°C (230°F) at which adsorbed water is
+    evolved.
+
+   AH(dehydration) = 207 Btu lb-I
+   AH(dehydration) = 115 cal
+   AH(dehydration) = 481 J
+
+                                                              54ALL
+
+
+                                       128

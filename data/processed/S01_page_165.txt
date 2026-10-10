@@ -1,0 +1,53 @@
+Polymers and Plastics                                                                                                                                     I
+
+
+POLYBUTADIENE 122°F; solid; analysis: carbon, 88.66%; hydrogen, 11.180%; sulfur,
+    0.150%; oxygen, 0.145%; ash, 0.097%; phen I-6-naphthylamine,  0.12%; repeating unit:
+    c ~ H polymerization~  ;            carried out at 50°C  132OF).                                     r
+    specific heat:
+
+
+
+     50  -370                0.08640                 0,08640               0.36 15
+    100  -280                0.15777                 0.15777              0.6601
+    150  -190                0.22299                0.22299             0.9330
+    200  -100                 0.3967                  0.3967                1.66
+    250   - 10                0.4326                  0.4326                1.81
+    300    80                0.4680                  0.4680               1.958
+    330   134                 0.49 19                  0.49 19              2.058
+
+                                                         53aFUR/McC
+
+POLY-1-BUTENE;solid; isotactic; 34% crystallinity; repeating unit: C4H8;degree of
+   polymerization -800 units.
+
+   gross heat of combustion: at 25°C (77°F)
+                                 1    q,(gross)  = 19996.9  _+ 0.9 Btu Ib-
+    q,(gross)  = 11 109.4 +- 0.5 cal 9-l
+    q,(gross)  = 46481.7 f 2.1 J g-
+
+                                                                          68 JOS
+
+POLY-i-BUTENE;   (Sample I) viscous liquid; mol. wt. -4900; (Sample 2) amorphous
+    solid, rubberlike; mol. wt. -200000; 0.033% ash; (Sample 3) solid; Opanol B 100;
+   repeating unit: C4Hg.
+
+   gross heat of combustion: at 25OC (77'F)
+
+   Sample 1                             Sample 3
+                                    1                                  1    q,(gross)    20123.6  _+ 2.3 Btu Ib-             q,(gross) = 20122.4  ?: 7.7 Btu lb-
+    q,(gross)  = 11179.8 2 1.3 cal                qv(gross)  11 179.1 f 4.3 cal g-l
+    q,(gross) = 46776.3  ?: 5.4 J g                   q,(gross)   46773.4 k 18.0 J g-l
+
+   Sample 2
+                               1    q,(gross)  = 20116.4 2 3.6 Btu Ib-
+    q,(gtoss) = 11 175.8 k 2.0 cal
+    q,(gtoss) = 46759.5 f 8.3 J
+
+                                                  49PAR/MOS; 67FRA/MIS
+
+
+
+
+
+                                       180

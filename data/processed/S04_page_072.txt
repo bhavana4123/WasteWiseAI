@@ -1,0 +1,47 @@
+3.5.2.4  CO Oxidation Catalysts
+Oxidation catalysts control CO in gas turbine exhaust. Some SCR installations incorporate CO oxidation
+modules along with NOx reduction catalysts for simultaneous control of CO and NOx. The CO catalyst
+promotes the oxidation of CO and hydrocarbon compounds to CO2 and water as the exhaust stream
+passes through the catalyst bed. The oxidation process takes place spontaneously so no reactants are
+required. The catalyst is usually made of precious metal such as platinum, palladium, or rhodium. Other
+formations, such as metal oxides for emission streams containing chlorinated compounds, are also used.
+CO catalysts also reduce VOCs and organic hazardous air pollutants (HAPs). CO catalysts on gas turbines
+result in approximately 90 percent reduction of CO and 85 to 90 percent control of formaldehyde
+(similar reductions can be expected on other HAPs).
+
+3.5.2.5   Catalytic Combustion
+Catalytic combustion systems oxidize the fuel at lean conditions in the presence of a catalyst. Catalytic
+combustion is a flameless process, allowing fuel oxidation to occur at temperatures below 1,700°F,
+where NOx formation is low. The catalyst is applied to combustor surfaces, which cause the fuel air
+mixture to react with the oxygen and release its initial thermal energy. The combustion reaction in the
+lean premixed gas then goes to completion at design temperature. Data from ongoing long term testing
+indicates that catalytic combustion exhibits low vibration and acoustic noise, only one-tenth to one-
+hundredth the levels measured in the same turbine equipped with DLN combustors. Catalytic
+combustors capable of achieving NOx levels below 3 ppm are entering commercial production.56 Similar
+to DLN combustion, optimized catalytic combustion requires an integrated approach for combustor and
+turbine design. Catalytic combustors must be tailored to the specific operating characteristics and
+physical layout of each turbine design.
+
+3.5.2.6   Catalytic Absorption Systems
+SCONOx, patented by Goal Line Environmental Technologies (currently EmerChem), is a post-
+combustion alternative to SCR that reduces NOx emissions to less than 2.5 ppm and almost 100 percent
+removal of CO. SCONOx combines catalytic conversion of CO and NOx with an absorption/regeneration
+process that eliminates the ammonia reagent found in SCR technology. It is based on a unique
+integration of catalytic oxidation and absorption technology. CO and NO catalytically oxidize to CO2 and
+NO2. The NO2 molecules are subsequently absorbed on the treated surface of the SCONOx catalyst.
+The system does not require the use of ammonia, eliminating the potential for ammonia slip associated
+with SCR. The SCONOx system is generally located within the HRSG, and under special circumstances
+may be located downstream of the HRSG. The system operates between 300-700ºF. U.S. EPA Region 9
+identified SCONOx as “Lowest Achievable Emission Rate (LAER)” technology for gas turbine NOx control
+in 1998. The SCONOx technology is still in the early stages of market introduction. Issues that may
+impact application of the technology include relatively high capital cost, large reactor size compared to
+SCR, system complexity, high utilities cost and demand (steam, natural gas, compressed air and
+electricity are required), and a gradual rise in NO emissions over time that requires a 1 to 2 day
+
+
+
+56 For example, Kawasaki offers a version of their M1A 13X, 1.4 MW gas turbine with a catalytic combustor with less than 3 ppm
+NOx guaranteed.
+
+
+Catalog of CHP Technologies                         3–19                         Combustion Tubines

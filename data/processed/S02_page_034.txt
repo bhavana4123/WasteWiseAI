@@ -1,0 +1,28 @@
+of combustion with oxygen. If the combustion is ac­    and the process is largely self-regulating. If air is used.
+complished with air. the gas is also diluted with about     the resulting gas is diluted with atmospheric nitrogen
+50% nitrogen from the air.                                 to a producer gas value of 5800-7700 kJ/Nm3 (150­
+                                                  200 Btu/scf). When oxygen is used for gasification. a
+The principal advantages of direct gasification are that    medium-energy gas containing 1 1 .500 kJ/Nm3
+the one-stage process is very simple; the direct heat     (300 Btu/scf) is obtained (Reed 1982). Medium-energy
+transfer from the gases to the biomass is very efficient.     gas can be distributed economically for short distances
+
+                                                  3000
+                P=1atm
+          3000
+
+
+
+
+
+          20
+
+          18                  P · l aIm                    300
+
+                                                                        u:           16             Energy in Gas                                        u
+                            0- "-                                                       !!!ʽ                        P = l aIm          14                 "-                                          ĠIII         'C               ,                 ,                                            Oxygen          12                ,0,                        0;::>   200       Ցg                                                             .....                                                                                               '"                                                                                       .....            C>                                    >                                                                                               .....              -;:          10                                                                                              .....           ""                                                                            C>                                                                                                     c:            :;,                                                                              Air                                   Air                                              ."            E'  8                     .."                                                                                     '"..      w                                                               J:          6    Energy in Char                              100                Π                                                                                                           i:0          4                                                            -'                   Air          2   0,\                 \          0       \                                          0
+           0    0.2    0.4    0.6    0.8     1 .0                   0     0.2   0.4    0.6    0.8    1.0                  Equivalence Ratio                                  Equivalence Ratio      (e)                                                      (d)
+Fig. 44. (a) Abiabatic reaction temperature for biomass of atomic composition CH1.400.6reacting with oxygen and air, plotted against the equivalence
+ratio, $, the ratio of oxygen to that required for complete combustion  (b) Equilibrium gas composition for reaction with air  (e) Energy in solid and
+gas  (d) Energy per volume of gas  (Source: Reed 1981, Figs. S-2 - S·5)
+
+26    Handbook of Biomass Downdraft Gasifier Engine Systems

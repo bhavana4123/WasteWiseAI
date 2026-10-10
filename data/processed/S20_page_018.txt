@@ -1,0 +1,59 @@
+complete set of steps for taking sewage to clean water for discharge to the environment is commonly
+referred to as a “treatment train.” Figure 1 shows a typical treatment train using conventional primary
+settling and secondary biological treatment. Preliminary treatment consists of screening of large debris
+and settling of grit, both of which are typically landfilled. Primary treatment involves physical settling of
+solids from the wastewater while secondary treatment includes biological and/or chemical means to
+remove/reduce biodegradable organics, as normally measured by biochemical oxygen demand (BOD) and
+total suspended solids (TSS). Primary sludge results from sedimentation of organic solids (e.g., toilet
+paper and excrement) from the wastewater. Approximately 50% of the suspended solids and 33% of the
+BOD are removed in the primary step (Amuda et al. 2008). Removal of FOG/scum may be carried out in
+separate tanks or at the primary sedimentation tanks. The scum is either sent to the plant’s anaerobic
+digester (if present) or landfilled. Secondary treatment typically uses aerobic microbes to convert the
+remaining organic material into microbial biomass which is then settled and removed in the secondary
+clarifiers. The removed solids are commonly referred to as waste activated sludge (WAS). Typical solids
+concentrations of primary sludge and secondary sludge are 3% and 0.8%, respectively (Tchobanoglous et
+al. 2014). Secondary sludge is often concentrated to 3-4% solids using dissolved air floatation thickeners.
+Tertiary treatment with filtration/screening is sometimes used to remove residual suspended solids,
+particularly for any water reuse applications. In addition, some plants include nutrient removal in their
+secondary or tertiary treatment steps, especially if they are near their permitted nitrogen and/or
+phosphorus effluent limits (Tchobanoglous et al. 2014). Nutrient removal may be carried out either
+biologically or through chemical methods. More restrictive limits on effluent nutrient levels generally
+exist in areas near water bodies that are vulnerable to eutrophication and degraded water quality. The
+final step in the liquid treatment train is disinfection, after which the treated water is discharged to the
+environment. Various water streams resulting from thickening and dewatering of sludges and digested
+biosolids are generally routed back to the plant influent or “headworks” (Tchobanoglous et al. 2014).
+Given increasingly strict regulatory limits, the trend is toward more thorough water cleaning to remove a
+greater number of constitutents and at higher removal levels (Tchobanoglous et al. 2014). The industry as
+a whole is also moving beyond the conventional end-of-pipe treatment role to becoming sustainable
+resource recovery facilities of the future, driving toward options that maximize energy and nutrient
+recovery while producing clean water.
+
+
+                                                                                                       Tertiary
+                                        Primary                                        Treatment
+               Preliminary Treatment     Treatment      Conventional Secondary Treatment    (optional)    Disinfection
+
+
+                                     Grit             Primary                Aerobic              Secondary
+                                                                                                                                   Filtration
+              Screening      removal             settling              treatment                 settling
+ Raw Waste-
+    water
+                                                                                                                               Effluent to
+                                                                                                          Environment
+
+
+                                                                Return activated sludge                   Backwash to
+                 Screenings and grit to      Primary scum                     Waste activated   headworks                              landfill
+                                 and sludge                              sludge
+
+Figure 1. Typical steps for conventional biological treatment at a WWTP (adapted from Tchobanoglous
+            et al. 2014).
+
+   The most common methods that WWTPs use to manage their sludge include stabilization and land
+application, landfill disposal, or incineration. Stabilization is commonly achieved through anaerobic
+digestion (AD), but can also be accomplished by alkaline addition, drying, or composting. The AD
+
+
+
+                                          3

@@ -1,0 +1,45 @@
+                                                 in.             Refractory "risa" sleeve liner                           i"'1-f---12  ---3.1
+
+
+                                            Gas
+
+
+
+     Gas from
+                                                        · · · · · ·                                                                                                    Pilot     blower  --...,..,.-r              JJԮ....               ===h
+
+                             Variable
+                                   air port      Air.          rr---=¥I.H"'--                                                 Propane torch
+
+
+ Fig. 9-8. Product-gas burner for testing small gasifiers
+
+A small flare, suitable for burning up to 200,000 Btuth    than the costs of replacing the unit with a solid fuel
+of producer gas, is shown in Fig. 9-8. It is made from a     burner.
+ 5-gal can lined with an 8-in.-JD ceramic fiber risa
+ sleeve. (Risa sleeves are used in metal foundries, high­     Close coupled gasifier burner systems are able to meet
+temperature flue lines, and oil-burning furnaces.) A     emission requirements with no expensive pollution
+propane torch or suitable pilot flame injected tangen-.    abatement equipment.
+tially at the bottom maintains a high temperature on
+                                                     Updraft producer gas is an excellent fuel for high­the wall. Producer gas is injected tangentially upstream
+                                                          quality heat applications. The high tar content does notfrom the propane flame and mixes with the propane
+                                                need to be removed, and adds to the heating value. Fur­flame as a source of ignition. Air is drawn through the
+                                                       thermore, the sensible heat ofthe gas adds to the flamebottom port to permit complete combustion. Smaller
+                                                      temperature and overall heat output. TIPI workshopor larger flares can be built on this principle, or com­
+                                                       (Das 1986) has been using updraft producer gas frommercially available burners and gas incinerators can be
+                                           wood chips to fuel a melting furnace, melting copperused.                                               and bronze at high efficiency using 2 to 3 Ib wood chips
+9.4.2 Burners                                       per pound of bronze poured and a rapid heat cycle (20
+                                                            to 30 min) to reach pouring temperature.
+Close coupled gasifier burners offer improved clean,
+high efficiency burning of solid fuels compared with    The flame inside the forge is very different from any
+conventional solid burners. Gas-air mixture and     other kind of wood burner. It has the intensity and fury
+mixing are more easily controlled than are convention­     of a jet engine and the clean invisible flame of a high­
+al solid fuel burners, resulting in more complete com­     quality fuel. Direct combustion of producer gas lends
+bustion. Equipment costs for retrofitting an existing gas      itself to a wide range of applications (e.g., ceramics,
+or oil unit for close coupled gasifying are generally less     glass, steam, drying, blacksmithing, and process heat).
+
+
+
+
+
+98    Handbook of Biomass Downdraft Gasifier Engine Systems

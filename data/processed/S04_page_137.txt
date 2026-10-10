@@ -1,0 +1,49 @@
+7.3.5  Third-Party Own/Operate Business Arrangements
+Many packaged system vendors offer “own and operate” business arrangements, which can be
+structured as agreed upon by the host facility and the vendor. One model is for the vendor or a third
+party to install, own, operate, and maintain the system, and provide the system outputs to the host
+facility under terms established in a contract. In this way, the facility can have on-site power production
+and other CHP benefits without a capital expenditure or the risks and responsibilities of ownership. The
+contract may include an option for the host facility to purchase the system at specified terms.
+
+7.3.6  Replicability
+Operators of multifamily buildings, big box stores, hotels, restaurants, and supermarkets often manage
+many buildings with similar electrical and thermal requirements. Because a specific packaged system
+model will perform consistently when installed in facilities with comparable layouts and electric/thermal
+requirements, that model can become a known quantity for the building operator. With this experience,
+the building operator can confidently choose the same system for other buildings with similar
+electrical/thermal requirements.
+
+7.4   Applications
+While conventional CHP applications have been concentrated in the industrial/heavy manufacturing
+sector, packaged CHP applications are most often used in the commercial, multifamily, institutional, and
+light manufacturing sectors. Attributes of facilities that make them good matches for packaged systems
+include:
+
+    •   Electrical and thermal load and profiles that match packaged system outputs. Most packaged
+       systems are under 500 kW in size, which is a good match for the electrical and thermal loads of
+       commercial, multifamily, and institutional buildings.
+
+    •  Space constraints – Many facilities have constraints on the physical size of units that can be
+         installed, and packaged systems tend to have a relatively small footprint.
+
+    •   Building owners who place a high value on ease of installation and operation – The
+        standardization of packaged systems means an easier procurement process compared to
+       conventional CHP systems.
+
+    •  Need for flexible financing options – CHP projects are capital-intensive, which can be a problem
+        for some market sectors. Many packaged systems are available through “own and operate”
+       arrangements, where the vendor retains ownership and is responsible for installation,
+        operation, and maintenance, if the building owners do not want to perform this function.
+
+    •  A building that is one of several similar facilities in the same enterprise – If a packaged system
+          is a good fit for one facility, it becomes a known quantity that can be confidently deployed at
+       other facilities with similar load requirements and layouts.
+
+Larger energy users, such as industrial/manufacturing facilities and some large institutional facilities
+might not find as much value in a packaged system as they would in a custom-engineered conventional
+CHP system that can be precisely tailored to their specific facility needs.
+
+
+
+Catalog of CHP Technologies                          7–6                       Packaged CHP Systems

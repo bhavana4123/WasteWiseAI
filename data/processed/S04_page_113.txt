@@ -1,0 +1,50 @@
+Source: DOE Fuel Cell Technologies Program88
+
+While there are many different types of fuel cells, there are a few important shared characteristics.
+Instead of operating as Carnot cycle engines, or thermal energy-based engines, fuel cells use an
+electrochemical or battery-like process to convert the chemical energy of hydrogen into water and
+electricity and through this process achieve high electrical efficiencies. Second, fuel cells use hydrogen
+as the input fuel, which is typically derived from a hydrocarbon fuel such as natural gas or biogas. Third,
+most, but not all, fuel cell systems are composed of three primary subsystems: 1) the fuel cell stack that
+generates direct current electricity; 2) the fuel processor that converts the fuel (i.e. natural gas) into a
+hydrogen-rich feed stream; and 3) the power conditioner that processes the electric energy into
+alternating current or regulated direct current. There are a small number of special application fuel cell
+systems that are designed to operate on stored hydrogen fuel, and those fuel cells are configured to
+utilize the DC power output directly.
+
+As previously mentioned, all types of fuel cells also have low emissions profiles. This is because the only
+combustion processes are the reforming of natural gas or other fuels to produce hydrogen and the
+burning of a low energy hydrogen exhaust stream to provide heat to the fuel processor.
+
+Current CHP fuel cell installations total about 83.6 MW domestically.89 California leads the nation in fuel
+cell installations, with just under 45 MW, roughly split half natural gas and half biogas. Connecticut and
+New York follow as the second and third-ranked states with current fuel cell installations at 25 MW and
+10 MW, respectively. Those three states comprise 95 percent of the current domestic fuel cell market.
+
+There is a significant amount of biogas fuel cells in California (representing almost a quarter of all fuel
+cell installations domestically by MW). Many of these systems were developed recently (i.e. 2010) as a
+result of additional incentives stemming from the California Self-Generation Incentive Program (SGIP).90
+Specifically, “directed biogas” projects (i.e. projects that consume biogas fuel produced at a different
+location) are eligible for higher incentives under the SGIP. Both CHP and electric-only fuel cells qualify
+for the SGIP incentive.
+
+6.2   Applications
+Fuel cells are either available or being developed for a number of stationary and vehicle applications.
+The power applications include commercial and industrial CHP (200-2800 kW), pure electrical
+generation91 (105-210 kW), residential and commercial systems for CHP (3-10 kW), back-up and
+portable power systems (0.25-5 kW). In DG markets, the primary characteristic driving early market
+acceptance is the ability of fuel cell systems to provide reliable premium power. The primary interest
+drivers have been their ability to achieve high efficiencies over a broad load profile and low emission
+signatures without additional controls. Figure 6-1 illustrates an actual site with a fuel cell system
+functioning in CHP configuration.
+
+
+
+88 http://energy.gov/eere/fuelcells/comparison-fuel-cell-technologies
+89 CHP Installation Database. Maintained by ICF International for Oak Ridge National Laboratory. 2014. http://www.eea­
+inc.com/chpdata/index.html
+90 “2012 SGIP Impact Evaluation and Program Outlook” Itron. February 2014
+91 Based on Bloom Energy models ES-5700, ES-5400, and UPM-570
+
+
+Catalog of CHP Technologies                          6–3                                        Fuel Cells

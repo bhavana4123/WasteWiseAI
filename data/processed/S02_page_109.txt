@@ -1,0 +1,54 @@
+method. However. the small openings are easily
+ clogged by dirty gas. The "s" type Pitot tube shown in                                                      SCALE
+ Fig. 10-2 is more suitable for dirty gas. Its calibration                                                                ··U" GAUGE factor is approximately K = 0.83 for velocities up to                   MANOMmRͼ 50 fils. For more accurate work, the individual probe                                                                                        ..                   "-RUBBER                                                                                                                                                                                                            TUBINGshould be calibrated against a primary standard.                                        RUBBER WBlNG
+
+The low pressure signal characteristic of Pitot
+measurements requires a sensitive and delicate
+readout. A typical gasifier pipe velocity of 20 fils will
+show a pressure drop of 0.09 in. water gauge. This
+pressure drop can be measured by a Dwyer                                                                                                                                                                                                          IMagnehelic® 0-0.25 in. water gauge pressure gauge,                                                •   I
+                                                                                                                                                                                          PlAIEwhich has a resolution of 0.005  in. water gauge, a        "- PI"                                       DRIfIC'
+pressure readability of 5%, and a velocity readability                                                                                                                                                                                                I                                                                                                        I
+of 2.7%.                                    L-.D-----l---',.D::J
+The velocity of a gas in a pipe is highest at the center       Fig. 10-3. Orifice meter  (Source: Haaland 1968)
+and zero at the wall. The gas velocity can be used to
+measure flow by traversing the velocity profile and in­                                                        pressure drop in the system. If the added pressure drop
+tegrating the result.                                                  can be tolerated, then the orifice meter is usually
+Orifice Meters. The orifice meter shown in Fig. 10-3     preferred over the other alternatives because it is low
+gives a much higher pressure reading than a Pitot tube,     in cost, can use more rugged, less sensitive readout, and
+but it does so at the expense of creating a slightly higher      is not sensitive to small amounts of tars and particu­
+                                                                    lates. An orifice meter consists of a washer-shaped
+                                                            plate with a hole diameter d that is placed in the gas
+                                                                  line, with a plate thickness at the orifice edge of no
+                                              more than 3% of the pipe diameter, D. If the orifice is
+                                               an accurately centered, round opening of diameter d,
+                                                        the diameter ratio, diD, should be between 0.3 and 0.6.
+                                  A means for measuring the differential pressure drop
+                                                       across the plate, as shown in Fig. 10-3, must be
+                                                        provided.
+                                             The calibration can be predicted from the gas proper­
+              14---  STAIN LESS STEEL                ties and dimensions of the pipe and orifice using for­
+                         TUBING                  mulas given here and in more detail in chemical
+                                                        engineering texts and handbooks, such as the Chemi­
+                                                            cal Engineers' Handbook (perry 1973). The location of
+                                                        pressure taps on an orifice meter will significantly af­
+                                                                fect the calibration. For an accurate measurement, the
+                                                                  orifice meter should be calibrated against a primary
+                                                      standard such as a Pitot tube or dry gas test meter. Al­
+                                                  though small deposits of tars will not plug the meter,
+                                                     they may alter the calibration; frequent cleaning or
+                                                            recalibration may be required. To prevent fouling from
+                                                    char or condensate, the orifice opening may be moved
+                                                         to the bottom of the pipe to permit free passage of solids
+                                             and liquids. Calibration is advisable against a standard
+                                                                 orifice meter or other known standard. If the gasifier
+                                    PIPE COUPLING          uses a cyclone, then it can be used as a convenient flow
+                                                   meter by locating temperature and pressure taps at the
+                                                      cyclone inlet and outlet. Calibration again may be
+                                                       predicted from gas properties and cyclone dimensions
+                            TUBING ADAPTOR         or calculated against a known standard.
+
+                                              Flow is related to pressure by the equation
+                                                                      ApTo              (10-2)                                                        ApTo =Fig.     10·2. "S"-type Pitot tube for dirty gas  (Source: ASME 1980,                                                                      a                                Q =Fig.     1-1)                                                   TG          TG                           K      D2
+
+                                                                               Instrumentation and Control    101

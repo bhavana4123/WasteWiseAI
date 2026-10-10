@@ -1,0 +1,50 @@
+                        Table 18. HTL plant variable operating costs.
+
+                                                                                           Total Cost (2014),
+                   Variable                    Value             Source              million USD/year
+                                           Sludge Dewatering
+ Polymer, $/lb (2013$)                            1.73         City of Detroit 2014                0.33(a)
+                                 HTL Processing
+ Natural Gas, $/1000 scf (2014$)                  5.62          EIA 2014a                  0.39
+  Electricity, ¢/kWh (2014$)                        7.09          EIA 2014b                  0.10
+                            HTL Aqueous Phase Treatment
+ Quicklime, $/ton (2014$)                      107         USGS 2016                 0.42
+ Natural gas (for THROX unit), $/1000 scf          5.62          EIA 2014a                  0.18
+ (2014$)
+                                         Extra Aeration at WWTP
+  Electricity, kWh/lb COD removed                 0.40       Wan et al. 2016               0.36
+ (assuming100% COD removal)
+ Total                                                                                       1.78
+  (a) For a polymer dose of 10.5 lb/dry ton secondary sludge.
+
+    Fixed costs for the HTL plant are shown in Table 19. Salaries are taken from Dutta et al. (2011) and
+converted to a 2014 dollar basis using US Bureau of Labor Statistics labor cost indices. The factors for
+benefits and maintenance, insurance and taxes are the standard assumptions used for BETO design cases.
+
+
+                          Table 19. HTL plant fixed operating costs.
+
+                                                                              Total Cost (2014),
+                    Position Title                 Number                 million USD/year
+         Conversion Plant (unburdened)
+              Plant Manager                          1                          0.15
+              Plant Engineer                          1                          0.07
+            Maintenance Super                      1                          0.06
+           Lab Manager                           1                          0.06
+               Shift Supervisor                         3                          0.14
+           Lab Technician                         1                          0.04
+            Maintenance Tech                       1                          0.04
+               Shift Operators                         4                          0.19
+           Yard Employees                        1                          0.03
+             Clerks & Secretaries                     1                          0.04
+          Subtotal                                                                0.81
+         Overhead & maintenance       90% of labor & supervision             0.73
+         Maintenance capital               3% of TIC                     0.98
+          Insurance and taxes                   0.7% of FCI                    0.24
+          Total Other Fixed Costs                                                 2.76
+
+
+
+
+
+                                         27

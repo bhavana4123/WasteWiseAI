@@ -1,0 +1,41 @@
+                           LIST OF TABLES
+
+
+ES-1  Energy Benefit Comparison of Anaerobically Digested Food Waste and Anaerobically
+       Digested Municipal Wastewater Solids........................................................................ ES-3
+ES-2  Bench-scale Anaerobic Food Waste Digester Volatile Solids Destruction (VSD)
+           Summary....................................................................................................................... ES-4
+ES-3  Comparison of Residuals Production for Food Waste and Municipal Wastewater
+       Solids Digestion at a 15-day MCRT............................................................................. ES-5
+ES-4  Bench-scale Anaerobic Food Waste Digester MCRT Summary.................................. ES-5
+ES-5  Bench-scale Anaerobic Food Waste Digester Volatile Solids Loading Rate
+           Summary....................................................................................................................... ES-6
+ES-6  Bench-Scale Anaerobic Food Waste Digester Methane Gas Composition
+           Summary....................................................................................................................... ES-7
+ES-7  Bench-scale Anaerobic Food Waste Digester COD Loading Rate Summary.............. ES-8
+ES-8  Summary of Parameters Comparing Anaerobic Food Waste Digestion to
+      Anaerobic Municipal Wastewater Solids Digestion..................................................... ES-9
+3.1    Bench-scale Anaerobic Food Waste Digester MCRT Summary........................................ 7
+3.2    Bench-scale Anaerobic Food Waste Digester Temperature Summary............................... 9
+3.3    Bench-scale Anaerobic Food Waste Digester pH Summary ............................................ 11
+3.4    Bench-scale Anaerobic Food Waste Digester Gas Production Summary ........................ 13
+3.5    Bench-scale Anaerobic Food Waste Digester Solids (TS and VS/TS) Summary............ 19
+3.6    Bench-Scale Anaerobic Food Waste Digester Volatile Solids Loading Rate
+           Summary........................................................................................................................... 23
+3.7    Bench-scale Anaerobic Food Waste Digester Volatile Solids Destruction (VSD)
+           Summary........................................................................................................................... 24
+3.8    Comparison of Residuals Production for Food Waste and Municipal Wastewater
+       Solids Digestion at a 15-day MCRT................................................................................. 26
+3.9    Bench-scale Anaerobic Food Waste Digester Methane Gas Composition Summary ...... 26
+3.10   Bench-scale Anaerobic Food Waste Digester COD Loading Rate Summary.................. 31
+3.11   Energy Benefit Comparison of Anaerobically Digested Food Waste and Anaerobically
+       Digested Municipal Wastewater Solids............................................................................ 33
+4.1   Summary of Parameters Comparing Anaerobic Food Waste Digestion to
+      Anaerobic Municipal Wastewater Solids Digestion......................................................... 35
+
+
+
+
+
+Anaerobic Digestion of Food Waste                                                                                                                  ii
+Funding Opportunity No. EPA-R9-WST-06-004

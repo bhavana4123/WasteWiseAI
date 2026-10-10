@@ -1,0 +1,60 @@
+                        Chapter 1 3
+              Decision Making
+
+
+ 1 3.1  Introduction                             housing development (fewer than 20 homes). a
+                                                     moderately sized industrial complex, or a good-sized
+ Gasifiers are technically practicable. But other criteria                                                           farm.
+ also factor into decisions about their use. These criteria
+ include gasifier application, the availability of suitable    The equipment may consist of all "home-made" com­
+equipment, biomass fuel availability and fuel-source     ponents, all individual purchases of manufactured
+reliability, regulations, operator availability, and of     parts, a combination of "build and buy," or a turnkey
+ course cost and financing.                               purchase. Money, the availability of suitable equip­
+                                                     ment, use of the equipment, and local talent enter into
+ 1 3.2 Logistics Assessment                     decisions affecting equipment makeup and mix. Where
+                                                                there's need for an uninterrupted gas supply, choices
+The decision to install, invest in, or finance a gasifier   may include multiple small gasifiers or fewer large
+ electric project in a particular location requires a     ones with attendant gas storage.
+favorable assessment of the factors that affect the prac­
+ticability of the concept over the operational life of the     13.2.3 Feedstock Supply
+project.
+                                             More than price is involved in assessing biofuels
+13.2.1  Gasifier Application                                availability. Adequate resources should be available
+                                                      within a 50-mile radius to minimize concerns for an
+Gasifier system application can range from a fuel or                                                       uninterrupted supply. The types of biofuels available
+chemical source for in-house or external use to a vast                                                          are also important, and there should be alternates com­
+complex that produces heat and electric energy as well                                                             patible with the gasifier design. Since the resource may
+as inert byproducts. Generally, the system becomes                                                          ultimately attract other customers, one or more long­
+more cost-effective as the range of products increases.                                                 term contracts guaranteeing a supply is prerequisite.
+Gasifier system planning at least should consider sys­                                                    Also the reputation of the suppliers to meet commit­
+tems that are larger than needed for internal use (with                                                ments should be thoroughly verified. (As the reliability
+sell off of surplus product) and systems providing                                                       of the supply diminishes, the size of the biofuels
+cogeneration.                                                            storage increases.)
+
+13.2.2 Equipment Selection Factors                                                      13.2.4 Regulations
+Equipment needs vary with application (e.g., heat only,                                                      Local and federal regulations may influence decisions
+fuel only) as well as the gas and location ofthe gasifier.                                                         regarding the type, form, and size of a gasifier installa­
+All gasifier installations, however, require control sys­                                                                tion. The federal government's PURPA legislation
+tems (however rudimentary). feedstock storage,                                                   should cause planners to recognize the potential to be
+feedstock feeding mechanisms, and, obviously, a                                                    earned by selling energy to utilities and then balance
+gasifier. Devices for making use of the gas are also                                                      advantages against liabilities. Other regulations (e.g.,
+needed. Combined with internal-combustion engines,                                                       environmental) may mandate use of particular (e.g.,
+for example, equipment add ons for gasifiers are en­                                                           ash-disposal) equipment.
+gines and gas-cleanup equipment. In addition, electric
+generators and electric power conditioners will be     13.2.5 Labor Needs
+needed where electricity is to be produced.
+                                               Most individuals, given minimal training, can operate
+The larger issues in equipment selection are project    a batch-fed gasifier that is not tied into other equip­
+scope (Le., number of uses), size, and composition (Le.,     ment. Mechanically or electrically competent labor is
+equipment origins and mix). Decisions depend on     required where the gas is used to produce electric
+available financing, on whether the equipment even­     power. Where automatic control is extensive, there will
+tually will be used for purposes exceeding immediate    be additional need for competence with controllers and
+needs, and on the talent of available labor.                computers.
+Various factors control gasifier system size. Since this
+                                                       13.2.6 Final Logistics Considerationsdocument covers only small gasifiers, the largest
+project size of interest to readers of this text is limited     Before the first piece of equipment is ordered or
+to a few gasifiers, each producing a maximum of     financed, the success of the project should be secured
+20 MBtu/day-sufficient to meet the needs of a small    by the following:
+
+
+1 24    Handbook of Biomass Downdraft Gasifier Engine Systems

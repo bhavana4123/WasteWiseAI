@@ -1,0 +1,55 @@
+Processes 2020, 8, 1407                                                                                      2 of 14
+
+
+
+ether (DME) [10]. In particular, biomass fast pyrolysis receives a great amount of attention because it is
+operated at atmospheric pressure to produce bio-oil with high yields (up to 75 wt%) [9], while biomass
+liquefaction generally requires high pressures of 4–22 MPa [7,11]. Since bio-oil is a liquid material, it
+can be stored and transported by using current infrastructures used for petroleum fuels.
+     Bio-oil from fast pyrolysis of woody biomass has a dark brown color and a water content of
+more than 15 wt%, depending on the moisture content of the woody biomass used and pyrolysis
+conditions. Bio-oil is known to contain hundreds of organic compounds such as acids, alcohols, ketones,
+aldehydes, phenols, ethers, esters, sugars, furans, alkenes, nitrogen compounds, and miscellaneous
+oxygenates [12]. Pyrolysis bio-oil has undesirable characteristics as a fuel such as low heating values of
+14–18 MJ/kg (LHV) due to high contents of oxygen and low pH values caused mostly by the presence
+of carboxylic acids [13]. It also contains small amounts of solids such as ash and carbon residue, which
+generally have a negative eﬀect on bio-oil as a fuel [14]. Nevertheless, considerable eﬀorts have been
+given regarding the application of pyrolysis bio-oil to combustion systems including boilers, diesel
+engines, and gas turbines [15,16]. For more eﬀective applications, upgrading of pyrolysis bio-oil has
+also been studied by physical methods such as emulsiﬁcation with diesel or blending with alcohols [16]
+and thermochemical methods such as hydrothermal upgrading [17], hydroprocessing consisting of
+hydrodeoxygenation (HDO) and hydrocracking [18], or catalytic cracking [19]. A wide range of
+potential applications of pyrolysis bio-oil as a source of fuel or value-added chemicals has led to the
+development of a more eﬃcient biomass fast pyrolysis process [20,21].
+     In comparison with conventional slow pyrolysis used usually for the production of charcoal [22],
+fast pyrolysis of woody biomass to maximize bio-oil production requires much higher heating
+rates of 10–200 ◦C/s along with a shorter reactor residence time of a few seconds at temperatures of
+approximately 500 ◦C [6,20,23]. A variety of reactor conﬁgurations have been developed to achieve high
+heating rates in biomass fast pyrolysis, including a bubbling ﬂuidized bed reactor [24–27], circulating
+ﬂuidized bed reactor [28,29], entrained ﬂow reactor [30], vortex reactor [31], cyclone reactor [32],
+centrifuge reactor [33], free fall reactor [34], rotating cone reactor [35], and screw reactor [36]. Among
+those reactor conﬁgurations, the bubbling ﬂuidized bed reactor has received much attention due to its
+advantages of relatively simple construction and operation, easy scale-up, and familiar technology [20].
+   A critical issue to be addressed in the design of a bubbling ﬂuidized bed reactor for biomass fast
+pyrolysis is how to maintain the bed at a constant level by steadily removing biochar byproduct from
+the reactor. In the conventional process, biochar is removed from the bed together with gas and vapor
+products by a carrier gas, thereby maintaining the bed at a constant level [21]. The biochar exiting from
+the reactor consecutively enters a cyclone and is separated from the other products. To realize complete
+removal of the biochar (yields up to 20 wt%) from the bubbling bed by this method, it is important
+to prepare for woody biomass feed with very small particle sizes [21] because big wood particles
+proportionally produce a big-sized biochar byproduct which can accumulate in the bed and enhance
+the bubbling bed. The increasing bubbling bed results in variations in pressure drop and ﬂuidization
+characteristics in the reactor, which have negative inﬂuences on the operation and productivity.
+    To the best of our knowledge, little work has focused on in situ removal of biochar byproducts
+from a bubbling ﬂuidized bed reactor through mechanical methods in order to maintain the bubbling
+bed constant. In this work, a double-tube type of bubbling ﬂuidized bed reactor was designed and
+tested for the fast pyrolysis of wood sawdust. This reactor aims at maintaining the bubbling bed at a
+constant level by a mechanical method, which allows a wider range of operating conditions during
+fast pyrolysis of woody biomass.
+
+2. Materials and Methods
+
+2.1. Materials
+
+     Pine sawdust obtained from a local sawmill was dried and sieved to have a particle size range of
+0.5–1.0 mm, before the use in the fast pyrolysis experiments as a feed. Pine is one of the most abundant

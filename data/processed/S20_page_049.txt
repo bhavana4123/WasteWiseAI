@@ -1,0 +1,26 @@
+                      Figure 11. Sensitivity analysis for sludge HTL plant.
+
+    Figure 11 shows the sensitivity of final upgraded fuel MFSP to several economic and technical
+parameters for the biocrude upgrading plant model. Biocrude price was varied widely according to the
+approximate range seen from the variable HTL plant scale in Figure 11. Upgrader plant scale was varied
+from 1,000 to 5,000 BPSD final fuel. For plant scales above the base case, it is likely that a biocrude
+supply draw radius larger than the base case of 100 miles would be necessary. A sensitivity case where
+the biocrude is upgraded at an existing petroleum refinery (TCI=0) is also considered. As shown, this
+option could potentially reduce the MFSP by $0.50/gge. However, more work is needed to characterize
+the processing needs of biocrude and the oxygen, nitrogen and sulfur limits that could be tolerated in a
+petroleum refinery. The hydrotreated oil yield range shown represents the minimum observed in the
+laboratory and the maximum thought to be achievable with the highest quality biocrude.  It may be
+possible to eliminate the hydrocracker through the use of a specially designed hydrotreating catalyst that
+also has cracking capabilities. In this case, the heavy residual would be recycled to the reactor with a
+small purge. This case is also included as a sensitivity. The sensitivity analysis shows that biocrude price
+has the greatest impact on upgrading production cost. Plant scale, upgrading at an existing refinery, and
+hydrotreated oil yield significantly affect cost as well.  It is important to note that inherent to the success
+of a centralized biocrude upgrader scenario are the contractual arrangements and logistical coordination
+that would be required between owners/operators of the HTL/WWTP plants and the regional upgrading
+plant.
+
+
+
+
+
+                                         34

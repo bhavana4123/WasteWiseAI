@@ -1,0 +1,62 @@
+     environments
+
+
+
+Article
+Characterization of Recycled Wood Chips,
+Syngas Yield, and Tar Formation in an
+Industrial Updraft Gasiﬁer
+
+Ehsan Oveisi 1, Shahab Sokhansanj 1,2, Anthony Lau 1,*, Jim Lim 1, Xiaotao Bi 1, Fernando Preto 3
+and Cliff Mui 4
+
+  1  Department of Chemical and Biological Engineering, The University of British Columbia, 2360 East Mall,
+     Vancouver, BC V6T 1Z, Canada; eoveisi@chbe.ubc.ca (E.O.), shahab.sokhansanj@ubc.ca (S.S.),
+     jim.lim@ubc.ca (J.L.), tony.bi@ubc.ca (X.B.)
+  2   College of Engineering, University of Saskatchewan, Saskatoon, SK S7N 5B1, Canada
+  3  CanmetENERGY-Ottawa, NRCan, Ottawa, ON K1A 0E4, Canada; fernando.preto@canada.ca
+  4   Nexterra Systems Corporation, Vancouver, BC V6B 4N8, Canada; cmui@nexterra.ca
+ *   Correspondence: anthony.lau@ubc.ca; Tel.: +1-604-822-3476
+
+
+ Received: 15 June 2018; Accepted: 20 July 2018; Published: 22 July 2018
+
+ Abstract: In this study, the moisture content, caloriﬁc value, and particle size of recycled wood chips
+ were measured. The wood chips were used to fuel an 8.5 MWth updraft gasiﬁer to produce syngas
+ for combustion in a steam-producing boiler. In-situ syngas composition and tar concentrations
+ were measured and analyzed against biomass fuel properties. No efforts were made to adjust
+ the properties of biomass or the routine operating conditions for the gasiﬁer. A sampling device
+ developed by CanmetENERGY-Ottawa (Ottawa, ON, Canada) was used to obtain syngas and tar
+ samples. Wood chip samples fed to the gasiﬁer were taken at the same time the gas was sampled.
+ Results indicate that as the fuel moisture content increases from 20% to 35%, the production of CO
+ drops along with a slight decrease in concentrations of H2 and CH4. Tar concentration increased
+ slightly with increased moisture content and proportion of small fuel particles (3.15–6.3 mm). Based
+ on the ﬁndings of this study, biomass fuel moisture content of 20% and particles larger than 6.3 mm
+ (1/4′′) are recommended for the industrial updraft gasiﬁer in order to achieve a higher syngas quality
+ and a lower tar concentration.
+
+
+ Keywords: biomass gasiﬁcation; industrial updraft gasiﬁer; urban wood wastes; fuel moisture
+ content; syngas composition; tar concentration; sampling device
+
+
+
+
+1. Introduction
+
+    Combustion and gasiﬁcation are key thermal/thermochemical conversion technologies. In terms
+of climate change mitigation, gasiﬁcation processes have the advantage of lesser greenhouse gas
+emissions compared to full oxidative combustion processes. The syngas produced can be further
+processed into biofuels and chemical products [1].
+     In this work, two commercial gasiﬁcation systems are studied. The University of British Columbia
+(UBC) installed a ﬁxed-bed updraft biomass gasiﬁcation system (Figure 1) at the Vancouver Campus
+in 2012. The 8.5 MWth gasiﬁer was designed to provide up to 5% of 40 MW campus power and 15% of
+40 MW thermal-based heat. In addition to the gasiﬁer at UBC, a tissue plant that produces household
+paper products in Metro Vancouver has also been operating two gasiﬁers identical to UBC’s system
+since 2010.
+    The wood wastes consist of two types of materials: scraps from construction and demolition
+(C&D), and municipal tree trimmings collected from Metro Vancouver’s curbsides and landﬁll.
+
+
+
+Environments 2018, 5, 84; doi:10.3390/environments5070084                      www.mdpi.com/journal/environments

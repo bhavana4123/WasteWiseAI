@@ -1,0 +1,52 @@
+       8.8 Disposal of Captured Contaminants                                                                                                                                      . 92
+              8.8.1 Char-Ash   .                                                                                                                                                                       . 92
+              8.8.2 Tar     .   .   .   .                                                                                                                                                                       . 92
+              8.8.3 Condensate                                                                                                                                                                       . 92
+
+9.0 Gasifier Systems                                                                                                                                                                                     . 93
+       9.1 The Complete Gasifier System                                                                                                                                                 . 93
+       9.2 Storing, Feeding, and Sealing Solids                                                                                                                                    . 93
+              9.2.1 Characteristics of Solids                                                                                                                                            . 93
+              9.2.2 Storage    .   .   .   .   .   .   .                                                                                                                                                    . 93
+              9.2.3 Feeding Solids    .   .   .   .   .                                                                                                                                            . 94
+              9.2.4 Sealing Solid Flows    .   .                                                                                                                                            . 94
+       9.3 Fans, Blowers, Ejectors, and Compressors                                                                                                                         . 95
+              9.3.1 Importance of Gas-Moving System Design                                                                                                       . 95
+              9.3.2 Fans                                                                                                                                                                                     . 95
+              9.3.3 Blowers                                                                                                                                                                              . 96
+              9.3.4 Ejectors   .                                                                                                                                                                           . 96
+              9.3.5 Turbochargers and Superchargers                                                                                                                         . 97
+       9.4 Flares and Product-Gas Burners                                                                                                                                              . 97
+              9.4.1 Flares   .                                                                                                                                                                               . 97
+              9.4.2 Burners   .   .   .   .   .   .                                                                                                                                                        . 98
+
+10.0 Instrumentation and Control                                                                                                                                                       . 99
+       10.1 The Need for Instruroentation and Control                                                                                                                      . 99
+       10.2 Gasifier Instruroents   .   .   .   .   .   .   .                                                                                                                                        . 99
+              10.2.1 Pressure Measurement    .   .                                                                                                                                     . 99
+              10.2.2 Gas Flow Measurement                                                       100
+              10.2.3 Solid Flow Measurement                                                       103
+              10.2.4 Temperature Measurements                                                     103
+       10.3 Controls      .   .   .   .   .   .   .   .   .   .   .                                                           103
+              10.3.1 Fuel-Level Controls                                                            103
+              10.3.2 Pressure Controls   .   .                                                           103
+              10.3.3 Temperature Controls                                                         104
+      10.4 Computer Data Logging and Control                                                    104
+
+11.0 Engine Adaptation and Operation                                                          105
+       11.1 Introduction    .   .   .   .   .   .   .   .   .   .   .                                                         105
+       11.2 Producer Gas for Transportation                                                          105
+       11.3 Producer Gas for Electric Power and Irrigation                                              105
+      11.4 Gasifier Types Suitable for Shaft-Power Generation                                          105
+       11.5 Sizing the Gas Producer to the Engine     .   .   .   .   .   .   .                                         105
+      11.6 Engine Selection   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .                                        106
+              11.6.1 Large-Vehicle Engines - Truck Engines up to 50 kW                                106
+              11.6.2 Small Engines                                                                 106
+              11.6.3 Natural-Gas Engines                                                            106
+              11.6.4 Diesel Engines                                                                 106
+      11.7 Cogeneration   .   .   .   .   .   .   .   .   .                                                           106
+
+
+
+
+vi    Handbook of Biomass Downdraft Gasifier Engine Systems

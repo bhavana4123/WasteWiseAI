@@ -1,0 +1,49 @@
+than the fifth seed reactor (F-305). Another pump (P-301) feeds the seed to the production
+fermentation train.
+
+Besides being fermented to ethanol, sugar may be lost to side products by contaminating
+microorganisms. A total of 3% of the sugars available for fermentation is assumed lost to
+contamination, as discussed in the 2002 design report. This is the level of contamination loss
+tolerated by the corn ethanol industry, so it can be thought of as an expected value consistent
+with good batch fermentor operation. The contamination loss is modeled by converting a fraction
+of the sugars to lactic acid upstream of the fermentor. This allows us to simply assign a percent
+loss to contamination in the model so the conversions in the fermentor do not have to be
+adjusted. Table 12 shows the contamination reactions only.
+
+                  Table 12. Co-Fermentation Contamination Loss Reactions
+                Reaction                   Reactant  % Converted to
+                                                     Product
+                Glucose → 2 Lactic Acid      Glucose    3.0%
+               3 Xylose → 5 Lactic Acid      Xylose      3.0%
+               3 Arabinose → 5 Lactic Acid   Arabinose   3.0%
+                 Galactose → 2 Lactic Acid     Galactose   3.0%
+              Mannose → 2 Lactic Acid     Mannose    3.0%
+
+Fermentation is conducted in a batch system of 950,000-gal vessels (F-300). The fermentation
+residence time is modeled as 36 hours. Inoculum from the seed train is fed at 10 vol % of the
+hydrolysate flow along with the nutrients corn steep liquor (CSL, 0.25 wt %) and diammonium
+phosphate (DAP, 0.33 g/L of whole slurry). The fermentors are cooled using the pump-around
+loop with H-300 switched from cooling water to chilled water from the coolant loop (Area 900).
+Agitation requirements in the main production reactors were reduced from those in the 2002
+design. The main reactors (F-300) are agitated at 0.03 hp/1,000 gal (6 W/m3). The assumption is
+that most of the liquefaction and viscosity reduction of the slurry takes place in the continuous
+high-solids hydrolysis reactor, and vigorous agitation is not required in anaerobic Z. mobilis
+fermentation.
+
+Table 13 summarizes the conditions in the fermentation vessels and Table 14 lists the reactions
+and conversions assumed in fermentation. Based on NREL’s knowledge of state-of-the-art co-
+fermenting microorganisms, arabinose is assumed to have the same conversion to ethanol as
+xylose does. Conversion of galactose and mannose to ethanol is not assumed, in contrast to the
+2002 design. Arabinose follows the xylose stoichiometry, with 85% conversion to ethanol.
+Inhibition effects from furans and acetate are not modeled explicitly in Aspen, having no kinetics
+available to do so, but they are implicit in the static conversions used in the model because these
+conversions are based on fermentation experiments carried out in the presence of these
+inhibitors. NREL does have an active research program in fermentation inhibitor characterization
+and mitigation [48], but the details of this program are beyond the scope of this process design
+report.
+
+
+
+
+
+                                      30

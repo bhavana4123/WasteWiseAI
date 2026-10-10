@@ -1,0 +1,59 @@
+                                                          Polymers and Plastics
+
+
+
+POLYVINYL CHLORIDE; solid; Repeating unit is (-CH2CHCI-),,   it is a synthetic
+   thermoplastic polymer.  Purity is 99.7 mole %.
+
+   gross heat of combustion: temperature is 25°C (77OF), and value given is per
+   monomer unit.
+
+    qv(gross) = 7874.7 Btu lb;'
+    qv(gross) = 4374.8 cal g-
+    qv(gross)   18304.3 J g-l
+
+                                                                  58SIN/STU
+
+PROPARGYL AZIDE POLYMER; solid; Polymer was formed when an alcohol-water
+   solution of propargyl bromide and sodium azide was refluxed and the product
+   (C3H3N3)n appears t o be primarily a 4-methylene-l,2,3-triazole polymer (the 5
+   methylene configuration is also possible).  Analysis found C = 44.04, H = 4.07, N =
+    49.57, and 0 = 1.97 wt.% (oxygen is due t o water that is occluded or chemically
+    bound).
+
+   gross heat of combustion: assume values refer to room temperature; sample was
+    dried under vacuum at 100OC; mean values were corrected for HN03 formation.
+                                 1    qv(gross) = 9454 ? 22 Btu lb-
+    q,(gross)  = 5252 ? 12 cal g-l
+    q,(gross)  = 21974 ? 50 f g-'
+
+                                                     73HOU/HUM
+
+RESIN, ABS I; solid; copolymer of styrene-acrylonitrile = 76% and polybutadiene = 15%.
+
+   specific heat:
+
+   temperature                                              Cp(ca1 g-1 K-l)            -1   -1    (K)  (OF)         C,(Btu  Ib-I  OF-')                          Cp(J g  K   )                                                                  IJ
+    163  -166                0.184                   0.184                0.770
+    217  -69                0.240                   0.240                1.004
+    277    39                 0.31 1                    0.31 1               1.301
+    298    77                 0.338                   0.338                1.414
+    328   131                0.373                   0.373                1.561
+    380   225                 0.492                   0.492                2.059
+    430   315                0.518                   0.518               2.167
+    477   399                 0.541                   0.541                2.264
+
+    specific hea, change at glass transi ion -2mperature:
+
+
+                                            A C ~ (g-'J   K-')
+
+    188  -121                   0.0 14                   0.014                0.059
+    377   217                0.069                  0.069               0.289
+
+                                                                     70BAI
+
+
+
+
+                                      185

@@ -1,0 +1,47 @@
+TA 6M: Waste Heat Recovery
+
+
+  Findings from Previous Reports
+
+   Analysis of these previous studies along with direct contact with industry and equipment suppliers have shown
+   that a significant amount of waste heat is not currently recovered across all temperature ranges, and there is an
+  expanded need for R&D in two temperature ranges: ultra-low (<250°F) and ultra-high (>1,600°F). The lack of
+   wide-scale heat recovery in these two temperature ranges appears to be primarily due to issues associated with
+   technology, materials, and economics, such as the lack of economically justifiable measures and equipment to
+   recover the low-grade heat, as well as heat contained in very high temperature and contaminated waste heat
+   streams. In addition, for many existing WHR systems, especially in the medium-temperature range (600° –
+   1,200°F), there is an opportunity to further optimize these systems to improve the recovery rate and make the
+  systems more cost-effective. For example, heat recovery opportunities are still available in the cement and glass
+   industries, where exhaust gases from cement preheater kilns and recuperative glass furnaces are in the medium-
+   to-high temperature range.
+
+  Technology Assessment and Potential
+
+  Commonly Used Waste Heat Recovery Systems
+
+   Industry uses a wide variety of WHR equipment offered by a number of suppliers in United States and from
+   other countries. Much of this equipment is designed for specific industrial applications. There is no standard
+  method to classify this equipment; in many cases the manufacturers offer application-specific designs.
+
+  The commonly used systems listed in this table are available from several suppliers to capture waste heat
+  from a variety of industrial waste heat sources. While in most cases the systems are proven, the systems are
+   continuously being improved in the following areas to offer better performance:
+
+             Design changes to offer higher thermal efficiency and smaller footprint or size
+
+             System cost reduction through improved design and manufacturing techniques
+
+             Improved seals to reduce maintenance requirements and/or extend seal lifetimes
+
+             Use of alternative materials to improve heat transfer performance or reduce maintenance costs
+
+             Design changes to meet customer demands for different or previously untested applications
+
+  A summary of conventional or commonly used WHR technologies for various temperature ranges is found in
+   Table 6.M.6.
+
+
+
+
+
+ 16  Quadrennial Technology Review 2015

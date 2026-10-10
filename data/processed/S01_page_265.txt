@@ -1,0 +1,53 @@
+Woody and Tree Materials
+
+
+PINE, SLASH; BARK; Pinus elliottii; solid; gross heat of combustion determined on 1 g
+   samples of air-dried bark; ash content = 0.6%; moisture content = 6.4%.
+
+   gross heat of combustion: assume values refer to room temperature; values not
+   corrected for moisture or ash contents; hence, ate on an as-determined basis.
+
+    qv(gross) = 9002 Btu lb;'
+   q  ( ross) = 5001 cal g-
+    q$ross)   = 20924 J g-l
+
+                                                          55CHAIMIT
+PINE, SLASH; FOLIAGE; Pinus elliottii; solid; freeze-dried to < 10% moisture content.
+   Composition is ash  1.54% and char yield = 29.5%.  Char was obtained from heating
+   the sample to 500°C (932'F)  in nitrogen.
+
+   gross heat of combustion: ash-free, dry basis; assume values refer to toom
+   temperature.
+
+    fuel                                     char (from 500°C heating)
+                        1    q,(gross)  = 9300 Btu Ib-
+                                                     =                                                      Btu                                                     q,(gross)                                                   13640                                                                                                                  I P-'    q,(gtoss)  = 5170 cal g-'                                                                         g-                                                     q,(gross)                                                               cal                                                     = 7580
+    q,(gross) = 2 I6 I0 f g-'                         q,(gross) = 31700 J g-l
+
+                                                                   82SUS
+
+PINE, SUGAR; Pinus tambertiana; solid; Material was obtained from Whitaker's Forest in
+   Tulare County, California, with predominant soil series of Shaver sandy loam derived
+   from granitic parent material. The layer was collected from the understory of the
+    forest floor. Average yearly decomposition of the forest floor for sugar pine is:
+    litter, 8.60%; duff, 2.56%.
+
+   gross heat of combustion: assume values refer to room temperature; ash free.
+
+   branch- t wig                                      litter
+                     1    q,(gross)  9220 Btu Ib-                    qv(gross) = 9268 Btu lbi'
+    q,(gross)  = 5 122 cal g-'                     qv(gross)  5249 cal g-
+    q,(gross)  = 21430 J g-l                        q,(gross) = 21543 J g-'
+
+    duff
+                           1    qv(gross)  9365 Btu lb-
+    qv(gross)  5203 cal g-'
+    q,(gross)   21769 J g-'
+
+                                                       78AGElWAK
+
+
+
+
+
+                                     288

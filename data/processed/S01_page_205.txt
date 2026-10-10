@@ -1,0 +1,57 @@
+                                                                   Vegetable Oils
+
+
+
+SOYBEAN OIL; liquid; the bean of Soia hispida (Leguminosae); average composition:
+    proteins, 40%; oils, 18%; phosphatides, 2%; remainder urease raff inose, stachyose,
+    saponins, phytosterins, and isoflavone; density is 0.925 g      at 15°C (50°F).
+    Saponification number 189-193.5; iodine number 122-134.
+
+    specific heat: sample was heated at 100°C (212°F) for 3 to 6 hours under a pressure
+    of 2-3 mm of Hg to remove moisture.
+   Cp(Btu Ib-I  OF-')     = 0.47779 + 5.2622 x     T - 4.8470 x    T2 + 9.7171 x 10- 10 T3
+                                                              x    T - 5.912 x     T2 + 5.667  x 10-9 T3  c (cal    K-')     = 0.03911 + 2.858
+   Cp(Jgp     K -1        = 0.16362 + 1.1957 x lo-* T - 2.474 x    T2 + 2.371  x 10- 8 T 3    3
+                                                        46CLA/WAL
+
+SOYBEAN OIL; liquid; The vegetable oil has a chemical composition of up to 3 fatty
+    acids linked to a glycerine molecule with ester linkages; the fatty acid composition in
+    percent by weight is palmitic = 11.75, stearic = 3.15, oleic = 22.26, linoleic = 55.53,
+   and linolenic = 6.3 I. The acid value (number of mg of KOH needed to neutralize free
+    fatty acids in 1 g sample) = 0.20, the phosphorus   32.0 ppm, peroxide value (milli-
+    equivalents of peroxide per 1000 g sample that oxidize KI during test conditions) =
+    44.5, water and sediment (% by volume) = trace, carbon residue (% by weight) = 0.27,
+   ash (% by weight) = 0.01, and sulfur (94 by weight) = 0.01.  Density = 0.9138 kg/L.
+
+    gross heat of combustion: assume values refer to room temperature.
+
+     q,(gross)  = 17046 Btu 1
+    qv(gross)  9470 cal g-
+     q,(gross)  = 39623 J g-l
+
+                                                          82GOE/SCH
+
+SOYBEAN OIL, REFINED; liquid; The saponification number, which is the mean
+    molecular weight of the fatty acids present in the molecule = 190. The amount of
+    iodine absorbed and expressed as a percenta2e of the molecular weight (a measure of
+    the proportion of unsaturated fatty acid present) called the iodine number = 133.
+
+    enthalpy difference: temperature range measured -50" to 55°C (-58" to 131OF).
+
+    temperature                       H"(t)-Ho(-50aC)
+   ("C)  (OF)      Btu lb'l                 cal g-l                J g-'
+
+    -50    -58              0.00                    0.00                  0.00
+    -25    -13           18.34                  10.19                42.64
+      0    32          65.52                 36.40                152.30
+     25    77           87.73                 48.74               203.93
+     50   122          108.74                  60.41               252.76
+     55   131        112.95                  62.75               262.55
+
+                                                                           (mote)
+
+
+
+
+
+                                       227

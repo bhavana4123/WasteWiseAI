@@ -1,0 +1,58 @@
+               Figure 3.7 Anaerobic Food Waste Digester Total Volatile Acids to Total Alkalinity Ratio
+       5.0
+             Start 15d MCRT                               Start 10d MCRT                                        Start 5d MCRT
+           11/27/2006                               1/9/2007                                          3/3/2007
+       4.5
+
+
+       4.0
+     CaCO3)  3.5
+  mg
+    Acid/  3.0
+
+                                                                                                        Thermo Test
+       2.5     Acetic                                                                                               Meso Test
+   (mg
+       2.0                                                                                    NOTES:
+                                                                                                                                          1. Average values of
+                                                                                                                                digesters fed
+       1.5       TVA/TALK                                                                                                                      municipal sludge per
+                                                                                                                          previous EBMUD
+                                                                                                                                   study.       1.0
+
+
+       0.5
+
+                                                                               Typical Avg: 0.05(1)
+       0.0
+       11/25/06      12/9/06      12/23/06      1/6/07       1/20/07       2/3/07       2/17/07       3/3/07       3/17/07
+
+                                             Date
+
+15-day MCRT
+During the 15-day MCRT operational period, TALK remained relatively stable, while TVAs
+fluctuated significantly.
+
+Because the volatile acids in the thermophilic digester continued to increase, the thermophilic
+digester was restarted with new thermophilic anaerobic digested sludge from an EBMUD full-
+scale digester. After the thermophilic digester was reseeded on 12/14/2006, TVAs gradually
+increased from approximately 1,000 mg/L to a peak of 4,800 mg/L, and then began to steadily
+decrease to 1,700 mg/L prior to the change to 10-day MCRT.
+
+During the 15-day MCRT operational period, the TALK for the thermophilic digester reached a
+peak of 10,000 mg/L (as CaCO3 mg/L), but dropped to approximately 8,000 mg/L prior to the
+digester being reseeded. Overall, the digester alkalinity was within a stable range. After the
+12/14/2006 digester reseeding, TALK remained steady around 8,000 mg/L before increasing to
+11,000 mg/L.
+
+TALK remained stable, and slightly decreased to 7,000 mg/L as TVAs increased after the heater
+failure. The mesophilic digester TVAs remained stable, typically less than 500 mg/L, with a
+maximum of 2,000 mg/L. After the heater failed on 12/18/2006, however, TVAs steadily
+increased to 12,000 mg/L before the digester was reseeded.
+
+During stable operation, the thermophilic digester TVA/TALK average was 0.28, and the
+mesophilic digester TVA average was 0.09. During this period, the mesophilic digester operated
+
+
+Anaerobic Digestion of Food Waste                                                               17
+Funding Opportunity No. EPA-R9-WST-06-004

@@ -1,0 +1,51 @@
+Each of these market segments is estimated to contain over 1 GW of technical potential for systems
+<500 kW. Figure 7-12 breaks down the technical potential for packaged systems <500 kW.
+
+   Figure 7-12. Technical Potential for <500 kW Packaged CHP Applications in the
+           Commercial and Institutional Sectors, by Market Segment
+
+           tentia
+
+
+         l for
+
+
+    Po <500  k
+
+
+         W Pack                Technical
+         7-12.          aged  C
+           Figure
+           HP  A
+
+
+                                                                                              pplications
+
+
+
+
+
+Source: ICF, 2016.
+
+
+More information on the technical potential for CHP applications – including the industrial sector and
+larger size ranges – can be found in the Department of Energy’s 2016 CHP Technical Potential Report.109
+
+7.5   Technology Description
+The general design of packaged systems is relatively consistent throughout all packaged products. The
+main components of packaged systems include:
+
+    •  Prime mover – the power-producing machine (or chemical process, in the case of fuel cells) that
+        drives the electric generator.
+
+    •  Generator – a device that converts mechanical energy into electricity.
+
+    •  Heat exchanger – a device that transfers heat from the prime mover exhaust gas and/or the
+       engine block to water, to produce hot water or steam.
+
+
+109 U.S. Department of Energy, Combined Heat and Power (CHP) Technical Potential in the United States, March 2016,
+http://energy.gov/sites/prod/files/2016/04/f30/CHP%20Technical%20Potential%20Study%203-31-2016%20Final.pdf.
+
+
+Catalog of CHP Technologies                         7–10                       Packaged CHP Systems

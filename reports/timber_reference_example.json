@@ -1,0 +1,341 @@
+{
+  "input_note": "100 kg mass and 10% wet-basis moisture are explicit illustrative user inputs, not measured values from the source dataset. The published P0022 yield is verified; operating plant applicability is not.",
+  "study_query": {
+    "waste_category": "Wood and forestry waste",
+    "waste_subtype": "Dry wood reference",
+    "technology": "Pyrolysis",
+    "desired_output": "bio-oil"
+  },
+  "study_response": {
+    "waste_category": "Wood and forestry waste",
+    "waste_subtype": "Dry wood reference",
+    "technology": "Pyrolysis",
+    "desired_output": "bio-oil",
+    "studies": [
+      {
+        "parameter": {
+          "parameter_id": "P0022",
+          "waste_subtype": "Dry wood reference",
+          "technology": "Pyrolysis",
+          "parameter_name": "Liquid product yield",
+          "value_min": "",
+          "value_typical": "75",
+          "value_max": "",
+          "unit": "% dry feed mass",
+          "measurement_basis": "dry wood mass",
+          "operating_conditions": "fast; around 500 degC; hot vapour residence approximately 1 s",
+          "source_id": "S07",
+          "evidence_location": "PDF page 5; Table 1: Typical",
+          "evidence_kind": "documented_reference_typical",
+          "limitations": "Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+          "record_id": "P0022",
+          "value_min_inclusive": "",
+          "verification_status": "verified"
+        },
+        "evidence_status": "VERIFIED",
+        "selectable": true,
+        "source_reference": {
+          "source_id": "S07",
+          "organization": "IEA Bioenergy",
+          "publication_title": "IEA Bioenergy Annual Report 2006",
+          "publication_year": "2007",
+          "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/iea_annual_2006.pdf",
+          "license": "Publicly accessible; no explicit open-data redistribution license identified",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+          "verification_status": "verified"
+        },
+        "evidence": [
+          {
+            "source_id": "S07",
+            "parameter_id": "P0022",
+            "original_value": "75",
+            "original_unit": "% dry feed mass",
+            "converted_value": "75",
+            "converted_unit": "% dry feed mass",
+            "evidence_location": "data/processed/S07_page_005.txt; PDF page 5; Table 1: Typical",
+            "retrieval_status": "downloaded",
+            "verification_status": "verified",
+            "reviewer_notes": "Original evidence inspected by Codex; not independent laboratory validation. Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+            "conversion_formula": "identity",
+            "dataset_name": "conversion_parameters",
+            "evidence_file": "data/processed/S07_page_005.txt",
+            "evidence_image": "",
+            "evidence_kind": "documented_reference_typical",
+            "evidence_sha256": "f8ad72b8779af5fba16696a7dc3843074acd1d167a67da391bb982ceda24fa01",
+            "evidence_text": "Pyrolysis Pyrolysis is thermal decomposition occurring in the absence of oxygen. It is also always the first step in combustion and gasification, but in these processes it is followed by total or partial oxidation of the primary products. Lower process temperatures and longer vapour residence times favour the production of charcoal. High temperatures and longer residence times increase biomass conversion to gas, and moderate temperatures and short vapour residence times are optimum for producing liquids.Table 1 indicates the product distribution obtained from different modes of pyrolysis. Fast pyrolysis for liquids production is currently of particular interest because liquids can be stored and transported more easily and at lower cost than solid biomass.3,4,5,6 Table 1: Typical product yields (dry wood basis) obtained by different modes of pyrolysis of wood Mode Conditions Liquid Char Gas Fast moderate temperature, around 500\u00b0C, 75% 12% 13% short hot vapour residence time ~ 1 second Intermediate moderate temperature, around 500\u00b0C, 50% 20% 30% moderate hot vapour residence time ~ 10-20 seconds Slow (carbonisation) low temperature, around 400\u00b0C, 30% 35% 35% very long solids residence time Gasification high temperature, around 800\u00b0C, 5% 10% 85% long vapour residence time Fast pyrolysis occurs in a few seconds or less.Therefore heat and mass transfer processes and phase transition phenomena, as well as chemical reaction kinetics, play important roles.The critical issue is to bring the reacting biomass particles to the optimum process temperature and minimise their exposure to the intermediate (lower) temperatures that favour formation of charcoal. One way this objective can be achieved is by using small particles, for example in the fluidised bed processes that are described later. Another possibility is to transfer heat very rapidly only to the particle surface that contacts the heat source, as applied in ablative pyrolysis. A critical technical challenge in every case is heat transfer to the reactor in commercial systems. Principles of fast pyrolysis In fast pyrolysis, biomass rapidly decomposes to generate vapours, aerosols, gases and some charcoal. After cooling and collection, a dark brown mobile liquid is formed that has a heating value of about half that of conventional fuel oil. While it is related to the traditional pyrolysis processes for making charcoal (see Table 1), fast pyrolysis is an 5",
+            "field_name": "value_typical",
+            "measurement_basis": "dry wood mass",
+            "raw_sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+            "record_id": "P0022"
+          }
+        ],
+        "applicability": "Verified published yield and basis only. Equivalence of the user waste, preprocessing, reactor conditions and equipment scale is not established."
+      },
+      {
+        "parameter": {
+          "parameter_id": "P0025",
+          "waste_subtype": "Dry wood reference",
+          "technology": "Pyrolysis",
+          "parameter_name": "Liquid product yield",
+          "value_min": "",
+          "value_typical": "50",
+          "value_max": "",
+          "unit": "% dry feed mass",
+          "measurement_basis": "dry wood mass",
+          "operating_conditions": "intermediate; around 500 degC; hot vapour residence approximately 10-20 s",
+          "source_id": "S07",
+          "evidence_location": "PDF page 5; Table 1: Typical",
+          "evidence_kind": "documented_reference_typical",
+          "limitations": "Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+          "record_id": "P0025",
+          "value_min_inclusive": "",
+          "verification_status": "verified"
+        },
+        "evidence_status": "VERIFIED",
+        "selectable": true,
+        "source_reference": {
+          "source_id": "S07",
+          "organization": "IEA Bioenergy",
+          "publication_title": "IEA Bioenergy Annual Report 2006",
+          "publication_year": "2007",
+          "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/iea_annual_2006.pdf",
+          "license": "Publicly accessible; no explicit open-data redistribution license identified",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+          "verification_status": "verified"
+        },
+        "evidence": [
+          {
+            "source_id": "S07",
+            "parameter_id": "P0025",
+            "original_value": "50",
+            "original_unit": "% dry feed mass",
+            "converted_value": "50",
+            "converted_unit": "% dry feed mass",
+            "evidence_location": "data/processed/S07_page_005.txt; PDF page 5; Table 1: Typical",
+            "retrieval_status": "downloaded",
+            "verification_status": "verified",
+            "reviewer_notes": "Original evidence inspected by Codex; not independent laboratory validation. Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+            "conversion_formula": "identity",
+            "dataset_name": "conversion_parameters",
+            "evidence_file": "data/processed/S07_page_005.txt",
+            "evidence_image": "",
+            "evidence_kind": "documented_reference_typical",
+            "evidence_sha256": "f8ad72b8779af5fba16696a7dc3843074acd1d167a67da391bb982ceda24fa01",
+            "evidence_text": "Pyrolysis Pyrolysis is thermal decomposition occurring in the absence of oxygen. It is also always the first step in combustion and gasification, but in these processes it is followed by total or partial oxidation of the primary products. Lower process temperatures and longer vapour residence times favour the production of charcoal. High temperatures and longer residence times increase biomass conversion to gas, and moderate temperatures and short vapour residence times are optimum for producing liquids.Table 1 indicates the product distribution obtained from different modes of pyrolysis. Fast pyrolysis for liquids production is currently of particular interest because liquids can be stored and transported more easily and at lower cost than solid biomass.3,4,5,6 Table 1: Typical product yields (dry wood basis) obtained by different modes of pyrolysis of wood Mode Conditions Liquid Char Gas Fast moderate temperature, around 500\u00b0C, 75% 12% 13% short hot vapour residence time ~ 1 second Intermediate moderate temperature, around 500\u00b0C, 50% 20% 30% moderate hot vapour residence time ~ 10-20 seconds Slow (carbonisation) low temperature, around 400\u00b0C, 30% 35% 35% very long solids residence time Gasification high temperature, around 800\u00b0C, 5% 10% 85% long vapour residence time Fast pyrolysis occurs in a few seconds or less.Therefore heat and mass transfer processes and phase transition phenomena, as well as chemical reaction kinetics, play important roles.The critical issue is to bring the reacting biomass particles to the optimum process temperature and minimise their exposure to the intermediate (lower) temperatures that favour formation of charcoal. One way this objective can be achieved is by using small particles, for example in the fluidised bed processes that are described later. Another possibility is to transfer heat very rapidly only to the particle surface that contacts the heat source, as applied in ablative pyrolysis. A critical technical challenge in every case is heat transfer to the reactor in commercial systems. Principles of fast pyrolysis In fast pyrolysis, biomass rapidly decomposes to generate vapours, aerosols, gases and some charcoal. After cooling and collection, a dark brown mobile liquid is formed that has a heating value of about half that of conventional fuel oil. While it is related to the traditional pyrolysis processes for making charcoal (see Table 1), fast pyrolysis is an 5",
+            "field_name": "value_typical",
+            "measurement_basis": "dry wood mass",
+            "raw_sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+            "record_id": "P0025"
+          }
+        ],
+        "applicability": "Verified published yield and basis only. Equivalence of the user waste, preprocessing, reactor conditions and equipment scale is not established."
+      },
+      {
+        "parameter": {
+          "parameter_id": "P0028",
+          "waste_subtype": "Dry wood reference",
+          "technology": "Pyrolysis",
+          "parameter_name": "Liquid product yield",
+          "value_min": "",
+          "value_typical": "30",
+          "value_max": "",
+          "unit": "% dry feed mass",
+          "measurement_basis": "dry wood mass",
+          "operating_conditions": "slow carbonisation; around 400 degC; very long solids residence time",
+          "source_id": "S07",
+          "evidence_location": "PDF page 5; Table 1: Typical",
+          "evidence_kind": "documented_reference_typical",
+          "limitations": "Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+          "record_id": "P0028",
+          "value_min_inclusive": "",
+          "verification_status": "verified"
+        },
+        "evidence_status": "VERIFIED",
+        "selectable": true,
+        "source_reference": {
+          "source_id": "S07",
+          "organization": "IEA Bioenergy",
+          "publication_title": "IEA Bioenergy Annual Report 2006",
+          "publication_year": "2007",
+          "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "doi": "",
+          "dataset_filename": "data/raw/iea_annual_2006.pdf",
+          "license": "Publicly accessible; no explicit open-data redistribution license identified",
+          "access_date": "2026-10-08",
+          "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+          "records_use_source": "true",
+          "retrieval_status": "downloaded",
+          "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+          "verification_status": "verified"
+        },
+        "evidence": [
+          {
+            "source_id": "S07",
+            "parameter_id": "P0028",
+            "original_value": "30",
+            "original_unit": "% dry feed mass",
+            "converted_value": "30",
+            "converted_unit": "% dry feed mass",
+            "evidence_location": "data/processed/S07_page_005.txt; PDF page 5; Table 1: Typical",
+            "retrieval_status": "downloaded",
+            "verification_status": "verified",
+            "reviewer_notes": "Original evidence inspected by Codex; not independent laboratory validation. Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+            "conversion_formula": "identity",
+            "dataset_name": "conversion_parameters",
+            "evidence_file": "data/processed/S07_page_005.txt",
+            "evidence_image": "",
+            "evidence_kind": "documented_reference_typical",
+            "evidence_sha256": "f8ad72b8779af5fba16696a7dc3843074acd1d167a67da391bb982ceda24fa01",
+            "evidence_text": "Pyrolysis Pyrolysis is thermal decomposition occurring in the absence of oxygen. It is also always the first step in combustion and gasification, but in these processes it is followed by total or partial oxidation of the primary products. Lower process temperatures and longer vapour residence times favour the production of charcoal. High temperatures and longer residence times increase biomass conversion to gas, and moderate temperatures and short vapour residence times are optimum for producing liquids.Table 1 indicates the product distribution obtained from different modes of pyrolysis. Fast pyrolysis for liquids production is currently of particular interest because liquids can be stored and transported more easily and at lower cost than solid biomass.3,4,5,6 Table 1: Typical product yields (dry wood basis) obtained by different modes of pyrolysis of wood Mode Conditions Liquid Char Gas Fast moderate temperature, around 500\u00b0C, 75% 12% 13% short hot vapour residence time ~ 1 second Intermediate moderate temperature, around 500\u00b0C, 50% 20% 30% moderate hot vapour residence time ~ 10-20 seconds Slow (carbonisation) low temperature, around 400\u00b0C, 30% 35% 35% very long solids residence time Gasification high temperature, around 800\u00b0C, 5% 10% 85% long vapour residence time Fast pyrolysis occurs in a few seconds or less.Therefore heat and mass transfer processes and phase transition phenomena, as well as chemical reaction kinetics, play important roles.The critical issue is to bring the reacting biomass particles to the optimum process temperature and minimise their exposure to the intermediate (lower) temperatures that favour formation of charcoal. One way this objective can be achieved is by using small particles, for example in the fluidised bed processes that are described later. Another possibility is to transfer heat very rapidly only to the particle surface that contacts the heat source, as applied in ablative pyrolysis. A critical technical challenge in every case is heat transfer to the reactor in commercial systems. Principles of fast pyrolysis In fast pyrolysis, biomass rapidly decomposes to generate vapours, aerosols, gases and some charcoal. After cooling and collection, a dark brown mobile liquid is formed that has a heating value of about half that of conventional fuel oil. While it is related to the traditional pyrolysis processes for making charcoal (see Table 1), fast pyrolysis is an 5",
+            "field_name": "value_typical",
+            "measurement_basis": "dry wood mass",
+            "raw_sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+            "record_id": "P0028"
+          }
+        ],
+        "applicability": "Verified published yield and basis only. Equivalence of the user waste, preprocessing, reactor conditions and equipment scale is not established."
+      }
+    ],
+    "reference_samples": [],
+    "moisture_explanation": "No verified same-sample wet-basis moisture or total-solids record exists for this reference. Enter user-measured wet-basis moisture. A dry-feed yield does not imply zero moisture.",
+    "required_acknowledgement": "I use the selected published operating conditions for reference mass accounting only. Feed equivalence and equipment-qualified plant performance are not established; liquid includes water, and this is not an energy forecast."
+  },
+  "request": {
+    "waste_category": "Wood and forestry waste",
+    "waste_subtype": "Dry wood reference",
+    "technology": "Pyrolysis",
+    "desired_output": "bio-oil",
+    "quantity_kg": 100,
+    "moisture_pct": 10,
+    "parameter_id": "P0022",
+    "reference_mode": true
+  },
+  "response": {
+    "input_waste_details": {
+      "waste_category": "Wood and forestry waste",
+      "waste_subtype": "Dry wood reference",
+      "quantity": 100.0,
+      "unit": "kg",
+      "moisture_pct": 10.0,
+      "desired_output": "bio-oil",
+      "technology_preference": "Pyrolysis",
+      "parameter_id": "P0022",
+      "property_id": null,
+      "reference_mode": true,
+      "mass_kg": 100.0
+    },
+    "technology": "Pyrolysis",
+    "feasibility_status": "conditional",
+    "calculation_status": "CALCULATED_REFERENCE",
+    "energy_output_type": "bio-oil",
+    "calculated_value": 67.5,
+    "unit": "kg liquid pyrolysis product including water",
+    "gross_vs_net_classification": "intermediate_product_quantity",
+    "formula": "wet_mass_kg*(1-moisture_pct/100)*product_mass_yield_pct/100",
+    "parameters": [
+      {
+        "name": "moisture_pct",
+        "value": 10.0,
+        "unit": "% wet mass",
+        "origin": "user"
+      },
+      {
+        "record_id": "P0022",
+        "name": "Liquid product yield",
+        "field": "value_typical",
+        "value": 75.0,
+        "unit": "% dry feed mass",
+        "measurement_basis": "dry wood mass",
+        "operating_conditions": "fast; around 500 degC; hot vapour residence approximately 1 s",
+        "source_id": "S07"
+      }
+    ],
+    "source_ids": [
+      "S07"
+    ],
+    "assumptions": [
+      "User moisture is wet-basis mass percent; user feed characterization is not source-verified.",
+      "Published reference scenario only; linear mass accounting under the stated study conditions, not equipment sizing or a plant forecast."
+    ],
+    "missing_parameters": [],
+    "uncertainty": {
+      "moisture_sensitivity": "Holding reference yield constant, dry-mass accounting changes by -1/(100-moisture_pct) of its value per percentage-point moisture increase, away from 100%. This is not a process moisture-response model.",
+      "statistical": "No confidence interval provided; reference yields are not uncertainty bounds."
+    },
+    "warnings": [
+      "Feed equivalence, preprocessing, reactor conditions and scale have not been established for an operating installation.",
+      "Calculated liquid includes water; not pure organic oil, upgraded transport fuel or an energy value."
+    ],
+    "limitations": [
+      "Controlled oxygen-free industrial reactor; confirm contamination and product suitability",
+      "Drying and size reduction as specified by reactor",
+      "Qualitative tested-feedstock evidence; generic wood yields cannot be transferred to these waste types.",
+      "Emissions control; contaminated sludge/leather requires contaminant assessment",
+      "Reference typical yields, not an equipment-specific experiment; liquid includes water. Do not infer electricity efficiency.",
+      "Published-reference accounting only; no equipment-qualified operating forecast.",
+      "External predictive validation has not been achieved.",
+      "Three historical gas-table energy discrepancies remain unresolved: runs 920, 924, 1110.",
+      "Electricity and useful heat forecasts remain blocked.",
+      "Equipment moisture feasibility is UNKNOWN where documented limits are missing."
+    ],
+    "intermediate_products": [],
+    "evidence": [
+      {
+        "dataset": "technology_mapping",
+        "record_id": "M0013",
+        "field": "mapping_evidence",
+        "evidence_location": "PDF page 6; bark"
+      },
+      {
+        "record_id": "P0022",
+        "field_name": "value_typical",
+        "source_id": "S07",
+        "evidence_location": "data/processed/S07_page_005.txt; PDF page 5; Table 1: Typical",
+        "evidence_file": "data/processed/S07_page_005.txt",
+        "conversion_formula": "identity",
+        "original_value": "75",
+        "original_unit": "% dry feed mass",
+        "converted_value": "75",
+        "converted_unit": "% dry feed mass"
+      }
+    ],
+    "scenario_id": "P0022",
+    "errors": [],
+    "feasibility_checks": {},
+    "source_references": [
+      {
+        "source_id": "S07",
+        "organization": "IEA Bioenergy",
+        "publication_title": "IEA Bioenergy Annual Report 2006",
+        "publication_year": "2007",
+        "source_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+        "doi": "",
+        "dataset_filename": "data/raw/iea_annual_2006.pdf",
+        "license": "Publicly accessible; no explicit open-data redistribution license identified",
+        "access_date": "2026-10-08",
+        "final_url": "https://www.ieabioenergy.com/wp-content/uploads/2013/10/IEA-Bioenergy-2006-Annual-Report.pdf",
+        "records_use_source": "true",
+        "retrieval_status": "downloaded",
+        "sha256": "e21712f070c6806d23757272bbffd07af8dbaa01e98de01a79b62e6656e562f8",
+        "verification_status": "verified"
+      }
+    ],
+    "dataset_issues": [
+      "W0032: excluded from calculations: published_proximate_mass_closure_99_52_pct",
+      "W0077: excluded from calculations: published_ultimate_analysis_mass_closure_exceeds_100_pct"
+    ],
+    "explanation": "Published reference accounting under stated conditions; not a plant forecast."
+  }
+}

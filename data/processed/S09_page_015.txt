@@ -1,0 +1,50 @@
+          O            O           O             O
+                                    ||                                            ||                                           ||                                               ||
+R-OH      R-C-OH           R1-C-O-R2          R1-C-R2            R-C-H
+
+Alcohol    Carboxylic acid         Ester              Ketone          Aldehyde
+
+                       Figure 10. Classes of Organic Molecules
+
+When reading (or writing) the structural formulas of organic compounds, you will often
+encounter R or R1, R2 or R3, etc. “R” means “organic rest” and is an abbreviation for a part of
+the molecule which then has to be defined. General formulas for some classes of compounds can
+be written as shown in Figure 10.
+
+The specific structural features of organic compounds (such as the hydroxy groups in alcohols)
+are responsible for the fact that many compounds can react with other compounds to form new
+compounds. The new may then belong to a different class of compounds. These structural
+features are also responsible for the differences in physical properties (melting point, boiling
+point, etc.) of the organic compounds. For example, acetic acid can react with methanol to form
+methyl acetate (which belongs to the ester class of compounds; esters are formed by the reaction
+of an acid with an alcohol), in which case water is also formed as a byproduct:
+
+           O                  O
+                                                   ||                                                                                ||
+           CH3-C-OH  +  CH3OH  →  CH3-C-O-CH3  +  H2O
+
+                 Figure 11. Chemical Reaction to Form Methyl Acetate
+
+You can also perform the back reaction in which methyl acetate reacts with water to form acetic
+acid and methanol. When methanol is the alcohol participating in the reaction, the ester formed is
+a methyl ester, when ethanol is the alcohol participating in the reaction, an ethyl ester is formed.
+
+Vegetable oils and biodiesel
+
+Now we can start to deal with biodiesel. As you know, biodiesel is derived from vegetable oils.
+The major components of vegetable oils are triglycerides. The term triacylglycerols is being used
+more and more, but we will use the classical term in this discussion. Triglycerides are esters of
+glycerol (see above; an alcohol with a hydroxy group on each of its three carbon atoms) with
+long-chain acids, commonly called fatty acids. Tables 4 and 5 list the most common fatty acids
+and their corresponding methyl esters.
+
+Note from the comparison of the rational names of the fatty acids with their structural formulas
+how the position of the double bonds is defined by numbers. The number of carbon atoms is
+counted by beginning with the first carbon having the functional group defining the fatty
+compound as acid or ester. As you can see from the former example (for example, 1-propanol
+and 2-propanol), this way of counting holds for other functional groups as well. The trivial
+names of fatty acids and their esters are far more commonly used than their rational names.
+
+
+
+                                      11

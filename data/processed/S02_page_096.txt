@@ -1,0 +1,45 @@
+                                                                                             Baffle su pport
+
+                                                            ,    ,                                        ' --
+                                            "                                                                                     ... ..              \"' ­ ,              @-"                        .-, ©.-,   .   @.--."                                                        ,         ,,_#,.                                    '. . .. '        ʴ Inpingement                                    '  .                                                       .                                                                      plate                                 .
+                                      Ί-..'                 ..... .'          \@ @,   /        Bubble cap            plate        @"  ©-'
+                                 Bubble caps
+
+
+
+
+
+Fig. 8·16. Impingement plate scrubber  (Source: Kaupp 1984a, Figs. 142, 143)
+
+scrubbers have no moving parts and are especially   man problem for wet scrubbers in gasifier systems. Gas
+well-suited for very dirty, corrosive, or abrasive    contaminant testing is advisable for all unproven
+materials that might otherwise damage a blower     designs.
+impeller (Calvert 1972).
+                                                       8.7.3 Auxiliary Equipment
+8.7.2.7 Packed-Bed Scrubbers
+                                                                8.7.3.1 Gas CoolingThe packed-bed scrubber (Fig. 8-19) is simple and open
+in design, and uses spheres, rings, or saddles as ran­    Water vapor acts as an inert dilutent of producer gas,
+dom packings to enhance the gas-liquid contact area.      initially lowering the gas heating value and ultimately
+Packed beds are more effective for both gas absorption    lowering engine power or burner rating, as shown in
+and liquid-gas heat exchange than they are for particle      Fig. 8-21. Much ofthis water vapor can be removed by
+collection. However, packed beds are excellent for cap­     cooling the producer gas and subsequently condensing
+turing entrained liquids. For entrainment separation,     out the water.
+the optimum superficial gas velocity for packed-bed
+scrubbers using 1/2-in. spheres is 10 to 12 ft/s. Flood­    The amount of water vapor remaining after the cooling
+ing and reentrainment occur above a gas velocity of    and condensation steps can be determined readily from
+12 ft/s. The pressure drop is 7.5 to 8.5 in. water gauge     the lowest temperature to which the gas has been
+for a 6-in.-deep bed. Performance characteristics of     cooled. If condensation has occurred, then the lowest
+packed beds are shown in Fig. 8-20. Packed beds are     gas temperature is of course the dew point of the gas
+free-draining; they may be irrigated to remove     mixture. The water vapor content of the gas may be
+accumulations with a water flow (Calvert 1972).         determined from Fig. 8-22, or the psychrometric chart
+                                                       of Fig. 7-19. Note that the moisture fraction roughly
+8.7.2.8 Entrainment Separators                        doubles with each 10'C increase in the dew point
+                                                        temperature. We can calculate that at the 70'C dewEntrained liquids from the wet scrubber must be
+                                                            point, water vapor represents 25% of the gas volume.thoroughly removed from the gas stream because they                                                    Cooling the gas to 40'C reduces the water content tocarry a slurry of captured materials. Entrainment                                                              less than 8%, resulting in a substantial improvementdroplets are typically greater than 10 ȹm and may be                                                       in gas quality.captured using a variety of techniques, including a
+packed bed, a packed fiber bed, a cyclone separator, an    Water vapor dilution will be minimized by using fuels
+impingement separator, a spray tower, or a settling     that are as dry as possible and then condensing water
+chamber. Poor entrainment separation has been a corn-    vapor to remove it from the gas.
+
+
+
+88    Handbook of Biomass Downdraft Gasifier Engine Systems

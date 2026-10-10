@@ -1,0 +1,43 @@
+temperature in the distillation column is the highest at the bottom and decreases moving up the
+column. Distillation columns can use either trays or packing.
+
+The degree of separation that can be achieved in a distillation column is dictated by the relative
+volatilities of the chemicals to be separated, the number of trays or the height of the packing, and
+the reflux ratio. Chemicals with very different boiling points are easier to separate than those
+with similar boiling points. Increasing the number of trays or the height of packing can increase
+the amount of separation. Reflux ratio is the amount of condensed overhead vapor that is fed
+back into the top of the column. Increasing the reflux ratio increases the degree of separation.
+Increasing the number of trays or height of packing increases the column height and increasing
+the reflux ratio increases the column diameter. Either of these increases in column dimensions
+increases the capital cost of the column.
+
+Trayed distillation columns are the most common. A tray is where contacting occurs between the
+vapor stream and the liquid stream. The liquid enters the feed tray through the downcomer from
+the above tray, flows across the tray where is interacts with the vapor, spills over a weir, and,
+finally, flows through the downcomer to the next tray. The vapor flows up through holes in the
+tray. It is important to have appropriate flow rates of the liquid and vapor to get optimal column
+operation. If the liquid flow rates become too high, poor contacting occurs with the vapor and in
+the extreme flooding of the column can occur. The onset of flooding in a column is easy to
+observe since the column pressure drop will increase markedly when flooding begins. If the
+vapor flow rate is too high, liquid can be entrained and carried over to the above tray leading to
+poorer separation. In contrast, too low of a vapor rate can lead to weeping of the liquid through
+the tray, which diminishes the separation. The liquid and vapor flow rates are dictated by the
+operation of the reboiler and the condenser, which means they are controlled by the energy input
+and removal.
+
+The materials of construction is an important consideration for the reactor and storage tanks. The
+demands on the materials used for the storage tanks downstream of the reactor are lower since
+these tanks contain nearly pH neutral chemicals. The materials of construction for the storage
+tanks are discussed in the Transportation and Storage section. In contrast, the materials of
+construction required in the reactor must withstand basic conditions for the transesterification
+reaction or acidic conditions if an esterification approach is used to convert free fatty acids. For
+the base-catalyzed transesterification reaction, stainless steel is the preferred material for the
+reactor. However, stainless steel will not be good choice for use in the acid-catalyzed
+esterification reaction because stainless steel is subject to attack by acids. Under these
+conditions, an acid resistant material such as Hastelloy should be used for the reaction vessel.
+
+
+
+
+
+                                      47

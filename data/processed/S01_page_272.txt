@@ -1,0 +1,51 @@
+                                                  Woody and Tree Materials
+
+
+SPRUCE, ENGELMANN, BARK; Picea engehannii; solid; gross heat of combustion
+   determined on 1 g samples of air-dried bark; ash content = 2.5%; moisture content =
+   5.5%.
+
+   gross heat of combustion: assume values refer t o room temperature; values not
+   corrected for moisture or ash contents; hence, are on an as-determined basis.
+                              1    q,(gross)  = 8359 Btu lb-
+    q,(gross)  = 4644 cal g-l
+    q,(gross)  = 19430 J g-l
+
+                                                           55CHA/MIT
+
+SPRUCE, NORWAY; Pinus abies; solid; carbon, 50.31%; hydrogen, 6.20%; nitrogen,
+   0.04%; ash, 0.37%.
+
+   gross heat of combustion: at 2OoC (68OF); air-dried at 110°-1150C (230°-2400F); ash
+    free.
+
+                           1    qv(gross) = 9167 Btu Ib-
+   qv(gross) = 5093 cal g-'
+    q,(gross)  = 21309 J g-'
+
+                                                             1883GOT
+
+SPRUCE PINE; Pinus gZabra; solid; samples were dried for 8 hours in a vacuum oven at
+   103OC (217°F).
+
+    specific heat: 333-413 K (140"-284"F)
+   Cp(Btu lb-I  OF-')    = 0.2472 + 5.577  x     T
+   Cp(cal  -1 K-1)     = -0.0091 + 1.004 x     T
+   Cp(J g-'   K-')        = -0.0389 + 4.201  x     T
+
+                                                                  68KAI/FRI
+
+SPRUCE PINE, BARK; Pinus glabra; solid; bark specimens oven-dried at 152OC (306°F).
+
+    specific heat: 333-413 K (140°-284"F)
+    C,(Btu   lb-'  OF-')    = 0.3383 - 2.4489  x    T + 1.5855 x     T2
+    P -
+   Cp(cal        5-11     0.7859 - 3.0645 x    T + 5.137 x     T2          9-1                           3.2882 - 1.2822 x loL2 T + 2.1493  x 10-5 T2   Cp(J g-  K   )
+
+                                                                  68KAI/FRI
+
+
+
+
+
+                                         295

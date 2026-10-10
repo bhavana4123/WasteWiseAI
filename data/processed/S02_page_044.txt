@@ -1,0 +1,61 @@
+         Table 5-1 . Maximum Reported Superficial Velocity and Hearth Load of Various Gasifiers8
+                               DC               Vsd                 Bhe
+                                Diameter         Superficial Vel           Hearth Load
+Gasifier           Typeb    m          It      mls         Itls     m3/cm2_h    MBtu/ft2-h     Reference
+Imber!"                  I-A        0.15      0.5       2.50        8.2        0.90         4.76       (Gengas 1950)
+                          I-A         0.30        1 .0       0.63        2.1         0.23             1 .1 9       (Gengas 1 950)
+Biomass Corp.e         I-A        0.30        1 .0       0.95        3.1        0.34             1 .81       (Graham 1983)
+                          I-A         0.61      2.0       0.24       0.8        0.09         0.45       (Graham 1 983)
+SERI Airlox          S-A         0.1 5      0.5       0.28       0.9        0.10          0.53        (Reed 1982)
+                  S-O       0.15      0.5       0.24       0.8        0.09          0.90        (Reed 1 982)
+Buek Rogers         S-A        0.61      2.0        0.1 3       0.4        0.05          0.25        (Walawender 1 985)
+                   S-A        0.61      2.0      0.23       0.7        0.08         0.43        (Chern 1 985)
+Syn-Gas, Inc.        S-A       0.76      2.5          1 .71        5.6        0.62         3.26         (Graboski 1 985)
+                  S-O       0.76      2.5         1 .07       3.5        0.39         4.07        (Graboski 1 985)
+BData in this table are based on reports on well-tested gasifiers, rather than manufacturers' claims, etc.
+bl is the Imbert (nozzle and constricted throat) gasifier of WW II. S is the Stratified Downdraft Gasifier. A signifies operation on air, 0 on oxygen.
+cFor Imbert type gasifiers (I), the diameter is measured at the throat (upper value) or at the air entry level (lower value). For Stratified Downdraft
+ Gasifiers     the diameter is constant at all levels.            (8),
+dThe superficial velocity is calculated as the volume of gas (taken at room temperature) passing through the area without regard to the presence of
+ fuel. It has units of vol/area-time = lengthltime "" velocity.
+eThe hearth load, Bh, is a practical measure of gasifier gas volume throughput (SI units) or energy throughput (English units).
+
+observed an optimum relationship between the hearth     throughput and at low loads become disproportionate­
+and nozzle areas. For instance, maximum power was     ly high. A low specific hearth load may also cause tar
+obtained from 130-mm hearths that had five 12-mm     formation problems. A high turndown ratio is less im­
+nozzles. Any variation of either the nozzle or hearth     portant for electric generators and irrigation pumps
+ring from these dimensions caused a power reduction.     that constantly operate at full capacity.
+Table 5-2 shows successful nozzle sizes for wood­
+                                                       In summary, the Imbert gasifier design has survived thefueled Imbert gas producers and the wider variation for
+                                                                  test of time and mass production. It is relatively inex­nozzles used in successful Imbert and SGB gasifiers.
+                                                         pensive, uses simple materials of construction, is easy(SGB  units were used for 2-cycle pulsating flow
+                                                            to fabricate. and can be operated by motorists with aengines.)
+                                          minimum of training. It supplies low-tar gas from high­
+A larger hearth diameter requires either a higher noz­     ly volatile fuels with a high turndown ratio.
+zle velocity or some other means to penetrate the
+deeper fuel bed. This leads to a higher pressure drop
+for larger hearths. placing an upper size limit on noz­     5.7.5 Disadvantages of the Imbert Design
+zle-fed downdraft gasifiers when gas flow is provided
+by engine vacuum. If the cross-sectional area of the noz­    Although the Imbert gasifier has been the prototype
+zles is too small. there will be an excessive pressure    downdraft gasifier, it has a number of disadvantages.
+                                             The hearth constriction seriously limits the range ofdrop in forming the air jets; if the cross-sectional area
+is too large, the air jets will have too Iow a velocity and    biomass fuel shapes that can be successfully gasified
+the air will not penetrate the bed. The velocity of the    without expensive cubing or pelletizing pretreatment.
+                                                    (The stratified-bed gasifiers currently under develop­air blast is shown in Table 5-2.
+                                             ment at SERI and other facilities and discussed in Sec­
+5_7_4 Turndown Ratio                                 tion 5.8 are free of constrictions and promise to broaden
+                                                      the range of fuels that can be gasified.) The Imbert
+Another important concept in sizing gasifiers is the                                                                gasifier requires a high-grade, usually hardwood, fuel,
+"turndown ratio." the ratio of the highest practical gas                                                         generally at least 2 em along the smallest dimension
+generation rate to the lowest practical rate. The                                                 with no more than 20% moisture. During World War
+turndown ratio of World War II gasifiers varied between                                                                                      II, stringent specifications were maintained on fuel
+3 for Imbert-style gasifiers with uninsulate.d V-hearth                                                        production, which was carried out at a number of
+gasifiers and 18 for highliinsulated V-hearth gasifiers.                                                        licensed factories.
+Vehicle operation requires turndown ratios of at least
+8:1, making the need for insulation and proper sizing    The Imbert design cannot be scaled-up to larger sizes
+in high-turndown applications apparent. Although en­     because the air enters at the sides and is incapable of
+gineers often oversize equipment. this can be fatal in     penetrating a large-diameter fuel bed unless the fuel
+gasifier design. Heat losses tend to be independent of      size is increased proportionally. The tar level, while
+
+
+36    Handbook of Biomass Downdraft Gasifier Engine Systems

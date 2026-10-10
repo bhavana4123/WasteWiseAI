@@ -1,0 +1,51 @@
+Agricultural Residues
+
+
+CORN STOVER; solid; Material is considered biomass fuel and has proximate analysis
+   values (in percent by weight dry basis) for volatile concentration (VCM) = 75.17, ash
+   content = 5.58, and fixed carbon = 19.25. Also the ultimate analysis of the elemental
+   composition of the fuel (values in percent by weight dry basis) is carbon = 43.65,
+   hydrogen = 5.56, oxygen   43.31, nitrogen = 0.61, sulfur = 0.01, chlorine = 0.60, and
+   residue (ash) = 6.26.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atrn 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+
+    q,(gross)  = 7593 Btu lb-I
+    q,(gross)  = 4218 cal g-l    q,(gross) = 17650 J g- 1
+
+   net heat of combustion: assume values refer to room temperature,
+   qv(net) = 7107 Btu Ib;'
+   qv(net) = 3948 cal g-
+   qv(net) = 16520 J g-l
+
+                                                                      85 JEN/EBE
+
+COTTON GIN TRASH; solid; Material is considered biomass fuel and has proximate
+   analysis values (in percent by weight dry basis) for volatile concentration (VCM) =
+    67.30, ash content = 17.60, and fixed carbon = 15.10.  Also the ultimate analysis of
+   the elemental composition of the fuel (values in percent by weight dry basis) is
+   carbon = 39.59, hydrogen = 5.26, oxygen = 36.38, nitrogen = 2.09, and residue (ash) =
+    16.68.
+
+   gross heat of combustion: assume values refer to room temperature; determination
+   performed at 30 atm 02,and corrections applied for the formation of nitric and
+    sulfuric acids.
+    qv(gross) = 7064 Btu lb- I
+    qv(gross) = 3924 cal g-l
+    q,(gross)  = 16420 J g-l
+
+   net heat of combustion: assume values refer to room temperature.
+
+    qv(net) = 6604 Btu lbll
+    qv(net) = 3669 cal gT
+    qv(net) = 15350 J g-
+
+                                                                       85 JEN/EBE
+
+
+
+
+
+                                          16

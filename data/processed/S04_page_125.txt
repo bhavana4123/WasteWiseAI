@@ -1,0 +1,36 @@
+fuel cells maintain efficient performance at partial loads better than reciprocating engines. The fuel cell
+efficiency at 50 percent load is within 2 percent of its full load efficiency characteristic. As the load
+decreases further, the curve becomes somewhat steeper, as inefficiencies in air blowers and the fuel
+processor begin to override the stack efficiency improvement.
+
+              Figure 6-4. Comparison of Part Load Efficiency Derate
+
+
+
+
+
+               Source: Gas Technology Institute, Caterpillar, Energy Nexus Group.
+
+6.4.3  Effects of Ambient Conditions on Performance
+Fuel cells are generally rated at ISO conditions of 77° F and 0.987 atmospheres (1 bar) pressure. Fuel cell
+system performance – both output and efficiency – can degrade as ambient temperature or site
+elevation increases. This degradation in performance is related to ancillary equipment performance,
+primarily the air handling blowers or compressors. Performance degradations will be greater for
+pressurized systems operating with turbo-chargers or small air compressors as their primary air supply
+components.
+
+6.4.4 Heat Recovery
+The economics of fuel cells in on-site power generation applications depend less on effective use of the
+thermal energy recovered than is the case with lower efficiency prime movers, but thermal load
+displacements can improve operating economics as in any CHP application. Generally, 25 percent of the
+inlet fuel energy is recoverable from higher quality heat from the stack and reformer subsystems, and
+another 25 percent is contained in the exhaust gases that include the latent heat of the product water
+generated in the fuel cell. The most common use of this heat is to generate hot water or low-pressure
+steam for process use or for space heating.
+
+Heat can generally be recovered in the form of hot water or low-pressure steam (< 30 psig), but the
+quality of heat is very dependent on the type of fuel cell and its operating temperature. The one
+exception to this is that some manufactures of SOFC do not recover the heat for use in other
+
+
+Catalog of CHP Technologies                         6–15                                       Fuel Cells

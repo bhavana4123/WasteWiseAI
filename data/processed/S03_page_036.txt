@@ -1,0 +1,50 @@
+As shown in Figure 3.8, food waste is typically fed at more than two times the TS concentration
+of municipal wastewater solids, which is typically about 4%. Figure 3.9 shows that food waste
+has a higher VS/TS (usually over 85%) than municipal wastewater solids which is typically
+around 77%. The higher solids content means that food waste provides a more efficient use of
+digester volume and so required digester volume is less for food waste than for municipal
+wastewater solids. The higher VS/TS also means that more of the food waste can be consumed
+by digester bacteria, yielding more energy, and producing less inert residual biosolids to haul off
+compared to municipal wastewater solids.
+
+15-day MCRT
+TS and VS/TS of mesophilic and thermophilic digesters remained stable during the 15-day
+MCRT operational period. The feed TS gradually increased to over 12%, but the average TS
+was 8% during this period. The TS in the mesophilic and thermophilic digesters trended closely
+until the feed TS began to increase. The thermophilic TS slightly increased compared to the
+mesophilic TS. However, both digesters were operating near the TS of a municipal digester,
+even though the feed TS averaged two times that of average municipal wastewater solids feed.
+This demonstrates that food waste is more degradable than municipal wastewater solids, and will
+not significantly increase residual solids remaining for disposal, even at a higher feed TS.
+
+During this period, the food waste feed VS/TS was well above the VS/TS of typical municipal
+wastewater solids. The mesophilic and thermophilic digesters trended closely together. The
+thermophilic digester VS/TS averaged slightly higher than the mesophilic digester, which was
+most likely a result of the temperature fluctuations discussed earlier in Section 3.2 resulting in
+more unstable periods for the thermophilic digester. Both digesters averaged a slightly higher
+VS/TS compared to municipal wastewater solids digestion. However, the values are fairly close,
+and at times were actually less than that of the municipal wastewater solids average value. This
+shows that even though the feed VS/TS of food waste is significantly higher than that of
+municipal wastewater solids, the digested sludge VS/TS can be close to that of municipal
+wastewater solids.
+
+10-day MCRT
+During the 10-day MCRT operational period, the feed TS varied, but had an overall increasing
+trend. The average feed sludge during this period was 9.6%, which was higher compared to the
+feed sludge during the 15-day MCRT period. The TS gradually increased for both the
+mesophilic and thermophilic digesters, and both were trending closely with each other until
+February 8, 2007, when the TS for the thermophilic digester dropped, while the TS for the
+mesophilic digester continued to rise. During this period, the feed solids TS gradually increased,
+and peaked at 11%. The mesophilic digester TS peaked at 4%, and then began to decrease to
+match the TS of the thermophilic digester. The thermophilic digester TS increased gradually to a
+peak of 3.1%, before dropping gradually to 2% at the end of the period.  It is worth noting that
+the TS for both digesters decreased after the temperature in both digesters increased. This
+illustrates the importance of maintaining a minimum digester temperature, and the impacts on TS
+in the digester. Comparing the mesophilic to thermophilic operation, the overall TS was less for
+the thermophilic digester, suggesting that thermophilic temperatures provide better digester
+performance by reducing the digester solids content, compared to digesters operated at
+mesophilic temperature.
+
+
+Anaerobic Digestion of Food Waste                                                               21
+Funding Opportunity No. EPA-R9-WST-06-004

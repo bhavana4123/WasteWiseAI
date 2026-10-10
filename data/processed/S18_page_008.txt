@@ -1,0 +1,29 @@
+List of Figures
+
+Figure 1. Simplified flow diagram of the overall process, PFD-P120-A000 ................................. 4
+Figure 2. NREL’s approach to process design and economic analysis .......................................... 5
+Figure 3. Adjusting the Kazi et al. base case ($3.40/gal) to NREL 2008 SOT assumptions ........ 10
+Figure 4. Structural carbohydrate distribution of the feedstock variability study [25] ................. 13
+Figure 5. Simplified flow diagram of the feedstock receiving system ......................................... 16
+Figure 6. Simplified flow diagram of the pretreatment and conditioning process ....................... 19
+Figure 7. Horizontal pretreatment reactor design scheme (Andritz, Inc.) .................................... 23
+Figure 8. Simplified flow diagram of the enzymatic hydrolysis and fermentation process ......... 27
+Figure 9. Simplified flow diagram of the enzyme production process ......................................... 36
+Figure 10. Enzyme production cost breakdown ........................................................................... 41
+Figure 11. Enzyme contribution to MESP as a function of loading ............................................. 42
+Figure 12. Simplified flow diagram of the separation process ..................................................... 44
+Figure 13. Simplified flow diagram of the wastewater treatment process ................................... 47
+Figure 14. Cooling duty distribution between major users ........................................................... 55
+Figure 15. Distribution of plant electricity utilization by process area ......................................... 56
+Figure 16. Sensitivity of MESP to IRR and % equity (8% interest on a 10-year loan) ................ 66
+Figure 17. Cost contribution details from each process area (per gallon EtOH) .......................... 69
+Figure 18. Mass, carbon, and energy balance diagram for the overall process ............................ 73
+Figure 19. Economic summary for dilute sugar production ......................................................... 78
+Figure 20. Single-point sensitivity tornado charts for (a) MESP and (b) ethanol yield ............... 80
+Figure 21. Sugar-based pathways for conventional and advanced biofuels ................................. 86
+
+
+
+
+
+                                                      vii

@@ -1,0 +1,23 @@
+{
+  "version": "2.0",
+  "routeKey": "$default",
+  "rawPath": "/api/health",
+  "rawQueryString": "",
+  "headers": {
+    "host": "local.lambda-url.ap-southeast-2.on.aws"
+  },
+  "requestContext": {
+    "requestId": "local-health-check",
+    "domainName": "local.lambda-url.ap-southeast-2.on.aws",
+    "stage": "$default",
+    "http": {
+      "method": "GET",
+      "path": "/api/health",
+      "protocol": "HTTP/1.1",
+      "sourceIp": "127.0.0.1",
+      "userAgent": "local-readiness-check"
+    }
+  },
+  "body": "",
+  "isBase64Encoded": false
+}

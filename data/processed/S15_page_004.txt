@@ -1,0 +1,52 @@
+TA 6M: Waste Heat Recovery
+
+
+
+   Energy Use, Loss, and Opportunities Analysis3
+
+
+      The Energy Use, Loss, and Opportunities Analysis report3 describes total energy used by major
+      manufacturing sectors identified by North American Industry Classification System (NAICS) codes,
+      using Manufacturing Energy Consumption Survey (MECS) data published by the U.S. Energy
+      Information Administration (EIA) that were available at the time the report was prepared. MECS data
+      were used to estimate plant energy use for major function areas, as shown Figure 6.M.1, along with
+       associated subsystem losses. Subsystem losses were determined by applying equipment loss factors
+                                                                                     to the energy used in
+             Figure 6.M.1 Major Areas of Energy Use in a Manufacturing Plant3                                 selected functional
+                                                                                       categories within
+                                                  EnergyEnergy                                    the major energy                                                      ExportExport
+                                                                      consuming systems, as
+                                    Facilities/HVAC/Facilities/HVAC/ LightingLighting                                   shown in Table 6.M.2,
+               FossilFossil                                 Solar/Geo-Solar/Geo-                                                        including some that            EnergyEnergy
+            SupplySupply          thermal/Windthermal/WindEnergyEnergy                                        EnergyEnergy RecycleRecycle            generate waste heat.
+                                                                 ProcessProcess EnergyEnergy SystemsSystems
+                                                                                   Five of the twenty
+           EnergyEnergy                                   CentralCentral                                                EnergyEnergy                                                                  EnergyEnergy          ProcessProcess                                                                             energy savings            SupplySupply                                                                                   EnergyEnergy                              EnergyEnergy             DistributionDistribution                                                                   ConversionConversion                               Generation/Generation/                                         UseUse                opportunities
+                                            UtilitiesUtilities                                                            identified in the
+                   Utility/Utility/
+           PowerPower                  EnergyEnergy                         EnergyEnergy                      report were WHR
+              PlantPlant                   LossesLosses                         LossesLosses   TBDTBD                opportunities within                                                                                        IndustrialIndustrial PlantPlant BoundaryBoundary
+                                                                                  the plant boundaries.
+                                 InsideInside PlantPlant BoundaryBoundary           PlantPlant Operation/SystemOperation/System                       These include WHR
+                                                         ProcessProcess EnergyEnergy SystemSystem                       from: (1) gases and
+                                                                                         liquids in chemicals,
+      petroleum, and forest products, including hot gas cleanup and dehydration of liquid waste streams; (2)
+      drying processes; (3) gases in metals and non-metallic minerals manufacture (excluding calcining),
+       including hot gas cleanup; (4) calcining (not flue gases); and (5) metal quenching/cooling.
+
+
+            Table 6.M.2 Typical Energy Losses for Major Energy Systems in a Manufacturing Plant (1998)3
+
+                                                                                     Estimated Annual Energy        Energy System                               Percent Energy Lost                                                                                     Loss
+
+        Steam systems (generation + distribution)      30% - 35%                           2,220 TBtu
+       Power generation                       24% - 45%                        270 TBtu
+        Energy distribution (except steam)           ~ 3%                             340 TBtu
+        Energy conversion                      10% – 50%                           2,860 TBtu
+       Motor systems                         30% – 80%                           1,120 TBtu
+
+
+
+
+
+  3  Quadrennial Technology Review 2015

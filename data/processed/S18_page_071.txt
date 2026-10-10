@@ -1,0 +1,39 @@
+           Table 27. Additional Costs for Determining Total Capital Investment (TCI)
+Item                Description                                  Amount
+                                         Additional direct costs
+Warehouse           On-site storage of equipment and supplies.             4.0% of the
+                                                                                           installed cost of
+                                                                    ISBL equipment
+                                                                           (A200,300,400,500)
+Site development     Includes fencing, curbing, parking lot, roads, well       9% of ISBL
+                      drainage, rail system, soil borings, and general paving.
+                     This factor allows for minimum site development
+                   assuming a clear site with no unusual problems such as
+                        right-of-way, difficult land clearing, or unusual
+                     environmental problems.
+Additional piping     To  connect ISBL equipment  to  storage and  utilities  4.5% of ISBL
+                      outside the battery limits.
+                                                 Indirect costs
+Prorateable costs     This includes fringe benefits, burdens, and insurance of   10% of total direct
+                      the construction contractor.                                cost (TDC)
+Field expenses      Consumables, small tool and equipment rental, field      10% of TDC
+                       services, temporary construction facilities, and field
+                      construction supervision.
+Home office and      Engineering plus incidentals, purchasing, and          20% of TDC
+construction           construction.
+Project contingency   Extra cash on hand for unforeseen issues during        10% of TDC
+                       construction.
+Other costs           Start-up and commissioning costs. Land, rights-of-way,    10% of TDC
+                       permits, surveys, and fees. Piling, soil
+                     compaction/dewatering, unusual foundations. Sales, use,
+                  and other taxes. Freight, insurance in transit, and import
+                       duties on equipment, piping, steel, instrumentation, etc.
+                    Overtime pay during construction. Field insurance. Project
+                    team. Transportation equipment, bulk shipping containers,
+                       plant vehicles, etc.
+
+
+
+
+
+                                     61

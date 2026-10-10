@@ -1,0 +1,49 @@
+There is continuing interest in using lipases as enzymatic catalysts for the production of alkyl
+fatty acid esters. Some enzymes work on the triglyceride, converting them to methyl esters; and
+some work on the fatty acids. The commercial use of enzymes is currently limited to countries
+like Japan, where energy costs are high, or for the production of specialty chemicals from
+specific types of fatty acids. The commercial use of enzymes is limited because costs are high,
+the rate of reaction is slow, and yields to methyl esters are typically less than the 99.7% required
+for fuel-grade biodiesel. Enzymes are being considered for fatty acid conversion to biodiesel as a
+pretreatment step, but this system is not commercial at this time.
+
+Neutralizers are used to remove the base or acid catalyst from the product biodiesel and glycerol.
+If you are using a base catalyst, the neutralizer is typically an acid, and visa versa. If the
+biodiesel is being washed, the neutralizer can be added to the wash water. While hydrochloric
+acid is a common choice to neutralize base catalysts, as mentioned earlier, if phosphoric acid is
+used, the resulting salt has value as a chemical fertilizer.
+
+Catalyst Selection: Base catalysts are used for essentially all vegetable oil processing plants. The
+initial free fatty acid content and the water content are generally low. Tallows and greases with
+free fatty acid contents greater than about 1% must be pretreated to either remove the FFA or
+convert the FFA to esters before beginning the base catalyzed reaction. Otherwise, the base
+catalyst will react with the free fatty acids to form soap and water. The soap formation reaction is
+very fast and goes to completion before any esterification begins.
+
+Essentially all of the current commercial biodiesel producers use base catalyzed reactions. Base
+catalyzed reactions are relatively fast, with residence times from about 5 minutes to about 1 hour,
+depending on temperature, concentration, mixing and alcohol:triglyceride ratio. Most use NaOH
+or KOH as catalysts, although glycerol refiners prefer NaOH. KOH has a higher cost but the
+potassium can be precipitated as K3PO4, a fertilizer, when the products are neutralized using
+phosphoric acid. This can make meeting water effluent standards a bit more difficult because of
+limits on phosphate effluents.
+
+Sodium methoxide, usually as a 25 % solution in methanol, is a more powerful catalyst on a
+weight basis than the mixture of NaOH and methanol. This appears to be, in part, the result of
+the negative effect of the chemical water produced in situ when NaOH and methanol react to
+form sodium methoxide.
+
+Acid catalyst systems are characterized by slow reaction rates and high alcohol:TG requirements
+(20:1 and more). Generally, acid catalyzed reactions are used to convert FFAs to esters, or soaps
+to esters as a pretreatment step for high FFA feedstocks. Residence times from 10 minutes to
+about 2 hours are reported.
+
+Counter current acid esterification systems have been used for decades to convert pure streams of
+fatty acids into methyl esters at yields above 99%. These systems tend to force yields to 100%
+and wash water out of the system at the same time because the feedstock and the sulfuric
+acid/methanol mix are moving in opposite directions. Acid esterification systems produce a
+byproduct of water. In batch systems, the water tends to accumulate in the vessel to the point
+where it can shut the reaction down prematurely. The sulfuric acid tends to migrate into the
+
+
+                                      33

@@ -1,0 +1,62 @@
+        Table 3-7. Ultimate Analysis Data for Selected Pyrolysis Chars (Dry Basis, Weight Percent)
+
+                                                                               Higher Heating Value
+Material                C      H      N     5     0     Ash    (kJ/g)    (Btu/lb)   Reference
+Fir bark char                    49.9       4.0        0.1         0.1      24.5     21.4      1 9.2       8,260           (1 )
+Rice hull char                   36.0       2.6       0.4        0.1        1 1 .7     49.2      1 4.2       6,100           (1 )
+Grass straw char                51 .0      3.7       0.5       0.8      19.7     24.3      1 9.3       8,300           (1 )
+Animal waste char"              34.5       2.2          1 .9       0,9       7.9     48.8    12.6       5,450           (1 )
+Municipal solid waste char        54.9       0.8        1.1       0.2          1 .8     41.2      1 8.6       8,020          (2)
+   (high temperature)
+Redwood charcoal               75.6       3.3       0.2       0.2      18.4       2.3    28.8         1 2,400          (3)
+  (790' to 1020'F)
+Redwood charcoal               78.8       3.5       0.2       0.2        1 3.2        4.1    30.4      13,100          (3)
+   (860' to 1725'F)
+Oak charcoal                   67.7       2.4       0.4       0.2      14.4      14.9    24.7         1 0,660          (3)
+   (820' to 1 1 85'F)
+Oak charcoal (1 060'F)           64.6        2.1       0.4        0.1      15.5        1 7.3    23.0       9,910          (3)
+aContains 3.7% chlorine lumped with oxygen
+(1) Pober, K. W. and Bauer, H. F. 1977. ''The Nature of Pyrolytic Oil from-Municipal Solid Waste." Fuels from Waste. Anderson, L. L. and Tillman,
+    ,D. A" Editors. New York: Academic Press, pp. 73Ĕ86.
+(2) Sanner, W. S., Ortuglio, C., Walters, J. G., and Wolfson, D. E. 1970. Conversion of Municipal and Industrial Refuse into Useful Materials by
+    Pyrolysis. U.S. Bureau of Mines; Aug; R1 7428.
+(3) Boley, C. C. and Landers, W. S. 1969. Entrainment Drying and Carbonization of Wood Waste. Washington, D.C.: U.S. Bureau of Mines; Report
+    of Investigations 7282.
+Source: Reed 1981
+
+gas is because of charcoal's low volatile content. At the    and in downdraft gasifiers this process stops at char­
+beginning ofWorld War II, most gasifiers used charcoal.     ash.
+However, charcoal manufacture wastes approximately
+                                                      Charcoal durability depends on the resistance of the50% of the energy of biomass and usually requires
+                                                       charcoal to powdering (duffing) during transport orhardwood biomass as a starting material. By the end of
+                                                    char gasification. Ideally, the charcoal should maintainWorld War II, most gasifiers used wood instead of char­
+                                                                           its size until the carbon reaches the end of the reduc­coal (Gengas 1950). Today, a large number of gasifiers
+                                                           tion zone.   practice, a wide range of char particles arebuilt in the Philippines use charcoal, and charcoal is               In
+                                                  produced in the reduction zone, and these can cause aused in some other countries as well (Foley 1983;
+                                                       plugging problem if they are not removed. Stirring and   ·Kjellstrom 1983). It seems wise and probable that any
+                                                       augering out char and ash are effective techniques forlong-term development of biomass gasification will ul­
+                                                       preventing this plugging problem (Rogers 1985; Kaupptimately use biomass again, rather than charcoal.
+                                                          1984b). Figure 3-3 shows the char ash content as a func­
+As charcoalis converted to gas in a gasifier, the ash con­     tion of particle size and the relation between carbon
+tent rises. We use the term char-ash to describe the end     conversion and char size for a stratified-bed gasifier.
+product from char gasification; although the char-ash    The fuel starts as biomass (i-in. birch dowels) on the
+is still black, it may contain up to 50% ash. The incom­      far right of Fig. 3-3. Ash is 0.5% and carbon conversion
+ing oxygen/air/steam in updraft gasifiers contacts the      is zero, of course. After flaming pyrolysis half of the
+char-ash at the grate and burns out the carbon, leaving    carbon has been converted yet the resulting charcoal is
+a white ash. The principal problem in updraft gasifiers     only slightly smaller than its original size (25% - 35%
+is to avoid ash slagging (melting), since it will plug the     shrinkage). The char then undergoes gasification reac­
+grate. In downdraft gasifiers, the char-ash reacts with     tions with hot pyrolysis combustion products, which
+CO2 and H20, and is not contacted by oxygen so the    consume the carbon on both the surface and in the in­
+carbon is normally not completely consumed in a      terior of the particle. As interior carbon is consumed
+downdraft gasifier. The result is black char-ash with     the char shrinks, causing fractures, and the particle
+70% to 80% carbon. This carbon gives a good resis­      loses mechanical strength, causing crumbling. The
+tance to slagging. However, fuels with a high ash con­     small fragments are swept away by gas velocity. Return­
+tent can cause slagging in the area of the tuyeres, if they     ing to Fig. 3-3, we see a plateau after pyrolysis and that
+are used.                                               the char ash remains between 2% and 3% all the way
+                                          down to under 1000 Žm (1 mm) particle size, indicat­Thus in combustion and updraft gasifiers the fuel pas­
+                                                        ing that this size particle has not engaged in much char
+ses through the stages
+                                                                gasification. Below 500 /1l11 (0.5 mm) we see a second
+   Biomass ..... Charcoal ..... Char-Ash ..... Ash ..... Slag        plateau, indicating the end of char gasification, and
+
+14    Handbook of Biomass Downdraft Gasifier Engine Systems

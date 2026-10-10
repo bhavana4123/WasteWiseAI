@@ -1,0 +1,49 @@
+          7. Pretreatment of High Free Fatty Acid Feedstocks
+
+Many low cost feedstocks are available for biodiesel production. Unfortunately, many of these
+feedstocks contain large amounts of free fatty acids (FFAs). As discussed elsewhere, these free
+fatty acids will react with alkali catalysts to produce soaps that inhibit the reaction.
+
+The following ranges of FFA are commonly found in biodiesel feedstocks:
+
+Refined vegetable oils     < 0.05 %
+Crude vegetable oil          0.3 – 0.7%
+Restaurant waste grease     2 – 7%
+Animal fat               5 – 30%
+Trap grease               40 – 100%
+
+Generally, when the FFA level is less than 1%, and certainly if it is less than 0.5%, the FFAs can
+be ignored. Common catalyst amounts are:
+
+Sodium hydroxide:  1% of triglyceride weight
+Potassium hydroxide: 1% of triglyceride weight
+Sodium methoxide:  0.25% of triglycerides weight
+
+Soaps may allow emulsification that causes the separation of the glycerol and ester phases to be
+less sharp. Soap formation also produces water that can hydrolyze the triglycerides and
+contribute to the formation of more soap. Further, catalyst that has been converted to soap is no
+longer available to accelerate the reaction.
+
+When FFA levels are above 1%, it is possible to add extra alkali catalyst. This allows a portion
+of the catalyst to be devoted to neutralizing the FFAs by forming soap, while still leaving enough
+to act as the reaction catalyst.
+
+Since it takes one mole of catalyst to neutralize one mole of FFA, the amounts of additional
+catalyst can be calculated by the following formulas:
+
+Sodium hydroxide:   [%FFA](0.144) + 1 %
+Potassium hydroxide: [%FFA](0.197)/0.86 + 1 %
+Sodium methoxide:  [%FFA](0.190) + 0.25 %
+
+For example, when adding sodium methoxide to a feedstock with 1.5 % FFA, the amount of
+catalyst would be:
+                      (1.5)(0.190) + 0.25 % = 0.54 % of the triglycerides weight
+
+Note that a factor of 0.86 has been included with the potassium hydroxide calculation to reflect
+that reagent grade KOH is only 86% pure. If other grades of catalyst are used, this factor should
+be adjusted to their actual purity.
+
+
+
+
+                                      52
